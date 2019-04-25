@@ -77,3 +77,5 @@ def caculate_AP(arr):
     if relevan_len == 0:
         return 0
     return P_at_k / relevan_len
+
+t = word_tokenize('xin chào đồng bào cả nước', format='text')

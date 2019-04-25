@@ -212,23 +212,13 @@ def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors()
 
-    # Create a weight matrix for words in vocab (words in vocab is words used in data)
+    # Create a weight matrix for words in vocab
     # Row i is vector for word indexed i in vocab
     # words = vocab_df.index.values
     # when one-hot word, 0 is padding value and not have in vocab
-    # If word in vocab is not have pretrain vector, generate random vector
     embedding_weights = np.zeros((len(vocab_df) + 1, wordvector_dims), dtype=float)
-    word_not_have_pretrain = 0
-    word_have_pretrain = 0
     for word, row in vocab_df.iterrows():
-        if word in word_vector:
-            word_have_pretrain += 1
-            embedding_weights[row['onehot']] = word_vector.get(word)
-        else:
-            word_not_have_pretrain += 1
-            embedding_weights[row['onehot']] = np.random.uniform(-1, 1, wordvector_dims)
-    print('word have pretrain: ', word_have_pretrain)
-    print('word not have pretrain: ', word_not_have_pretrain)
+        embedding_weights[row['onehot']] = word_vector.get(word)
 
     org_q_input = Input(shape=(150,))
     related_q_input = Input(shape=(150,))
@@ -236,13 +226,14 @@ def get_model(vocab_df):
     embedding = Embedding(input_dim=len(vocab_df) + 1,
                           output_dim=wordvector_dims,
                           weights=[embedding_weights],
-                          trainable=False)
+                          trainable=False,
+                          mask_zero=True)
 
     org_q_embedding = embedding(org_q_input)
     related_q_embedding = embedding(related_q_input)
 
-    bi_lstm_1 = Bidirectional(LSTM(units=200, return_sequences=False))(org_q_embedding)
-    bi_lstm_2 = Bidirectional(LSTM(units=200, return_sequences=False))(related_q_embedding)
+    bi_lstm_1 = Bidirectional(LSTM(units=256, return_sequences=False))(org_q_embedding)
+    bi_lstm_2 = Bidirectional(LSTM(units=256, return_sequences=False))(related_q_embedding)
     # rnn1 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
     # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
 
@@ -270,7 +261,7 @@ def train(vocab_df):
     dev_org_q_onehot_list, dev_related_q_onehot_list, dev_label_list = onehot_data(vocab_df, dev_data_df,
                                                                                    padding=True, maxlen=150)
     test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
-                                                                                   padding=True, maxlen=150)
+                                                                                      padding=True, maxlen=150)
 
     dev_org_q_list = dev_data_df['org_q'].values
     dev_related_q_list = dev_data_df['related_q'].values
@@ -292,7 +283,7 @@ def train(vocab_df):
     callback_test_data = [test_org_q_list,
                           test_related_q_list,
                           test_label_list,
-                         [test_org_q_onehot_list, test_related_q_onehot_list]]
+                          [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
                      ModelCheckpoint('model_LSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
@@ -306,13 +297,17 @@ def train(vocab_df):
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
         Y,
-        epochs=100,
-        batch_size=160,
+        epochs=70,
+        batch_size=30,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
         verbose=1,
         callbacks=callback_list
     )
 
+    history = model.history.history
+    print(history)
+    with open('history1.json', 'w+') as fp:
+        json.dump(history, fp)
 
 def test(vocab_df):
     model = get_model(vocab_df)

@@ -162,63 +162,6 @@ def create_validation_data(X_dev, y_dev):
 # test_model()
 # load_raw_data()
 
-<<<<<<< HEAD
-=======
-def raw_to_file(strict=False, tokenize=False, separator='\t\t\t'):
-    # Raw data from json to csv like files
-    PATH_TRAIN_REGEX = './elastic/judged/train/*.json'
-    PATH_DEV_REGEX = './elastic/judged/dev/*.json'
-    PATH_TEST_REGEX = './elastic/judged/test/*.json'
-
-    PATH_USED = PATH_TRAIN_REGEX
-    PATH_RAW = 'data/dump.txt'
-
-    if PATH_USED == PATH_TRAIN_REGEX:
-        PATH_RAW = 'data/train.txt'
-    elif PATH_USED == PATH_DEV_REGEX:
-        PATH_RAW = 'data/dev.txt'
-    elif PATH_USED == PATH_TEST_REGEX:
-        PATH_RAW = 'data/test.txt'
-
-    path_judgeds = glob.glob(PATH_USED)
-    with open(PATH_RAW, 'w+') as raw_file:
-        for path_judged in path_judgeds:
-            with open(path_judged, 'r') as file_judged:
-                judged_result = json.load(file_judged)
-
-                origin_question = judged_result['origin_question']
-                origin_question = convenion.customize_string(origin_question)
-                id_origin_q = judged_result['id_query']
-
-                for hit in judged_result['hits']:
-                    judged_question = hit['question']
-                    judged_question = convenion.customize_string(judged_question)
-                    id_judged_q = hit['id']
-                    score_search = hit['score']
-                    label = '0'
-                    if hit['relate_q_q'] == 2:
-                        label = '1'
-                    elif hit['relate_q_q'] == 1 and not strict:
-                        label = '1'
-                    # print(hit['question'])
-                    # print(hit['relate_q_q'])
-                    # print(label)
-                    # test = origin_question + '\t' + judged_question + '\t' + label
-                    # print(test)
-
-                    # Use it if raw test file with more information
-                    # raw_file.write(id_origin_q + '\t' + origin_question + '\t' + judged_question + '\t' + label +
-                    #                '\t' + str(score_search) + '\n')
-
-                    # Default test file
-                    raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
-    raw_file.close()
-
-
-raw_to_file(strict=False, tokenize=True, separator='\t')
-
-
->>>>>>> parent of 87789ce... more judged
 def evaluate_classify_model():
     test_df = pd.read_csv('data/test-more-info.txt',
                           sep='\t',
@@ -294,3 +237,8 @@ def evaluate_classify_model():
 
 
 # mAP_df = evaluate_classify_model()
+
+doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
+vec1 = doc2vec_model.infer_vector()
+t = doc2vec_model.similarity('trả góp 30 % thì sao a', 'e mua trả_góp trả trước 30 % nhưng muốn trả_góp trong 6 tháng '
+                                                    'thì chênh_lệch thế_nào ạ')

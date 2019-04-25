@@ -3,7 +3,7 @@ import numpy as np
 from underthesea import word_tokenize
 from keras.layers import LSTM, Input, Dense, Dropout, concatenate, CuDNNLSTM, BatchNormalization, SimpleRNN
 from keras.layers.wrappers import Bidirectional
-from keras.models import Model, Sequential
+from keras.models import Model, Sequential, load_model
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.optimizers import Adam
 from keras.callbacks import Callback
@@ -15,10 +15,10 @@ import random
 import json
 
 
-PATH_DATA_TRAIN = 'data/train.txt'
-PATH_DATA_DEV = 'data/dev.txt'
-PATH_DATA_TEST = 'data/test.txt'
-PATH_DATA_TEST_SMALL = 'data/small-test.txt'
+PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
+PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
+PATH_DATA_TEST = 'data/pool1/raw/test.txt'
+PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
 PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
@@ -225,13 +225,14 @@ def get_model(vocab_df):
     embedding = Embedding(input_dim=len(vocab_df) + 1,
                           output_dim=wordvector_dims,
                           weights=[embedding_weights],
-                          trainable=False)
+                          trainable=False,
+                          mask_zero=True)
 
     org_q_embedding = embedding(org_q_input)
     related_q_embedding = embedding(related_q_input)
 
-    bi_lstm_1 = Bidirectional(LSTM(units=200, return_sequences=False))(org_q_embedding)
-    bi_lstm_2 = Bidirectional(LSTM(units=200, return_sequences=False))(related_q_embedding)
+    bi_lstm_1 = Bidirectional(LSTM(units=256, return_sequences=False))(org_q_embedding)
+    bi_lstm_2 = Bidirectional(LSTM(units=256, return_sequences=False))(related_q_embedding)
     # rnn1 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
     # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
 
@@ -250,16 +251,16 @@ def get_model(vocab_df):
 
 
 def train(vocab_df):
-    train_data_df = get_and_preprocess_data(PATH_DATA_TEST_SMALL, separator='\t')
-    dev_data_df = get_and_preprocess_data(PATH_DATA_TEST_SMALL, separator='\t')
-    test_data_df = get_and_preprocess_data(PATH_DATA_TEST_SMALL, separator='\t')
+    train_data_df = get_and_preprocess_data(PATH_DATA_TRAIN, separator='\t')
+    dev_data_df = get_and_preprocess_data(PATH_DATA_DEV, separator='\t')
+    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
 
     train_org_q_onehot_list, train_related_q_onehot_list, train_label_list = onehot_data(vocab_df, train_data_df,
                                                                                          padding=True, maxlen=150)
     dev_org_q_onehot_list, dev_related_q_onehot_list, dev_label_list = onehot_data(vocab_df, dev_data_df,
                                                                                    padding=True, maxlen=150)
     test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
-                                                                                   padding=True, maxlen=150)
+                                                                                      padding=True, maxlen=150)
 
     dev_org_q_list = dev_data_df['org_q'].values
     dev_related_q_list = dev_data_df['related_q'].values
@@ -281,7 +282,7 @@ def train(vocab_df):
     callback_test_data = [test_org_q_list,
                           test_related_q_list,
                           test_label_list,
-                         [test_org_q_onehot_list, test_related_q_onehot_list]]
+                          [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
                      ModelCheckpoint('model_LSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
@@ -295,8 +296,8 @@ def train(vocab_df):
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
         Y,
-        epochs=2,
-        batch_size=160,
+        epochs=70,
+        batch_size=30,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
         verbose=1,
         callbacks=callback_list
@@ -334,5 +335,7 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 vocab_df['onehot'] += 1
 
 # get_model(vocab_df)
-train(vocab_df)
+# train(vocab_df)
 # test(vocab_df)
+
+model = load_model('model_LSTM-22-0.50.h5')

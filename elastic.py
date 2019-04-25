@@ -11,6 +11,10 @@ from pandas import DataFrame, Series
 import sklearn
 import shutil
 
+from gensim.utils import simple_preprocess
+from gensim.models.doc2vec import TaggedDocument, Doc2Vec
+from underthesea import word_tokenize
+
 
 PATH_QUESTION_ANSWER = '/Users/tienthanh/Projects/ML/datapool/tgdd_qa/iphone-6-32gb-gold.jl'
 # PATH_QUESTION_ANSWER = '/Users/tienthanh/Projects/ML/datapool/tgdd_qa/QA-example.jl'
@@ -158,7 +162,8 @@ def split_data():
         shutil.copyfile(path, destination_dict + '/' + filename)
 
 
-def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=None):
+def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=None, more_info=False,
+                explicit_path_use=None, explicit_path_raw=None):
     # Raw all judged result in specific path to a text file
     # Modify PATH_USED
     # Raw data from json to csv like files
@@ -166,7 +171,7 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     PATH_DEV_REGEX = 'data/pool1/dev/*.json'
     PATH_TEST_REGEX = 'data/pool1/test/*.json'
 
-    PATH_USED = PATH_TEST_REGEX
+    PATH_USED = PATH_TRAIN_REGEX
     PATH_RAW = 'data/dump.txt'
 
     if PATH_USED == PATH_TRAIN_REGEX:
@@ -176,6 +181,21 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     elif PATH_USED == PATH_TEST_REGEX:
         PATH_RAW = 'data/pool1/raw/test.txt'
 
+    if more_info:
+        if PATH_USED == PATH_TRAIN_REGEX:
+            PATH_RAW = 'data/pool1/raw/train-moreinfo.txt'
+        elif PATH_USED == PATH_DEV_REGEX:
+            PATH_RAW = 'data/pool1/raw/dev-more-info.txt'
+        elif PATH_USED == PATH_TEST_REGEX:
+            PATH_RAW = 'data/pool1/raw/test-more-info.txt'
+
+    if explicit_path_use is not None:
+        PATH_USED = explicit_path_use
+        PATH_RAW = explicit_path_raw
+
+
+    doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
+
     path_judgeds = glob.glob(PATH_USED)
     with open(PATH_RAW, 'w+') as raw_file:
         for path_judged in path_judgeds:
@@ -183,15 +203,23 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                 judged_result = json.load(file_judged)
 
                 origin_question = judged_result['origin_question']
-                origin_question = convenion.customize_string(origin_question)
+                # origin_question = convenion.customize_string(origin_question)
                 id_origin_q = judged_result['id_query']
-
+                max_score = judged_result['max_score']
                 current_judged = 0
                 for hit in judged_result['hits']:
                     judged_question = hit['question']
-                    judged_question = convenion.customize_string(judged_question)
+                    # judged_question = convenion.customize_string(judged_question)
                     id_judged_q = hit['id']
                     score_search = hit['score']
+
+                    elastic_similar = (max_score - score_search) / max_score
+
+                    vec_org_q = doc2vec_model.infer_vector(
+                        simple_preprocess(word_tokenize(origin_question, format='text')))
+                    vec_related_q = doc2vec_model.infer_vector(
+                        simple_preprocess(word_tokenize(judged_question, format='text')))
+                    cosin_distance = doc2vec_model.wv.cosine_similarities(vec_org_q, np.array([vec_related_q]))[0]
 
                     label = '0'
                     if hit['relate_q_q'] == 0:
@@ -211,12 +239,22 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     #                '\t' + str(score_search) + '\n')
 
                     # Default test file
-                    raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
+                    if not more_info:
+                        raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
 
-                    current_judged += 1
-                    if max_judged is not None:
-                        if current_judged >= max_judged:
-                            break
+                        current_judged += 1
+                        if max_judged is not None:
+                            if current_judged >= max_judged:
+                                break
+                    else:
+                        # print('more info')
+                        raw_file.write(origin_question + separator + judged_question + separator + label + separator
+                                       + str(elastic_similar) + separator + str(cosin_distance) + '\n')
+
+                        current_judged += 1
+                        if max_judged is not None:
+                            if current_judged >= max_judged:
+                                break
     raw_file.close()
 
 
@@ -329,8 +367,8 @@ def caculate_AP(path, strict, dict_path):
                                                             convenion.caculate_AP(arr_denote_top10),
                                                             num_related)
         print(newname)
-        os.rename(path, dict_path + '/' + newname)
-        return convenion.caculate_AP(arr_denote_all)
+        # os.rename(path, dict_path + '/' + newname)
+        return convenion.caculate_AP(arr_denote_top10)
 
 
 def caculate_mAP(dict_path, strict=False):
@@ -358,7 +396,9 @@ def train_dev_test_split(X):
 # raw_query_pool()
 # search_by_query_pool()
 # statistic_search_result()
-caculate_mAP('elastic/judged/tmp', strict=False)
+# caculate_mAP('data/pool1/train', strict=False)
 
 
-# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=30)
+raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
+            explicit_path_use='elastic/judged/ezquestion/*.json',
+            explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
