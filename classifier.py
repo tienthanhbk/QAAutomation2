@@ -237,8 +237,3 @@ def evaluate_classify_model():
 
 
 # mAP_df = evaluate_classify_model()
-
-doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
-vec1 = doc2vec_model.infer_vector()
-t = doc2vec_model.similarity('trả góp 30 % thì sao a', 'e mua trả_góp trả trước 30 % nhưng muốn trả_góp trong 6 tháng '
-                                                    'thì chênh_lệch thế_nào ạ')

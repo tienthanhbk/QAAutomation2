@@ -258,14 +258,14 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     raw_file.close()
 
 
-def search_by_query_pool():
-    with open('elastic/query_pool.json') as f:
+def search_by_query_pool(path_query_pool='elastic/query_pool.json', path_raw_result='./elastic/search_result/'):
+    with open(path_query_pool) as f:
         queries = json.load(f)
         for query_obj in queries:
             if query_obj['searched'] != 0:
                 continue
             raw_result = get_search_result(query_obj)
-            path = './elastic/search_result/' + str(query_obj['id']) + '.json'
+            path = path_raw_result + str(query_obj['id']) + '.json'
             with open(path, 'w') as outfile:
                 json.dump(raw_result, outfile)
 
@@ -367,7 +367,7 @@ def caculate_AP(path, strict, dict_path):
                                                             convenion.caculate_AP(arr_denote_top10),
                                                             num_related)
         print(newname)
-        # os.rename(path, dict_path + '/' + newname)
+        os.rename(path, dict_path + '/' + newname)
         return convenion.caculate_AP(arr_denote_top10)
 
 
@@ -394,11 +394,15 @@ def train_dev_test_split(X):
     return train, dev, test
 
 # raw_query_pool()
-# search_by_query_pool()
+# search_by_query_pool(path_query_pool='elastic/query_pool_2.json', path_raw_result='elastic/judged/pool2/')
 # statistic_search_result()
-# caculate_mAP('data/pool1/train', strict=False)
+# caculate_mAP('elastic/judged/pool2', strict=False)
 
 
-raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
-            explicit_path_use='elastic/judged/ezquestion/*.json',
-            explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
+# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
+#             explicit_path_use='elastic/judged/ezquestion/*.json',
+#             explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
+
+raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=30, more_info=False,
+            explicit_path_use='elastic/judged/pool2/split1/test/*.json',
+            explicit_path_raw='elastic/judged/pool2/split1/test.txt')

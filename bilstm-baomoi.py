@@ -159,22 +159,22 @@ class AnSelCB(Callback):
     #     self.val_y = y
     #     self.val_inputs = inputs
 
-    def __init__(self, val_data, dev_data=None, test_data=None):
-        # super().__init__()
+    def __init__(self, val_data, train_data=None, test_data=None):
+        super().__init__()
         self.val_q = val_data[0]
         self.val_s = val_data[1]
         self.val_y = val_data[2]
         self.val_inputs = val_data[3]
 
-        self.dev_q = None
-        self.dev_s = None
-        self.dev_y = None
-        self.dev_inputs = None
-        if dev_data is not None:
-            self.dev_q = dev_data[0]
-            self.dev_s = dev_data[1]
-            self.dev_y = dev_data[2]
-            self.dev_inputs = dev_data[3]
+        self.train_q = None
+        self.train_s = None
+        self.train_y = None
+        self.train_inputs = None
+        if train_data is not None:
+            self.train_q = train_data[0]
+            self.train_s = train_data[1]
+            self.train_y = train_data[2]
+            self.train_inputs = train_data[3]
 
         self.test_q = None
         self.test_s = None
@@ -193,12 +193,12 @@ class AnSelCB(Callback):
         logs['val_mrr'] = val_mrr__
         logs['val_map'] = val_map__
 
-        if self.dev_inputs is not None:
-            dev_pred = self.model.predict(self.dev_inputs)
-            dev_map__, dev_mrr__ = map_score(self.dev_q, self.dev_s, dev_pred, self.dev_y)
-            print('dev MRR %f; dev MAP %f' % (dev_mrr__, dev_map__))
-            logs['dev_mrr'] = dev_mrr__
-            logs['dev_map'] = dev_map__
+        if self.train_inputs is not None:
+            train_pred = self.model.predict(self.train_inputs)
+            train_map__, train_mrr__ = map_score(self.train_q, self.train_s, train_pred, self.train_y)
+            print('train MRR %f; train MAP %f' % (train_mrr__, train_map__))
+            logs['train_mrr'] = train_mrr__
+            logs['train_map'] = train_map__
 
         if self.test_inputs is not None:
             test_pred = self.model.predict(self.test_inputs)
@@ -306,7 +306,7 @@ def train(vocab_df):
 
     history = model.history.history
     print(history)
-    with open('history1.json', 'w+') as fp:
+    with open('history.json', 'w+') as fp:
         json.dump(history, fp)
 
 def test(vocab_df):

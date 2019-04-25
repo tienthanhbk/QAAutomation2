@@ -15,13 +15,15 @@ import random
 import json
 
 
-PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
-PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
-PATH_DATA_TEST = 'data/pool1/raw/test.txt'
+PATH_DATA_TRAIN = 'elastic/judged/pool2/split1/train.txt'
+PATH_DATA_DEV = 'elastic/judged/pool2/split1/dev.txt'
+PATH_DATA_TEST = 'elastic/judged/pool2/split1/test.txt'
+
 PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
 PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
+maxlen_input = 150
 
 
 def customize_string(string):
@@ -158,22 +160,22 @@ class AnSelCB(Callback):
     #     self.val_y = y
     #     self.val_inputs = inputs
 
-    def __init__(self, val_data, dev_data=None, test_data=None):
-        # super().__init__()
+    def __init__(self, val_data, train_data=None, test_data=None):
+        super().__init__()
         self.val_q = val_data[0]
         self.val_s = val_data[1]
         self.val_y = val_data[2]
         self.val_inputs = val_data[3]
 
-        self.dev_q = None
-        self.dev_s = None
-        self.dev_y = None
-        self.dev_inputs = None
-        if dev_data is not None:
-            self.dev_q = dev_data[0]
-            self.dev_s = dev_data[1]
-            self.dev_y = dev_data[2]
-            self.dev_inputs = dev_data[3]
+        self.train_q = None
+        self.train_s = None
+        self.train_y = None
+        self.train_inputs = None
+        if train_data is not None:
+            self.train_q = train_data[0]
+            self.train_s = train_data[1]
+            self.train_y = train_data[2]
+            self.train_inputs = train_data[3]
 
         self.test_q = None
         self.test_s = None
@@ -192,12 +194,12 @@ class AnSelCB(Callback):
         logs['val_mrr'] = val_mrr__
         logs['val_map'] = val_map__
 
-        if self.dev_inputs is not None:
-            dev_pred = self.model.predict(self.dev_inputs)
-            dev_map__, dev_mrr__ = map_score(self.dev_q, self.dev_s, dev_pred, self.dev_y)
-            print('dev MRR %f; dev MAP %f' % (dev_mrr__, dev_map__))
-            logs['dev_mrr'] = dev_mrr__
-            logs['dev_map'] = dev_map__
+        if self.train_inputs is not None:
+            train_pred = self.model.predict(self.train_inputs)
+            train_map__, train_mrr__ = map_score(self.train_q, self.train_s, train_pred, self.train_y)
+            print('train MRR %f; train MAP %f' % (train_mrr__, train_map__))
+            logs['train_mrr'] = train_mrr__
+            logs['train_map'] = train_map__
 
         if self.test_inputs is not None:
             test_pred = self.model.predict(self.test_inputs)
@@ -219,8 +221,8 @@ def get_model(vocab_df):
     for word, row in vocab_df.iterrows():
         embedding_weights[row['onehot']] = word_vector.get(word)
 
-    org_q_input = Input(shape=(150,))
-    related_q_input = Input(shape=(150,))
+    org_q_input = Input(shape=(maxlen_input,))
+    related_q_input = Input(shape=(maxlen_input,))
 
     embedding = Embedding(input_dim=len(vocab_df) + 1,
                           output_dim=wordvector_dims,
@@ -231,8 +233,8 @@ def get_model(vocab_df):
     org_q_embedding = embedding(org_q_input)
     related_q_embedding = embedding(related_q_input)
 
-    bi_lstm_1 = Bidirectional(LSTM(units=256, return_sequences=False))(org_q_embedding)
-    bi_lstm_2 = Bidirectional(LSTM(units=256, return_sequences=False))(related_q_embedding)
+    bi_lstm_1 = Bidirectional(LSTM(units=4, return_sequences=False))(org_q_embedding)
+    bi_lstm_2 = Bidirectional(LSTM(units=4, return_sequences=False))(related_q_embedding)
     # rnn1 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
     # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
 
@@ -256,11 +258,11 @@ def train(vocab_df):
     test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
 
     train_org_q_onehot_list, train_related_q_onehot_list, train_label_list = onehot_data(vocab_df, train_data_df,
-                                                                                         padding=True, maxlen=150)
+                                                                                         padding=True, maxlen=maxlen_input)
     dev_org_q_onehot_list, dev_related_q_onehot_list, dev_label_list = onehot_data(vocab_df, dev_data_df,
-                                                                                   padding=True, maxlen=150)
+                                                                                   padding=True, maxlen=maxlen_input)
     test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
-                                                                                      padding=True, maxlen=150)
+                                                                                      padding=True, maxlen=maxlen_input)
 
     dev_org_q_list = dev_data_df['org_q'].values
     dev_related_q_list = dev_data_df['related_q'].values
@@ -285,9 +287,9 @@ def train(vocab_df):
                           [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     ModelCheckpoint('model_LSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
+                     ModelCheckpoint('biLSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
                                      save_best_only=True, mode='max'),
-                     EarlyStopping(monitor='val_map', mode='max', patience=20)]
+                     EarlyStopping(monitor='val_map', mode='max', patience=10)]
 
     model = get_model(vocab_df)
 
@@ -296,8 +298,8 @@ def train(vocab_df):
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
         Y,
-        epochs=70,
-        batch_size=30,
+        epochs=50,
+        batch_size=15,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
         verbose=1,
         callbacks=callback_list
@@ -305,21 +307,21 @@ def train(vocab_df):
 
     history = model.history.history
     print(history)
-    with open('history1.json', 'w+') as fp:
+    with open('history.json', 'w+') as fp:
         json.dump(history, fp)
 
 
 def test(vocab_df):
     model = get_model(vocab_df)
-    model.load_weights('biLSTM-23-0.31-1.00.h5')
+    model.load_weights('biLSTM-16-0.97.h5')
 
-    test_data_df = get_and_preprocess_data(PATH_DATA_TEST_SMALL, separator='\t')
+    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
 
     test_org_q_list = test_data_df['org_q'].values
     test_related_q_list = test_data_df['related_q'].values
 
     test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
-                                                                                   padding=True, maxlen=150)
+                                                                                   padding=True, maxlen=maxlen_input)
 
     predictions = model.predict([test_org_q_onehot_list, test_related_q_onehot_list])
 
@@ -335,7 +337,5 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 vocab_df['onehot'] += 1
 
 # get_model(vocab_df)
-# train(vocab_df)
+train(vocab_df)
 # test(vocab_df)
-
-model = load_model('model_LSTM-22-0.50.h5')
