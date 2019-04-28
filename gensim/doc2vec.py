@@ -50,16 +50,16 @@ def train_model():
 
 def test_model():
     doc2vec_model = model = Doc2Vec.load('gensim/model/question.d2v')
-    print(model.wv.most_similar('pin'))
+    print(model.wv.most_similar('pin - sạc'))
     print(model.wv.most_similar('ip'))
-    print(model.wv.most_similar('loa'))
+    print(model.wv.most_similar('loa - âm thanh'))
     # print(model.infer_vector(['còn', 'hàng', 'không']))
 
 
 def raw_my_vectors_to_file(model):
     word_vectors = model.wv
 
-    word_vectors.word_vec('pin')
+    word_vectors.word_vec('pin - sạc')
     with open('data/word-vector/vectors_baomoi.txt', 'w+') as f:
         vocab = model.wv.vocab
         for key, _ in vocab.items():

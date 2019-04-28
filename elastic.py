@@ -139,27 +139,48 @@ def raw_query_pool():
             json.dump(queries, outfile)
 
 
+def train_dev_test_split(X):
+    train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 6, shuffle=True)
+    train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 5, shuffle=True)
+    return train, dev, test
+
+
 def split_data():
     # Split judged results to 3 set: train, dev, test and save them to a specific dict
     # judged is separated with earch other and need to raw to one text file
-    paths = glob.glob('elastic/judged/tmp/*.json')
+    paths = glob.glob('elastic/judged/tmp/trả góp/*.json')
 
     train_paths, dev_paths, test_paths = train_dev_test_split(paths)
 
     for path in train_paths:
-        destination_dict = 'data/pool1/train'
+        destination_dict = 'data/tmp/train'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in dev_paths:
-        destination_dict = 'data/pool1/dev'
+        destination_dict = 'data/tmp/dev'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in test_paths:
-        destination_dict = 'data/pool1/test'
+        destination_dict = 'data/tmp/test'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
+
+
+def raw_pool(kind='train', pool='pool2', max_judged=30, strict=False):
+    # Change kind variable to train, dev, test
+    # kind: train, dex, test
+    # pool: pool1 - pool10
+    explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
+    explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
+
+    raw_to_file(strict=strict,
+                separator='\t',
+                max_judged=max_judged,
+                more_info=False,
+                explicit_path_use=explicit_path_use,
+                explicit_path_raw=explicit_path_raw)
 
 
 def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=None, more_info=False,
@@ -193,7 +214,6 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
         PATH_USED = explicit_path_use
         PATH_RAW = explicit_path_raw
 
-
     doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
 
     path_judgeds = glob.glob(PATH_USED)
@@ -224,6 +244,9 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     label = '0'
                     if hit['relate_q_q'] == 0:
                         continue
+
+                    current_judged += 1
+
                     if hit['relate_q_q'] == 2:
                         label = '1'
                     elif hit['relate_q_q'] == 1 and not strict:
@@ -239,22 +262,28 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     #                '\t' + str(score_search) + '\n')
 
                     # Default test file
+
+                    if max_judged is not None:
+                        if current_judged > max_judged:
+                            break
+
                     if not more_info:
                         raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
 
-                        current_judged += 1
-                        if max_judged is not None:
-                            if current_judged >= max_judged:
-                                break
+                        # current_judged += 1
+                        # if max_judged is not None:
+                        #     if current_judged >= max_judged:
+                        #         break
                     else:
                         # print('more info')
                         raw_file.write(origin_question + separator + judged_question + separator + label + separator
                                        + str(elastic_similar) + separator + str(cosin_distance) + '\n')
-
-                        current_judged += 1
-                        if max_judged is not None:
-                            if current_judged >= max_judged:
-                                break
+                        #
+                        # current_judged += 1
+                        # if max_judged is not None:
+                        #     if current_judged >= max_judged:
+                        #         break
+                file_judged.close()
     raw_file.close()
 
 
@@ -388,21 +417,22 @@ def caculate_mAP(dict_path, strict=False):
     print('sort: ', np.sort(nparr_AP))
 
 
-def train_dev_test_split(X):
-    train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 6)
-    train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 5)
-    return train, dev, test
-
 # raw_query_pool()
 # search_by_query_pool(path_query_pool='elastic/query_pool_2.json', path_raw_result='elastic/judged/pool2/')
 # statistic_search_result()
-# caculate_mAP('elastic/judged/pool2', strict=False)
+caculate_mAP('data/tmp/train', strict=True)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
 #             explicit_path_use='elastic/judged/ezquestion/*.json',
 #             explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
 
-raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=30, more_info=False,
-            explicit_path_use='elastic/judged/pool2/split1/test/*.json',
-            explicit_path_raw='elastic/judged/pool2/split1/test.txt')
+# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=30, more_info=False,
+#             explicit_path_use='elastic/judged/pool2/split1/test/*.json',
+#             explicit_path_raw='elastic/judged/pool2/split1/test.txt')
+
+# split_data()
+def tmp():
+    raw_pool(kind='train', pool='tmp', max_judged=10, strict=True)
+    raw_pool(kind='dev', pool='tmp', max_judged=10, strict=True)
+    raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)

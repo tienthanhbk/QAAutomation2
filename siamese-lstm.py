@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from underthesea import word_tokenize
-from keras.layers import LSTM, Input, Dense, Dropout, concatenate, CuDNNLSTM, BatchNormalization, SimpleRNN
+from keras.layers import LSTM, Input, Dense, Dropout, concatenate, CuDNNLSTM, BatchNormalization, SimpleRNN, Layer
 from keras.layers.wrappers import Bidirectional
 from keras.models import Model, Sequential, load_model
 from keras.callbacks import EarlyStopping, ModelCheckpoint
@@ -10,6 +10,8 @@ from keras.callbacks import Callback
 from keras import regularizers
 from keras.preprocessing.sequence import pad_sequences
 from keras.layers.embeddings import Embedding
+from keras import backend as K
+
 import re
 import random
 import json
@@ -24,6 +26,8 @@ PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
 maxlen_input = 150
+
+num_units = 4
 
 
 def customize_string(string):
@@ -209,6 +213,30 @@ class AnSelCB(Callback):
             logs['test_map'] = test_map__
 
 
+class ManDist(Layer):
+    """
+    Keras Custom Layer that calculates Manhattan Distance.
+    """
+
+    # initialize the layer, No need to include inputs parameter!
+    def __init__(self, **kwargs):
+        self.result = None
+        super(ManDist, self).__init__(**kwargs)
+
+    # input_shape will automatic collect input shapes to build layer
+    def build(self, input_shape):
+        super(ManDist, self).build(input_shape)
+
+    # This is where the layer's logic lives.
+    def call(self, x, **kwargs):
+        self.result = K.exp(-K.sum(K.abs(x[0] - x[1]), axis=1, keepdims=True))
+        return self.result
+
+    # return output shape
+    def compute_output_shape(self, input_shape):
+        return K.int_shape(self.result)
+
+
 def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors()
@@ -232,24 +260,23 @@ def get_model(vocab_df):
 
     org_q_embedding = embedding(org_q_input)
     # org_q_embedding = Dropout(0.5)(org_q_embedding)
+
     related_q_embedding = embedding(related_q_input)
     # related_q_embedding = Dropout(0.5)(related_q_embedding)
 
-    bi_lstm_1 = Bidirectional(LSTM(units=4, return_sequences=False))(org_q_embedding)
-    bi_lstm_2 = Bidirectional(LSTM(units=4, return_sequences=False))(related_q_embedding)
-    # rnn1 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
-    # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
+    shared_lstm = LSTM(units=num_units, return_sequences=False)
 
-    q_concat = concatenate([bi_lstm_1, bi_lstm_2])
-    # q_concat = concatenate([rnn1, rnn2])
+    lstm_output_1 = shared_lstm(org_q_embedding)
+    lstm_output_2 = shared_lstm(related_q_embedding)
 
-    dense1 = Dense(64, activation='relu')(q_concat)
-    prediction = Dense(1, activation='sigmoid')(dense1)
-    # prediction = Dropout(0.5)(prediction)
+    output = ManDist()([lstm_output_1, lstm_output_2])
+    # output = Dropout(0.5)(output)
 
-    training_model = Model(inputs=[org_q_input, related_q_input], outputs=prediction, name='training_model')
-    opt = Adam(lr=0.001)
-    training_model.compile(loss='binary_crossentropy', optimizer=opt)
+    training_model = Model(inputs=[org_q_input, related_q_input],
+                           outputs=output,
+                           name='training_model')
+    # opt = Adam(lr=0.001)
+    training_model.compile(loss='mean_squared_error', optimizer=Adam(), metrics=['accuracy'])
 
     print(training_model.summary())
     return training_model
@@ -290,7 +317,7 @@ def train(vocab_df):
                           [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     ModelCheckpoint('biLSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
+                     ModelCheckpoint('siameselstm-dropout-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
                                      save_best_only=True, mode='max'),
                      EarlyStopping(monitor='val_map', mode='max', patience=10)]
 
@@ -310,7 +337,7 @@ def train(vocab_df):
 
     history = model.history.history
     print(history)
-    with open('concat-bilstm.json', 'w+') as fp:
+    with open('siamese-lstm-dropout.json', 'w+') as fp:
         json.dump(history, fp)
 
 

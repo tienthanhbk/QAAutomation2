@@ -59,4 +59,4 @@ def visualize_feature():
     plt.show()
 
 
-visualize_history('history.json')
+visualize_history('concat-bilstm.json')

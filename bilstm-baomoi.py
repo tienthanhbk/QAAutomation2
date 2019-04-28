@@ -306,7 +306,7 @@ def train(vocab_df):
 
     history = model.history.history
     print(history)
-    with open('history.json', 'w+') as fp:
+    with open('bilstm-30q.json', 'w+') as fp:
         json.dump(history, fp)
 
 def test(vocab_df):
