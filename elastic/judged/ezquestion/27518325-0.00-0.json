@@ -1,0 +1,1465 @@
+{
+  "id_query": "27518325",
+  "total": 21932,
+  "total_current": 200,
+  "max_score": 96.6124,
+  "origin_question": "giá online là đặt qua mạng rồi đến lấy đc không, cho mình hỏi bộ nhớ dung lượng máy ngoài các phần có sẵn trong máy thì bộ nhớ trống còn lại để dùng là bao nhiêu",
+  "hits": [
+    {
+      "score": 53.748913,
+      "id": "25175579",
+      "field_search": "question",
+      "question": "Máy này có ram trống và bộ nhớ trong còn lại là bao nhiêu ?",
+      "answer": "Chào bạn Sản phẩm có bộ nhớ trong khả dụng khoảng 27GB và RAM khả dụng khoảng 400MB bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 48.22484,
+      "id": "24276836",
+      "field_search": "question",
+      "question": "Cho em hỏi bộ nhớ máy trống còn bao nhiêu ạ",
+      "answer": "Chào bạn Dạ bộ nhớ khả dụng của máy còn khoảng 26GB bạn nhé.Thông tin đến bạn .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 47.65652,
+      "id": "27810091",
+      "field_search": "question",
+      "question": "Cho hỏi . Máy có thể chuyển dung lượng sang bộ nhớ ngoài đc k ạ",
+      "answer": "Chào bạn, Điện thoại iPhone thì không hỗ trợ thẻ nhớ nên không chuyển ứng dụng ra ngoài bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 46.836178,
+      "id": "17938437",
+      "field_search": "question",
+      "question": "Bộ nhớ trống là bao nhiêu ạ?",
+      "answer": "Chào bạn ! iPhone 6 32GB có bộ nhớ khá dụng khoảng 26GB bạn nhé.Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 46.742313,
+      "id": "22046264",
+      "field_search": "question",
+      "question": "Bộ nhớ RAM và bộ nhớ trong khả dụng là bao nhiêu Ad  .?,Bộ nhớ RAM và bộ nhớ trong khả dụng là bao nhiêu Ad  .?",
+      "answer": "Chào bạn, Điện thoại này có bộ nhớ trong khả dụng khoảng 27GB và RAM khả dụng khoảng bạn nhé .Với iPhone bạn không cần phải quan tâm đến RAM khả dụng vì RAM luôn được hệ điều hành iOS tối ưu tối đa nên dù có RAM ít nhưng máy chạy vẫn mượt mà nhé bạn  .Thông tin đến bạn .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 46.331066,
+      "id": "24434151",
+      "field_search": "question",
+      "question": "bộ nhớ còn lại của máy là bao nhiêu ạ ?",
+      "answer": "Chào bạn,",
+      "relate_q_q": 1
+    },
+    {
+      "score": 46.063293,
+      "id": "27700005",
+      "field_search": "question",
+      "question": "Cho e hỏi iphone bộ nhớ 16gb thì bộ nhớ khả dụng còn lại là bao nhiu ạ",
+      "answer": "Chào bạn,Trường hợp này thì máy sẽ khả dụng vào khoảng 11GB nha bạn. Xin thông tin đến bạn ạ !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 44.967102,
+      "id": "27640791",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại là bao nhiêu vậy ad",
+      "answer": "Chào bạn Bộ nhớ còn lại của máy khoảng 26GB bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 43.58348,
+      "id": "20552954",
+      "field_search": "question",
+      "question": "Bộ nhớ khả dụng còn lại của iphone6 32gb là bao nhiêu v ,Bộ nhớ khả dụng còn lại của iphone6 32gb là bao nhiêu v",
+      "answer": "Chào bạn,Với sản phẩm iPhone 6 32GB thì bộ nhớ khả dụng còn lại khoảng 27-28Gb bạn nhé. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 43.073997,
+      "id": "19801107",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại của máy này là bao nhiêu vậy ad",
+      "answer": "Chào anh,Với sản phẩm này thì bộ nhớ khả dụng sử dụng được khoảng 25-26GB anh nhé. Thông tin đến anh!",
+      "relate_q_q": 1
+    },
+    {
+      "score": 40.887245,
+      "id": "20474167",
+      "field_search": "question",
+      "question": "Bộ nhớ khả dụng còn lại của iphone 6 là bao nhiêu vậy,Bộ nhớ khả dụng còn lại của iphone 6 là bao nhiêu vậy",
+      "answer": "Chào bạn!Xin thông tin đến bạn là bộ nhớ khả dụng của iPhone 6 32G khoảng 26G nha, bạn cũng có thể kiểm tra bộ nhớ khả dụng của máy : vào Cài Đặt > Cài đặt chung >  Dung lượng & Sử dụng iCloud.Chúc bạn thành công ! ",
+      "relate_q_q": 1
+    },
+    {
+      "score": 40.082386,
+      "id": "21723962",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại ( khả dụng) bao nhiêu vậy Ad.?,Bộ nhớ còn lại ( khả dụng) bao nhiêu vậy Ad.?",
+      "answer": "Chào anh,Với bộ nhớ trong còn khả dụng khoảng 26Gb anh nhé. Thông tin đến anh!",
+      "relate_q_q": 1
+    },
+    {
+      "score": 39.879833,
+      "id": "19861982",
+      "field_search": "question",
+      "question": "Bộ nhớ máy này còn lại là bnhiu gb vậy QTV",
+      "answer": "Chào bạn,Dạ bộ nhớ khả dụng của máy khoảng 25- 26 GB bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 1
+    },
+    {
+      "score": 39.278786,
+      "id": "21634434",
+      "field_search": "question",
+      "question": "Cho em hỏi là ip 6 32G..  bộ nhớ khả dụng còn lại là bao nhiêu ạ",
+      "answer": "Chào chị,Dạ sản phẩm này có bộ nhớ khả dụng khoảng 26GB chị nhéChia sẻ cùng chị.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 39.14018,
+      "id": "18472999",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại khoảng bao nhiêu ad?",
+      "answer": "Chào bạn, iPhone 6 32GB có bộ nhớ trong khả dụng khoảng 26GB nha bạn. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 39.114296,
+      "id": "23233580",
+      "field_search": "question",
+      "question": "bộ nhớ còn lại khoảng bao nhiêu vậy",
+      "answer": "Chào bạn.Thông tin đến bạn.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 38.51818,
+      "id": "20555070",
+      "field_search": "question",
+      "question": "Bộ nhớ khả dụng của máy còn bao nhiêu vậy bạn?",
+      "answer": "Chào bạn Sản phẩm có bộ nhớ khả dụng vào khoảng 25-26 GB bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 38.320034,
+      "id": "21928563",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại ip 6 32gb còn bao nhiêu ạ",
+      "answer": "Chào bạn.Dạ bộ nhớ khả dụng của máy còn khoảng 26 GB bạn nhé.Thông tin đến bạn.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 37.76881,
+      "id": "28143745",
+      "field_search": "question",
+      "question": "cho em hỏi iphone 6s 16gb  bộ nhớ khả dụng còn lại là bao nhiêu gb ạ",
+      "answer": "Chào bạn,Dạ điện thoại iPhone 6 16GB có bộ nhớ khả dụng khoảng 9.9GB bạn nhé.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 36.94187,
+      "id": "19426483",
+      "field_search": "question",
+      "question": "Bộ nhớ còn lại (khả dụng) là bao nhiêu vậy ?",
+      "answer": "Chào bạn,Dạ bộ nhớ khả dụng của máy khoảng 26 GB bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 1
+    },
+    {
+      "score": 36.80655,
+      "id": "18629416",
+      "field_search": "question",
+      "question": "Bộ nhớ khả dụng là bao nhiêu vậy ad.",
+      "answer": "Chào bạn, Điện thoại này bộ nhớ khả dụng vào khoảng 25-26 GB bạn nhé. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 36.08178,
+      "id": "19894423",
+      "field_search": "question",
+      "question": "Thẻ nhớ trong là có sẵn trong máy hả",
+      "answer": "Chào anh,Dạ sản phẩm iPhone không hỗ trợ thẻ nhớ nên sản phẩm này không có thẻ nhớ anh nhéChia sẻ cùng anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 35.661777,
+      "id": "29891885",
+      "field_search": "question",
+      "question": "Iphone 32 gb  lên ios 12, còn bao nhiêu gb bộ nhớ trống hả ad?",
+      "answer": "Chào chị iOS 12 cần khoảng 1,42GB nên chị lấy bộ nhớ hiện tại của máy chị trừ 1.42GB là sẽ có kết quả chính xác chị nha .Thông tin đến chị .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 35.63724,
+      "id": "20376339",
+      "field_search": "question",
+      "question": "ip6 có bộ nhớ trong là 32gb à? mình nhớ chỉ có 16/64/128 thôi mà?",
+      "answer": "Chào chị, Điện thoại iPhone 6 phiên bản bộ nhớ trong 32GB thì được hãng Apple ra mắt sau này không cùng lúc với các phiên bản 16/64/128GB chị nhé.Thông tin đến chị !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 35.40489,
+      "id": "23788538",
+      "field_search": "question",
+      "question": "bộ nhớ khả dụng của iphone 6 32gb là bao nhiêu ? như vậy có đủ dùng không",
+      "answer": "Chào bạn,Dạ Trường hợp này còn tùy vào nhu cầu sử dụng của bạn nên mình không thể nòa biết được bạn nhé. Tuy nhiên với nhu cầu sử dụng bình thường như đối với mình là rất thoải mái rồi đó ạ.Xin thông tin đến bạn.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 35.36207,
+      "id": "23493783",
+      "field_search": "question",
+      "question": "Bộ nhớ khả dụg của máy còn lại la bao nhiu vay qtv",
+      "answer": "Chào bạn, iPhone 6 32GB có bộ nhớ trong khả dụng khoảng 26GB nha bạn. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 34.973877,
+      "id": "24388598",
+      "field_search": "question",
+      "question": "Ram khả dụng và bộ nhớ khả dụng là bao nhiêu",
+      "answer": "Chào bạn,Dạ bộ nhớ khả dụng của máy còn khoảng 26 GB, và ram khả dụng khoảng 400mb bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 1
+    },
+    {
+      "score": 34.30075,
+      "id": "25629806",
+      "field_search": "question",
+      "question": "SP này bộ nhớ khả dụng bao nhiêu?",
+      "answer": "Chào anh Thịnh,Sản phẩm Iphone 6 32GB này có bộ nhớ khả dụng khoảng 26 GB anh nhé.Thông tin đến anh.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 34.277275,
+      "id": "19868999",
+      "field_search": "question",
+      "question": "iPhone 6 có bộ nhớ hệ thống là bao nhiêu vậy ạ ?",
+      "answer": "Chào bạn, iPhone 6 32GB có bộ nhớ hệ thống khoảng 5GB và khả dụng còn lại khoảng khoảng 26GB nha bạn. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 33.845573,
+      "id": "19773461",
+      "field_search": "question",
+      "question": "Sao mình mới mua mà bộ nhớ khả dụng giảm quá nhiều trong khi mình tải rất ít ứng dụng làm sao đây? Có tải thêm phần mềm nào dọn dẹp bộ nhớ đc ko ,",
+      "answer": "Chào bạn, Rất tiếc là hiện tại trên hệ điều hành iOS mình chưa thấy có ứng dụng nào dọn dẹp bộ nhớ chuẩn nha bạn, khi bạn sử dụng máy sau một thời gian sẽ bị hao bộ nhớ vì dữ liệu rác hoặc cache, bạn muốn xoá thì cần khôi phục lại cài đặt mới được nha.Xin thông tin đến bạn.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 33.35479,
+      "id": "23428903",
+      "field_search": "question",
+      "question": "Làm sao để chuyển ảnh từ bộ nhớ trong sang thẻ nhớ ạ",
+      "answer": "Chào bạn,Bạn vui lòng cung cấp thêm thông tin cho mình là bạn đang sử dụng dòng sản phẩm nào vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé. Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 33.163216,
+      "id": "27660779",
+      "field_search": "question",
+      "question": "cho e hỏi e có mua ip6 32 gb, e thấy bộ nhớ còn trong 24Gb sau khi e tải ứng dụng em kiểm tra lại máy báo còn trong  22,6gb , em xóa ứng dụng đó đi thì bộ nhớ ko lên dù lai 24gb như ban đầu mà chỉ có 23,4 gb vậy  600 mb kia đi đâu và làm sao để lấy lại,mỗi lần e cài và xóa ứng dụng đi là bộ nhớ trong từ mất dần,có cách nào khắc phục",
+      "answer": "Chào bạn, Trường hợp này có thể do file tạm của ứng dụng được lưu vào bộ nhớ máy, nên sẽ không đủ dung lượng như ban đầu, bạn cần khôi phục lại cài đặt gốc của máy mới có thể có lại dung lượng như ban đầu bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 32.04516,
+      "id": "24071615",
+      "field_search": "question",
+      "question": "Ip báo đầy dung lượng icloud, mình thử vào ktra dung lượng thì 80% dùng để lưu ảnh. Theo minh biết nó dùng để chia sẻ các thiết bị ios khác của mình, nhưng mình k có nhu cầu đó. Mình muốn xoá ảnh khỏi bộ nhớ icloud nhưng k bị mất trong thư viện ảnh thì mình phải làm thế nào ạ?",
+      "answer": "Chào bạn Bạn hãy vào tại  máy tính , sau đó bạn đăng nhập tài khoản và mật khẩu iCloud trên điện thoại của bạn vào , bạn chọn mục Ảnh để xóa bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 31.830605,
+      "id": "26078406",
+      "field_search": "question",
+      "question": "iphone 6 32GB bộ nhớ khả dụng bao nhiêu?",
+      "answer": "Chào bạn, iPhone 6 32GB có bộ nhớ khả dụng còn lại khoảng 26GB nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 31.810318,
+      "id": "29666989",
+      "field_search": "question",
+      "question": "Máy 5s 16g mình mới mua sao bộ nhớ máy có 12g vậy",
+      "answer": "Chào bạn,Vì một phần dung lượng của bộ nhớ đã được sử dụng để lưu trữ hệ điều hành, các ứng dụng hệ thống, dữ liệu ứng dụng,... Nên khi bạn kiểm tra thì dung lượng khả dụng của bộ nhớ sẽ không còn đủ như thông số đã đưa ra nhé.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 31.61299,
+      "id": "28138215",
+      "field_search": "question",
+      "question": "Máy bộ nhớ cao sao ram chỉ có 1 g vậy",
+      "answer": "Chào bạn RAM của máy mặc dù chỉ có 1 GB nhưng máy chạy HĐH iOS nên giúp máy tối ưu tốt , xử lý tác vụ mượt mà , không có tình trạng bị ngốn RAM bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 31.1231,
+      "id": "20516366",
+      "field_search": "question",
+      "question": "mình dùng cáp otg cho iphone6 sử dụng thẻ sd chạy bộ nhớ trong thẻ sd có dc ko ạ",
+      "answer": "Chào bạn,Rất tiếc là bạn không thể dùng thẻ nhớ làm bộ nhớ trong cho máy iPhone được nha.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 30.730963,
+      "id": "26155869",
+      "field_search": "question",
+      "question": "Cho e hỏi iphone secuar e nâng cấp lên hđh ios 11 có bị tốn dung lượng bộ nhớ ko ạ ?",
+      "answer": "Chào bạn,Phiên bản iOS 11 thì không gây tiêu tốn dung lượng của máy ạ. Nên bạn có thể an tâm nâng cấp và tiếp tục sử dụng sản phẩm bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 29.887768,
+      "id": "22008233",
+      "field_search": "question",
+      "question": "Cho e hoi ip nó báo đầy dung lương icuol nhưng bộ nhớ the k đầy zây e mn chuyển qua bộ nhớ có đuọc k? Cách chuyển sao hướng dẫn dùm e cái ah?",
+      "answer": "Chào bạn,iCloud có dung lượng miễn phí là 5GB, khi bạn dùng hết thì bạn có thể mua thêm dung lượng với mức giá khá rẻ đó bạn. Nếu dung lượng hết thì bạn phải bắt buộc xóa bớt hoặc nâng cấp dung lượng thôi bạn nhé. Bạn có thể truy cập iCloud.com trên máy tính, tải về các file trên iCloud để sao lưu > xóa các file đó trên iCloud để có thể dung lượng trống bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 29.71999,
+      "id": "25269477",
+      "field_search": "question",
+      "question": "bộ nhớ khả dụng của ip6s 32GB là bnhieu vậy add?",
+      "answer": "Chào anh,Vâng bộ nhớ khả dụng còn lại khoảng 26GB anh nhéThân gửi đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 29.156017,
+      "id": "25203967",
+      "field_search": "question",
+      "question": "Ad cho hỏi là cái này trong phần phân tích phải là dung lượng còn lại của pin k em dùng ip6 “ com.apple.power.battery.NominalChargeCapacity  \t\t 1424 ”",
+      "answer": "Chào bạn,Đây là thông số pin sạc đầy hiện tại của máy bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 29.103586,
+      "id": "26796498",
+      "field_search": "question",
+      "question": "Anh chị cho em hỏi em đang dùng iphone 6 64g nhưng sao em xem phần thông tin điện thoại thì thấy ghi là dung lượng 59,13GB ; khả dụng 53,5GB. Như vậy là máy em bộ nhớ có 59,13 à? Tại em chưa dùng iphone bao giờ nên lúc em ra thegioididong mua máy em chỉ biết là mua iphone 6 64GB huhu. Hay là máy e ko phải chính hãng ạ?",
+      "answer": "Chào bạn, Máy  bạn là máy chính hãng , hệ điều hành iOS và các ứng dụng hệ thông của máy chiếm khoảng 5-6GB nên máy còn 59GB là bình thường bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 29.045938,
+      "id": "26738781",
+      "field_search": "question",
+      "question": "ủa mọi người cho mình hỏi mua máy mới tinh sao lại có cài sẵn hệ điều hành nhỉ, nay mình mua máy mởi ở tgdđ ko để ý về nhà mới nhớ ra là máy đã cài sẵn",
+      "answer": "Chào bạn,Smartphone mới nào cũng đều có sẵn hệ điều hành bạn nhé.Xin thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.986448,
+      "id": "24514432",
+      "field_search": "question",
+      "question": "Máy nay bộ nhớ khả dụg duoc nhiu vậy qtv",
+      "answer": "Chào bạn.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.698364,
+      "id": "27647248",
+      "field_search": "question",
+      "question": "ko hỗ trợ gắn thẻ nhớ nếu đầy bộ nhớ đt thì sao ạ",
+      "answer": "Chào bạn,Dạ trường hợp này bắt buộc bạn phải xoá bớt ứng dụng trên máy hoặc chép hình ảnh, video vào nơi lưu trữ khác như iCloud hay máy tính bạn nhé.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.626135,
+      "id": "25249580",
+      "field_search": "question",
+      "question": "bộ nhớ khả dụng của ip6s 32GB là bnhieu vậy add?",
+      "answer": "Chào bạn, iPhone 6 32GB có bộ nhớ khả dụng khoảng 26GB nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.497232,
+      "id": "21130416",
+      "field_search": "question",
+      "question": "Dạ có cách nào tăng dung lượng bằng cách di chuyển file vào ứng dụng nào đó lưu trữ thay bộ nhớ trong dc ko ạ",
+      "answer": "Chào bạn, Trường hợp này thì bạn thử làm theo hướng dẫn tương tự  xem sao nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.248062,
+      "id": "29881271",
+      "field_search": "question",
+      "question": "Mình dùng Iphone 6, ios11.3. Nâng cấp lên ios 12 có giúp máy mượt hơn không ad, ios 12 có tốn nhiều bộ nhớ không?",
+      "answer": "Chào chị Khi chị nâng cấp lên sẽ giúp máy hoạt động tốt hơn , iOS mới không ngốn nhiều bộ nhớ chị nha .Thông tin đến chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.20648,
+      "id": "29506318",
+      "field_search": "question",
+      "question": "Cho em hỏi, mặc dù chưa hết dung lượng nhưng khi em tải ứng dụng mới thì lại báo lỗi không thể tải vì bộ nhớ đã đầy. Ad giúp em với ạ",
+      "answer": "Chào bạn,Trường hợp này có thể do xung đột phần mềm trên máy, bạn vui lòng tắt khởi động lại máy xem có khắc phục được tình trạng trên không bạn nhé. Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.109568,
+      "id": "26899736",
+      "field_search": "question",
+      "question": "QTV cho e hỏi đây là loại gì ạ... tại sao bộ nhớ ít v ạ",
+      "answer": "@Hoàng Đô:",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.077381,
+      "id": "19940306",
+      "field_search": "question",
+      "question": "Mua iphone 6 32gb có cần mua thẻ nhớ k v hay là có sẵn trong máy ròi",
+      "answer": "Chào anh, Hiện Iphone 6 32GB là bộ nhớ máy 32GB anh nha , và sản phẩm này không hỗ trợ thẻ nhớ anh nhé . Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.07452,
+      "id": "22681655",
+      "field_search": "question",
+      "question": "Mình mới sử dụng Ip nên nhờ hỗ trợ giúp mình có ứng dụng nào đọc file bộ nhớ như các máy Androi ko ạ",
+      "answer": "Chào bạn,Rất tiếc, trên iPhone thì không có ứng dụng hỗ trợ duyệt File lưu trên bộ nhớ máy bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 28.05849,
+      "id": "29876029",
+      "field_search": "question",
+      "question": "Đt này có sử dụng đc measure app ko chứ mình thấy nó trong phần bộ nhớ mà ko có cách nào sử dụng đc. Đã lên ios 12",
+      "answer": "Chào bạn,Bạn vui lòng cho mình xin thêm thông tin hiện tại bạn không sử dụng được cụ thể như thế nào, máy báo lỗi hay có hiện tượng ra sao để mình kiểm tra hỗ trợ bạn nhé. Mong nhận được thông tin từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 27.71673,
+      "id": "18699582",
+      "field_search": "question",
+      "question": "Dung lượng còn trống khoảng bao nhiêu vậy ạ",
+      "answer": "Chào bạn, Điện thoại này bộ nhớ khả dụng vào khoảng 25-26 GB bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 27.545822,
+      "id": "28339533",
+      "field_search": "question",
+      "question": "iPhone không có cài nhạc chuông cuộc gọi từ 1 bài hát trong bộ nhớ à",
+      "answer": "Chào bạn, Bạn tham khảo và thao tác theo hướng dẫn tại để cài nhạc chuông ngoài cho máy nhé bạn. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 27.421495,
+      "id": "30454275",
+      "field_search": "question",
+      "question": "cho mình hỏi máy này còn hàng không ạ? với lại dung lượng pin như vậy thì mình xài được trong bao lâu ạ?",
+      "answer": "Chào chị,Dạ chị có thể sử dụng liên tục được khoảng 3-4 giờ với điện thoại này, thời gian này sẽ phụ thuộc vào tùy các tác vụ, ứng dụng khác nhau chị sử dụng trên máy nhé. Và chị có thể cho em biết nơi chị cần kiểm tra hàng để bên em kiểm tra cho chị nha.Mong sớm nhận phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 27.068867,
+      "id": "19938027",
+      "field_search": "question",
+      "question": "Giữa J7 Prime và iPhone 6 thì máy nào có bộ nhớ hệ thống ít hơn vậy qtv ?",
+      "answer": "Chào bạn, Samsung J7 prime có Hệ thống chiếm: 4.98GB, còn iphone 6 32 GB có bộ nhớ hệ thống khoảng 6GB bạn nhé Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 27.011715,
+      "id": "20726544",
+      "field_search": "question",
+      "question": "Mình vừa mua kẻ thế giới di động được vài hôm điện thoại mượt nhưng sao lại hay bị văng ứng dụng vậy ad?đang chơi game bị quảng cáo thì máy đứng luôn và một lúc sau thì văng ra đây có phải là lỗi do nhà sản xuất không mặc dù bộ nhớ còn trống đến 24GB",
+      "answer": "Chào bạn!Trường hợp này bạn hãy thử tắt hết các ứng dụng ngầm và khởi động lại máy xem có khắc phục tình trạng trên không bạn nhé.Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 26.611794,
+      "id": "27505713",
+      "field_search": "question",
+      "question": "Nâng cấp Gam bộ nhớ được ko vậy",
+      "answer": "Chào bạn,Rất tiếc, iPhone không hỗ trợ tự nâng cấp Ram bạn nhé. Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 26.406881,
+      "id": "20171266",
+      "field_search": "question",
+      "question": "tôi có con Asus Zenfone 2 4GB ram/ 64 GB bộ nhớ trong mua 3.790.000đ bù bao nhiêu thì mua được cái iphone này vậy bạn",
+      "answer": "Chào anh, Trường hợp của anh bên em hỗ trợ hoàn tiền cho các sản phẩm được mua mới tại Thegioididong.com, còn trong 12 tháng kể từ ngày mua và tình trạng máy còn tốt anh nhé. Nếu máy của anh đáp ứng đủ các điều kiện trên vui lòng cung cấp thông tin về ngày mua và giá mua chính xác để bên em có thể kiểm tra và tính toán giúp anh tốt hơn ạ.  Mong sớm nhận phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 26.065067,
+      "id": "30158289",
+      "field_search": "question",
+      "question": "Cho mình hỏi ip6 có nên lên ios12 k? Lên rồi liệu có nặng máy tốn thêm dung lượng khả dụng k? Cụ thể ip6 16gb của mình còn trống 3,5gb do mới tải ios12 về nên còn trống 1,5gb. Liệu sau khi cập nhập xong thì máy còn trống được 3,5gb như ban đầu không hay chỉ trống khoảng dưới 3gb",
+      "answer": "Chào anh,Theo em thấy thì bản cập nhật ios 12 sẽ cải thiện hiệu năng hơn ios 11, nên anh có thể cập nhật lên, nhưng sẽ tốn thêm dung lượng sau khi cài đặt anh nhé Thông tin đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 26.040854,
+      "id": "20391393",
+      "field_search": "question",
+      "question": "cho e hỏi máy e gần đầy bộ nhớ mà e có xoá bớt ảnh mak càng xoá khả dụng nơi gb nó càng giảm là sao vậy",
+      "answer": "Chào bạn,Bộ nhớ khả dụng còn phụ thuộc nhiều yếu tố nữa, ví dụ như khi bạn xóa bớt ảnh, bộ nhớ trống lên thì một số ứng dụng khi sử dụng sẽ có không gian để sản sinh thêm bộ nhớ cache nên phần nào chiếm lại bộ nhớ trong làm giảm dung lượng khả dụng đó bạn, bạn nên xóa bớt các ứng dụng không cần thiết để làm trống bộ nhớ trong hơn nha.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.887768,
+      "id": "28672455",
+      "field_search": "question",
+      "question": "khi cập nhật ứng dụng có mất thêm bộ nhớ ko ad hay mik tải về r thì nó chỉ cập nhật thôi ko tốn thêm dung lượng",
+      "answer": "alo ad trả lời đc ko",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.693624,
+      "id": "24223940",
+      "field_search": "question",
+      "question": "Cho mình hỏi! Máy của mình tự xoá cuộc gọi đến cuộc gọi đi và cả tn sms! Rồi cả những phần ghi nhớ cũng clear sạch sẽ là nên! Có cách khắc phục ko? 6 16gb",
+      "answer": "Chào bạn Trường hợp này bạn có sử dụng chung tài khoản iCloud với 1 điện thoại iPhone nào khác không bạn ạ ?Mong nhận được thông tin phản hồi từ bạn để mình tư vấn chính xác nhất cho bạn nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.439503,
+      "id": "26097744",
+      "field_search": "question",
+      "question": "Tgdd có thể dành thời gian để tổng hợp hộ mình các dòng iphone từ đời ip5 đến ip8plus kèm theo thông số về các phiên bản bộ nhớ của từng dòng máy được không ạ. Mình đang chyển từ android sang ios nên muốn tìm hiểu thêm.",
+      "answer": "Chào anh,Dạ cụ thể thì từ đời iPhone 5/5s có các bản 16GB/32GB và 64GB. iPhone 6/6 Plus cùng với iPhone 6s/6s Plus thì có các bản 16/32/64/128GB.iPhone 7/7Plus có các bản 32/128/256GB Cuối cùng iPhone 8/8Plus có các bản 64/256GB anh nhéThân gửi đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.351799,
+      "id": "26947313",
+      "field_search": "question",
+      "question": "Chuyển ảnh & video từ icloud sang bộ nhớ đt sao vậy ad ?",
+      "answer": "Chào bạn, Bạn kết nối mạng > đăng nhập tài khoản iCloud đó vào máy và vào cài đặt > ảnh đại diện > iCloud > Ảnh > bật đồng bộ hết cho máy là được bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.329386,
+      "id": "23904423",
+      "field_search": "question",
+      "question": "Mình muốn xoá bộ nhớ đệm của fb và mess thì làm thế nào ad",
+      "answer": "Chào bạn,Rất tiếc là đối với iPhone thì sẽ không xoá được bộ nhớ đệm của Facebook và Messenger  bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.290897,
+      "id": "27035977",
+      "field_search": "question",
+      "question": "Cho mik hỏi vs dung lượng pin như vậy dùng bao nhiêu giờ là hết",
+      "answer": "Chào bạn,Pin của máy này thì sử dụng liên tục được khoảng 4-5h, tùy vào cách dùng máy của bạn như thế nào và tình trạng máy ra sao mà sẽ có sự chênh lệch tương ứng bạn nhé. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.93253,
+      "id": "26993864",
+      "field_search": "question",
+      "question": "Cho mình hỏi không dùng để qua mấy tiếng mà thấy máy sụt pin là sao ạ???",
+      "answer": "Chào bạn,Trường hợp này có thể trên máy có nhiều ứng dụng ngầm hoạt động và các kết nối mạng bạn chưa tắt ... gây ra hao pin khi không sử dụng . Để hạn chế hao pin bạn vui lòng giúp mình thao tác :- Tắt các kết nối wifi, 3g, bluetooth, định vị khi không cần thiết.- Giảm độ sáng màn hình thường thì chỉ để ở mức trung bình trở xuống, nên để chế độ tự động (nếu máy có hỗ trợ).- Tăt ứng dụng chạy nền bạn nhé. Chúc bạn thành công !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.70398,
+      "id": "18184900",
+      "field_search": "question",
+      "question": "tại sao các dòng iphone lại ko hỗ trợ thẻ nhớ ngoài vậy QTV",
+      "answer": "Chào bạn,Do hãng Apple thiết kế không hỗ trợ thẻ nhớ cho dòng iPhone bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.464235,
+      "id": "27254376",
+      "field_search": "question",
+      "question": "Cho mình hỏi máy của mình tại sao trong thư viện ảnh thì toàn bộ màu trắng khi ấn vào ảnh màu trắng để xem thì đc bình thường",
+      "answer": "Chào bạn,Trường hợp này có thể do máy phát sinh lỗi trong quá trình hoạt động nên bạn vui lòng giúp mình tắt nguồn khởi động lại điện thoại sau đó kiểm tra lại xem đã khắc phục được lỗi chưa bạn nhé.Chúc bạn thành công !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.450233,
+      "id": "19754707",
+      "field_search": "question",
+      "question": "máy còn bao nhiêu GB trống vậy QTV,máy còn bao nhiêu GB trống vậy QTV",
+      "answer": "Chào bạn,Máy trống khoản 25gb hơn bạn nhé. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.366226,
+      "id": "26197072",
+      "field_search": "question",
+      "question": "Khi đặt hàng online rồi lại siêu thị lấy thì vẫn được giá 7tr9 phải không ạ ? Mình có cần mang tin nhắn đặt hàng thành công theo để kiểm tra đối chứng không ?",
+      "answer": "Chào anh Dạ có anh nhé. Anh phải mang theo tin nhắn xác nhận đặt hàng thành công với giá khuyến mãi thì nhân viên siêu thị mới hỗ trợ anh mua với giá khuyến mãi được anh nhé.Mong anh thông cảm.Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.239758,
+      "id": "31624501",
+      "field_search": "question",
+      "question": "Sao e dùng con này chơi liên quân bật mã cau hình ko đc nó cứ hiện bộ nhớ thiết bị khá hữu hạn là sao ad chỉ giúp",
+      "answer": "Chào anh, xin lỗi đã để anh đợi lâu nhéTrường hợp này anh vui lòng kiểm tra lại dung lượng của máy, nếu bộ nhớ còn trống ít hơn 2GB thì anh vui lòng gỡ bớt game/ứng dụng để giải phóng bộ nhớ xem sao anh nhé Thông tin đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.231714,
+      "id": "26885769",
+      "field_search": "question",
+      "question": "QTV cho e hỏi : E mua máy này đc gần 1 tháng rồi,giá lúc đấy là 7990000,giờ e muốn trả lại để mua máy khác,thì mất bao nhiêu tiền phí ạ",
+      "answer": "Chào anh, Hiện máy anh còn khoảng 6.392.000đ anh nha! Khi đi trả máy, anh nhớ mang đầy đủ hộp sản phẩm, phụ kiện đi kèm và quà khuyến mãi (nếu có) để tránh mất thêm phí ạ! Rất vui được hỗ trợ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.22171,
+      "id": "24094752",
+      "field_search": "question",
+      "question": "Loa iphone 6 max âm lượng nghe gọi cả loa trong và loa ngoài đều hơi rè. Cho mình hỏi đây là lỗi phần cứng hay phần mềm. Mình đang dùng ios 10.3.1. Không biết đây có phải lỗi chung không?",
+      "answer": "Chào bạn,Dạ do khi bạn mở âm lượng mức cao nhất thì âm thanh sẽ nghe hơi rè, và máy nào thì cũng như vậy bạn nhé. Bạn có thể kiểm chứng bằng cách mở các thiết bị phát loa khác, và khi bạn mở âm thanh cao nhất đều sẽ nghe hơi rè nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.175253,
+      "id": "17702985",
+      "field_search": "question",
+      "question": "ộ nhớ khả dụng của máy là bao nhiu za?",
+      "answer": "Chào bạn,Dạ trường hợp này bộ nhớ khả dụng còn lại của máy khoảng 26GB bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.018456,
+      "id": "23184423",
+      "field_search": "question",
+      "question": "QTV cho tôi hỏi là IPHONE không có thẻ nhớ. Vậy, trong quá trình sử dụng nếu máy bị treo hoặc bị lỗi và phải khôi phục lại cài đặt gốc -> có phải dữ liệu như: nhạc, video, ảnh.... mà mình lưu trong máy sẽ mất hết?",
+      "answer": "Chào bạn, Đúng rồi bạn nếu bạn khôi phục cài đặt gốc lại máy thì dữ liệu ứng dụng trên máy sẽ bị mất hết nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.922634,
+      "id": "22118335",
+      "field_search": "question",
+      "question": "Bộ nhợ khả dụng còn lại là bnh vậy ạ",
+      "answer": "Chào bạn, Điện thoại này bộ nhớ khả dụng còn khoảng 26GB bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.830166,
+      "id": "17702675",
+      "field_search": "question",
+      "question": "Bạn cho mình hỏi? Mình đặt cọc rồi , bây giờ mình ko lấy máy nữa có lấy tiền cọc đc ko ạ ?",
+      "answer": "Chào anh, Trường hợp này anh có thể lấy cọc lại anh nha , anh vui lòng ra siêu thị Thegioididong.com để được hỗ trợ anh nhé . Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.80014,
+      "id": "21643047",
+      "field_search": "question",
+      "question": "Cho mh hỏi tại sao máy của mình bật 3g vào youtube lại ko vào phần chất lượng để chọn chất lượng xem đc vậy",
+      "answer": "Chào bạn Sơn,Trường hợp này bạn giúp mình bấm vào một video bất kỳ > chọn dấu 3 chấm trên góc phải video > chất lượng > chọn độ phân giải thử xem có được không bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.792244,
+      "id": "30110862",
+      "field_search": "question",
+      "question": "Sao lâu lâu thì máy lại gửi yêu cầu sao lưu , rồi không đủ bộ nhớ gì đó . Qtv giải đáp thắt mắc giúp em với em mua ip6 này tại tgdd hồi tháng 3",
+      "answer": "Chào chị,CHị tắt sao lưu đi là được chị nhé, do dung lượng icloud khá thấp mà bản sao lưu trên máy chị khá nặng nên sẽ có thông báo không đủ dung lượng sao lưu chị nha.Thông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.74153,
+      "id": "30501102",
+      "field_search": "question",
+      "question": "Cho mình hỏi, mình đang dùng android chuyển sang ios , danh bạ mình để ở tk google thì khi đổi máy có đồng bộ sang icloud của ip đc k ? Thanks admin",
+      "answer": "Chào bạn,Trường hợp này, bạn có thể tham khảo và làm theo bài viết  là được bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.731972,
+      "id": "22118976",
+      "field_search": "question",
+      "question": "Chỉ em cách xem bộ nhớ khả dụng trên iphone với ạ",
+      "answer": "Chào bạn,Dạ bạn có thể vào cài đặt- cài đặt chung- giới thiệu- bạn xem thông tin ở phần khả dụng nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.696766,
+      "id": "19879422",
+      "field_search": "question",
+      "question": "Cho e hỏi ạ! E thich dùng máy iPhone nhưng có điều ip chỉ  bộ nhớ trong, hết dung lượng ko hỗ trợ thẻ SD, nếu xài hết thì phai mua dung lượng tính phí theo tháng, mà nhu cầu của e là chụp ảnh, bán hàng online, đọc báo và xem phim. Vậy xin tư vấn dùm e với chiếc ip 6 32G này có đáp ứng đủ cho e về lâu đai ko ạ? Hay e phai chuyển qua dùng máy Androidly có thẻ SD ạ ? Xin giúp e nhiệt tình đi, vì e mua trả góp nên phai quyết định kĩ, cảm ơn nhiều !",
+      "answer": "Chào chị,Nếu như nhu cầu của chị là chụp ảnh, bán hàng online, đọc báo, xem phim thì sản phẩm này hỗ trợ Rom 32GB vừa đủ để chị sử dụng. Còn nếu không thì chị có thể tham khảo các dòng iPhone 7 có ROm lớn hơn như 128GB, 256 GB chị nhé. Chia sẻ cùng chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.626066,
+      "id": "18838209",
+      "field_search": "question",
+      "question": "iphone 6 e để mất cả bộ sạc rồi giờ mua bộ sạc pisen xài có bị ảnh hưởng gì đén pin , máy không ạ",
+      "answer": "Chào bạn ! Được nha, bạn sử dụng củ sạc Pinsen dòng 1A sạc tốt cho iPhone 6 bạn nhé, không ảnh hưởng gì nha bạn.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.59988,
+      "id": "18726736",
+      "field_search": "question",
+      "question": "Trên iphone 6 này ví dụ mình cài một ứng dụng mất 2gb, sau khi xoá ứng dụng đi thì bộ nhớ có được thêm lại 2gb không shop?",
+      "answer": "Chào bạn,Bộ nhớ sau khi xoá ứng dụng đó đi thì sẽ được hoàn lại khoản 2gb bạn nha, có 1 chút chênh lệch do đôi khi có 1 vài file tạm của ứng dụng còn xót lại bạn nhé. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.578173,
+      "id": "26353857",
+      "field_search": "question",
+      "question": "Em đã thử cài đặt lại mạng rồi nhưng vẫn không được. Có phải do phần mềm máy không ạ. Em cảm ơn",
+      "answer": "Chào bạn,Bạn vui lòng cung cấp thêm thông tin cho mình là tình trạng máy bạn đang dùng ra sao vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé . Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.495523,
+      "id": "27459447",
+      "field_search": "question",
+      "question": "Máy mình mua được 2 tuần rồi. Lúc mua giá là 6tr990 bâyh muốn trả lại thì tgdđ sẽ mua lại với giá bao nhiêu ạ. Máy còn mới 100% không trầy xước gì hết nhé.",
+      "answer": "Chào anh,Nếu sản phẩm được mua mới tại Thegioididong.com, không bị rơi vỡ, vô nước thì bên em hỗ trợ hoàn lại tiền khoảng 5.592.000đ anh nha. Tuy nhiên đây chỉ là giá tham khảo, anh có thể mang máy cùng bộ sản phẩm chuẩn, quà khuyến mãi (nếu có) ra siêu thị để bên em kiểm tra và hỗ trợ ạ. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.343801,
+      "id": "21255235",
+      "field_search": "question",
+      "question": "Cho mình hỏi, mình mới mua ip6 đc mấy ngày. Loa ngoài tự nhiên bị hỏng k nghe đc, cắm tai nghe rồi rút ra thì loa ngoài lại nghe được. Có ảnh hưởng gì đến máy k ạ??,Cho mình hỏi, mình mới mua ip6 đc mấy ngày. Loa ngoài tự nhiên bị hỏng k nghe đc, cắm tai nghe rồi rút ra thì loa ngoài lại nghe được. Có ảnh hưởng gì đến máy k ạ??",
+      "answer": "Chào bạn, Bạn tiếp tục dùng 1 thời gian xem còn bị lại tình trạng này không bạn nhé. Nếu còn bạn phản hồi tại đây mình sẽ giúp bạn .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.335888,
+      "id": "21082238",
+      "field_search": "question",
+      "question": "Cho mk hỏi iphone6 16g có giá là bao nhiêu máy cũ ạ,Cho mk hỏi iphone6 16g có giá là bao nhiêu máy cũ ạ",
+      "answer": "Chào anh,Anh vui lòng cung cấp thông tin địa chỉ cụ thể để bên em kiểm tra hàng và hỗ trợ tư vấn đến anh ạ.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.303791,
+      "id": "22202021",
+      "field_search": "question",
+      "question": "cho mình hỏi , máy Iphon 6 của mình dùng wifi thất thường , dùng wifi cơ quan thì mạnh , về nhà dung mạng nhà thì yếu , trong khi cùng 1 mạng nhà thì iphone 6 khác của bạn mình lại dùng mạnh, vay la sao",
+      "answer": "Chào bạn, Trường hợp này bạn khắc phục bằng cách vào phần Cài đặt > Wifi > Nhấn giữ vào mạng Wifi đó > Chọn Xoá hay Quên mạng nhé bạn . Sau đó bạn tắt wifi rồi bật lại > Kết nối lại mạng Wifi đó là được bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.301731,
+      "id": "22531726",
+      "field_search": "question",
+      "question": "Mình mới mua dc 3 hôm...  tự nhiên hôm nay máy mất âm lượng media. Mình khóa máy mở lại thì nghe được. Cho mình hỏi đó là lỗi gì của máy có cần đi đến tgdd để được bảo hành không",
+      "answer": "Chào bạn, Trường hợp này thì có thể do máy bị lỗi xung đột hệ điều hành thôi nên bạn giúp mình tắt nguồn điện thoại khởi động lại là máy tự động sửa lỗi và sử dụng bình thường nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.256804,
+      "id": "32077902",
+      "field_search": "question",
+      "question": "Cho mình hỏi có ip6s qua sử dụng mà máy còn tốt giá bao nhiêu ạ",
+      "answer": "Chào anh Nam,Dạ mình vui lòng truy cập  để tham khảo máy giúp em anh nha, và mỗi sản phẩm có tình trạng trầy xước cũng như thời gian bảo hành còn lại khác nhau nên có giá chênh lệch anh nhéChia sẻ cùng anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.188402,
+      "id": "17593419",
+      "field_search": "question",
+      "question": "cho mình hỏi chiều nay mình đến TGDD mua máy này thì giá bao nhiêu?",
+      "answer": "Chào chị,Hiện máy chưa có hàng để chị mua chị nha! Chị có thể cho em biết là chị đã đặt cọc trước hay chưa ạ?Mong phản hồi sớm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.060175,
+      "id": "24617362",
+      "field_search": "question",
+      "question": "Qtv chi em hỏi iphone6 nếu để sạc qua đêm thì có ảnh hưởng gì đến bin không ạ? Và khi nào không dùng đến là em lại sạc thì có gây ảnh hưởng đến máy không ? Mong qtv trả lời đầy đủ ạ.",
+      "answer": "Chào bạn,Trường hợp này do máy sử dụng công nghệ Pin mới nên bạn có thể sạc Pin như bạn nói trên điều được, lưu ý không vừa vừa sử dụng vừa sạc bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.05254,
+      "id": "26849411",
+      "field_search": "question",
+      "question": "dán 2 mặt máy nhưng có bền không ? nếu lỡ tay làm rơi thì có vỡ màn hình k ? mã giảm giá 3% nếu mình đặt hàng online nhưng đến cửa hàng lấy vào ngày 3/5 thì có đc giảm giá không ?",
+      "answer": "Chào anh, Hiện tại dán màn hình bên em kinh doanh là miếng dán chống xước thôi anh nhé , không chống va đập anh nha , và mã giảm giá 3% anh nhận từ chương trình mừng đại lễ này thì có hạn sử dụng trong vòng 7 ngày từ khi nhận được, nên anh mua hàng vào ngày 03/05 thì vẫn áp dụng được ạ. Chân thành cảm ơn anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.038948,
+      "id": "23405061",
+      "field_search": "question",
+      "question": "Cho mình hỏi mình mua máy ip 6 32gb ngày 22/11/17 giá 8.490.000. Hôm nay 24/11 mình trả máy lấy lại tiền thì lấy được bao nhiêu?",
+      "answer": "Chào anh, Với trường hợp của anh, nếu máy là máy mua mới (còn bảo hành) tại siêu thị Thegioididong.com thì bên em sẽ hỗ trợ thu lại với giá khoảng 6.792.000đ anh nha. Tuy nhiên, đây chỉ là thông tin tham khảo, anh vui mang sản phẩm ra siêu thị Thegioididong.com để nhân viên kiểm tra chính xác hơn anh nhé, anh nhớ mang theo đầy đủ hộp, phụ kiện, quà khuyến mãi có giá trị khi mua sản phẩm kèm theo để không bị trừ thêm phí nha anh.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.975958,
+      "id": "21385875",
+      "field_search": "question",
+      "question": "Em có máy iPhone 6 vừa nhận lại từ bà chị có 16gb rơm, em rết nên nó mở ra thành 12gb vậy cho em hỏi nếu cài liên quân, mcpe, face, mess, Zalo, YouTube, nhạc của tui và lưu hơn 600 bức ảnh thì bộ nhớ còn bảo nhiêu ạ? Và có cách nào để chuyển dữ liệu từ thẻ nhớ vào iPhone ko",
+      "answer": "Chào bạn, Hiện chưa có cách nào chuyển dữ liệu từ thẻ nhớ vào iPhone cả bạn nhé. Máy trống 12GB cài tất cả ứng dụng và dữ liệu trên thì còn trống khoảng hơn 7GB nhé bạn .Thông tin đến bạn .  ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.888504,
+      "id": "26382297",
+      "field_search": "question",
+      "question": "Sao vào tải ứng dụng trên appstore ấn tải nó cứ quay tròn xuốt la sao ạ mạng vẫn khoẻ bộ nhớ trống nhiều  nó ko báo lỗi gì hết nó cứ quay tròn vậy thôi la sao ạ",
+      "answer": "Chào bạn,Trường hợp này Bạn vui lòng vào Cài đặt > Cài đặt chung > Đặt lại > Đặt lại tất cả cài đặt (dòng thứ nhất) và kiểm tra lại bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.867107,
+      "id": "27529747",
+      "field_search": "question",
+      "question": "Cho hỏi, mk đặt hàng xong r đến thegioididong để lấy đc hk?",
+      "answer": "Chào chị !  Dạ được chị nha, giá rẻ online này hỗ trợ mình đặt trên website rồi nhận hàng tại siêu thị trong vòng 48 giờ chị nhé. Nếu được chị có thể đặt hàng ngay để được nhận khuyến mãi ưu đãi giảm giá khi mua hàng chị nha. Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.853704,
+      "id": "17615649",
+      "field_search": "question",
+      "question": "mình muốn hỏi là mình đã cọc 500k, nhưng k muốn lấy máy thì có lấy lại được tiền cọc không? cảm ơn!",
+      "answer": "Chào anh, Dạ được ạ nếu mình đã cọc và không muốn lấy máy thì bên em sẽ trả cọc lại cho mình ạ.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.843971,
+      "id": "26284361",
+      "field_search": "question",
+      "question": "tại sao ảnh trong bộ sưu tập lại bị mờ. có dấu chấm than ở góc dưới bên phải, rồi phải có mạng mới load lại ảnh mới rõ lại đc. rất phiền",
+      "answer": "Chào bạn,Bạn có thể vào Cài đặt > iCloud > Ảnh > chọn tải về và giữ lại bản gốc > rồi bạn kết nối máy với mạng wifi ổn định, đợi iCloud đồng bộ dữ liệu hình ảnh của bạn xem có được chưa nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.80857,
+      "id": "25105238",
+      "field_search": "question",
+      "question": "Cho mình hỏi cách đồng bộ danh bạ khi đổi sim qua máy iphone 6 vậy",
+      "answer": "Chào bạn,Bạn vui lòng cung cấp thêm thông tin cụ thể có phải bạn muốn chuyển danh bạ từ Sim vào máy iPhone 6 không vậy ạ ?Nếu vậy thì bạn vui lòng thực hiện như sau : Vào cài đặt > danh bạ > nhập danh bạ trên SIM bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.666098,
+      "id": "27605251",
+      "field_search": "question",
+      "question": "Em muốn kh dùng icloud nữa  (xoá icloud)  Có thể chuyển tất cả ảnh và video sang bộ nhớ của máy được k ạ ?  Chỉ em từng bước với !",
+      "answer": "Chào bạn, Bạn có thể kết nối mạng và vào cài đặt > ảnh đại diện > icloud Ảnh > bật hết đồng bộ lên cho ảnh được đồng bộ xuống máy là được bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.634153,
+      "id": "30335018",
+      "field_search": "question",
+      "question": "nếu mua online thì mình ra cửa hàng lấy được không mình có xem hàng trước khi lấy không giá vẫn là giá onl phải không",
+      "answer": "Chào chị, Chị đặt mua online trên web trước và ra siêu thị nhận sản phẩm với giá là 6.690.000₫ chị nha, và sản phẩm này là nguyên seal mới 100% nên chị cứ yên tâm nhé.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.57018,
+      "id": "31483667",
+      "field_search": "question",
+      "question": "Quản trị Viên cho mình hỏi giá tiền ko quan trọng chỉ yêu cầu chụp hình đẹp -pin Sài đâu- bộ nhớ 64GB hoặc trở lên,Hãng iPhone ạ? Cảm ơn",
+      "answer": "Chào chị,Mời chị tham khảo , máy có Camera sau: 2 camera 12 MP và Camera trước: 7 MP, và sản phẩm có Dung lượng pin: 2691 mAh, có hỗ trợ sạc nhanh chị nhé !Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.551111,
+      "id": "21730321",
+      "field_search": "question",
+      "question": "Mình mới mua máy hôm qua , hôm nay vào phàn cài đặt có 1 mục là xác thực 2 yếu tố , mình ấn vào thì máy đơ , ko back lại đk. Giao diện đầu của phần cài đặt là sao",
+      "answer": "Chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.544971,
+      "id": "18850083",
+      "field_search": "question",
+      "question": "Sao e chuyển hết ảnh nhạc ứng dụng vào hết bộ nhớ vậy mà tải ko đc j ạ ",
+      "answer": "Chào bạn,Bạn vui lòng cung cấp thêm thông tin cho mình là bạn cần tải dữ liệu gì và khi tải máy báo lỗi gì để mình có thể hỗ trợ cho bạn tốt hơn nhé . Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.339863,
+      "id": "21550928",
+      "field_search": "question",
+      "question": "Bô nhớ khả dụng của máy duoc bao nhiêu vây qtv",
+      "answer": "Chào anh,Dạ sản phẩm này bộ nhớ khả dụng khoảng 26GB đó anh nhéChia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.269566,
+      "id": "25368252",
+      "field_search": "question",
+      "question": "Đặt online giá 8t khi nào đến nhận máy ạ",
+      "answer": "Chào anh,Vâng không biết anh đã đặt hàng có tin nhắn xác nhận đơn hàng chưa anh? anh có thể dựa theo tin nhắn bên em anh nhaMong sớm nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.266273,
+      "id": "17977772",
+      "field_search": "question",
+      "question": "Đặt cọc rồi có lấy lại cọc đc k ạ",
+      "answer": "Chào chị !  Dạ nếu chị đặt cọc rồi nhưng thấy không ưng sản phẩm thì vẫn có thể lấy cọc lại không mua sản phẩm chị nhé.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.204266,
+      "id": "29543018",
+      "field_search": "question",
+      "question": "trả góp bao nhiêu phần trăm mới lấy máy về trước đc ạ",
+      "answer": "Chào anh, Trường hợp này thì hiện tại anh trả góp bao nhiêu phần trăm vẫn không thể lấy máy về trước nếu hồ sơ của anh chưa được hỗ trợ duyệt anh nhé. Anh có thể đợi duyệt hồ sơ và hoàn tất hồ sơ mới được hỗ trợ nhận máy anh nhé. Thông tin đến anh! ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.190289,
+      "id": "30239589",
+      "field_search": "question",
+      "question": "Cemera trước. Của iPhone 6 có 1.2 MB mà sao cua oppo f9 25mb 2cai giá cũng ngang nhau mà pin và bộ nhớ với ram iPhone 6 điều thua là sao vậy",
+      "answer": "Chào anh,Dạ vấn đề này thì là do thiết kế của mỗi hãng thì sẽ khác nhau thôi anh nhé. Anh thấy sản phẩm nào phù hợp với mình thì có thể chọn sản phẩm đó nha.Xin thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.175293,
+      "id": "23037474",
+      "field_search": "question",
+      "question": "Cho hỏi ở quận 4 còn hàng không iphone 6 không để mình qua lấy",
+      "answer": "Chào anh !  Rất tiếc bên em đang tạm hết hàng sản phẩm này tại khu vực quận 4 ạ. Nếu anh quan tâm thì anh có thể để lại thông tin số điện thoại để bên em hỗ trợ anh chuyển hàng 2-7 ngày nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.151285,
+      "id": "18738178",
+      "field_search": "question",
+      "question": "Mới mua em này xài đc gần 2 tuần, máy tốt, chạy mượt, bộ nhớ theo mình thì thấy 32gb vừa dùng, 16gb thì nhỏ quá, 64gb thì quá thừa thãi, pin thì tạm ok, hơi yếu 1 tí, tăng lên khoảng 2300-2500 thì tuyệt vời",
+      "answer": "Chào anh,Cám ơn anh đã quan tâm đến sản phẩm tại siêu thị Thegioididong.com và có đánh giá tốt về sản phẩm, mong anh luôn đồng hành cùng siêu thị Thegioididong.com.Chúc anh buổi tối tốt lành!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.083204,
+      "id": "27565555",
+      "field_search": "question",
+      "question": "ad ơi cho em hỏi, mình đến của hàng mua thì có nhận được giá khuyến mãi không? hay là phải đặt hàng online mới được khuyến mãi ạ!",
+      "answer": "Chào anh, Anh phải đặt mua online trên web thành công và ra siêu thị Thegioididong.com mua sản phẩm để nhận giá ưu đãi anh nha . Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.067066,
+      "id": "27770458",
+      "field_search": "question",
+      "question": "cho hỏi máy ip6 32gb dung lượng pin là 1810mAh hay 1751mAh  tại sao khi mình test độ chai pin thì dung tích có 1751mah",
+      "answer": "Chào bạn,Máy có dung lượng pin 1810mAh.Nếu có thể bạn vui lòng chụp ảnh màn hình có thông tin kết quả kiểm tra bạn đề cập đến để mình kiểm tra và hỗ trợ bạn chính xác hơn nha.Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.014206,
+      "id": "27171358",
+      "field_search": "question",
+      "question": "Cho mình hỏi là giảm từ 3-5% thì máy này còn bao nhiêu và có áp dụng giá ý cho trả góp k ạ",
+      "answer": "Chào chị.Dạ với trường hợp này thì chị vui lòng nhập số điện thoại vào lấy mã khuyến mãi  để xem chị được mã giảm giá bao nhiêu để bên em hỗ trợ chị cụ thể hơn ạ, và  chương tình ngày của mẹ vẫn được hỗ trợ mua góp chị nhé, Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.95507,
+      "id": "27435927",
+      "field_search": "question",
+      "question": "Cho hỏi mình vừa đặt mua online đt, vậy là sáng mai mình có thể ra lấy điện thoại ạ",
+      "answer": "Chào anh,Dạ nếu anh đã đặt online và khu vực anh đặt có máy thì anh có thể lấy sản phẩm này vào ngày mai vẫn được anh nha.chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.896349,
+      "id": "31076821",
+      "field_search": "question",
+      "question": "Cho mình hỏi chút. Các máy iPhone 6 bây giờ TGDD đang bán là hãng mới sx hay sx lâu rồi . và bây giờ mà máy mới sx ra lại bán với giá rẻ chỉ bằng một nửa lúc mới ra thì có ảnh hưởng j đến chất lượng của máy so  với lúc đầu k",
+      "answer": "Chào anhDạ các sản phẩm bên em đang bán đều là hàng mới chính hãng hết anh nha nên anh có thể yên tâm chất lương ạ. Nếu anh quan tâm đến sản phẩm thì anh có thể cung cấp cho em thông tin khu vực anh đang sống để em kiểm tra hàng giúp anh được không ạ? Mong nhận được phản hồi từ anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.84667,
+      "id": "21156961",
+      "field_search": "question",
+      "question": "Cho mình hỏi là máy minh mình xài có lúc để trong túi quần jean nên hay bị cấn máy khi đi lại và chạy xe, và mình cũng sơ ý để máy trong túi áo và cấn vào tủ thì khi bị những trường hợp trên thì máy có vấn đề gì không ạ? có thể làm thay đổi màu màn hình hay phần cứng bên trong máy bị gì không? Mình cảm ơn",
+      "answer": "Chào anh.Dạ trường hợp này sẽ không sao đâu ạ, khi máy bị va đập mạnh, rơi từ trên cao thì máy mới có thể bị ảnh hưởng ở phần cứng nên anh có thể yên tâm anh nhé. Thông tin đến anh ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.836401,
+      "id": "17740481",
+      "field_search": "question",
+      "question": "E dang xài iphone mún đổi đt khác thì hình ảnh va các dữ liệu khác trong  mái làm sau chuyển qua the nhớ đc ạ",
+      "answer": "Chào chị Trường hợp của chị  không biết muốn chuyển qua sản phẩm nào vậy ạ để bên em hỗ trợ kiểm tra giúp chị ngay chị nhaBên em chờ phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.827385,
+      "id": "25964252",
+      "field_search": "question",
+      "question": "E ms mua máy hwa ở tgdd sao k thấy cây lấy sim trong bộ phụ kiện   vậy ad",
+      "answer": "Chào chị Hiện chị có thể kiểm tra lại kĩ trong bộ sản phẩm giúp được không ạ? Hiện sản phẩm bên em kinh doanh full seal nên không thể thiếu được đâu ạ.Xin gửi thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.786572,
+      "id": "25290775",
+      "field_search": "question",
+      "question": "Thẻ nhớ 8g và 4gb giá bao nhiêu vậy",
+      "answer": "Chào anh,Hiện bên em không kinh doanh thẻ nhớ 4gb ạ, bên em có kinh doanh Thẻ nhớ Micro SD 8 GB Class 4 và đang có chương trình giá sốc giá 180.000đ đó ạ. Anh có thể vào đặt hàng trên web để hưởng ưu đãi ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.751507,
+      "id": "31248691",
+      "field_search": "question",
+      "question": "Cho mình hoi? Mình mua iphone 6 đến bây giờ là được 4 tháng mà 2 ngày trước là mình dùng tự nhiên máy bị đơ không bấm đc phải tắt máy mở lại mới dùng được. Mìnhbij như vậy suốt đến bây giờ. Thì phải làm sao ạ",
+      "answer": "Chào bạn,Trường hợp này bạn giúp mình kết nối iPhone với máy tính, kết nối iTunes -> restore lại máy khắc phục lỗi trên.Bạn lưu ý :- Tất cả dữ liệu trên iPhone của bạn bao gồm tin nhắn,hình ảnh,danh bạ ... sẽ bị mất.- Bạn nhớ xóa hoặc thoát tài khoản iCloud trên máy trước khi khôi phục để tránh khóa tài khoản iCloud.Chúc bạn thành công !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.75044,
+      "id": "30888219",
+      "field_search": "question",
+      "question": "Iphone6 plus có đoc được thẻ nhớ ngoài qua cap OTG được ko ạ",
+      "answer": "Chào anh ,Dạ máy rất tiếc không đọc được thẻ nhớ ngoài qua cáp OTG anh nhé. Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.697649,
+      "id": "25290738",
+      "field_search": "question",
+      "question": "Thẻ nhớ 8gb và 4gb giá bao nhiêu vậy",
+      "answer": "Chào anh ! Dạ bên em không có kinh doanh thẻ nhớ 4GB nha anh, chỉ có  giá 230.000đ nha anh, nhưng nếu anh đặt mua Online xuyên Tết từ 15/2 đến 22h ngày 18/2 sẽ được giảm 20% còn 180.000đ nha anh, mùng 4 Tết mình sẽ nhận hàng nha anh.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.696898,
+      "id": "19306181",
+      "field_search": "question",
+      "question": "Khi mua mình dán phần lưng phần keo trong có ảnh hưởng gì đến màu của máy không?",
+      "answer": "Chào chị Thanh,Việc dán keo trong máy vẫn không ảnh hưởng đến màu máy chị nha! Chia sẻ cùng chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.68141,
+      "id": "20621189",
+      "field_search": "question",
+      "question": "Máy qua sd còn 90% giá bao nhiêu?",
+      "answer": "Chào anh,Rất tiếc hiện tại bên em không bán máy theo % mà bán theo hạn sử dụng nha anh. Nếu có thể anh vui lòng cung cấp thông tin khu vực nơi anh ở (TP/Tỉnh, Quận/ Huyện) để bên em hỗ trợ kiểm tra hàng anh nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.67109,
+      "id": "31220455",
+      "field_search": "question",
+      "question": "Shop cho e hỏi Vs dung lượng pin 1810mAh...chơi game có đc lâu ko ạ.vì các dòng máy e sài thì dung lượng pin 3000mAh mà chơi game cũng rất mau ht...",
+      "answer": "Chào anh,Dạ với dung lượng pin của máy thì sẽ chơi game không được quá lâu anh nhé. Nếu anh cần máy có pin tốt hơn thì anh có thể tham khảo các dòng máy khác anh nhé.Chia sẻ cùng anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.664074,
+      "id": "29695781",
+      "field_search": "question",
+      "question": "cho em hỏi em có đặt mua ol ip6 tối hôm qua giá 6690k vậy hôm nay em đi lấy máy có đc giá đó hay giá 7490k ạ",
+      "answer": "Chào anh,Anh đặt hàng với giá 6.690.000đ thì sẽ nhận hàng với giá này nha. Anh vui lòng nhận hàng trong thời gian quy định nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.540056,
+      "id": "17600629",
+      "field_search": "question",
+      "question": "cho mình hỏi nếu mua ở tgdd mà k đặt trc thì giá là bao nhiêu vậy bạn?",
+      "answer": "Chào anh,Hiện sản phẩm  IPHONE 6 32GB anh quan tâm  bên em đang có giá dự kiến là: 9.990.000đ nha anh, nếu anh cần hỗ trợ thêm về vấn đề gì anh có thể phản hồi tại đây bên em sẽ hỗ trợ anh tốt nhất ạ. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.538982,
+      "id": "24253654",
+      "field_search": "question",
+      "question": "Mua iPhone 6 phai trả  trước  bao nhiêu,  phần  còn  lại phải  trả  trong mấy  tháng, mỗi  tháng  là  bao nhiêu ?",
+      "answer": "Chào chị Phượng,Chị có thể trả trước từ 0-80% giá máy , góp từ 3-24 tháng. Chị vui lòng cung cấp thông tin về số tiền chị có thể trả trước, số tháng góp và các giấy tờ chị hiện có để bên em tư vấn gói lãi suất phù hợp cho chị ạ. Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.53417,
+      "id": "25831162",
+      "field_search": "question",
+      "question": "Cho mình hỏi là bể màn hình thì thay màn hình là bao nhiêu tiền ạ máy còn bảo hành",
+      "answer": "Chào anh,Hiện tại bên siêu thị em không hỗ trợ sữa chữa, thay thế nên chưa thể báo giá được ạ, anh có thể gọi liên hệ Trung tâm hãng để biết thêm thông tin về giá, nếu anh mua sản phẩm tại Thegioididong.com anh có thể dành chút thời gian mang sản phẩm ra siêu thị để bên em hỗ trợ anh chuyển sản phẩm lên Trung tâm hãng bảo hành cho anh nhé,Thân gửi đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.49273,
+      "id": "22757640",
+      "field_search": "question",
+      "question": "Với thời lượng pin là 1810mAh thì để chơi game và bật Wifi với 4G liên tục thì máy trụ đc bao nhiêu tiếng v QTV ?",
+      "answer": "Chào anh Phong Vâng trường hợp này có thể dùng khoảng 2-3h tùy vào nhu cầu dùng như thế nào nữa anh nha Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.48263,
+      "id": "27213085",
+      "field_search": "question",
+      "question": "Gắn thẻ nhớ dùng cho tải ứng dụng có đc kh ạ",
+      "answer": "Chào bạn,iPhone chính hãng Apple không gắn thêm được thẻ nhớ và không sử dụng được như bạn đề cập bạn nha. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.392138,
+      "id": "20094625",
+      "field_search": "question",
+      "question": "sao máy ip6 này mình mới mua 1 tháng mà khi có tin nhắn trên zalo hay messenger đến , thỉnh thoảng nó báo hiệu tin nhắn đến khi thì không báo là sao ad? Mình đã thử cài đặt lại phần thông báo rồi mà sao lúc có lúc không vậy?",
+      "answer": "Chào bạn, Trường hợp này thì có thể do lỗi xung đột phần mềm nên bạn thử tắt nguồn điện thoại khởi động lại xem sao bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.36902,
+      "id": "29879950",
+      "field_search": "question",
+      "question": "cho mình hỏi xí.... máy của mình khi vào cài đặt là có 1 sọc đen dọc xuất hiện chỉ thoáng qua rồi hết ... cho mình hỏi làm sao để khắc phục ạ? mình cảm ơn",
+      "answer": "Chào anh ,Trường hợp này khả năng cao là màn hình máy anh có vấn đề, anh vui lòng mang sản phẩm ra siêu thị Thegioididong.com hoặc dienmayxanh.com gần nhất đễ được hỗ trợ kiểm tra và chuyển hãng bảo hành nếu cần anh nhé.Xin thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.367025,
+      "id": "25364804",
+      "field_search": "question",
+      "question": "iphone bị vở mà mình không có đồng bộ dữ liệu trên icloud. vậy có lấy lại được dữ liệu không ạ?",
+      "answer": "Chào bạn, Trường hợp này thì nếu không đồng bộ dữ liệu thì có thể bị mất trong quá trình sửa chữa nên có thể sẽ không lấy lại được nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.359814,
+      "id": "26216772",
+      "field_search": "question",
+      "question": "Cho e hỏi với máy iphone 6 em thẻ nhớ 32g có thể nâng thẻ nhớ lên được hk ạ",
+      "answer": "Chào bạn Rất tiếc bộ nhớ trong của máy iPhone là 32GB mặc định không nâng cấp lên được bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.346424,
+      "id": "21631025",
+      "field_search": "question",
+      "question": "cho mình hỏi,mình cập nhật lên ios 11 bay giờ vào appstore máy báo là không thể kết nối,mạng mình đã thử mấy wf rồi , mình khôi phục lại máy, cả ngày giờ nữa nhưng vẫn chưa đc là bị sao vậy ad",
+      "answer": "Chào bạn,Trường hợp này có thể do phiên bản iOS 11 đang là bản beta nên chưa được ổn định nha bạn. Để khắc phục thì bạn vui lòng quay về phiên bản iOS 10.3.3 để sử dụng tốt nhất bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.323584,
+      "id": "26165608",
+      "field_search": "question",
+      "question": "Cho em hỏi là mình đặt online rồi mua TGDĐ mình mua trả góp được kh ạ",
+      "answer": "Chào chị Vy. Dạ. Chị đặt mua online rồi chị mua trả góp được chị nhé. Nhưng online giá rẻ chỉ áp dụng mua trả góp lãi suất thường thôi chị nha. Chị vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện, nước, cáp 1 trong 3 tháng gần nhất), độ tuổi  để em tư vấn gói trả góp phù hợp với mình nhất ạ. Mong  nhận phản hồi sớm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.316324,
+      "id": "23147676",
+      "field_search": "question",
+      "question": "Cho e hỏi chút. Máy e để không nó cũng hao pin rất nhanh. 60% để qua đêm còn bị sập nguồn trong khi đã ngắt hết ững dụng cũng như wifi 3G. Dùng mạng thì mãi chả sao nhưng tắt đi không dùng nữa thì còn sụt ác hơn cả lúc còn bật wifi",
+      "answer": "Chào bạn,Trường hợp này, bạn có thể kiểm tra xem PIN của điện thoại mình có bình thường không bằng 2 cách sau, theo hướng dẫn bài viết  bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.247892,
+      "id": "27566100",
+      "field_search": "question",
+      "question": "Cho em hỏi tý : Đặt hàng trên trang của TGDD rồi đến cửa hàng mua có được ko? hay là người của TGDD mang máy  đến mới mua được giá 6.690.000đ?",
+      "answer": "Chào chị Dạ, chị đặt hàng trên web Thegioididong.com rồi đến siêu thị Thegioididong.com nhận được chị nha. Hoặc nếu chị muốn nhận hàng tại nhà thì chị vui lòng chọn nhận hàng tại nhà,  nhân viên Thegioididong.com sẽ giao hàng trực tiếp giúp chị. Chia sẻ cùng chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.18284,
+      "id": "29293601",
+      "field_search": "question",
+      "question": "Ad cho em hỏi, em đưa ảnh lên icloud và lỡ đăng xuất icloud thì mất toàn bộ ảnh. Làm thế nào để lấy lại ạ.",
+      "answer": "Chào bạn,Dạ bạn đăng nhập lại iCloud là có ảnh lại bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.135773,
+      "id": "22781236",
+      "field_search": "question",
+      "question": "cho mình hỏi tại sao iphone 6s plus của mình bị sao mà ghi nhớ mất hết rồi gọi không được nó cứ báo máy bận",
+      "answer": "Chào bạn, Tình trạng này bạn thử tắt điện thoại khởi động lại giúp mình xem có khắc phục được không bạn nhé. Nếu không được bạn phản hồi tại đây mình sẽ hỗ trợ tiếp cho bạn . Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.127977,
+      "id": "27992364",
+      "field_search": "question",
+      "question": "mình mua máy đã được 38 ngày vậy bây giờ mình muốn bán lại thì tgdđ mua lại với giá bao nhiêu ạ. trước mình mua giá máy là 6tr990",
+      "answer": "Chào anh ! Nếu anh mua sản phẩm mới bên em còn thời gian bảo hành thì anh có thể bán lại cho bên em nha anh, anh còn giá trị máy 75% khoảng 5.242.500đ nha anh, vui lòng mang toàn bộ bộ sản phẩm đến Siêu thị để bên em hỗ trợ cho anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.127234,
+      "id": "24892720",
+      "field_search": "question",
+      "question": "Cho e hỏi ip 6 xài bộ sạc của ip 6plus có ảnh hưởng j đến máy k ạ",
+      "answer": "Chào bạn, Theo mình thấy thì việc này không ảnh hưởng tới máy bạn nhé Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.11422,
+      "id": "20165953",
+      "field_search": "question",
+      "question": "Máy k vào đc fb là sao z , mỗi lần đăng nhập đều k có kết nối internet, trong khi đó mạng rất mạnh, có 1 QTV bảo là phải quên mạng đi khởi động máy lại rồi đăng nhập lại mình có thử làm nhưng chỉ sau 3 ngày là nó lại báo k có kết nối internet, bị mấy tháng rồi, có cách nào giúp mình k z",
+      "answer": "Chào bạn,Trường hợp này trên iPhone 6 bạn vào cài đặt > cài đặt chung > đặt lại > đặt lại tất cả cài đặt > khởi động lại máy và thiết bị phát wifi xem có khắc phục được không nha.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.062916,
+      "id": "23090221",
+      "field_search": "question",
+      "question": "Iphone 6 16G thì dung lượng còn bao nhiêu v QTV",
+      "answer": "Chào anh,,Với sản phẩm Iphone 6 16GB thì dung lượng bộ nhớ trong là 16GB và có bộ nhớ Ram là 1GB anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.014816,
+      "id": "23217196",
+      "field_search": "question",
+      "question": "cho mình hỏi là giá 8tr490 là giá khi đến thegioididong mua máy từ ngày 18-20/11 ạ?",
+      "answer": "Chào chị,Dạ với giá trên thì khi đến siêu thị vào ngày 18-20/11 thì sẽ được hưởng giá ưu đãi chị nhé.Buổi chiều nhiều may mắn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.989079,
+      "id": "19545550",
+      "field_search": "question",
+      "question": "Anh ơi cho em hỏi máy em bị vỡ mặt kính ngoài còn cảm ứng vẫn dùng bình thường. Vậy e phải thay full bộ hay thay mỗi mặt kính thôi ạ",
+      "answer": "Chào anh Hiệp,Rất tiếc là bên em không hỗ trợ sửa chữa nên không thể thông tin chính xác được ạ. Nhưng nếu anh mua sản phẩm ở Thegioididong.com thì anh hãy mang sản phẩm đến Thegioididong.com để bên em hỗ trợ chuyển lên hãng sửa chữa và sau đó hãng sẽ báo giá cho anh sau. Nếu không thì anh có thể liên hệ trực tiếp  để được hỗ trợ anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.986624,
+      "id": "17722349",
+      "field_search": "question",
+      "question": "cho mình hỏi chhuts. mình có đặt coc ở tgdd rồi nhưng mình đã có người tăng máy, mình co lấy lại được cọc ko và thời gian lấy cọc ntn? tk",
+      "answer": "Chào anh,Dạ với trường hợp này thì anh có thể liên hệ trực tiếp tổng đài siêu thị Thegioididong.com 1800.1060 để được hỗ trợ anh tốt nhất nha. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.967129,
+      "id": "23666402",
+      "field_search": "question",
+      "question": "Máy có Rom 32Gb thì trống còn lại bao nhiêu ạ ? Máy chơi game yêu cầu độ họa khá cao như Lq Mobile thì pin sẽ trụ đc bao lâu nếu chơi liên tục ?",
+      "answer": "Chào bạn,Dạ bộ nhớ khả dụng của máy còn khoảng 26 GB bạn nhé, với nhu cầu sử dụng liên tục, máy có thể dùng được khoảng 3-4h tuỳ theo tác vụ sử dụng máy bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.941442,
+      "id": "26710167",
+      "field_search": "question",
+      "question": "Cho mình hỏi máy mua trực tiếp giá bao nhiêu ạ con mưa online giá bao nhiêu ạ tu vấn giúp em",
+      "answer": "Chào anh ! Dạ với chiếc Điện thoại iPhone 6 32GB thì anh mua trực tiếp hay mua online thì đều có giá là 6.990.000₫ anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.925388,
+      "id": "28942754",
+      "field_search": "question",
+      "question": "Cho mình hỏi, bố mình vừa mua một con 6 cũ 99%. Thì bố mình dùng khoảng 15 ngày rồi bố mình phải đi nước ngoài nên phải chuyển dịch vụ. Nhưng bố mình bảo không thể kết nối đc mạng 3G. Vậy là sao ạ?",
+      "answer": "Chào bạn,Có thể do qua bên nước ngoài thì SIM 3G ở Việt Nam không còn dùng được nhé. Bạn có thể nói bố mình sử dụng SIM 3G của nhà mạng bên đó nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.82251,
+      "id": "23384643",
+      "field_search": "question",
+      "question": "cho hỏi mình muốn trả góp trong mua online giá rẻ thì đặt hàng ở đâu ạ ??",
+      "answer": "Chào anh,Trường hợp này thì anh có thể  để đặt hàng anh nha. Nếu được thì anh hãy cho em biết khu vực anh ở để em kiểm tra xem nơi anh có còn hàng hay không anh nhé.Mong hồi âm từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.779331,
+      "id": "20247260",
+      "field_search": "question",
+      "question": "Như vậy nếu muốn mua online để giảm 1tr thì mình phải có sẵn 7990k trong tài khoản ngân hàng đúng không?",
+      "answer": "Chào chị,Vâng ạ, vì chương trình giảm 1.000.000đ chỉ hỗ trợ khi chị thanh toán bằng thẻ Master card thôi ạ, nên khi thanh toán thì thẻ của chị phải đủ 7.990.000đ trong tài khoản nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.722952,
+      "id": "26692467",
+      "field_search": "question",
+      "question": "Mình mới mua máy tại tgdd mã máy là vn/s bắt sóng rất yếu hơn các iphone cùng dòng, ad cho e hỏi là lý do tại sao khoobg ạ, nếu do máy thì em có quyền đổi qua máy do nhà phát hành khác ngoài trừ nhật được không ạ!",
+      "answer": "Chào bạn,Bên mình chỉ kinh doanh máy VN/A phân phối cho thị trường Việt Nam thôi bạn nhé .Các mã khác là điện thoại xách tay bên mình không bán ạ .Bạn thử tắt máy và gắn SIM khác vào máy xem có bắt sóng tốt hơn không .Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.711386,
+      "id": "24742411",
+      "field_search": "question",
+      "question": "Khi mình bật keychain thì máy sẽ tự động lưu pass wifi vậy khi đặt lại mạng thì keychaib còn lưu nữa không ạ?",
+      "answer": "Chào bạn,Bạn cài đặt lại mạng thì keychain không còn lưu mật khẩu nhé.Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.686977,
+      "id": "23209832",
+      "field_search": "question",
+      "question": "Mình đặt máy này mua trả góp ngày 19/11 mình lấy hàng có được giảm giá không ạ?,Mình đặt máy này mua trả góp ngày 19/11 mình lấy hàng có được giảm giá không ạ?",
+      "answer": "Chào chị Tranh,Chị đặt mua trả góp sản phẩm này ngày 19/11 sẽ được mua giảm giá chị nhé, tuy nhiên không áp dụng mua trả góp lãi xuất 0% và cần làm hồ sơ cũng như nhận máy thành công trong ngày 19 hoặc 20 ạ.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.67325,
+      "id": "29055861",
+      "field_search": "question",
+      "question": "chào a/c cho em hỏi iphone 6 của e đang dùng bình thương sáng nay tự dung không mở khóa bằng vân tay được mà phải dùng mật khẩu id là sao vậy ạ. Nó không nhận vân tay, mật khẩu màn hình e không nhớ giờ em không thể vào máy. Làm cách nào để vào lại ạ",
+      "answer": "Chào bạn,Trường hợp này, bạn có thể tham khảo và làm theo bài viết  bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.666616,
+      "id": "18763908",
+      "field_search": "question",
+      "question": "Mình là bộ đội thì khi muốn mua trả góp thì cần những gì.",
+      "answer": "Chào anh,Anh là bộ đội thì khi mua góp anh vẫn chuẩn bị các giấy tờ như: CMND, hộ khẩu (hoặc bằng lái xe), hóa đơn điện,...anh nhé. Tuy nhiên, hiện iPhone 6 32G còn ít hàng nên anh vui lòng cung cấp khu vực cụ thể (huyện, quận,...) để em kiểm tra siêu thị còn hàng không nhé. Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.66061,
+      "id": "28584966",
+      "field_search": "question",
+      "question": "Không dùng máy để qua đêm mất 10% pin thì có phải pin hỏng không?",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.659697,
+      "id": "25769938",
+      "field_search": "question",
+      "question": "Nếu dùng bình thường vs nhu cầu lướt web và mạng xa hội thì thời lượng pin đc khoảng bao nhiêu h",
+      "answer": "Chào bạn,Dạ mình ước lượng thời gian dùng liên tục đa tác vụ của máy là khoảng 3 giờ bạn nhé; thời gian này không cố định, sẽ thay đổi tùy theo tác vụ, ứng dụng khác nhau trên máy nữa bạn nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.647118,
+      "id": "21635142",
+      "field_search": "question",
+      "question": "cho mình hỏi sao mình vào phần cài đặt lại ko thấy mục icloud là sao ạ",
+      "answer": "Chào bạn, Trường hợp này thì bạn vào Cài đặt > Profiles (mục đầu tiên) > iCloud nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.579704,
+      "id": "25954766",
+      "field_search": "question",
+      "question": "mình mua iphone 6, 32g của TGDĐ ngày 23.7.2017, giờ bán lại cho TGDĐ thì giá còn lại là bao nhiêu?",
+      "answer": "Chào anh, Anh vui lòng cho em biết giá sản phẩm lúc anh mua ạ , bên em sẽ kiểm tra và hỗ trợ giúp anh nhé . Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.562077,
+      "id": "27468612",
+      "field_search": "question",
+      "question": "Ủa mua giá online thì 6 triệu 7 vậy cho hỏi mình lên thế giới di động là mua giá tiền bao nhiêu ạ !",
+      "answer": "Chào anh.Với sản phẩm Điện thoại iPhone 6 32GB nếu anh không đặt hàng online thì khi anh đến Thegioididong.com để mua sản phẩm anh sẽ mua với giá 7.490.000₫ anh nhé, anh nên đặt hàng online trước sau đó đến Thegioididong.com để nhận hàng trong 48h anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.561562,
+      "id": "21278753",
+      "field_search": "question",
+      "question": "Cho tôi hỏi giờ tôi mua máy rồi 1 năm sau bán thì tgdd mua lại vs giá bao nhiêu",
+      "answer": "Chào chị AnhChị mua máy mới tại Thegioididong.com còn thời hạn 12 tháng thì bên em có hoàn lại tiền cho chị ạ. Chị bị trừ 20% giá máy trên hóa đơn, cho tháng đầu tiên các tháng tiếp theo mỗi tháng trừ thêm 5% ạ. Thông tin đến chị ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.506132,
+      "id": "25210747",
+      "field_search": "question",
+      "question": "Máy này nên để khoảng bao nhiêu phần trăm thì sạc pin ?",
+      "answer": "Chào bạn Trường hợp này bạn sạc Pin khi máy còn khoảng 15% Pin bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.464783,
+      "id": "29855141",
+      "field_search": "question",
+      "question": "Cho mình hỏi máy quốc tế và máy clock đều sd đc sim của các nhà mạng luôn phải khôg.",
+      "answer": "Chào chị , Dạ máy quốc tế thì SIM của nhà mạng nào cũng dùng được còn máy Lock về bản chất chỉ dùng được 1 SIM của nhà mạng mà phân phối điện thoại đó kèm hợp đồng nhà mạng ạ .Về Việt Nam các máy Lock cần có SIM ghép để đánh lừa điện thoại mới dùng được các SIM ở Việt Nam chị nhé. Thông tin đến chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.434656,
+      "id": "22081299",
+      "field_search": "question",
+      "question": "cho mình hỏi thế giới di động còn i phone 6 bản 16gb mới 100% không . nếu còn thì giá là bao nhiêu ?",
+      "answer": "Chào anh,Hiện tại sản phẩm Điện thoại iPhone 6 16GB bên em đã ngừng kinh doanh. Anh vui lòng tham khảo sản phẩm khác để bên em hỗ trợ ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.428753,
+      "id": "22217584",
+      "field_search": "question",
+      "question": "Tại sao iphone ram chỉ có 1G,dung lượng pin thấp trong khi đó samsung ram toàn 3G trở lên dung lượng pin thì gấp đôi mà sao iphone vẫn chạy mượt và đc đánh giá có phần cao hơn nhỉ?giải thích cho mình với",
+      "answer": "Chào bạn,Do là hệ điều hành iOS của iPhone được tốt ưu tốt cho việc sử dụng nên về thông số Ram có phần thấp hơn nhưng vẫn có thể chạy mượt được hầu hết các ứng dụng hiện nay bạn nhé.Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.38436,
+      "id": "24858887",
+      "field_search": "question",
+      "question": "Cho e hỏi máy mới , e dùng wifi máy hoạt động khoảng 10p là rất nóng ở phần đầu máy và hay đứng máy là sao ak ? Làm sao để khắc phục !",
+      "answer": "Chào bạn.Dạ trường hợp này thì bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > đặt lại tất cả cài đặt sau đó chờ cho máy khởi động lại hệ thống kiểm tra xem có cải thiện được hay không bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.378548,
+      "id": "24177200",
+      "field_search": "question",
+      "question": "Qtv cho mình hỏi. Đến tgdd mua trả góp lãi suất 0% thì có được lấy máy ngay không ạ",
+      "answer": "Chào anh LongSau khi anh ký xong hợp đồng và đóng các khoản tiền theo hợp đồng rồi thì anh có thể nhận máy ngay hôm đó luôn anh nhéThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.374413,
+      "id": "29365676",
+      "field_search": "question",
+      "question": "mh mua ip 6 32gb đc 5 tháng cứ thỉnh thoảng là nó bị tự động tắt nguồn và khởi động lại. bây giờ mh muốn đem máy đến hãng bảo hành. thì cho mh hỏi qtv là nếu bảo hành thì thời gian lâu kg. và có máy để dùng tạm kg. hoặc máy mh đang trong thời gian bảo hành nếu mh muốn đổi máy mới cũng ip 6 32gb thì mh phải trả % là bao nhiêu. mong đc giúp đỡ từ qtv",
+      "answer": "Chào anh!Dạ khi anh gửi sản phẩm bảo hành sẽ mất khoảng 7-15 ngày anh nha, nếu siêu thị có máy thì sẽ cho anh mượn thay thế anh nha, ngoài ra Thegioididong.com sẽ thu lại sản phẩm nếu sản phẩm được mua mới tại Thegioididong.com và không có lỗi từ người sử dụng, còn trong thời gian bảo hành, anh có thể cho em xin ngày mua và số tiền mua sản phẩm theo hóa đơn là bao nhiêu để em có thể tính số tiền hoàn lại cho anh nha. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.352968,
+      "id": "27436263",
+      "field_search": "question",
+      "question": "cho mình hỏi là khi đặt mua online thì sẽ được test hàng trước hay thah toán trước rồi mới test v",
+      "answer": "Chào anh,Dạ với sản phẩm Iphone thì anh phải thanh toán xong anh mới được khui seal để kiểm tra máy anh nha,Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.323141,
+      "id": "27374580",
+      "field_search": "question",
+      "question": "Cho mình hỏi với ạ. Mình mua máy iphone 6 32gb ngày 4/3/2018 lúc đó giá trị máy là 8tr499k thì giờ mình muốn bán lại cho tdgd thì còn được bao tiền ạ",
+      "answer": "Chào anh,Nếu anh mua sản phẩm là máy mới tại Thegioididong.com, không phải máy đổi trả và hiện sử dụng bình thường trả lại bên em hoàn cho anh 70% giá trị sản phẩm ( khoảng 5.949.300đ ) anh nhé.  Phí đổi trả này chỉ là tham khảo ,khi đến siêu thị anh mang theo bộ phụ kiện chuẩn và quà tặng có giá trị ( nếu có ) để được hỗ trợ đổi trả mà không mất thêm phí anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.298687,
+      "id": "29054165",
+      "field_search": "question",
+      "question": "Cho e hỏi bên mình có bán bộ sạc chính hãng không ạ",
+      "answer": "Chào anh, dạ mời anh tham khảo thông tin các sản phẩm PHỤ KIỆN CHÍNH HÃNG APPLE hiện tại bên em đang có kinh doanh  anh nhaThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.2907,
+      "id": "25335902",
+      "field_search": "question",
+      "question": "Mình mua máy từ hôm 12/2/2018, đến nay là được 1 tuần. Tuy nhiên máy hay tự sập nguồn rồi khởi động lại. Mình có được đổi trả dùng máy mới ko?",
+      "answer": "Chào bạnNếu bạn mua máy tại Thegioididong.com thì bạn có thể mang máy qua siêu thị kiểm tra và hỗ trợ tốt nhất tới mình ạ. Nếu có lỗi do nhà sản xuất và trong thời gian bảo hành sẽ áp dụng đúng chính sách ạ.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.271936,
+      "id": "30495726",
+      "field_search": "question",
+      "question": "Shop cho mình hỏi xxxx099333 có BH 1 máy iPhone 6 .TTBH báo đổi máy khác . Thì máy mh nhận về có thể đổi trả cho shop đc không .máy mình mua 16/6 . nếu giờ trả lại thì còn lại bao nhiêu tiền .mong shop phan hoi",
+      "answer": "Chào anh Dạ . Anh ơi , hiện nếu sản phẩm anh mua máy mới tại Thegioididong còn bảo hành (không bị lỗi , máy cũ , rơi nước và vỡ) sẽ hỗ trợ thu lại 4.494.000đ , tuy nhiên đây chỉ là giá tham khảo , vui lòng anh mang bộ sản phẩm chuẩn và quà khuyến mãi (nếu có) ra siêu thị để hỗ trợ tính giá chính xác hơn nhé .Thông tin đến anh",
+      "relate_q_q": 0
+    }
+  ]
+}

@@ -9,6 +9,7 @@ import os
 import collections
 import random
 from pyvi import ViTokenizer, ViPosTagger
+import convenion
 
 
 # Base on https://blog.duyet.net/2017/10/doc2vec-trong-sentiment-analysis.html#.XJdzLOszbwc
@@ -23,10 +24,14 @@ def read_corpus(fname):
             id_qa = line['id_cmt']
             question = line['question']
             answer = line['answer']
-            print(question)
-            print(answer)
-            if id_qa is None or question is None:
+            # print(question)
+            # print(answer)
+
+            if id_qa is None or question is None or answer is None:
                 continue
+
+            question = convenion.customize_string(question)
+            answer = convenion.customize_string(answer)
             question = word_tokenize(question, format='text')
             answer = word_tokenize(answer, format='text')
             yield TaggedDocument(simple_preprocess(question), [id_qa + '_q'])
@@ -38,18 +43,18 @@ def train_model():
     print('train corpus total sentences: ', len(train_corpus))
 
     print(train_corpus[:10])
-    model = Doc2Vec(vector_size=200, min_count=2, epochs=50)
+    model = Doc2Vec(vector_size=200, min_count=1, epochs=50)
     # Build
     model.build_vocab(train_corpus)
 
     model.train(train_corpus, total_examples=model.corpus_count, epochs=model.epochs)
 
-    model.save('gensim/model/question.d2v')
+    model.save('/Users/tienthanh/Projects/ML/QAAutomation/gensim/model/question.d2v')
     print('Trained and saved')
 
 
 def test_model():
-    doc2vec_model = model = Doc2Vec.load('gensim/model/question.d2v')
+    model = Doc2Vec.load('gensim/model/question.d2v')
     print(model.wv.most_similar('pin - sạc'))
     print(model.wv.most_similar('ip'))
     print(model.wv.most_similar('loa - âm thanh'))
@@ -59,8 +64,8 @@ def test_model():
 def raw_my_vectors_to_file(model):
     word_vectors = model.wv
 
-    word_vectors.word_vec('pin - sạc')
-    with open('data/word-vector/vectors_baomoi.txt', 'w+') as f:
+    # word_vectors.word_vec('pin - sạc')
+    with open('/Users/tienthanh/Projects/ML/QAAutomation/data/word-vector/vectors.txt', 'w+') as f:
         vocab = model.wv.vocab
         for key, _ in vocab.items():
             word_vector = word_vectors.word_vec(key)
@@ -74,7 +79,7 @@ def raw_my_vectors_to_file(model):
 
 
 def raw_vocab_with_index(model):
-    with open('data/word-vector/vocab_baomoi.txt', 'w+') as f:
+    with open('/Users/tienthanh/Projects/ML/QAAutomation/data/word-vector/vocab_used.txt', 'w+') as f:
         vocab = model.wv.vocab
         for key, _ in vocab.items():
             index = vocab[key].index
@@ -83,7 +88,11 @@ def raw_vocab_with_index(model):
     f.close()
 
 def raw_vectors_and_vocab():
-    baomoi_model = KeyedVectors.load_word2vec_format('gensim/model/baomoi.model.bin', binary=True)
+    # baomoi_model = KeyedVectors.load_word2vec_format('gensim/model/baomoi.model.bin', binary=True)
+    my_model = Doc2Vec.load('/Users/tienthanh/Projects/ML/QAAutomation/gensim/model/question.d2v')
 
-    raw_my_vectors_to_file(baomoi_model)
-    raw_vocab_with_index(baomoi_model)
+    raw_my_vectors_to_file(my_model)
+    raw_vocab_with_index(my_model)
+
+train_model()
+raw_vectors_and_vocab()

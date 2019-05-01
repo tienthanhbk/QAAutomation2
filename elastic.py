@@ -96,8 +96,29 @@ def get_search_result(query_obj, page=0, size=10, field_search="question", **kwa
     #     json.dump(raw_result, outfile)
 
 
+def refresh_query_pool():
+    # safe to run
+    paths = glob.glob('elastic/judged/tmp/*/*.json')
+    arr_query = []
+    for path in paths:
+        with open(path, 'r') as f:
+            print(path)
+            search_result = json.load(f)
+
+            query = {
+                'id': search_result['id_query'],
+                'question': search_result['origin_question'],
+                'searched': 1
+            }
+
+            arr_query.append(query)
+
+    with open('elastic/query-pool/query_pool.json', 'w+') as f:
+        json.dump(arr_query, f)
+
+
 def raw_query_pool():
-    with open('elastic/query_pool.json') as f:
+    with open('elastic/query-pool/query_pool.json') as f:
         queries = json.load(f)
         print("Current queries len: ", len(queries))
         print("\n")
@@ -135,7 +156,7 @@ def raw_query_pool():
             print("Current queries len: ", len(queries))
             print("\n")
 
-        with open('elastic/query_pool.json', 'w') as outfile:
+        with open('elastic/query-pool/query_pool.json', 'w') as outfile:
             json.dump(queries, outfile)
 
 
@@ -145,10 +166,10 @@ def train_dev_test_split(X):
     return train, dev, test
 
 
-def split_data():
+def split_data(path_glob):
     # Split judged results to 3 set: train, dev, test and save them to a specific dict
     # judged is separated with earch other and need to raw to one text file
-    paths = glob.glob('elastic/judged/tmp/trả góp/*.json')
+    paths = glob.glob(path_glob)
 
     train_paths, dev_paths, test_paths = train_dev_test_split(paths)
 
@@ -220,6 +241,7 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     with open(PATH_RAW, 'w+') as raw_file:
         for path_judged in path_judgeds:
             with open(path_judged, 'r') as file_judged:
+                print(path_judged)
                 judged_result = json.load(file_judged)
 
                 origin_question = judged_result['origin_question']
@@ -287,7 +309,7 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     raw_file.close()
 
 
-def search_by_query_pool(path_query_pool='elastic/query_pool.json', path_raw_result='./elastic/search_result/'):
+def search_by_query_pool(path_query_pool='elastic/query_pool-old.json', path_raw_result='./elastic/search_result/'):
     with open(path_query_pool) as f:
         queries = json.load(f)
         for query_obj in queries:
@@ -390,11 +412,14 @@ def caculate_AP(path, strict, dict_path):
 
                 if len(arr_denote_top10) < 10:
                     arr_denote_top10.append(0)
-        newname = '{}-{:.2f}-{:.2f}-{:.2f}-{:d}.json'.format(search_result['id_query'],
-                                                            convenion.caculate_AP(arr_denote_all),
-                                                            convenion.caculate_AP(arr_denote_top30),
-                                                            convenion.caculate_AP(arr_denote_top10),
-                                                            num_related)
+        # newname = '{}-{:.2f}-{:.2f}-{:.2f}-{:d}.json'.format(search_result['id_query'],
+        #                                                     convenion.caculate_AP(arr_denote_all),
+        #                                                     convenion.caculate_AP(arr_denote_top30),
+        #                                                     convenion.caculate_AP(arr_denote_top10),
+        #                                                     num_related)
+        newname = '{}-{:.2f}-{:d}.json'.format(search_result['id_query'],
+                                               convenion.caculate_AP(arr_denote_top10),
+                                               num_related)
         print(newname)
         os.rename(path, dict_path + '/' + newname)
         return convenion.caculate_AP(arr_denote_top10)
@@ -417,22 +442,30 @@ def caculate_mAP(dict_path, strict=False):
     print('sort: ', np.sort(nparr_AP))
 
 
+def tmp():
+    raw_pool(kind='train', pool='tmp', max_judged=10, strict=True)
+    raw_pool(kind='dev', pool='tmp', max_judged=10, strict=True)
+    raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
+
 # raw_query_pool()
-# search_by_query_pool(path_query_pool='elastic/query_pool_2.json', path_raw_result='elastic/judged/pool2/')
+# search_by_query_pool(path_query_pool='elastic/query-pool/query_pool.json', path_raw_result='elastic/search_result/')
 # statistic_search_result()
-caculate_mAP('data/tmp/train', strict=True)
+caculate_mAP('data/tmp/dev', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
 #             explicit_path_use='elastic/judged/ezquestion/*.json',
 #             explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
 
-# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=30, more_info=False,
-#             explicit_path_use='elastic/judged/pool2/split1/test/*.json',
-#             explicit_path_raw='elastic/judged/pool2/split1/test.txt')
+# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
+#             explicit_path_use='data/tmp/test/*.json',
+#             explicit_path_raw='data/tmp/raw/test.txt')
 
-# split_data()
-def tmp():
-    raw_pool(kind='train', pool='tmp', max_judged=10, strict=True)
-    raw_pool(kind='dev', pool='tmp', max_judged=10, strict=True)
-    raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
+# split_data(path_glob='elastic/judged/tmp/*/*.json')
+
+# refresh_query_pool()
+
+
+# raw_query_pool()
+
+

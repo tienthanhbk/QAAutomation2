@@ -17,9 +17,9 @@ import random
 import json
 
 
-PATH_DATA_TRAIN = 'data/tmp/raw/train.txt'
-PATH_DATA_DEV = 'data/tmp/raw/dev.txt'
-PATH_DATA_TEST = 'data/tmp/raw/test.txt'
+PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
+PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
+PATH_DATA_TEST = 'data/pool1/raw/test.txt'
 
 PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
 PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
@@ -27,12 +27,67 @@ PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
 maxlen_input = 150
 
-num_units = 4
+num_units = 64
 
 
 def customize_string(string):
-    replacer_arr = ['.', ',', '?', '\xa0', '\t']
-    string = string.lower().replace('\xa0', ' ')\
+    string = string.lower()
+    string = re.sub(r'\bcmt\b', 'chứng minh thư', string)
+    string = re.sub(r'\bshk\b', 'sổ hộ khẩu', string)
+    string = re.sub(r'\bđt\b', 'điện thoại', string)
+    string = re.sub(r'\bdt\b', 'điện thoại', string)
+    string = re.sub(r'\bdc\b', 'được', string)
+    string = re.sub(r'\bdk\b', 'được', string)
+    string = re.sub(r'\bđk\b', 'được', string)
+    string = re.sub(r'\bđc\b', 'được', string)
+    string = re.sub(r'\bnhiu\b', 'nhiêu', string)
+    string = re.sub(r'\bbn\b', 'bao nhiêu', string)
+    string = re.sub(r'\bbnhieu\b', 'bao nhiêu', string)
+    string = re.sub(r'\bk\b', ' không', string)
+    string = re.sub(r'\bsp\b', 'sản phẩm', string)
+    string = re.sub(r'\blác\b', 'lag', string)
+    string = re.sub(r'\b0d\b', 'không đồng', string)
+    string = re.sub(r'\b0đ\b', 'không đồng', string)
+    string = re.sub(r'\b0 d\b', 'không đồng', string)
+    string = re.sub(r'\b0 đ\b', 'không đồng', string)
+    string = re.sub(r'\b12\b', ' mười_hai ', string)
+    string = re.sub(r'\b10\b', ' mười', string)
+    string = re.sub(r'\b9\b', ' chín', string)
+    string = re.sub(r'\bngắc\b', 'ngắt', string)
+    string = re.sub(r'\bsetting\b', 'cấu hình', string)
+    string = re.sub(r'\bmax\b', 'cao nhất', string)
+    string = re.sub(r'\bbóc hộp\b', 'mói', string)
+    string = re.sub(r'\bmở hộp\b', 'mới', string)
+    string = re.sub(r'\bhđh\b', 'hệ điều hành', string)
+    string = re.sub(r'\biphon\b', 'iphone', string)
+    string = re.sub(r'\bip\b', 'iphone', string)
+    string = re.sub(r'\bios11\b', 'ios mười_một', string)
+    string = re.sub(r'\bios10\b', 'ios mười', string)
+    string = re.sub(r'\bios9\b', 'ios chín', string)
+    string = re.sub(r'\bios12\b', 'ios mười_hai', string)
+    string = re.sub(r'\b10%\b', 'mười phần_trăm', string)
+    string = re.sub(r'\b15%\b', 'mười_năm phần_trăm', string)
+    string = re.sub(r'\b20%\b', 'hai_mươi phần_trăm', string)
+    string = re.sub(r'\b25%\b', 'hai_năm phần_trăm', string)
+    string = re.sub(r'\b30%\b', 'ba_mươi phần_trăm', string)
+    string = re.sub(r'\b35%\b', 'ba_năm phần_trăm', string)
+    string = re.sub(r'\b40%\b', 'bốn_mươi phần_trăm', string)
+    string = re.sub(r'\b50%\b', 'năm_mươi phần_trăm', string)
+    string = re.sub(r'\b60%\b', 'sáu_mưoi phần_trăm', string)
+    string = re.sub(r'\b%\b', 'phần_trăm', string)
+    string = re.sub(r'\b20\b', 'hai_mươi', string)
+    string = re.sub(r'\b30\b', 'ba_mươi', string)
+    string = re.sub(r'\b40\b', 'bốn_mươi', string)
+    string = re.sub(r'\b50\b', 'năm_mươi', string)
+    string = re.sub(r'\b60\b', 'sáu_mươi', string)
+    string = re.sub(r'\b5\b', 'năm', string)
+    string = re.sub(r'\b0d\b', 'không trả trước', string)
+    string = re.sub(r'\b0%\b', 'không lãi suất', string)
+    string = re.sub(r'\b0 %\b', 'không lãi suất', string)
+    string = re.sub(r'\b0đ\b', 'không trả trước', string)
+    string = re.sub(r'\b0\b', 'không', string)
+
+    string = string.replace('\xa0', ' ')\
         .replace('.', ' ').replace(',', ' ')\
         .replace('?', ' ').replace('!', ' ')\
         .replace('/', ' ').replace('-', '_') \
@@ -107,8 +162,8 @@ def onehot_data(vocab_df, data_df, padding=True, maxlen=70):
         label_list.append(int(row['label']))
 
     if padding:
-        org_q_onehot_list = pad_sequences(org_q_onehot_list, maxlen=maxlen, padding='post', truncating='post')
-        related_q_onehot_list = pad_sequences(related_q_onehot_list, maxlen=maxlen, padding='post', truncating='post')
+        org_q_onehot_list = pad_sequences(org_q_onehot_list, maxlen=maxlen, padding='post', truncating='pre')
+        related_q_onehot_list = pad_sequences(related_q_onehot_list, maxlen=maxlen, padding='post', truncating='pre')
 
     return org_q_onehot_list, related_q_onehot_list, label_list
 
@@ -237,6 +292,16 @@ class ManDist(Layer):
         return K.int_shape(self.result)
 
 
+def contrastive_loss(y_true, y_pred):
+    '''Contrastive loss from Hadsell-et-al.'06
+    http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+    '''
+    margin = 0.2
+    sqaure_pred = K.square(y_pred)
+    margin_square = K.square(K.maximum(margin - y_pred, 0))
+    return K.mean(y_true * (1.0 - y_pred) + (1.0 - y_true) * K.maximum(0.0, y_pred - margin))
+
+
 def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors()
@@ -276,7 +341,8 @@ def get_model(vocab_df):
                            outputs=output,
                            name='training_model')
     # opt = Adam(lr=0.001)
-    training_model.compile(loss='mean_squared_error', optimizer=Adam(), metrics=['accuracy'])
+    # training_model.compile(loss='mean_squared_error', optimizer=Adam(), metrics=['accuracy'])
+    training_model.compile(loss=contrastive_loss, optimizer=Adam())
 
     print(training_model.summary())
     return training_model
@@ -317,7 +383,8 @@ def train(vocab_df):
                           [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     ModelCheckpoint('siameselstm-dropout-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
+                     ModelCheckpoint('siameselstm-contrastive-loss-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
+                                     verbose=1,
                                      save_best_only=True, mode='max'),
                      EarlyStopping(monitor='val_map', mode='max', patience=10)]
 

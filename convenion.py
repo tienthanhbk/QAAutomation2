@@ -32,8 +32,63 @@ def is_valid_qa(qa):
 
 
 def customize_string(string):
-    replacer_arr = ['.', ',', '?', '\xa0', '\t']
-    string = string.lower().replace('\xa0', ' ')\
+    string = string.lower()
+    string = re.sub(r'\bcmt\b', 'chứng minh thư', string)
+    string = re.sub(r'\bshk\b', 'sổ hộ khẩu', string)
+    string = re.sub(r'\bđt\b', 'điện thoại', string)
+    string = re.sub(r'\bdt\b', 'điện thoại', string)
+    string = re.sub(r'\bdc\b', 'được', string)
+    string = re.sub(r'\bdk\b', 'được', string)
+    string = re.sub(r'\bđk\b', 'được', string)
+    string = re.sub(r'\bđc\b', 'được', string)
+    string = re.sub(r'\bnhiu\b', 'nhiêu', string)
+    string = re.sub(r'\bbn\b', 'bao nhiêu', string)
+    string = re.sub(r'\bbnhieu\b', 'bao nhiêu', string)
+    string = re.sub(r'\bk\b', ' không', string)
+    string = re.sub(r'\bsp\b', 'sản phẩm', string)
+    string = re.sub(r'\blác\b', 'lag', string)
+    string = re.sub(r'\b0d\b', 'không đồng', string)
+    string = re.sub(r'\b0đ\b', 'không đồng', string)
+    string = re.sub(r'\b0 d\b', 'không đồng', string)
+    string = re.sub(r'\b0 đ\b', 'không đồng', string)
+    string = re.sub(r'\b12\b', ' mười_hai ', string)
+    string = re.sub(r'\b10\b', ' mười', string)
+    string = re.sub(r'\b9\b', ' chín', string)
+    string = re.sub(r'\bngắc\b', 'ngắt', string)
+    string = re.sub(r'\bsetting\b', 'cấu hình', string)
+    string = re.sub(r'\bmax\b', 'cao nhất', string)
+    string = re.sub(r'\bbóc hộp\b', 'mói', string)
+    string = re.sub(r'\bmở hộp\b', 'mới', string)
+    string = re.sub(r'\bhđh\b', 'hệ điều hành', string)
+    string = re.sub(r'\biphon\b', 'iphone', string)
+    string = re.sub(r'\bip\b', 'iphone', string)
+    string = re.sub(r'\bios11\b', 'ios mười_một', string)
+    string = re.sub(r'\bios10\b', 'ios mười', string)
+    string = re.sub(r'\bios9\b', 'ios chín', string)
+    string = re.sub(r'\bios12\b', 'ios mười_hai', string)
+    string = re.sub(r'\b10%\b', 'mười phần_trăm', string)
+    string = re.sub(r'\b15%\b', 'mười_năm phần_trăm', string)
+    string = re.sub(r'\b20%\b', 'hai_mươi phần_trăm', string)
+    string = re.sub(r'\b25%\b', 'hai_năm phần_trăm', string)
+    string = re.sub(r'\b30%\b', 'ba_mươi phần_trăm', string)
+    string = re.sub(r'\b35%\b', 'ba_năm phần_trăm', string)
+    string = re.sub(r'\b40%\b', 'bốn_mươi phần_trăm', string)
+    string = re.sub(r'\b50%\b', 'năm_mươi phần_trăm', string)
+    string = re.sub(r'\b60%\b', 'sáu_mưoi phần_trăm', string)
+    string = re.sub(r'\b%\b', 'phần_trăm', string)
+    string = re.sub(r'\b20\b', 'hai_mươi', string)
+    string = re.sub(r'\b30\b', 'ba_mươi', string)
+    string = re.sub(r'\b40\b', 'bốn_mươi', string)
+    string = re.sub(r'\b50\b', 'năm_mươi', string)
+    string = re.sub(r'\b60\b', 'sáu_mươi', string)
+    string = re.sub(r'\b5\b', 'năm', string)
+    string = re.sub(r'\b0d\b', 'không trả trước', string)
+    string = re.sub(r'\b0%\b', 'không lãi suất', string)
+    string = re.sub(r'\b0 %\b', 'không lãi suất', string)
+    string = re.sub(r'\b0đ\b', 'không trả trước', string)
+    string = re.sub(r'\b0\b', 'không', string)
+
+    string = string.replace('\xa0', ' ')\
         .replace('.', ' ').replace(',', ' ')\
         .replace('?', ' ').replace('!', ' ')\
         .replace('/', ' ').replace('-', '_') \
@@ -78,4 +133,5 @@ def caculate_AP(arr):
         return 0
     return P_at_k / relevan_len
 
-t = word_tokenize('xin chào đồng bào cả nước', format='text')
+# t = word_tokenize('xin chào đồng bào cả nước', format='text')
+t = caculate_AP([0,1,0, 0, 0, 1, 1, 1, 0, 0])
