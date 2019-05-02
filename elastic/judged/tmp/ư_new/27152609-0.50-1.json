@@ -1,0 +1,1313 @@
+{
+  "id_query": "27152609",
+  "total": 18180,
+  "total_current": 200,
+  "max_score": 55.22732,
+  "origin_question": "Xin chào, Nếu mình trả góp qua thẻ Visa, thì có cần thủ tục gì ko vậy?",
+  "hits": [
+    {
+      "score": 29.645077,
+      "id": "24737606",
+      "field_search": "question",
+      "question": "Nếu mua trả góp thì thủ tục cần những gì ạ",
+      "answer": "Chào chị,Hiện tại chị muốn tham gia trả góp thì điều kiện là đủ từ 20-60 tuổi, chị có thể cho bên em biết thêm các thông tin như số tiền chị có thể trả trước, số tháng chị muốn trả góp, trong các giấy tờ CMND, Sổ hộ khẩu, Bằng lái xe, Hóa đơn điện chị có các loại giấy tờ nào để bên em kiểm tra và hỗ trợ gói lãi suất tốt nhất cho chị nhé, Mong sớm nhận phản hồi từ chị.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 29.314768,
+      "id": "28154119",
+      "field_search": "question",
+      "question": "E muốn mua trả góp qua thẻ visa thì cần những gì add",
+      "answer": "Chào anh,Anh cần có thẻ Visa của Ngân hàng đang hỗ trợ trả góp iPhone 6 32GB nha. Không biết anh có thẻ Visa của Ngân hàng nào vậy ạMong nhận được phản hồi từ anh !",
+      "relate_q_q": 2
+    },
+    {
+      "score": 26.119392,
+      "id": "28603435",
+      "field_search": "question",
+      "question": "Trả góp thì cần trả trước bao nhiêu và cần có thủ tục gì ạ?",
+      "answer": "Chào anh,Anh cần đủ 20 tuổi trở lên có ít nhất CMND và bằng lái xe (hoặc hộ khẩu) để làm thủ tục trả góp ạ, anh có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Anh trả trước từ 0-70% giá máy ạ. Anh vui lòng cung cấp thông tin về số tiền anh có thể trả trước, số tháng góp và các giấy tờ anh hiện có để bên em tư vấn gói lãi suất phù hợp cho anh ạ. Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 25.682377,
+      "id": "17549220",
+      "field_search": "question",
+      "question": "Nếu em là sinh viên thì thủ tục trả góp cần những giấy tờ gì ạ?",
+      "answer": "Chào anh Tuấn,Dạ nếu như anh là sinh viên thì anh có thể cho em xin năm sinh để bên em có thể hỗ trợ anh tốt nhất được không ạ.Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 24.639076,
+      "id": "17841532",
+      "field_search": "question",
+      "question": "Cho mình hỏi nếu mua trả góp thì trả trước bn? Thủ tục gồm những gì?",
+      "answer": "Chào chị,chị có thể trả trước 0-70%, chị cần đủ 20-60 tuổi, có CMND   Hộ khẩu/Bằng lái xe   hóa đơn điện (1 số gói lãi suất yêu cầu) ạ. Chị có thể Thông tin gói lãi suất đang muốn tham gia và giấy tờ đang có để bên mình kiểm tra giúp nha. Mong phản hồi từ chị.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 23.172615,
+      "id": "26995402",
+      "field_search": "question",
+      "question": "Tư vấn giúp mình trả góp qua thẻ thì cần giấy tờ gì k ạ",
+      "answer": "Dạ chào anh, Không biết mình đang dùng loại thẻ nào và của ngân hàng nào ạ. Anh vui lòng cho biết thêm thông tin bên em sẽ hỗ trợ tư vấn cho mình ạ.Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 22.472075,
+      "id": "19662758",
+      "field_search": "question",
+      "question": "Minh mua trả góp thì cần những thủ tục gi,",
+      "answer": "Chào chị!Dạ chị ơi để mua góp thì trước tiên chị phải chọn được gói lãi suất phù hợp chị nhé. Chị vui lòng cung cấp đầy đủ thông tin giấy tờ hiện có, thời hạn vay, tiền có thể trả trước và độ tuổi để em hỗ trợ chị chọn gói lãi suất phù hợp nhất ạ!Mong nhận được phản hồi từ chị!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 22.389044,
+      "id": "23969881",
+      "field_search": "question",
+      "question": "Mình muốn trả góp thi cần thủ tục thế nào nhỉ",
+      "answer": "Chào anh ! Dạ anh cần đủ 20 tuổi, có CMND và Hộ khẩu hoặc Bằng lái xe, hóa đơn điện, có thể làm hồ sơ Online hoặc làm hồ sơ tại Siêu thị nha anh, không biết anh cần trả trước bao nhiêu và hiện có giấy tờ gì vậy ạ.Mong nhận được phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 22.274338,
+      "id": "20625937",
+      "field_search": "question",
+      "question": "Em mua trả góp trả truoc 6 triệu thì cần thủ tục gì ạ. Lúc đi đem theo gì ạ",
+      "answer": "Chào anh,Anh vui lòng cho em  xin thông tin cụ thể về độ tuổi, nghề nghiệp, giấy tờ và số tháng anh  muốn góp để em  có thể tư vấn gói lãi suất phù hợp với nhu cầu của anh  ạ.Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 22.246525,
+      "id": "28149468",
+      "field_search": "question",
+      "question": "Em muốn mua trả góp chiếc iphone6 có cần thủ tục gì k ạ",
+      "answer": "Chào chị, Nếu chị đủ từ 20-60 tuổi thì chị vui lòng cho em xin giấy tờ hiện có (CMND, bằng lái xe/hộ khẩu, hóa đơn điện,..), số tiền trả trước và số tháng để bên em có thể tư vấn gói lãi suất phù hợp với chị nha.Mong phản hồi từ chị",
+      "relate_q_q": -1
+    },
+    {
+      "score": 22.154243,
+      "id": "27478811",
+      "field_search": "question",
+      "question": "Xin chào, cho mình hỏi là ip6 32g này được sản xuất năm nào ah? và muốn trả trước 30% thì thủ tục trả góp như thế nào ad? xin cảm ơn!",
+      "answer": "Chào anh Hiện do quy trình sản xuất điện thoại có nhiều công đoạn nên bên em không có thông tin chính xác về năm sản xuất anh nhé. Mong anh thông cảm. Hiện bên em chỉ có thời gian ra mắt của sản phẩm thôi ạ. Anh xin vui lòng cho em xin giấy tờ hiện có (CMND, bằng lái xe/hộ khẩu, hóa đơn điện) và số tháng góp(3-24 tháng)để em có thể tư vấn gói lãi suất phù hợp với anh được không ạ? Mong nhận phản hồi từ anh. ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.405659,
+      "id": "27292035",
+      "field_search": "question",
+      "question": "Thủ tục trả góp gồm những gì ạ",
+      "answer": "Chào chị,Để tham gia làm hồ sơ mua trả góp chị cần có CMND (bản gốc), hộ khẩu (bản gốc hoặc photo nguyên cuốn có công chứng không quá 3 tháng), bằng lái xe (bản gốc), hóa đơn điện (nếu có), phải từ 20 - 60 tuổi chị nhé, nếu chị quan tâm sản phẩm có thể cho em xin các giấy tờ hiện tại chị đang có, mức trả trước và số tháng góp để em hỗ trợ tư vấn giúp chị nhé.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.395779,
+      "id": "20517348",
+      "field_search": "question",
+      "question": "Cho mình hỏi trả góp qua thẻ visa có được không? Có được giảm 1tr không ạ",
+      "answer": "Chào anh,Rất tiếc hiện tại bên em không hỗ trợ trả góp qua thẻ visa nha anh, và không hỗ trợ giảm 1 triệu anh nhé. Sản phẩm chỉ hỗ trợ Giảm thêm 1.000.000đ khi thanh toán trực tuyến 100%  bằng MasterCardChia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.331951,
+      "id": "30532363",
+      "field_search": "question",
+      "question": "h mk muốn mua trả góp thì thủ tục cần những gì và đóng trc bn tiền ak",
+      "answer": "Chào chịDạ nếu chị có CMND (đủ 20-60 tuổi) , sổ hộ khẩu / bằng lái xe thì chị mới đủ điều kiện tham gia trả góp nha chị , chị có thể cung cấp cho em thông tin về số tiền trả trước ( từ 0-70% giá trị sản phẩm ) là bao nhiêu ,số tháng góp ( 6, 8, 9 hoặc 12 tháng) và đã có những giấy tờ gì để bên em tư vấn gói trả góp phù hợp được không ạ?Mong nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.202208,
+      "id": "30405045",
+      "field_search": "question",
+      "question": "Giờ e muốn trả góp ip6 cần thủ tục gì và trả trước bao nhiẻu ạ",
+      "answer": "Chào chị, Nếu chị mua trả góp sản phẩm thì chị cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn chị nhé, chị có thể trả trước từ 0đ-70% giá trị sản phẩm và góp từ 6-9-12 tháng chị nha.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.1181,
+      "id": "23480517",
+      "field_search": "question",
+      "question": "Xin chào mình muốn mua trả góp iphone6 32g thì cần giấy tờ gì và cố sgk bản sao dk k",
+      "answer": "Chào anh, Trường hợp của anh nếu anh đủ 20 tuổi đến tối đa 60 tuổi và có các giấy tờ như CMND, Hộ Khẩu, BLX và Hóa Đơn Điện thì anh có thể tham gia mua trả góp bình thường anh nhé. Ngoài ra anh có thể sử dụng Hộ Khẩu photo công chứng không quá 3 tháng gần nhất ạ.Mong sớm nhận phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.106659,
+      "id": "26124410",
+      "field_search": "question",
+      "question": "Có giảm tiền khi thanh toan qua thẻ visa hoặc Master..... Ko vậy.",
+      "answer": "Chào anh Dạ. Nếu như anh mua online và thanh toán bẳng thẻ Visa, Master thì sẽ mua sản phẩm với giá 7.990.000₫ anh nha. Nếu anh quan tâm sản phẩm thì anh vui lòng mua hàng trên web ạ. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.092333,
+      "id": "25802378",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp 0% sản phẩm này trả trước 50%, có CMT và bằng lái thì cần làm những thủ tục gì hả tgdd?",
+      "answer": "Chào chị,Chị có CMND, Bằng lái xe, thì có thể trả trước 50%(4.245.000đ), lãi suất 0% HomeCredit rồi nha. Nếu chị quan tâm gói lãi suất này, vui lòng để lại số điện thoại, bên em sẽ liên lạc hỗ trợ chị làm hồ sơ trả góp Online nhéMong nhận được phản hồi từ chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.749449,
+      "id": "23632720",
+      "field_search": "question",
+      "question": "Muốn mua trả góp iPhone 6,cần thủ tục gì và trả trước bao nhiêu, góp hàng tháng bao nhiêu vậy b",
+      "answer": "Chào chị,Chị có thể trả trước từ 0%-70% giá máy nha. Để mua trả góp iPhone 6 32GB, chị cần đủ 20-60 tuổi, có CMND, Hộ khẩu/Bằng lái xe, và Hóa đơn điện ( để được lãi suất ưu đãi hơn ). Chị hãy cung cấp những giấy tờ chị đang có, số tiền chị muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho chị nhéMong nhận được phản hồi từ chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.513721,
+      "id": "23929184",
+      "field_search": "question",
+      "question": "Nếu mình thanh toán qua thẻ ATM thì có thêm phí gì k ạ?",
+      "answer": "Chào anh,Anh thanh toán Điện thoại iPhone 6 32GB qua Thẻ ATM sẽ không tính thêm phí đâu anh nha. Anh ở Quận/Huyện, Tỉnh/Thành nào em sẽ kiểm tra hàng cho anh nhéMong nhận được phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.479574,
+      "id": "20067641",
+      "field_search": "question",
+      "question": "xxxx703908= 6.32 ghi.  Trả trước 10% được không và dc thì cần có những thủ tục gì",
+      "answer": "Chào anh,Với Điện thoại iPhone 6 32GB thì anh trả trước 10% (899.000₫) được nhé, anh cần có CMND Hộ khẩu Hóa đơn điện , anh sẽ trả trong 12 tháng, mỗi tháng là 835.500₫, lãi suất 1.39% của FECredit .Nếu anh quan tâm gói lãi suất này, vui lòng để lại số điện thoại, bên em sẽ liên lạc hỗ trợ anh làm hồ sơ online nhéMong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.424217,
+      "id": "19481593",
+      "field_search": "question",
+      "question": "Cho e hỏi mua trả góp 0đ có cần đóng phí gì thêm ngoài thủ tục giấy tờ ko v ad",
+      "answer": "Chào anh ThịnhAnh tham gia gói trả trước 0đ(0%), lãi suất 2,2% của FeCredit thì không đóng thêm gì nữa ạ. Anh làm thủ tục xong thì lấy máy thôi ạ.\"Thông tin đến anh ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.307356,
+      "id": "20360684",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp trả trước 50% cần thủ tục như thế nào",
+      "answer": "Chào chị Mai,Với nhu cầu trên của chị thì chị có thể tham khảo gói lãi suất thường của công ty tài chính HOMECREDIT, trả trước 50% (4.495.000₫) góp trong vòng 6 tháng (mỗi tháng góp khoảng 912.000₫). Chị vui lòng để lại thông tin về số điện thoại để được bên em liên hệ và hỗ trợ tốt nhất. Mong sớm nhận được phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.258734,
+      "id": "30316266",
+      "field_search": "question",
+      "question": "Ad cho mình hỏi mình mua trả góp qua thẻ tín dụng lúc ra nhận máy cần mang theo những gì vậy ad",
+      "answer": "Chào anhDạ anh có thể ra siêu thị đọc số điện thoại đã đăng ký trong thông tin khi anh góp qua thẻ tín dụng để bên em hỗ trợ anh nhaThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.122355,
+      "id": "20520252",
+      "field_search": "question",
+      "question": "Vậy e trả bằng thẻ visa có được hưởng khuyến mãi gì k anh?",
+      "answer": "Chào bạn,Xin lỗi vì sự chậm trễ. Hiện tại sản phẩm không hỗ trợ khuyến mại gì khi thanh toán bằng thẻ Visa nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.060564,
+      "id": "23992662",
+      "field_search": "question",
+      "question": "Cho mình hỏi về thủ tục trả góp 0% ntn vậy",
+      "answer": "Chào chị,Với điều kiện đủ 20-60t kèm CMND(trong vòng 15 năm, còn nhìn rõ chữ) bằng lái xe(còn thời hạn) thì chị có thể tham gia trả góp với côngty tài chính HomeCredit với mức trả trước:3.596.000₫ tiền trả hằng tháng:939.500₫(góp 6 tháng) lãi suất 0%.Nếu chị đồng ý với gói lãi suất này thì chị có thể để lại thông tin (tên, số điện thoại) tại đây bên em sẽ liên hệ làm hồ sơ online cho chị nha.Mong nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.033169,
+      "id": "31042506",
+      "field_search": "question",
+      "question": "Nầy nếu góp bằng thẻ ngân hàng thì tới tháng mình qua quẹt thẻ trả thôi hả qtv",
+      "answer": "Chào chịDạ chỉ cần thẻ chị có tối thiểu là 3.000.000đ và đủ hạn mức tín dụng thanh toán 100% giá trị sản phẩm là 6.990.000₫ thì chị được tham gia trả góp qua thẻ tín dụng ạ và chị phải thanh toán 100% giá trị sản phẩm chị nha, hệ thống sẽ tự chi thành các tháng góp theo quy định ạThông tin đến chị",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.862051,
+      "id": "24041308",
+      "field_search": "question",
+      "question": "Mình muốn trả góp trả trước 10% thì thủ tục tn",
+      "answer": "Chào anh,Dạ anh vui lòng cho em biết cụ thể các giấy tờ anh có như CMND (đủ 20-60 tuổi), hộ khẩu, bằng lái xe, hoá đơn điện nước cũng như thời gian trả góp để em có thể hỗ trợ anh ạ.Mong sớm nhận được phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.846668,
+      "id": "26628640",
+      "field_search": "question",
+      "question": "Cho mình hỏi nếu trả góp bằng thẻ thì trong thẻ có cần 1 số tiền nhất định nào k?",
+      "answer": "Chào anh,Thẻ của anh cần đủ tiền để thanh toán giá máy là 6.990.000₫ ạ. Anh có thể vào ô MUA NGAY màu cam để thanh toán nhé.Thông tin đến anh ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.418396,
+      "id": "22842811",
+      "field_search": "question",
+      "question": "Chào add.  Mk muốn mua sản phẩm ip6 64g trả góp 0% , thì thủ tục như thế nào vậy ạ?   Và có thực hiện online đc không hay phải qua CH ạ?",
+      "answer": "Chào chịHiện sản phẩm trên bên em đã ngừng kinh doanh mới rồi ạ. Mong chị thông cảm và tham khảo giúp em IPhone 6 32Gb được không ạ?Mong nhận phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.3931,
+      "id": "19861031",
+      "field_search": "question",
+      "question": "Mình thấy trả góp onl cần ng bảo hộ phức tạp quá. Vậy trả góp đên cửa hàng có thủ tục nhanh chóng được ko ạ. Tư vấn giúp mình với",
+      "answer": "Chào chị, Hiện chị mua trả góp trực tiếp tại siêu thị Thegioididong.com hay online đều giống nhau chị nha , bên công ty đều gọi về gia đình xác nhận các thông tin chị nhé , và chị phải đủ 20-60t chị nhé . Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.31138,
+      "id": "25530086",
+      "field_search": "question",
+      "question": "mình muốn mua trả góp thì thủ tục như thế nào ạ",
+      "answer": "Chào chị,Dạ. Nếu chị đủ 20-60 tuổi và có các giấy tờ như CMND(rõ hình số không quá 15 năm), hộ khẩu(photo công chứng nguyên cuốn không quá 3 tháng) hoặc bằng lái xe thì chị mới có thể tham gia mua trả góp chị nhé (nếu có thêm 1 trong các hóa đơn Điện, Nước, Internet, Truyền hình cáp thì sẽ được lãi suất thấp hơn chị nhé) !!Chia sẽ cùng chị ạ !!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.038359,
+      "id": "20005112",
+      "field_search": "question",
+      "question": "Mình có chứng minh thư và bằng lái xe, khoảng tiền trả trước khoảng 3-4 triệu, vậy mình còn cần điều kiện gì để mua máy trả góp không, và khi làm thủ tục còn cần cung cấp thông tin gì nữa không nhỉ?",
+      "answer": "Chào anh, Với cmnd và bằng lái xe, anh có thể tham khảo gói lãi suất dao động từ 3%-5.5% với trả trước 40% (3.596.000₫) trong 6 tháng (1.202.500₫/tháng) của công ty tài chính FE Credit áp dụng cho độ tuổi từ 20-60 tuổi anh nhé. Tuy nhiên, gói lãi suất này khá cao, anh có thể bổ sung thêm hóa đơn điện (hoặc nước / cáp / nét) 1 trong 3 tháng gần nhất hay hợp đồng lao động và bảng lương để có thể tham gia gói lãi suất thấp hơn anh nhé. Thông tin đến anh. ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.97953,
+      "id": "26764937",
+      "field_search": "question",
+      "question": "Cho em hỏi về chính sách trả góp qua thẻ ạ, trả thẻ hàng tháng thì lãi suất bao nhiêu ạ? Nếu ra cửa hàng mua thì có được trả góp qua thẻ không?",
+      "answer": "Chào chị,Chị có thể mua trả góp sản phẩm qua thẻ tín dụng với Giá trị thanh toán thẻ từ 3.000.000 VNĐ trở lên, dạ mình trả góp qua thẻ tín dụng sẽ có thêm phí thu do ngân hàng thu, dạ chị trả góp qua thẻ vui lòng thanh toán online trên web giúp em chị nha, mong chị thông cảmThân gửi chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.952627,
+      "id": "25432279",
+      "field_search": "question",
+      "question": "trả góp bằng thẻ VISA đc kh",
+      "answer": "Chào anh,Điện thoại iPhone 6 32GB mình mua trả góp qua thẻ visa được anh nhé, Anh cho em xin thêm thông tin tên ngân hàng để bên em hỗ trợ mình tốt hơn ạ!Mong phản hồi sớm từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.94236,
+      "id": "21814633",
+      "field_search": "question",
+      "question": "chị cho e hoit iphone6 có chương trình trả góp 0d không chị . nếu có thì thủ tục ntn ạ",
+      "answer": "Chào chịVới gói trả trước 0đ(0%) của FeCredit chị cần đủ 20 tuổi trở lên có ít nhất CMND và hộ khẩu để làm thủ tục trả góp ạ, chị có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Thông tin đến chị ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.88242,
+      "id": "17951936",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp thì thủ tục thế nào trả trc bn",
+      "answer": "Chào chị,Dạ chị có thể mua trả góp với CMND, hộ khẩu, hóa đơn điện và đủ từ 20-60 tuổi chị nha. Và chị có thể trả trước từ 0-70% đó ạ. Chị có thể cung cấp thông tin về các giấy tờ chị có để bên em hỗ trợ tư vấn gói lãi suất phù hợp chị nha.  Mong nhận được phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.840343,
+      "id": "24843113",
+      "field_search": "question",
+      "question": "Nếu mình mua và thanh toán thẻ visa để được giảm 500k thì có giới hạn thẻ không hay thẻ visa của bất cứ ngân hàng nào cũng được ạ?",
+      "answer": "Chào chị,Chỉ cần chị thanh toán online bằng thẻ Visa là được giảm 500.000đ rồi chị nha, không quy định ngân hàng nào đầu ạ. Chị có thể đặt mua để nhận ưu đãi nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.83776,
+      "id": "25090029",
+      "field_search": "question",
+      "question": "Thanh toán qua thẻ visa là thanh toán thế nào ạ.. Mình có thẻ ATM thôi",
+      "answer": "Chào anh,Dạ không biết anh mua góp hay mua trả thẳng để em hỗ trợ anh nhéMong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.74115,
+      "id": "28871068",
+      "field_search": "question",
+      "question": "Mình mua oppo f7 ngày 7/5/2018 giá 7.990.0000 trả góp đc 3tháng rồi,giờ muốn đổi sang ip6 có đc ko,cần điều kiện hay thủ tục gì?",
+      "answer": "Chào anh Mộng,Trường hợp này anh chưa trả góp xong đúng không ạ, anh có thể thông tin là anh đang góp gói lãi xuất 0% hay gói có lãi xuất ạ. Và anh mua sản phẩm là máy mới, không phải máy đổi trả thì phí đổi trả của Thegioididong.com là 30% giá trị sản phẩm ( khoảng 2.397.000đ anh nhé. Anh thông tin thêm về trường hợp mua trả góp để em hỗ trợ.Mong nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.731659,
+      "id": "24412908",
+      "field_search": "question",
+      "question": "cho mình hỏi nếu mình trả trước 50% thì mỗi tháng phải góp bao nhiêu? Mình muốn góp trong vòng 4tháng và làm thủ tục có nhanh không?",
+      "answer": "Chào anh,Anh tham khảo gói lãi suất 3-3,3% của công ty FeCredit trả trước 50% góp mỗi tháng 1.256.000₫ (góp 4 tháng)với CMND và Bằng lái xe. Anh làm hồ sơ trả góp online thì khoảng 24h sẽ có kết quả. Còn anh làm hồ sơ trả góp trực tiếp tại siêu thị thì thời gian duyệt hồ sơ khoảng 30 phút đến 2h ạ, sau khi hoàn tất mọi thủ tục thì anh lấy máy được rồi ạ. Thông tin đến anh ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.656326,
+      "id": "25314011",
+      "field_search": "question",
+      "question": "Iphone 6 32g có trả góp qua thẻ BIDV ko ạ,Iphone 6 32g có trả góp qua thẻ BIDV ko ạ",
+      "answer": "Chào anh,Rất tiếc bên em không hỗ trợ trả góp qua thẻ tín dụng của BIDV ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.582886,
+      "id": "26112724",
+      "field_search": "question",
+      "question": "trc đây mình đã mua trả góp và đã có thẻ của cty FE vậy vậy giờ chỉ cần đem thẻ đến cửa hàng thôi đúng ko ad và ko cần xét duyệt hay giấy tờ gì đúng ko",
+      "answer": "Chào anh,Dạ không ạ, nếu anh mua trả góp lại qua công ty tài chính thì vẫn phải xét duyệt như bình thường anh nhé, hay là anh đang nói đến trả góp qua thẻ tín dụng thế anh ơi, anh vui lòng thông tin lại rõ hơn rồi siêu thị bên em sẽ hỗ trợ nhéMong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.526375,
+      "id": "19972458",
+      "field_search": "question",
+      "question": "em là sinh viên mà muốn mua điện thoại trả góp ở tgdd thì cần những thủ tục gì ạ , em trên 20 tuổi rồi nhé",
+      "answer": "Chào anh !  Để tham gia trả góp thì anh cần có các giấy tờ là CMND - Hộ Khẩu hoặc Bằng Lái Xe ( nếu có thêm hoá đơn điện thì gói lãi suất sẽ ưu đãi hơn ). Nếu được anh có thể cho em xin thông tin độ tuổi giấy tờ anh hiện có để bên em tư vấn giúp anh gói lãi suất phù hợp nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.427565,
+      "id": "27917097",
+      "field_search": "question",
+      "question": "Bạn cho mình hỏi,mình muốn mua iPhone 6 32g trả góp thì mình phải làm thủ tục như thế nào vậy",
+      "answer": "Chào anh,Anh cần đủ 20 tuổi trở lên có ít nhất CMND và bằng lái xe (hoặc hộ khẩu) để làm thủ tục trả góp ạ, anh có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Anh vui lòng cung cấp thông tin về số tiền anh có thể trả trước, số tháng góp và các giấy tờ anh hiện có để bên em tư vấn gói lãi suất phù hợp cho anh ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.35395,
+      "id": "19564202",
+      "field_search": "question",
+      "question": "lúc trước e có mua đt trả góp ở tgdđ giờ e mua có cần làm thủ tục lại ko ạ",
+      "answer": "Chào anh !  Trường hợp này anh vẫn làm thủ tục xét duyệt lại anh nhé vì đây là quy định của công ty tài chính đó ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.347128,
+      "id": "23801048",
+      "field_search": "question",
+      "question": "Chào tddd.mình ở dalat mình muốn mua trả góp ip 6 32g màu xám.trả trước 4.495.000 thủ tục thế nào.",
+      "answer": "Chào anh Hãn,Anh có thể mua trả góp Iphone 6 32GB trả trước 50% giá trị sản phẩm ( 4.495.000đ) với lãi xuất 0% của FeCredit. Trả trong 9 tháng mỗi tháng đóng khoảng 544.000đ anh nhé, hồ sơ cần có gồm CMND ( không quá 15 năm kể từ ngày cấp và thấy rõ hình, chữ) và bằng lái xe (còn thời hạn). Nếu anh quan tâm gói lãi xuất có thể thông tin số điện thoại bên em hỗ trợ làm hồ sơ online cho anh ạ.Mong nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.282326,
+      "id": "22415402",
+      "field_search": "question",
+      "question": "E muốn mua trả góp iphone6 cần làm thủ tục như thế nào ạ",
+      "answer": "Chào chị, Dạ với CMND, hộ khẩu/bằng lái, mình trả trước 4.495.000₫, góp trong 8 tháng, mỗi tháng khoảng 597.000đ, nếu mình có nhu cầu mua sản phẩm, có thể để lại số điện thoại, bên em liên hệ hỗ trợ tốt nhất đến chị nhé. Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.187227,
+      "id": "31119075",
+      "field_search": "question",
+      "question": "Mình mua trả góp có cần đem gì theo ko",
+      "answer": "Chào anh, Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé, anh muốn trả trước bao nhiêu và góp mấy tháng ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.185278,
+      "id": "19152374",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp. Thủ tục nhanh k bạn",
+      "answer": "Chào chị Quỳnh,Thời gian làm hồ sơ góp cũng nhanh chị nhé! Mất khoảng 30 phút đến 2h tùy vào từng hồ sơ, nếu như muốn tiện, chị nên duyệt online bằng cách đặt trên website, sẽ có nhân viên công ty tài chính duyệt hồ sơ qua số điện thoại nha!Xin thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.072617,
+      "id": "23179176",
+      "field_search": "question",
+      "question": "cho mình hỏi thủ tục xét hs mua trả góp lâu ko ạ",
+      "answer": "Chào anh,Nếu anh xét duyệt hồ sơ trả góp sản phẩm online thì sẽ mất 24 tiếng, còn nếu anh xét duyệt hồ sơ tại siêu thị thì sẽ từ 20 phút đến 2 tiếng ( tối đa 4 tiếng ) tùy vào số lượng khách hàng nha anh. Nếu anh có thắc mắc gì cần em hỗ trợ, anh có thể phản hồi tại ô bình luận bên em sẽ hỗ trợ giải đáp giúp anh nhé. Xin thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.068905,
+      "id": "21740433",
+      "field_search": "question",
+      "question": "E muấn mua ip6 với chương trình chả góp 0đ thì cần những gì ạ với lại thủ tục có nhanh không ạ",
+      "answer": "Chào anh.Nếu anh hiện đã có đủ CMND, hộ khẩu, hóa đơn điện, anh có thể chọn tham gia cùng gói lãi suất 2.2% của FEcredit với mức trả trước 0đ góp trong 12 tháng (mỗi tháng góp 1.003.000₫) anh nha. Và thời gian nếu xét duyệt online sẽ trong khoảng 24h đó ạ, còn với thủ tục xét duyệt trực tiếp cửa hàng sẽ từ 30p - 4h anh nhé. Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.933147,
+      "id": "30222450",
+      "field_search": "question",
+      "question": "Thủ tục trả góp gồm những gì và trả trong bao nhiêu tháng, mỗi tháng là bao nhiêu vậy AD?",
+      "answer": "Chào anh Cường Dạ, anh cần có chứng minh nhân dân hộ khẩu/bằng lái xe, mình đủ 20 tuổi để mua trả góp, anh trả trước 2.247.000₫ (30%) góp hàng tháng 910.500₫  góp 6 tháng lãi suất 0%/tháng. Nếu mình quan tâm sản phẩm thì vui lòng cho em xin số điện thoại để em làm hồ sơ giúp mình. Mong nhận phản hồi sớm từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.81806,
+      "id": "17511052",
+      "field_search": "question",
+      "question": "Có trả góp kiểu trả trước 0đ không vậy AD, và thủ tục như nào.",
+      "answer": "Chào anh Huy,Mình có thể tham gia góp trả trước 0đ ạ, cần CMND, hộ khẩu, hóa đơn điện anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.78511,
+      "id": "27246635",
+      "field_search": "question",
+      "question": "Cho mình hỏi muốn mua trả góp qua vpbank thì fai có thẻ ngân hàng này fai ko",
+      "answer": "Chào chị Dạ nếu chị muốn mua góp qua thẻ VPBank thì mình phải có thẻ MasterCard của ngân hàng này thì mới tham gia được chị nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.759024,
+      "id": "19684081",
+      "field_search": "question",
+      "question": "Mình mua trả góp sét duyệt qua điện thoại thì chỉ chờ ngân hàng gọi điện lại xác thực là xong thủ tục à,",
+      "answer": "Chào anh,Anh đăng ký tham gia làm hồ sơ online thì chỉ cần chờ kết quả xét duyệt. Nếu hồ sơ được duyệt thì anh vui lòng mang các giấy tờ cần thiết ra siêu thị Thegioididong.com để đối chiếu thông tin trong vòng 30-40 phút và mang sản phẩm về anh nhé.Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.739023,
+      "id": "20087315",
+      "field_search": "question",
+      "question": "Thẻ VISA có được giảm như thẻ Master ko bạn?",
+      "answer": "Chào anh, Điện thoại iPhone 6 32GB không hỗ trợ giảm giá bằng thẻ VISA anh nhé. Sản phẩm này chỉ hỗ trợ giảm 1.000.000đ khi anh thanh toán bằng thẻ MasterCard anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.709156,
+      "id": "29139103",
+      "field_search": "question",
+      "question": "Thủ tục trả góp 0% là gồm phải có những cái j vậy ạ",
+      "answer": "Chào anh ! Để mua trả góp lãi suất 0% anh cần đủ 20 tuổi, có CMND, Hộ khẩu hoặc Bằng lái xe, anh sẽ đưa trước 30% khoảng 2.247.000đ nha, góp 6 tháng mỗi tháng khoảng 910.500đ, lãi suất 0% của Home Credit ạ. Nếu đồng ý gói trả góp này thì anh có thể cho bên em xin thông tin số điện thoại bên em hỗ trợ làm hồ sơ Online cho anh nha. Mong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.708542,
+      "id": "26306422",
+      "field_search": "question",
+      "question": "Mua trả góp thì làm thủ tục như thế nào ạ?",
+      "answer": "Chào anh ! Không biết là anh đang có những giấy tờ gì như CMND, Hộ khẩu, Bằng lái xe, Hóa đơn điện và số tiền muốn đưa trước để em tìm gói trả góp phù hợp cho anh nha. Mong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.67868,
+      "id": "17836579",
+      "field_search": "question",
+      "question": "cho em hỏi ip6 32gb có hộ trợ trả góp 0% trong vong 9 tháng k ạ và nếu có thì thủ tục cần có là gì? Và phải trả trước bao nhiêu, rồi mỗi tháng trả nhiêu tiền.Sau khi trả xong là bao nhiêu?",
+      "answer": "Chào chị !  Rất tiếc bên em hiện không hỗ trợ gói lãi suất 0% dành cho sản phẩm này chị nha. Mong chị thông cảm ạ. Nếu được chị có thể cho em xin thông tin độ tuổi giấy tờ chị hiện có để bên em tư vấn giúp chị gói lãi suất khác xem sao chị nhé.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.543938,
+      "id": "20382972",
+      "field_search": "question",
+      "question": "Cho hỏi nếu trả muốn đuợc duyệt thì mình cần làm gì",
+      "answer": "Chào anh, Trường hợp này có phải anh đang có nhu cầu mua trả góp sản phẩm trên không ạ? để tham gia mua trả góp anh cần có đủ từ 20-60 tuổi và có giấy tờ như CMND (không quá 15 năm kể từ ngày cấp và thấy rõ hình, chữ), hộ khẩu (có tên trong hộ khẩu), bằng lái xe (còn thời hạn), hóa đơn điện...đó anh nha.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.52827,
+      "id": "31306539",
+      "field_search": "question",
+      "question": "Cho mình hỏi ngày chủ nhật có làm thủ tục mua trả góp được không ?",
+      "answer": "Chào chị, Hiện chủ nhật tại siêu thị thegioididong.com vẫn hỗ trợ mua góp chị nhé, chị quan tâm sản phẩm Iphone 6 này phải không không ạ, chị vui lòng cho em biết khu vực ( tỉnh, quận, huyện ) bên em sẽ kiểm tra xem còn hàng không giúp chị nhé. Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.484575,
+      "id": "23992147",
+      "field_search": "question",
+      "question": "Thủ tục trả góp sao vậyy ạ .",
+      "answer": "Chào anh !  Để tham gia trả góp thì anh cần có độ tuổi trong 20 đến 60 tuổi, có các giấy tờ là CMND - Hộ Khẩu hoặc Bằng Lái Xe ( nếu có thêm hoá đơn điện thì gói lãi suất sẽ ưu đãi hơn ) anh nhé. Nếu được anh có thể cho em xin thông tin độ tuổi giấy tờ anh hiện có để bên em tư vấn giúp anh gói lãi suất nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.426155,
+      "id": "26877291",
+      "field_search": "question",
+      "question": "Mua trả góp qua thẻ mastecard có lãi ko qtv",
+      "answer": "Chào anh Thiện Hiện bên em có hỗ trợ góp lãi suất 0% với chủ thẻ Mastercard đó anh, anh có thể nhấp vào chọn khung góp bằng thẻ visa/master rồi điền thông tin anh nhéThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.389654,
+      "id": "21317036",
+      "field_search": "question",
+      "question": "Xin chào qtv mình vừa mua ip6 có cần sạc 3 lẩn đầu 8 tiếng ko vậy. Vì mình nghe nói pin li ion thực sự ko cần thiết",
+      "answer": "Chào anh Huy,Với iPhone 6, anh không cần sạc 3 lần 8 tiếng nha anh! Anh có thể sạc đầy là dùng được nhé!Xin thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.363697,
+      "id": "29209088",
+      "field_search": "question",
+      "question": "Mua trả góp không trả trước thì cần những gì vậy",
+      "answer": "Chào anh,Anh cần đủ 20 tuổi trở lên có ít nhất CMND và hộ khẩu để làm thủ tục trả góp gói trả trước 0đ(0%), lãi suất 2,17% / 3,22% của FeCredit  ạ, anh có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Anh vui lòng cung cấp thông tin về số tháng góp và các giấy tờ anh hiện có để bên em tư vấn gói lãi suất phù hợp cho anh ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.351116,
+      "id": "24978643",
+      "field_search": "question",
+      "question": "Mua bằng thẻ Visa debit thì có được giảm 500,000 không vậy?",
+      "answer": "Chào chị Trang,Chị thanh toán trực tuyến bằng thẻ Visa là được Giảm 500.000đ ạ. Chị vào ô MUA NGAY màu cam để thanh toán và đặt hàng nhé.Thông tin đến chị ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.307156,
+      "id": "21758434",
+      "field_search": "question",
+      "question": "Có trả góp  0% ko bqt.  Nếu có thì cần những giấy tờ  gì  và  trả  trước  bao nhiêu và  1 tháng  góp bao nhiu",
+      "answer": "Chào anh, Với sản phẩm này không hỗ trợ gói lãi suất 0% anh nha , sản phẩm này góp có lãi suất anh nhé . Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé.Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.298752,
+      "id": "25083923",
+      "field_search": "question",
+      "question": "Ad cho em hỏi 8tr490 là có giảm giá 500k tính tiền qua thẻ visa chưa vậy.",
+      "answer": "Chào anh Bằng,Giá gốc sản phẩm đang kinh doanh tại Thegioididong.com là 8.490.000đ chưa tính khuyến mãi giảm 500.000đ khi thanh toán trực tuyến bằng thẻ Visa anh nhé. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.256575,
+      "id": "27294250",
+      "field_search": "question",
+      "question": "Mình đang muốn mua trả góp thủ tục nhu thế nào ak",
+      "answer": "Chào chị,Để tham gia làm hồ sơ mua trả góp chị cần có CMND (bản gốc), hộ khẩu (bản gốc hoặc photo nguyên cuốn có công chứng không quá 3 tháng), bằng lái xe (bản gốc), hóa đơn điện (nếu có), phải từ 20 - 60 tuổi chị nhé, nếu chị quan tâm sản phẩm có thể cho em xin các giấy tờ hiện tại chị đang có, mức trả trước và số tháng góp để em hỗ trợ tư vấn giúp chị nhé.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.19214,
+      "id": "27010059",
+      "field_search": "question",
+      "question": "Cho mình hỏi ngoài siêu thị có thanh toán trả góp qua thẻ atm ko ?",
+      "answer": "Chào anh, Hiện tại siêu thị bên em có hỗ trợ thanh toán tiền góp hàng tháng qua thẻ ATM đó ạ, anh có thể ghé siêu thị để được hỗ trợ ạ!Thân gửi anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.003353,
+      "id": "30153300",
+      "field_search": "question",
+      "question": "Nếu trả góp cần giấy tờ gì nhiều ad",
+      "answer": "Chào anh, Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé, anh muốn trả trước bao nhiêu và góp mấy tháng ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.915207,
+      "id": "22612147",
+      "field_search": "question",
+      "question": "muốn mua trả góp 0% thủ tục làm sao",
+      "answer": "Chào chị,Để góp sản phẩm này lãi suất 0% thì chị cần trả trước 4.495.000₫ có CMND, Bằng lái xe (Hộ Khẩu) nha chị.Mong nhận được phản hồi sớm nhất!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.87182,
+      "id": "17983505",
+      "field_search": "question",
+      "question": "Có hỗ trợ trả góp 0% qua thẻ tín dụng không vậy?",
+      "answer": "Chào anhHiện tại Thegioididong.com không hỗ trợ trả góp lãi suất 0% cho sản phẩm này qua thẻ tín dụng nha anh. Hiện tại sản phẩm này cũng không được hỗ trợ góp lãi suất 0%. Tuy nhiên anh có thể góp với các gói lãi suất khác anh vui lòng cho em thông tin CMND, Bằng lái xe/ Hộ khẩu, Hoá đơn điện/ Hoá đơn Internet/ Bảng lương/ Hợp đồng lao động... để bên em tư vấn gói lãi suất tốt nhất nha.   Mong nhận được phản hồi sớm nhất!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.83472,
+      "id": "19251690",
+      "field_search": "question",
+      "question": "Mua trả góp chỉ cần đến TGDD làm thủ tục và nhận máy thôi hay phải đến cty tài chính gì đó nữa ạ? Ư",
+      "answer": "Chào anh,Khi mua trả góp anh chỉ cần đến siêu thị Thegioididong.com để làm thủ tục, sẽ có nhân viên của Công ty tài chính ở đó hỗ trợ anh nhé. Anh hãy cung cấp thông tin về độ tuổi, giấy tờ anh đang có, số tiền anh muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho anh nhé Mong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.832705,
+      "id": "23313017",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp hằng tháng điện thoại Iphone 6 32G bằng thẻ ATM của ngân hàng Sacombank có được không ??  và thủ tục như thế nào ???",
+      "answer": "Chào anh, Anh có thể đóng tiền góp hằng tháng bằng thẻ ATM anh nha, anh có thể đến trực tiếp siêu thị Thegioididong.com để được hỗ trợ anh nhé. Hiện bên em có hỗ trợ giá ưu đãi khi đặt hàng iPhone 6 32GB tại web, anh có thể đặt online để được ưu đãi anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.82605,
+      "id": "28680112",
+      "field_search": "question",
+      "question": "Nếu mình trả góp thì cần phải trả trc bao nhiêu ạ",
+      "answer": "Chào anh,Anh trả trước từ 0%-70% giá trị máy nha. Không biết anh có các giấy tờ như CMND, Hộ khẩu ( hoặc Bằng lái xe ), Hóa đơn điện không ạ. Và số tiền anh muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho anh nhé Mong nhận được phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.817924,
+      "id": "27780144",
+      "field_search": "question",
+      "question": "Thủ tục trả góp ntn v shop",
+      "answer": "Chào chị, Nếu chị mua trả góp sản phẩm thì chị cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn chị nhé , chị muốn trả trước bao nhiêu và góp mấy tháng ạ . Mong sớm nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.809772,
+      "id": "19517439",
+      "field_search": "question",
+      "question": "Thủ tục trả góp cho sinh viên có phức tạp không ạ?",
+      "answer": "Chào anh,Thủ tục trả góp sinh viên với người thường như nhau, không có gì khác biệt và cũng không phức tạp nha anh. Nếu có thể anh vui lòng cung cấp cho em một số thông tin như: Số tiền anh muốn trả trước, số tháng anh muốn góp, các giấy tờ anh đang có: CMND,Hộ Khẩu, Hóa đơn điện để em tư vấn gói lãi suất phù hợp với anh.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.807478,
+      "id": "21955749",
+      "field_search": "question",
+      "question": "Xin hoi giay tờ các loại dùng để trả góp, là giấy tờ gốc hay là photo, mà nếu là gốc thì tgdđ giữ luôn hay làm thủ tục xong sẽ trả lại, thanks",
+      "answer": "Chào anh,Giấy tờ trả góp phải là bản gốc ạ, tuy nhiên hộ khẩu có thể là bản photo công chứng nguyên cuốn không quá 3 tháng ạ. Anh trả góp sau khi làm xong hồ sơ sẽ được trả lại giấy tờ ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.771322,
+      "id": "17889891",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp ko đưa trước vậy cần hồ sơ gì vậy? Hộ khẩu photo dc ko vậy",
+      "answer": "Chào chị,Trường hợp này nếu như chị muốn mua trả góp sản phẩm này mà không cần trả trước thì gói lãi suất 2.2% của công ty tài chính FE Credit sẽ hỗ trợ chị. Thủ tục trả góp bao gồm: CMND (không quá 15 năm và thấy rõ hình, chữ), hộ khẩu (có tên trong hộ khẩu) và hóa đơn điện. Nếu như chị không có hộ khẩu thì chị cần có bản công chứng trong 3 tháng thì mới được hỗ trợ chị nhé.Gửi chị thông tin!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.65625,
+      "id": "28980013",
+      "field_search": "question",
+      "question": "Chào ad..e muốn mua ip6 32g trả góp ạ thì có cần phải trả trước ko ạ",
+      "answer": "Chào chị,Để đượu ưu đãi lãi suất cũng như tỷ lệ duyệt hồ sơ cao hơn thì mình có thể cho em hỏi là các giấy tờ hiện mình có như CMND, sổ hộ khẩu/bằng lái xe để em hỗ trợ mình gói trả góp tốt nhất ạ.Mong phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.640955,
+      "id": "29964862",
+      "field_search": "question",
+      "question": "Trả góp qua thẻ tín dụng có ưu đãi gì so với Cty tài chính ah",
+      "answer": "Chào chịDạ nếu chị góp qua thẻ tín dụng thì chị sẽ không cần phải làm hồ sơ chị nha, chị đang có thẻ tín dụng của ngân hàng nào và loại thẻ gì để bên em hỗ trợ chị ạ?Mong nhận được phản hồi từ chị",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.63264,
+      "id": "30361776",
+      "field_search": "question",
+      "question": "Muốn mua hàng trả góp online thì cần những gì vậy",
+      "answer": "Dạ chào anhTrường hợp này anh có thể cung cấp các thông tin như độ tuổi, giấy tờ anh có (CMND, bằng lái xe, hộ khẩu, hóa đơn điện), số tiền anh mong muốn trả trước để bên em sẽ kiểm tra và tư vấn gói trả góp anh tham khảo anh nhéMong tin từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.63264,
+      "id": "22753309",
+      "field_search": "question",
+      "question": "Mua trả góp thì cần những giấy tờ gì vậy ạh",
+      "answer": "Chào anh Huy,Anh cần đủ 20 tuổi trở lên có ít nhất CMND và bằng lái xe (hoặc hộ khẩu) để làm thủ tục trả góp ạ, anh có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Anh vui lòng cung cấp thông tin về số tiền anh có thể trả trước, số tháng góp và các giấy tờ anh hiện có để bên em tư vấn gói lãi suất phù hợp cho anh ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.584284,
+      "id": "20778552",
+      "field_search": "question",
+      "question": "Xin hỏi là em muốn mua chiếc iphone 6 32g trả góp thì cần phải có giấy tờ gì ạ.",
+      "answer": "Chào anh,Để tham gia mua trả góp anh cần đủ 20-60 tuổi, có CMND Hộ khẩu/Bằng lái xe, thêm hóa đơn điện ( để được lãi suất ưu đãi hơn ). Anh hãy cung cấp thông tin về độ tuổi, giấy tờ anh đang có, số tiền anh muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho anh nhéMong nhận được phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.515043,
+      "id": "26995563",
+      "field_search": "question",
+      "question": "18  tuổi làm thủ tục trả góp được không",
+      "answer": "Chào chị! Trường hợp chị đủ 18 tuổi thì đã có thể mua trả góp nha chị. Chị có thể cho em xin thông tin các giấy tờ chị đang có (CMND, Hộ khẩu/Bằng lái xe), số tiền chị có thể trả trước (10% - 40%) và số tháng trả (6 tháng hoặc 12 tháng) để em hỗ trợ tư vấn gói lãi suất phù hợp cho chị ạ.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.50215,
+      "id": "25669629",
+      "field_search": "question",
+      "question": "IPhone 6 32g cũ có trả góp 0% lãi suất không ạ. Nếu có thì cần những gì ạ",
+      "answer": "Chào anh,Máy cũ thì không được hỗ trợ gói lãi suất 0% anh nha. Nếu có nhu cầu mua hàng cũ, anh có thể thông tin khu vực đang sống (quận/huyện) để bên em kiểm tra siêu thị còn hàng giúp ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.45941,
+      "id": "29540580",
+      "field_search": "question",
+      "question": "Trả góp cần những gì vậy ạ",
+      "answer": "Chào anh, Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé , anh muốn trả trước bao nhiêu và góp mấy tháng ạ . Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.367268,
+      "id": "25833381",
+      "field_search": "question",
+      "question": "Trả trước 1tr thủ tục giấy tờ như nào vậy",
+      "answer": "Chào anh! Anh vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện, nước, cáp 1 trong 3 tháng gần nhất), độ tuổi  cũng như số tháng góp anh muốn để em hỗ trợ kiểm tra giúp mình ạ! Mong  nhận phản hồi  sớm từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.343174,
+      "id": "26666816",
+      "field_search": "question",
+      "question": "Chào AD, Mình sử dụng thẻ tín dụng Fe Credit, có trả góp 0% được không ?",
+      "answer": "Chào anh !Anh có thẻ tín dụng của FE Credit có thể mua trả góp iPhone 6 32GB nha anh, anh thanh toán 100% giá trị máy qua thẻ, sau đó chia cho 6 tháng góp anh nha:Số tháng trả góp: 6 thángSố tiền góp mỗi tháng: 1.165.000đ.Tổng tiền trả góp: 6.990.000đ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.33903,
+      "id": "24994365",
+      "field_search": "question",
+      "question": "mình thanh toán 3 triệu bằng thẻ tín dụng VP Bank, số còn lại sẻ thanh toán sau thì có được ko shop, nếu được thì cần những giấy tờ gì.",
+      "answer": "Chào anh! Dạ. Anh ơi, rất tiếc bên em không hỗ trợ anh nha. Anh vui lòng thanh toán cùng 1 lần giúp em, hoặc mua trả góp anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.333685,
+      "id": "28463678",
+      "field_search": "question",
+      "question": "E muốn mua chả góp thì e có phải xuống tgdd làm thủ tục ko ad",
+      "answer": "Chào anh Dạ, anh vui lòng  mang chứng minh nhân dân hộ khẩu/bằng lái xe ghé siêu thị Thegioididong.com để làm hồ sơ mua trả góp trong khoảng 30 phút, nếu hồ sơ được duyệt thì anh nhận máy ạ. Chia sẻ cùng anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.320892,
+      "id": "17956558",
+      "field_search": "question",
+      "question": "Em muốn mua trả góp con ip6s 32gb thì thủ tục như nào ạk",
+      "answer": "chào anh! Anh có thể mua trả góp nếu anh có chứng minh nhân dân, rõ hình rõ chữ; bằng lái xe, hộ khẩu;hóa đơn điện  3tháng gần nhất ạ. Anh vui lòn cung cấp thông tin giúp em về những giấy tờ mà mình đang có để em tư vấn gói lãi suất phù hợp nhất với anh ạ.mong nhận phản hồi sớm từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.313118,
+      "id": "24977600",
+      "field_search": "question",
+      "question": "Có trả góp k a và thủ tục như thế nào ạ",
+      "answer": "Chào anh! Dạ. Anh vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện, nước, cáp 1 trong 3 tháng gần nhất), độ tuổi  để em tư vấn gói trả góp phù hợp với mình nhất ạ. Mong  nhận phản hồi  sớm từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.270308,
+      "id": "18562727",
+      "field_search": "question",
+      "question": "nếu trả góp thì có cần phải xét duyệt hồ sơ hay không vậy shop",
+      "answer": "Chào anh,Anh tham gia trả góp thì công ty tài chính sẽ phải xét duyệt hồ sơ của anh ạ. Nếu anh cần tư vấn gói lãi suất thì có thể phản hồi lại tuổi và các giấy tờ anh có thể chuẩn bị để em tư vấn gói lãi suất phù hợp nhất với anh nha.Mong nhận được phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.241451,
+      "id": "29560778",
+      "field_search": "question",
+      "question": "Shop cho hỏi mất hoá đơn mua hàng.  Cần thủ tục gì để cấp lại hoá đơn",
+      "answer": "Chào anh, Dạ trường hợp này anh có thể ra trực tiếp siêu thị để nhân viên bên em hỗ trợ giúp mình anh nhaThông tin đến anh ạ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.148333,
+      "id": "26185564",
+      "field_search": "question",
+      "question": "Bạn cho mình hỏi mình muốn mua IPhone6 trả góp cần những gì vậy",
+      "answer": "Chào anh Anh tham khảo trả trước 2.547.000đ (30%) , trả mỗi tháng 1.032.000đ (góp 6 tháng) , lãi suất 0% của  FeCredit cần đủ 20-60 tuổi , giấy CMND và bằng lái xe , nếu anh đồng ý gói lãi suất trên anh có thể để lại số điện thoại để làm hồ sơ online nha anh .Thông tin đến anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.133057,
+      "id": "23883834",
+      "field_search": "question",
+      "question": "Mua trả góp cần những gì vậy a",
+      "answer": "Chào anh! Anh vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện 3 tháng gần nhất) để em hỗ trợ tư vấn giúp mình ạ! Mong nhận phản hồi sớm từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.082031,
+      "id": "20383304",
+      "field_search": "question",
+      "question": "Ad ơi, trả góp sau khi làm thủ tục xong thì hộ khảu có được trả lại hông?",
+      "answer": "Chào anh LamAnh làm thủ tục trả góp xong nhân viên sẽ trả lại giấy tờ của anh chứ không giữ đâu ạ, anh yên tâm nhé.Thông tin đến anh ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.047726,
+      "id": "21991095",
+      "field_search": "question",
+      "question": "Máy này mình có trả góp lãi 0% qua thẻ tín dụng không ạ?",
+      "answer": "Chào chị !  Rất tiếc bên em không hỗ trợ gói lãi suất 0% và góp qua thẻ tín dụng chị nha. Mong chị thông cảm ạ. Nếu được chị có thể cho em xin thông tin độ tuổi giấy tờ chị hiện có để bên em tư vấn giúp chị gói lãi suất khác xem sao nhé.Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.984293,
+      "id": "21560802",
+      "field_search": "question",
+      "question": "cho em hỏi làm thủ tục trả góp lâu không?",
+      "answer": "Chào anh, Hiện anh mua góp trực tiếp tại siêu thị trong vòng 30p-2h , lâu nhất là 4h anh nhé . Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.981819,
+      "id": "21425363",
+      "field_search": "question",
+      "question": "tối e xuống làm thủ tục trả góp được không ạ ?",
+      "answer": "Chào anh Toàn,Tối anh có thể đến siêu thị Thegioididong.com để làm hồ sơ trả góp, anh nên đến trước 19h30 để hồ sơ được duyệt trong ngày anh nhé.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.960317,
+      "id": "17836787",
+      "field_search": "question",
+      "question": "chào a e muốn mua iphone6 thường 32gb trả góp gói không đồng thì phải cần những gì ạh",
+      "answer": "Chào anh, Đối với gói lãi suất 2.2% trả trước 0đ trong 6,9,12 tháng của công ty tài chính FE Credit. Anh cần có cmnd, hộ khẩu và hóa đơn điện ở độ tuổi 20-60 tuổi là có thể tham gia gói lãi suất này anh nhé. Nếu anh đủ điều kiện để tham gia gói trả góp này, anh có thể đến siêu thị Thegioididong.com có hàng làm hồ sơ trả góp hoặc để lại thông tin số điện thoại để bên em hỗ trợ đăng ký hồ sơ online cho anh nhé. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.933652,
+      "id": "28942861",
+      "field_search": "question",
+      "question": "Để trả góp cần giấy tờ gì vậy",
+      "answer": "Chào anh,Khi anh mua trả góp thì anh phải đủ 20 - 60 tuổi, có CMND và Bằng lái xe/Hộ khẩu thì mới được anh nhé, nếu có thêm hoá đơn điện thì lãi suất sẽ thấp hơn đó ạ !!Thông tin đến anh !!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.92599,
+      "id": "18763908",
+      "field_search": "question",
+      "question": "Mình là bộ đội thì khi muốn mua trả góp thì cần những gì.",
+      "answer": "Chào anh,Anh là bộ đội thì khi mua góp anh vẫn chuẩn bị các giấy tờ như: CMND, hộ khẩu (hoặc bằng lái xe), hóa đơn điện,...anh nhé. Tuy nhiên, hiện iPhone 6 32G còn ít hàng nên anh vui lòng cung cấp khu vực cụ thể (huyện, quận,...) để em kiểm tra siêu thị còn hàng không nhé. Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.924986,
+      "id": "32772413",
+      "field_search": "question",
+      "question": "Cho e hỏi, hôm nay ACS có làm thủ tục trả góp không ạ??",
+      "answer": "Chào chị, Dạ hiện tại công ty tài chính vẫn hỗ trợ trả góp với ACS vào hôm nay ạ. Tuy nhiên thì Thegioididong không hỗ trợ liên kết với ACS chị nhé. Chị có thể ghé Dienmayxanh.com để được hỗ trợ với công ty tài chính ACS chị nhé. Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.922717,
+      "id": "19721066",
+      "field_search": "question",
+      "question": "máy trả góp cần những gì vậy shop ,",
+      "answer": "Chào anh, Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé.Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.887911,
+      "id": "19765160",
+      "field_search": "question",
+      "question": "Thủ tục cần chứng minh gốc vs hộ khẩu photo công chứg dc ko ạ,",
+      "answer": "Chào anh,Dạ anh có thể sử dụng CMND và sổ hộ khẩu photo công chứng không quá 3 đến 6 tháng anh nha.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.846927,
+      "id": "22710699",
+      "field_search": "question",
+      "question": "Nếu muốn mua trả góp thì mình cần đóng trước bao nhiêu ạ",
+      "answer": "Chào anh.Anh có thể cho em xin thêm giấy tờ đầy đủ mà anh hiện có (CMND, hộ khẩu/bằng lái xe, hóa đơn điện) để bên em hỗ trợ tư vấn cho anh gói lãi suất phù hợp nhé.Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.817414,
+      "id": "22985176",
+      "field_search": "question",
+      "question": "Mình mua a9 pro trả góp được 5 tháng rồi. Nhưng mình k muốn dùng nữa. Muốn đổi qua ip6 32g giá 8tr9 thủ tục như thế nào ạ",
+      "answer": "Chào anh.Trường hợp này nếu anh trả góp khác gói 0% anh có thể đổi máy góp và mất phí là 40% giá trị ạ.Nếu anh góp gói 0% anh phải hủy hợp đồng góp bên em mới hỗ trợ anh đổi máy ạ.Anh vui lòng mang bộ sản phẩm chuẩn và quà tặng kèm nếu có ra siêu thị Thegioididong.com để có thông tin chính xác nhất ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.779989,
+      "id": "20164067",
+      "field_search": "question",
+      "question": "Mình muốn mua Iphone 6 32GB nhưng mình chỉ có thẻ Visa debit thì có được giảm giá 1tr theo chương trình này ko?",
+      "answer": "Chào anh Hùng,Sản phẩm chỉ giảm giá ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.698722,
+      "id": "24834917",
+      "field_search": "question",
+      "question": "mình mua trả bằng thẻ visa để được giảm 500k. có dc áp dụng dộn 3% U23 chiến thắng ko bạn?",
+      "answer": "Chào chị ! Dạ nếu chị mua sản phẩm này và thanh toán trực tuyến qua thẻ Visa sẽ được hỗ trợ giảm 500.000đ chị nha, mã giảm giá U23 không áp dụng đồng thời giảm giá Mastercard, VISA nha chị, mong chị thông cảm nhaThông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.615929,
+      "id": "20293330",
+      "field_search": "question",
+      "question": "Cho mình hỏi thanh toán bằng thẻ visa prepaid có đc giảm 1tr ko ạ",
+      "answer": "Chào anh, Đã có QTV trả lời câu hỏi của anh rồi ạ. Anh hãy cập nhật lại trang bình luận để nhận phản hồi anh nhé.   Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.547413,
+      "id": "25951417",
+      "field_search": "question",
+      "question": "Nếu mua trả góp thì có cần trả tiền kê chân k ạ",
+      "answer": "Chào chị,Dạ chị cho em xin độ tuổi kèm giấy tờ chị có để em tư vấn chị có thể đưa trước 0đ hoặc trả trước 10,20,30%,... đó ạMong nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.54398,
+      "id": "24487012",
+      "field_search": "question",
+      "question": "Mình có thẻ BIDV có mưa trả góp được ko bạn",
+      "answer": "Chào anh Khanh,Hiện Thegioididong.com không hỗ trợ mua trả góp với thẻ tín dụng của ngân hàng BIDV ạ. Anh có thể mua trả góp với công ty tài chính anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.539824,
+      "id": "27324193",
+      "field_search": "question",
+      "question": "cho em hỏi mua i6 trả góp thủ tục ntn ạ?",
+      "answer": "Chào chị,Tuỳ vào thủ tục chị có thì mỗi tháng chị có mức góp khác nhau, thủ tục chị cần có cơ bản là CMND (không quá 15 năm), hộ khẩu, hóa đơn điện. Chị cung cấp giúp em thủ tục chị đang có cụ thể hơn để em hỗ trợ chị được tốt hơn nha.Sớm nhận được hồi âm từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.526987,
+      "id": "24782119",
+      "field_search": "question",
+      "question": "em đang mua 1 máy trả góp 99% tại 1 cửa hàng khác..nhưng gần đây máy bị lỗi. em muốn hoàn trả lại máy kia và mua trả góp bên tgdd thì cần làm những thủ tục gì ạ? em trả góp bên FE",
+      "answer": "Chào anh Rất tiếc sản phẩm của anh không mua tại Thegioididong không hỗ trợ đổi trả giúp anh được ạ , anh muốn tham gia trả góp cần đủ 20-60 tuổi , giấy CMND và bằng lái xe hoặc sổ hộ khẩu (photo công chứng trong 3 tháng gần nhất) , nếu có hóa đơn điện (có thể thay bằng hóa đơn nước / cáp / internet) hoặc hợp đồng lao động   sao kê lương (3 tháng gần nhất) nha anh .Thông tin đến anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.502738,
+      "id": "21431747",
+      "field_search": "question",
+      "question": "E muốn mua trả góp. Trả trc 50% giá trị máy thì thủ tục như thế nào ạ",
+      "answer": "Chào anh, Nếu anh mua trả góp sản phẩm thì anh cần đủ điều kiện từ 20 tuổi đến 60 tuổi có CMND (không quá 15 năm kể từ ngày cấp, rõ hình ảnh và thông tin còn rõ ràng), hộ khẩu (có tên người mua trả góp trong hộ khẩu) hoặc bằng lái xe (còn thời hạn), nếu có thêm hóa đơn điện thì lãi suất ưu đãi hơn anh nhé.Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.458403,
+      "id": "26060217",
+      "field_search": "question",
+      "question": "Nếu trả góp 0% mình cần trả trước bao nhiêu shop",
+      "answer": "Chào anh Dạ. Anh ơi,  nếu như anh mua sản phẩm online giá rẻ  7.990.000₫ thì sẽ không có gói lãi suất 0%. Còn anh mua giá thường 8.490.000đ thì sẽ có lãi suất 0%. Không biết ý anh sao ạ. Mong  nhận phản hồi  sớm từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.458403,
+      "id": "25464832",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp ip 6 mà giờ mình mới có 2 triệu thì thủ tục như nào và mo9ix tháng mình phải trả bn tiền và trong bn tháng ạ",
+      "answer": "Chào chị Dạ. Chị vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện, nước, cáp 1 trong 3 tháng gần nhất), độ tuổi  để em hỗ trợ kiểm tra giúp mình ạ! Mong  nhận phản hồi sớm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.3982525,
+      "id": "18767528",
+      "field_search": "question",
+      "question": "Mình muốn mua iPhone 6 trả góp trả trước 0 đồng thủ tục như thế nào bạn?",
+      "answer": "Chào anh DươngTrường hợp của anh nếu anh mua trả góp sản phẩm này 0đ thì anh cần có những giấy tờ như : CMND(còn thời hạn trong vòng 15 năm và thấy rõ ảnh, chữ), hộ khẩu( có tên anh trong hộ khẩu) hay bằng lái xe chính chủ còn thời hạn, hóa đơn điện(trùng với địa chỉ hộ khẩu)   không biết anh có đầy đủ không ạ để bên em hỗ trợ giúp anh ngay anh nhaBên em chờ phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.396875,
+      "id": "21723601",
+      "field_search": "question",
+      "question": "Không có thẻ mastercard chỉ có thẻ visa có được không bạn?",
+      "answer": "Chào chị, Hiện bên em có giảm 300.000đ khi thanh toán trực tuyến bằng MasterCard chị nha, không hỗ trợ thẻ visa ạ.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.361621,
+      "id": "17760810",
+      "field_search": "question",
+      "question": "Muốn mua trả góp thì cần những gì ạ",
+      "answer": "Chào chị,Dạ chị cần đủ từ 20-60 tuổi và có giấy tờ cơ bản như CMND, hộ khẩu hay giấy phép lái xe đó ạ. Chị có thể cho em biết thông tin về giấy tờ chị đang có như CMND, hộ khẩu hay bằng lái xe, hóa đơn điện,.., số tiền trả trước có thể và thời gian chị muốn góp để em có thể hỗ trợ chị tư vấn gói lãi suất phù hợp được không chị? Mong sớm nhận được hồi âm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.311487,
+      "id": "28254706",
+      "field_search": "question",
+      "question": "E mới 19 tuổi có cmnd và blx thì có thể mua trả góp k ạ? Và thủ tục thì thế nào ạ?",
+      "answer": "Chào chị,Mong chị thông cảm ạ, để mua trả góp sản phẩm chị cần đủ 20 tuổi vì đây là quy định của công ty tài chính hay chị nhờ người thân có đủ thủ tục để mua trả góp sản phẩm giúp chị nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.280971,
+      "id": "23279287",
+      "field_search": "question",
+      "question": "Dạ cho e hỏi giờ mình làm thủ tục trả góp tại tgdd tại nơi mình ở đc k ạ",
+      "answer": "Chào chị, Chị có thể ra trực tiếp siêu thị Thegioididong.com khu vực chị mua góp được chị nha , nhưng hiện tại em kiểm tra thì sản phẩm này có khuyến mãi đặt mua sản phẩm này trên web với hình thức online và nhận hàng trong vòng 48h với mức giá còn 8.490.000₫ anh nha , và có thể mua góp được chị nhé , chị nên đặt mua sản phẩm trên web trước ạ . Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.246421,
+      "id": "17803405",
+      "field_search": "question",
+      "question": "Giờ em đang góp cái sony 7490k giờ em muốn đổi qua góp iPhone 6 được không ạ vậy thủ tục như thê nào",
+      "answer": "Chào anh,Dạ với trường hợp này thì anh hãy cho em thêm thông tin là anh đang góp máy với gói lãi suất nào để em hỗ trợ thông tin được tốt hơn cho mình anh nhé.Mong sớm nhận được phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.2374735,
+      "id": "20293324",
+      "field_search": "question",
+      "question": "Cho mình hỏi thanh toán bằng thẻ visa prepaid có được giảm 1 tr ko ạ",
+      "answer": "Chào anh, Rất tiếc hiện tại khi anh thanh toán online qua thẻ MasterCard mới được hỗ trợ giảm giá thôi anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.203333,
+      "id": "27429060",
+      "field_search": "question",
+      "question": "Xin chào! Mình ở Q12, nếu đặt online thì giá 6,690,900 đúng ko shop? Thời gian giao hàng trong 48h. Mình có thể nhận hàng sớm hơn được ko? Cảm ơn",
+      "answer": "Chào chị, Hiện máy giá online 6.690.000₫ có hàng tại Q12 ạ. Chị đặt hàng xong thì từ sáng mai bên em sẽ giao hàng tận nơi cho chị ạ. Chị Chị vào ô MUA NGAY màu cam làm theo hướng dẫn để đặt hàng nhé. Thông tin đến chị ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.184342,
+      "id": "17505866",
+      "field_search": "question",
+      "question": "cho mình hỏi nếu trả góp thì có các gói nào vậy, trả trước bn",
+      "answer": "Chào chị,Nếu chị muốn tham gia trả góp cho sản phẩm IPHONE 6 32GB  thì chị có thể vui lòng cung cấp các giấy tờ chị hiện có như : chứng minh nhân dân, bằng lái xe, hóa đơn điện, hộ khẩu để bên em tư vấn cho chị gói lãi suất tốt nhất được không ạ.  Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.174648,
+      "id": "19919416",
+      "field_search": "question",
+      "question": "cho em hỏi thủ tục mua trả góp như thế nào ạ",
+      "answer": "Chào chị,Để góp sản phẩm, chị cần đủ 20-60 tuổi và có các giấy tờ như CMND, hộ khẩu, bằng lái xe, hóa đơn điện. Để được tư vấn gói lãi suất phù hợp, chị vui lòng để lại thông tin độ tuổi, các giấy tờ chị có trong các giấy tờ trên để được hỗ trợ nha!Sớm nhận phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.0617,
+      "id": "27894369",
+      "field_search": "question",
+      "question": "xin chào, cho em hỏi. nếu bây giờ e mua đt ip6 trả góp trả trước 4trđ thì mức lãi xuất thế nào. Em có Giấy CMNd và bằng lái xe.",
+      "answer": "Chào chị!chị vui lòng cho em xin thông tin độ tuổi và số tháng trả để em có thể hỗ trợ tư vấn gói lãi suất phù hợp cho chị ạ.  Mong phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.019163,
+      "id": "24124358",
+      "field_search": "question",
+      "question": "muốn mua trả góp cần những giấy tờ gì vậy",
+      "answer": "Chào anhAnh xin vui lòng cho em xin giấy tờ hiện có (CMND, bằng lái xe/hộ khẩu, hóa đơn điện) và số tiền có thể trả trước là bao nhiêu, số tháng góp để em có thể tư vấn gói lãi suất phù hợp với anh ạ. Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.977707,
+      "id": "23157966",
+      "field_search": "question",
+      "question": "đt em bị hỏng. Mua tại tgdđ, mai e cầm ra bảo hành. Trong thời gian bảo hành em có được mượn máy dùng không ạ. Nếu có em cần những thủ tục gì ạ",
+      "answer": "Chào anh.Dạ được ạ anh có thể đến quầy máy đã qua sử dụng để được nhân viên bên em hỗ trợ giúp anh tốt hơn anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.946422,
+      "id": "30751987",
+      "field_search": "question",
+      "question": "Cho e hỏi mua trả góp qua thẻ ngân hàng có cần trả tiền trực không và có cânf thêm các giấy tờ khác không",
+      "answer": "Chào anh,Anh trả góp qua Thẻ tín dụng thì không có mức trả trước và không cần thêm giấy tờ đâu nha. Không biết anh có Visa/MasterCard/JCB của Ngân hàng nào ạMong nhận được phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.939447,
+      "id": "24970047",
+      "field_search": "question",
+      "question": "Chào.! Cho e hỏi. . Muốn mua  trả góp ip6 mình cần trả trước là bn ạ.",
+      "answer": "Chào chị,Chị trả trước Điện thoại iPhone 6 32GB từ 0%-70% giá máy nha. Không biết chị có các giấy tờ như CMND, Hộ khẩu ( hoặc Bằng lái xe ), Hóa đơn điện không ạ. Và số tiền chị muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho chị nhéMong nhận được phản hồi từ chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.93587,
+      "id": "20427955",
+      "field_search": "question",
+      "question": "Thẻ mastercad là gì vậy . có phải là thẻ tín dụng ko AD",
+      "answer": "Chào anh. Vâng thẻ mastercard là thẻ tín dụng đó anh, anh có thể sử dụng để được khuyến mãi giảm giá 1.000.000đ khi mua trực tuyến sản phẩm này anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.911077,
+      "id": "20862229",
+      "field_search": "question",
+      "question": "Mua trả góp trả trước 10%. Góp trong 12 tháng cần gì vậy QTV",
+      "answer": "Chào anh,Nếu anh có đủ CMND, Hộ khẩu, Hóa đơn điện anh sẽ trả trước 899.000₫ (10%), mỗi tháng là 860.500₫ (góp 12 tháng), lãi suất 2.2% FECredit. Nếu anh quan tâm gói lãi suất này, vui lòng để lại số điện thoại, bên em sẽ liên lạc hỗ trợ anh làm hồ sơ online nhéMong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.90818,
+      "id": "22007841",
+      "field_search": "question",
+      "question": "Cho mình hỏi, mình mua đt và đã dc cấp thẻ fe credit thì có dùng để thanh toán cho đt mình đã mua trả góp ko. Nếu có thì có dc tra góp tiền hàng tháng cho fe credit dc ko ạ",
+      "answer": "Chào chị,Có phải chị đang có thẻ tín dụng FeCredit không ạ? Với thẻ tín dụng thì không được dùng để đóng tiền góp hàng tháng nha. Còn nếu thẻ ATM thì chị có thể chuyển khoản hoặc thanh toán online, hoặc ra siêu thị để bên em hỗ trợ cà thẻ ạ.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.871878,
+      "id": "22060378",
+      "field_search": "question",
+      "question": "Máy mình thường bị nóng nếu sử dụng liên tục thì máy có vấn đề gì không hả bạn?",
+      "answer": "Chào bạn Trường hợp này khi bạn sử dụng máy liên tục thì máy sẽ nóng lên là bình thường nên bạn có thể an tâm sử dụng bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.8203745,
+      "id": "29345160",
+      "field_search": "question",
+      "question": "Qtv cho hỏi mua iphone 6 32gb trả góp dùng cmnd và bằng lái xe được không? Ngoài ra có cần cung cấp thêm sdt người thân bạn bè gì không? Thủ tục bao lâu thì nhận máy ạ?",
+      "answer": "Chào anh Dạ, anh đủ 20 tuổi anh dùng chứng minh nhân dân bằng lái xe để mua trả góp được anh nha. Khi mua trả góp thì công ty tài chính sẽ yêu cầu cung cấp số điện thoại người thân anh nha. Anh làm hồ sơ tại siêu thị khoảng 30 phút -1h nếu được duyệt thì mình nhận máy ngay anh nha. Chia sẻ cùng anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.81097,
+      "id": "19219822",
+      "field_search": "question",
+      "question": "6 này có màu đen k vậy.minh muốn mua trả góp thì có các gói nào và thủ tục ra sao.",
+      "answer": "Chào anh,iPhone 6 32GB này Thegioididong.com không kinh doanh bản màu đen ạ, chỉ có màu vàng đồng thôi anh. Nếu anh chọn mua góp thì anh vui lòng cho em biết giấy tờ anh có như CMND, hộ khẩu (hoặc bằng lái xe), hóa đơn điện,...  và mức trả trước mong muốn để em tư vấn gói lãi suất phù hợp nhé Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.798171,
+      "id": "29840611",
+      "field_search": "question",
+      "question": "Chào shop                     Anh định mua iPhone 6 thế nếu trả góp thì mỗi tháng trả mấy",
+      "answer": "Chào anh Hiện tùy theo giấy tờ anh có, mức trả trước, số tháng góp mà tiền trả hàng tháng, lãi suất khác nhau anh nhé. Anh xin vui lòng cho em xin giấy tờ hiện có (CMND, bằng lái xe/hộ khẩu, hóa đơn điện) và số tiền có thể trả trước(0%-70%) là bao nhiêu, số tháng góp (6,9,12 tháng) mong muốn để em có thể tư vấn gói lãi suất phù hợp với anh ạ. Mong nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.774927,
+      "id": "25949514",
+      "field_search": "question",
+      "question": "Thủ tục trả góp thế nào ạ e ở gò công đông ạ",
+      "answer": "Chào chị Dạ. Chị vui lòng cho em xin thông tin chính xác về giấy tờ mà mình đang có (chứng minh nhân dân, hộ khẩu, bằng lái xe, hóa đơn điện, nước, cáp 1 trong 3 tháng gần nhất), độ tuổi  để em tư vấn gói trả góp phù hợp với mình nhất ạ. Mong  nhận phản hồi sớm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.746264,
+      "id": "22630300",
+      "field_search": "question",
+      "question": "cho mình hỏi là mình mua trả góp ip6 trả trước 1 nửa thì cần những giấy tờ gì ạ?",
+      "answer": "Chào anh !  Để tham gia trả góp thì anh cần có độ tuổi trong 20 đến 60 tuổi, có các giấy tờ là CMND - Hộ Khẩu hoặc Bằng Lái Xe ( nếu có thêm hoá đơn điện thì gói lãi suất sẽ ưu đãi hơn ). Nếu được anh có thể cho em xin thông tin độ tuổi giấy tờ anh hiện có để bên em tư vấn giúp anh gói lãi suất nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.744062,
+      "id": "19556881",
+      "field_search": "question",
+      "question": "Khi mình mua trả góp trả trước 0đ thì cần những gì ạ ? Và có gọi về cho gia đình không ?",
+      "answer": "Chào chị,Nếu chị trên 20 tuổi, và có đủ CMND,Hộ khẩu,Hóa đơn điện thì chị sẽ trả trước 0đ, trong 12 tháng, mỗi tháng là 1.003.000₫, lãi suất 2.2% của FECredit. Nếu chị quan tâm gói lãi suất này, vui lòng để lại số điện thoại, bên em sẽ liên lạc hỗ trợ chị làm hồ sơ online nhé. Và Công ty tài chính sẽ yêu cầu anh cung cấp số điện thoại của người thân, nhưng họ có thể gọi hoặc không chị nhéMong phản hồi từ chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.716778,
+      "id": "26498724",
+      "field_search": "question",
+      "question": "Bên mình còn cho trả góp alepay qua thẻ tín dụng FE credit k",
+      "answer": "Chào anh, Hiện bên em có hỗ trợ trả góp bằng thẻ MasterCard của công ty tài chính FeCredit với:Số tháng trả góp: 6 thángSố tiền góp mỗi tháng: 1.331.667₫Tổng tiền trả góp: 7.990.000₫Anh vui lòng , nhấn vào BẰNG THẺ VISA, MASTER và điền đầy đủ thông tin để bên em có thể anh mua trả góp sản phẩm anh nhé.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.714655,
+      "id": "27692152",
+      "field_search": "question",
+      "question": "Mình muốn trả góp 0% thì cần những giấy tờ gì và mỗi tháng góp bao nhiêu ạ",
+      "answer": "Chào anh!Nếu anh có CMND (20 - 60 tuổi) và Hộ khẩu/bằng lái xe thì anh có thể tham gia gói trả trước 2.247.000₫(30%) với số tiền đóng hàng tháng là khoảng 911.500₫(góp 6 tháng), lãi suất 0% với công ty tài chính FE Credit nha anh. Nếu cảm thấy phù hợp anh có thể cho em xin số điện thoại để bên em hỗ trợ anh làm hồ sơ online nha anh. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.676414,
+      "id": "25133561",
+      "field_search": "question",
+      "question": "Em muốn mua trả góp thì cần giấy tờ gì ạ ?",
+      "answer": "Chào chị,Trường hợp này nếu chị đủ 20-60 tuổi chị vui lòng phản hồi cho em các giấy tờ chị có: CMND,bằng lái xe,sổ hộ khẩu, hóa đơn điện.. em sẽ tư vấn chị gói lãi suất cụ thể nhé.  Mong phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.676414,
+      "id": "17453927",
+      "field_search": "question",
+      "question": "Hộ khẩu tỉnh thì cần những gì để mua trả góp?",
+      "answer": "Chào anh Nam Anh,Với Hộ khẩu (có tên anh trong hộ khẩu) địa chỉ tỉnh cũng được hỗ trợ làm thủ tục góp , thêm CMND(không quá 15 năm kể từ ngày cấp và thấy rõ hình, chữ),, đủ 20-60 tuổi là anh đã làm thủ tục góp được rồi ạ! Anh đã tham khảo được gói trả góp phù hợp chưa anh?Mong phản hồi sớm từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.660562,
+      "id": "20533803",
+      "field_search": "question",
+      "question": "bạn ơi có ưu đãi giảm 1tr cho thẻ Visa Vietcombank ko ban",
+      "answer": "Chào chị. Rất tiếc bên em không ưu đãi giảm 1 triệu với Visa Vietcombank chị nha, chỉ có khi thanh toán trực tuyến với Mastercard thôi.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.64661,
+      "id": "20323476",
+      "field_search": "question",
+      "question": "Mình từng mua trả góp và trả xong 5-6 tháng gì đó rồi giờ muốn mua trả góp cái này thì có cần làm lại hồ sơ ko . Ở gò công có sp này ko",
+      "answer": "Chào anh Triệu,Nếu anh góp xong thì anh có thể làm hồ sơ để góp tiếp ạ. Và sản phẩm hiện tại đang có hàng tại Gò Công anh nhé. Nếu quan tâm đến sản phẩm anh vui lòng để lại số điện thoại để được bên em liên hệ tư vấn và hỗ trợ tốt nhất. Mong sớm nhận được phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.636131,
+      "id": "23571779",
+      "field_search": "question",
+      "question": "Mình muốn mua trả góp trước 4 triệu .. Sau hai thang trả hết thì cần làm gì ạ ..",
+      "answer": "Chào chị,Bên em không có gói trả trước 4.000.000đ góp trong 2 tháng ạ. Chị có những giấy tờ nào sau đây CMND ,sổ hộ khẩu, bằng lái xe (nếu có hóa đơn điện sẽ được ưu đãi hơn) để em tư vấn chị các gói lãi suất tốt nhất ạ. Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.523904,
+      "id": "24937283",
+      "field_search": "question",
+      "question": "Thanh toán bằng thẻ tín dụng Visa 4, 5 lần ko được mà ở đó nói là giảm 500k con khỉ mốc gì. Cứ nói là thẻ rủi ro, tổng đài thì nói thẻ hết hạn. Trong khi thẻ đang sử dụng bình thường. Bực mình!",
+      "answer": "Chào anh,Nếu anh có thẻ visa mà không thanh toán được thì anh có thể cho em xin số điện thoại để bên em hỗ trợ mình ạ.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.512784,
+      "id": "19738692",
+      "field_search": "question",
+      "question": "Mình đang ở Bình Chuẩn. Bình Dương. Mình muốn biết nếu mình mua iphone6 plus có gói trả góp 0 lải suất không vậy bạn ? Nếu có thì mình đến cửa hàng ở đâu? Rất mong hồi âm. Xin cảm ơn!,",
+      "answer": "Chào chị. Dạ với Điện thoại iPhone 6 Plus 16GB hiện bên em không hỗ trợ cùng với gói lãi suất 0% đó ạ, chị có thể cho em xin thêm thông tin giấy tờ mà chị hiện có để bên em tư vấn cho chị tham khảo gói lãi suất khác chị nha. Và với sản phẩm này theo em kiểm tra thì đã hết hàng tại khu vực phường Bình Chuẩn rồi đó ạ, không biết chị còn có thể tham khảo khu vực lân cận khác được không ạ ?Mong phản hồi từ chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.50555,
+      "id": "28175398",
+      "field_search": "question",
+      "question": "Cho mình hỏi muq trả góp thì cần những giấy tờ nào vậy",
+      "answer": "Chào anh, Nếu anh quan tâm đến sản phẩm và muốn trả góp thì cần đủ điều kiện độ tuổi từ 20-60 tuổi, anh có thể cho em xin thông tin độ tuổi, các giấy tờ anh đã có như giấy CMND, Hộ Khẩu, Hóa đơn điện, Bằng lái xe anh đã có những giấy tờ nào, số tiền anh có thể trả trước và số tháng trả để bên em có thể hỗ trợ tư vấn gói lãi suất phù hợp anh nhé   Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.4890995,
+      "id": "31177287",
+      "field_search": "question",
+      "question": "xin chào! cho mình hỏi là máy ip 6 thường 32gb hiện tại là màu gì?",
+      "answer": "Chào anh Dạ điện thoại Iphone 6 32GB màu vàng đồng anh nhé, nếu anh muốn mua điện thoại này anh vui lòng để lại số điện thoại bên em sẽ liên hệ với anh trong vòng 30 phút để hỗ trợ anh đặt hàng. Mong nhận được phản hồi từ anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.449634,
+      "id": "29723648",
+      "field_search": "question",
+      "question": "Em muốn mua trả góp thì cần gì .. và mua trả góp 0đ được không",
+      "answer": "Chào chị !Để mua trả góp chị cần đủ 20 tuổi, có CMND, Hộ khẩu hoặc Bằng lái xe, nếu có thêm Hóa đơn điện lãi suất ưu đãi hơn chị nha. Còn nếu chị muốn mua trả trước 0đ thì chị phải có đủ CMND, Hộ khẩu ạ, chị tham khảo gói góp trong 6 tháng mỗi tháng khoảng 1.477.000đ, lãi suất 3.30% của FE Credit ạ. Nếu đồng ý gói trả góp này thì chị có thể cho bên em xin thông tin số điện thoại bên em hỗ trợ làm hồ sơ Online cho chị nha. Mong nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.435801,
+      "id": "21714589",
+      "field_search": "question",
+      "question": "Trả góp lãi suất 0% thì thủ tục giấy tờ như thế nào? Tổng số tiền sau khi trả góp xong là bao nhiêu",
+      "answer": "Chào anh !  Rất tiếc sản phẩm này không hỗ trợ gói lãi suất 0% anh nha. Mong anh thông cảm ạ. Nếu được anh có thể cho em xin thông tin độ tuổi giấy tờ anh hiện có để bên em tư vấn giúp anh gói lãi suất khác xem sao nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.4093075,
+      "id": "22770936",
+      "field_search": "question",
+      "question": "Nếu có mua góp có trả trước và thanh toán bằng thẻ tín dụng thì được không ạ",
+      "answer": "Chào chị, Số tiền trả góp hàng tháng chị không trả bằng thẻ tín dụng được nha. Chị phải trả bằng tiền mặt trực tiếp tại siêu thị hoặc có thể thanh toán trực tuyến bằng ATM ( Internet Banking ) chị nhé.Thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.407045,
+      "id": "22612248",
+      "field_search": "question",
+      "question": "cho mình hỏi nếu mình chưa có thẻ ngân hàng thì muốn mua ứng dụng trả phí thì có thể đến tgdd để mua hộ có dc ko ạ",
+      "answer": "Chào bạn, Rất tiếc là bên mình không hỗ trợ mua ứng dụng giúp bạn được nếu bạn chưa có thẻ Visa bạn nhé Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.4029255,
+      "id": "23740804",
+      "field_search": "question",
+      "question": "Bên tgdd có thanh toán qua thẻ ko ạ? ,Bên tgdd có thanh toán qua thẻ ko ạ?",
+      "answer": "Chào chị, Dạ Thegioididong.com có hỗ trợ thanh toán bằng hình thức cà thẻ chị nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.391219,
+      "id": "17951670",
+      "field_search": "question",
+      "question": "Ip 6 32gb còn hàng ko QTV, mình muốn mua trả góp cần giấy tờ gì ?",
+      "answer": "Chào anhHiện Điện thoại iPhone 6 32GB vẫn còn hàng ạ. Anh cần đủ 20 tuổi trở lên có ít nhất CMND và bằng lái xe (hoặc hộ khẩu) để làm thủ tục trả góp ạ, anh có thêm hóa đơn điện thì lãi suất sẽ ưu đãi hơn ạ. Anh vui lòng cung cấp thông tin về số tiền anh có thể trả trước, số tháng góp và các giấy tờ anh hiện có để bên em tư vấn gói lãi suất phù hợp cho anh ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    }
+  ]
+}

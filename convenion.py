@@ -75,7 +75,6 @@ def customize_string(string):
     string = re.sub(r'\b40%\b', 'bốn_mươi phần_trăm', string)
     string = re.sub(r'\b50%\b', 'năm_mươi phần_trăm', string)
     string = re.sub(r'\b60%\b', 'sáu_mưoi phần_trăm', string)
-    string = re.sub(r'\b%\b', 'phần_trăm', string)
     string = re.sub(r'\b20\b', 'hai_mươi', string)
     string = re.sub(r'\b30\b', 'ba_mươi', string)
     string = re.sub(r'\b40\b', 'bốn_mươi', string)
@@ -87,6 +86,7 @@ def customize_string(string):
     string = re.sub(r'\b0 %\b', 'không lãi suất', string)
     string = re.sub(r'\b0đ\b', 'không trả trước', string)
     string = re.sub(r'\b0\b', 'không', string)
+    string = re.sub(r'%', ' phần_trăm ', string)
 
     string = string.replace('\xa0', ' ')\
         .replace('.', ' ').replace(',', ' ')\
@@ -134,4 +134,5 @@ def caculate_AP(arr):
     return P_at_k / relevan_len
 
 # t = word_tokenize('xin chào đồng bào cả nước', format='text')
-t = caculate_AP([0,1,0, 0, 0, 1, 1, 1, 0, 0])
+# t = caculate_AP([0,1,0, 0, 0, 1, 1, 1, 0, 0])
+print(customize_string('Hỏ trợ trả góp bao nhiêu    1% lãi vậy ạ'))

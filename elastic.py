@@ -98,6 +98,10 @@ def get_search_result(query_obj, page=0, size=10, field_search="question", **kwa
 
 def refresh_query_pool():
     # safe to run
+    # paths1 = glob.glob('elastic/judged/2hardquestion/*.json')
+    # paths2 = glob.glob('elastic/judged/ezquestion/*.json')
+    # paths = glob.glob('elastic/judged/tmp/*/*.json') + paths1 + paths2
+
     paths = glob.glob('elastic/judged/tmp/*/*.json')
     arr_query = []
     for path in paths:
@@ -450,7 +454,7 @@ def tmp():
 # raw_query_pool()
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_pool.json', path_raw_result='elastic/search_result/')
 # statistic_search_result()
-caculate_mAP('data/tmp/dev', strict=False)
+# caculate_mAP('elastic/judged/tmp', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
@@ -461,7 +465,7 @@ caculate_mAP('data/tmp/dev', strict=False)
 #             explicit_path_use='data/tmp/test/*.json',
 #             explicit_path_raw='data/tmp/raw/test.txt')
 
-# split_data(path_glob='elastic/judged/tmp/*/*.json')
+split_data(path_glob='elastic/judged/tmp/*/*.json')
 
 # refresh_query_pool()
 

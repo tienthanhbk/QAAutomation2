@@ -1,0 +1,1473 @@
+{
+  "id_query": "20264485",
+  "total": 20145,
+  "total_current": 200,
+  "max_score": 58.81332,
+  "origin_question": "cho e hỏi sử dụng đèn flash cho cuộc gọi có ảnh hưởng gì đến máy k ạ",
+  "hits": [
+    {
+      "score": 31.10488,
+      "id": "31283255",
+      "field_search": "question",
+      "question": "Cho e hỏi, làm thế nào để khi có cuộc gọi đến, máy có đèn báo ạ?",
+      "answer": "Chào chị , Điện thoại này chị vào cài đặt > cài đặt chung > trợ năng > bật đèn LED cảnh báo là được chị nhé. Thông tin đến chị .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 30.123423,
+      "id": "21643647",
+      "field_search": "question",
+      "question": "Dạ cho hỏi iphone 6 khi cuộc gọi đến thì đèn flash phía sau máy chớp liên tục làm sao tắt đc ạ.",
+      "answer": "Chào bạn,Bạn vào cài đặt - cài đặt chung - trợ năng - tắt flash thông báo đi bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 29.512215,
+      "id": "21209149",
+      "field_search": "question",
+      "question": "cho e hỏi ip6s tại sao khi có cuộc gọi đến đèn plash ko sáng ạ",
+      "answer": "Chào bạn,Trường hợp này trên iPhone 6s, bạn vào cài đặt > cài đặt chung > trợ năng > đèn Led để thông báo > bật lên nha bạn.Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 28.148798,
+      "id": "18390758",
+      "field_search": "question",
+      "question": "phiên bản này lúc có cuộc gọi sao đèn flash k nháy sáng à",
+      "answer": "Chào bạn Trường hợp này bạn vào : Cài đặt - Cài đặt chung - Trợ năng - Đèn Led để cảnh báo - ON là được bạn nhé .Bạn lưu ý tắt chế độ nguồn điện thấp , tắt màn hình , sạc đầy Pin thì đèn flash mới nháy sáng được .Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 27.558311,
+      "id": "31203262",
+      "field_search": "question",
+      "question": "Khi không sử dụng đt vẫn mở mạng lên hoài có ảnh hưởng gì đến máy&pin k QTV?",
+      "answer": "Chào anh Dạ sẽ không ảnh hưởng gì đến máy nhưng sẽ làm máy hao Pin nhanh hơn anh nha .Thông tin đến anh .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 27.133211,
+      "id": "20364342",
+      "field_search": "question",
+      "question": "cho e hỏi máy ip6 e ngủ xog e cáp sạc luôn đến ság có ảnh hưởng gì k ạ",
+      "answer": "Chào anh.Điện thoại này có tự ngắt sạc khi PIN đầy nên sạc qua đêm được anh nhé. Tuy nhiên, anh nên hạn chế việc làm này để tránh làm ảnh hưởng đến tuổi thọ của pin đó anh nha.Thông tin đến anh !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 26.881514,
+      "id": "21939704",
+      "field_search": "question",
+      "question": "Sao máy minh co cuộc gọi đến k có cảnh báo đèn led ad",
+      "answer": "Chào bạn,Trường hợp này trên iPhone 6, bạn có thể thực hiện như sau : Vào cài đặt > cài đặt chung > trợ năng > đèn LED để cảnh báo > bật lên bạn nhé. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 26.495821,
+      "id": "20878087",
+      "field_search": "question",
+      "question": "cho e hỏi dán mặt sau cacbon có bị phai màu hay bị ảnh hưởng gì đến máy k ạ",
+      "answer": "Chào bạn.Dạ trường hợp này còn tùy vào chất lượng miếng dán bạn dán có tốt hay không nữa bạn nhé. Và khi sử dụng nhiệt độ máy sẽ tỏa ra nếu chất lượng miếng dán không tốt lâu dài có thể sẽ bị phai màu hoặc chóc màu sơn trên máy đó ạ. Nếu chất lượng miếng dán không tốt khi sạc hay sử dụng máy nóng khó tản nhiệt cũng có thể ảnh hưởng đến các linh kiện bên trong nữa bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 26.303064,
+      "id": "18143439",
+      "field_search": "question",
+      "question": "CHO e hỏi e đặt lại iphone thì có ảnh hưởng gì máy k ạ",
+      "answer": "Chào bạn, Trường hợp này thì khi đặt lại điện thoại (khôi phục cài đặt gốc trên máy) thì sẽ đưa máy về trạng thái lúc mới mua giúp máy chạy nhanh hơn nhưng lưu ý dữ liệu và ứng dụng trên máy sẽ mất hết, nếu máy đã Jailbreak thì sẽ bị treo máy và nếu bạn đã đăng nhập iCloud trên điện thoại bật Find My iPhone và quên mật khẩu thì điện thoại của bạn sẽ bị khóa icloud bạn nhé. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 26.042711,
+      "id": "24141730",
+      "field_search": "question",
+      "question": "Chức năng nháy đèn Led khi có Thông báo hoặc cuộc gọi nhưng khi đang sử dụng thì ngta gọi đến ko nháy đèn ad.  Nhưng e khóa màn hình thì ngta gọi ms nháy đèn. E đã bật  2 công tắc trong acsitouch gì  đó rồi vậy có lm sao k ad",
+      "answer": "Chào bạn,Flash Led thông báo trên iPhone chỉ sáng khi tắt màn hình thôi nha. Khi mở màn hình thì đèn sẽ không sáng bạn nhé. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 25.767351,
+      "id": "29446481",
+      "field_search": "question",
+      "question": "Bị hở sáng có ảnh hưởng gì đến máy k ạ",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.659655,
+      "id": "31373236",
+      "field_search": "question",
+      "question": "Cho e hỏi. Lúc e sạc pin sờ tay vào phím home bị giật điện và sử dụng như vậy có ảnh hưởng đến mấy k ạ",
+      "answer": "Chào bạn,Trường hợp này, bạn vui lòng sử dụng bộ cáp sạc chính hãng và di chuyển sang ổ cắm điện khác xem khắc phục được không nha bạn. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.406979,
+      "id": "20468483",
+      "field_search": "question",
+      "question": "cho hỏi e dán full 5d có bị ảnh hưởng gì đến yếu wifi hay các yếu tốn gì k ạ",
+      "answer": "Chào anh ThắngVâng trường hợp này tùy vào miếng dán anh dán nữa ạ nếu dán miếng dán chống xước thường thì không ảnh hưởng sản phẩm nhiều anh nhaChia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 25.345507,
+      "id": "27614365",
+      "field_search": "question",
+      "question": "Cho e hỏi máy mới mua nếu thường xuyên lau chùi có ảnh hưởng đến máy k ạ",
+      "answer": "Chào bạn Trường hợp đó vẫn không ảnh hưởng gì đến máy bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.816559,
+      "id": "21108756",
+      "field_search": "question",
+      "question": "cho hỏi dán cường lục full man hinh có ảnh hưởng gì đến màn hình k",
+      "answer": "Chào bạn,Việc dán cường lực Full màn hình thì không ảnh hưởng đến máy nha bạn. Nên bạn có thể an tâm tiếp tục sử dụng sản phẩm bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.600433,
+      "id": "24892720",
+      "field_search": "question",
+      "question": "Cho e hỏi ip 6 xài bộ sạc của ip 6plus có ảnh hưởng j đến máy k ạ",
+      "answer": "Chào bạn, Theo mình thấy thì việc này không ảnh hưởng tới máy bạn nhé Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.535908,
+      "id": "29300078",
+      "field_search": "question",
+      "question": "Ip 6plus bị đốm sáng có ảnh hưởng gì đến máy k ạ",
+      "answer": "Chào bạn Trường hợp này trước tiên bạn hãy khởi động lại máy xem còn tình trạng đó nữa không bạn nha . Mong nhận được thông tin phản hồi từ bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.309341,
+      "id": "21149468",
+      "field_search": "question",
+      "question": "Cho e hỏi là máy e là iphone 6 e lướt web liên tục. Pin đến 20% cắm sạc đến 100% thì e lại lên web tiếp. E sử dụng liên tục như vậy thì có ảnh hưởng đến pin k ạ",
+      "answer": "Chào bạn,Trường hợp này thì bạn có thể an tâm là việc này không ảnh hưởng đến máy nha bạn. Nên bạn có thể an tâm tiếp tục sử dụng sản phẩm bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.115957,
+      "id": "21630000",
+      "field_search": "question",
+      "question": "S iPhone 6 of e ko mở đèn flash khi có cuộc gọi đi z?? E thử mở r nhưng ko đc",
+      "answer": "Chào bạn.Dạ xin lỗi mình chưa hiểu rõ câu hỏi của bạn cho lắm vui lòng cung cấp thêm thông tin rõ hơn để mình có thể hỗ trợ cho bạn tốt hơn nhé. Mong nhận phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.015305,
+      "id": "20736750",
+      "field_search": "question",
+      "question": "E vừa mua máy đk mấy hôm.em cài đặt khi có cuộc gọi đến đèn led nhấp nháy.cài rồi mà k đk ạ",
+      "answer": "Chào bạn,Dạ bạn có thể kiểm tra lại thao tác như sau nhé: cài đặt- cài đặt chung- trợ năng- đèn led để cảnh báo- bật- khởi động lại máy.Mong phản hồi từ bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.914072,
+      "id": "21621296",
+      "field_search": "question",
+      "question": "Qtv cho hỏi dán kính cường lực có ảnh hưởng đến máy hk ạ",
+      "answer": "Chào chị.Sản phẩm vẫn đã được hỗ trợ Kính oleophobic (ion cường lực) rồi đó ạ, nhưng nếu chị có thể dán kèm thêm miếng dán cường lực vẫn không sao cả chị nhé. tuy nhiên chị có thể tham khảo thêm tại các cưa hàng phụ kiện uy tín khác chị nha.Thông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.566715,
+      "id": "23203903",
+      "field_search": "question",
+      "question": "Cho em hỏi tại sao camera của ip6 chụp đèn flash vào buổi tối không được ạ .chụp flash vẫn nhá nhưng ảnh lại không thấy gì",
+      "answer": "Chào bạn,Xin lỗi đã để bạn đợi lâu nhé ! Trường hợp này bạn có thể thử khởi động lại máy xem có được hay không. Nếu vẫn không được thì bạn phản hồi tại đây để bên mình tiếp tục hỗ trợ cho bạn nhé.Mong phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.498264,
+      "id": "28189903",
+      "field_search": "question",
+      "question": "Cho r hỏi chơi nhiều game như liên quân có ảnh hưởng j đến máy k ạ",
+      "answer": "Chào bạn,Dạ trường hợp này thì không ảnh hưởng gì đến máy, tuy nhiên nếu bạn chơi nhiều và sạc Pin liên tục cường độ nhiều trong ngày, đôi khi vừa sạc vừa chơi thì sẽ ảnh hưởng đến tuổi thọ Pin bạn nhé.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.318443,
+      "id": "19661940",
+      "field_search": "question",
+      "question": "E muốn bật đèn chớp khi có tin nhắn hay cuộc gọi đến thì bật ở chỗ nào ạ?,",
+      "answer": "Chào bạn.Bạn vào giúp mình cài đặt > cài đặt chung > trợ năng > đèn LED cảnh báo bật lên sau đó kiểm tra được hay chưa bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.123096,
+      "id": "21076049",
+      "field_search": "question",
+      "question": "Cho e hỏi nếu như 2 iphone mà sử dụng 1 icloud thì máy này có xem đuọc hết tin nhắn hay các cuộc gọi của máy kia k ạ",
+      "answer": "Chào bạn, Trường hợp này thì theo mình kiểm tra thì với iCloud thì mình không tìm thấy phần sao lưu nhật ký cuộc gọi và tin nhắn nên có thể sẽ không đồng bộ được sang điện thoại khác đăng nhập cùng tài khoản nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.912348,
+      "id": "22805799",
+      "field_search": "question",
+      "question": "E muốn cài nháy đèn có cuộc gọi và tjn nhắn đó ad cho iphone",
+      "answer": "Chào bạn,Bạn vào cài đặt > cài đặt chung > trợ năng > đèn led để cảnh báo > bật bạn nha.Bạn lưu ý là tắt màn hình thì đèn mới hoạt động bạn nhé.Chúc bạn thành công !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.863031,
+      "id": "29407458",
+      "field_search": "question",
+      "question": "Cho mình hỏi có nên bật chế độ nguồn điện thấp khi sạc pin ko ạ có ảnh hưởng gì đến máy hoặc pin k",
+      "answer": "Chào bạn Trường hợp này bạn bật chế độ đó khi sạc Pin thì vẫn không ảnh hưởng gì , nếu bạn không sử dụng thì bạn nên tắt chế độ đó lúc sạc Pin bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.738956,
+      "id": "21373442",
+      "field_search": "question",
+      "question": "dán cái ny có ảnh hưởng gì đến máy hay màu sơn về sau k ạ",
+      "answer": "dán skin ạ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.327509,
+      "id": "24521885",
+      "field_search": "question",
+      "question": "e chào qtv. cho e hỏi e cài đặt đèn sáng khi gọi đến sao lúc có đèn nháy sáng lúc ko a?",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.172014,
+      "id": "20853419",
+      "field_search": "question",
+      "question": "cho e hỏi dán nút home có ảnh hưởng gì về vân tay vs hư nút k ạ",
+      "answer": "Chào bạn,Dạ theo mình bạn không nên dán nút home ạ, do sẽ ảnh hưởng đến vân tay, không nhạy hoặc không nhận được vân tay luôn đó ạ; về sau này khi tháo miếng dán có thể để lại lớp keo ảnh hưởng đến vân tay bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.952126,
+      "id": "21283312",
+      "field_search": "question",
+      "question": "cho hỏi e dán mặt sau rồi e dùng thêm ốp có bị ảnh hưởng màu sơn ở sau máy hay gì k ạ",
+      "answer": "Chào anh,Trường hợp này không có ảnh hưởng gì đến máy đâu ạ. Anh yên tâm ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.708698,
+      "id": "20949972",
+      "field_search": "question",
+      "question": "cho e hỏi tải phần mềm magic phone cleaner có don dep tốt k vs có ảnh hưởng gì k ạ",
+      "answer": "Chào bạn, Theo mình thấy thì ứng dụng này được khá nhiều người sử dụng , nên bạn an tâm về ứng dụng này nha bạn Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.670704,
+      "id": "17875180",
+      "field_search": "question",
+      "question": "Cho mình hỏi ip 5 của mình cuộc gọi đến k thấy có chuông. Mình vẫn để chuông gọi đến nhưng k thấy có chuông. Vậy máy mình bị sao?",
+      "answer": "Chào bạn,Trường hợp này bạn vui lòng tắt nguồn máy, sau đó khởi động lại và kiểm tra nhé. Và cần kiểm tra chính xác xem đã gạt nút tắt chuông bên cạnh trái lên chưa nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.485252,
+      "id": "26454817",
+      "field_search": "question",
+      "question": "Anh chị cho e hỏi là e dùng sạc của mobistar sạc cho iphone thì có ảnh hưởng đến pin và máy không ạ",
+      "answer": "Chào bạn,Sạc thì vẫn được nhưng lâu ngày thì không ổn bằng sạc chuẩn bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.797901,
+      "id": "20715823",
+      "field_search": "question",
+      "question": "AD cho em hỏi thay pin chính hãng của iphone 6 giá bao nhiêu vậy ạ, và khi thay có ảnh hưởng gì đến máy sau này k ạ",
+      "answer": "Chào anh,Em không có giá thay Pin của iPhone 6 anh ạ. Anh hãy liên hệ Trung tâm bảo hành Hãng để được hỗ trợ nhé. Khi thay xong thì Pin sẽ được cải thiện hơn và không ảnh hưởng tới máy đâu anh nhéThông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.632391,
+      "id": "29877223",
+      "field_search": "question",
+      "question": "QTV cho mình hỏi Iphone không có đèn báo khi sạc pin, không có đèn báo cuộc gọi nhỡ hay có tin nhắn à? Trong các đời Iphone từ truocs đến nay có máy nào có các đèn báo như nói ở trên không?. Cám ơn",
+      "answer": "Chào anh Rất tiếc vẫn chưa có máy nào có đèn led thông báo như trên anh nha .Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.540283,
+      "id": "24011639",
+      "field_search": "question",
+      "question": "ad cho hỏi ghi âm cuộc gọi bằng ứng dụng nào",
+      "answer": "Chào bạn, Rất tiếc, máy chưa hỗ trợ sử dụng ứng dụng hỗ trợ ghi âm cuộc gọi nha bạn. Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.436909,
+      "id": "27762928",
+      "field_search": "question",
+      "question": "cho hỏi iphone 6 sạc 100% pin bật chế độ nguồn điện thấp sử dụng nếu lặp lại liện tục nhìu lần như vậy ko biết có ảnh hưởng gì đến pin ko QTV?",
+      "answer": "Chào bạn,Bạn an tâm là không ảnh hưởng gì đến pin nhưng máy sẽ bị hạn chế hiệu năng khi bạn bật chế độ này bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.369734,
+      "id": "27849736",
+      "field_search": "question",
+      "question": "Anh ơi cho em hỏi sạc pin iPhone nóng máy co ảnh hưởng gì đến máy không ạ,  anh chỉ em cách khắc phục với",
+      "answer": "Chào bạn,Khi sac pin thì có nhiều nguồn điện đi vào trong máy   nạp điện vào pin nên máy nóng ấm lên là bình thường, không phải lỗi > không khôi phục được bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.36233,
+      "id": "22184306",
+      "field_search": "question",
+      "question": "Cho e hỏi máy có đuôi CH/A có đáng sử dụng k",
+      "answer": "Chào bạn, Nếu là sản phẩm chính hãng của Apple thì chất lượng tương đương nhau nên bạn có thể yên tâm sử dụng nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.29063,
+      "id": "22908526",
+      "field_search": "question",
+      "question": "Cho e hỏi máy của e hơi nóng liệu có ảnh hưởng j ko",
+      "answer": "Chào bạn, Điện thoại này bạn dùng liên tục chạy các ứng dụng, game  nặng hay dùng kết nối mạng nhất là 3G thì CPU hoạt động mạnh , tỏa nhiệt làm cho máy nóng dần lên bạn nhé. Điều này hoàn toàn bình thường và bạn chỉ cần để cho máy có thời gian nghỉ ngơi là không sao cả nhé bạn  . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.191257,
+      "id": "24896217",
+      "field_search": "question",
+      "question": "Cho em hỏi em mua máy iphone 6 được gần 1 tháng máy nhận cuộc gọi đến máy không rung đổ chuông xong hiện cuộc gọi nhỡ là thế nào?",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.028889,
+      "id": "26411394",
+      "field_search": "question",
+      "question": "Anh chi cho em hỏi em đag xài iphone6 làm sao để cài đèn nháy cuộc gọi",
+      "answer": "Chào bạn,Trường hợp này bạn vào : Cài đặt - Cài đặt chung - Trợ năng - Đèn Led để cảnh báo - ON là được bạn nhé .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.985085,
+      "id": "18384479",
+      "field_search": "question",
+      "question": "cho e hỏi lúc nào cũng để nguồn điện thấp có ảnh hưởng dì k ạ",
+      "answer": "Chào bạn, Trường hợp này không ảnh hưởng tới máy, bạn an tâm nhé! Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.719217,
+      "id": "19306181",
+      "field_search": "question",
+      "question": "Khi mua mình dán phần lưng phần keo trong có ảnh hưởng gì đến màu của máy không?",
+      "answer": "Chào chị Thanh,Việc dán keo trong máy vẫn không ảnh hưởng đến màu máy chị nha! Chia sẻ cùng chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.644703,
+      "id": "28460440",
+      "field_search": "question",
+      "question": "Iphone bị rớt thì có ảnh hưởng gì đến linh kiện bên trong ko ạ",
+      "answer": "Chào bạn, Trường hợp này còn phụ thuộc vào nhiều yếu tố bạn nhé, nếu hiện tại bạn vẫn sử dụng máy bình thường, chưa gặp phải lỗi gì thì có thể máy chưa bị ảnh hưởng nha bạn Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.640919,
+      "id": "22361903",
+      "field_search": "question",
+      "question": "iphone 6 có ứng dụng nào báo rung khi nghe máy cuộc gọi đến và khi tắt máy không add?",
+      "answer": "Chào bạn,Rất tiếc, là chưa có ứng dụng nào hỗ trợ tính năng này trên iPhone 6 bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.540361,
+      "id": "24617362",
+      "field_search": "question",
+      "question": "Qtv chi em hỏi iphone6 nếu để sạc qua đêm thì có ảnh hưởng gì đến bin không ạ? Và khi nào không dùng đến là em lại sạc thì có gây ảnh hưởng đến máy không ? Mong qtv trả lời đầy đủ ạ.",
+      "answer": "Chào bạn,Trường hợp này do máy sử dụng công nghệ Pin mới nên bạn có thể sạc Pin như bạn nói trên điều được, lưu ý không vừa vừa sử dụng vừa sạc bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.525833,
+      "id": "29257490",
+      "field_search": "question",
+      "question": "Vừa mua về không biết cài đặt đèn báo khi có cuộc gọi đến hoạc tn thông báo mong chỉ giup",
+      "answer": "Chào bạn,Dạ bạn có thể làm theo hướng dẫn từ bài viết này thì sẽ được bạn nhé: Chúc bạn thành công !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.426441,
+      "id": "22395344",
+      "field_search": "question",
+      "question": "Minh muốn dán cường lực vào máy iPhone 6.thi co ảnh hưởng gì đến màn hình cảm ứng K ạ",
+      "answer": "Chào bạn,Miếng dán cường lực thì không ảnh hưởng đến màn hình cảm ứng của máy nha. Nên bạn có thể an tâm tiếp tục sử dụng sản phẩm bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.286001,
+      "id": "21135009",
+      "field_search": "question",
+      "question": "cho hỏi máy chơi game thường xuyên có bị chậm máy hay bị ảnh hưởng phần mềm máy k ạ",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.176418,
+      "id": "19867882",
+      "field_search": "question",
+      "question": "iphone 6 bật chức năng đèn led khi nhận cuộc gọi nhưng vẫn ko sáng nhưng bật đèn pin sáng bình thường, vậy bị lỗi gì ạ ???",
+      "answer": "Chào bạn, Trường hợp này thì bạn kiểm tra lại nếu màn hình của bạn còn sáng thì khi có cuộc gọi tin nhắn đèn sẽ không nháy nên bạn thử tắt màn hình và kiểm tra lại nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.058208,
+      "id": "21635499",
+      "field_search": "question",
+      "question": "tắt đèn khi tin nhắn cuộc gọi nó nhấy làm sao",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.009413,
+      "id": "21238560",
+      "field_search": "question",
+      "question": "sao tôi cài nhâc chuông rồi mà cuộc gọi đến k có chuông",
+      "answer": "@Khang Hiếu:",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.978264,
+      "id": "20293689",
+      "field_search": "question",
+      "question": "cho e hỏi khi máy mua về mih tải phần mềm battery life ktra pin thì bị chai 14% rồi .thế là pin có bị ảnh hưởng gì k ạ",
+      "answer": "Chào bạn.Rất tiếc các ứng dụng phần mềm bên thứ 3 bạn tải về không thể nào đánh giá chính xác được bạn nhé. Máy bạn mua nếu là máy mới thì bạn cứ yên tâm là pin còn mới không ảnh hưởng gì đến pin bạn nha.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.944246,
+      "id": "21255235",
+      "field_search": "question",
+      "question": "Cho mình hỏi, mình mới mua ip6 đc mấy ngày. Loa ngoài tự nhiên bị hỏng k nghe đc, cắm tai nghe rồi rút ra thì loa ngoài lại nghe được. Có ảnh hưởng gì đến máy k ạ??,Cho mình hỏi, mình mới mua ip6 đc mấy ngày. Loa ngoài tự nhiên bị hỏng k nghe đc, cắm tai nghe rồi rút ra thì loa ngoài lại nghe được. Có ảnh hưởng gì đến máy k ạ??",
+      "answer": "Chào bạn, Bạn tiếp tục dùng 1 thời gian xem còn bị lại tình trạng này không bạn nhé. Nếu còn bạn phản hồi tại đây mình sẽ giúp bạn .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.936653,
+      "id": "26057196",
+      "field_search": "question",
+      "question": "Mình vừa sử dụng điện thoại vừa sạc pin bằng sạc dự phòng thì có ảnh hưởng gì tới pin không ?",
+      "answer": "Chào bạn, Bạn không nên vừa sạc vừa dùng điện thoại dù là dùng PIN sạc dự phòng để sạc cũng không nên bạn nhé. Bạn sạc như vậy sẽ làm PIN điện thoại nhanh chai nhé bạn .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.832912,
+      "id": "19872711",
+      "field_search": "question",
+      "question": "Cho m hỏi sạc máy bằng sạc dự phòng nhiều có gây chai pin hay pin có bị ảnh hưởng gì không ạ",
+      "answer": "Chào bạn, Điện thoại này bạn sạc bằng PIN sạc dự phòng mà sạc bằng cổng 1A nhiều cũng không ảnh hưởng máy bạn nhé. Chỉ lưu ý bạn là trong thời gian sạc bạn không nên dùng điện thoại là được .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.806204,
+      "id": "17679541",
+      "field_search": "question",
+      "question": "Cho e hỏi tgdd gọi e làm gì ạ",
+      "answer": "Chào anh, Dạ cám ơn anh đã để lại thông tin em sẽ gửi lại thông tin này đến tổng đài để họ kiểm tra và liên hệ lại anh sau 5 phút để hỗ trợ mình nhé.Chúc anh nhiều sức khoẻ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.642555,
+      "id": "22164063",
+      "field_search": "question",
+      "question": "Em vừa nhaann dc 1 cuộc gọi ma k nghe dc  Tgdd có thể gọi lại cho e",
+      "answer": "Chào chị Hoa,Trường hợp này thì chị vui lòng cho em thông tin số điện thoại để bên em có thể hỗ trợ cho chị tốt hơn chị nhé.Mong hồi âm từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.616566,
+      "id": "23279648",
+      "field_search": "question",
+      "question": "Dạ cho hỏi em vệ sinh loa iphome 6 bị dính bên ngoài lâu năm có thể dùng tăm cọ sát vào có ảnh hưởng gì đến loa k ạ tks 😘",
+      "answer": "Chào bạn,Việc dùng tăm vệ sinh loa thì có thể sẽ làm các hạt bụi nhỏ lọt vào bên trong của loa, nên tốt nhất bạn sử dụng các loại máy hút bụi mini vệ sinh cho loa của máy. Hoặc nếu loa của bạn vẫn nghe được tốt thì bạn cũng không cần phải vệ sinh bạn nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.537807,
+      "id": "25828961",
+      "field_search": "question",
+      "question": "Bh e đang dùng ip6 e điện thoại đầy là e bật chế độ nguồn điện thấp để sử dụng thấy họ bảo bật chế độ này lên để dùng đk lâu hơn nhưng e thắc mắc bật chế chế độ này lên trong suốt quá trình sử dụng có ảnh hưởng j đến pin của máy k ạ",
+      "answer": "Chào bạn,Trường hợp này thì không ảnh hưởng gì đến Pin máy, bạn yên tâm sử dụng nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.497002,
+      "id": "27192273",
+      "field_search": "question",
+      "question": "Cái lỗ đen nhỏ ở giữa đèn led và camera sau có tác dụng gì ạ. Mình dán keo bảo vệ thì người ta dán bít lại luôn rồi vậy có ảnh hưởng gì không",
+      "answer": "Chào bạn, Trường hợp này thì đây là Micro của máy khi quay Video nên khi dán kính thì có thể ảnh hưởng đến chất lượng âm thanh khi quay Video nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.23023,
+      "id": "23981505",
+      "field_search": "question",
+      "question": "Máy e lên ios 11.2.1 thấy tình trạng nóng máy xuất hiện nhiều hơn 11.1.2. Nghe ns 11.2.1 khắc phục lỗi nóng máy với thoát màn hình mà vẫn bị. Cho e hỏi như thế có ảnh hưởng gì đến máy k. E nên làm ntn khi nóng máy ạ?",
+      "answer": "Chào bạn,Trường hợp này thì bạn lưu ý trong quá trình sử dụng nên tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp tránh tình trạng nóng máy này xảy ra bạn nhé, bạn cần tìm hiểu thêm thông tin nào khác về sản phẩm vui lòng phản hồi tại đây để bên mình có thể hỗ trợ nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.209373,
+      "id": "22517761",
+      "field_search": "question",
+      "question": "Minh dung iPhone 6 32gb minh muốn dán cường lực thì có ảnh hưởng gì đến màn hình k",
+      "answer": "Chào chị, Hiện chị vẫn có thể dán thêm miếng dán cường lực được chị nha , không ảnh hưởng chị nhé . Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.164967,
+      "id": "30750035",
+      "field_search": "question",
+      "question": "Cho e hỏi iphone 6 32GB xài hệ điều hành ios 11 e mới mua mà giờ máy báo cập nhật lên 12, vậy e có cần cập nhật k ạ? Và khi cập nhật rồi máy có bị ảnh hưởng gì k ạ?",
+      "answer": "Chào anh Anh nên cập nhật iOS mới cho máy nếu máy của anh là phiên bản iPhone Quốc tế , khi cập nhật máy không bị lỗi gì anh nha . Cần lưu ý ghi nhớ lại tài khoản và mật khẩu iCloud của máy nữa nha . Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.14829,
+      "id": "21178482",
+      "field_search": "question",
+      "question": "Sao đt của e có người gọi đến lại không nháy đèn sau vậy ad?chỉ giúp cài đặt với ạ,Sao đt của e có người gọi đến lại không nháy đèn sau vậy ad?chỉ giúp cài đặt với ạ",
+      "answer": "Chào bạn,Dạ bạn có thể kiểm tra thiết lập  nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.143322,
+      "id": "20599301",
+      "field_search": "question",
+      "question": "Cho e hỏi iPhone đèn led khi có cuộc hay Thoòng báo mà không nháy là do sao qtv",
+      "answer": "Chào bạn, Trường hợp này thì bạn vào Cài đặt > Cài đặt chung > Trợ năng > Đèn led cảnh báo > Bật lưu ý bạn phải tắt màn hình thì đèn flash mới nháy nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.110144,
+      "id": "20702028",
+      "field_search": "question",
+      "question": "Cho e hỏi luc mua máy nhug k có phiếu bảo hàh vay có ảnh hưởng gi khi mà bảo hah sau này k ak",
+      "answer": "Chào chi,Hiện tại bên em hỗ trợ bảo hành điện tử, nên không cung cấp phiếu bảo hành. Không có ảnh hưởng gì đến bảo hành sau này chị nhé. Chị có thể yên tâm..Chia sẻ cùng chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.106512,
+      "id": "26649008",
+      "field_search": "question",
+      "question": "ip sạc 40-50% rút ra đc kh ạ , làm v có ảnh hưởng gì đến pin kh ạ",
+      "answer": "Chào bạn,Với cách sử dụng bạn đề cập, thì không ảnh hưởng đến máy. Nên bạn có thể an tâm tiếp tục sử dụng sản phẩm bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.095673,
+      "id": "25478151",
+      "field_search": "question",
+      "question": "QTV cho tôi hỏi tại sao máy iPhone 6 của mình khi có cuộc gọi đến mesenger trên màn hình khoá không hiển thị nút xanh đỏ để nghe hay từ chối cuộc gọi mà chỉ hiển thị tên của người gọi đến sau đó phải bấm nút home mở khoá vào Mesenger mới nhận được cuộc gọi",
+      "answer": "Chào bạn Trường hợp này mặc định của ứng dụng bạn cần vào ứng dụng Messenger mới nhận cuộc gọi được bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.065634,
+      "id": "24223940",
+      "field_search": "question",
+      "question": "Cho mình hỏi! Máy của mình tự xoá cuộc gọi đến cuộc gọi đi và cả tn sms! Rồi cả những phần ghi nhớ cũng clear sạch sẽ là nên! Có cách khắc phục ko? 6 16gb",
+      "answer": "Chào bạn Trường hợp này bạn có sử dụng chung tài khoản iCloud với 1 điện thoại iPhone nào khác không bạn ạ ?Mong nhận được thông tin phản hồi từ bạn để mình tư vấn chính xác nhất cho bạn nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.051945,
+      "id": "28848570",
+      "field_search": "question",
+      "question": "Sao lúc sạc cục sạc bị nóng vậy có ảnh hưởng đến máy ko ạ",
+      "answer": "Chào bạn,Khi bạn sạc pin thì Adapter sạc nóng lên là bình thường bạn nhé, do Adapter sạc tiếp xúc trực tiếp với nguồn điện và chuyển hóa điện áp nguồn thành điện áp sạc nên khi sạc sẽ nóng lên nha. Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.937275,
+      "id": "20468468",
+      "field_search": "question",
+      "question": "cho e hỏi dán kính cường lực full 4D có ảnh hưởng tới wifi hay các yếu tố cj k ạ",
+      "answer": "Chào anh,Dạ siêu thị bên em không có kinh doanh kính cường lực nên không biết được anh nhé, em rất tiếc và anh vui lòng liên hệ với nơi anh mua sau đó hỏi để có được thông tin chính xác và tốt nhất anh nhéChia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.881165,
+      "id": "23504679",
+      "field_search": "question",
+      "question": "Vừa mua khoảng 2 tuần, nhấn số đt từ danh bạ để gọi đi phải mất hơn 5s mới thực hiện được cuộc gọi, khi có cuộc gọi đến mặc dù đã đổ chuông nhưng màn hình vẫn chưa hiển thị cuộc gọi đến, thế là lỗi gì",
+      "answer": "Chào bạn.Dạ tình trạng này có thể máy xung đột hệ thống phần mềm bên trong bạn vui lòng tiến hành khởi động lại máy và kiểm tra lại xem có khắc phục được sự cố trên hay không bạn nhé. Nếu không được bạn phản hồi thông tin tại đây để bên mình kiểm tra hỗ trợ cho bạn được tốt hơn bạn nha. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.859846,
+      "id": "30051068",
+      "field_search": "question",
+      "question": "Cho e hỏi tại sao máy em nhấn giữ như trong Ảnh mà lại k hiện gì ạ??",
+      "answer": "Chào anh ,Dạ trong ảnh là tính năng 3D touch cảm ứng lực nhấn, tính năng này chỉ có trên iPhone 6s trở lên ạ.Xin thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.858864,
+      "id": "26525812",
+      "field_search": "question",
+      "question": "Cho e hỏi củ sạc iphone 6 của e bị hư mất, e dùng củ sạc android để sạc thì có bị ảnh hưởng gì không ạ",
+      "answer": "Chào bạnBạn cho mình xin thông tin bạn dùng củ sạc của máy nào để sạc để mình kiểm tra giúp bạn nhé.Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.720488,
+      "id": "28673087",
+      "field_search": "question",
+      "question": "Ad cho hỏi khi sạc pin lúc đầu ko sao mà đến lúc 80-90% pin tư nhiên lại nóng là sao vậy ạ. Có ảnh hưởng j đến máy ko.",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.705673,
+      "id": "18641694",
+      "field_search": "question",
+      "question": "Cho e hoi iphone 6 có ghi âm cuộc gọi đươc không",
+      "answer": "Chào bạn, Điện thoại này không hỗ trợ ghi âm cuộc gọi bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.664333,
+      "id": "22331962",
+      "field_search": "question",
+      "question": "Chị oi cho e hỏi máy ip của e gọi zalo k truy cập dc micro là sao ạ. Gọi cho số điện thoại thì rè rè. K nge gì hết",
+      "answer": "Chào bạn,Bạn vào cài đặt - quyền riêng tư - chọn Micro - chọn cho phép zalo rồi sử dụng kiểm tra lại xem sao bạn nha.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.640665,
+      "id": "18301690",
+      "field_search": "question",
+      "question": "Cho em hỏi mình xạc xong r ắ có cần rút củ sạc ra hay k hay để yên đó luoq . Việc đó có ảnh hưởng đến củ sạc k ạ",
+      "answer": "Chào bạn, Khi máy sạc đầy 100%, bạn nên rút sạc ra để bảo đảm an toàn về điện, và giúp bảo quản sản phẩm tốt hơn bạn nhé! Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.621756,
+      "id": "27526064",
+      "field_search": "question",
+      "question": "Iphone 6 phiên bản Mới . Mua đã có ios 11.2 rồi. Ad cho hỏi có ảnh hưởng gì ko",
+      "answer": "Chào anh,Em thấy phiên bản mới iphone 6 sử dụng hoàn toàn bình thường máy vẫn chạy mượt nên anh yên tâm về vấn đề này nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.613333,
+      "id": "20242861",
+      "field_search": "question",
+      "question": "Cho mình hỏi iphone 6 khi có cuộc gọi đến chỉ báo nút trả lời ko có song song nút kết thúc là sao ạ",
+      "answer": "Chào bạn,Trường hợp này bạn vui lòng chụp lại màn hình và gửi lại tại đây giúp mình. Mong sớm nhận được phản hồi từ bạn tại đây để bên mình kiểm tra và hỗ trợ tốt cho bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.57804,
+      "id": "18111900",
+      "field_search": "question",
+      "question": "QTV cho e hỏi tại sao máy hay bị mất vân thế có phải do sử dụng nhiều quá k ạ",
+      "answer": "Chào bạn, Trường hợp của bạn có thể vui lòng cung cấp thông tin rõ hơn về tình trạng mất vân như thế nào trên máy bạn , bạn có thể phản hồi thông tin tại đây để mình có thể kiểm tra và hỗ trợ cho bạn nhé.Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.570492,
+      "id": "30776878",
+      "field_search": "question",
+      "question": "Ad ơi cho mk hỏi cách tắt âm camera va khi có cuộc gọi đến có tiếng ah phát lên như nào ah",
+      "answer": "Chào bạn,Trường hợp này bạn gạt phím bên cạnh trái của máy xuống để chuyển chế độ im lăng, khi đó chụp ảnh sẽ tắt tiếng nha bạn. Còn với iPhone bản Hàn Quốc, Nhật thì không tắt tiếng được nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.554981,
+      "id": "20948890",
+      "field_search": "question",
+      "question": "Cho em hỏi máy của e âm thanh e vẫn để âm lượng to nhưng khi em xem video hoặc nghe nhạc ko hề có tiếng, cuộc gọi đến cũng ko có nhạc chuông máy bị sao z ạ",
+      "answer": "Chào bạn, Bạn vui lòng cung cấp thêm thông tin cho mình bạn đã  gạt nút bên hông trái của máy lên, rồi khởi động lại máy chưa để mình có thể hỗ trợ cho bạn tốt hơn nhé! Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.476622,
+      "id": "29915395",
+      "field_search": "question",
+      "question": "ip 6 32gb có đèn led thông báo tin nhắn hay cuộc gọi nhỡ ko ad",
+      "answer": "Chào anh Dạ rất tiếc điện thoại  này không có đèn led thông báo ở phía trước như điện thoại  Android anh nhé. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.474007,
+      "id": "23477153",
+      "field_search": "question",
+      "question": "Cho em hỏi, cái đèn chóp chóp khi ngt gọi đến thì cài ntn. Hôm qua e mới mua còn chóp nhưg nay hết r ạ",
+      "answer": "Chào bạn,Dạ chính xác thì đây là đèn flash phía sau phải không ạ, bạn giúp mình vào lại cài đặt- cài đặt chung- trợ năng- bạn tìm phần đèn led để cảnh báo xem đã bật lại chưa bạn nhé.Mong phản hồi từ bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.403673,
+      "id": "27060777",
+      "field_search": "question",
+      "question": "Cho mình hỏi cái ứng dụng garage band cho ios có quan trọng gì không. Mình thấy ứng dụng đó nặng quá lên tới gần 1g rưỡi nên mình gỡ cài đặt rồi xoá luôn có ảnh hưởng gì không qtv",
+      "answer": "Chào bạn, Trường hợp này thì đây là ứng dụng hỗ trợ tạo nhạc nên nếu không sử dụng thì bạn có thể thử chạm và giữ vào icon để gỡ bỏ ứng dụng đi xem sao nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.361017,
+      "id": "19836385",
+      "field_search": "question",
+      "question": "Ad cho hỏi Mình có đặt nhập sai mật khẩu 10 lần thì xoá hết dữ liệu trong máy nếu vậy icloud của mình có còn ko vậy và có ảnh hưởng gì đến máy ko",
+      "answer": "Chào bạn Trường hợp đó thì tài khoản và mật khẩu iCloud nếu bạn nhớ thì vẫn còn , máy vẫn bình thường không ảnh hưởng gì ạ , chỉ có dữ liệu trên máy sẽ bị xoa hết bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.2219,
+      "id": "20472490",
+      "field_search": "question",
+      "question": "Ad cho em hỏi.... Đang sạc điện thoại  mà bị cúp điện....nhung em vì bận công việc nen ko rút máy ra đc.. Vậy có điện trở lại thì có ảnh hưởng gì đến máy và pin ko ạ",
+      "answer": "Chào bạn, Có điện lại  thì điện thoại của bạn sẽ tiếp tục sạc nếu như PIN chưa đầy chứ không có ảnh hưởng  gì đến máy và PIN cả bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.211287,
+      "id": "28300713",
+      "field_search": "question",
+      "question": "Iphon6 32gb có ghi âm cuộc gọi k ạ",
+      "answer": "Chào bạn, Các dòng điện thoại iPhone thì đều không hỗ trợ ghi âm cuộc gọi bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.061852,
+      "id": "27059898",
+      "field_search": "question",
+      "question": "Cho mình hỏi cái ứng dụng garage band cho ios có quan trọng gì không. Mình thấy ứng dụng đó nặng quá lên tới gần 1g rưỡi nên mình gỡ cài đặt rồi xoá luôn có ảnh hưởng gì không qtv",
+      "answer": "Chào bạn,Dạ ứng dụng GarageBand bạn có thể gỡ bỏ cài đặt được và không ảnh hưởng gì đến máy bạn nhé,Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.013182,
+      "id": "26640402",
+      "field_search": "question",
+      "question": "ad cho e hỏi đây là chức năng gì trong ip6 plus ạ và sử dụng như thế nào ạ",
+      "answer": "@Thái Thành:",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.008284,
+      "id": "19218394",
+      "field_search": "question",
+      "question": "Cho mình hỏi iphone6 ko sử dụng ốp thì có vấn đề gì ko",
+      "answer": "Chào anh,Điện thoại Iphone 6 nếu anh sử dụng cẩn thận, không để máy nơi có ma sát, không để rơi vỡ thì không sử dụng ốp không sao cả anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.968597,
+      "id": "25940807",
+      "field_search": "question",
+      "question": "Cho em hỏi iphone 6 sạc qua đêm có ảnh hưởng gì không và cách sạc để trách tình trạng chai pin ạ",
+      "answer": "Chào bạn,Dạ cơ bản thì sạc qua đêm vẫn không sao ạ; nhưng bạn vẫn nên hạn chế nhé, về lâu dài tuổi thọ pin sẽ giảm dần đó ạ; cách sạc cơ bản đó là bạn không nên sạc pin khi pin máy còn nhiều; và mình cũng hạn chế việc vừa sạc vừa sử dụng luôn bạn nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.94905,
+      "id": "27059640",
+      "field_search": "question",
+      "question": "Cho mình hỏi cái ứng dụng garage band cho ios có quan trọng gì không. Mình thấy ứng dụng đó nặng quá lên tới gần 1g rưỡi nên mình gỡ cài đặt rồi xoá luôn có ảnh hưởng gì không qtv",
+      "answer": "Chào bạn,Ứng dụng này không quan trọng và nếu không có nhu cầu sử dụng có thể gỡ cài đặt và không ảnh hưởng máy bạn nha. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.922678,
+      "id": "21480425",
+      "field_search": "question",
+      "question": "Cho mình hỏi có cách nào để ghi âm cuộc gọi trên iphone 6s ko ạ",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.84339,
+      "id": "19783787",
+      "field_search": "question",
+      "question": "Cho e hỏi máy e bị sao với ạ Nhiều lúc có cuộc gọi đến ko hiện ra nút từ chối mà chỉ có trượt sang phải để trả lời nhưng nhiều lúc lại có e ko hiểu bị sao z ạ,",
+      "answer": "Chào bạn, Trường hợp này thì khi bạn khóa màn hình thì có cuộc gọi đến thì phải trượt mới nghe được còn khi bạn đang sử dụng có cuộc gọi đến thì chỉ cần nhấn nút nghe hoặc từ chối nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.821814,
+      "id": "22081046",
+      "field_search": "question",
+      "question": "tại sao ip của tôi khi đang xem youtube, có cuộc gọi đến, nghe cuộc gọi mà youtube không tắt? ( vẫn nghe thấy tiếng) ?",
+      "answer": "Chào bạn.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.772768,
+      "id": "27201372",
+      "field_search": "question",
+      "question": "Em đã dán kính cường lực cho iphone nhưng hình như có tình trạng bị ẩm miếng kính cường lực, vậy có ảnh hưởng đến màn hình cũng như ảnh hưởng đến iphone không ạ? Và có cách nào xử lí không ạ?",
+      "answer": "Chào bạn, Trường hợp này thì bạn nên mang đến nơi bạn dán cường lực cho máy để được hỗ trợ kiểm tra lại xem sao nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.77185,
+      "id": "30455199",
+      "field_search": "question",
+      "question": "Máy e mới mua 4 tháng mà s e bật chế độ chuông reo mà có cuộc gọi máy chỉ rung k ạ",
+      "answer": "Chào chị,Dạ chị thử gạt công tắc âm thanh ở bên cạnh trái của máy xem có âm thanh chưa nhé.Chia sẻ cùng chị! ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.759142,
+      "id": "26216978",
+      "field_search": "question",
+      "question": "Nâng cấp lên ios thì có ảnh hưởng đến hiệu năng khi chơi game k?",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.690798,
+      "id": "27967020",
+      "field_search": "question",
+      "question": "Cho em hỏi máy Iphone6 của em bóp vào góc dưới bên phải loa có tiếng kêu là sao ạ? Có ảnh hưởng màn hình k ạ",
+      "answer": "Chào bạn,Trường hợp này, do mình không thể kiểm tra trực tiếp sản phẩm, nên khó có thể thông tin chính xác cho bạn được. Mong bạn thông cảm. Bạn vui lòng dành ít thời gian đến Thegioididong.com gần nhất để được hỗ trợ, kiểm tra trực tiếp và thông tin về sản phẩm chính xác nhất bạn nhé.  Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.656912,
+      "id": "28911203",
+      "field_search": "question",
+      "question": "QTV cho e hỏi iCloud mh sử dụng là cái mật khẩu gmail phải k ạ",
+      "answer": "Chào bạn,Mật khẩu icloud sẽ cùng mật khẩu với tài khoản Apple ID khi bạn tạo tài khoản Apple ID bạn nhé, còn mật khẩu gmail thì sử dụng cho tài khoản gmail nha bạn Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.656616,
+      "id": "29800478",
+      "field_search": "question",
+      "question": "Cho em hỏi, em đang dùng ip6 64gb em nâng lên ios 11.4.1 chơi liên quân có bị ảnh hưởng gì không ạ.",
+      "answer": "Chào bạn,Theo mình thấy khi cập nhật 1 hệ điều hành mới thì hệ điều hành có nhiều chức năng hơn nên sẽ nặng và hao pin hơn, nhưng bù lại bạn sẽ trải nghiệm được các chức năng mới của hệ điều hành nên bạn nên cân nhắc trước khi cập nhật nhé. Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.623762,
+      "id": "28505116",
+      "field_search": "question",
+      "question": "Cho e hỏi cái này còn có đã qua sử dụng r hk ạ",
+      "answer": "Chào chịDạ hiện bên em có kinh doanh IPHONE 6 32GB CŨ GIÁ RẺ nha chị, chị có thể cung cấp thông tin khu vực chị đang sống để bên em kiểm tra hàng được không ạ?Mong nhận được phản hồi từ chị",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.573051,
+      "id": "27622247",
+      "field_search": "question",
+      "question": "Cốc sạc em bị hỏng em dùng cốc sạc của oppo hoặc samsung để sạc cho iPhone thì có ảnh hưởng gì k ạ",
+      "answer": "Chào bạn, Bạn có thể sử dụng sạc của oppo hoặc Samsung để sạc cho iphone, tuy nhiên tốt nhất bạn vẫn nên sử dụng bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.569132,
+      "id": "28482500",
+      "field_search": "question",
+      "question": "Minh mua máy mới mà có hình ảnh cả ở nhật kí cuộc gọi cũ rồi là xao vậy",
+      "answer": "Chào bạn Trường hợp này có thể do bạn nhập tài khoản iCloud và Gmail vào nên dữ liệu được đồng bộ từ máy cũ qua bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.541182,
+      "id": "18550456",
+      "field_search": "question",
+      "question": "Cái này chỉ nghe gọi và làm việc email và lưu các hình ảnh có đủ và có ảnh hưởng gì tới tốc độ truy cập nhanh hay châm k QTV TGGD",
+      "answer": "Chào bạn,Dung lượng 32Gb đáp ứng tốt nhu cầu nghe gọi, mail, với hình ảnh tùy theo nhu cầu bạn nhiều hay ít nên chưa có thông tin chính xác. Dung lượng máy không ảnh hưởng đến tốc độ sử dụng máy nhanh hay chậm bạn nha.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.495378,
+      "id": "30111247",
+      "field_search": "question",
+      "question": "Ad cho mình hỏi , có thể dùng củ sạc và cáp sạc của iphone 6 để sạc cho iphone 5s được không? có bị ảnh hưởng đến máy iphone 5s không?",
+      "answer": "Chào anh, xin lỗi đã để anh đợi lâu nhéTheo em thấy thì anh có thể cắm sạc bình thường, máy không bị ảnh hưởng anh nhé Thông tin đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.457508,
+      "id": "28861382",
+      "field_search": "question",
+      "question": "Chuyển từ iPhone lock sang bản quốc tế có ảnh hưởng gì k vậy",
+      "answer": "Chào bạn Trường hợp này ý là bạn mua máy mới phiên bản Quốc tế hay như thế nào bạn ạ ?Mong nhận được thông tin phản hồi từ bạn để mình tư vấn chính xác nhất cho bạn nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.450195,
+      "id": "22340714",
+      "field_search": "question",
+      "question": "Bấm nhằm giữ phím home+ nguồn rồi máy bị khỏi động lại như vậy có ảnh hưởng gì máy K QTV",
+      "answer": "Chào chị,Dạ không đâu ạ, đây là khả năng reset khẩn cấp nếu máy bị đơ hay đứng ạ, chị có thể dùng tính năng này khi máy không thể cảm ứng được hay bị đứng nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.428118,
+      "id": "26940288",
+      "field_search": "question",
+      "question": "Cho hỏi máy này sử dụng khoảng bao nhiêu tiếng ạ ,ad",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 có thể sử dụng liên tục khoảng hơn 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.41851,
+      "id": "27535771",
+      "field_search": "question",
+      "question": "Pin của máy sử dụng đến mấy h",
+      "answer": "Chào bạn,Bạn có thể sử dụng liên tục được khoảng 4 giờ với điện thoại này, thời gian này sẽ phụ thuộc vào tùy các tác vụ, ứng dụng khác nhau bạn sử dụng trên máy nhé. Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.369175,
+      "id": "20120883",
+      "field_search": "question",
+      "question": "Anh chị cho em hỏi là củ sạc của ip6 sạc cho đt Ip SE có được không . Và có ảnh hưởng máy ko ạ",
+      "answer": "Chào bạn,Dạ bạn có thể dùng củ sạc iPhone 6 sạc cho iPhone SE bình thường bạn nhé, và sẽ không ảnh hưởng gì đâu ạ.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.35945,
+      "id": "18245150",
+      "field_search": "question",
+      "question": "Qtv cho mình hỏi dùng apdter 2A sạc iphone 6 có ảnh hưởng j ko ạ?",
+      "answer": "Chào anh. Anh vẫn có thể sử dụng adapter 2A để sạc cho sản phẩm vẫn được anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.25155,
+      "id": "21102905",
+      "field_search": "question",
+      "question": "Mua nút home ip6 200k xài có ảnh hưởng gì tới máy về sau k9",
+      "answer": "Chào bạn.Dạ bạn vui lòng cung cấp thêm thông tin rõ hơn cho mình là nút home mà bạn nói là như thế nào để mình có thể hỗ trợ kiểm tra cho bạn tốt hơn bạn nhé.  Mong nhận phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.1756,
+      "id": "28448775",
+      "field_search": "question",
+      "question": "Tại sao cuộc gọi mess lại có trong nhật kí cuộc gọi điện thoại vậy ạ",
+      "answer": "Chào bạnTrường hợp này mình kiểm tra mặc định dòng máy Iphone khi bạn thực hiện gọi qua messenger sẽ hiện trong danh sách cuộc gọi của máy bạn nhé.Chia sẽ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.152784,
+      "id": "23554087",
+      "field_search": "question",
+      "question": "Sao máy e k hiện thời gian sử dụng pin ạ",
+      "answer": "Chào bạn, Trường hợp này thì bạn thử tắt nguồn điện thoại khởi động lại sau đó kiểm tra lại xem sao nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.105593,
+      "id": "24663925",
+      "field_search": "question",
+      "question": "Cho mìh hỏi bật led cảh báo sao gọi ko nháy đèn v qtv",
+      "answer": "Chào bạn,Led thông báo chỉ sáng khi bạn tắt màn hình máy thôi nha. Nếu bật màn hình sẽ không sáng bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.085722,
+      "id": "28054765",
+      "field_search": "question",
+      "question": "Iphone 6 có ghi âm cuộc gọi k qtv",
+      "answer": "Chào bạn,iPhone thì không có hỗ trợ ghi âm cuộc gọi bạn nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.06435,
+      "id": "23711860",
+      "field_search": "question",
+      "question": "Ip 5s của m chạy ios 11.1.1 bị lỗi ko nháy đèn LED khi có cuộc gọi, có cách xử lí ko",
+      "answer": "Chào bạn,Nếu như bạn cài đặt rồi mà chưa được thì bạn thử khởi động lại máy xem có được hay không nha.Mong phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.056108,
+      "id": "20187842",
+      "field_search": "question",
+      "question": "E vừa mua ip 6 của TGDD nhưng điện thoại k đổ chuông khi có cuộc gọi đến dù đã cài đặt âm thanh mà k được là sao ạ",
+      "answer": "Chào bạn, Điện thoại này bạn nhìn nút công tắc âm thanh bên hông trái của máy có gạt xuống không , nếu có bạn gạt lên là có âm thanh lại bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.046059,
+      "id": "30072190",
+      "field_search": "question",
+      "question": "Ram còn trống 400 mp vậy tải game hay nhiều ứng dụng  chạy ngầm cũa máy có sẵng nữa có ảnh hưởng đến  tóc độ xử lý cũa máy không ,",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 hiện tại vẫn hoạt động tốt và ổn định. Do hệ điều hành iOS được tối ưu tốt bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.035528,
+      "id": "19483684",
+      "field_search": "question",
+      "question": "Mình mua điện thoại này hôm 30/4. Về sử dụng thì thấy nếu nhìn góc nghiêng từ phím tắt - ở âm lượng nhìn lên thấy khe sáng từ màn hình. Vậy đt mình có đảm bảo khi sử dụng k? liệu bụi bẩn, hơi nước có vào ảnh hưởng đến mày k? Nếu mình cảm thấy k an tâm thì có được đổi máy mới k?",
+      "answer": "Chào bạn,Trường hợp này cần kiểm tra trực tiếp cho máy nên bạn vui lòng mang máy đến siêu thị gần nhất để được hỗ trợ kiểm tra cho máy và thông tin cụ thể đến bạn nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.00111,
+      "id": "23475462",
+      "field_search": "question",
+      "question": "Máy mình sạc đến 99% sắp đầy nhưng mình rút sạc ra luôn vì có việc gấp ko bít có ảnh hưởng đến máy ko",
+      "answer": "Chào anh, Trường hợp này nếu sản phẩm anh đã sạc được khoảng 99% pin rồi thì anh cũng có thể ngưng sạc để sử dụng đó anh nhé. Tuy nhiên nếu làm như vậy thì hiệu suất sử dụng của pin sẽ không đạt tối ưu đâu nha anh. Anh nên sạc đầy 100% rồi hãy ngưng sạc để sử dụng sản phẩm với thời gian lâu nhất anh nha.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.970177,
+      "id": "30672946",
+      "field_search": "question",
+      "question": "Add cho e hoi. Minh mua dong dt nay minh co the cai nghe lén cuộc gọi được k ạ?",
+      "answer": "Chào chị Dạ rất tiếc sản phẩm  này không hỗ trợ chức năng nghe lén cuộc gọi chị nhé. Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.925613,
+      "id": "21299540",
+      "field_search": "question",
+      "question": "Cho mình hỏi , ip5 s làm sao để tải ghi âm cuộc gọi ?",
+      "answer": "Chào bạn, Rất tiếc, hiện tại mình chưa tìm được ứng dụng hỗ trợ ghi âm cuộc gọi trên máy nên chưa thể cài đặt được nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.910181,
+      "id": "27497837",
+      "field_search": "question",
+      "question": "Có đèn led thông báo gọi sạc tin nhắn k ad",
+      "answer": "Chào bạn,Trường hợp này trên iPhone 6, bạn có thể thực hiện như sau : Vào cài đặt > cài đặt chung > trợ năng > đèn LED để cảnh báo > bật lên bạn nhé. Và không có báo sạc nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.901058,
+      "id": "32077902",
+      "field_search": "question",
+      "question": "Cho mình hỏi có ip6s qua sử dụng mà máy còn tốt giá bao nhiêu ạ",
+      "answer": "Chào anh Nam,Dạ mình vui lòng truy cập  để tham khảo máy giúp em anh nha, và mỗi sản phẩm có tình trạng trầy xước cũng như thời gian bảo hành còn lại khác nhau nên có giá chênh lệch anh nhéChia sẻ cùng anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.849913,
+      "id": "20695685",
+      "field_search": "question",
+      "question": "chào ac! cho hỏi đt e đang hoạt động bt, nhưng khi có cuộc gọi đến, nó lại mất tiếng chuông, đến khi tắt nguồn và mở lên lại thì hoạt động bt, máy xảy ra tình trạng trên thường xuyên,  vậy theo ac máy có bị sao không ạ",
+      "answer": "Chào bạn,Trường hợp này bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > chọn dòng đầu tiên (đặt lại tất cả cài đặt) rồi kiểm tra giúp mình nha.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.826832,
+      "id": "30305310",
+      "field_search": "question",
+      "question": "Cho hỏi sử dụng cục sạc máy samsung sạc pin cho ip6 có được ko vậy?",
+      "answer": "Chào bạn,Trường hợp này, bạn có thể dùng củ sạc của J6 để sạc cho iPhone 6 bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.800288,
+      "id": "26557365",
+      "field_search": "question",
+      "question": "Mình sài ứng dụng battery California nó có gây ảnh hưởng tới máy không. Ứng dụng giúp máy không bị pin ảo",
+      "answer": "Chào bạn, xin lỗi đã để bạn đợi lâu nhé Rất tiếc là mình kiểm tra thì không thấy có ứng dụng  battery California bạn nhé, bạn vui lòng kiểm tra lại tên ứng dụng xem sao nha bạn Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.774427,
+      "id": "26772394",
+      "field_search": "question",
+      "question": "điện thọai còn 1 2% rồi mới sạc có ảnh hưởng gì kh ạ",
+      "answer": "Chào bạn,Trường hợp này không ảnh hưởng máy bạn nha. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.721262,
+      "id": "28244107",
+      "field_search": "question",
+      "question": "Cho hỏi chiếc iPhone 6 sạc lúc đầu từ 10% đến 90% chỉ trong 1h20p nhưng từ 90-100% thì khoảng 1h vì s v. T sạc đến 95% r nghĩ sạc có ảnh hưởng j k",
+      "answer": "Chào bạn, Bạn vui lòng đổi 1 bộ cáp sạc khác xem có khắc phục được không bạn nhé  Ngoài ra, điện thoại này bạn có thể rút sạc và cắm sạc bất cứ lúc nào cũng được mà không ảnh hưởng gì cả bạn nhé. Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.70702,
+      "id": "27788706",
+      "field_search": "question",
+      "question": "Mình muốn bật chế độ nguồn điện pin thấm sẽ không tắt luôn .cho dù pin vẫn còn rất nhìu .thì có tác dụng gì.và có ảnh hưởng gì kh ạ",
+      "answer": "Chào bạn,Với cách sử dụng bạn đề cập, thì không ảnh hưởng đến máy. Nên bạn có thể an tâm tiếp tục sử dụng sản phẩm bạn nhé. Tính năng nguồn điện thấp sẽ giúp iPhone tắt các hoạt đồng nền ứng dụng, tắt các tính năng tự sao lưu,...giúp máy tiết kiệm Pin hơn bạn nhé. Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.632896,
+      "id": "23204922",
+      "field_search": "question",
+      "question": "Cho hỏi là e sạc từ 10% đến 68% rút ra chơi xuống 20% rồi sạc lại có bị gì k ạ",
+      "answer": "Chào bạn,Vâng với công nghệ pin hiện nay thì bạn sạc như vậy thì không có ảnh hưởng gì bạn nhé. Tất nhiên là khi bạn cần chơi bạn ngắt sạc rồi chơi xong bạn sạc nữa thì sẽ khiến máy đỡ nóng là dùng pin được tốt hơn bạn ạ.Xin thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.611534,
+      "id": "20871934",
+      "field_search": "question",
+      "question": "cho e hỏi ip 6 sử dụng tốt trong khoảng mấy năm nửa ạ",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.569841,
+      "id": "27800285",
+      "field_search": "question",
+      "question": "Dán cường lực có ảnh hưởng j cho đt ko",
+      "answer": "Chào bạn,Dạ nếu kính cường lực không đảm bảo chất lượng hoặc quá dày có thể làm giảm độ nhạy của cảm ứng ạ.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.556014,
+      "id": "21722296",
+      "field_search": "question",
+      "question": "Em luôn tắt nguồn máy khi đi ngủ và mở lại vào hôm sao..vay co ảnh hưởng j đến máy k qtv",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.544184,
+      "id": "21778696",
+      "field_search": "question",
+      "question": "dùng sạc ipad sạc cho iphone 6 thì có sao không, có ảnh hưởng gì không, có hư cảm ứng, pin gi khong ạ",
+      "answer": "Chào bạn,Dạ với sạc iPad về lý thuyết theo mình nghĩ vẫn có thể sạc được cho máy iPhone, nhưng về lâu dài tuổi thọ pin sẽ giảm dần bạn nhé, do nguồn ra là hơi cao ạ; phần cảm ứng cũng có thể ảnh hường, làm loạn cảm ứng bạn nhé; theo mình bạn nên dùng sạc đúng theo của iPhone bạn nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.530603,
+      "id": "20129133",
+      "field_search": "question",
+      "question": "Sao điện thoại của mình thường bị mất hết âm thanh khi có cuộc gọi đến",
+      "answer": "Chào bạn, Trường hợp này thì có thể do lỗi xung đột phần mềm nên bạn thử tắt nguồn điện thoại khởi động lại xem sao bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.525643,
+      "id": "26570252",
+      "field_search": "question",
+      "question": "Phần mềm Battery Calibration có gay ảnh hưởng gì tới điện thoại không",
+      "answer": "Chào bạn,Ứng dụng này thì không ảnh hưởng đến máy bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.524714,
+      "id": "22099209",
+      "field_search": "question",
+      "question": "Cho em hỏi lâu lâu máy em cứ hiện lỗi như này là sao ạ? Máy em Ip6 và chạy ios 11.0.1 ạ. Tuy không ảnh hưởng đến chải nghiệm nhưng rất ức chế",
+      "answer": "Sao không gửi ảnh lên đc nhỉ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.507188,
+      "id": "28674886",
+      "field_search": "question",
+      "question": "Cho mình hỏi sao iphone 6 call video trên zalo mà bên kia không thấy hình ảnh bên mình là lí do gì vậy.mình đang dùng ios 12 thế có bị ảnh hưởng gì không?",
+      "answer": "Chào bạn,Trường hợp này, bạn vui lòng thực hiện như sau : Vào cài đặt > quyền riêng tư > camera > bật Zalo lên xem khắc phục được không nha bạn. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.503181,
+      "id": "21734726",
+      "field_search": "question",
+      "question": "Máy e gửi bảo hành tgdd cho e mượn máy sử dụng e lỡ làm trầy mấy giờ sao ạ",
+      "answer": "Chào chị Về trường hợp của chị, chị vui lòng ghé siêu thị nơi chị được mượn máy để nhân viên siêu thị có hướng hỗ trợ chị giúp chị.Thông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.479788,
+      "id": "25187519",
+      "field_search": "question",
+      "question": "Cho em hỏi hổm e có gửi c ip 5s đi bảo hành rồi trên hãng gọi xuống báo em là qua tháng3 mới có h tgdđ sẽ hỗ trợ cho e máy để sử dụng là máy giống vậy hay tốt hơn hay tệ hơn ạ",
+      "answer": "Chào anh,Bên em cung cấp cho anh một điện thoại tương tự (đã qua sử dụng) để sử dụng tạm thời trong thời gian bảo hành. Chi tiết máy cung cấp anh có thể hỏi nhân viên siêu thị hoặc xem trên giấy tiếp nhận bảo hành/sửa chữa dịch vụ.Thông tin đến anh ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.472268,
+      "id": "26381484",
+      "field_search": "question",
+      "question": "Cho hỏi nếu pin trên 50% bật chế độ nguồn điện thấp thì có ảnh hưởng gì tới pin sau này ko qtv",
+      "answer": "Chào bạn,Bạn bật chế độ nguồn điện thấp lúc nào cũng được, không ảnh hưởng gì nhé.Xin thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.427407,
+      "id": "23430972",
+      "field_search": "question",
+      "question": "máy mình ip6 vừa mua đc tầm 4 tháng bị treo màn.có ảnh hưởng gì không ạ?",
+      "answer": "Chào bạn,Dạ Trường hợp này bạn thử nhấn giữ phím nguồn để tắt máy và khởi động lại xem có được không bạn nhé. Nếu máy vẫn khởi động lên được bình thường thì có thể máy chỉ tạm thời bị quá tải, bạn dùng tiếp và kiểm tra xem tình trạng này có còn tái diễn không bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.424276,
+      "id": "23285341",
+      "field_search": "question",
+      "question": "Cho e tham khảo máy 6 32G đã qua sử dụng đi",
+      "answer": "Chào anh, Anh vui lòng  cung cấp khu vực anh muốn mua hàng để bên em kiểm tra tại khu vực còn hàng không và hỗ trợ cụ thể giúp anh nhé.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.414838,
+      "id": "18838209",
+      "field_search": "question",
+      "question": "iphone 6 e để mất cả bộ sạc rồi giờ mua bộ sạc pisen xài có bị ảnh hưởng gì đén pin , máy không ạ",
+      "answer": "Chào bạn ! Được nha, bạn sử dụng củ sạc Pinsen dòng 1A sạc tốt cho iPhone 6 bạn nhé, không ảnh hưởng gì nha bạn.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.367662,
+      "id": "18392386",
+      "field_search": "question",
+      "question": "Cho e hỏi máy ip6 tại sao dùng máy nóng vậy và e sử dụng thấy pin của máy ip6 k đc như những dòng sp khác",
+      "answer": "Chào bạn, Khi bạn sử dụng máy liên tục, chơi game đặc biệt là mở kết nối mạng 3G thì hiện tượng máy mau nóng và mau hết pin là bình thường và tất cả các dòng SmartPhone đều bị như thế chứ không riêng gì sản phẩm trên nên bạn cứ yên tâm sử dụng bạn nhé. Còn về pin thì có thể do bạn đã mở quá nhiều ứng dụng và các kết nối mạng nên bạn vui lòng tắt hết các kết nối mạng khi không sử dụng và các ứng dụng chạy ngầm đi hoặc giảm độ sáng màn hình để tiết kiệm bạn nhé.  Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.36599,
+      "id": "22073886",
+      "field_search": "question",
+      "question": "Dù chỉ là ip6 thường. Nhưng vẫn chất. Không cần lên ios 11. Vẫn thể hiện sự sang trọng.  Hiện tại e thắc mắc dùng sạc dự phòng thì có ảnh hưởng gì đến đt ip6 k ạ",
+      "answer": "Chào bạn, Xin lỗi đã để bạn đợi lâu nhé ! Nếu như sử dụng sạc dự phòng sẽ không ảnh hưởng gì tới iPhone bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.0757885,
+      "id": "29621793",
+      "field_search": "question",
+      "question": "cho em hỏi dung lượng pin sử dụng có được lâu không ạ?",
+      "answer": "Chào chị,Dạ điện thoại này có thể sử dụng liên tục khoảng 4-5h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1-1.5 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều chị nhé. Xin thông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.035152,
+      "id": "19739412",
+      "field_search": "question",
+      "question": "Cho e ? Là đến thag 8 còn hang k ạ,Cho e ? Là đến thag 8 còn hang k ạ",
+      "answer": "Chào anh,Dạ thông tin còn hàng của sản phẩm này tới tháng 8 thì em không rõ lắm anh ạ. Anh có thể thường xuyên cập nhật thông tin sản phẩm này trên trang Thegioididong.com để biết rõ hơn anh nhé.   Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 15.01504,
+      "id": "23456256",
+      "field_search": "question",
+      "question": "A.c cho e hỏi ạ, máy này chưa mở hộp chứ ạ, mua máy có đc tặng thêm gì k ạ?",
+      "answer": "Chào chị,Dạ với sản phẩm trên thì bên em đảm bảo sản phẩm vẫn còn nguyên seal và nguyên hộp đó chị nha. Và với sản phẩm trên thì bên em vẫn chưa có chương trình khuyến mại tặng quà cho sản phẩm chị nhé.Thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.928719,
+      "id": "25321267",
+      "field_search": "question",
+      "question": "Ad cho e hỏi đt e ip6 lúc mở đèn pin nó chỉ chớp 1 cái rồi tắt là bụ gì ạ",
+      "answer": "Chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.820428,
+      "id": "27627799",
+      "field_search": "question",
+      "question": "Cách bật den flash khi co cuộc goi hay tin nhắn toi",
+      "answer": "Chào bạn,Dạ trường hợp này bạn vào : Cài đặt - Cài đặt chung - Trợ năng - Đèn Led để cảnh báo - ON là được bạn nhé .Bạn lưu ý tắt chế độ nguồn điện thấp , tắt màn hình , sạc đầy Pin thì đèn flash mới nháy sáng được .Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.805853,
+      "id": "29559239",
+      "field_search": "question",
+      "question": "Máy có chức nang đèn lét sáng khi có nguoi goi đến ko",
+      "answer": "Chào bạn, xin lỗi đã để bạn đợi lâu nhéĐiện thoại này bạn có thể cài flash cuộc gọi bằng cách vào Cài đặt > cài đặt chung> trợ năng> đèn led cảnh báo> bật bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.780233,
+      "id": "23868260",
+      "field_search": "question",
+      "question": "Cho em hỏi, máy em của nhà mạng CH thì sử dụng như mấy máy kia không ạ ?",
+      "answer": "Chào bạn,Ký hiệu CH ở đây là hiển thị cho biết sản phẩm được xuất xứ từ thị trường Trung Quốc bạn nhé, và nếu máy là sản phẩm quốc tế thì sử dụng bình thường nha bạn.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.7784,
+      "id": "29726655",
+      "field_search": "question",
+      "question": "Dạ cho em hỏi sao tự nhiên điện thoại e đang xài nó không còn chuông khi có tin nhắn, thông báo hay cuộc gọi đến nữa ạ. E đã chỉnh âm lượng lên hết mức luôn nhưng vẫn ko nghe chuông.",
+      "answer": "Chào bạn, Dạ bạn để ý nút tắt âm bên hông máy có đang gạt xuống không , nếu có bạn gạt lên là được nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.767239,
+      "id": "23653477",
+      "field_search": "question",
+      "question": "ad cho m hỏi cài báo rung khi cuộc gọi bắt đầu là ở đâu vậy",
+      "answer": "Chào bạn,Rất tiếc là điện thoại iPhone không hỗ trợ tính năng này bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.753238,
+      "id": "17834334",
+      "field_search": "question",
+      "question": "Ip7 có ghi âm cuộc gọi ko",
+      "answer": "Chào bạn,Dạ sản phẩm iphone 7 hiện tại chưa có ghi âm cuộc gọi bạn nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.7531,
+      "id": "20346600",
+      "field_search": "question",
+      "question": "Iphone 6 sử dụng lướt web liên tục mà chỉ sử dụng được 5 giờ thì có bị cho là chai pin k ạ",
+      "answer": "Chào chịNếu chị sử dụng máy liên tục trong khoảng 5h là bình thường đó ạ. Để an tâm, chị có thể kiểm tra tính trạng pin theo hướng dẫn tại bài viết  nhaThông tin đến chị",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.742021,
+      "id": "26690197",
+      "field_search": "question",
+      "question": "Qtv cho e hỏi chút. E mới mua máy dc 3 hom.sau khi sử dụng may, e thấy may nhanh hết pin quá. E sạc đầy ,k sử dụng gj mà máy vẫn tụt pin lsao. Để qua đêm mà mất 7% pin. Giúp e vs",
+      "answer": "Chào bạn,Bạn vui lòng làm theo hướng dẫn tại \"\", trong quá trình thao tác nếu có vấn đề gì thì bạn phản hồi tại đây để bên mình kiểm tra và hỗ trợ cho bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.737961,
+      "id": "23090210",
+      "field_search": "question",
+      "question": "xxxx4909003 có thể gọi cho e tư vấn dc k ạ",
+      "answer": "Chào anh Nam,Anh muốn tư vấn mua trả góp Iphone 6 32GB hay sao ạ, anh có thể thông tin rõ hơn và thông tin thêm các hồ sơ đang có để em tư vấn cụ thể cho anh nhé.Mong nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.71052,
+      "id": "20876521",
+      "field_search": "question",
+      "question": "Máy e lúc có người gọi đến lúc có chuông lúc Ko có vậy",
+      "answer": "Chào bạn, Xin lỗi đã để bạn đợi lâu nhé ! Trường hợp này bạn có thể thử khởi động lại máy xem có dc hay không. Nếu vẫn không dc thì bạn phản hồi tại đây để bên mình tiếp tục hỗ trợ cho bạn nhé.Mong phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.666762,
+      "id": "23718758",
+      "field_search": "question",
+      "question": "Cho em hỏi bên mình có bán IP6 đã qua sử dụng không ạ?",
+      "answer": "Chào chị Hiện bên em có kinh doanh iPhone 6 đã qua sử dụng chị nhé. Chị vui lòng cho em biết hiện chị đang ở khu vực cụ thể nào ( thành phố (quận); tỉnh (huyện,xã) để em có thể tìm siêu thị còn hàng gần nơi chị nhất được không ạ? Mong nhận phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.640116,
+      "id": "22074740",
+      "field_search": "question",
+      "question": "Cho em hỏi đt em khi gọi cuộc gọi bình thường thì không sao nhưng khi gọi bằng messeger hay facetime thì đầu bên kia không nghe tiếng ạ",
+      "answer": "Chào bạn, Tình trạng này bạn thử tắt điện thoại khởi động lại giúp mình xem có khắc phục được không bạn nhé. Nếu không được bạn phản hồi tại đây mình sẽ hỗ trợ tiếp cho bạn . Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.500263,
+      "id": "19416340",
+      "field_search": "question",
+      "question": "Cho e hỏi có nhận đổi máy k ạ",
+      "answer": "Chào anh QuỳnhDạ, với máy được mua ở siêu thị Thegioididong.com và còn thời hạn bảo hành thì bên em có hỗ trợ cho anh đổi hoặc trả máy đó ạ. Anh có thể cung cấp thêm cho em thông tin về giá trị cũng như thời điểm mà sản phẩm được mua để em có thể thông tin giúp anh về khoảng tiền anh nhận lại được anh nhé. Mong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.498226,
+      "id": "28795855",
+      "field_search": "question",
+      "question": "Cho em hỏi sử dụng chế độ nguồn điện thấp có hại PIN không ạ?",
+      "answer": "Chào bạn, Bạn sử dụng chế độ nguồn điện thấp giúp máy dùng tiết kiệm PIN hơn chứ không hại gì PIN bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.447807,
+      "id": "26199761",
+      "field_search": "question",
+      "question": "Qtv cho e hỏi máy của e bắt wifi thì xem được youtube nhưng tại sao lại k chơi game và tải game được mà máy khác vẫn sử dụng bình thường ạ",
+      "answer": "Chào bạn,Bạn thử với 1 mạng wifi khác xem sao bạn nhé, mong bạn sớm phản hồi thông tin đến bên mình có thể hỗ trợ bạn nha. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.432283,
+      "id": "17571421",
+      "field_search": "question",
+      "question": "Điện thoại Iphone 6 em gạt nút âm lượng sang im lặng sau một thời gian sử dụng em vẫn để im lặng nhưng khi chụp hình hay có cuộc gọi đến vẫn đổ chuông. H phải làm sao ad",
+      "answer": "Chào anh,Dạ trường hợp này anh vui lòng gạt lên rồi gạt xuống lại, sau đó khởi động lại máy xem có bình thường chưa ạ.Mong sớm nhận phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.343722,
+      "id": "27152783",
+      "field_search": "question",
+      "question": "Cho e hỏi ip6 đag có khuyến mại gì k?",
+      "answer": "Dạ chào chị.Hiện đang có chương trình giảm giá ngày của mẹ đó ạ, 3-5% nha chị. Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.317023,
+      "id": "18113563",
+      "field_search": "question",
+      "question": "ad cho em hỏi sao ip6 của em lên ios 10.3.1 giờ gọi đến vẫn có chuông bắt máy không nghe gì.... không mở được loa ngoài là bị gì, nghe nhạc bình thường",
+      "answer": "Chào bạn,Bạn đang gọi qua ứng dụng nào vậy bạn hay cuộc gọi trên máy vậy bạn.Bạn vui lòng giúp mình kiểm tra lại xem đã bật âm thanh lớn hết cỡ chưa bạn hoặc bạn khởi động lại máy xem được không.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.297987,
+      "id": "18003215",
+      "field_search": "question",
+      "question": "Qtv cho e hỏi Vân tay hay bị hỏng là do Người sử dụng dùng nhiều đúng k a",
+      "answer": "Chào bạn, Vân tay bị hỏng do nhiều nguyên nhân như vào nước , va đập , cọ sát , bám bẩn , xước .... chứ không phải chỉ có dùng nhiều bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.276651,
+      "id": "19030439",
+      "field_search": "question",
+      "question": "sao mỗi lần sạc củ sạc nóng vậy. mới nóng vài ngày gần đây thôi, nó là do sạc hay do máy . có ảnh hưởng gì máy k",
+      "answer": "Chào bạn, Trường hợp này thì khi sạc thì Adapter có nhiệm vụ chuyển đổi dòng điện nên nóng là bình thường nha bạn còn quá nóng có thể do nguồn điện không được ổn định nên bạn thử cắm sang 1 ổ điện khác xem sao nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.272469,
+      "id": "30382754",
+      "field_search": "question",
+      "question": "Có nhiều trang bán hàng để thông tin là iphone 5s sử dụng pin Li-po. Ad có thể cho em biết pin của 5s sử dụng là loại pin gì ko ạ?",
+      "answer": "Chào anh, xin lỗi đã để anh đợi lâu nhéĐiện thoại này sử dụng pin Li-Po anh nhé Thông tin đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.257123,
+      "id": "25865801",
+      "field_search": "question",
+      "question": "Cho mình hỏi ip6 mình sử dụng chưa đến 1 năm . Sạc đầy pin mình ko đụng đến thì để đc 5 ngày , nhưng nếu sử dụng cứ lướt web hay facebook vài phút là nó tụt 1% pin thì không biết có phải pin máy bị chai rồi hay ko ạ ?",
+      "answer": "Chào bạn, Bạn có thể kiểm tra xem PIN điện thoại mình có bình thường không theo hướng dẫn tại  bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.225489,
+      "id": "22392468",
+      "field_search": "question",
+      "question": "cho hỏi số điện thoại +18662753866 gọi đến khi đăng nhập vào điện thoại Iphone là gì vậy. xin cảm ơn",
+      "answer": "Chào bạn,Đây là số điện thoại từ Apple để gửi mã xác minh bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.202148,
+      "id": "20059709",
+      "field_search": "question",
+      "question": "Cho em hỏi máy này bên mình còn hàng mới đập hộp hay đã qua sử dụng ạ?",
+      "answer": "Chào chị LinhVới sản phẩm mà chị đang xem thì máy này Thegioididong.com kinh doanh là mới 100% và chưa khui seal chị nha.Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 14.154584,
+      "id": "18443164",
+      "field_search": "question",
+      "question": "Cho e hỏi vừa rồi e mua iphone 6 củ 16g tgdd mà ve e kt lại thì póp màn hình vào thân máy no kêu cụo cụp là s v qtv có ảnh hưởng j toi may k",
+      "answer": "Chào bạn ! Bạn ấn mạnh giữa màn hình và mặt lưng thì nghe tiếng hay bạn gõ vào máy nghe tiếng vậy bạn.Mong sớm nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    }
+  ]
+}
