@@ -286,9 +286,9 @@ def get_model(vocab_df):
                           mask_zero=True)
 
     org_q_embedding = embedding(org_q_input)
-    # org_q_embedding = Dropout(0.5)(org_q_embedding)
+    org_q_embedding = Dropout(0.5)(org_q_embedding)
     related_q_embedding = embedding(related_q_input)
-    # related_q_embedding = Dropout(0.5)(related_q_embedding)
+    related_q_embedding = Dropout(0.5)(related_q_embedding)
 
     bi_lstm_1 = Bidirectional(LSTM(units=64, return_sequences=False))(org_q_embedding)
     bi_lstm_2 = Bidirectional(LSTM(units=64, return_sequences=False))(related_q_embedding)
@@ -296,11 +296,12 @@ def get_model(vocab_df):
     # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
 
     q_concat = concatenate([bi_lstm_1, bi_lstm_2])
+    q_concat = Dropout(0.5)(q_concat)
     # q_concat = concatenate([rnn1, rnn2])
 
     dense1 = Dense(64, activation='relu')(q_concat)
     prediction = Dense(1, activation='sigmoid')(dense1)
-    # prediction = Dropout(0.5)(prediction)
+    prediction = Dropout(0.5)(prediction)
 
     training_model = Model(inputs=[org_q_input, related_q_input], outputs=prediction, name='training_model')
     opt = Adam(lr=0.001)

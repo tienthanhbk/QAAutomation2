@@ -6,30 +6,6 @@
   "origin_question": "Sao máy này vào mạng 4g yếu quá vậy tgdd",
   "hits": [
     {
-      "score": 21.10857,
-      "id": "25306548",
-      "field_search": "question",
-      "question": "Sao ip6 minh vào wifi yếu chập chờn mạng cũng yếu",
-      "answer": "Chào bạn.Dạ trường hợp này thì bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > đặt lại cài đặt mạng sau đó chờ cho máy khởi động lại hệ thống mạng kiểm tra xem có cải thiện được hay không bạn nhé. Thông tin đến bạn.",
-      "relate_q_q": 1
-    },
-    {
-      "score": 19.363377,
-      "id": "25306351",
-      "field_search": "question",
-      "question": "Sao vô wifi yếu chập chờn vậy ạ mạng cũng yếu",
-      "answer": "Chào bạn.Dạ trường hợp này thì bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > đặt lại cài đặt mạng sau đó chờ cho máy khởi động lại hệ thống mạng kiểm tra xem có cải thiện được hay không bạn nhé. Thông tin đến bạn.",
-      "relate_q_q": 1
-    },
-    {
-      "score": 18.104324,
-      "id": "25310763",
-      "field_search": "question",
-      "question": "Sao ip 6 vô wifi yếu vậy ạ mạng cũng yếu ad giúp e",
-      "answer": "Chào bạn,Trường hợp này có thể do kết nối mạng không ổn định ạ, bạn vui lòng thực hiện như sau: Vào cài đặt > wifi > chọn hoặc nhấn giữ vào wifi đã kết nối > chọn quên hoặc xóa mạng > khởi động lại máy và thiết bị phát wifi > kết nối lại và sử dụng xem cải thiện hơn không bạn nhé.  Thân chào bạn !",
-      "relate_q_q": 1
-    },
-    {
       "score": 17.630846,
       "id": "23322099",
       "field_search": "question",
@@ -51,7 +27,7 @@
       "field_search": "question",
       "question": "Cho hỏi ip 6s plus có hỗ trợ 4g ko và ip 6 có hô  trợ 4g ko, sao bấm vào chon mạng LTE thì nó bảo nhà mạng chưa phát triển chưa cho phép là sao",
       "answer": "Chào bạn,Hai điện thoại này thì có hỗ trợ 4G bạn nhé. Và nếu bạn đang dùng SIM Vietnamobile thì có thông báo như vậy là bình thường nha, bạn liên hệ tổng đài nhà mạng để được hỗ trợ nha.Chia sẻ cùng bạn !",
-      "relate_q_q": 1
+      "relate_q_q": -1
     },
     {
       "score": 15.2216835,
@@ -83,7 +59,7 @@
       "field_search": "question",
       "question": "Sao bảo hỗ trợ 4G mà em dùng sim 4G thì nó chỉ hiện mạng 3G ạ",
       "answer": "Chào bạn,Bạn vào cài đặt > di động > tùy chọn dữ liệu di động > thoại > bạn chọn LTE hay 4G xem có được không nhé.Chia sẻ cùng bạn !",
-      "relate_q_q": 1
+      "relate_q_q": -1
     },
     {
       "score": 14.1711035,
@@ -91,7 +67,7 @@
       "field_search": "question",
       "question": "iPhone em bắt mạng yếu so với máy khác phải làm sao ạ ? Em đã đặt lại cài đặt mạng r mà nó vẫn v",
       "answer": "Chào bạn, Mong bạn cung cấp thêm thông tin cụ thể bạn kết nối mạng wifi hay 3G để bên mình có thể hỗ trợ bạn được tốt hơn nhé. Xin thông tin đến bạn ạ !",
-      "relate_q_q": 1
+      "relate_q_q": -1
     },
     {
       "score": 13.844725,
