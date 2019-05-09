@@ -4,3 +4,4 @@ model/*
 venv/*
 __pycache__
 history/image/*
+*.h5

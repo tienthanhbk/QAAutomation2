@@ -1,0 +1,1433 @@
+{
+  "id_query": "32275723",
+  "total": 14204,
+  "total_current": 200,
+  "max_score": 70.57142,
+  "origin_question": "Máy em sài rất mau hết pin và nóng máy là do lên ios 12.2 hay là tại pin chay vậy",
+  "hits": [
+    {
+      "score": 37.80908,
+      "id": "32040421",
+      "field_search": "question",
+      "question": "Cho hỏi là máy sài tác vụ bình thường cũng bị hao pin và rất mau nóng . Có phải là bị chay pin phải hk ạ",
+      "answer": "Chào anh Nếu máy sử dụng đã lâu rồi thì có thể do Pin chai nên có tình trạng trên anh nha .Thông tin đến anh .",
+      "relate_q_q": 1
+    },
+    {
+      "score": 36.411068,
+      "id": "27049094",
+      "field_search": "question",
+      "question": "Máy mau nóng với mau hết pin . Khi không dùng em tắt wifi và để tối màn hình. Nhưng rất mau hết pin và nóng máy",
+      "answer": "Chào bạn,Trường hợp này, nếu máy đã cập nhật iOS 11, bạn vào cài đặt > Pin > tình trạng Pin xem Pin máy có ổn định không bạn nhé. Thân chào bạn !",
+      "relate_q_q": 1
+    },
+    {
+      "score": 30.7359,
+      "id": "28569892",
+      "field_search": "question",
+      "question": "Cho em hỏi máy em nghe nhạc máy bị nóng mau hết pin . Là bị gì ạ",
+      "answer": "Chào bạn,Trường hợp này bạn giúp mình tắt các ứng dụng chạy ngầm, xóa các ứng dụng như diệt virus, tăng tốc, quét rác, tắt nguồn máy sau đó khởi động lại rồi kiểm tra lại giúp mình nha.Thân chào bạn.",
+      "relate_q_q": 1
+    },
+    {
+      "score": 29.560076,
+      "id": "23078402",
+      "field_search": "question",
+      "question": "Cho em hỏi là do máy hay do pin mà sac rất lâu vô pin mà chưa xài tới gì để không cũng tự đông hết pin  lả do đâu ạ",
+      "answer": "Chào bạn, Tình trạng này bạn khởi động lại điện thoại và cắm sạc bằng 1 củ sạc chính hãng đi kèm theo máy sang 1 ổ cắm điện khác xem có sạc nhanh hơn không bạn nhé. Lưu ý là khi sạc bạn không nên dùng điện thoại để máy sạc nhanh hơn nhé bạn . Điện thoại không dùng thì hệ điều hành iOS vẫn chạy, ứng dụng chạy ngầm vẫn chạy, máy vẫn bắt sóng di động nên vẫn dùng PIN .Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 28.00968,
+      "id": "20447630",
+      "field_search": "question",
+      "question": "Máy của em 6 tiếng là hết pin vậy cho em hỏi tại đt hay ip nó vậy ạ?",
+      "answer": "Chào bạn,Dạ trong 6 tiếng bạn có dùng máy liên tục không hay chỉ nghe gọi, thỉnh thoảng lướt web thôi ạ; bạn kiểm tra lại và phản hồi giúp mình nhé. Thân chào bạn!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 27.031565,
+      "id": "20734383",
+      "field_search": "question",
+      "question": "Sao máy em  sài 5 phút mất 2% pin mà hk sài 3g Nếu sài 3g hao dữ lắm hay là do ios 10 hao pin ad",
+      "answer": "Chào anh Việt Vâng trường hợp này nếu anh dùng sản phẩm lên mạng và vối thời gian trên lượng pin giảm như vậy thì vẫn khá tốt đừng lo lắng anh nhaChia sẻ cùng anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 25.480917,
+      "id": "27017849",
+      "field_search": "question",
+      "question": "Iphone 6 của em sao mau hết pin quá, Khoảng 30 mấy phần trăm là tắt nguồn ,sạch pin mau vô là bị gì và vậy Ad",
+      "answer": "Chào bạn,Trường hợp này, nếu máy đã cập nhật iOS 11, bạn vào cài đặt > Pin > tình trạng Pin xem Pin máy có ổn định không nha bạn. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 25.279558,
+      "id": "28130015",
+      "field_search": "question",
+      "question": "Sao pin mau nóng qua vậy add, lúc moi mua về hk có bây gio xem chút là nóng còn hay đung máy nua, lỗi ở máy phải khong",
+      "answer": "Chào bạn,Trường hợp này bạn vui lòng tham khảo bài viết \"\" và làm theo hướng dẫn xem có khắc phục được không bạn nhé. Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 25.144522,
+      "id": "25232219",
+      "field_search": "question",
+      "question": "sạc khoảng 5 phút lên 10 mấy phần trăm pin này do pin hay do máy vậy ạ",
+      "answer": "Chào bạn,Theo trải nghiệm của mình thì iPhone sạc khá nhanh nên thời gian sạc trên của bạn là bình thường, không phải lỗi do máy hay do pin bạn nha. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 24.864773,
+      "id": "20862924",
+      "field_search": "question",
+      "question": "Cho em hỏi chút ạ.  Em mới mua máy mà sạc pin rất nóng.  Như vậy là bình thường hay có vấn đề gì không ạ.  Em cảm ơn!",
+      "answer": "Chào bạn,Khi sạc thì bạn tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp máy đỡ nóng hơn và sạc vào sẽ ổn hơn bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 24.768671,
+      "id": "18240276",
+      "field_search": "question",
+      "question": "iphone 6 sao sài mau hết pin mà sạc mau đầy pin quá vậy ad",
+      "answer": "Chào anh, Anh có thể kiểm tra pin của anh có sử dụng bình thường hay không bằng cách sau anh nha;Cách 1: anh sạc đầy 100% pin, tắt các kết nối 3G, Wifi, không sử dụng máy trong vòng 5 tiếng nếu máy giảm 5 - 10% là pin của máy vẫn sử dụng tốt anh nhé.Cách 2: anh sạc đầy 100% pin, tắt hết các kết nối 3G, Wifi, tăng độ sáng màn hình lên tối đa, sau đó giữ máy như vậy trong vòng 60 phút, nếu pin giảm dưới mức 20% thì pin của anh bình thường anh nhé.Chúc anh có nhiều sức khỏe !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.52095,
+      "id": "20634232",
+      "field_search": "question",
+      "question": "iPhone 6 32GB của em sao sạc pin hay bị nóng máy là sao qtv",
+      "answer": "Chào bạn, Tình trạng máy nóng là tình trạng chung của các sản phẩm điện thoại thông minh bất kể dòng nào có hệ điều hành khi kết nối sạc pin cho máy hay khi dùng trên 5-10 phút đặc biệt là kết nối 3G, chơi game thì máy đều nóng. Đây là vấn đề bình thường do phần cứng và pin hoạt động phát sinh ra nhiệt thôi bạn nhé. Mức nhiệt độ sử dụng cho phép là dưới 60 độ C nên bạn yên tâm sử dụng bạn nha.Thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.46172,
+      "id": "21138461",
+      "field_search": "question",
+      "question": "cho e hỏi máy sao sài cứ bịp nóng máy và hơi hao pin",
+      "answer": "Chào bạn, Khi bạn sử dụng máy liên tục, chơi game đặc biệt là mở kết nối mạng 3G thì hiện tượng máy mau nóng và mau hết pin là bình thường và tất cả các dòng SmartPhone đều bị như thế chứ không riêng gì sản phẩm trên nên bạn cứ yên tâm sử dụng bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.233631,
+      "id": "27096353",
+      "field_search": "question",
+      "question": "Cho em hỏi máy này em mua được 1 tháng mà ao pin sài mau hết qúa v anh",
+      "answer": "Chào bạn,Dạ bạn đã sử dụng được bao lâu thì máy hết pin hoặc xuống pin nhanh vậy ạ; bạn kiểm tra lại và phản hồi giúp mình nhé. Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.195902,
+      "id": "21148476",
+      "field_search": "question",
+      "question": "Anh ơi, iphone 6 này em nghe đồn là máy pin mau hết có thật ko ạ.",
+      "answer": "Chào bạn,Tuy dung lượng pin của máy khá nhỏ nhưng thời gian dùng của máy không hề thua kém các sản phẩm Android cùng phân khúc khác bạn nhé. Với nhu cầu sử dụng liên tục, máy có thể dùng được khoảng 3-4h tuỳ theo tác vụ sử dụng máy bạn nhé. Còn nếu sử dụng bình thường thì có thể dùng được khoảng 1 ngày ạ.Thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 24.13519,
+      "id": "28742937",
+      "field_search": "question",
+      "question": "Cho em hỏi máy để như vậy là ntn ạ? PIN sạc tầm hơn 2 tiếng mới đầy và sử dụng cũng mau hết pin hơn lúc mới ạ....",
+      "answer": "Chào bạn,Điện thoại này bạn sạc 2 giờ đầy PIN là hoàn toàn bình thường bạn nhé. Tình trạng PIN trên mới chỉ là chức năng Beta của Apple nên có thể chưa chính xác .Bạn có thể kiểm tra xem PIN điện thoại mình có bình thường không theo hướng dẫn tại bạn nhé. Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.762691,
+      "id": "27608609",
+      "field_search": "question",
+      "question": "cho em hỏi máy sài liên tục bao nhiêu giờ hết pin vậy",
+      "answer": "Chào bạn Pin của máy sử dụng liên tục được khoảng 4h - 5h bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.566982,
+      "id": "17804050",
+      "field_search": "question",
+      "question": "E dùng máy này. Mới mua nhưng dùng nhanh nóng mặt sau máy lắm ạ với lại tầm 2-3 phút là máy xuống khoảng 1% pin rồi. Hồi bữa đi dán mặt sau máy người dán máy có dùng máy sấy tóc để sấy mặt keo đề can cho mau khô. Sau máy e nóng ran lên luôn ạ. Cho e hỏi là dùng máy sấy như vậy có ảnh hưởng j đến pin k ai. Nên h máy rất mau hao pin và nóng.mong sớm nhận đk phản hổi",
+      "answer": "Chào bạn,Trường hợp này bạn vui lòng kiểm tra và tắt những ứng dụng chạy ngầm hoặc gỡ bỏ bớt ứng dụng không sử dụng liên quan đến mạng xã hội, những kết nối không cần thiết như Wifi, 3G, GPS, Bluetooth,..để giảm tiêu hao dung lượng Pin và nóng máy nha bạn. Và khi sử dụng ứng dụng nặng , game nặng và kết nối 3G liên tục thì viếc nóng máy nhiều là bình thường. Và khi sử dụng máy sấy trong quá trình dán keo điện thoại thì không ảnh hướng đến Pin.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 23.416956,
+      "id": "28213710",
+      "field_search": "question",
+      "question": "e mua được 7 tháng, máy sạc rất nóng máy và nóng củ sạc vậy là có vấn đề gì không ạ",
+      "answer": "Chào bạn, Điện thoại này máy và củ sạc khi sạc sẽ hơi nóng 1 chút nhé bạn . Điều này hoàn toàn bình thường bạn chỉ cần sử dụng củ sạc theo máy và không dùng điện thoại khi sạc là yên tâm bạn nhé . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.368563,
+      "id": "19030439",
+      "field_search": "question",
+      "question": "sao mỗi lần sạc củ sạc nóng vậy. mới nóng vài ngày gần đây thôi, nó là do sạc hay do máy . có ảnh hưởng gì máy k",
+      "answer": "Chào bạn, Trường hợp này thì khi sạc thì Adapter có nhiệm vụ chuyển đổi dòng điện nên nóng là bình thường nha bạn còn quá nóng có thể do nguồn điện không được ổn định nên bạn thử cắm sang 1 ổ điện khác xem sao nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.327248,
+      "id": "26142934",
+      "field_search": "question",
+      "question": "Máy sài được mấy giờ thì hết pin ạ",
+      "answer": "Chào bạn,Máy sử dụng liên tục được khoảng 4h, tùy vào cách dùng máy của bạn như thế nào và tình trạng máy ra sao mà sẽ có sự chênh lệch tương ứng bạn nhé. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.320833,
+      "id": "26488854",
+      "field_search": "question",
+      "question": "ip 6 nghe nói máy chay ios 11 rất hao pin và lag ?  cho mình xin ý kiến..",
+      "answer": "Chào bạn Trường hợp khi bạn cập nhật máy lên iOS 11.3 thì máy sẽ hoạt động ổn định và không hao Pin bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 22.00869,
+      "id": "28804805",
+      "field_search": "question",
+      "question": "Em có ý định mua ip6 32GB này nhưng rất lo lắng về vấn đề pin của máy, thường thì mọi người nói máy rất mau hết pin vậy nếu như sử dụng thời gian dài mà không có điều kiện đổi loại máy khác thì khi sd lâu như vậy có xảy ra tình trạng chai pin hay không ạ?",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 có thể sử dụng liên tục khoảng hơn 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều.Và tất cả các sản phẩm khi sử dụng lâu dài thì Pin đều sẽ bị chai đi bạn nha, không có dòng máy nào không chai Pin cả bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.882715,
+      "id": "28814775",
+      "field_search": "question",
+      "question": "Em dùng iPhone 6  em sạc pin từ 20 đến 80 phần trăm pin lên bình thường từ 90 thì pin lên rất chậm pin em chỉ bị chai 9 phần trăm thôi máy em mua của Shop đấy máy bị tn vậy",
+      "answer": "Chào bạn,Bạn vui lòng cho mình xin thông tin tổng thời gian sạc của máy là bao lâu để mình kiểm tra hỗ trợ bạn nhé. Mong nhận được thông tin từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.766253,
+      "id": "28775642",
+      "field_search": "question",
+      "question": "Em mới mua máy ngày 25 nhưng sài hay bị lag cho em hỏi lỗi máy hay do cập nhật lên cao sẽ bị vậy ạ ?",
+      "answer": "Chào bạn, Sản phẩm  này khi cập nhật lên bản cập nhật mới thì sử dụng tốt và ổn không có bị trạng trên ạ, bạn giúp mình tắt nguồn khởi động lại máy và trong quá trình sử dụng bạn thường xuyên tắt các ứng dụng ngầm và thử lại xem còn tình trạng này không bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.396515,
+      "id": "21658282",
+      "field_search": "question",
+      "question": "Xin hỏi là mình mới mua sạc dự phòng hãng Esaver ở tgdđ, lúc sạc máy rất nóng. Tại sao vậy ? Sạc bằng củ sạc máy ko nóng.",
+      "answer": "Chào bạn,Bạn vui lòng cung cấp thêm thông tin cho mình là bạn sử dụng sạc nào của Esaver vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé . Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.360598,
+      "id": "28376682",
+      "field_search": "question",
+      "question": "Cho em hỏi ip6 của em sao pin còn 40% là sập nguồn nhưng khi kiểm tra độ chai pin thì pin còn tận 99%! Nhưng vậy là do đâu khiến máy sập nguồn và cách khắc phục ntn ạ?",
+      "answer": "Chào bạn Trường hợp này do máy bị tình trạng Pin ảo bạn nhé . Nếu bạn sử dụng máy đã lâu thì bạn cần thay Pin mới bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.353434,
+      "id": "29286890",
+      "field_search": "question",
+      "question": "Shop cho e hỏi:e vừa thay màn hình iphone 6 xong giờ bị nóng máy,nhanh hết pin là bị sao vậy shop?",
+      "answer": "Chào bạn,Đây có thể là do máy bạn bị xung đột ứng dụng, nhiều ứng dụng chạy ngầm, mở nhiều kết nối mạng,..bạn vui lòng thực hiện các bước sau xem có giúp cải thiện hơn không bạn nhé: Tắt các ứng dụng chạy ngầm > Giảm độ sáng màn hình phù hợp > Tắt các kết nối không cần thiết VD: Bluetooth, GPS, Đồng bộ... > Tắt nguồn và khởi động lại máy > Bật tiết kiệm Pin bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.276543,
+      "id": "19296435",
+      "field_search": "question",
+      "question": "Quản trị viên cho em hỏi. Em mới mua đt Iphone6, em sử dụng còn 19% em sạc pin. Em sạc gần 5 tiếng mà nó lên được có 52%. Vậy là do lỗi pin hay là do đt em mới mua nên sạc không tốt ngay vậy ạ.",
+      "answer": "Chào bạn,Tình trạng này bạn khởi động lại điện thoại và cắm sạc bằng 1 củ sạc chính hãng đi kèm theo máy sang 1 ổ cắm điện khác xem có sạc nhanh hơn không bạn nhé. Lưu ý là khi sạc bạn không nên dùng điện thoại để máy sạc nhanh hơn nhé bạn . Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.220919,
+      "id": "24858887",
+      "field_search": "question",
+      "question": "Cho e hỏi máy mới , e dùng wifi máy hoạt động khoảng 10p là rất nóng ở phần đầu máy và hay đứng máy là sao ak ? Làm sao để khắc phục !",
+      "answer": "Chào bạn.Dạ trường hợp này thì bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > đặt lại tất cả cài đặt sau đó chờ cho máy khởi động lại hệ thống kiểm tra xem có cải thiện được hay không bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.21758,
+      "id": "28218145",
+      "field_search": "question",
+      "question": "Admin ơi em vừa mua con ip6 này ở chỗ mình . Cũng gần đc 1 tháng , tại sao pin máy em lại mau hết pin thế ạ ? Em dùng wifi lướt fb tầm tí là còn 80% tình trạng máy ban đầu đc sạc 100% pin và có thao tác sạc 3 lần 8 tiếng rồi ạ . Có phải lỗi pin k ạ ?",
+      "answer": "Chào bạn, Bạn có thể kiểm tra xem PIN điện thoại mình có bình thường không theo hướng dẫn tại  bạn nhé. Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 21.042665,
+      "id": "26667284",
+      "field_search": "question",
+      "question": "Ad ui cho e hỏi cái, làm thế nào để trở về ios 10 z, e đành xài cái 5s lở lên ios 11.3 jo máy nóng và mau hết pin",
+      "answer": "Chào bạn,Rất tiếc iPhone 5s khi đã cập nhật IOS 11.3 thì không thể qua về IOS 10 được bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.949717,
+      "id": "21248472",
+      "field_search": "question",
+      "question": "Cho mình hỏi , máy mình zenphone c mua ở bên bạn, tự dưng qua nay nó sạc pin rất chậm, mãi mới lên 1%, thử tắt wifi đi rồi mà cũng vẫn sạc chậm, mình thấy pin ko bị phồng gì cả, vậy là do cục sạc hay do gì ạ",
+      "answer": "Chào bạn, Tình trạng này bạn khởi động lại điện thoại và cắm sạc bằng 1 củ sạc chính hãng đi kèm theo máy sang 1 ổ cắm điện khác xem có sạc nhanh hơn không bạn nhé. Lưu ý là khi sạc bạn không nên dùng điện thoại để máy sạc nhanh hơn nhé bạn . Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.902132,
+      "id": "18739955",
+      "field_search": "question",
+      "question": "cho em hỏi. em đang sài con ip6 mà em thấy trên mạng có ghi là tắt máy bỏ vào 1 bì nilon, xog bỏ dưới ngăn rau củ quả khoảng 20p sẽ giúp máy hoạt động tốt hơn và tiết kiệm pin đỡ nóng máy. vậy cho em hỏi như vậy là có đúng hay không. có nên làm theo không vậy anh",
+      "answer": "Chào bạn, Bạn không nên thao tác theo cách này vì chưa có bằng chứng khoa học nào chứng minh cách trên hiệu quả cả mà có khi còn khiến điện thoại lỗi nhé bạn .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.872404,
+      "id": "27675942",
+      "field_search": "question",
+      "question": "anh ơi , iphone6 bên mình có mau hết pin k ạ do em hay mở 3G mỗi khi ra ngoài . pin mình có cầm đc lâu k ạ",
+      "answer": "Chào bạn,Pin của máy sử dụng liên tục được khoảng 4h hơn, nếu bạn mở 3G và không dùng máy liên tục thì được khoảng gần 1 ngày bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.816648,
+      "id": "19421076",
+      "field_search": "question",
+      "question": "Ad kien tra giup e voi ip 6 e vừa lên ios 10.3.2 là pin xuong den 45% là tự sập nguồn bật khong lên nữa phải căm sac vào mới lên và lên dc vấn có 45% và rut đi lại bị sập vậy là do pin hay do ios ạ? E phải làm sao de no dùng tot ạ?",
+      "answer": "Chào bạn, Trường hợp này có thể do điện thoại của bạn gặp phải tình trạng pin ảo nên bạn vui lòng gỡ bỏ hết các ứng dụng tiết kiệm pin mà bạn đã cài đặt sau đó tắt nguồn điện thoại khởi động lại là được bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.808771,
+      "id": "31763929",
+      "field_search": "question",
+      "question": "iphone 6 cua e đang sài mất nguồn mở ko lên, khi sạc lạy nóng máy mà máy hết bảo hành rồi.... vậy sửa tại cửa hàng khoảng bao nhiêu vậy ad",
+      "answer": "@Cường: tgdd ko sửa đâu bạn",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.787827,
+      "id": "19352126",
+      "field_search": "question",
+      "question": "Ad oi .e có Sài iPhone 6 16g . Pin sử dụng là 3h30p pin chờ là 17h . Còn lại 8% pin.như vậy có bị chai pin k ak. Tại e mua máy lại của người ta,,, help",
+      "answer": "Chào bạn Thông số trên chưa thể chắc chắn được máy có chai Pin hay không bạn nhé , bạn cứ thử sạc đầy Pin cho máy , sau đó bạn sử dụng liên tục xem được mấy giờ ạ .Mong nhận được thông tin phản hồi từ bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.749754,
+      "id": "24307760",
+      "field_search": "question",
+      "question": "Có máy nào còn ở ios10.3.3 ko...hay là lên ios11 hết rồi qtv,Có máy nào còn ở ios10.3.3 ko...hay là lên ios11 hết rồi qtv",
+      "answer": "Chào bạn,Trường hợp này thì rất tiếc mình không thể xác định cụ thể được vì còn tùy vào lô hàng và ngày nhập mà IOS có thể tương ứng bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.723976,
+      "id": "23201720",
+      "field_search": "question",
+      "question": "Ad cho em hỏi máy em moi su dụng nhung rất hao pin mặc dù kg có ứng dụng chạy ngầm... hay để yên máy kg sử dụng vẫn pị rút pin là sao ạ?",
+      "answer": "Chào bạn.Trường hợp này bạn giúp mình vào cài đặt > cài đặt chung > đặt lại > chọn dòng đầu tiên \"đặt lại tất cả cài đặt\" sau đó bạn kiểm tra lại giúp mình xem sao nhé.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.36497,
+      "id": "26285753",
+      "field_search": "question",
+      "question": "Ad cho e hỏi khi e sạc điện thoại thì máy có hiện tượng nóng với sau vỏ máy thì giống như điện bị nhiễu là do máy hay là do dây sạc vậy ad đt e ip6",
+      "answer": "Chào bạn, Khi bạn sạc Pin thì dòng điện sẽ đi qua máy làm sản sinh ra nhiệt lượng , khiến máy và củ sạc nóng lên là bình thường nên bạn có thể an tâm bạn nhé Ngoài ra, Bạn vui lòng cung cấp thêm thông tin cho mình là bạn có sử dụng bộ cáp sạc chính hãng kèm theo máy không để mình có thể hỗ trợ cho bạn tốt hơn nhé! Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.36265,
+      "id": "26143583",
+      "field_search": "question",
+      "question": "iphone 6 sạt có nóng không vậy sao máy em sạt mà không sài tắt hết wifi 3g định vị luôn vẩn nóng",
+      "answer": "Chào bạn,Khi sac pin thì có nhiều nguồn điện đi vào trong máy   nạp điện vào pin nên máy nóng ấm lên là bình thường bạn nhé. Bạn yên tâm sử dụng điện thoại bạn nha.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.34022,
+      "id": "23222355",
+      "field_search": "question",
+      "question": "Máy moi mua tại cua hàng và rất hao pin thì trong vòng 7 ngày có thể đến và đổi máy mới đc kg vậy QTV",
+      "answer": "Chào anh Anh cho em xin thông tin là anh sử dụng sản phẩm được bao lâu mà hết pin vậy ạ? Hiện em thấy sản phẩm iPhone 6 có dung lượng pin chỉ là 1810mAh nên hết pin sẽ nhanh hơn anh nhé.Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.315731,
+      "id": "32006292",
+      "field_search": "question",
+      "question": "Máy của em đang sài tự nhiên màn hình cúp bấm k lên nguồn, em tưởng hết pin mà sạc điện thoại vào cũng k sáng lên",
+      "answer": "Chào chị , Dạ chị cắm sạc cho điện thoại khoảng 30 phút , nếu vẫn không lên chị nhấn giữ nút nguồn 1 lúc xem điện thoại lên không chị nhé. Mong phản hồi từ chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.07578,
+      "id": "19345095",
+      "field_search": "question",
+      "question": "Cho tui hỏi máy này lo có lớn  với lại chụp hình có rõ nét. Và tg pin sài đẻ lên các trang mạng và youtube là nhiu",
+      "answer": "Chào anh, Trường hợp này đối với sản phẩm trên được thiết kế với loa có chất lượng âm thanh lớn và chụp hình có ra hình ảnh khá đẹp và sắc nét đó anh ạ. Sản phẩm này anh có thể sử dụng 3G/wif xem phim, lướt web...liên tục được khoảng 3h tùy vào mức độ sử dụng anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.026846,
+      "id": "18392386",
+      "field_search": "question",
+      "question": "Cho e hỏi máy ip6 tại sao dùng máy nóng vậy và e sử dụng thấy pin của máy ip6 k đc như những dòng sp khác",
+      "answer": "Chào bạn, Khi bạn sử dụng máy liên tục, chơi game đặc biệt là mở kết nối mạng 3G thì hiện tượng máy mau nóng và mau hết pin là bình thường và tất cả các dòng SmartPhone đều bị như thế chứ không riêng gì sản phẩm trên nên bạn cứ yên tâm sử dụng bạn nhé. Còn về pin thì có thể do bạn đã mở quá nhiều ứng dụng và các kết nối mạng nên bạn vui lòng tắt hết các kết nối mạng khi không sử dụng và các ứng dụng chạy ngầm đi hoặc giảm độ sáng màn hình để tiết kiệm bạn nhé.  Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 20.006308,
+      "id": "18369322",
+      "field_search": "question",
+      "question": "qtv cho hoi. nếu máy xem youtobe thì trog tg bao lâu là hết pin vậy",
+      "answer": "Chào bạn, iPhone 6 nếu như bạn xem Youtube bằng mạng 3G thì khoảng 4-5h là hết pin bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.92199,
+      "id": "29425429",
+      "field_search": "question",
+      "question": "Cho mình hỏi máy mình khi sạc pin rất lâu tầm 3.5-4 tiếng mới đầy pin nhưng sau khi tắt nguồn bật lại máy lên và sạc thì lại chỉ có 2 tiếng là đầy pin cho mình hỏi máy mình bị lỗi j ạ",
+      "answer": "Chào bạn, Có thể máy bạn có xung đột ứng dụng khiến máy sạc lâu đầy , bạn khởi động lại điện thoại là khắc phục được rồi bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.916101,
+      "id": "30136950",
+      "field_search": "question",
+      "question": "Em mới mua iphone6 32g xong, nhiều lúc sạc pin thì sờ máy cảm thấy rất mát nhưng thỉnh thoảng sạc máy thì sờ lại nóng bỏng tay! Vậy hiện tượng là bình thường hay như thế nào ạ? Xin cho em chỉ dẫn hoặc lời khuyên khi sạc máy",
+      "answer": "Chào anh ,anh sạc mà điện thoại và sạc nóng lên là bình thường do đây là quá trình chuyển đổi dòng điện phức tạp, tuy nhiên nhiệt độ này không quá nóng và nằm trong giới hạn cho phép của nhà sản xuất thì không vấn đề gì anh nhé.  Xin thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.912601,
+      "id": "21229569",
+      "field_search": "question",
+      "question": "Chào anh, em rất thích sử dụng iphone 6 vì + Mượt, ổ định. +Chiến game tốt. Nhưng em nghe nhiều người phàn nàn về máy khi  chơi game 1 tí thì máy nóng, sạc pin dễ gây cháy nỗ. Em hoang moang quá. Vậy máy tốt hk ạ. Hay chỉ là lời đồn.",
+      "answer": "Chào bạn Trường hợp trên đó chỉ là các thông tin đồn thôi bạn nhé , máy khi chơi Game không quá nóng , sạc Pin vẫn an toàn nên bạn có thể an tâm sử dụng máy ạ .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.857368,
+      "id": "22505720",
+      "field_search": "question",
+      "question": "Anh cho em hỏi xíu ạ. Thời gian sạc của ip6 là bao lâu ạ. Máy em vừa mua dc 2 ngày nhưng có hiện tượng pin ảo. Là do sạc hay máy ạ",
+      "answer": "Chào bạn Trường hợp này bạn sạc đầy Pin khoảng 2.5h - 3h bạn nhé .Ngoài ra do máy mới nên Pin chưa ổn định , bạn sử dụng và sạc Pin cho máy thêm khoảng 1 vài hôm nữa là Pin sẽ bền hơn và không còn tình trạng Pin ảo đó nữa bạn nha . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.843815,
+      "id": "26548759",
+      "field_search": "question",
+      "question": "Mình bị pin ảo là do mình hay nhà sản xuất",
+      "answer": "Chào bạn,Pin ảo sẽ xảy ra khi Pin của máy bị giảm tuổi thọ trong thời gian sử dụng của bạn nha. Tất cả các máy khi giảm tuổi thọ Pin đều gặp tình trạng trên nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.715408,
+      "id": "19862031",
+      "field_search": "question",
+      "question": "Pin của sp là pin lipo hay lion vậy. Chỗ khác ghi là lion",
+      "answer": "Chào anh, Hiện tại thì em kiểm tra và sản phẩm này có pin thuộc pin chuẩn Li-Po anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.669434,
+      "id": "25912653",
+      "field_search": "question",
+      "question": "Nhiều người bảo sài pin được 1 ngày mà thấy sài đc có nửa ngày là hết",
+      "answer": "Chào anh,Với nhu cầu nghe gọi thông thường thì máy hỗ trợ được 1 ngày ạ, còn nếu anh có chơi game, có vào mạng hay xem youtube thường xuyên thì tầm nửa ngày là máy hết pin rồi và đây là hiện tượng bình thường trên sản phẩm nên anh yên tâm sử dụng máy nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.551764,
+      "id": "28480778",
+      "field_search": "question",
+      "question": "Anh cho em hỏi tại sao máy iPhone 5 của em sao pin 100% rút ra dùng cở 3 phút là tự động tắt nguồn và báo pin yếu cắm vào lại là sao ạ",
+      "answer": "Chào bạn, Theo thông tin bạn cung cấp có thể do máy bị chai pin, bạn vui lòng dành ít thời gian đến siêu thị Thegioididong.com gần nhất để các bạn bên mình chuyển trung tâm bảo hành sửa tính phí giúp bạn (nếu máy này bạn mua ở hệ thống Thegioididong.com) hoặc bạn liên hệ trực tiếp trung tâm bảo hành hãng để được kiểm tra và khắc phục trực tiếp bạn nhé.  Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.51925,
+      "id": "27470195",
+      "field_search": "question",
+      "question": "cho tôi hỏi bao nhêu mAh trở lên thì pin không mau hết",
+      "answer": "Chào bạn,Rất tiếc hiện tại chưa có thông tin pin dung lượng bao nhiêu mAh không mau hết và mau hết pin hay không tùy thuộc vào hoạt động, sử dụng của bạn trên máy, không tùy thuộc vào dung lượng pin như bạn đề cập bạn nha. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.515814,
+      "id": "29780614",
+      "field_search": "question",
+      "question": "Mình mới mua iPhone 6 32gb được 10 ngày. Mình đùng để lên Facebook thì thấy cứ 2p là hết 1% pin. Như vậy là pin có nhanh hết quá không",
+      "answer": "Chào bạn,Bạn sử dụng pin thử xem mất bao lâu thì máy hết pin bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.502642,
+      "id": "31095804",
+      "field_search": "question",
+      "question": "Cho mình hỏi qtv. Lúc ios 11 thì sạc pin bình thường. Giờ mình nâng cấp ios 12.0.1 thì sạc máy rất nóng. Nóng hơn mình chơi game và đang sử dụng 4G nữa. Chỉ lúc sạc là máy nóng thôi khi máy đầy 100% thì dần dần mát trở lại. Nếu sạc nóng máy như vậy có ảnh hưởng máy sau này ko qtv. Cảm ơn",
+      "answer": "Chào anh,Nếu máy anh nóng lên quá nhiều trong quá trình sử dụng thì anh có thể tham khảo  để máy đỡ nóng hơn nhé. Và nếu máy nóng quá nhiều thời gian  dài thì cũng không tốt cho máy anh nha.Chia sẻ cùng anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.497183,
+      "id": "22036812",
+      "field_search": "question",
+      "question": "Nên mua 6s hay 6+ vậy, đang sử dụng 6s thấy mau hết pin quá",
+      "answer": "Chào anh,Dạ trường hợp này anh có thể lựa chọn iPhone 6 Plus với lượng pin lớn hơn (",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.488314,
+      "id": "26692467",
+      "field_search": "question",
+      "question": "Mình mới mua máy tại tgdd mã máy là vn/s bắt sóng rất yếu hơn các iphone cùng dòng, ad cho e hỏi là lý do tại sao khoobg ạ, nếu do máy thì em có quyền đổi qua máy do nhà phát hành khác ngoài trừ nhật được không ạ!",
+      "answer": "Chào bạn,Bên mình chỉ kinh doanh máy VN/A phân phối cho thị trường Việt Nam thôi bạn nhé .Các mã khác là điện thoại xách tay bên mình không bán ạ .Bạn thử tắt máy và gắn SIM khác vào máy xem có bắt sóng tốt hơn không .Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.460638,
+      "id": "31094453",
+      "field_search": "question",
+      "question": "mới mua iphon6 ở tgdd , nâg cấp lên ios 12 và vào kiểm tra tình trạng pin báo có 93% ko biết là do nâng cấp lên hay là do pin bị chai hỏi nhân viên kĩ thuật thì bảo ko sao vẫn dùng bt nản quá",
+      "answer": "Chào anh,Dạ anh có thể làm theo cách , để biết pin của máy có vấn đề hay không. Nếu anh kiểm tra xong và nhận định được là pin của máy đã có vấn đề, thì anh có thể mang sản phẩm ghé lại đến Thế Giới Di Động để bên em hỗ trợ cho anh nha.Chia sẻ cùng anh! ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.427174,
+      "id": "20072499",
+      "field_search": "question",
+      "question": "Qtv ơi máy em để vậy là máy quốc tế hay máy Lock vậy Qtv,Qtv ơi máy em để vậy là máy quốc tế hay máy Lock vậy Qtv",
+      "answer": "Chào bạn,Dạ dựa trên thông tin này chưa chắc chắn được máy của bạn là máy lock hay quốc tế đâu ạ; bạn có thể thử cách đơn giản đó là lấy khe sim kiểm tra nhé; thường máy lock sẽ có miếng ghép sim, hoặc bạn lắp trực tiếp sim vào nếu lên sóng gọi đi được sẽ là máy quốc tế bạn nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.426691,
+      "id": "25964952",
+      "field_search": "question",
+      "question": "e mua ip6 hôm qua mà sao chỉ lên fb và nge nhạc thôi là nó nóng máy vậy ạ?",
+      "answer": "Chào bạn,Bạn có thể làm theo  để khắc phục tình trạng này nha.Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.387323,
+      "id": "21149822",
+      "field_search": "question",
+      "question": "Cho e hỏi e đang máy iphone 6 18gb. Hết pin cắm sạc vô vẫn lên pin nhưng lên đến 5% là k lên pin đc nữa. Tư vâns cho e xem may e bị gì",
+      "answer": "Chào bạn, Trường hợp này bạn có thể thử lại với một adapter sạc nào khác xem sao nhé.Mong phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.384884,
+      "id": "20749555",
+      "field_search": "question",
+      "question": "Sao máy sài 3g tốn lắm Em sài 1 gb  máy sam sung lâu lắm mà iphone có síu là hết rồi",
+      "answer": "Chào anh Việt,Có thể do nhiều ứng dụng sử dung 3G đang chạy ngầm , hoặc có thể tùy vào mục đích sử dụng nên tốc độ tiêu thụ 3G sẽ khác nhau đó ạ. Nếu xem phim hay video online trên máy ở độ phân giải cao thì 3G có thể nhanh hết anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.333893,
+      "id": "17907658",
+      "field_search": "question",
+      "question": "sao mình sài lâu lâu giống như máy bị đứng vậy ah. k bấm đc gì hết. bấm tắt màn hình xong mở lên mới được? nếu 1 ngày mà bị 3 4 lần như vậy là do máy có vấn đề hay sao vậy QTV?",
+      "answer": "Chào bạn ! Trường hợp này máy treo bạn ấn giữ 2 phím Nguồn   Home khoảng 15s máy sẽ tự tắt mở lại là được bạn nhé. Không ảnh hưởng gì, nên bạn an tâm sử dụng nha.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.298634,
+      "id": "25183976",
+      "field_search": "question",
+      "question": "Ip6 vs ip6s sạc đầy 100% pin máy nào chơi liên quân lâu hết pin hơn và lâu nhất là đc bao nhiêu giờ",
+      "answer": "Chào bạn,Với hai dòng sản phẩm bạn đề cập thì thời gian sử dụng là tương đồng nhau bạn nha. Và cả 2 có thể sử dụng liên tục khoảng hơn 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1-1.5 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.262646,
+      "id": "31220455",
+      "field_search": "question",
+      "question": "Shop cho e hỏi Vs dung lượng pin 1810mAh...chơi game có đc lâu ko ạ.vì các dòng máy e sài thì dung lượng pin 3000mAh mà chơi game cũng rất mau ht...",
+      "answer": "Chào anh,Dạ với dung lượng pin của máy thì sẽ chơi game không được quá lâu anh nhé. Nếu anh cần máy có pin tốt hơn thì anh có thể tham khảo các dòng máy khác anh nhé.Chia sẻ cùng anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.252453,
+      "id": "24384715",
+      "field_search": "question",
+      "question": "Tại sao máy em lúc mới mua dùng rất dễ nóng máy vậy ạ? HĐH cũng khá chậm, máy cũng bị treo vài giây, phải thoát ứng dụng rồi đợi 2-3s mới hoạt động bình thường. Khá là khó chịu khi máy dễ nóng và hay ngừng. Trong messenger thì đối phương nhắn 3-4 phút sau mới nhận được thông báo.",
+      "answer": "Chào bạn,Trường hợp này có thể do xung đột phần mềm trên máy, bạn vui lòng tắt khởi động lại máy xem có khắc phục được tình trạng trên không bạn nhé. Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.16935,
+      "id": "27279062",
+      "field_search": "question",
+      "question": "Máy này và j7 plus máy nào dùng lâu hết pin hơn",
+      "answer": "Chào bạn,Với hai dòng sản phẩm bạn đề cập thì Samsung Galaxy J7 Plus có thời gian sử dụng Pin nhỉnh hơn đôi chút bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.13212,
+      "id": "25401078",
+      "field_search": "question",
+      "question": "Mình mua sp được gần 2 tháng. Nhưng mà hôm nay lúc đang sạc pin mình kiểm tra thì thấy máy rất là nóng,  củ sac cũng rất nóng, hơn bình thường nhiều. Không biết nó bị cái gì ấy",
+      "answer": "Chào bạn, Bạn có thể dành chút thời gian mang máy và sạc đến siêu thị thegioididong.com gần nhất để các nhân viên kỹ thuật trực tiếp cầm máy và kiểm tra cho bạn nhé . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.061085,
+      "id": "30594327",
+      "field_search": "question",
+      "question": "iphone 6 32GB máy cầm tay rất thoải mái, mượt mà, cảm ứng rất nhạy, ít tình trạng nóng máy, pin thì dùng cả ngày mới sạc, camera rõ nét. Và quan trọng nhất mấy chị nhân viên phục vụ tư vấn rất nhiệt tình và cực kì dễ thương. Nói chung rất là tuyệt vời",
+      "answer": "Chào anh,Cảm ơn anh đã tin tưởng và mua hàng bên em ạ !!Chúc anh ngày mới tốt lành !!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.03422,
+      "id": "30425547",
+      "field_search": "question",
+      "question": "cho mình hỏi gần đây con 5se của mình sạc pin hay bị nóng kinh khủng luôn , máy mình sài ít với lại k nâng cấp gì, lúc sạc pin thì tat hết các ứng dụng sao vẫn bị nóng máy ạ . lâu lâu thì bị ai gọi k nge mà phải bật loa ngoài rồi tắt loa ngoài đi thì mới nghe được, vậy là sao ạ",
+      "answer": "Chào chị ,Trường hợp này chị vui lòng tham khảo bài viết \"\" và làm theo hướng dẫn xem có khắc phục được không chị nhé. Xin thông tin đến chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 19.020689,
+      "id": "27770458",
+      "field_search": "question",
+      "question": "cho hỏi máy ip6 32gb dung lượng pin là 1810mAh hay 1751mAh  tại sao khi mình test độ chai pin thì dung tích có 1751mah",
+      "answer": "Chào bạn,Máy có dung lượng pin 1810mAh.Nếu có thể bạn vui lòng chụp ảnh màn hình có thông tin kết quả kiểm tra bạn đề cập đến để mình kiểm tra và hỗ trợ bạn chính xác hơn nha.Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.945032,
+      "id": "26134543",
+      "field_search": "question",
+      "question": "Ip6 cho đến hiện tại bây h thì nó vẫn còn tốt kh pin có bị chay kh.. Hiệu năg có giảm hay là kh và có nên mua",
+      "answer": "Chào bạn,iPhone 6 hiện tại vẫn còn tốt. Đây là máy mới nên bạn yên tâm pin không chai. Và cũng vì máy mới nên hiệu năng không giảm, sản phẩm này vẫn còn khá đáng mua nếu bạn là 1 fan của Apple nhé.Xin thông tin đến bạn! ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.892866,
+      "id": "17851589",
+      "field_search": "question",
+      "question": "Máy sạc khoảng bao nhiêu là đầy pin vậy qtv?",
+      "answer": "Chào anh Phương,Dạ với dung lượng pin của máy thì khoảng 2h là đây pin anh nha.Thân ái đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.886322,
+      "id": "22542086",
+      "field_search": "question",
+      "question": "QTV- I6 em mới mua mà để không pin cũng tự xuống. Vậy là bình thường hay là pin có vấn đề",
+      "answer": "Chào bạn,Trường hợp này mặc dù bạn không sử dụng, nhưng máy vẫn cần Pin để duy trì kết nối mạng di động, hệ thống phần mềm và ứng dụng trên máy, nên vẫn sẽ tiêu tốn Pin và hiện tượng này là hoàn toàn bình thường bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.746881,
+      "id": "30178251",
+      "field_search": "question",
+      "question": "Máy này chơi game bao lâu thì hết pin vậy?",
+      "answer": "Chào anh ,Dạ điện thoại này có thời gian chơi game khoảng 3 giờ, nhưng còn tùy thuộc vào cấu hình game, kết nối mạng và nhiều yếu tố khác nên thời gian có thể chênh lệch ạ.Xin thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.734303,
+      "id": "20072541",
+      "field_search": "question",
+      "question": "Máy em để vậy là mãy quốc tế hay Lock vậy Qtv,Máy em để vậy là mãy quốc tế hay Lock vậy Qtv",
+      "answer": "Chào bạn Với IMEI thì mình không thể xác định xem điện thoại đó là bản quốc tế hay Lock bạn nhé .Có 1 cách đơn giản để kiểm tra xem máy là Lock hay quốc tế thì bạn có thể gắn 1 SIM bất kỳ còn hoạt động vào điện thoại của mình nếu :- Điện thoại SIM nào cũng nhận thì đây là điện thoại bản quốc tế .- Còn điện thoại không nhận SIM hay cần SIM ghép mới nhận thì đây là điện thoại bản Lock bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.685194,
+      "id": "29321866",
+      "field_search": "question",
+      "question": "Máy gọi hay nghe thấy rè là do so nhỉ",
+      "answer": "Chào bạn,Trường hợp này có thể do xung đột phần mềm trên máy, bạn vui lòng tắt khởi động lại máy xem có khắc phục được tình trạng trên không bạn nhé. Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.638859,
+      "id": "25181319",
+      "field_search": "question",
+      "question": "Máy sạc khoảng máy tiếng là đầy pin ?",
+      "answer": "Chào bạn,Máy sạc khoảng 1,5-2 tiếng là đầy bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.599646,
+      "id": "29647295",
+      "field_search": "question",
+      "question": "Iphone 5s nếu em gửi Lên hãng thay pin. Thì mất khoảng nhiêu ngày. Và hãng có cho mượn máy xài đõ không. Và thay pin vậy có tổn thay đến máy không",
+      "answer": "Chào anh, Trường hợp này thì hiện tại nếu anh gửi hãng thì tầm từ 7-10 ngày nha anh, trường hợp mượn máy thì nếu sản phẩm của anh được mua tại Thegioididong.com và gửi ở bên em thì bên em sẽ hỗ trợ cho anh mượn máy sử dụng tạm trong quá trình chuyển hãng ạ. Trường hợp này thì thay pin thì hãng sẽ không làm tổn hại gì cho máy nên anh yên tâm nhé.Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.45992,
+      "id": "31278018",
+      "field_search": "question",
+      "question": "Em mới mua máy về và mức độ sử dụng bình thường mà em thấy pin máy nhanh hết ạ",
+      "answer": "đây là mức độ sử dụng của em ạ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.445795,
+      "id": "30917286",
+      "field_search": "question",
+      "question": "máy e bh nó hay nóng máy ko bt là lỗi ở đâu ạ",
+      "answer": "Chào anh Trường hợp này anh vui lòng thao tác tương tự theo hướng dẫn  để cải thiện tình trạng trên nha .   Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.414612,
+      "id": "24428772",
+      "field_search": "question",
+      "question": "pin 1810 mah chơi liên tục thì tầm mấy tiếng hết pin là phải sạc thì khoảng mấy tiếng là đầy pin, máy có hỗ trợ sạc nhanh không qtv ?",
+      "answer": "Chào bạn,Với điện thoại này thì nếu bạn chơi liên tục máy có thể chơi được khoảng 3 giờ tùy ứng dụng khác nhau, bạn sạc khoảng 2-2.5 giờ để sạc đầy pin. Và máy này không có hỗ trợ sạc nhanh nha.Xin thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.409954,
+      "id": "28814749",
+      "field_search": "question",
+      "question": "Shop cho em hỏi em dùng iPhone 6 sạc pin thì từ 20 đến 80 phần trăm lên bình thường còn từ 90 thì pin lên rất lâu là tn mà pin chỉ bị chai 9 phần trăm",
+      "answer": "Chào bạn, Trường hợp này bạn giúp mình gỡ cài đặt các ứng dụng như tiết kiệm pin tắt tốc diệt vi rút ra khỏi máy sau đó khởi động lại máy và sạc lại xem còn tình trạng này không bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.324604,
+      "id": "18455415",
+      "field_search": "question",
+      "question": "Cho minh hoi la sạt pin mà mau vô là tốt hay xấu a",
+      "answer": "Chào bạn,Dạ trường hợp sạc pin nhanh là bình thường ạ, nhưng để chắc chắn hơn khi sạc pin đầy xong bạn thử dùng máy xem pin dùng có được lâu không nhé, do vẫn có khả năng máy hiển thị phần trăm pin ảo đó ạ.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.246342,
+      "id": "21890355",
+      "field_search": "question",
+      "question": "Máy mih mới cug hơn tuan roi, sao sài mau het pin wa. Mih co the đổi lại máy khac dc k",
+      "answer": "Chào bạn,Trường hợp n bạn có thể nói rõ hơn là thời lượng pin của bạn dùng như thế nào. Ví dụ như bạn dùng được 1 tiếng thì máy mất bao nhiêu phần trăm pin vậy ạ. Bạn nói rõ hơn để mình hỗ trợ được chính xác bạn nhé.Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.234802,
+      "id": "25053643",
+      "field_search": "question",
+      "question": "Sao máy chậm vậy ạ với lại nhanh hết pin quá",
+      "answer": "Chào bạn,Dạ máy chậm khi bạn dùng các tác vụ gì và máy dùng liên tục được bao nhiêu tiếng thì hết 100% pin vậy ạ.Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.206991,
+      "id": "27629886",
+      "field_search": "question",
+      "question": "Em chưa rõ Active có nghĩa là: Chỉ bật nguồn máy lên hay là Cho sim vào khay, rồi bật máy lên mới tính là Active.?",
+      "answer": "Chào bạn, Để active máy bạn cần bật nguồn > cho SIM vào khay để máy active bạn nhé.Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.197475,
+      "id": "26736795",
+      "field_search": "question",
+      "question": "Em mua iphone 6 được hơn 5 tháng và e dùng phần mềm đo độ chai pin nhưng nó vẫn như vậy là bị gì ạ ? Hay là pin ảo ạ ?",
+      "answer": "Chào bạn, Trường hợp này bạn vui lòng test pin theo cách sau: sạc pin điện thoại đầy 100% sau đó bật máy ở chế độ máy bay, tắt các ứng dụng chạy ngầm, bật sáng màn hình liên tục với độ sáng cao nhất trong vòng 1h . Nếu máy hao hụt trên 20% pin thì có thể máy bạn bị lỗi pin bạn vui lòng mang máy đến siêu thị Thegioididong.com gần nhất để được hỗ trợ. Còn nếu máy hao hụt dưới 20% pin thì pin của bạn vẫn sử dụng bình thường bạn nhé. Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.193012,
+      "id": "25659072",
+      "field_search": "question",
+      "question": "Cho hỏi máy em đang sạc pin lại hiển thị như vậy là bị gì ạ",
+      "answer": "@Tuyền: máy hiển thị là “ phụ kiện này có thể không được hổ trợ “",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.102146,
+      "id": "21965110",
+      "field_search": "question",
+      "question": "Add bị như này là sao vậy lúc ấn để nghe lúc lúc thì trượt để nghe vậy là do phần mềm máy hay là do vấn đề j",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 18.068151,
+      "id": "21291493",
+      "field_search": "question",
+      "question": "6 thường và 6s máy nào dùng lâu hết pin hơn",
+      "answer": "Chào anh,Dạ với hai máy thì máy Iphone 6 cho thời gian sử dụng được lâu hơn 1 tí thôi anh nha. Tuy nhiên đây chỉ là thông tin tham khảo, anh vui lòng ra siêu thị Thegioididong.com để trải nghiệm trực tiếp sản phẩm anh nhé Thân ái đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.938826,
+      "id": "20087074",
+      "field_search": "question",
+      "question": "Đt của sạc là báo đang sạc mà k vô pin nếu vô là rất lâu là nó bị sao vậy",
+      "answer": "Chào bạn,Dạ với tình trạng này bạn vui lòng thực hiện các bước sau xem có giúp cải thiện hơn không bạn nhé:Bước 1 : Sử dụng củ sạc chính hãng (theo máy).Bước 2 : Thay đổi vị trí cắm sạcBước 3 : Tắt các ứng dụng chạy ngầmBước 4 : Tắt các kết nối không cần thiết VD: Bluetooth, GPS, Đồng bộ...Bước 5 : Tắt nguồn và khởi động lại máyLưu ý : Bạn không nên sử dụng máy trong lúc sạc, để quá trình sạc được ổn định nhất bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.92112,
+      "id": "22412631",
+      "field_search": "question",
+      "question": "Máy em để 1đêm sáng mất 6%pin k bật mạng tắt hết đa nhiệm là bình thường ha sao pin co vấn đề z qtv",
+      "answer": "Chào bạn,Dạ theo mình thì pin của máy vẫn đang ở mức cho phép ạ; để chắc chắn hơn bạn thử kiểm tra pin theo cách sau nhé:- Sạc đầy Pin 100%- Chỉnh độ sáng màn hình ở mức cao nhất- Tắt Wifi, 3G- Để màn hình sáng liên tục trong vòng 60 phútKết quả: Sau 60 phút Pin còn lại lớn hơn >85%, thì pin của bạn đang rất tốtChia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.908806,
+      "id": "28673087",
+      "field_search": "question",
+      "question": "Ad cho hỏi khi sạc pin lúc đầu ko sao mà đến lúc 80-90% pin tư nhiên lại nóng là sao vậy ạ. Có ảnh hưởng j đến máy ko.",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.889027,
+      "id": "30596956",
+      "field_search": "question",
+      "question": "Mình đã khắc phục tình trạng hết pin rồi mà dùng vẫn nhanh hết pin máy dùng còn hay nóng nữa mình mới mua được hơn 1 tháng giờ muốn đổi thì như thế nào ạ",
+      "answer": "Chào anh, Trường hợp này anh vui lòng mang máy đến siêu thị gần nhất để bên em kiểm tra tình trạng cụ thể và có hướng hỗ trợ cho anh nha!Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.854298,
+      "id": "26595374",
+      "field_search": "question",
+      "question": "Sao ip6 mau hết pin qá v",
+      "answer": "Chào bạn,Trường hợp này thì bạn lưu ý trong quá trình sử dụng nên tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp tránh tình trạng tuột pin nhanh này xảy ra bạn nhé, bạn cần tìm hiểu thêm thông tin nào khác về sản phẩm vui lòng phản hồi tại đây để bên mình có thể hỗ trợ nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.771759,
+      "id": "25540294",
+      "field_search": "question",
+      "question": "Pin xuống nhanh lắm. Không khác gì ip5. Có cách gì để khắc phục không ạ? Cái này là do lỗi hay do pin như thế ạ?",
+      "answer": "Chào bạn.Dạ trường hợp này thì bạn hãy kiểm tra tắt đi các kết nối không cần thiết như Wifi 3G GPRS Bluetooth... trên máy đi và cân chỉnh mức sáng màn hình sử dụng từ 50% trở xuống để máy được sử dụng lâu hơn bạn nhé. Ngoài ra nếu máy có tải các ứng dụng CM Security, Clean Master, các ứng dụng về hỗ trợ PIN bạn đều gỡ hết, vì các ứng dụng này hiện tại vẫn chưa được đánh giá cao và có ảnh hưởng đến tốc độ xử lý của máy và hao pin nha bạn. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.68213,
+      "id": "20551596",
+      "field_search": "question",
+      "question": "Máy nóng là mình k hài lòng rồi mình mua về là Để chơi game là chính thôi lỡ dt nóng lên nổ Cái tươi luôn",
+      "answer": "Chào anh Vâng trường hợp này anh thông cảm khi anh dùng chơi game thì do máy xử lí khá nặng những dữ liệu hay tác vụ nên sẽ khá nóng khi dùng lâu anh nên hạn chế trường hợp này dùng nóng nên cho máy nghĩ để máy nguội hãy dùng tiếp anh nha Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.652885,
+      "id": "20335833",
+      "field_search": "question",
+      "question": "Sao em dùng iphone6 khi tat hết đa nhiem và tắt mạng rồi mà 1h hết 15% pin là sao ạ",
+      "answer": "Chào anh,Trường hợp này không biết có xảy ra thường xuyên không anh, và thời gian sử dụng máy trung bình trụ khoảng bao lâu vậy ạ? để bên em hỗ trợ cho anh nhé,Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.606178,
+      "id": "23547189",
+      "field_search": "question",
+      "question": "Máy này xài đc bao lâu thì hết pin ,Máy này xài đc bao lâu thì hết pin",
+      "answer": "Chào anh Khang,Trường hợp này còn tùy vào nhu cầu sử dụng máy, nếu lướt web, xem video có thể dùng được liên tục 3-4 tiếng. Còn nếu anh dùng chơi game thì nhanh hết pin hơn nhiều anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.580608,
+      "id": "30137427",
+      "field_search": "question",
+      "question": "Iphone 6 có thường mau hết pin không ạ",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 32GB có thể sử dụng liên tục khoảng 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.565075,
+      "id": "19860080",
+      "field_search": "question",
+      "question": "Dung tích và chu Kỳ Pin là ntn vậy ad ?",
+      "answer": "Chào bạn, iPhone 6 có dung lượng pin là 1810 mAh còn chu kỳ pin là được tính từ 1% - 100% pin nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.53712,
+      "id": "26489014",
+      "field_search": "question",
+      "question": "Máy mình vừa thay pin mới , nhưng vẫn bị hiện tượng sụt pin nhanh , vậy là sao ạk .",
+      "answer": "Chào bạn Trường hợp này bạn thử vào : Cài đặt > Cài đặt chung > Đặt lại Tất cả cài đặt xem có khắc phục được tình trạng trên không bạn nhé . Bạn lưu ý ghi nhớ lại tài khoản và mật khẩu iCloud của máy bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.536924,
+      "id": "30259189",
+      "field_search": "question",
+      "question": "Xin hỏi là pin sài có nhanh het không ạ",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 có thể sử dụng liên tục khoảng hơn 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.53461,
+      "id": "25554399",
+      "field_search": "question",
+      "question": "em mới mua iphone 6 kh hiểu vì sao máy tụt pin rất nhanh?",
+      "answer": "Chào bạn,Trường hợp này có thể do là sản phẩm mới nên tình trạng Pin chưa thực sự ổn định, sau vài ngày sử dụng sẽ dần cải thiện được tình trạng trên bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.509249,
+      "id": "20831276",
+      "field_search": "question",
+      "question": "Cho em hỏi là tại sao khi em sạt đt iphone và ipad khoảng 10-15phut thì cụt sạt lại nóng vậy??",
+      "answer": "Chào bạn, Điện thoại và máy tính bảng khi sạc thì máy và củ sạc khi sạc sẽ hơi nóng 1 chút do quá trình chuyền từ điện xoay chiều thành 1 chiều sạc vào máy nhé bạn . Điều này hoàn toàn bình thường bạn chỉ cần sử dụng củ sạc theo máy và không dùng điện thoại khi sạc là yên tâm bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.505943,
+      "id": "27402295",
+      "field_search": "question",
+      "question": "Sao em ms mua ip mà thấy pin nó mau hết zu v",
+      "answer": "Chào bạn,Trường hợp này thì bạn lưu ý trong quá trình sử dụng nên tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp tránh tình trạng tuột pin nhanh này xảy ra bạn nhé, bạn cần tìm hiểu thêm thông tin nào khác về sản phẩm vui lòng phản hồi tại đây để bên mình có thể hỗ trợ nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.46347,
+      "id": "21195172",
+      "field_search": "question",
+      "question": "Ad cho hỏi hôm mình mua máy này, chạy bằng 4g chơi game khoảng 2p hết 1% pin là bt hay nhanh. Ios10.3.1 nhé",
+      "answer": "Chào bạn,Pin như vậy là nhanh rồi bạn nha, bạn lưu ý tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp máy tiết kiệm pin hơn bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.436892,
+      "id": "25658458",
+      "field_search": "question",
+      "question": "Cho hỏi  minh mới mua iphone6 32gb sao vào massager thi thoảng bị văng ra khởi động lại máy là sao nhỉ hay là do ios 11.2.1 lỗi hay là do máy",
+      "answer": "Chào bạn,Có thể do máy xung đột ứng dùng vì bạn dùng lâu mà không tắt ứng dụng ngầm nên xảy ra tình trạng trên bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.432535,
+      "id": "27297934",
+      "field_search": "question",
+      "question": "Máy này nếu như chơi game thì pin sài đc bao nhiêu giờ vậy",
+      "answer": "Chào bạn, Điện thoại iPhone 6 32GB chơi game liên tục được khoảng 4 giờ tùy game và kết nối mạng bạn dùng nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.421392,
+      "id": "29835227",
+      "field_search": "question",
+      "question": "E mới mua máy sao mà dùng lướt wed hay xem phim 1 tẹo là máy nóng là sao ad??",
+      "answer": "Chào anh, Điện thoại này anh dùng liên tục chạy các ứng dụng ,game nặng hay dùng kết nối mạng nhất là 3G, 4G thì CPU hoạt động mạnh , tỏa nhiệt làm cho máy nóng dần lên anh nhé. Điều này hoàn toàn bình thường và anh chỉ cần để cho máy có thời gian nghỉ ngơi là không sao cả nhé anh. Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.399492,
+      "id": "19931324",
+      "field_search": "question",
+      "question": "Qtv cho hỏi sạc pin cho máy khi máy ở mức bao nhiêu % pin là tốt nhất để tránh chai pin",
+      "answer": "Chào bạn,Khi máy báo pin yếu bạn sạc là tốt nhất bạn nha.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.377964,
+      "id": "24944629",
+      "field_search": "question",
+      "question": "Cho mình hỏi dt ip6 minh mua dc 1 tuần sao chay ứng dụng thì máy nóng lên nhiều vậy? Cach khắc phục?",
+      "answer": "Chào bạn,Trường hợp này thì bạn lưu ý trong quá trình sử dụng nên tắt hết ứng dụng ngầm và các kết nối không cần thiết của máy để giúp tránh tình trạng nóng máy này xảy ra bạn nhé, bạn cần tìm hiểu thêm thông tin nào khác về sản phẩm vui lòng phản hồi tại đây để bên mình có thể hỗ trợ nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.354671,
+      "id": "25669871",
+      "field_search": "question",
+      "question": "Cho mình hỏi ! Là con iphone 6 này mình mới mua 4 ngày trước . Mà sao sài mới nửa ngày là sạch pin . Dù chỉ nghe nhạc thôi là tầm 4 5p là hết 1% pin. Nó nhanh hết cực . Làm sao để khắc phục ạ",
+      "answer": "Chào bạn,Trường hợp này có thể do là sản phẩm mới nên tình trạng Pin chưa thực sự ổn định, sau vài ngày sử dụng sẽ dần cải thiện được tình trạng trên bạn nhé. Nếu vẫn không cải thiện, bạn vui lòng dành ít thời gian mang đến siêu thị Thegioididong.com gần nhất để được kiểm tra trực tiếp sản phẩm nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.294222,
+      "id": "27742929",
+      "field_search": "question",
+      "question": "Máy iPhone 6 của em lên ios 11 sao em bật đèn pin k đc vậy ạ",
+      "answer": "Chào bạn,Bạn thử tắt điện thoại khởi động lại giúp mình xem có khắc phục được không bạn nhé. Nếu không được bạn phản hồi tại đây mình sẽ hỗ trợ tiếp cho bạn . Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.281286,
+      "id": "30964515",
+      "field_search": "question",
+      "question": "sao ip 6 lên ios 12 mau hết pin quá ạ , có cách nào khắc phục k add",
+      "answer": "Chào anh ,Dạ cụ thể máy anh dùng trong bao nhiêu tiếng liên tục thì hết 100% pin vậy ạ.Mong nhận được phản hồi từ anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.225172,
+      "id": "30596436",
+      "field_search": "question",
+      "question": "Mình mới mua mà sao Sài nhanh hết pin á",
+      "answer": "Chào anh Trường hợp này vui lòng thao tác tương tự theo hướng dẫn  để cải thiện tình trạng trên nha .   Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.213116,
+      "id": "27668218",
+      "field_search": "question",
+      "question": "Đây là bản ios 11 do nhà sản xuất cho  luôn hay là từ bản ios 10 của máy nâg cấp lên ios11 ạ",
+      "answer": "Chào anh Hiện đây là bản IOS 11 được nhà sản xuất nâng cấp trong đợt sản xuất đó luôn anh nhé. Hiện sản phẩm bên em kinh doanh nguyên seal nên không thể tự động nâng cấp được ạ.Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.209627,
+      "id": "23786115",
+      "field_search": "question",
+      "question": "cho hỏi như ip6 e mới mua mà xài bình thường thì máy không nóng, nhưng sạc pin thì máy bị nóng, lục sắc e có tháo ốp lưng ra với để chế độ máy bay rồi mà máy vẫn bị nóng, trường hợp này là bị s vậy?",
+      "answer": "Chào bạn.Dạ trường hợp này thì bạn thử đổi bộ sạc cáp khác sạc thử xem có cải thiện được hay không bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.17543,
+      "id": "23866523",
+      "field_search": "question",
+      "question": "Tại sao máy sạc lúc lên rất nhanh lúc lên rất chậm lúc lại bị chững lại ạ . Máy mua được hơn 1 năm",
+      "answer": "Chào bạn,Lỗi này có thể do cáp sạc hoặc Adapter sạc của bạn có vấn đề, bạn hãy thử sử dụng một dây sạc và Adapter sạc khác để sạc pin cho máy xem có sạc bình thường chưa nhé. Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.161543,
+      "id": "19801818",
+      "field_search": "question",
+      "question": "sao em chơi game Gangstar New Orleans máy nóng lên và tự thoát ra vậy anh vậy máy có chơi được game Gangstar New Orleans không",
+      "answer": "Chào ban,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.074131,
+      "id": "21893991",
+      "field_search": "question",
+      "question": "Cho em hỏi dt iphone 6 32gb 9tr là máy mới hay là máy đã qua sử dụng vậy",
+      "answer": "Chào anh, Dạ sản phẩm Iphone 6 32GB được kinh doanh với giá 8.990.000₫ là sản phẩm mới đó anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.066317,
+      "id": "32766023",
+      "field_search": "question",
+      "question": "Cho em hỏi iphone 6 thường mà kh sài đt nhưng pin  cg tự tuột là pin bị hư đúng kh ạ",
+      "answer": "Chào chị,Với điện thoại thì dù không sử dụng máy vẫn chạy hệ điều hành, các ứng dụng hệ thống, sóng mạng,... nên vẫn sẽ tiêu hao năng lượng chị nhé. Nên chỉ cần quá trình chị không dùng thấy máy không có hao pin nhiều thì chị có thể an tâm nha.Chia sẻ cùng chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.030968,
+      "id": "27553809",
+      "field_search": "question",
+      "question": "Ko sài thì pin có hết ko và có chế độ bảo vệ mắt ko",
+      "answer": "Chào bạnTrường hợp này khi bạn không sử dụng thì pin trong máy vẫn có hao hụt để duy trì hoạt động hệ thống máy, và máy có chế độ bảo vệ mắt nha bạn.Chia sẽ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 17.026741,
+      "id": "27683292",
+      "field_search": "question",
+      "question": "Ad cho hỏi.  Mk sài 5s qt 16g Đang chạy ios 10.3.3 Chơi game rules of survival hay bị out ra ngoài, khi máy nóng xíu là có hiện tượng giật lak. Vậy mk có nên nâng ios lên 11. Hay k.",
+      "answer": "Chào bạn, Điện thoại này bạn không nên nâng lên iOS 11  do sẽ giật lag hơn bạn nhé. Bạn gỡ game ra cài đặt lại , xóa các ứng dụng không cần thiết , xóa bớt các dữ liệu không dùng xem khắc phục được không nhé. Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.906652,
+      "id": "23732578",
+      "field_search": "question",
+      "question": "Máy em vào nước. Đem ra tiệm sấy, xong bật nguồn lên thù chỉ hiện cục pin yếu rồi tắt, thử pin mới hay màn hình mới cũng y như vậy. Vậy cho em hỏi máy bị hư main phải ko. Và nếu thay main thì tgdđ thay bao nhiêu",
+      "answer": "Chào bạn, Có thể máy bạn hỏng Main rồi .Bên mình rất tiếc không hỗ trợ thay phần cứng cho điện thoại nên mình không báo giá cho bạn được bạn nhé . Bạn có thể mang máy đến trung tâm bảo hành của hãng để được hỗ trợ báo giá và thay thế nhé bạn .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.87846,
+      "id": "26848157",
+      "field_search": "question",
+      "question": "Cho hỏi máy sài pin chơi game khoản máy tiếng hết ạ.. Vs lại mua trả góp có được tặng PMH ko ạ",
+      "answer": "@Chung Tú: e 21 tuổi muốn mua góp đưa trước 40% góp 12 tháng Có CMT vs hộ khẩu góc",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.877846,
+      "id": "20077434",
+      "field_search": "question",
+      "question": "Điện thoại e nghe nhạc 10 phút tụt 4% pin là hao nhiều hay ít..chứ máy thấy pin xuống nhanh quá",
+      "answer": "Chào bạn, Trường hợp này bạn vui lòng test pin theo cách sau: sạc pin điện thoại đầy 100% sau đó bật máy ở chế độ máy bay, tắt các ứng dụng chạy ngầm, bật sáng màn hình liên tục với độ sáng cao nhất trong vòng 1h . Nếu máy hao hụt trên 20% pin thì có thể máy bạn bị lỗi pin bạn vui lòng mang máy đến siêu thị Thegioididong.com gần nhất để được hỗ trợ. Còn nếu máy hao hụt dưới 20% pin thì pin của bạn vẫn sử dụng bình thường bạn nhé. Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.82342,
+      "id": "19709513",
+      "field_search": "question",
+      "question": "sao điện thoại của em hết pin nhanh vậy,",
+      "answer": "Chào anh Hiện sản phẩm dung lượng pin chỉ có 1810mAh nên hết pin khá là nhanh anh nhé. Hiện anh có thể cho em biết là pin anh hết như thế nào để em hỗ trợ cho anh được không ạ? Mong nhận phản hồi từ anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.813828,
+      "id": "21110189",
+      "field_search": "question",
+      "question": "Em mới mua máy được hơn hai tháng máy bị lỗi không nhận sim không cập nhật phần mềm và tự tuột pin hôm qua em có đem máy xuống tgdd và được yêu cầu gửi hãng bảo hành vậy cho em hỏi nếu như lỗi là do nhà sản xuất thì em có được đổi máy mới không ạ",
+      "answer": "Chào bạn, Tình trạng này bạn có thể dành chút thời gian mang máy đến siêu thị thegioididong.com gần nhất để các nhân viên kỹ thuật trực tiếp cầm máy và kiểm tra cho bạn nhé . Từ đó bên mình sẽ có hướng xử lý giúp bạn .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.812475,
+      "id": "32081082",
+      "field_search": "question",
+      "question": "Sao em mới mua máy mà sài cỡ 10 phút nó bị nóng máy v ad",
+      "answer": "Chào chị Nếu chị sử dụng kết nối 3G và các tác vụ nặng thì máy sẽ rất nhanh nóng chị nha .Thông tin đến chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.7745,
+      "id": "19980854",
+      "field_search": "question",
+      "question": "e mới mua hôm qua tại tgdd nguyễn trãi q5 sài quá tốt mượt lắm các a ạ. cho e hỏi e sạc củ sạc nóng quá có sau k ạ. rồi thời gian sạc pin là bao lâu. pin còn bao nhiu % là nên sạc",
+      "answer": "Chào bạn, Khi bạn sạc Pin thì dòng điện sẽ đi qua máy làm sản sinh ra nhiệt lượng , khiến máy và củ sạc nóng lên là bình thường nên bạn có thể an tâm nha bạn Máy có thời gian sạc khoảng 1,5 - 2 giờ, bạn Không nên sạc pin khi máy còn nhiều pin, cũng không được để máy sập nguồn mới sạc, nên sạc pin khi máy báo cần sạc pin, thông thường dưới 15% máy sẽ báo bạn nhé!Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.771294,
+      "id": "30372043",
+      "field_search": "question",
+      "question": "Chào ad ạh.. E có ip6 hay sập nguồn khi pin dưới 50% k biết là máy e bị lỗi gì ạh??  Nhiều lúc pin ảo 100%, đánh game tầm 30p đến 1h thì sập nguồn luôn bật k lên nữa..xong cắm xạc thì lên vẫn thấy pin trên 20%.. Ad giúp e xem là đt hay pin e lm sao ạh??",
+      "answer": "Chào anh,Có thể máy này bị chai pin rồi anh nha, anh mang máy twói hãng để được hỗ trợ thay pin anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.756775,
+      "id": "20588797",
+      "field_search": "question",
+      "question": "Cho e hỏi tại sao máy e bật âm thanh khi có thông báo instagram, facebook nhưng sao ko nghe tiếng ạ?  Là do máy hay do ứng dụng ạ??",
+      "answer": "Chào bạn,Dạ trường hợp của mình bạn có thể thử thao tác bấm giữ phím nguồn  home trong khoảng 10s chờ xuất hiện hình quả táo cho máy khởi động lại thử xem có khắc phục được không nhé.Mong phản hồi từ bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.741,
+      "id": "21541475",
+      "field_search": "question",
+      "question": "So với thời gian dùng liên tục thì máy ip 6 với ip6 plus cái nào pin lâu hết hơn và khoảng thời gian của 2 máy là bao lâu",
+      "answer": "Chào bạn, Điện thoại iPhone 6 Plus dùng liên tục được lâu hơn , điện thoại iPhone 6 vào khoảng 5 tiếng onscreen và iPhone 6 Plus là khoảng hơn 6 giờ bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.732403,
+      "id": "28002214",
+      "field_search": "question",
+      "question": "Cho em hỏi sao nhanh hết pin quá vậy",
+      "answer": "Chào bạn Khi bạn sạc đầy Pin cho máy thì bạn dùng liên tục được khoảng bao lâu vậy bạn ạ ?  Mong nhận được thông tin phản hồi từ bạn để mình tư vấn chính xác nhất cho bạn nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.710928,
+      "id": "27779234",
+      "field_search": "question",
+      "question": "vậy cuối cùng là pin ip6 32gb la 1751 hay 1810 adm",
+      "answer": "Chào anh,Dạ, sản phẩm iphone 6 bản 32Gb bên em có dung lượng pin là 1810 mAh anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.703106,
+      "id": "28224917",
+      "field_search": "question",
+      "question": "Cho mình hỏi máy của e gái mình mới mua chưa được 1 tháng mà tình trạng máy nóng tuột pin nhanh là sao ạ máy k bật 3g",
+      "answer": "Chào bạn,Trường hợp này máy nóng cũng có thể là nguyên nhân nhanh hao pin bạn vui lòng tham khảo bài viết \"\" và làm theo hướng dẫn xem có khắc phục được không bạn nhé. Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.68635,
+      "id": "17975412",
+      "field_search": "question",
+      "question": "Sao máy của em sạc pin hk zô vậy",
+      "answer": "Chào bạnNếu bạn sạc pin mà máy không vào bạn có thể làm theo các thao tác sau dùm mình để khắc phục lỗi này:- Bạn hãy kiểm tra lại nguồn điện bạn sạc có ổn định không.- Củ sạc bạn sạc có phải là củ sạc gốc và khi sạc bạn hãy kiểm tra lại củ ạc đã khít với ổ điện chưa.- Khi sạc bạn hãy tắt hết các ứng dụng chạy ngầm trong máy đi.Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.659285,
+      "id": "28876329",
+      "field_search": "question",
+      "question": "Em mới mua ip6 nhưng khi chơi game được một lúc thì máy nóng lên, cho em hỏi tại sao ạ?",
+      "answer": "Chào bạn,Dạ chơi game là tác vụ nặng, và máy được thiết kế bằng kim loại nên sẽ nhanh nóng lên là điều bình thường tuy nhiên không ảnh hưởng gì đến máy bạn yên tâm nhé.Xin thông tin đến bạn. ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.643005,
+      "id": "27621218",
+      "field_search": "question",
+      "question": "ĐT này xài mau hết pin lắm phải không ad",
+      "answer": "Chào bạn,Với nhu cầu sử dụng liên tục, máy có thể dùng được khoảng 3-4h tuỳ theo tác vụ sử dụng máy bạn nhé. Còn nếu sử dụng bình thường thì có thể dùng được khoảng 1 ngày ạ. theo mình thì thời gian pin như vậy trên máy là bình thường không phải quá hao pin bạn nhé.Thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.615574,
+      "id": "22312136",
+      "field_search": "question",
+      "question": "Sao sạc pin cục sạc nóng vậy qtv",
+      "answer": "Chào bạn,Lúc sạc, củ sạc sẽ biến đổi điện áp xoay chiều thành dòng 1 chiều DC, nên lúc này có tỏa nhiệt khá nóng là bình thường bạn nhé, bạn an tâm sử dụng nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.60445,
+      "id": "28038686",
+      "field_search": "question",
+      "question": "Máy chơi lq đc bao lâu thì hết pin ?",
+      "answer": "Chào bạn,Dạ máy chơi game được khoảng 3 tiếng liên tục thì hết 100% pin bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.60445,
+      "id": "22212738",
+      "field_search": "question",
+      "question": "Máy iPhone dùng được mấy tiếng mới hết pin",
+      "answer": "Chào anh,Trường hợp này thì còn phải tùy vào anh sử dụng ứng dụng gì nữa đấy ạ.Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.589344,
+      "id": "27035977",
+      "field_search": "question",
+      "question": "Cho mik hỏi vs dung lượng pin như vậy dùng bao nhiêu giờ là hết",
+      "answer": "Chào bạn,Pin của máy này thì sử dụng liên tục được khoảng 4-5h, tùy vào cách dùng máy của bạn như thế nào và tình trạng máy ra sao mà sẽ có sự chênh lệch tương ứng bạn nhé. Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.53912,
+      "id": "21285196",
+      "field_search": "question",
+      "question": "Chào ad, em đã mua ss a7 2017 được 4 tháng và bây h e gặp tình trạng pin sạc đến 90% r k ăn nữa em phải rút ra sạc lại, có hôm đêm pin 43% sáng hôm sau máy tự tắt nguồn e bật nguồn lên máy báo 0%. Hiện tại e rất k hài lòng về pin máy ad giúp e giải quyết với em xin chân thành cảm ơn!",
+      "answer": "Chào bạn,Trường hợp này có thể do máy bạn bị lỗi phần mềm, bạn vui lòng khôi phục cài đặt gốc nhé, chú ý dữ liệu và ứng dụng sẽ bị xóa hết, máy sẽ quay về trạng thái ban đầu nên bạn vui lòng sao lưu lại dữ liệu quan trong như Hình, Video, Danh bạ, tin nhắn,...đã lưu trên máy trước khi khôi phục cài đặt gốc nha bạn. Bạn vào Cài đặt > Sao lưu và cài đặt lại > Khôi phục cài đặt gốc > Đặt lại thiết bị, lưu ý bạn cần nhớ tài khoản mật khẩu Gmail trên máy nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.537897,
+      "id": "26305089",
+      "field_search": "question",
+      "question": "máy em iphone 6s plus 64gb em test phần mềm là chai 16% em đang ở ios 11.2.6 có nên lên ios 11.3 ko có tốn pin hơn ko ạ em đang phân vân có nên lên hay ko ạ",
+      "answer": "Chào bạn, Bạn nên lên iOS 11.3 vì hệ điều hành này là tốt nhất trong các phiên bản iOS 11 và không làm máy tốn PIN hơn bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.53043,
+      "id": "17974245",
+      "field_search": "question",
+      "question": "Nếu bật wifi và chơi game liên quân moblie liên tục thì khoảng bao lâu máy hết pin vậy ạ QTV",
+      "answer": "Chào bạn, Với sản phẩm iPhone 6 này trang bị dung lượng PIN nếu sử dụng Wi-Fi , chơi game Liên quân thì thời gian sử dụng được khoảng 2.5 - 3 tiếng liên tục bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.52143,
+      "id": "28101453",
+      "field_search": "question",
+      "question": "Em mới mua điện thoại khoảng được 1 tháng 3 ngày rồi mọi thứ đều tốt nhưng có 1 điều em tải ứng dụng về rất chậm , tải từ App Store ỪII vẫn mạnh nhưng em tải rất chậm , và điện thoại mau hết pin lắm ạ ,",
+      "answer": "Chào bạn,Dạ bạn tải chậm là do kết nối không tốt, bạn vui lòng kết nối với một mạng wifi tốt hơn để kiểm tra lại xem sao bạn nhé.Về vấn đề pin thì cụ thể tình trạng sụt pin của máy như thế nào vậy ạ. Bạn dùng máy trong bao nhiêu tiếng thì hết 100% pin vậy ạ. Mong nhận được phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.518452,
+      "id": "32135955",
+      "field_search": "question",
+      "question": "AD ơi cho em hỏi là máy (vừa mua đc một hôm) 80% pin nhưng sau khi e tắt nguồn bật lại thì pin trở về trạng thái 1% là sao vậy ạ",
+      "answer": "Chào chị Trường hợp này do máy mới nên Pin chưa ổn định , chị hãy sử dụng và sạc Pin cho máy thêm khoảng 1 vài hôm nữa là Pin sẽ bền hơn và không còn tình trạng đó nữa chị nha . Thông tin đến chị .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.509686,
+      "id": "30113300",
+      "field_search": "question",
+      "question": "cho mik hỏi là sao mik đang chơi liên quân bằng iphone 6 thì tự động màn hình đen lại và thoát ra, vô lại thì cũng như vậy, tình trạng này xảy ra khoảng 2 ngày nay. cho mik biết là đó là lỗi do máy hay do game ạ? và nếu do máy thì có cách khắc phục k ạ?",
+      "answer": "Chào anh Trường hợp này có thể do máy bị xung đột ứng dụng nên trước tiên hãy khởi động lại máy xem còn tình trạng đó nữa không nha . Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.485668,
+      "id": "26573468",
+      "field_search": "question",
+      "question": "iPhone của em mới mua 3-4p tụt 1%, vậy là bình thường hay pin bị sao ạ?",
+      "answer": "Chào bạn Trường hợp này do máy mới nên Pin chưa ổn định , bạn sử dụng và sạc Pin cho máy thêm khoảng 1 vài hôm nữa là Pin sẽ bền hơn và không còn tình trạng đó nữa bạn nhé . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.484018,
+      "id": "20351487",
+      "field_search": "question",
+      "question": "Máy này là máy cũ hay mới vậy ạ ad",
+      "answer": "Chào anh, Hiện máy anh đang xem là máy mới 100% anh nha! Nếu anh quan tâm, anh có thể để lại số điện thoại để bên em đặt hàng giúp anh ạ! Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.464828,
+      "id": "20166241",
+      "field_search": "question",
+      "question": "khi em gửi bảo hành thì trung tâm bảo hanh samsung và thegioididong test j về máy của em vậy ạ em nghe nói có test sạc pin từ 0% đến 15% vậy có nghĩa là trung tâm bảo hành của thegiodidong sả pin của máy em còn 0% hả troy vậy có ảnh hưởng j đến pin ko ja nghe nói ko nên để pin )% sập nguồn mà",
+      "answer": "Chào bạn,Dạ khi nhận máy thì các bạn bên bảo hành sẽ kiểm tra thật kỹ máy và sẽ phản hồi trực tiếp lại giúp bạn ạ; mong bạn thông cảm do bên mình không có thông tin cụ thể nhé.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.461924,
+      "id": "22987386",
+      "field_search": "question",
+      "question": "Cho mk hỏi Mk hay vào mạng fb,zalo Thì đg để ý iphone 6 32GB  Thì nhu cầu của mk máy này có phù hợp không Pin sài bao lâu thì hết  Cuối cùng là khi bạc pin iphone 6 32GB thì bao lâu thì đầy",
+      "answer": "Chào bạn.Dạ với nhu cầu củ bạn thì máy sử dụng tốt bạn nhé. Với thời gian sử dụng sẽ còn phụ thuộc vào nhu cầu tác vụ sử dụng kết nối mạng và độ sáng màn hình của bạn nữa nếu bạn chỉ nghe gọi nhắn tin thì máy sẽ đáp ứng trong 1-1.5 ngày làm việc còn bạn sử dụng với nhu cầu chơi game giải trí lên mạng nhiều thì 1 ngày sử dụng bạn có thể sạc khoảng 2-3 lần bạn nha. Điện thoại iPhone 6 32GB mình ước lượng thời gian sạc khoảng 1,5 - 2 giờ bạn nhé. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.439192,
+      "id": "31421487",
+      "field_search": "question",
+      "question": "Dạ cho e hỏi tí ạ đang sạc pin được 10% và xem youtube mà tự sụp nguồn là bị lỗi gì ạ lúc đó máy nóng tầm 37 độ",
+      "answer": "Chào anh,Dạ tình trạng này xảy ra thường xuyên không vậy ạ, lưu ý thêm là khi pin dưới 15% là anh nên cắm sạc cho máy anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.411596,
+      "id": "20461834",
+      "field_search": "question",
+      "question": "Iphone 6 mình mới mua bên tgdđ từ hôm 1/7, hôm nay pin còn khoảng 55% thì mình sạc đến lúc mở ra xem thì pin đã đầy 100% nhưng cả máy nóng ran và củ sạc cũng còn rất nóng nữa theo mình biết thì từ khoảng trên 90% pin thì đáng lí ra củ sạc đã phải nguội dần và máy không thể nóng như thế. Tgdđ có thể cho mình biết máy mình bị lỗi k ạ?",
+      "answer": "Chào bạn,Bạn giúp mình tắt các ứng dụng chạy ngầm trong máy sau đó giảm độ sáng màn hình tắt kết nối 3G, wifi trong lúc sạc rồi kiểm tra giúp mình nha, nếu vẫn còn thình trạng trên bạn vui lòng đem máy đến siêu thị thegioididong.com gần nhất để được hỗ trợ kiểm tra nha. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.374022,
+      "id": "25891956",
+      "field_search": "question",
+      "question": "Add cho hỏi: mình danh sd ip6 plus lỡ rớt hư ic mình sửa ngoai, thay ic cảm biến,. Tại sao khi đã sửa xong máy sd chưa dc 5p là máy là rất nóng, có phải máy mình bị chủ thay đồ khác hay sửa không đảm bảo chất lượng khong",
+      "answer": "Chào bạn,Trường hợp này, do mình không thể kiểm tra trực tiếp sản phẩm, nên khó có thể thông tin chính xác cho bạn được. Mong bạn thông cảm. Bạn vui lòng dành ít thời gian đến nơi đã hỗ trợ sửa chữa để được kiểm tra trực tiếp và thông tin về sản phẩm chính xác nhất bạn nhé.  Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.372488,
+      "id": "22409064",
+      "field_search": "question",
+      "question": "Em mới mua điện thoại iphon6 32g ở tgdd vào ngày 1/10/2017 cho e hỏi đt này sài pin khoảng mấy tiếng thi nó sẽ hết pin, chứ đt em mua chỉ sài được 1 ngày 23h ngày này sạc pin thì đến 21h ngày mai sẽ hết pin",
+      "answer": "Chào bạn, Tùy vào cách dùng của bạn , dùng nhiều hay ít , dùng Wifi hay 3G , bật độ sáng màn hình sáng hay mờ , âm thanh loa lớn hay nhỏ mà thời gian dùng PIN sẽ khác nhau chứ không cố định bạn nhé. Nếu bạn dùng liên tục cho chơi game thì dùng được khoảng 3-4 giờ tùy game và kết nối mạng bạn dùng .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.34828,
+      "id": "20716966",
+      "field_search": "question",
+      "question": "máy giá 8tr9 này là máy mới hay máy cũ vậy a",
+      "answer": "Chào anh,Dạ hiện Điện thoại iPhone 6 32GB có giá 8.990.000₫ là máy mới chưa qua sử dụng ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.33327,
+      "id": "31723265",
+      "field_search": "question",
+      "question": "Sao iphone 6s của mình chơi game liên quan tuột pin nhanh quá. Từ 60 chơi 1 ván 10p mà tuột gần hết pin luôn lý do tại sao vậy ad",
+      "answer": "Chào anh,Trường hợp này anh vui lòng test pin theo cách sau: sạc pin điện thoại đầy 100% sau đó bật máy ở chế độ máy bay, tắt các ứng dụng chạy ngầm, bật sáng màn hình liên tục với độ sáng cao nhất trong vòng 1h . Nếu máy hao hụt trên 15% pin thì có thể máy anh bị lỗi pin anh vui lòng mang máy đến siêu thị Thegioididong.com gần nhất để được hỗ trợ. Còn nếu máy hao hụt dưới 15% pin thì pin của anh vẫn sử dụng bình thường anh nhé. Thông tin đến anh ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.327717,
+      "id": "24036287",
+      "field_search": "question",
+      "question": "Hiện tại máy em là ios 11.0.3 giờ lên 11.2.1 đc ko ạ . Có ảnh hưởng dì tới máy ko ạ",
+      "answer": "Chào bạn,Nếu bạn đang dùng iPhone 6 thì bạn có thể nâng lên IOS 11.2.1 được, và bản này về hiệu năng cũng như thời lượng pin sẽ tốt hơn IOS 11.0.3 một chút bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.309845,
+      "id": "27062031",
+      "field_search": "question",
+      "question": "Cho em hỏi máy em để không sạc pin cả đêm xong sáng bật lên thấy tự động cập nhật sang ios 11.3.1 là như thế nào ạ? Mà phiên bản này có làm chậm hay làm hao pin ko ạ? Em mới sử dụng máy nên chưa biết nhiều ạ!",
+      "answer": "Chào bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.288933,
+      "id": "18166045",
+      "field_search": "question",
+      "question": "sao ip6 người ta gọi điện nói chuyện cứ bị dội lại là sao vậy ad. Do máy mình hay máy người ta",
+      "answer": "Chào bạn, Trường hợp này bạn vui lòng thử thao tác tắt các ứng dụng chạy ngầm  và khởi động lại máy, hoặc thử gọi điện vào 1 lúc khác xem có khắc phục được trường hợp này không bạn nha!  Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.254635,
+      "id": "26116701",
+      "field_search": "question",
+      "question": "Hiện tại thì sài từ iphone mấy trở lên là dùng tốt nhất ak",
+      "answer": "Chào bạn Trường hợp này bạn sử dụng iPhone 7 trở lên là tốt bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.253021,
+      "id": "28862989",
+      "field_search": "question",
+      "question": "Sao ip6 của em lâu lâu lại bị nóng lên quá mức vậy ạ ? Kh làm gì hay là chỉ lướt các app nhẹ cũng nóg lên quá mức",
+      "answer": "Chào bạn,Trường hợp này có thể do xung đột phần mềm trên máy, bạn vui lòng tắt khởi động lại máy xem có khắc phục được tình trạng trên không bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.249613,
+      "id": "18054818",
+      "field_search": "question",
+      "question": "Máy này là bản qt hay là bản lock vậy ad",
+      "answer": "Chào bạn, Sản phẩm này bên mình kinh doanh là bản quốc tế bạn nhé! Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.206404,
+      "id": "23079495",
+      "field_search": "question",
+      "question": "Tải app mà cứ chờ như z...Đảm bảo wifi mạnh vì mình lên google hay wed rất nhanh.. z là lỗi do đâu qtv ?",
+      "answer": "Chào bạn,Hiện tại do cáp quang kết nối máy chủ Apple nước ngoài đang bị gián đoạn nên các kết nối tải ứng dụng mà máy chủ nước ngoài như Apple ID sẽ chậm. Bạn giúp mình khởi động điện thoại, kết nối Wifi ổn định và thử lại vào lúc mạng ổn định hơn,ít người sử dụng như buổi tối khuya sẽ cải thiện hơn bạn nhé. Đây không phải lỗi do điện thoại bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.197714,
+      "id": "25432341",
+      "field_search": "question",
+      "question": "Mình thấy mọi người bảo 6 bh hơi yếu, tại sao yếu vậy. Do mọi người dùng máy bị dưng hay do hđh lên ios11 nên bị yếu. Giải đáp giúp mình",
+      "answer": "Chào bạn,Vì iPhone 6 đã ra mắt lâu và hiện đã có dòng mới là iPhone 8, 8 Plus, iPhone X. Nên so với các máy mới này thì iPhone 6 đã quá yếu nha.Xin thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.189548,
+      "id": "20026384",
+      "field_search": "question",
+      "question": "shop cho mình hỏi  máy mình mua dc hơn 2 tháng mà sài pin thấy hao pin quá",
+      "answer": "Chào bạn, Điện thoại này để tiết kiện PIN thì bạn cần tắt hết các ứng dụng chạy ngầm trên máy cũng như tắt các kết nối Wifi, 3G khi không sử dụng , đồng thời để độ sáng màn hình ở mức phù hợp nhé bạn.Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.188704,
+      "id": "24343054",
+      "field_search": "question",
+      "question": "Ad cho e hỏi ip 6 e mới mua 5 tháng k dùng mà tắt hết ứng dụng mà pin sụt rất nhanh là máy e bị sao ạ.e cảm ơn nhiều ạ",
+      "answer": "Chào bạn,Trường hợp này, bạn có thể kiểm tra xem PIN của điện thoại mình có bình thường không bằng 2 cách sau, theo hướng dẫn bài viếtbạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.173584,
+      "id": "21508231",
+      "field_search": "question",
+      "question": "Cho em ios 10.3.2 em mới mua về là iphone 6 plus lên apptore tải game hay ứng dụng rất nhanh nhưng mà từ khi em lên ios 11 thì nó tải rất lâu",
+      "answer": "Chào bạn,Bạn tải ứng dụng nhanh hay chậm lệ thuộc rất nhiều vào kết nối mạng đó bạn. Bạn vui lòng kết nối với một mạng khác mạnh hơn xem có khắc phục được không bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.130676,
+      "id": "19709623",
+      "field_search": "question",
+      "question": "sao máy của em nóng nhanh vậy ad,",
+      "answer": "Chào bạn, Điện thoại này bạn dùng liên tục chạy các ứng dụng nặng hay dùng kết nối mạng nhất là 3G thì CPU hoạt động mạnh , tỏa nhiệt làm cho máy nóng dần lên bạn nhé. Điều này hoàn toàn bình thường và bạn chỉ cần để cho máy có thời gian nghỉ ngơi là không sao cả nhé bạn  . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.12066,
+      "id": "28704075",
+      "field_search": "question",
+      "question": "Con iphone mình mới mua, sạc pin đầy mà dùng 1 buổi sáng là hết pin, pin gì kì quá v",
+      "answer": "Chào bạn,Đối với sản phẩm mới, thường sẽ có 1 lượng pin ảo khi mới sử dụng, nên thường bạn sẽ thấy đôi lúc sản phẩm tụt pin nhanh hoặc hao pin. Vì vậy bạn cần sạc 3-5 lần thì pin sẽ ổn định hơn bạn nhé!Ngoài ra, Sản phẩm đáp ứng thời gian sử dụng liên tục khoảng 3 giờ, tuy nhiên sẽ tùy thuộc vào ứng dụng sử dụng, kết nối và độ sáng màn hình sẽ có sự chênh lệch ạ Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 16.11508,
+      "id": "22306985",
+      "field_search": "question",
+      "question": "Cho em hỏi Chơi game liên quân k thì bao nhiu giờ là hết pin v qtv",
+      "answer": "Chào bạn, iPhone 6 có thời gian sử dụng game liên tục khoảng 2 - 3h tùy theo yêu cầu và cấu hình game mà thời gian có thể chênh lệch nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    }
+  ]
+}

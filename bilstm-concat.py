@@ -13,84 +13,22 @@ from keras.layers.embeddings import Embedding
 import re
 import random
 import json
+import convenion
 
 
-PATH_DATA_TRAIN = 'data/tmp/raw/train.txt'
-PATH_DATA_DEV = 'data/tmp/raw/dev.txt'
+PATH_DATA_TRAIN = 'data/pool4/raw/train.txt'
+PATH_DATA_DEV = 'data/pool4/raw/dev.txt'
 PATH_DATA_TEST = 'data/tmp/raw/test.txt'
 
 PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
 PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
-maxlen_input = 150
+maxlen_input = 60
 
 
 def customize_string(string):
-    string = string.lower()
-    string = re.sub(r'\bcmt\b', 'chứng minh thư', string)
-    string = re.sub(r'\bshk\b', 'sổ hộ khẩu', string)
-    string = re.sub(r'\bđt\b', 'điện thoại', string)
-    string = re.sub(r'\bdt\b', 'điện thoại', string)
-    string = re.sub(r'\bdc\b', 'được', string)
-    string = re.sub(r'\bdk\b', 'được', string)
-    string = re.sub(r'\bđk\b', 'được', string)
-    string = re.sub(r'\bđc\b', 'được', string)
-    string = re.sub(r'\bnhiu\b', 'nhiêu', string)
-    string = re.sub(r'\bbn\b', 'bao nhiêu', string)
-    string = re.sub(r'\bbnhieu\b', 'bao nhiêu', string)
-    string = re.sub(r'\bk\b', ' không', string)
-    string = re.sub(r'\bsp\b', 'sản phẩm', string)
-    string = re.sub(r'\blác\b', 'lag', string)
-    string = re.sub(r'\b0d\b', 'không đồng', string)
-    string = re.sub(r'\b0đ\b', 'không đồng', string)
-    string = re.sub(r'\b0 d\b', 'không đồng', string)
-    string = re.sub(r'\b0 đ\b', 'không đồng', string)
-    string = re.sub(r'\b12\b', ' mười_hai ', string)
-    string = re.sub(r'\b10\b', ' mười', string)
-    string = re.sub(r'\b9\b', ' chín', string)
-    string = re.sub(r'\bngắc\b', 'ngắt', string)
-    string = re.sub(r'\bsetting\b', 'cấu hình', string)
-    string = re.sub(r'\bmax\b', 'cao nhất', string)
-    string = re.sub(r'\bbóc hộp\b', 'mói', string)
-    string = re.sub(r'\bmở hộp\b', 'mới', string)
-    string = re.sub(r'\bhđh\b', 'hệ điều hành', string)
-    string = re.sub(r'\biphon\b', 'iphone', string)
-    string = re.sub(r'\bip\b', 'iphone', string)
-    string = re.sub(r'\bios11\b', 'ios mười_một', string)
-    string = re.sub(r'\bios10\b', 'ios mười', string)
-    string = re.sub(r'\bios9\b', 'ios chín', string)
-    string = re.sub(r'\bios12\b', 'ios mười_hai', string)
-    string = re.sub(r'\b10%\b', 'mười phần_trăm', string)
-    string = re.sub(r'\b15%\b', 'mười_năm phần_trăm', string)
-    string = re.sub(r'\b20%\b', 'hai_mươi phần_trăm', string)
-    string = re.sub(r'\b25%\b', 'hai_năm phần_trăm', string)
-    string = re.sub(r'\b30%\b', 'ba_mươi phần_trăm', string)
-    string = re.sub(r'\b35%\b', 'ba_năm phần_trăm', string)
-    string = re.sub(r'\b40%\b', 'bốn_mươi phần_trăm', string)
-    string = re.sub(r'\b50%\b', 'năm_mươi phần_trăm', string)
-    string = re.sub(r'\b60%\b', 'sáu_mưoi phần_trăm', string)
-    string = re.sub(r'\b%\b', 'phần_trăm', string)
-    string = re.sub(r'\b20\b', 'hai_mươi', string)
-    string = re.sub(r'\b30\b', 'ba_mươi', string)
-    string = re.sub(r'\b40\b', 'bốn_mươi', string)
-    string = re.sub(r'\b50\b', 'năm_mươi', string)
-    string = re.sub(r'\b60\b', 'sáu_mươi', string)
-    string = re.sub(r'\b5\b', 'năm', string)
-    string = re.sub(r'\b0d\b', 'không trả trước', string)
-    string = re.sub(r'\b0%\b', 'không lãi suất', string)
-    string = re.sub(r'\b0 %\b', 'không lãi suất', string)
-    string = re.sub(r'\b0đ\b', 'không trả trước', string)
-    string = re.sub(r'\b0\b', 'không', string)
-
-    string = string.replace('\xa0', ' ')\
-        .replace('.', ' ').replace(',', ' ')\
-        .replace('?', ' ').replace('!', ' ')\
-        .replace('/', ' ').replace('-', '_') \
-        .replace(':', ' ') \
-        .strip()
-    string = re.sub('\s+', ' ', string).strip()
-    return word_tokenize(string, format="text")
+    return convenion.customize_string(string)
 
 
 def get_word_vectors():
@@ -282,7 +220,7 @@ def get_model(vocab_df):
     embedding = Embedding(input_dim=len(vocab_df) + 1,
                           output_dim=wordvector_dims,
                           weights=[embedding_weights],
-                          trainable=False,
+                          trainable=True,
                           mask_zero=True)
 
     org_q_embedding = embedding(org_q_input)
@@ -290,18 +228,23 @@ def get_model(vocab_df):
     related_q_embedding = embedding(related_q_input)
     related_q_embedding = Dropout(0.5)(related_q_embedding)
 
-    bi_lstm_1 = Bidirectional(LSTM(units=64, return_sequences=False))(org_q_embedding)
-    bi_lstm_2 = Bidirectional(LSTM(units=64, return_sequences=False))(related_q_embedding)
+    # bi_lstm_1 = Bidirectional(LSTM(units=64, return_sequences=False))(org_q_embedding)
+    # bi_lstm_2 = Bidirectional(LSTM(units=64, return_sequences=False))(related_q_embedding)
     # rnn1 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
     # rnn2 = SimpleRNN(units=300, use_bias=True, return_sequences=False)(org_q_embedding)
+    shared_lstm = Bidirectional(LSTM(units=128, return_sequences=False, dropout=0.5))
+    # shared_lstm = Dropout(0.5)(shared_
 
-    q_concat = concatenate([bi_lstm_1, bi_lstm_2])
-    q_concat = Dropout(0.5)(q_concat)
+    lstm_output_1 = shared_lstm(org_q_embedding)
+    lstm_output_2 = shared_lstm(related_q_embedding)
+
+    q_concat = concatenate([lstm_output_1, lstm_output_2])
+    # q_concat = Dropout(0.5)(q_concat)
     # q_concat = concatenate([rnn1, rnn2])
 
-    dense1 = Dense(64, activation='relu')(q_concat)
-    prediction = Dense(1, activation='sigmoid')(dense1)
-    prediction = Dropout(0.5)(prediction)
+    # dense1 = Dense(64, activation='relu')(q_concat)
+    prediction = Dense(1, activation='sigmoid')(q_concat)
+    # prediction = Dropout(0.5)(prediction)
 
     training_model = Model(inputs=[org_q_input, related_q_input], outputs=prediction, name='training_model')
     opt = Adam(lr=0.001)
@@ -366,7 +309,7 @@ def train(vocab_df):
 
     history = model.history.history
     print(history)
-    with open('concat-bilstm.json', 'w+') as fp:
+    with open('concat-bilstm-pool1.json', 'w+') as fp:
         json.dump(history, fp)
 
 

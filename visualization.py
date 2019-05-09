@@ -28,7 +28,7 @@ def visualize_history(history_path='history/bi-lstm-vector-baomoi.json'):
         plt.show()
 
 def visualize_feature():
-    data_df = pd.read_csv('data/pool1/raw/ez-moreinfo-strict.json', sep='\t', header=None, names=['org_q', 'related_q',
+    data_df = pd.read_csv('data/similar1/raw/ez-moreinfo-strict.json', sep='\t', header=None, names=['org_q', 'related_q',
                                                                                              'label', 'elastic_similar',
                                                                                              'vector_similar'])
     data_df['color'] = 'red'
@@ -59,4 +59,4 @@ def visualize_feature():
     plt.show()
 
 
-visualize_history('concat-bilstm.json')
+visualize_history('siamese-lstm-pool1-06032357.json')

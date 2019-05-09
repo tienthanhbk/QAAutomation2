@@ -11,6 +11,7 @@ from keras import regularizers
 from keras.preprocessing.sequence import pad_sequences
 from keras.layers.embeddings import Embedding
 from keras import backend as K
+import convenion
 
 import re
 import random
@@ -19,82 +20,19 @@ import json
 
 PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
 PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
-PATH_DATA_TEST = 'data/pool1/raw/test.txt'
+PATH_DATA_TEST = 'data/test_data/raw/test.txt'
 
 PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
 PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
 wordvector_dims = 200
-maxlen_input = 150
+maxlen_input = 60
 
-num_units = 64
+num_units = 128
 
 
 def customize_string(string):
-    string = string.lower()
-    string = re.sub(r'\bcmt\b', 'chứng minh thư', string)
-    string = re.sub(r'\bshk\b', 'sổ hộ khẩu', string)
-    string = re.sub(r'\bđt\b', 'điện thoại', string)
-    string = re.sub(r'\bdt\b', 'điện thoại', string)
-    string = re.sub(r'\bdc\b', 'được', string)
-    string = re.sub(r'\bdk\b', 'được', string)
-    string = re.sub(r'\bđk\b', 'được', string)
-    string = re.sub(r'\bđc\b', 'được', string)
-    string = re.sub(r'\bnhiu\b', 'nhiêu', string)
-    string = re.sub(r'\bbn\b', 'bao nhiêu', string)
-    string = re.sub(r'\bbnhieu\b', 'bao nhiêu', string)
-    string = re.sub(r'\bk\b', ' không', string)
-    string = re.sub(r'\bsp\b', 'sản phẩm', string)
-    string = re.sub(r'\blác\b', 'lag', string)
-    string = re.sub(r'\b0d\b', 'không đồng', string)
-    string = re.sub(r'\b0đ\b', 'không đồng', string)
-    string = re.sub(r'\b0 d\b', 'không đồng', string)
-    string = re.sub(r'\b0 đ\b', 'không đồng', string)
-    string = re.sub(r'\b12\b', ' mười_hai ', string)
-    string = re.sub(r'\b10\b', ' mười', string)
-    string = re.sub(r'\b9\b', ' chín', string)
-    string = re.sub(r'\bngắc\b', 'ngắt', string)
-    string = re.sub(r'\bsetting\b', 'cấu hình', string)
-    string = re.sub(r'\bmax\b', 'cao nhất', string)
-    string = re.sub(r'\bbóc hộp\b', 'mói', string)
-    string = re.sub(r'\bmở hộp\b', 'mới', string)
-    string = re.sub(r'\bhđh\b', 'hệ điều hành', string)
-    string = re.sub(r'\biphon\b', 'iphone', string)
-    string = re.sub(r'\bip\b', 'iphone', string)
-    string = re.sub(r'\bios11\b', 'ios mười_một', string)
-    string = re.sub(r'\bios10\b', 'ios mười', string)
-    string = re.sub(r'\bios9\b', 'ios chín', string)
-    string = re.sub(r'\bios12\b', 'ios mười_hai', string)
-    string = re.sub(r'\b10%\b', 'mười phần_trăm', string)
-    string = re.sub(r'\b15%\b', 'mười_năm phần_trăm', string)
-    string = re.sub(r'\b20%\b', 'hai_mươi phần_trăm', string)
-    string = re.sub(r'\b25%\b', 'hai_năm phần_trăm', string)
-    string = re.sub(r'\b30%\b', 'ba_mươi phần_trăm', string)
-    string = re.sub(r'\b35%\b', 'ba_năm phần_trăm', string)
-    string = re.sub(r'\b40%\b', 'bốn_mươi phần_trăm', string)
-    string = re.sub(r'\b50%\b', 'năm_mươi phần_trăm', string)
-    string = re.sub(r'\b60%\b', 'sáu_mưoi phần_trăm', string)
-    string = re.sub(r'\b%\b', 'phần_trăm', string)
-    string = re.sub(r'\b20\b', 'hai_mươi', string)
-    string = re.sub(r'\b30\b', 'ba_mươi', string)
-    string = re.sub(r'\b40\b', 'bốn_mươi', string)
-    string = re.sub(r'\b50\b', 'năm_mươi', string)
-    string = re.sub(r'\b60\b', 'sáu_mươi', string)
-    string = re.sub(r'\b5\b', 'năm', string)
-    string = re.sub(r'\b0d\b', 'không trả trước', string)
-    string = re.sub(r'\b0%\b', 'không lãi suất', string)
-    string = re.sub(r'\b0 %\b', 'không lãi suất', string)
-    string = re.sub(r'\b0đ\b', 'không trả trước', string)
-    string = re.sub(r'\b0\b', 'không', string)
-
-    string = string.replace('\xa0', ' ')\
-        .replace('.', ' ').replace(',', ' ')\
-        .replace('?', ' ').replace('!', ' ')\
-        .replace('/', ' ').replace('-', '_') \
-        .replace(':', ' ') \
-        .strip()
-    string = re.sub('\s+', ' ', string).strip()
-    return word_tokenize(string, format="text")
+    return convenion.customize_string(string)
 
 
 def get_word_vectors():
@@ -175,6 +113,7 @@ def map_score(s1s_dev, s2s_dev, y_pred, labels_dev):
     # labels_dev: [0, 1, ...]: Marsked labed of origin - related questions, respective order with s1s_dev and s2s_dev
     QA_pairs = {}
     for i in range(len(s1s_dev)):
+        # pred = y_pred[i][1]
         pred = y_pred[i]
 
         s1 = str(s1s_dev[i])
@@ -310,18 +249,22 @@ def get_model(vocab_df):
     # Row i is vector for word indexed i in vocab
     # words = vocab_df.index.values
     # when one-hot word, 0 is padding value and not have in vocab
-    embedding_weights = np.zeros((len(vocab_df) + 1, wordvector_dims), dtype=float)
+    embedding_weights = np.zeros((len(vocab_df), wordvector_dims))
     for word, row in vocab_df.iterrows():
-        embedding_weights[row['onehot']] = word_vector.get(word)
+        try:
+            embedding_weights[row['onehot']] = word_vector[word]
+        except:
+            print('adasdasdasd')
+            embedding_weights[row['onehot']] = np.random.uniform(-0.25, 0.25, 200).astype('float32')
 
     org_q_input = Input(shape=(maxlen_input,))
     related_q_input = Input(shape=(maxlen_input,))
 
-    embedding = Embedding(input_dim=len(vocab_df) + 1,
+    embedding = Embedding(input_dim=len(vocab_df),
                           output_dim=wordvector_dims,
                           weights=[embedding_weights],
                           trainable=False,
-                          mask_zero=True)
+                          mask_zero=False)
 
     org_q_embedding = embedding(org_q_input)
     # org_q_embedding = Dropout(0.5)(org_q_embedding)
@@ -334,15 +277,21 @@ def get_model(vocab_df):
     lstm_output_1 = shared_lstm(org_q_embedding)
     lstm_output_2 = shared_lstm(related_q_embedding)
 
+
+
     output = ManDist()([lstm_output_1, lstm_output_2])
-    # output = Dropout(0.5)(output)
+    # concat = concatenate([lstm_output_1, lstm_output_2])
+    # output = Dense(2, activation='softmax')(concat)
+    output = Dropout(0.5)(output)
 
     training_model = Model(inputs=[org_q_input, related_q_input],
                            outputs=output,
                            name='training_model')
     # opt = Adam(lr=0.001)
-    # training_model.compile(loss='mean_squared_error', optimizer=Adam(), metrics=['accuracy'])
-    training_model.compile(loss=contrastive_loss, optimizer=Adam())
+    # training_model.compile(loss='sparse_categorical_crossentropy', optimizer=Adam(lr=0.001), metrics=['accuracy'])
+    training_model.compile(loss='mean_squared_error', optimizer=Adam(lr=0.001), metrics=['accuracy'])
+
+    # training_model.compile(loss=contrastive_loss, optimizer=Adam())
 
     print(training_model.summary())
     return training_model
@@ -383,10 +332,10 @@ def train(vocab_df):
                           [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     ModelCheckpoint('siameselstm-contrastive-loss-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
-                                     verbose=1,
-                                     save_best_only=True, mode='max'),
-                     EarlyStopping(monitor='val_map', mode='max', patience=10)]
+                     # ModelCheckpoint('siameselstm-0509-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
+                     #                 verbose=1,
+                     #                 save_best_only=True, mode='max'),
+                     EarlyStopping(monitor='val_map', mode='max', patience=20)]
 
     model = get_model(vocab_df)
 
@@ -395,22 +344,22 @@ def train(vocab_df):
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
         Y,
-        epochs=50,
-        batch_size=15,
+        epochs=100,
+        batch_size=32,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
-        verbose=1,
+        verbose=2,
         callbacks=callback_list
     )
 
     history = model.history.history
     print(history)
-    with open('siamese-lstm-dropout.json', 'w+') as fp:
+    with open('siamese-lstm-pool1-0509.json', 'w+') as fp:
         json.dump(history, fp)
 
 
 def test(vocab_df):
     model = get_model(vocab_df)
-    model.load_weights('biLSTM-16-0.97.h5')
+    model.load_weights('siameselstm-0509-84-0.73.h5')
 
     test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
 
@@ -421,6 +370,7 @@ def test(vocab_df):
                                                                                    padding=True, maxlen=maxlen_input)
 
     predictions = model.predict([test_org_q_onehot_list, test_related_q_onehot_list])
+    # predictions = np.random.rand(450)
 
     MAP, MRR = map_score(test_org_q_list, test_related_q_list, predictions, test_label_list)
 
@@ -432,6 +382,8 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 
 # Adding 1 to onehot, considering 0 is padding value for one-hot vector
 vocab_df['onehot'] += 1
+# vocab_df.index.name = 'word'
+vocab_df.loc['<PAD>'] = 0
 
 # get_model(vocab_df)
 train(vocab_df)

@@ -103,6 +103,8 @@ def refresh_query_pool():
     # paths = glob.glob('elastic/judged/tmp/*/*.json') + paths1 + paths2
 
     paths = glob.glob('elastic/judged/tmp/*/*.json')
+    # paths = glob.glob('elastic/judged/test-data/tmp/*.json') + glob.glob('elastic/judged/test-data/2ez/*.json') + \
+    #         glob.glob('elastic/judged/test-data/2hard/*.json')
 
     arr_query = []
     for path in paths:
@@ -165,39 +167,48 @@ def raw_query_pool():
             json.dump(queries, outfile)
 
 
-def train_dev_test_split(X):
-    train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 6, shuffle=True)
-    train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 5, shuffle=True)
-    return train, dev, test
+def train_dev_test_split(X, test=True):
+    if test:
+        train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 6, shuffle=True)
+        train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 5, shuffle=True)
+        return train, dev, test
+
+    train, dev = sklearn.model_selection.train_test_split(X, test_size=1 / 5, shuffle=True)
+    return train, dev
 
 
-def split_data(path_glob):
+def split_data(path_glob, test=True):
     # Split judged results to 3 set: train, dev, test and save them to a specific dict
     # judged is separated with earch other and need to raw to one text file
     paths = glob.glob(path_glob)
-
-    train_paths, dev_paths, test_paths = train_dev_test_split(paths)
+    train_paths = []
+    dev_paths = []
+    test_paths = []
+    if test:
+        train_paths, dev_paths, test_paths = train_dev_test_split(paths, test=test)
+    else:
+        train_paths, dev_paths = train_dev_test_split(paths, test=test)
 
     for path in train_paths:
-        destination_dict = 'data/tmp/train'
+        destination_dict = 'data/pool5/train'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in dev_paths:
-        destination_dict = 'data/tmp/dev'
+        destination_dict = 'data/pool5/dev'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in test_paths:
-        destination_dict = 'data/tmp/test'
+        destination_dict = 'data/pool5/test'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
 
-def raw_pool(kind='train', pool='pool2', max_judged=30, strict=False):
+def raw_pool(kind='train', pool='similar2', max_judged=30, strict=False):
     # Change kind variable to train, dev, test
     # kind: train, dex, test
-    # pool: pool1 - pool10
+    # pool: similar1 - pool10
     explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
     explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
 
@@ -214,27 +225,27 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     # Raw all judged result in specific path to a text file
     # Modify PATH_USED
     # Raw data from json to csv like files
-    PATH_TRAIN_REGEX = 'data/pool1/train/*.json'
-    PATH_DEV_REGEX = 'data/pool1/dev/*.json'
-    PATH_TEST_REGEX = 'data/pool1/test/*.json'
+    PATH_TRAIN_REGEX = 'data/similar1/train/*.json'
+    PATH_DEV_REGEX = 'data/similar1/dev/*.json'
+    PATH_TEST_REGEX = 'data/similar1/test/*.json'
 
     PATH_USED = PATH_TRAIN_REGEX
     PATH_RAW = 'data/dump.txt'
 
     if PATH_USED == PATH_TRAIN_REGEX:
-        PATH_RAW = 'data/pool1/raw/train.txt'
+        PATH_RAW = 'data/similar1/raw/train.txt'
     elif PATH_USED == PATH_DEV_REGEX:
-        PATH_RAW = 'data/pool1/raw/dev.txt'
+        PATH_RAW = 'data/similar1/raw/dev.txt'
     elif PATH_USED == PATH_TEST_REGEX:
-        PATH_RAW = 'data/pool1/raw/test.txt'
+        PATH_RAW = 'data/similar1/raw/test.txt'
 
     if more_info:
         if PATH_USED == PATH_TRAIN_REGEX:
-            PATH_RAW = 'data/pool1/raw/train-moreinfo.txt'
+            PATH_RAW = 'data/similar1/raw/train-moreinfo.txt'
         elif PATH_USED == PATH_DEV_REGEX:
-            PATH_RAW = 'data/pool1/raw/dev-more-info.txt'
+            PATH_RAW = 'data/similar1/raw/dev-more-info.txt'
         elif PATH_USED == PATH_TEST_REGEX:
-            PATH_RAW = 'data/pool1/raw/test-more-info.txt'
+            PATH_RAW = 'data/similar1/raw/test-more-info.txt'
 
     if explicit_path_use is not None:
         PATH_USED = explicit_path_use
@@ -250,23 +261,25 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                 judged_result = json.load(file_judged)
 
                 origin_question = judged_result['origin_question']
-                # origin_question = convenion.customize_string(origin_question)
+                if tokenize:
+                    origin_question = convenion.customize_string(origin_question)
                 id_origin_q = judged_result['id_query']
                 max_score = judged_result['max_score']
                 current_judged = 0
                 for hit in judged_result['hits']:
                     judged_question = hit['question']
-                    # judged_question = convenion.customize_string(judged_question)
+                    if tokenize:
+                        judged_question = convenion.customize_string(judged_question)
                     id_judged_q = hit['id']
                     score_search = hit['score']
 
-                    elastic_similar = (max_score - score_search) / max_score
+                    # elastic_similar = (max_score - score_search) / max_score
 
-                    vec_org_q = doc2vec_model.infer_vector(
-                        simple_preprocess(word_tokenize(origin_question, format='text')))
-                    vec_related_q = doc2vec_model.infer_vector(
-                        simple_preprocess(word_tokenize(judged_question, format='text')))
-                    cosin_distance = doc2vec_model.wv.cosine_similarities(vec_org_q, np.array([vec_related_q]))[0]
+                    # vec_org_q = doc2vec_model.infer_vector(
+                    #     simple_preprocess(word_tokenize(origin_question, format='text')))
+                    # vec_related_q = doc2vec_model.infer_vector(
+                    #     simple_preprocess(word_tokenize(judged_question, format='text')))
+                    # cosin_distance = doc2vec_model.wv.cosine_similarities(vec_org_q, np.array([vec_related_q]))[0]
 
                     label = '0'
                     if hit['relate_q_q'] == 0:
@@ -302,9 +315,9 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                         #     if current_judged >= max_judged:
                         #         break
                     else:
-                        # print('more info')
-                        raw_file.write(origin_question + separator + judged_question + separator + label + separator
-                                       + str(elastic_similar) + separator + str(cosin_distance) + '\n')
+                        print('more info')
+                        # raw_file.write(origin_question + separator + judged_question + separator + label + separator
+                        #                + str(elastic_similar) + separator + str(cosin_distance) + '\n')
                         #
                         # current_judged += 1
                         # if max_judged is not None:
@@ -453,28 +466,35 @@ def tmp():
     raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
 
 # raw_query_pool()
-# search_by_query_pool(path_query_pool='elastic/query-pool/query_pool.json', path_raw_result='elastic/search_result/')
+# search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
+#                      path_raw_result='elastic/search_result/test/')
 # statistic_search_result()
-caculate_mAP('elastic/judged/tmp/ư_new', strict=False)
+# caculate_mAP('data/test_data/tmp', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
 #             explicit_path_use='elastic/judged/ezquestion/*.json',
-#             explicit_path_raw='data/pool1/raw/ez-moreinfo-strict.json')
-
+#             explicit_path_raw='data/similar1/raw/ez-moreinfo-strict.json')
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
-#             explicit_path_use='data/tmp/train/*.json',
-#             explicit_path_raw='data/tmp/raw/train.txt')
+#             explicit_path_use='data/p    ool5/train/*.json',
+#             explicit_path_raw='data/pool5/raw/train.txt')
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
-#             explicit_path_use='data/tmp/dev/*.json',
-#             explicit_path_raw='data/tmp/raw/dev.txt')
+#             explicit_path_use='data/pool5/dev/*.json',
+#             explicit_path_raw='data/pool5/raw/dev.txt')
+#
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
-#             explicit_path_use='data/tmp/test/*.json',
-#             explicit_path_raw='data/tmp/raw/test.txt')
+#             explicit_path_use='data/pool4/train/*.json',
+#             explicit_path_raw='data/pool4/raw/train.txt')
+# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
+#             explicit_path_use='data/pool4/dev/*.json',
+#             explicit_path_raw='data/pool4/raw/dev.txt')
+# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
+#             explicit_path_use='data/test_data/tmp/*.json',
+#             explicit_path_raw='data/test_data/raw/test.txt')
 
-# split_data(path_glob='elastic/judged/tmp/*/*.json')
+# split_data(path_glob='elastic/judged/tmp/*/*.json', test=False)
 
-refresh_query_pool()
+# refresh_query_pool()
 
 
 # raw_query_pool()

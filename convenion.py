@@ -33,6 +33,12 @@ def is_valid_qa(qa):
 
 def customize_string(string):
     string = string.lower()
+    string = string.replace('\xa0', ' ') \
+        .replace('.', ' ').replace(',', ' ') \
+        .replace('?', ' ').replace('!', ' ') \
+        .replace('/', ' ').replace('-', '_') \
+        .replace(':', ' ') \
+        .strip()
     string = re.sub(r'\bcmt\b', 'chứng minh thư', string)
     string = re.sub(r'\bshk\b', 'sổ hộ khẩu', string)
     string = re.sub(r'\bđt\b', 'điện thoại', string)
@@ -52,6 +58,7 @@ def customize_string(string):
     string = re.sub(r'\b0 d\b', 'không đồng', string)
     string = re.sub(r'\b0 đ\b', 'không đồng', string)
     string = re.sub(r'\b12\b', ' mười_hai ', string)
+    string = re.sub(r'\b11\b', ' mười_một ', string)
     string = re.sub(r'\b10\b', ' mười', string)
     string = re.sub(r'\b9\b', ' chín', string)
     string = re.sub(r'\bngắc\b', 'ngắt', string)
@@ -87,13 +94,20 @@ def customize_string(string):
     string = re.sub(r'\b0đ\b', 'không trả trước', string)
     string = re.sub(r'\b0\b', 'không', string)
     string = re.sub(r'%', ' phần_trăm ', string)
+    string = re.sub(r'\bsv\b', 'sinh viên', string)
+    string = re.sub(r'\btrk\b', 'trước', string)
+    string = re.sub(r'\bgplx\b', 'giấy phép lái xe', string)
+    string = re.sub(r'\bms\b', 'mới', string)
+    string = re.sub(r'\bh\b', 'giờ', string)
+    string = re.sub(r'\bmini chat\b', 'chat bong bóng', string)
+    string = re.sub(r'\bmini chát\b', 'chat bong bóng', string)
+    string = re.sub(r'\bnợ sấu\b', 'nợ xấu', string)
+    string = re.sub(r'\bgiấy cm\b', 'giấy chứng minh thư', string)
+    string = re.sub(r'\bnge\b', 'nghe', string)
+    string = re.sub(r'\bhsơ\b', 'hồ sơ', string)
+    string = re.sub(r'\bwf\b', 'wifi', string)
+    string = re.sub(r'\bonl\b', 'online', string)
 
-    string = string.replace('\xa0', ' ')\
-        .replace('.', ' ').replace(',', ' ')\
-        .replace('?', ' ').replace('!', ' ')\
-        .replace('/', ' ').replace('-', '_') \
-        .replace(':', ' ') \
-        .strip()
     string = re.sub('\s+', ' ', string).strip()
     return word_tokenize(string, format="text")
 
@@ -134,5 +148,5 @@ def caculate_AP(arr):
     return P_at_k / relevan_len
 
 # t = word_tokenize('xin chào đồng bào cả nước', format='text')
-# t = caculate_AP([0,1,0, 0, 0, 1, 1, 1, 0, 0])
-print(customize_string('Hỏ trợ trả góp bao nhiêu    1% lãi vậy ạ'))
+t = caculate_AP([0,1,0])
+# print(customize_string('Hỏ trợ trả góp bao nhiêu    1% lãi vậy ạ'))
