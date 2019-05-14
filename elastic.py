@@ -316,8 +316,8 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                         #         break
                     else:
                         print('more info')
-                        # raw_file.write(origin_question + separator + judged_question + separator + label + separator
-                        #                + str(elastic_similar) + separator + str(cosin_distance) + '\n')
+                        raw_file.write(origin_question + separator + judged_question + separator + label + separator
+                                       + str(id_origin_q) + separator + str(score_search) + '\n')
                         #
                         # current_judged += 1
                         # if max_judged is not None:
@@ -469,7 +469,7 @@ def tmp():
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
 #                      path_raw_result='elastic/search_result/test/')
 # statistic_search_result()
-# caculate_mAP('data/test_data/tmp', strict=False)
+caculate_mAP('elastic/judged/test-data/tmp', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
@@ -488,9 +488,9 @@ def tmp():
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
 #             explicit_path_use='data/pool4/dev/*.json',
 #             explicit_path_raw='data/pool4/raw/dev.txt')
-# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
-#             explicit_path_use='data/test_data/tmp/*.json',
-#             explicit_path_raw='data/test_data/raw/test.txt')
+# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=True,
+#             explicit_path_use='elastic/judged/test-data/tmp/*.json',
+#             explicit_path_raw='data/test_data/raw/test-moreinfo.txt')
 
 # split_data(path_glob='elastic/judged/tmp/*/*.json', test=False)
 

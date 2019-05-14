@@ -187,6 +187,10 @@ def evaluate_classify_model():
     test = test_df.loc[test_df['id'] == 22972022]
     test_sort = test.sort_values(by='predict', ascending=False).reset_index(drop=True)
 
+
+
+def caculate_map_queries(test_df):
+    # test df: 'id', 'origin_q', 'compare_q', 'label', 'score_elastic', 'predict'
     id_queries = []
     for id_query in test_df['id']:
         if id_query not in id_queries:
@@ -234,6 +238,5 @@ def evaluate_classify_model():
     print('mAP model top10: ', sum(score_AP_model_top10) / len(score_AP_model_top10))
 
     return mAP_df
-
 
 # mAP_df = evaluate_classify_model()

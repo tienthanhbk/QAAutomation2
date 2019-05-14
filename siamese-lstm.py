@@ -17,15 +17,25 @@ import re
 import random
 import json
 
+import classifier
+
+# @misc{word2vecvn_2016,
+#     author = {Xuan-Son Vu},
+#     title = {Pre-trained Word2Vec models for Vietnamese},
+#     year = {2016},
+#     howpublished = {\url{https://github.com/sonvx/word2vecVN}},
+#     note = {commit xxxxxxx}
+# }
+
 
 PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
 PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
-PATH_DATA_TEST = 'data/test_data/raw/test.txt'
+PATH_DATA_TEST = 'data/test_data/raw/test-moreinfo.txt'
 
 PATH_DATA_TEST_SMALL = 'data/old_data/train-small.txt'
-PATH_WORD_VECTOR = 'data/word-vector/vectors.txt'
+PATH_WORD_VECTOR = 'data/word-vector/vectors_baomoi.txt'
 PATH_VOCAB = 'data/word-vector/vocab_used.txt'
-wordvector_dims = 200
+# wordvector_dims = 300
 maxlen_input = 60
 
 num_units = 128
@@ -36,6 +46,7 @@ def customize_string(string):
 
 
 def get_word_vectors():
+    print('Getting word vector...')
     # Return {'word1': ndarray[0.13, 0.44, ...], ...}
     word_vector = dict()
     with open(PATH_WORD_VECTOR) as f:
@@ -47,8 +58,15 @@ def get_word_vectors():
         return word_vector
 
 
-def get_and_preprocess_data(path, separator='\t\t\t'):
-    data_df = pd.read_csv(path, sep=separator, header=None, names=['org_q', 'related_q', 'label'])
+def get_and_preprocess_data(path, separator='\t\t\t', more_info=False):
+    data_df = None
+    if more_info:
+        data_df = pd.read_csv(path, sep=separator, header=None, names=['org_q', 'related_q', 'label', 'id',
+                                                                       'score_elastic'])
+        # data_df['id'] = data_df['org_q']
+    else:
+        data_df = pd.read_csv(path, sep=separator, header=None, names=['org_q', 'related_q', 'label'])
+
     for row in data_df.itertuples():
         data_df.at[row.Index, 'org_q'] = customize_string(row.org_q)
         data_df.at[row.Index, 'related_q'] = customize_string(row.related_q)
@@ -244,6 +262,10 @@ def contrastive_loss(y_true, y_pred):
 def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors()
+    wordvector_dims = len(next(iter(word_vector.values())))
+
+    num_vector = 0
+    num_nonvector = 0
 
     # Create a weight matrix for words in vocab
     # Row i is vector for word indexed i in vocab
@@ -251,11 +273,17 @@ def get_model(vocab_df):
     # when one-hot word, 0 is padding value and not have in vocab
     embedding_weights = np.zeros((len(vocab_df), wordvector_dims))
     for word, row in vocab_df.iterrows():
-        try:
+        if word in word_vector:
             embedding_weights[row['onehot']] = word_vector[word]
-        except:
-            print('adasdasdasd')
-            embedding_weights[row['onehot']] = np.random.uniform(-0.25, 0.25, 200).astype('float32')
+            print('have word vector')
+            num_vector += 1
+        else:
+            print('dont have word vector')
+            embedding_weights[row['onehot']] = np.random.uniform(-0.25, 0.25, wordvector_dims).astype('float32')
+            num_nonvector += 1
+
+    print('Word have vector: ', num_vector)
+    print('Word with random vector: ', num_nonvector)
 
     org_q_input = Input(shape=(maxlen_input,))
     related_q_input = Input(shape=(maxlen_input,))
@@ -263,7 +291,7 @@ def get_model(vocab_df):
     embedding = Embedding(input_dim=len(vocab_df),
                           output_dim=wordvector_dims,
                           weights=[embedding_weights],
-                          trainable=False,
+                          trainable=True,
                           mask_zero=False)
 
     org_q_embedding = embedding(org_q_input)
@@ -332,14 +360,23 @@ def train(vocab_df):
                           [test_org_q_onehot_list, test_related_q_onehot_list]]
 
     callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     # ModelCheckpoint('siameselstm-0509-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
-                     #                 verbose=1,
-                     #                 save_best_only=True, mode='max'),
+                     ModelCheckpoint('siameselstm-0509-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
+                                     verbose=1,
+                                     save_best_only=True, mode='max'),
                      EarlyStopping(monitor='val_map', mode='max', patience=20)]
 
     model = get_model(vocab_df)
 
     Y = np.array(train_label_list)
+
+    model.fit(
+        [train_org_q_onehot_list, train_related_q_onehot_list],
+        Y,
+        epochs=15,
+        batch_size=32,
+        validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
+        verbose=2
+    )
 
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
@@ -359,9 +396,9 @@ def train(vocab_df):
 
 def test(vocab_df):
     model = get_model(vocab_df)
-    model.load_weights('siameselstm-0509-84-0.73.h5')
+    model.load_weights('siameselstm-0509-21-0.69.h5')
 
-    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
+    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t', more_info=True)
 
     test_org_q_list = test_data_df['org_q'].values
     test_related_q_list = test_data_df['related_q'].values
@@ -372,11 +409,14 @@ def test(vocab_df):
     predictions = model.predict([test_org_q_onehot_list, test_related_q_onehot_list])
     # predictions = np.random.rand(450)
 
+    test_data_df['predict'] = predictions
+
     MAP, MRR = map_score(test_org_q_list, test_related_q_list, predictions, test_label_list)
 
     print("MAP: ", MAP)
     print("MRR: ", MRR)
-
+    mAP_df = classifier.caculate_map_queries(test_data_df)
+    return mAP_df
 
 vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['onehot'])
 
@@ -385,6 +425,8 @@ vocab_df['onehot'] += 1
 # vocab_df.index.name = 'word'
 vocab_df.loc['<PAD>'] = 0
 
+vocab_df = vocab_df.sort_values(by=['onehot'])
+
 # get_model(vocab_df)
-train(vocab_df)
-# test(vocab_df)
+# train(vocab_df)
+mAP_df = test(vocab_df)

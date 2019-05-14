@@ -59,4 +59,4 @@ def visualize_feature():
     plt.show()
 
 
-visualize_history('siamese-lstm-pool1-06032357.json')
+visualize_history('/Users/tienthanh/Projects/ML/QAAutomation/siamese-lstm-pool1-0509.json')
