@@ -94,5 +94,5 @@ def raw_vectors_and_vocab():
     raw_my_vectors_to_file(my_model)
     raw_vocab_with_index(my_model)
 
-train_model()
+# train_model()
 raw_vectors_and_vocab()

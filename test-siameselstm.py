@@ -18,16 +18,6 @@ import json
 
 import classifier
 
-
-# @misc{word2vecvn_2016,
-#     author = {Xuan-Son Vu},
-#     title = {Pre-trained Word2Vec models for Vietnamese},
-#     year = {2016},
-#     howpublished = {\url{https://github.com/sonvx/word2vecVN}},
-#     note = {commit xxxxxxx}
-# }
-
-
 PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
 PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
 PATH_DATA_TEST = 'data/test_data/raw/test.txt'
@@ -118,16 +108,6 @@ class Cosine(Layer):
         return K.int_shape(self.result)
 
 
-def contrastive_loss(y_true, y_pred):
-    '''Contrastive loss from Hadsell-et-al.'06
-    http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
-    '''
-    margin = 0.2
-    sqaure_pred = K.square(y_pred)
-    margin_square = K.square(K.maximum(margin - y_pred, 0))
-    return K.mean(y_true * (1.0 - y_pred) + (1.0 - y_true) * K.maximum(0.0, y_pred - margin))
-
-
 def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors(PATH_WORD_VECTOR)
@@ -196,75 +176,6 @@ def get_model(vocab_df):
     return training_model
 
 
-def train(vocab_df):
-    train_data_df = get_and_preprocess_data(PATH_DATA_TRAIN, separator='\t')
-    dev_data_df = get_and_preprocess_data(PATH_DATA_DEV, separator='\t')
-    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
-
-    train_org_q_onehot_list, train_related_q_onehot_list, train_label_list = onehot_data(vocab_df, train_data_df,
-                                                                                         padding=True, maxlen=maxlen_input)
-    dev_org_q_onehot_list, dev_related_q_onehot_list, dev_label_list = onehot_data(vocab_df, dev_data_df,
-                                                                                   padding=True, maxlen=maxlen_input)
-    test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
-                                                                                      padding=True, maxlen=maxlen_input)
-
-    dev_org_q_list = dev_data_df['org_q'].values
-    dev_related_q_list = dev_data_df['related_q'].values
-
-    train_org_q_list = train_data_df['org_q'].values
-    train_related_q_list = train_data_df['related_q'].values
-
-    test_org_q_list = test_data_df['org_q'].values
-    test_related_q_list = test_data_df['related_q'].values
-
-    callback_val_data = [dev_org_q_list,
-                         dev_related_q_list,
-                         dev_label_list,
-                         [dev_org_q_onehot_list, dev_related_q_onehot_list]]
-    callback_train_data = [train_org_q_list,
-                           train_related_q_list,
-                           train_label_list,
-                           [train_org_q_onehot_list, train_related_q_onehot_list]]
-    callback_test_data = [test_org_q_list,
-                          test_related_q_list,
-                          test_label_list,
-                          [test_org_q_onehot_list, test_related_q_onehot_list]]
-
-    callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
-                     ModelCheckpoint('siameselstm-0509-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map',
-                                     verbose=1,
-                                     save_best_only=True, mode='max'),
-                     EarlyStopping(monitor='val_map', mode='max', patience=10)]
-
-    model = get_model(vocab_df)
-
-    Y = np.array(train_label_list)
-
-    # model.fit(
-    #     [train_org_q_onehot_list, train_related_q_onehot_list],
-    #     Y,
-    #     epochs=15,
-    #     batch_size=32,
-    #     validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
-    #     verbose=2
-    # )
-
-    model.fit(
-        [train_org_q_onehot_list, train_related_q_onehot_list],
-        Y,
-        epochs=100,
-        batch_size=32,
-        validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
-        verbose=2,
-        callbacks=callback_list
-    )
-
-    history = model.history.history
-    print(history)
-    with open('test-pool1-0519.json', 'w+') as fp:
-        json.dump(history, fp)
-
-
 def test(vocab_df):
     model = get_model(vocab_df)
     model.load_weights('model/siamese lstm/euclid/memory units 256/siameselstm-0509-21-0.71.h5')
@@ -290,6 +201,7 @@ def test(vocab_df):
     # mAP_df = classifier.caculate_map_queries(test_data_df)
     # mAP_df = mAP_df.sort_values(by=['id'])
     # return mAP_df
+
 
 vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['onehot'])
 

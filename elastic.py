@@ -469,15 +469,15 @@ def tmp():
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
 #                      path_raw_result='elastic/search_result/test/')
 # statistic_search_result()
-caculate_mAP('elastic/judged/test-data/tmp', strict=False)
+# caculate_mAP('elastic/judged/test-data/tmp', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
 #             explicit_path_use='elastic/judged/ezquestion/*.json',
 #             explicit_path_raw='data/similar1/raw/ez-moreinfo-strict.json')
-# raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
-#             explicit_path_use='data/p    ool5/train/*.json',
-#             explicit_path_raw='data/pool5/raw/train.txt')
+raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
+            explicit_path_use='data/pool1/dev/*.json',
+            explicit_path_raw='data/pool1/raw/dev.txt')
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
 #             explicit_path_use='data/pool5/dev/*.json',
 #             explicit_path_raw='data/pool5/raw/dev.txt')
@@ -488,9 +488,9 @@ caculate_mAP('elastic/judged/test-data/tmp', strict=False)
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
 #             explicit_path_use='data/pool4/dev/*.json',
 #             explicit_path_raw='data/pool4/raw/dev.txt')
-# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=True,
+# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
 #             explicit_path_use='elastic/judged/test-data/tmp/*.json',
-#             explicit_path_raw='data/test_data/raw/test-moreinfo.txt')
+#             explicit_path_raw='data/test_data/raw/test.txt')
 
 # split_data(path_glob='elastic/judged/tmp/*/*.json', test=False)
 
@@ -498,5 +498,4 @@ caculate_mAP('elastic/judged/test-data/tmp', strict=False)
 
 
 # raw_query_pool()
-
 

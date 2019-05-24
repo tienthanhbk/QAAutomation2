@@ -2,8 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import json
+from convenion import get_word_vectors, get_and_preprocess_data, onehot_data, map_score, AnSelCB
 
-def visualize_history(history_path='history/bi-lstm-vector-baomoi.json'):
+def visualize_history(history_path='history/hiddenlayer 0-vector-baomoi.json'):
     with open(history_path, 'r') as file:
         history = json.load(file)
         print(history.keys())
@@ -12,7 +13,7 @@ def visualize_history(history_path='history/bi-lstm-vector-baomoi.json'):
         plt.plot(history['val_map'])
         plt.plot(history['test_map'])
 
-        plt.title('bi-lstm-base mAP')
+        plt.title('hiddenlayer 0-base mAP')
         plt.ylabel('mAP')
         plt.xlabel('epoch')
         plt.legend(['train', 'val', 'test'], loc='upper left')
@@ -21,7 +22,7 @@ def visualize_history(history_path='history/bi-lstm-vector-baomoi.json'):
         # summarize history for loss
         plt.plot(history['loss'])
         plt.plot(history['val_loss'])
-        plt.title('bi-lstm-base loss')
+        plt.title('hiddenlayer 0-base loss')
         plt.ylabel('loss')
         plt.xlabel('epoch')
         plt.legend(['train', 'val'], loc='upper left')
@@ -59,4 +60,30 @@ def visualize_feature():
     plt.show()
 
 
-visualize_history('/Users/tienthanh/Projects/ML/QAAutomation/siamese-lstm-pool1-0509.json')
+def count_positive():
+    PATH_DATA_TRAIN = 'data/pool1/raw/train.txt'
+    PATH_DATA_DEV = 'data/pool1/raw/dev.txt'
+    PATH_DATA_TEST = 'data/test_data/raw/test.txt'
+    train_data_df = get_and_preprocess_data(PATH_DATA_TRAIN, separator='\t')
+    dev_data_df = get_and_preprocess_data(PATH_DATA_DEV, separator='\t')
+    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
+
+    train_data_df['len_org_q'] = [len(row['org_q'].split()) for index, row in train_data_df.iterrows()]
+    train_data_df['len_related_q'] = [len(row['related_q'].split()) for index, row in train_data_df.iterrows()]
+
+    dev_data_df['len_org_q'] = [len(row['org_q'].split()) for index, row in dev_data_df.iterrows()]
+    dev_data_df['len_related_q'] = [len(row['related_q'].split()) for index, row in dev_data_df.iterrows()]
+
+    test_data_df['len_org_q'] = [len(row['org_q'].split()) for index, row in test_data_df.iterrows()]
+    test_data_df['len_related_q'] = [len(row['related_q'].split()) for index, row in test_data_df.iterrows()]
+
+    test_data_df['len_related_q'].mean()
+
+
+    len_positive_train = len(train_data_df[train_data_df['label'] == 1])
+    len_positive_dev = len(dev_data_df[dev_data_df['label'] == 1])
+    len_positive_test = len(test_data_df[test_data_df['label'] == 1])
+
+
+visualize_history('concat-bilstm-0516-pool1-256units-64nodes.json')
+
