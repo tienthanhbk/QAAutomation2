@@ -1,16 +1,10 @@
 from gensim.utils import simple_preprocess
+from gensim.models import Word2Vec, KeyedVectors
 from gensim.models.doc2vec import TaggedDocument, Doc2Vec
-from gensim.models import KeyedVectors
-import smart_open
 # import json_lines
 from underthesea import word_tokenize
 import jsonlines
-import os
-import collections
-import random
-from pyvi import ViTokenizer, ViPosTagger
-import convenion
-
+from src import convenion
 
 # Base on https://blog.duyet.net/2017/10/doc2vec-trong-sentiment-analysis.html#.XJdzLOszbwc
 
@@ -54,10 +48,13 @@ def train_model():
 
 
 def test_model():
-    model = Doc2Vec.load('gensim/model/question.d2v')
-    print(model.wv.most_similar('pin - sạc'))
-    print(model.wv.most_similar('ip'))
-    print(model.wv.most_similar('loa - âm thanh'))
+    # model = Doc2Vec.load('/Users/tienthanh/Projects/ML/QAAutomation/gensim/model/question.d2v')
+    # model.save_word2vec_format('/Users/tienthanh/Projects/ML/QAAutomation/gensim/test')
+    model = KeyedVectors.load_word2vec_format('/Users/tienthanh/Projects/ML/QAAutomation/gensim/wv')
+    return model
+    # print(model.wv.most_similar('pin - sạc'))
+    # print(model.wv.most_similar('ip'))
+    # print(model.wv.most_similar('loa - âm thanh'))
     # print(model.infer_vector(['còn', 'hàng', 'không']))
 
 
@@ -94,5 +91,34 @@ def raw_vectors_and_vocab():
     raw_my_vectors_to_file(my_model)
     raw_vocab_with_index(my_model)
 
+
 # train_model()
-raw_vectors_and_vocab()
+# raw_vectors_and_vocab()
+model = test_model()
+
+model.get_vector('anh')
+model.similar_by_word('iphon')
+model.most_similar()
+
+from sklearn.decomposition import PCA
+from matplotlib import pyplot
+
+# X = model[model.wv.vocab]
+# pca = PCA(n_components=3)
+# result = pca.fit_transform(X)
+# # create a scatter plot of the projection
+# pyplot.scatter(result[:, 0], result[:, 1])
+# words = list(model.wv.vocab)
+# for i, word in enumerate(words):
+#     pyplot.annotate(word, xy=(result[i, 0], result[i, 1]))
+# pyplot.show()
+
+# train_corpus = list(read_corpus(PATH_QA))
+#
+# model_2 = Word2Vec(size=400, min_count=1)
+# model_2.build_vocab(train_corpus)
+# total_examples = model_2.corpus_count
+# model = KeyedVectors.load_word2vec_format("/Users/tienthanh/Projects/ML/QAAutomation/gensim/wv", binary=False)
+# model_2.build_vocab([list(model.vocab.keys())], update=True)
+# model_2.intersect_word2vec_format("/Users/tienthanh/Projects/ML/QAAutomation/gensim/wv", binary=False, lockf=1.0)
+# model_2.train(train_corpus, total_examples=total_examples, epochs=model_2.iter)

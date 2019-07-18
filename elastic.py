@@ -1,26 +1,48 @@
 import jsonlines
-import convenion
+from src import convenion
 from elasticsearch import Elasticsearch
 import json
 import random
 import glob
 import os
 import numpy as np
-import pandas as pd
-from pandas import DataFrame, Series
 import sklearn
 import shutil
 
-from gensim.utils import simple_preprocess
-from gensim.models.doc2vec import TaggedDocument, Doc2Vec
-from underthesea import word_tokenize
+from gensim.models.doc2vec import Doc2Vec
 
-
+PATH_NEW_QUESTIONS_GLOB = '/Users/tienthanh/Projects/ML/datapool/tgdd_qa/general/*.jl'
 PATH_QUESTION_ANSWER = '/Users/tienthanh/Projects/ML/datapool/tgdd_qa/iphone-6-32gb-gold.jl'
 # PATH_QUESTION_ANSWER = '/Users/tienthanh/Projects/ML/datapool/tgdd_qa/QA-example.jl'
-PATH_QUESTION_ANSWER_INDEXER = './elastic/qa_indexer.jl'
+PATH_QUESTION_ANSWER_INDEXER = 'elastic/qa_indexer.jl'
 
 URL_SEARCH = 'http://127.0.0.1:9200/qa_tgdd/_search'
+
+
+def raw_index_file2():
+    with jsonlines.open(PATH_QUESTION_ANSWER_INDEXER, mode='w') as writer:
+
+        file_paths = glob.glob('/Users/tienthanh/Projects/ML/datapool/tgdd_qa/general/*.jl')
+
+        for path in file_paths:
+            with jsonlines.open(path) as reader:
+                for qa in reader:
+                    # if not convenion.is_valid_qa(qa):
+                    #     continue
+                    id_doc = qa['id']
+                    question = qa['question']
+                    answer = '_'
+                    # print(question_custom)
+                    # print(answer_custom)
+                    # print(question_removed_stopword)
+                    # print(answer_removed_stopword)
+                    doc_id = {"index": {"_id": id_doc}}
+                    doc = {
+                        "question": question,
+                        "answer": answer,
+                    }
+                    writer.write(doc_id)
+                    writer.write(doc)
 
 
 def raw_index_file():
@@ -53,56 +75,13 @@ def raw_index_file():
                 writer.write(doc)
 
 
-def get_search_result(query_obj, page=0, size=10, field_search="question", **kwargs):
-    es = Elasticsearch()
-    body = {
-        "query": {
-            "match": {
-                field_search: query_obj['question']
-            }
-        },
-        # "from": 1,
-        "size": 200
-    }
-    res = es.search(index='qa_tgdd', body=body)
-    results = res['hits']
-    current_hits = res['hits']['hits']
-    raw_hits = []
-    for hit in current_hits:
-        if len(hit['_source']['question']) == 0 or len(hit['_source']['answer']) == 0:
-            continue
-        raw_hit = {
-            "score": hit['_score'],
-            "id": hit['_id'],
-            "field_search": field_search,
-            "question": hit['_source']['question'],
-            "answer": hit['_source']['answer'],
-            "relate_q_q": 0
-        }
-        print(raw_hit)
-        raw_hits.append(raw_hit)
-
-    raw_result = {
-        "id_query": query_obj['id'],
-        "total": results['total'],
-        "total_current": len(results['hits']),
-        "max_score": results['max_score'],
-        "origin_question": query_obj['question'],
-        "hits": raw_hits
-    }
-
-    return raw_result
-    # with open('search_results_exp.json', 'w') as outfile:
-    #     json.dump(raw_result, outfile)
-
-
-def refresh_query_pool():
+def refresh_query_pool(path_searched='elastic/judged/tmp/*/*.json', path_pool='elastic/query-pool/query_pool.json'):
     # safe to run
     # paths1 = glob.glob('elastic/judged/2hardquestion/*.json')
     # paths2 = glob.glob('elastic/judged/ezquestion/*.json')
     # paths = glob.glob('elastic/judged/tmp/*/*.json') + paths1 + paths2
 
-    paths = glob.glob('elastic/judged/tmp/*/*.json')
+    paths = glob.glob(path_searched)
     # paths = glob.glob('elastic/judged/test-data/tmp/*.json') + glob.glob('elastic/judged/test-data/2ez/*.json') + \
     #         glob.glob('elastic/judged/test-data/2hard/*.json')
 
@@ -120,8 +99,54 @@ def refresh_query_pool():
 
             arr_query.append(query)
 
-    with open('elastic/query-pool/query_pool.json', 'w+') as f:
+    with open(path_pool, 'w+') as f:
         json.dump(arr_query, f)
+
+
+def raw_query_pool2():
+    with open('/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json') as f:
+        queries = json.load(f)
+        print("Current queries len: ", len(queries))
+        print("\n")
+        arr_id = [query['id'] for query in queries]
+        arr_id_checked = list(arr_id)
+
+        arr_question_source = []
+        for path in glob.glob(PATH_NEW_QUESTIONS_GLOB):
+            with jsonlines.open(path) as reader:
+                for qa in reader:
+                    # if not convenion.is_valid_qa(qa):
+                    #     continue
+                    arr_question_source.append(qa)
+
+        # print(random.choice(arr_question_source))
+
+        user_judge = ''
+
+        while (len(arr_id) != 2160) and (user_judge != '0'):
+            qa_checking = random.choice(arr_question_source)
+            if qa_checking['id'] in arr_id_checked:
+                continue
+            arr_id_checked.append(qa_checking['id'])
+            # print("Question: %(question)s\n" %qa_checking)
+            # print('Input your jugde for quenstion: ')
+            # user_judge = input(qa_checking['question'] + '\n')
+            user_judge = '1'
+            if user_judge != '1':
+                print("Collecting next question...\n")
+                continue
+            print("Add to query...\n")
+            arr_id.append(qa_checking['id'])
+            queries.append({
+                'id': qa_checking['id'],
+                'question': qa_checking['question'],
+                'searched': 0
+            })
+            print("Current queries len: ", len(queries))
+            print("\n")
+
+        with open('/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json', 'w') as outfile:
+            json.dump(queries, outfile, indent=3, ensure_ascii=False)
 
 
 def raw_query_pool():
@@ -190,34 +215,38 @@ def split_data(path_glob, test=True):
         train_paths, dev_paths = train_dev_test_split(paths, test=test)
 
     for path in train_paths:
-        destination_dict = 'data/pool5/train'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/train'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in dev_paths:
-        destination_dict = 'data/pool5/dev'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/dev'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in test_paths:
-        destination_dict = 'data/pool5/test'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
 
-def raw_pool(kind='train', pool='similar2', max_judged=30, strict=False):
+def raw_pool(kind='train', pool='similar2', max_judged=10, strict=False):
     # Change kind variable to train, dev, test
     # kind: train, dex, test
     # pool: similar1 - pool10
-    explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
-    explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
+    # explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
+    # explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
+
+    explicit_path_use = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test/*.json'
+    explicit_path_raw = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/raw/test.txt'
 
     raw_to_file(strict=strict,
                 separator='\t',
                 max_judged=max_judged,
                 more_info=False,
                 explicit_path_use=explicit_path_use,
-                explicit_path_raw=explicit_path_raw)
+                explicit_path_raw=explicit_path_raw,
+                tokenize=False)
 
 
 def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=None, more_info=False,
@@ -225,6 +254,10 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
     # Raw all judged result in specific path to a text file
     # Modify PATH_USED
     # Raw data from json to csv like files
+
+    num_positive = 0
+    num_negative = 0
+
     PATH_TRAIN_REGEX = 'data/similar1/train/*.json'
     PATH_DEV_REGEX = 'data/similar1/dev/*.json'
     PATH_TEST_REGEX = 'data/similar1/test/*.json'
@@ -251,7 +284,7 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
         PATH_USED = explicit_path_use
         PATH_RAW = explicit_path_raw
 
-    doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
+    # doc2vec_model = Doc2Vec.load('gensim/model/question.d2v')
 
     path_judgeds = glob.glob(PATH_USED)
     with open(PATH_RAW, 'w+') as raw_file:
@@ -261,8 +294,11 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                 judged_result = json.load(file_judged)
 
                 origin_question = judged_result['origin_question']
+
                 if tokenize:
                     origin_question = convenion.customize_string(origin_question)
+                else:
+                    origin_question = convenion.simple_customize_string(origin_question)
                 id_origin_q = judged_result['id_query']
                 max_score = judged_result['max_score']
                 current_judged = 0
@@ -270,6 +306,8 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     judged_question = hit['question']
                     if tokenize:
                         judged_question = convenion.customize_string(judged_question)
+                    else:
+                        judged_question = convenion.simple_customize_string(judged_question)
                     id_judged_q = hit['id']
                     score_search = hit['score']
 
@@ -282,8 +320,8 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     # cosin_distance = doc2vec_model.wv.cosine_similarities(vec_org_q, np.array([vec_related_q]))[0]
 
                     label = '0'
-                    if hit['relate_q_q'] == 0:
-                        continue
+                    # if hit['relate_q_q'] == 0:
+                    #     continue
 
                     current_judged += 1
 
@@ -291,6 +329,8 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                         label = '1'
                     elif hit['relate_q_q'] == 1 and not strict:
                         label = '1'
+
+
                     # print(hit['question'])
                     # print(hit['relate_q_q'])
                     # print(label)
@@ -306,6 +346,13 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     if max_judged is not None:
                         if current_judged > max_judged:
                             break
+
+                    if hit['relate_q_q'] == 2:
+                        num_positive += 1
+                    elif hit['relate_q_q'] == 1 and not strict:
+                        num_positive += 1
+                    else:
+                        num_negative += 1
 
                     if not more_info:
                         raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
@@ -324,19 +371,69 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                         #     if current_judged >= max_judged:
                         #         break
                 file_judged.close()
+    print('num positive: ', num_positive)
+    print('num_negative: ', num_negative)
     raw_file.close()
 
 
-def search_by_query_pool(path_query_pool='elastic/query_pool-old.json', path_raw_result='./elastic/search_result/'):
+def get_search_result(query_obj, index, page=0, size=10, field_search="question", **kwargs):
+    es = Elasticsearch()
+    body = {
+        "query": {
+            "match": {
+                field_search: query_obj['question']
+            }
+        },
+        # "from": 1,
+        "size": 100
+    }
+    res = es.search(index=index, body=body)
+    results = res['hits']
+    current_hits = res['hits']['hits']
+    raw_hits = []
+    for hit in current_hits:
+        if len(hit['_source']['question']) == 0 or len(hit['_source']['answer']) == 0:
+            continue
+        raw_hit = {
+            "score": hit['_score'],
+            "id": hit['_id'],
+            "field_search": field_search,
+            "question": hit['_source']['question'],
+            "answer": hit['_source']['answer'],
+            "relate_q_q": 0
+        }
+        print(raw_hit)
+        raw_hits.append(raw_hit)
+
+    raw_result = {
+        "id_query": query_obj['id'],
+        "total": results['total'],
+        "total_current": len(results['hits']),
+        "max_score": results['max_score'],
+        "origin_question": query_obj['question'],
+        "hits": raw_hits
+    }
+
+    return raw_result
+    # with open('search_results_exp.json', 'w') as outfile:
+    #     json.dump(raw_result, outfile)
+
+
+def search_by_query_pool(path_query_pool='elastic/query_pool-old.json', path_raw_result='./elastic/search_result/',
+                         index='qa_tgdd'):
     with open(path_query_pool) as f:
         queries = json.load(f)
         for query_obj in queries:
             if query_obj['searched'] != 0:
                 continue
-            raw_result = get_search_result(query_obj)
+            query_obj['searched'] = 1
+            raw_result = get_search_result(query_obj, index=index)
             path = path_raw_result + str(query_obj['id']) + '.json'
             with open(path, 'w') as outfile:
-                json.dump(raw_result, outfile)
+                json.dump(raw_result, outfile, indent=3, ensure_ascii=False)
+
+        with open(path_query_pool, 'w') as outfile:
+            json.dump(queries, outfile, indent=3, ensure_ascii=False)
 
 
 def statistic_search_result():
@@ -400,9 +497,9 @@ def caculate_AP(path, strict, dict_path):
         arr_denote_top10 = []
         num_related = 0
         for hit in hits:
-            if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
-                continue
-            elif hit['relate_q_q'] == 2:
+            # if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
+            #     continue
+            if hit['relate_q_q'] == 2:
                 num_related += 1
                 arr_denote_all.append(1)
 
@@ -460,14 +557,73 @@ def caculate_mAP(dict_path, strict=False):
     print('sort: ', np.sort(nparr_AP))
 
 
-def tmp():
-    raw_pool(kind='train', pool='tmp', max_judged=10, strict=True)
-    raw_pool(kind='dev', pool='tmp', max_judged=10, strict=True)
-    raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
+def caculate_positive_ratio(dict_path):
+    paths = glob.glob(dict_path + "/*.json")
+    num_positive = 0
+    for path in paths:
+        with open(path, 'r') as f:
+            search_result = json.load(f)
+            hits = search_result['hits']
+            arr_denote_all = []
+            arr_denote_top30 = []
+            arr_denote_top10 = []
+            num_related = 0
 
-# raw_query_pool()
+            for hit in hits:
+                # if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
+                #     continue
+                if hit['relate_q_q'] == 2:
+                    num_related += 1
+                    arr_denote_all.append(1)
+
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(1)
+
+                    if len(arr_denote_top10) < 10:
+                        num_positive += 1
+                        arr_denote_top10.append(1)
+
+                elif hit['relate_q_q'] == 1:
+                    num_related += 1
+                    arr_denote_all.append(1)
+
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(1)
+
+                    if len(arr_denote_top10) < 10:
+                        num_positive += 1
+                        arr_denote_top10.append(1)
+
+                else:
+                    arr_denote_all.append(0)
+
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(0)
+
+                    if len(arr_denote_top10) < 10:
+                        arr_denote_top10.append(0)
+    return num_positive / (len(paths) * 10)
+
+
+
+def tmp():
+    raw_pool(kind='all', pool='newdata', max_judged=10, strict=False)
+    # raw_pool(kind='dev', pool='tmp', max_judged=10, strict=True)
+    # raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
+
+
+tmp()
+
+# raw_index_file2()
+# raw_query_pool2()
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
 #                      path_raw_result='elastic/search_result/test/')
+
+# Search general data:gensim/model/question.d2v
+# search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json',
+#                      path_raw_result='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/search_result/search/',
+#                      index='qa_general')
+
 # statistic_search_result()
 # caculate_mAP('elastic/judged/test-data/tmp', strict=False)
 
@@ -475,9 +631,9 @@ def tmp():
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
 #             explicit_path_use='elastic/judged/ezquestion/*.json',
 #             explicit_path_raw='data/similar1/raw/ez-moreinfo-strict.json')
-raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
-            explicit_path_use='data/pool1/dev/*.json',
-            explicit_path_raw='data/pool1/raw/dev.txt')
+# raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_info=False,
+#             explicit_path_use='data/pool1/dev/*.json',
+#             explicit_path_raw='data/pool1/raw/dev.txt')
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=10, more_info=False,
 #             explicit_path_use='data/pool5/dev/*.json',
 #             explicit_path_raw='data/pool5/raw/dev.txt')
@@ -492,10 +648,20 @@ raw_to_file(strict=False, tokenize=False, separator='\t', max_judged=10, more_in
 #             explicit_path_use='elastic/judged/test-data/tmp/*.json',
 #             explicit_path_raw='data/test_data/raw/test.txt')
 
-# split_data(path_glob='elastic/judged/tmp/*/*.json', test=False)
-
+# split_data(path_glob='/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/*/*.json', test=True)
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/dev'))
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test'))
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/train'))
 # refresh_query_pool()
+# refresh_query_pool(path_searched='elastic/anew_data/search_result/train/*.json',
+#                    path_pool='elastic/anew_data/query_pool/query_train.json')
 
 
 # raw_query_pool()
 
+# for path in glob.glob('/Users/tienthanh/Projects/ML/QAAutomation/data/8/*.json'):
+#     print(path)
+#     f = open(path, 'r')
+#     search_result = json.load(f)
+#     f_new = open(path, 'w')
+#     json.dump(search_result, f_new, indent=3, ensure_ascii=False)

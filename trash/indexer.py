@@ -1,6 +1,6 @@
 import os.path
 import json_lines
-import convenion
+from src import convenion
 from whoosh.index import *
 from whoosh.fields import *
 from whoosh.analysis import *

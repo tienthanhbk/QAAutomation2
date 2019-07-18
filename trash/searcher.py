@@ -1,11 +1,8 @@
-import os.path
-import json_lines
 from whoosh.index import *
-from whoosh.fields import *
 from whoosh.query import *
-from whoosh.qparser import QueryParser, MultifieldParser
+from whoosh.qparser import MultifieldParser
 from whoosh.scoring import *
-import convenion
+from src import convenion
 
 INDEX_PATH_BASIC = 'index_basic'
 INDEX_PATH_NGRAM = 'index_ngram'
