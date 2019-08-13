@@ -1,0 +1,801 @@
+{
+   "id_query": "922064",
+   "total": 35267,
+   "total_current": 100,
+   "max_score": 254.73834,
+   "origin_question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+   "hits": [
+      {
+         "score": 121.235725,
+         "id": "771911",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Ip của mình bị hack icloud. Mình kiểm tra kích hoạt thì hệ thống báo ở chế độ \"bật\" rồi. Icloud của mình vẫn hiển thị trong máy, khi mình nhập pass cũ thì không được, mình đổi pass mới hệ thống báo đã đổi thành công, nhưng khi nhập pass mới vào máy thì lại báo pass hoặc ID không đúng. Giờ mình muốn thoát ID này khỏi máy thì mình phải làm sao? Máy mình 4s ios 7 chưa jailbreak, mình có thể khôi phục cài đặt được không. Mong ad cho ý kiến. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 119.365814,
+         "id": "997766",
+         "field_search": "question",
+         "question": "mình mới mua Iphone 7 plus lúc đầu đăng nhập tk apple vào không sao hết nhưng sau khi mình khỏi động lại thì máy yêu cầu nhập tk apple. mình nhập đúng nhưng vẫn không vào được trên ip7 ( đã đăng nhập thành công trên máy tính và ip khác) ad cho hỏi có cách nào khắc phục không ạ . ID apple đúng máy rồi nhưng sao không vào được , có phải ip yêu cầu @icloud.com hay không , do mình xài ID apple là @gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 118.28676,
+         "id": "1153217",
+         "field_search": "question",
+         "question": "mình có 1 cái ip có đăng nhập icloud nhưng ko nhớ mật khẩu mở khoá ip, sau đó mình đùng icloud của ip đó đăng nhập vào ip khác thì không thấy thông tin dữ liệu từ ip cũ vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 115.92412,
+         "id": "793380",
+         "field_search": "question",
+         "question": "Mình mua lại iPhone cũ của người khác, nhưng hiện đã đăng nhập iCloud và Apple ID của mình rồi. Giờ chủ cũ của máy không nhớ mật khẩu giới hạn thì mình có cách nào để gỡ bỏ cái mật khẩu đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.74111,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.77041,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.98835,
+         "id": "1016826",
+         "field_search": "question",
+         "question": "mình đang sử dụng con iphone 5s nhưng vừa rồi restore nên bị bắt đăng nhập tài khoản icloud nhưng mình quên cả ID và pass. bên kỹ thuật hỗ trợ giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 111.4377,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 111.21613,
+         "id": "900896",
+         "field_search": "question",
+         "question": "Mình dùng IP 5s sau khi khôi phục lại máy, phần cài đặt nhập Icloud mình hiện thông báo:Phê duyệt IP này. Truy cập vào một trong các thiết bị khác của bạn được đăng nhập vào icloud để phê duyệt IP này. loading báo chờ mà mình đăng nhập icloud vào mà không biết phê duyệt ở đâu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.578766,
+         "id": "749548",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi: Mình mua 1 ipad ( ipad mini 2 retina) đã qua sử dụng, người ta nói máy mới 99% (bị trầy 1 vết nhỏ trên màn hình), nhìn vào phần cài đặt thì ko có Tài khoản icloud nào cả, người ta cũng bảo là ko có TK icloud ẩn, mình hỏi reset lại máy dc ko , họ bảo cho reset máy thoải mái ko vấn đề gì, nhưng họ cũng bảo là resest máy rất mất thời gian nên mình ko reset máy nữa. Sau đó họ tạo ID apple và tài khoản icloud cho mình và đăng nhập trên ipad mini 2 retina đó, và mỗi lần mình có tải gì về hay có hành động gì , mình nhập pass icloud cũng đúng như họ đã tạo, mình cũng có có thư thông báo của apple vào gmail về mọi thứ, ví dụ như :\" ID Apple của bạn, ...... , vừa được sử dụng để tải Viber về từ App Store trên một máy tính hoặc thiết bị chưa từng được liên kết với ID Apple này của bạn. Bạn cũng có thể nhận email này nếu bạn cài đặt lại mật khẩu của mình từ lần mua hàng vừa qua.\"Cho mình hỏi : \"máy ipad chưa từng được liên kết với ID Apple này\" là sao ? Có phải máy Ipad này đã liên kết với 1 Tài khoản nào khác mà mình không biết không ?Và mình vừa phát hiện có 1 kiểu check icloud trên trang web máy tính, mình điền số imei của ipad mini 2 retina vào, nhập mã code như hình và enter thì ra kết quả : \"Kích hoạt khóa : On ( Mở)\" , Vậy có nghĩa là thế nào hả Admin ? bình thường là nó OFF mà !!Mình nghĩ Máy ipad của mình có nick icloud ẩn của chủ cũ và họ đã kích hoạt khóa, và đây là hàng ăn trộm đúng ko ? theo trường hợp này, nếu mình Nhấn reset máy thì máy sẽ hiện cái gì, ( máy đã JB), máy sẽ hỏi TK icloud cũ hay mình vẫn nhập cái Tk icloud của mình vẫn được.Trường hợp 2 : Không có gì lừa đảo ở đây cả, có phải mình tự tạo TK icloud và ID apple thì nó tự động kích hoạt khóa rồi ko ? ko phải là ai khác kích hoạt khóa , đó là do tk của chính mình hết đúng ko ?Mình không mua hàng ở TGDĐ nhưng có thể tư vấn cho mình được không ? Mình phải hỏi nhiều nơi khác trước khi mình hỏi chỗ mình mua , vì nếu họ lừa đảo thì họ vẫn giải thích sai cho mình. Bạn thông cảm cho mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.99316,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.87161,
+         "id": "815121",
+         "field_search": "question",
+         "question": "Mình có con ip 6s nếu mình quên mất mật khẩu iCloud (Apple iD) b ây giờ muốn đăng xuất khoải máy thì làm như thế nào? ( Mình đã có 1 tài khoản khác để thay thế rồi )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.3543,
+         "id": "1161171",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi mình một thời gian không sử dụng sđt nên bị khoá số và người khác đã sử dụng . Bây giờ mình không thể đăng nhập vào iCloud vậy mình phải làm thế nào để đăng nhập lại iCloud dc xin các bạn chỉ mẹo giúp mình nhé. Hi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 107.53355,
+         "id": "961147",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đã tạo được id apple và đã đăng nhập ok,nhưng khi mình tải đồ thì lại bắt mình nhập mật khẩu của tài khoản khác,như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 107.088066,
+         "id": "939772",
+         "field_search": "question",
+         "question": "Anh mình mua lại 1 chiếc iphone 7 plus nhưng sau khi mua thì chủ cũ đã restore và ko có apple ID thì mình phải làm sao bạn mình liên lạc lại thì chũ cũ không giúp anh mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.507484,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.7461,
+         "id": "995288",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6 cũ TGDĐ, nhưng khi về nhập Icloud thì lại hỏi như thế này, liệu có phải máy vẫn còn dính Icloud của chủ cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.05682,
+         "id": "889216",
+         "field_search": "question",
+         "question": "Mình muốn nang cấp phần mềm iOS 10 nhưng chỉ sợ là lúc nâng cấp xong thì kêu phải đăng nhập bằng tài khoản , lúc trước mình cung có và làm do quên nên máy trở thành cục sắt luôn , h mình muốn nang cấp mà lại quen mk iCloud , nó cứ hiện lên là đăng nhập tài khoản iCloud , một máy mà mìn sử dụng tài khoản iCloud , và id Apple , ko biết có thể nang cấp phần mềm đc ko , nâng cấp thì mình chỉ cần tài khoản id hay iCloud vậy , mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.5377,
+         "id": "876438",
+         "field_search": "question",
+         "question": "Mong Admin giúp đỡ.mình mua 1 máy ip 5s,nhưng ko đăng ký icloud.Muốn chơi game,nhỏ cháu tự đăng ký Id..nhưng khổ nỗi, id nó đăng ký như thế này. Pnhalam@gmail.comMình vào phần icloud trên maý,cứ bắt nhập mật khẩu.Mình vào trang id apple xem thì thông báo tài khoản chưa xác minh,đã bị khoá vì bảo mật an ninh..Máy hiện tại vẩn sử dụng bình thường,dow game bằng id khác..Mong admin giúp mình thoát id pnhalam@gmail.com với..Trân trọng cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.56261,
+         "id": "776417",
+         "field_search": "question",
+         "question": "Cho mình hỏi về icloud. Lúc trước khi mua ip4 mình mượn ID icloud của người bạn sau đó mới tạo ID cho mình dùng sau. Hiện nay mình đổi sang ip5, và muốn khôi phục dữ liệu từ dt cũ qua đt mới bằng icloud, nhưng tại sao trong quá trình reset lại máy ip5 thì máy yêu cầu nhập id và pass của người bạn mình vậy ạh ???? Mình đã nhập chính xác, nhưng ko biết việc đó có ảnh hưởng gì dữ liệu của máy mình sang máy bạn mình ko ??? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.10697,
+         "id": "956011",
+         "field_search": "question",
+         "question": " sao mình đăng nhập id apple rồi mà giờ mình muốn thoát ra lại không được vậy m.n, giúp mình với. .PNG alt  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.60396,
+         "id": "1158337",
+         "field_search": "question",
+         "question": "mình có mua lại 1ip 7 và có tại icloud của mình roi.  nhưng khi mình vào của hàng để cập nhật các ứng dụng thì nó lại đưa ra một icloud khác và nhập mật khẩu nhưng mình o biết icloud đó.  nên o nhập được mật khẩu.  vậy ad có thể giúp mình o ạ.  cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.444565,
+         "id": "1142309",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Mình có đăng nhập icloud trên máy ip6s cho bố dùng. Ở nhà có lần nhờ cài app không biết nghịch thế nào mà bị khóa mất icloud. Mình có mua máy khác ip 6s+ và dùng đúng email cũ để đăng ký đúng id apple cũ thì vẫn được và hiện nay mình đang dùng bình thường. Xin hỏi id apple cũ trên máy ip6s làm sao để mình có thể xóa đi để reset máy được không ạ. Đã thử rất nhiều cách rồi nhưng không được ạ. Chân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.410515,
+         "id": "855187",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s nhưng do lâu không sử dụng đến. Giờ mình lấy dùng mở máy ra yêu cầu mình đăng nhập lại tk icloud.cho mình hỏi mình đăng nhập tk icloud rồi phải làm như thế nào nữa để đt mình lại dùng đc như trước đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.2913,
+         "id": "766820",
+         "field_search": "question",
+         "question": "Giúp mình với iPhone của mình thoát iCloud cũ và đăng nhập tài khoản mới vào Album rõ ràng không còn ảnh và video của iCloud cũ nữa, chỉ có mấy chục cái ảnh mình mới chụp, sao vào xem giới thiệu lại thấy số lượng ảnh và video trong máy rất nhiều (như trước khi mình thoát iCloud cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.13304,
+         "id": "995806",
+         "field_search": "question",
+         "question": "Em đã xoá ID của cửa hàng lúc trc để lập 1 ID mới và xoá luôn mess với fb đã cài từ ID cũ để tải lại nhưng khi em tải mess và fb thì lại bị bắt nhập mật khẩu của ID cũ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.38521,
+         "id": "799524",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản iCloud cho iPhone 5s .nhưng khi mình vào tải các ứng dụng máy lại bắt nhập mật khẩu của tài khoản khác. Mình phải làm như thế nào a?. Xin trợ giúp mình với. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.65551,
+         "id": "899571",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có dùng TK icloud của người khác đăng nhập vào máy mình, thì lúc đó iPhone báo là Merge hoặc Dont Merge Safari data & Danh bạ, mình không nhớ là mình bấm Merge hay không Merge nữa, mà mình check lại phone người đó với TK icloud đó thì không thấy có bất kì thứ gì từ máy mình chuyển qua. Giờ mình đăng nhập lại TK của mình rồi. Vậy cho mình hỏi mình thoát ra khỏi icloud của người kia thì dữ liệu bên máy mình hoàn toàn được bảo về và hết chia sẻ qua máy có đăng nhập TK icloud đó phải không?Và nữa là nếu mình lỡ bấm Merge rồi, thì những dữ liệu gì sẽ truyền qua TK icloud kia? Nếu vậy Safari date, danh bạ,... Các kiểu thì phải xoá ra sao?Xin cảm on rất nhiều! Mong sớm nhận được câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.583115,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.562454,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.66748,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.6477,
+         "id": "991844",
+         "field_search": "question",
+         "question": "Ad cho hỏi là 2 máy xài chung icloud . Khi restore lại máy . Có cần thoát icloud ra ko . Khi restore máy kia hỏi mã icloud để kích hoạt . Vạy máy e đang bị dính icloud phải ko . Có cách nào khắc phục hoàn toàn k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.75337,
+         "id": "1002269",
+         "field_search": "question",
+         "question": "Mình đang ip 5s. Tuần trước do máy bị rơi nên sụp nguồn, mình đi sửa và phải thay phần cứng. Khi sửa về, máy mình chỉ đăng nhập vào icloud được, còn ITunes & App Store thì không thể nào đăng nhập được. Mỗi lần đăng nhập là máy báo nhập mã xác minh ( trong khi mình chẵng biết chỗ quái nào để nhập mã  xác mình cả). Mọi người giúp đỡ em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.55283,
+         "id": "1149702",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy iphone của e đã xoá ID aple này vi quen mk và thay thế ID khác nhưng khi vào app để tải ứng dụng thì lại bắt nhập ID cũ . lm cách nào để khắc phục vậy ạ. mong ad trả lời cho e sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.18192,
+         "id": "817475",
+         "field_search": "question",
+         "question": "Mình vừa mua ip6s tại cửa hàng tgdd. Máy mới 100%. Khi về sử dụng mình bị kẻ xấu đăng nhập tài khoản icloud và ko có mật khẩu để thoát. Hiện tại máy chưa restore vẫn sử dụng được. Mình đọc báo thấy thông tin apple vẫn xoá icloud cho kh nếu chứng minh được quyền sở hữu (hoá đơn mua hàng) và mua đúng tại đại lý uỷ quyền của apple. Máy mới mua được vài ngày. Nhờ anh/chị tư vấn giúp xem có đúng thông tin như vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.00194,
+         "id": "1169867",
+         "field_search": "question",
+         "question": "Mình muốn hỏi vấn đề là mình có mua qua tay 1 cái ip6s plus mã Việt Nam!. Mình dùng icloud của mình đăng nhập dùng bình thường khoảng hơn 1 năm. Hôm nay mình reset lại định cho người khác xài thì bị buộc phải đăng nhập với 1 icloud khác mình có hỏi vài ng thì nói là máy bị icloud ẩn. Imei:   353326070595675. Bên tgdd có thể kiêm tra giúp mình là máy có phải dc mua ở đây không. Vì mình có liên hệ với apple là cần phải có hoá đơn mua hàng thì apple mới hỗ trợ unlock. Vậy nếu dc mua tại tgdd thì tgdd có hỗ trợ cho mình hoá đơn mua hàng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.73009,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.366066,
+         "id": "931738",
+         "field_search": "question",
+         "question": "em dùng id cũ để nhập vào máy mới... nhưng chỉ vào đc icloud thôi ạ... còn vào itunes thì nó báo là \" ko thể xác minh, đã có lỗi khi kết nói với máy chủ id apple\".. vậy là sao ạ?.. giờ e ko vào app store để tải ứng dụng đc ạ... giúp e với..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.347946,
+         "id": "779561",
+         "field_search": "question",
+         "question": "Nhờ ad hỗ trợ mình cái này nhé! Mình vào app trên ipad để tải úng dụng thì khi mình nhập mật khẩu apple id thì báo tk của mình bị khóa, vui lòng đăng nhập trong cài đặt để mở khóa tài khoản, mình làm theo hết luôn, cái cuối cùng nó cứ báo lỗi máy chủ, vui lòng thử lại, mình thử hoài mà k đc, bị 1 ngày rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.09648,
+         "id": "773850",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi: ip 4s ban 7.1.1 van vao dung icloud của mình và say khi lỡ tay xoá find my iphone thì máy rẻsse lại và yêu cầu nhập icloud nhưng giờ nhập không đcMà trong gmail của mình thì vẫn nhậm dc thông báo là máy đã xoá tất cả. Vậy có cách nào để khắc phục icluod rồi dùng lại bt không?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.93089,
+         "id": "764415",
+         "field_search": "question",
+         "question": " mình mua lại iphone 5 mà vào icloud vẫn còn id cũ. làm thế nào để thoát id cũ và lập id mới vậy ad ơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.87216,
+         "id": "800022",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. lúc mình mua máy về có sử dụng tài khoản icloud của đứa bạn. sau đó mình đã sử dụng tài khoản icloud của mình. mình kiểm tra các thứ vẫn là tài khoản của mình nhưng khi mình cập nhật ứng dụng trong app store thì có phần itunes store bắt nhập mật khẩu cho id appel và khi đó nó hiện lên tài khoản của bạn mình.cho hỏi bây giwof mình phải làm thế nào để đăng xuất vĩnh viễn cái tài khoản của bạn mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.04962,
+         "id": "783144",
+         "field_search": "question",
+         "question": "E mới mua ipad, lúc vừa mua thì e đăng nhập tk của người khác nên số điện thoại và các thông tin khác của người đấy có hết trong ipad. bjo e muốn thoát hoàn toàn ra và nhập lại tài khoản mới của e như lúc mới mua thì cần làm những bước nào để sau này tải ứng dụng hay cài đặt ko bị hỏi mk cũ nữa (hiện giờ e còn mk của bạn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.82091,
+         "id": "786249",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tải 1 ứng dụng hay trò chơi nào đó trong appstore về máy thì vào phần nhận-> cài đặt load một lúc thì yêu cầu dùng ID Apple hiện có hoặc ID mới. Mình đăng nhập ID hiện có ko đc còn tạo cái mới thì nó cứ có phần Mã quà tặng Itunes và mã thư tín nhưng mình ko biết mã nó là gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.73833,
+         "id": "776276",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đăng xuất tài khoản icloud cũ rồi nhập tài khoản mới luôn khi mình cập nhật lại ứng dụng nó cứ kiu nhập mk cũ là s zị pn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.33736,
+         "id": "1144427",
+         "field_search": "question",
+         "question": "Lúc trước mình xoá icloud trên PC và hiện tại icloud đó đã không còn trên máy chủ Apple nhưng còn dính vào điện thoại mình và đánh mật khẩu thì ko thể xác minh thì bây giờ mình phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.1659,
+         "id": "815908",
+         "field_search": "question",
+         "question": "TGDD cho em hỏi . Tài khoản iCloud của của máy ip của mình lúc nào cũng đăng nhập trên máy hay là đăng nhập vào xong không dùng nữa thì thoát ra vậy. em chưa hiểu rõ lắm.xin chỉ bảo dùm em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.131165,
+         "id": "822688",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone 4 cũ, tôi đã lập được id app mới và đăng nhập tải được ứng dụng rồi. Nhưng khi tôi đăng nhập vào icloud bằng id app đó thì máy báo là đã hết tài khoản icloud miễn phí.Vậy tôi khắc phục thế nào đây addthank add nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.58289,
+         "id": "954976",
+         "field_search": "question",
+         "question": " Giúp mình với mình đăng nhập mà cứ bảo như thế này Mình van tải ứng dụng bằng ID này bình thường  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.55621,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.392334,
+         "id": "1004864",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi rằng:- lúc trước mình dùng ip 4s và có đăng nhập icloud trong máy đó.. giờ mình chuyển sang dùng 6 plus nên mình đã đăng xuất icloud ở ip4s chuyển Tk sang ip6 plus và em mình dùng ip4s đó tạo tài khoản khác để dùng rồiNhưng không hiểu sao khi mình lưu hay xóa số điện thoại danh bạ của 2 máy ý hệt nhau. Kiểu như lưu hay xóa số máy này thì máy kia tự động làm y hệt vậy..Có cách khắc phục không ạ. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.31321,
+         "id": "924595",
+         "field_search": "question",
+         "question": "Em xin hỏi cô em mới cho em một cái điện thoại iphone cũ, ID Apple cũ của cô chuyển sang máy mới rồi nên máy cũ bị vô hiệu hoá. Mà mail cô đặt lâu quá rồi nên không nhớ nó thế nào nữa để đặt lại ID Apple khác, trường hợp này em phải làm sao để sử dụng máy bình thường đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.1104,
+         "id": "904027",
+         "field_search": "question",
+         "question": "Bây giờ ID mình bị khóa vì lý do bảo mật. Sau đó mình chọn mở khóa tài khoản. Rồi nhập ID \"để lấy lại mật khẩu, mở khóa cho tài khoản, khôi phục lại ID apple\" nhưng nó lại thông báo là mail đó ko phải là ID apple. Vậy làm sao mình lấy lại được ID apple khi nó thông báo mail đó ko phải là ID apple. Mong các bạn giúp đỡ! hic hic",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.68588,
+         "id": "802089",
+         "field_search": "question",
+         "question": "Em mua điện thoại iPhone cũ mà khi kích hoạt nó báo như vậy : \" iphone này đang được liên kết với id apple (b*******yahoo.com) đăng nhập id apple đã được sử dụng để thiết lập iphone này \" e phải làm sao để kích hoạt đây ạ? Em không biết pass :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.53264,
+         "id": "1156888",
+         "field_search": "question",
+         "question": "mình sử dụng ipad đời cũ thôi (ipad1) khi mình đang xác minh id apple (để tải ứng dụng trên appstore) thì nó nói là \"id apple này chưa được sử dụng trước đó\" rồi mình bấm xem xét thì nó có bảo là cần cập nhật ios, mà mình kiểm tra máy lại bảo đây là bản mới nhất?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.48368,
+         "id": "924735",
+         "field_search": "question",
+         "question": "cho mình hỏi là cô mình có cho 1 ip4s lock IOS 7, có mật khẩu đăng nhập vào màn hình nhưng quên mật khâu iclou và mail. Thì ip đó có nghe gọi hay tải app vài xài bình thường không. Có cần phải thoát icloud đó ra ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.37307,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.22312,
+         "id": "1022412",
+         "field_search": "question",
+         "question": "Cho mình hỏi, trong phần số bị chặn ở facetime của mình có rất nhiều số lạ nhưng máy mình mua là máy mới. Mình nghĩ là:1- Khi bạn mình đăng nhập tài khoản icloud của nó vào máy mình, nên những số bị chặn còn lưu lại ( mặc dù đã log in icloud của mình lại rồi)2- Máy mình mua không phải là máy mới ( nhưng lúc mua mình chính tay mở hộp và active máy) 😩Vậy xin cho mình hỏi, khả năng nào là lớn nhất ạ. Hic hoang mang quá!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.14587,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.735855,
+         "id": "823094",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao máy mình hồi sáng dùng rất ok. Nhưng từ khi chiều đến giờ lại ko vào được facebook còn những ứng dụng kia lại vào bình thường, messanger cũng bị lỗi ko vào được, mình đã tắt nguồn và cài lại cài đặt gốc nhưng ko hề được. Nó hiện lên như này khi mình đăng nhập vào facebook này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.58018,
+         "id": "905521",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua ip6s pl 16g hôm qua 26/10/2016 sau khi kiểm tra máy tại cửa hàng thì mình thấy ko có vấn đề gì, sau khi về nhà mình mở icloud ra thì lại có cả tên đăng nhập và mât khẩu rồi, đăng xuất ra cũng ko đc, với còn cả đống hình ảnh trong album với danh bạ thì số đt quá chừng trong khi đó mình chưa đụng chạm gì vào hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.227295,
+         "id": "1159214",
+         "field_search": "question",
+         "question": "làm thế nào để đăng nhập icloud mới vào máy khi quên mật khẩu icloud cũ , không thoát được icloud cũ ra ạ. ip6 plus ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.13638,
+         "id": "1152121",
+         "field_search": "question",
+         "question": "Cho mình hỏi với mình đăng ký ID Apple, đã xác minh địa chỉ mail, khi đăng nhập vào iTunes & App Store nó báo \"Không thể đăng nhập, Đã xảy ra sự cố khi kết nối với máy chủ\" là bị sao vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.07977,
+         "id": "783336",
+         "field_search": "question",
+         "question": "Muốn mở khoá icloud cần phải làm gì?Tôi mới bị mất một chiếc điện thoại iphone có cài đặt icloud nhưng trong khoảng 1h icloud trên máy đã bị phá cho hỏi bằng cách nào mà người kia có thể phá icloud nhanh như vậy ??? Lúc phát hiện bị mất tôi có vào máy tính báo mất trên ứng dụng icloud và đã cho khoá iphone nhưng ngay thời gian 15 phút tôi đăng nhập lại icloud mà không được vì tài khoản đã bị xoá?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.94935,
+         "id": "909798",
+         "field_search": "question",
+         "question": " Tài khoản icloud mình đã đăng xuất ra khỏi máy rồi thì lâu quá mình k đăng nhập lại thì nó có tự động mất không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.933685,
+         "id": "909485",
+         "field_search": "question",
+         "question": "Mình bị mất sim , nhưng vẫn nhớ pass , và mình vẫn đang sài ZALO bình thường khi ko cần sim , mình đăng nhập bằng cách điền số đt và pass thôi , mà sim đó chưa đăng ký . Bây giờ mình đăng ký lại sim thì có xảy ra vấn đề gì không ??? và nếu mình muốn dùng sim khác để đăng nhập nick zalo cũ thì có làm đc ko ? ( kiểu như muốn đổi số đt nhập này qa số đt đăng nhập khác mà nick vẫn là nick cũ ấy ) .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.628456,
+         "id": "807151",
+         "field_search": "question",
+         "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.60597,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.60593,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.31123,
+         "id": "823458",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tài khoản iCloud của mình do bạn mình k biết nên thoát nhiều lần không được nên bị vô hiệu quả do đánh sai mật khẩu nhiều lần và email để kích hoạt lại thì lại là tài khoản iCloud luôn nên mình không thể kích hoạt lại qua email, máy mìn mua ở TGDĐ và còn bảo hành hơn 6 tháng . Cho mình hỏi mình phải làm sao để kích hoạt lại iCloud và có ai có thể giúp được mình điều này không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.23833,
+         "id": "783152",
+         "field_search": "question",
+         "question": "ngồi nghịch vớ vẩn máy của đứa em mình sao chép nó sđt và danh bạ restore lại cái backup .. tự dưng giờ dính luôn cái icloud cũ .. icloud đấy không nhớ pass để out .. Biểu tượng cảm xúc frown .. kiểm tra Activation Lock thì báo khóa kích hoạt tắt có nghĩa là không dính icloud à hay như nào .. giờ mà restore từ đầu thành máy mới cứng liệu có bị hỏi pass icloud kia ko .. ai giỏi iPhone chỉ dẫn giúp vs ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.139015,
+         "id": "748294",
+         "field_search": "question",
+         "question": "Mình đã xác minh TK ID Apple sau khi đc yêu cầu và đã báo xác minh thành công. Khi mình đăng nhập vào iCloud vẫn báo TK chưa được xác minh là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.98936,
+         "id": "778569",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua con iPhone 5 em đã quên kiểm tra icloud về thì em lở tay out ra khi nhập icloud mới của em vào để cập nhật tải ứng dụng nó báo bảo em phải nhập icloud của chủ trước mới cho phép cập nhật hay tải ứng dụng. Bây giờ em phải làm thế nào để cập nhật với tải ứng dụng được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.98049,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.94442,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.89617,
+         "id": "750742",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình khôi phuc lại iPhone khi máy bảo kích hoạt iPhone, mình đã nhâp đúng ID rồi mật khẩu sao máy báo là không được nhi? Mình đã dùng tài khoản đăng nhập vào https://appleid.apple.com/ thì vẫn được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.86444,
+         "id": "1162991",
+         "field_search": "question",
+         "question": "Giúp mình với ạ, mình đang có con iphone 7plus bị khóa apple id vì mình nhập sai mật khẩu mà trước đó mình chưa xác minh tài khoản apple id trong gmail. Bây giờ, mình có làm thủ tục mở khóa thì apple thông báo 8 ngày nữa mình sẽ được đặt lại apple id mới . Vậy cho mình hỏi sau 8 ngày đó nếu mình nhập đúng mật khẩu thì điện thoại có trở lại bth kh ạ.- Mong ad trả lời mình ạ. Mình cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.62156,
+         "id": "960416",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mở messenger luôn hiện ra chữ \" phiên đã hết hạn vui lòng đăng nhập để làm mới phiên của bạn\" mình đã xoá ứng dụng rồi tải lại nhưng vẫn k được. Làm ơn giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.57849,
+         "id": "805945",
+         "field_search": "question",
+         "question": "mình dùng máy iphone 5, vừa rồi có cập nhật bản ios mới. Khi kích hoạt lại máy đã nhập đúng mật khẩu icloud nhưng ko kích hoạt đc máy. Nhờ bạn cho hướng dẫn xử lý với.Mật khẩu icloud mình vẫn truy cập itunes bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.35807,
+         "id": "1005956",
+         "field_search": "question",
+         "question": "Mình đăng suất id apple rồi đăng nhập lại iphone mình báo số lượng tài khoản miễn phí tối đa đã đuợc kích hoạt trên iphone này. Liên hệ 01666860927",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.354065,
+         "id": "787213",
+         "field_search": "question",
+         "question": "cho mình hỏi : mình mới mua ip6s plus bên tgdd nhưng tài khoản id apple là của nhân viên tgdd đăng nhập. Mình k biết mật khẩu, vậy bh mình muốn đăng nhập bằng tk id apple của mình thì cần làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.18173,
+         "id": "1156898",
+         "field_search": "question",
+         "question": "Ad ơi. E láy icloud iphone đăng nhập vô ipab( trong khi ipad e có tài khoản) nhưng bgio e muốn thoát icloud của iphone ra ipab để e đăng nhập icloud ipab vào ,thì nó ciu sai id apple trong khi e vẫn nhớ. Nếu như vâty e có thể xài 2icloud trên cùng ipab và iphone dc kh ạ( mà iphone e bị hư nên e đaq tính sửa lại) sợ sửa rồi mà đăng nhập kh dc thì phone kh sài dc đúng kh ạ. Nhờ ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.15246,
+         "id": "779061",
+         "field_search": "question",
+         "question": "Mình sử dụng iPhone 4, hôm rồi mình có reset lại máy, nhưng máy mình chưa sao lưu dữ liệu lên iCloud, giờ mình phải làm sao để sử dụng máy? giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.76659,
+         "id": "1145575",
+         "field_search": "question",
+         "question": "Ngày trước mình bị hackk facebook vì insta mình liên kết vs face luôn nên cx mất. Sau khi mình đăng nhập lại đc facebook đó thì lại k vào đc ins, mà mình đã tạo tài khoản khác mà vẫn k đăng nhập đc bằng app trên đt mình. Nhưng khi vào app trên đt khác lại vào đc !! Làm thế nào để khôi phục lại app bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.69901,
+         "id": "792942",
+         "field_search": "question",
+         "question": "hi bạn,cho mình hỏi mình mua điện thoại IPhone 5s cũ, mình không có mật khẩu ID Apple nên lúc tải một số ứng dụng mình không tải được do bị yêu cầu mật khẩu. mình đã lập tk Icloud. Vậy giờ làm sao được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.55762,
+         "id": "987059",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình đã chạy lại chương trình của máy iphone 5 mà trong khi đó mình đã quên mật khẩu icloud của mình luôn r. Mình cũng đã mất luôn email khi lập cái icloud đó vậy bây h còn cách nào để mình có thể chạy lại chương trình đc ko hay là từ bỏ chiếc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.43481,
+         "id": "840714",
+         "field_search": "question",
+         "question": "Ip mình bị mất. Mình chọn chế độ xóa ip trong icloud. Vậy khi mình chọn chế độ này thì người nhặt được ip của mình có dùng được ip của mình hay không? Và chế độ xóa ip có phải là chế độ khóa máy vĩnh viễn khi không có pass đăng nhập icloud không add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.334015,
+         "id": "758584",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em muốn cập nhật ứng dụng nó lại ra cái id apple khác (điện thoại của em là hàng second hand) mà trong khi đó tải ứng dụng về thì nó lại ra id apple của em ạ?? Em muốn hỏi làm sao để out cái id apple thuyhang996cmt8@gmail.com ạ?? ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.292946,
+         "id": "768149",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình sử dụng iphone có icoud, mình đã đăng xuất icloud bên iphone để đăng nhập vào ipad. Nhưng hình ảnh máy này vẫn đồng bộ vào máy kia. Làm thế nào để ngưng đồng bộ 2 máy ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.24745,
+         "id": "911500",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu icloud vẫn sử dụng được bình thường và khi tắt máy chứ không phải restore thì có bị đòi mật khẩu icloud hay không ? Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.975586,
+         "id": "1137765",
+         "field_search": "question",
+         "question": "Cho mìn hỏi tí ạ: khi ứng dụng mình xoá đi sau đó tải lại sao lại không cần mật khẩu icloud nữa ạ ( mình muốn khi nào cũng hiển thị mật khẩu icloud hết) mong ac nào biết chỉ mình với ạThank you!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.971825,
+         "id": "757339",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bán Iphone 4S cũ cho 1 người, sau người đó hỏi mật khẩu Icloud để thoát ra rồi đăng nhập acc của họ vào. mình cho mật khẩu, rồi tự dưng thấy lo lo không biết có thể rủi ro gì không nhỉ? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.86256,
+         "id": "769263",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi iCloud trong máy bây giờ mình đăng xuất ra rồi đăng nhập lại bằng 1 cái mới lập được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.68668,
+         "id": "756032",
+         "field_search": "question",
+         "question": "Mấy bạn ơi cho mình hỏi. Mình mới mua lại iPhone 5. Mình đã xóa ID Apple cũ và tạo ID mới cho mình. Nhưng mà mình không đăng nhập vào được. Vậy bây giờ làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.621635,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.570656,
+         "id": "1163222",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng samsung J8, mình đã xóa lịch sử wifi bằng cách nhấn vào \"wifi đã lưu\" ấn \"quên\", nhưng không hiểu sao đi sửa máy về mở lịch sử ra lại thấy địa chỉ wifi mình đã xóa này. Sau đó mình thử xóa tương tự với một địa chỉ khác, nhưng nếu đăng nhập thì mình mới thấy lưu, còn không đăng nhập thì nó cũng ko lưu như trường hợp trên. Cho mình hỏi lý do với ạ, mình rất cần, Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.46238,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.10677,
+         "id": "1143590",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình đăng bài có kèm vài dòng cap nhưng chỉ đăng được ảnh còn dòng chữ bị mất, khi vào chỉnh sửa thì nó bảo là bị lỗi. Dù đã xoá ứng dụng rồi tải lại nhưng nó vẫn bị như vậy, không biết làm thế nào để khắc phục? Và sẵn tiện cho mình hỏi luôn là ins của mình tự động đi follow những người khác mặc dù mình không biết họ là ai, nhưng mà ngày nào cũng tự động follow bắt mình xoá muốn mệt người luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.08934,
+         "id": "797567",
+         "field_search": "question",
+         "question": "Các anh cho em hỏi ạ ! E dung ip4s ios 7.1.2 nếu em restore máy thì các cài đặt và ứng dụng đã cài sẽ bị xoá chỉ còn những ứng dụng mặc định thôi đúng không ạ ! Kể cả cydia cũng bị xoá chứ ạ !Và restore lại máy xong tải game về chơi vẫn đăng nhập gamecenter cũ kia như bình thường để sử dụng níck game cũ chứ ạ ! Hay là bị xoá hết dữ liệu không thể vào được níck cũ đang chơi ạ !Em đang chơi Clash of clan nên không muốn bỏ !Mong các anh giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "890778",
+   "total": 33739,
+   "total_current": 100,
+   "max_score": 78.36835,
+   "origin_question": "Ad cho e hỏi là. Máy laptop của e nó bị virus nặng. Vậy bên tgdd có hỗ trợ diệt virus được không. Hay là cài lại win được không.",
+   "hits": [
+      {
+         "score": 46.797718,
+         "id": "1154782",
+         "field_search": "question",
+         "question": "Mình mới mua máy laptop được 1 tuần, bị virus, hỏi TGDD có hỗ trợ cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.2562,
+         "id": "1134589",
+         "field_search": "question",
+         "question": "laptop e bị virus e mang ra tgdd chay lại win được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.17282,
+         "id": "870359",
+         "field_search": "question",
+         "question": "Thegioididong có nhận cài phần mềm diệt virus cho laptop k ? và cho mình hỏi bây giờ nên cài loại phần mềm diệt virus nào là tốt nhất ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.109055,
+         "id": "842916",
+         "field_search": "question",
+         "question": " cho hỏi gói dịch vụ diệt virus cho laptop xài mạnh mượt ko nặng máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.748665,
+         "id": "827583",
+         "field_search": "question",
+         "question": " cho e hỏi cách diệt virus trên iphone 5s vs. đt e bị virus mak e tìm phần mềm diệt virus mãi khôg đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.0129,
+         "id": "1155648",
+         "field_search": "question",
+         "question": "mình có mua laptop  bên TGDD , mình bị mất win 10, bên bạn có hỗ trợ cài win 10 lại không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.608833,
+         "id": "1133715",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có hỗ trợ cài win cho laptop ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.556286,
+         "id": "745876",
+         "field_search": "question",
+         "question": " Các anh chị giúp e với. Iphone 5s của e bị virus. A chị giúp e diệt virut được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.226284,
+         "id": "803757",
+         "field_search": "question",
+         "question": " có phần mềm nào diệt virus cho iPhone không vậy a,e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.1908,
+         "id": "777295",
+         "field_search": "question",
+         "question": "Cho em hỏi về máy iPhone. Em vào web thì máy báo nhiễm virus. Và có giới thiệu cho em cài Appcola để diệt virus nhưng em không biết tìm phần diệt virus ở đâu. Anh có thể giúp em được không ạ. Cảm ơn a.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.547012,
+         "id": "856044",
+         "field_search": "question",
+         "question": "mình có cài đặt chương trình bitdefender. mình tải au về nhưng bị lỗi phải tắt chương trình diệt virus đi, xem trên mạng hướng dẫn tắt phần WIndows defender nhưng mình tìm mãi ko được như trên mạngMình đã tắt được bitdefender rồi nhưng như vậy là tắt hết chương trình diệt virus chưa?Máy của mình dùng win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.191175,
+         "id": "803290",
+         "field_search": "question",
+         "question": "Bqt cho e hỏi với ạ!!E có mua máy laptop ở tgdd vào ngày 21/2/2016 hãng dell. Khi mua máy là được hỗ trợ cài win 10, bây giờ e muốn hạ xuống win 7 thì có bị mất chi phí ko ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.118044,
+         "id": "1017671",
+         "field_search": "question",
+         "question": "Lap của em có cài phần mềm chống virus McAfee livesafe ,trong lúc em đang tải dữ liệu lên gmail thì nhận được thông báo virus protection,nhưng vậy là máy em có bị nhiễm virus không vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.971714,
+         "id": "1155951",
+         "field_search": "question",
+         "question": "ad ơi! sao máy của e không bật được virus protection? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.818686,
+         "id": "801705",
+         "field_search": "question",
+         "question": " E mới mua iPhone 5s khi lên mạng thì máy báo bị nhiễm virus cần phải diệt gấp..... V máy có bị nhiễm virus ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.584911,
+         "id": "804542",
+         "field_search": "question",
+         "question": "Chào anh chị qtv, e muốn hỏi trong Tgdd có hỗ trỡ cài win10 hay win 8.1 cho laptop không, khi e không mua máy tại tgdd ạ. Nếu hỗ trợ mà mất phí thì khoảng bao tiền ạ. E xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.336924,
+         "id": "775763",
+         "field_search": "question",
+         "question": " Cho em hỏi ứng dụng diệt virus của iPhone 4 là cài đặt như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.32335,
+         "id": "775736",
+         "field_search": "question",
+         "question": "Cho tôi hỏi phần mềm windows defender trong win 7 có diệt virus được không? máy tính của tôi chỉ sử dụng mỗi phần mềm đó thì liệu có an toàn không? vừa qua kiểm tra má tính thì tôi phát hiện có một file tên wmiaprpl.h. File đó là an toàn hay virus?Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.192408,
+         "id": "1139654",
+         "field_search": "question",
+         "question": "Sau khi e reset máy xong thì máy e bị lỗi ạ. E có thể ra tgdd để hỗ trợ cài lại win 10 không ạ. E mua ở tgdd ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.988527,
+         "id": "757289",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5 khi xem phim thấy máy báo có virus 17 con có lúc lên 52 con rồi nếu không diệt virus sẽ hỏng pin tới 72%. Lần sau vào lại hiện và hiện hình ảnh của phần cài đặt đang quét virus ạ ? Cho em hỏi máy em bị nhiễn virus không? Cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.873388,
+         "id": "793259",
+         "field_search": "question",
+         "question": " Izoom 1201 của em bị nhiễm virus vậy làm cách nào để diệt nó  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.706411,
+         "id": "773037",
+         "field_search": "question",
+         "question": "anh thế giới di động của mình không còn cài dc win 7 cho máy tính vậy sao hôm bữa máy e bị lỗi e mang đi cài win lai thì bên tgdd ở quận 9 lại cài win 7 cho e .và giờ e muốn về win 8 bản quyền lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.546267,
+         "id": "771758",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 6s có phần mềm diệt virus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.382221,
+         "id": "616432",
+         "field_search": "question",
+         "question": " Điện thoại Iphone có cần phài cài phần mềm diệt virus không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.210218,
+         "id": "818341",
+         "field_search": "question",
+         "question": "KTV làm ơn cho em hỏi laptop của em không hiểu sao bị virus tên là hardware. Em dùng phần mềm avira quét rồi nhưng mà khi mở máy lại thì nó vẫn báo virus em đã tìm ra file định xóa file gốc những file được bảo vệ không xóa được. Xin KTV tư vấn giúp em làm sao để diệt tận gốc virus.Dong may dell n5448.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.076576,
+         "id": "1165130",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ cài lại win máy tính không ạmáy tính mình bị lỗi win rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.011267,
+         "id": "761118",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 6 Plus có phần mềm diệt virus không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.991182,
+         "id": "1150877",
+         "field_search": "question",
+         "question": "Cho em hỏi là nên chọn phần mềm diệt virus nào cho laptop tốt nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.979372,
+         "id": "781216",
+         "field_search": "question",
+         "question": "Xin chào.mình tên là Phan anh tài có số điện thoại 01648802xxx,xin cho mình hỏi là mình muốn tải ứng dụng diệt virus của iPhone 4,là cái Phần nào ạ? Vì máy Mình gờ hơi bị Chậm và nặng máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.912182,
+         "id": "886367",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 5. Máy e thấy thông báo nhiễm 4 virus phá hoại pin . Hiện tại e sạc pin chỉ được 92% ko đầy được . Xin hỏi e nen tải phần mềm nào để diệt virus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.61056,
+         "id": "830817",
+         "field_search": "question",
+         "question": "laptop mình khi vào chorome hay cốc cốc thì máy lại tự động chuyển sang trang wed lạ khác hoặc vào trang này lại nhảy sang trang kia , có phải là bị nhiễm virus rồi đúng ko ạ ?máy mình chưa cài phần mềm diệt virus nào cả . có cách khắc phục ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.561207,
+         "id": "1148402",
+         "field_search": "question",
+         "question": "Phần mềm com.android.system.ui là virus phải không ạ em nhớ lúc mới mua đâu có nó ạ, chỉ có phần mềm com.android.systemui à mấy phần mềm quét virus (VirusTotal) cho nó là Trojan virus ạ, nhưng không nào xóa nó được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.4793,
+         "id": "1150085",
+         "field_search": "question",
+         "question": "cho e hỏi bên mình có hỗ trợ sữa chữa phần mềm của laptop Asus a541U k ạ!!máy e bị giất lag nặng. khởi động lâu . e có thể đem máy đến chỉnh sữa k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.449547,
+         "id": "897198",
+         "field_search": "question",
+         "question": "Em mua laptop ở tgdd nhưng e làm mất bản quyền win 8.1 của máy rồi. cho e hỏi là tgdd coa thể cài lại win 8.1 cho e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.350939,
+         "id": "771811",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus nhưng bị dính phần mềm virus mpc clearner vậy có cách nào để e xóa toàn diện nó hay không? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.314363,
+         "id": "926002",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.13546,
+         "id": "931403",
+         "field_search": "question",
+         "question": " Chào ad. Cho mình hỏi Tgdđ có hỗ trợ cài lại win không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.032202,
+         "id": "763371",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop mình mua ở Thế Giới Di động, hết hạn bảo hành giờ mình muốn đem tới để cài lại win với cài phần mềm quét virus tính phí có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.968836,
+         "id": "763782",
+         "field_search": "question",
+         "question": " Laptop mua lâu rồi nhưng không phải ở TGDD. Vậy TGDD có hỗ trợ cài phần mềm được không...bị mất hết rồi _ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.940937,
+         "id": "999190",
+         "field_search": "question",
+         "question": "Cho e hỏi là bên tgdd có hỗ trợ vay tiêu dùng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.927416,
+         "id": "883204",
+         "field_search": "question",
+         "question": "E dùng iPhone 5s e vô coi phim sao điện thoại e cứ có những cái tin điện thoại e bi nhiễm virus là sao a lúc thi nó nói điện thoại e có 4 virus lúc thì 6 virus như vậy điện thoại e có bị nhiễm virus kg a e lo qua mấy a cho e biết như vậy điện thoại e có sao kg a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.87825,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.876438,
+         "id": "998539",
+         "field_search": "question",
+         "question": "Đg xem thì máy tự nhiên nhảy ra trang web ns máy bị nhiễm virus nên pin bị hư hỏng nặng và đưa ra 1 ctrinh diệt virus . Mk có phải lm theo k . Máy j5prime ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.782642,
+         "id": "750823",
+         "field_search": "question",
+         "question": "Mình có mua 1 Laptop Lenovo G500s của thegioididong vào tháng 04.2014. Lúc đó chưa có chương trình Win bản quyền cài sẵn theo máy. Vậy cho mình hỏi:1. Những trường hợp như Laptop mình mua trước đây chưa được cài Win bản quyền giờ muốn cài phải làm sao? Thegioididong có hỗ trợ cài Win bản quyền hay bán bản quyền Win 7 hoặc Win 8 không & giá là bao nhiêu?2. Ví dụ như Laptop đang được cài bảng quyền Win 7, nhưng sau đó nâng cấp lên Win 8, Win 10 ...vv thì có bị mất bản quyền Win hay không?3. Bản quyền Win chỉ được cài duy nhất cho 1 máy? Lỡ như Laptop A đang sử dụng, có cài Win bản quyền và Laptop A bị hư, chuyển sang xài Laptop B vậy có chuyển Win bản quyền từ Laptop A qua Laptop B được không?Mong các bạn ghi nhận và phản hồi.Email: hoangnhatminh107@gmail.comTrân Trọng.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.780605,
+         "id": "889204",
+         "field_search": "question",
+         "question": "QTV cho cho m hỏi là : m có mua 1 cái laptop bên tgdd cách đây 2 năm. Hiện nay mình đang dùng win 10 và bị lỗi auiomatic repair thì bên tgdd có hỗ trợ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.674913,
+         "id": "1142700",
+         "field_search": "question",
+         "question": "Máy mac của em bị 3 con virus xâm nhập rùi thì diệt virus mất bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.568941,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.494799,
+         "id": "1018845",
+         "field_search": "question",
+         "question": "E muốn xem một số tài liệu, mà nó cứ hiện là plugin này không được hỗ trợ zay là sao vậy ad, giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.377483,
+         "id": "780868",
+         "field_search": "question",
+         "question": "iPhone 6 plus mình vào xem fim thì hiện ra trang cảnh báo điện thoại bị nhiễm virus Vậy mình phải làm sao. Có khi đang xem fim lại hiện liên tục phát hiện virus. Hiện lần đầu đề là cảnh báo phát hiện iPhone nhiễm virus 7 con. Lần sao lại phát hiện 19 con virus. Và hiện yêu cầu diệt virus có kể cả thời gian nữa. Lúc trước có lên hỏi mà trả lời là quảng cáo không có thật. Mã điện thoại cụ phát hiện virus cần lúc cần nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.325092,
+         "id": "999741",
+         "field_search": "question",
+         "question": "Vậy có phải chiếc điện thoại em bị nhiễm virus không nếu bị nhiễm virus thì hãy hướng dẫn Em cách diệt triệt để ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.186565,
+         "id": "744867",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iPhone bị virus phải làm sao diệt được bi a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.168432,
+         "id": "1143505",
+         "field_search": "question",
+         "question": "cho e hỏi là mình không sử dụng được office nữa thì muốn sử dụng lại được word hay excel thì có cần cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.158154,
+         "id": "816760",
+         "field_search": "question",
+         "question": "máy tính em không mua trong hệ thống tgdd nhưng nó bị lỗi card wifi vậy em đem lại hệ thống tgdd có hỗ trợ gửi máy của em lên hàng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.14146,
+         "id": "819610",
+         "field_search": "question",
+         "question": " Như vậy là máy tính e bị gì ạ,hỗ trợ giúp e với,máy e win 8.1 sony i3 ạ,  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.017656,
+         "id": "832096",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao e không tải đc phần mềm diệt virus cho iPhone 5s vậy. Hoặc nếu tải đc cũng k sử dụng đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.971191,
+         "id": "773329",
+         "field_search": "question",
+         "question": "Máy của tôi là iPhone 4 gần đây pin của máy hao hụt nhiều 1% 1 phút và thỉnh thoảng máy lại báo bị nhiễm virus nặng và pin bị hỏng, như vậy máy tôi có bị nhiễm vỉrus ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.94494,
+         "id": "821666",
+         "field_search": "question",
+         "question": " cho em hỏi laptop asus chạy windowphone có thể bị nhiễm virus được không QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.88214,
+         "id": "1163342",
+         "field_search": "question",
+         "question": "cho e hỏi bên mình có hỗ trợ cài chương trình gốc  không phải bản dùng thử cho laptop không  ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.817152,
+         "id": "1008780",
+         "field_search": "question",
+         "question": "Cho e hỏi bên tgdd có hỗ trợ cài đặt rom tiếng Việt cho máy xiaomi mimax2 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.815092,
+         "id": "1162933",
+         "field_search": "question",
+         "question": "E vào Google chrom mà nó không kết nối được và hiển thị bỏ chặn trong tường lửa hoặc diệt virus thì làm sao ạ? E dùng kaspersky internet antivirus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.795906,
+         "id": "799427",
+         "field_search": "question",
+         "question": "Máy của em là iphone 5s. em vào xem phim có cảnh báo là máy đã nhiễm virus. Mở Safari ra ở phần thường xuyên truy cập lại có cảnh báo. Ấn vào cảnh báo máy báo có virus và yêu cầu làm theo thao tác diệt virus. em muốn bỏ chỗ cảnh báo đó đi thì phải làm sao? (Em đã cài đặt lại iphone rồi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.780148,
+         "id": "1021034",
+         "field_search": "question",
+         "question": "cho em hỏi em tới trung tâm mua phần mềm diệt virus thì cài office có mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.694136,
+         "id": "1003624",
+         "field_search": "question",
+         "question": "ad cho mình hỏi máy mình bị hỏng bên TGDD có thu lại không và nếu mua mới thì có được hỗ trợ gì không ? vì hồi trước thấy có. Máy hỏng mình cũng mua từ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.691917,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.676842,
+         "id": "750641",
+         "field_search": "question",
+         "question": " Giờ máy tính mình bị nhiễm virus thì tốn bao nhiêu tiền để diệt virus? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.654299,
+         "id": "935205",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn cài lại win cho laptop của mình, nhưng laptop của mình ko mua ở tgdd, vậy thì có đc hỗ trợ ko. Nếu có thì mình phải trả phí bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.59787,
+         "id": "1002672",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách reset máy tình win 8.1.Mình mới cài chương trình duyệt virus mà reset lại có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.57514,
+         "id": "752876",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em lên internet thì điện thoại hiện lên là dt bị nhiễm 17 virus làm.có phải điện thoại em bị nhiễm virus không. Nếu có làm cách nào để diệt ạ. Điện thoại em đang sài là iphone 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.505142,
+         "id": "788861",
+         "field_search": "question",
+         "question": " Cách diệt virus cho iPhone của em hả anh chị cứu em và chỉ em cách diệt chúng nó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.44319,
+         "id": "808240",
+         "field_search": "question",
+         "question": " iPhone báo nhiễm virus thì phải làm sao để diệt vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.404615,
+         "id": "871914",
+         "field_search": "question",
+         "question": " Cho em hỏi USB của em nó bị dính Virus vậy có cách nào để cứu nó không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.403193,
+         "id": "822257",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Em xài ip5s lúc vào safari nó cứ hiện thông báo là ip của bạn bị nhiễm virus. Như vậy có bị sao không ad. Nếu vậy phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.372223,
+         "id": "818102",
+         "field_search": "question",
+         "question": " Tgdd có hỗ trợ hạ cấp win k vậy? Em nâng cấp lên win 10 mà hay bị đơ máy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.364416,
+         "id": "773181",
+         "field_search": "question",
+         "question": "e mới chạy lại ứng dụng ở máy tính nhưng lại không thấy phần mềm diệt virus Bitdefender trên máy nữa thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.323648,
+         "id": "848154",
+         "field_search": "question",
+         "question": " bên thế giới di động có bán phần mềm diệt virus kaspersky antivirus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.319572,
+         "id": "785072",
+         "field_search": "question",
+         "question": "  thế giới di động có bán phần mềm diệt virus vs dọn rác cho laptop không ạ ???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.288685,
+         "id": "857935",
+         "field_search": "question",
+         "question": " Cho em hỏi có app quét, diệt virus trên iPhone 5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.262085,
+         "id": "759574",
+         "field_search": "question",
+         "question": " Cho em hỏi, trên điện thoại iPhone mình có thể cài đặt được chương trình quét virus cho máy mình được không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.233501,
+         "id": "1024173",
+         "field_search": "question",
+         "question": " Mình đã tải về phần mềm diệt virus xong rồi.sao không mở tệp được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22453,
+         "id": "998807",
+         "field_search": "question",
+         "question": "TGDĐ có hỗ trợ cài win lại không ạ, máy em bị lỗi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.211998,
+         "id": "888833",
+         "field_search": "question",
+         "question": " ở tgdd có hỗ trợ cài win 10 bản quyền k ạ. Vì máy e k mua ở tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.141788,
+         "id": "944786",
+         "field_search": "question",
+         "question": "-Laptop dell khi em cai win lại nó rất chậm, khi e boot cũng vậy là luôn luôn full disk 100% cài win nào cũng vậy, có thử làm những hướng dẫn khắc phục 100% full disk nhưng vẫn không được là bị sao vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.037424,
+         "id": "841455",
+         "field_search": "question",
+         "question": " Cho e hỏi làm thế nào để diệt virus trên điện thoại iphone 5s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.005127,
+         "id": "834951",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang dùng laptop dell, dạo gần đây khi bật máy lên nó cứ kêu tít tít liên tục, mình đã quét virus nhưng phần mềm báo là an toàn, vậy máy mình bị như vậy có cách nào để tắt nó đi hay là máy của mình bị lỗi phần cứng không, QTV giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.99812,
+         "id": "999963",
+         "field_search": "question",
+         "question": "e không thể ROOT được máy galaxy note 3 của e. ad có thể hỗ trợ e đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.989183,
+         "id": "757460",
+         "field_search": "question",
+         "question": "AD cho em hỏi..em đang dùng Iphone 5 đọc báo thì nó báo dính virus phải diệt mà không bấm ok thì duyệt wed ko được nữa..nên em bấm ok..rồi thấy nó chạy ra mấy trang wed gì đâu ko nên em tắt..em lo quá không biết có dính virus không nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.908155,
+         "id": "998637",
+         "field_search": "question",
+         "question": "Cho em hỏi là bên mình có hỗ trợ cài jaibreak không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.877522,
+         "id": "1158535",
+         "field_search": "question",
+         "question": "Laptop của mình loại Asus  X550LD mua ở ngoài hiện không thể kết nối wifi và pin k còn diệt dụng được nữa vậy bên có tỷ có hỗ trợ sữa chữa, thấy thế không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.829292,
+         "id": "757431",
+         "field_search": "question",
+         "question": "AD cho em hỏi..em đang dùng Iphone 5 đọc báo thì nó báo dính virus phải diệt mà không bấm ok thì duyệt web không được nữa..nên em bấm ok..rồi thấy nó chạy ra mấy trang web gì đâu không nên em tắt..em lo quá không biết có dính virus không nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.791803,
+         "id": "995079",
+         "field_search": "question",
+         "question": "chào ad. e có máy 1 chiếc ss j7 bị vỡ màn nhưng do e trả góp nên k dc bảo hành. anh của em cũng có 1 cái j7 nhưng màu trắng đã hỏng cũng là hàng chính hãng mua tại tgdd. cho e hỏi là có thể lấy màn máy kia lắp sang máy em được không, và tgdd có hỗ trợ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.766138,
+         "id": "788620",
+         "field_search": "question",
+         "question": "Da cho em hỏi em sử dụng ipap 1 mà nãy em vào wed lỡ bấm nhầm thì nó hiện lên em vào Trang wed khiêu dâm rồi bảo ipad em bị nhiễm 17 virus , vậy máy em có bị nhiễm không ạ và làm sao diệt virus?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.745378,
+         "id": "791264",
+         "field_search": "question",
+         "question": " Tgdd có hỗ trợ cài win máy tính với cài phần mềm chống virut cho máy tính không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.734175,
+         "id": "1152988",
+         "field_search": "question",
+         "question": "cho em hỏi. laptop của em mua cũng hơn 1 năm rồi. em muốn cài lại win (máy win10). Vậy bên tgdđ mình cài lại dùm em được không và có phí không ạ!!!Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.679983,
+         "id": "856270",
+         "field_search": "question",
+         "question": "Ad cho em ? e dùng iPhone 5 có dow ứng dụng kiểm tra pin về máy và bị cảnh báo nhiễm 6 con virus cần diệt ngay nếu k pin bị hỏng ad cho e ? bg phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.608303,
+         "id": "813641",
+         "field_search": "question",
+         "question": " Mình xem phim sex trên máy macbook pro sợ nó nhiếm virus sex làm thế nào để diệt virus miễn phí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.582407,
+         "id": "1022931",
+         "field_search": "question",
+         "question": "adm cho e hỏi e có mua laptop của bên mình máy có cài sẵn win 10 home sao e ko dùng dc word vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.557346,
+         "id": "1140600",
+         "field_search": "question",
+         "question": "Cho em hỏi: sau khi em reset lại cái máy laptop win 10 vì nó bị virus. Cho đến khi hoàn thành vào phần đăng nhập nó hiện ra other user gì đó? Cho em hỏi vấn đề này là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.447943,
+         "id": "764309",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm sao để diệt virus trên ịphone và có cần tải ứng dụng diệt virut không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.434055,
+         "id": "768748",
+         "field_search": "question",
+         "question": " Có ứng dụng diệt virus nào tốt cho iPad mini không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

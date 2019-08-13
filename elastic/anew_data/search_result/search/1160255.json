@@ -1,0 +1,801 @@
+{
+   "id_query": "1160255",
+   "total": 34081,
+   "total_current": 100,
+   "max_score": 188.21068,
+   "origin_question": "Em chào các anh chị nhé. Hôm qua em có reset lại điện thoại của em. Sau bước nhập tài khoản icloud. Có yêu cầu mã xác thực hai yếu tố. Em không nhận được mã này. Sau đó ấn gửi lại qua sms. Cũng không được. Nhấn mấy lần. Rồi chuyển qua gọi điện. củng ko nhận đc cuộc gọi nào.  Giờ em phải làm ntn để đăng nhập lại ạ. Sdt của mọi người em để hết trên icloud. Giờ ko lấy ra được.",
+   "hits": [
+      {
+         "score": 95.87088,
+         "id": "1162910",
+         "field_search": "question",
+         "question": "Em xác thực Instgram bằng 2 yếu tố, em xoá instgram đi tải lại để dùng thì khi đăng nhập yêu cầu mã xác nhận SMS, nhưng giờ em yêu cầu gửi mã mãi mà không thấy mã về, em cũng không biết cách nhập mã khôi phục insta cho trong quá trình các thực 2 yếu tố ở đâu, vậy em nên làm gì để truy cập vào tài khoản ínta của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.65784,
+         "id": "1168541",
+         "field_search": "question",
+         "question": "Em có một vấn đề với việc nhận mã đăng nhập Facebook ạ , em nhấn gửi mã để xác thực bằng 2 yếu tố trên Facebook nhưng lại không nhận được mã xác nhận , ad có thể giúp em không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.08961,
+         "id": "1160944",
+         "field_search": "question",
+         "question": "M ko vào face dc vì yêu cầu gửi mã xác nhận nhiều lân, yêu cầu thử lại sau. M có cài đặt face bảo mật bằng gửi mã xác nhận. Bình thuong m đăng xuất sẽ nhập mã xác nhận gửi vào tin nhắn là sẽ dc. Nhưng hôm nay m nhập mã thì vẫm ko dc nên đã gửi về sdt m 4 lần  nhập mã nhưng vẫn ko dc cả 4. Giờ yêu cầu gửi mã thì hiện mà nhập mã nhiều lần nên yêu cầu thử lại sau. Ko biết m có bị mất face ko vì giờ ko vào dc vì ko nhận  lại dc mã xác nhận mà chỉ hiện do đã yêu cầu gửi nhiều mã",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.32598,
+         "id": "1153833",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đăng nhập vào icloud nhưng icloud bắt nhập mã để xác thực 2 yếu tố mà em chờ mãi k thấy gửi mã đến thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.84653,
+         "id": "1164932",
+         "field_search": "question",
+         "question": "bây giờ mình không nhận được mã xác thực 2 yếu tố thì phải làm sao đề vào tài khoản icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.52371,
+         "id": "1001501",
+         "field_search": "question",
+         "question": "chào bạn, wechat của mình bị out , minh đăng nhập lại. nhập sdt của mình và đăng nhập bằng mã xác minh sms, rồi bấm gửi lại. Nhưng sau 60s cũng ko có gửi lại mã cho mình vào tin nhắn, bây giờ mình phải làm thế nào? giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.42421,
+         "id": "1161585",
+         "field_search": "question",
+         "question": "cho mình hỏi với ạ, mình mất tài khoản line cũ giờ mình muốn lấy lại line nhưng khi yêu cầu gửi mã xác nhận mình không nhận được , còn khi ấn vào đăng nhập vào fb thì yêu cầu chuyển tài khoản? mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.89951,
+         "id": "997502",
+         "field_search": "question",
+         "question": " Em muốn xin lại mã xác thực iDApple để xác nhận tài khoản iCloud ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.1948,
+         "id": "1162493",
+         "field_search": "question",
+         "question": "Chào ad ! Điện thoại iphone của em bị mất . Em đã dùng icloud để khóa máy từ xa . Giờ tìm được máy lại rồi nhưng máy yêu cầu mật khẩu khi em vô hiệu hóa . Giờ em muốn gỡ bỏ mật khẩu đó để lần sau mở máy điện thoại không yêu cầu nhập nữa thì phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.0238,
+         "id": "778782",
+         "field_search": "question",
+         "question": "Các anh ơi giúp em với : em bị mất iPhone và chuộc lại được lúc mất em có sử dụng tìm iPhone và để chế độ bị mất, bây giờ vào iCloud thì bị thông báo lấy mã xác minh có 6 số yêu cầu nhập mã xác minh này trên thiết bị khác để hoàn tất đang nhập, cảm ơn anh chị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.79516,
+         "id": "1023856",
+         "field_search": "question",
+         "question": "mình đang xài iphone 6 , tạo id qa sdt id mình đã đăng xuất nhung icloud minh dang xuat không được vì có xác thực hai yếu tố trong khi sdt mình mất lâu rồi . giờ tới bước xác thực nó gửi mã xác minh vô sdt nhưng sdt mình ko xài nữa nên giờ mình phải làm sao ạ? mình xóa tất cả cài đặt lại được không ạ? thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.10671,
+         "id": "1137092",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone 6 em có icloud nhưng khi nhập và nhập mã xác nhận 6 số từ điện thoại vẫn không được.Sau khi làm đủ các bước xác nhận số đt thì nó lại trả lại bước đầu và làm nhiều lần vẫn bị như vậy.Vậy có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.3731,
+         "id": "967277",
+         "field_search": "question",
+         "question": "Hướng dẫn lấy lại mật khẩu iCloud mới nhất.B1.Bạn phải bật xác thực 2 yếu tố trong iCloud trước.Bạn vào Cài đặt chọn iCloud > mật khẩu và bảo mật > bật xác thực hai yếu tố lên sau đó bạn sẽ nhập mã xác minh gửi đến số máy bạn.B2.Bạn truy cập trang https://appleid.apple.com/#!&page=signin sau đó nhập ID bạn vào > nó sẽ xuất hiện ô vuông nhập mã xác thực,bạn lấy máy iPhone mình mở mạng,mở khóa màn hình lên nó sẽ hiện lên bảng cho phép > bạn nhấn chọn cho phép > bạn nhập mã hiện lên trong trang mình vừa để link > bạn sẽ vào được tài khoản và có thể thay đổi mật khẩu ID rồi đó.Chúc các bạn thành công.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.15072,
+         "id": "1147864",
+         "field_search": "question",
+         "question": "Cho e hỏi là do e quên mất sdt xac minh của tài khoản icloud thế giờ em không đăng nhập vào tk  được nên ko biêt ad có cách nào đăng nhập vào icloud lại được không ạ hay xác minh cái khác để vào tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.67515,
+         "id": "1162247",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Hiện tại facebook của mình chỉ đăng nhập được trên ipad mà không đăng nhập được trên các thiết bị khác. Khi đăng nhập vào các thiết bị khác facebook yêu cầu mã xác nhận 2 yếu tố nhưng mình không nhận được mã đó. Cho mình xin hướng giải quyết với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.85356,
+         "id": "1165118",
+         "field_search": "question",
+         "question": "ad cho em hỏi em muốn lấy lại pass facebook nhưng sau khi đổi pass xong thì nó yêu cầu xác mình,xong tói bước 2 xác nhận email thì cứ đứng mãi trang này dù em nhập email mới mấy lần luôn,nó có gửi mã tới email nhưng quay sang face thì cứ đứng mãi trang ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.77244,
+         "id": "759088",
+         "field_search": "question",
+         "question": "Chào anh (chị)! Cho em hỏi làm thế nào để lấy lại tài khoản line. Mọi ngày em gọi vẫn bình thường nhưng hôm nay mình cũng gọi được nhưng lại không thấy tiếng gì cả. Em liền gỡ và tải lại phần mềm line (tài khoản của mình chưa đăng kí email)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.55528,
+         "id": "1139815",
+         "field_search": "question",
+         "question": "Em dùng samsungj7pro , em có tải 1 app tên là \"soul\" , bạn đầu thì nó còn gửi mã xác nhận. Nhưng hnay khi đăng nhập lại thì nó kh gửi mặc dù em nhập đúng sdt. Em cũng thử số sdt khác nhưng vẫn kh nhận đc mã xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.36149,
+         "id": "891422",
+         "field_search": "question",
+         "question": "E vừa bị mất iPhone và icloud bị đổi pass và vô hiệu hoá.... giờ muốn khôi phục thì phải xác nhận mã qua đt e đã xác nhận hôm qua sao không nhận được hướng dẫn, thường thì phải mất bao lâu để nhận được hướng dẫn của apple ad có tl giúp e hay có cách nào để e lấy lại icloud không ạ...cám ơn adVào web và làm theo hướng dẫnNhâp sđtLick vào \"bạn có thêm thông tin để giúp xác minh nhận dạng không ?\"TiếpSau khi nhận và nhập mã xác nhận thì hiện ra bản này và không nhậ được hướng dẩn nào về số đtP.s. Không thể xác nhận qua mail....không có chỗ nào để tl câu hỏi bì mật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.33533,
+         "id": "836734",
+         "field_search": "question",
+         "question": "Chào anh chị ạ!! Em không dùng viber và cũg không có tài khoản Viber luôn!! Hôm qua viber có gửi cho em mã COD để xác nhận khi tạo tài khoản ý ạ!! Và tiếp theo là liên tiếp 3 cuộc gọi từ nước ngoài, tuy ngiên em không nghe máy! Em khẳng định là lúc đấy em KHÔNG tạo tài khoản viber vậy mà viber gửi mã!! Em đang bị gì vậy ạ?? Mong anh chị giúp đỡ em với!! Em đang bị hack ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.753426,
+         "id": "1165501",
+         "field_search": "question",
+         "question": "Hello mọi người.mình đăng nhập id apple thì có gửi mã 6 số đến các thiết bị của mình,nhưng ko dc.nên mình chuyển sang sdt nhưng sdt đó đã ko dùng lâu rôi nên mình lại chuyển sang đổi sdt để xác minh,sau đó apple có gửi mã 6 số đến sdt đó và e nhập vào thì thông báo rằng trong giờ gian đợi xử lí.sau 1 ngày thì nhận đc mail của apple như sau,nhưng vẫn khômg vào đc và nó như chưa giải quyết đc già cả.có ai biết cách thì tư vấn giúp mình vs nhé!thanks tất cả mọi người!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.61134,
+         "id": "1020264",
+         "field_search": "question",
+         "question": "Máy của em là Ss galaxy J1 mini, tối hôm qua em có reset máy. Đến lúc mở lên thì phải qua bước xác minh tài khoản Google đã đồng bộ hóa trước đó, em đã nhập tài khoản vào rồi nhưng vẫn k đc (e đã nhập các tài khoản khác của e nhưng nó vẫn quay về bước xác minh). Máy này bố em mua về cho em và đến lúc đưa cho em thì máy đã sử dụng đc. Liệu có phải là nhập tài khoản của bố em mới được hay vì lí do nào khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.29735,
+         "id": "831594",
+         "field_search": "question",
+         "question": " Không đăng nhập icloud được vì không nhận được mã xác minhAd giúp em với?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.208626,
+         "id": "1001539",
+         "field_search": "question",
+         "question": "Xin chào cả nhà. Cả có thể giúp em lấy lại wechat được không? E đăng kí wechat bằng sđt của em nhưng khi đổi máy quên mật khẩu? Chuyển từ android=) IOS. nhưng khi kích vào phần quên mật khẩu kích vào gửi mã xác mình về điện thoại thì nhà mạng lại không gửi mã xác minh về ấn đi ấn lại không gửi thì nó báo thao tác quá nhiều. Tóm lại là không thể nào tìm lại được mật khẩu. ních của em cũng khá nhiều bạn chủ yếu là công việc, mong mọi người chỉ cách tìm lại được tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.086624,
+         "id": "1009589",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Tối hqua e có đặt onl 1 thẻ nhớ 16g. Tổng đài TGDĐ cũng đã gửi mã xác nhận và e cũng đã nhập vào khung r. Và TGDĐ trả lời là sẽ có nhân viên gọi điện hoặc có tin nhắn gửi lại để xác nhận 1 lần nữa. Nhưng hôm qua giờ k thấy gì. Tại e tính làm sớm để thứ 7 tuần này lại lấy cho tiện. Mong qtv giải đáp giùm e ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.96608,
+         "id": "828970",
+         "field_search": "question",
+         "question": "Hôm qua Em xác minh tài khoản của em roi email xác minh đã được dang ki rồi nhưng họ yêu cầu là vào đường liên kết trong Email xác minh để kết thúc việc tạo ID Apple của bạn em gửi lại email xác nhận rồi nhưng họ lại ghi là email xác minh của bạn sẽ được gửi lạinhưng không được co the giúp em duoc khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.686638,
+         "id": "774567",
+         "field_search": "question",
+         "question": "khi em quyên mật khẩu khoá màn hình và sau khi nhập quá nhiều lần iPhone 5s 16g không còn báo nhập mật khẩu nữa em đã đi chạy lại phần mềm và giờ iPhone của em hỏi nhập tài khoản iCloud để kích hoạt iPhone. Em bị quyên tài khoản va mật khẩu iCloud nên ko biết cách nào để kích hoạt lại iPhone của minh. Hỏi a chị xem có cách nào để kính hoạt lại được iPhone của e ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.634747,
+         "id": "796638",
+         "field_search": "question",
+         "question": "Vì em mới mua lại điện thoại iPhone 4 nên em không biết gì đến tài khoản iCloud giờ em hỏi lại và người chủ cho em mật khẩu đăng nhập nhưng khi em đăng nhập để tải ứng dụng thì máy báo sai mật khẩu, giờ QTV cho em hỏi có cách nào để đăng ký lại tài khoản iCloud để sử dụng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.32575,
+         "id": "832092",
+         "field_search": "question",
+         "question": "chào add điện thoại iphone 5 của em do chị em để lại mà bây giờ nó bị khóa bắt đăng nhập tài khoản iclound nhưng chị em không nhớ tài khoản cũng như mật khẩu. add có cách nào giúp em đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.11799,
+         "id": "858158",
+         "field_search": "question",
+         "question": "mình có con 4s, có tài tài khoản icloud, nhưng ko nhớ mk, và tài khoản giờ cũng bị out ra khỏi mail rùi, bây giờ thi thoảng máy yêu cầu xác nhận id icloud,làm sao để tắt được cái thông báo yêu cầu đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.10438,
+         "id": "811166",
+         "field_search": "question",
+         "question": "Em mới chạy lại máy, không được sao lưu mà có tài khoản id rồi đăng nhập vào nó bắt xác thực bằng 3 câu hỏi mà em lại quên , giờ làm sao để xác thực được ID đó ạ ? Gmail nó gửi máy cái điều khoản không thôi :( Iphone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.943264,
+         "id": "1150474",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy của em sau khi cài đặt lại thì không gọi đi được cũng không nhận được cuộc gọi nào là sao vậy ạ? Điện thoại em là oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.711166,
+         "id": "991388",
+         "field_search": "question",
+         "question": "Tổng đài có gọi qua đt em để xác nhận mua laptop nhưng em quên nghe gọi lại thì ko đc làm sao đây Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.54353,
+         "id": "1148409",
+         "field_search": "question",
+         "question": "Em mới bị mất máy. Em muốn lấy lại dữ liệu thông qua icloud nhưng khi đăng nhập ID Apple thì không được. gmail em vẫn dùng không được công nhận là một tài khoản ID. Hay là kẻ gian đã đổi tài khoản của mình ạ?Làm thế nào để e lấy lại được ạ? Có những thứ rất quan trọng trong máy ạ.Em mong nhận được câu trả lời sớm nhất ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.52287,
+         "id": "831383",
+         "field_search": "question",
+         "question": "Dạ anh/chị cho em hỏi tối qua nhà em bị trộm vào lấy 2 IPad air và air 2. mà đến khuya em mới nhớ ra pass icloud sau đó em đăng nhập được và bật tìm Iphone lên rồi em cũng bật Báo mất trên đó kêu em nhập pass màn hình và số đt để có gì ngta gọi lại. trong khi đó 2 máy đều để là ngoại tuyến. Cho e hỏi nếu 2 máy kia em ko có bật chế độ Tìm Iphone lên thì khi vô mạng rồi nó có định vị đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.31607,
+         "id": "774474",
+         "field_search": "question",
+         "question": "Chào anh chị. Em bị quên tài khoản va mật khẩu iCloud để kính hoạt lại iPhone 5s. Giờ làm cách nào để kính hoạt lại điện thoại iPhone của em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.009888,
+         "id": "1009673",
+         "field_search": "question",
+         "question": "qtv cho em hỏi em đăng kí mua đt trả góp mà đt em hư màn hình ko thấy mã xác nhận qtv có thể gửi mã xác nhận cho em qua gmail bay được ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.990803,
+         "id": "1140154",
+         "field_search": "question",
+         "question": "Em đăng nhập insta nhưg bị quên mật khẩu ghi tên tài khoản và sđt ấn gửi mã liên kết nhưg vẫn ko nhận được tin nhắn SMS là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.98805,
+         "id": "848029",
+         "field_search": "question",
+         "question": "Chào anh chi .Anh chị cho em hỏi .điện thoại em giờ có tài khoản icloud rồi nhưng em muốn đăng ký tài khoản khác có được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.511036,
+         "id": "1001715",
+         "field_search": "question",
+         "question": "Chào ạ!!! Như đã nói lúc chiều thì thông tin mã quà tặng nó đã bỏ yêu cầu bắt buộc đó rồi nhưng bây giờ lại yêu cầu mã điện thoại như này, em đã nhập sđt vào nhưng nó kh chấp nhận vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.29692,
+         "id": "736174",
+         "field_search": "question",
+         "question": "Em muốn tạo ID Apple nhưng khi tạo được rồi thì không có mã để xác nhận, cho em hỏi làm thế nào để lấy được mã xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.244102,
+         "id": "1161796",
+         "field_search": "question",
+         "question": "Mn cho e hỏi , nếu như gửi mã đăng nhập qá nhiều lần ( e ms kiếm lại đc sdt đăng nhập)  fb có báo lỗi : yêu cầu gửi qá nhìu ,vui lòng thử lại sau , thì bnhiu ngày nx ms có thể yêu cầu họ gửi lại mã thêm một lần nx ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.168755,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.80081,
+         "id": "824794",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em mua máy lại của 1 anh n quên không hỏi mật khẩu icloud vs mật khẩu giới hạn. mà tài khoản icloud ở điện thoại của em đang bị đăng nhập bởi ng khác. làm cách nào để em có thể thay đổi tài khoản icloud và mật khẩu giới hạn ak? anh chị biết chỗ nào sửa được không ka? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.79984,
+         "id": "855130",
+         "field_search": "question",
+         "question": "Em bị mất 5s 16G ios bản gốc, em đã tạo icloud nhưng giờ ko nhớ ID, chưa xác nhận mail thì phải làm thế nào để lấy lại tài khoản ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.731625,
+         "id": "1141487",
+         "field_search": "question",
+         "question": "Các anh chị giúp em với ạ. Điện thoại j6 plus của e khi đang nghe cuộc gọi bình thường, thì người khác gọi điện qua messenger không báo gì hết ạ? Với khi đang nói chuyện messenger thì có cuộc gọi bình thường đến, mình nghe hay không thì cuộc gọi messenger lại không nghe được bên kia nói gì? Mong anh chị giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.631836,
+         "id": "1144663",
+         "field_search": "question",
+         "question": "Trước đây mình đăng nhập được. Sau khi reset lại máy mấy lần đều đăng nhập được. Chỉ có lần reset gần nhất là sau đó k đăng nhập được. Dù thử tài khoản nào cũng bị như vậy. Làm sao để khắc phục ạ ? Máy mình là oppo neo7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.59972,
+         "id": "1020280",
+         "field_search": "question",
+         "question": "Giúp em vs ạ em quên mật khẩu face nên em bấm hoài sau khi nhòa lại thì nó bảo phải có mã đăng nhập nhưng ko thấy gửi mã em bama nhiều lần nên nó bảo \"bạn yêu cầu quá nhiều vui lòng thử lại sau\" cho em hỏi làm cách nào vì 3 ngày rồi em chưa lên dc face 😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.238056,
+         "id": "902458",
+         "field_search": "question",
+         "question": "Khi đăng nhập Instagram yêu cầu xác minh tài khoản, xác minh xong nó ra BAD REQUEST 400 không vào được , cả điện thoại lẫn laptop  😭Trong khi tài khoản IG trên vẫn hoạt động bình thường , không bị ẩn cũng không bị khóa trên các trang mạng Mọi người giúp em với ạ !!!Mọi😱",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.139355,
+         "id": "939194",
+         "field_search": "question",
+         "question": "Mình chơi hayday trên ipad, có đăng nhập gamecenter, icloud, Facebook đầy đủ, sau này bị mất facebook, và không còn đc chơi trên ipad nữa, giờ mình đang chơi trên ANDROID, muốn lấy lại tài khoản đó thì phải làm thế nào? Làm sao để lấy lại tài khoản HAYDAY ĐÓ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.117672,
+         "id": "1160828",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu Facebook nhưng khi e bấm vào quên mk thì Facebook gửi mã xác nhận về sdt e nhưng k có chỗ để nhập mã ạ.. Cứ kêu xác nhận bằng email.. Nhưng e chỉ đăng ký bằng sdt ... E phải làm sao để lấy lại mk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.822304,
+         "id": "1016618",
+         "field_search": "question",
+         "question": "Mình đăng nhập lại tài khoản google của mình nhưng khi nhập mã thì không được dù mình đã viết đúng mã rồi, mình đã nhập rất nhiều lần nhưng vẫn không được. Vậy bây giờ làm sao để đăng nhập được đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.736107,
+         "id": "1146859",
+         "field_search": "question",
+         "question": "EM bị khóa tài khoản icloud, mà bây giờ đặt lại mật khẩu thì nó gửi về mail, mà mail tài khoản của em là mail apple luôn , có cách nào lấy lại không ạ cách xác thực câu hỏi bí mật của em bị khóa không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.720787,
+         "id": "1137990",
+         "field_search": "question",
+         "question": "Giúp mình với. Fb của mình đăng kí bằng sđt. Không có email. Mình vừa đăng xuất ra để vào lại thì quên mật khẩu. Mình đã thử mọi cách để tìm fb hoặc gửi mã về điện thoại nhưng không tìn được tài khoản. Giờ có cách nào lấy lại được fb đó của mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.677254,
+         "id": "1151075",
+         "field_search": "question",
+         "question": "Mình đăng nhập email để nhận mã xác thực của fb nhưng email trả lời không nhận được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.556232,
+         "id": "947150",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy samsung J5 , do máy có 1 vài lỗi không sửa được nên em đã reset lại máy. Nhưng đến lúc họ yêu cầu nhập tài khoản google để xác nhận thì nó lại hiện ra là \" vui lòng đăng nhập bằng một trong nhũng tài khoản của chủ sở hữu thiết bị này\" . em mong ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.54554,
+         "id": "986128",
+         "field_search": "question",
+         "question": "Cho e hỏi là em không làm gì nhưng apple lại gửi mã xác minh về điện thoại thì có phải là đang có người cố vào icloud của em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.47391,
+         "id": "936743",
+         "field_search": "question",
+         "question": " Mình đăng nhập mấy lần icloud nó đều hiện ra mã và nó ko gửi mk mã giờ đăng nhập đk kiểu rì ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.47126,
+         "id": "750675",
+         "field_search": "question",
+         "question": " Máy em yêu cầu xác minh tài khoản iCloud. Nhưng tài khoản đó không tồn tại. Bây giờ em muốn thoát ra phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.1457,
+         "id": "1146960",
+         "field_search": "question",
+         "question": "Facebook báo dạo gần đây bạn có vài hành động bất thường. Mình đăng nhập gõ mật khẩu vẫn bình thường nhưng có thêm 1 bước là nhập mã xác nhận qua số điện thoại. Tuy nhiên, do mình chưa đổi số điện thoại từ 11 số qua 10 nên facebook vẫn gửi mã về qua số đt 11 số. Mình không nhận được mã. Xin hướng dẫn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.087112,
+         "id": "1024125",
+         "field_search": "question",
+         "question": "hình là em vừa đặt lại toàn bộ cho iphone. lúc làm xác thực 2 yếu tố nó ghi mã được gửi về số điện thoại của em rồi, mà em chả thấy nó gửi tại vì đã vào được bên trong đâu mà xem được mục tin nhắn huhu. bây giờ bị chết cứng ở đoạn này. làm sao bây h, các bác giúp em với. hoang mang quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.040184,
+         "id": "1164673",
+         "field_search": "question",
+         "question": "Cho em hỏi Hồi sáng nay em có ra tgdd mua một cái sim mobiphone Rồi em về em tạo zalo thì thấy đã có tài khoản zalo cho cái sim này rồi.Xong em qua bên grap đăng nhập sdd mà grap k cho phép xác nhận sdd này .Em đổi 1 trong các số của sim thì nó cho phép .Vs lại có nhiều cuộc gọi lạ vào máy em nữa.Có thể nào giúp em đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.922863,
+         "id": "902755",
+         "field_search": "question",
+         "question": "tôi dùng 2 máy iphone chung 1 icloud. Bình thường tôi vận nhận cập nhật cuộc gọi điện thoại trên 2 máy. nhưng sao mấy ngày qua tôi lại không được cập nhật. Vậy phải làm thế nào để cập nhật lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.77619,
+         "id": "757732",
+         "field_search": "question",
+         "question": "Cài đặt mở khóa bằng vẽ mẫu hình và vẽ sai quá 15 lần ,nó yêu cầu đăng nhập bằng tài khoản google để mở khóa nhưng vì em đăng kí tài khoản lâu rồi nên không nhớ mật khẩu mà lúc đăng kí em không đăng kí email phụ nên ko lấy mật khẩu lại được .Còn điện thoại thì vẫn cứ yêu cầu tài khoản google,em phải làm sao để mở khóa đây ? Mày Sony z3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.622948,
+         "id": "1168197",
+         "field_search": "question",
+         "question": "Làm sao để xác minh icloud vậy? Hệ thống thông báo là đã gửi nhiều mã xác minh nhưng minh không nhận được cái nào!!!! Khi mình gửi số điện thoại đã đăng kí icloud rồi mà nói là số điện thoại này không đúng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.571125,
+         "id": "1010715",
+         "field_search": "question",
+         "question": "Làm thế nào để xoá tài khoản icloud vĩnh viễn khi đã thiết lập xác thực hai yếu tố???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.550907,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.50609,
+         "id": "1138477",
+         "field_search": "question",
+         "question": " e bị mất đt thì phải làm sao ạ. đăng nhập icloud k đc vì e để xác thực 2 yếu tố. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.134632,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.91708,
+         "id": "1002984",
+         "field_search": "question",
+         "question": "sao em đăng kí tài khoản để đăng nhập ap store bước cuối xác minh email -nhập mã xog có dòng chữ itunes không thế nào ý vào lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.778343,
+         "id": "762833",
+         "field_search": "question",
+         "question": "  Điện thoại em mua lại của người ta mà quên mã mở khóa không có icloud giờ làm sao mở? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.721287,
+         "id": "1162096",
+         "field_search": "question",
+         "question": "mình mới mua chiếc iphone mới, do cài đặt 2fa nên cần phải nhận mã xác minh, nhưng số mình chuyển từ 11 số qua 10 số nên không nhận được mã, do máy cũ mình bị cháy màn hình nên cũng không thể vào để thêm số điện thoại tin cậy ad có thể hướng dẫn cách để mình lấy lại icloud không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.657677,
+         "id": "1162552",
+         "field_search": "question",
+         "question": "Cho em hỏi.. em có một tài khoản YouTube nhưng em đã quên mất tai khoan để đăng nhập vào.. em định ra thế giới di động nhờ các anh chị ngoài đó xem có thể lấy lại dùm cho em có được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.508472,
+         "id": "1135477",
+         "field_search": "question",
+         "question": "Cho em hỏi reset máy xong nó yêu cầu nhập tài khoản google mà phải nhập một trong các tài khoản của chủ sở hữu mà giờ em quên mất tài khoản thì phải làm sao ạ (điện thoại j2 pro nha ad)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.326744,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.244427,
+         "id": "1140026",
+         "field_search": "question",
+         "question": ".Anh cho em hỏi là fb cuả e đăng nhập bằng email .sau 1 khoảng thoi gian em đăng xuất ra rồi em ..đăng nhập lại em nhập mk emal cuả em nó báo là sai mk rồi em ấn vào quên mk nó bảo gửi mã về email e .xong e vô email em xem mã chẳng thấy mã đâu..mà cái email nó gửi bị che nên cx ko bt phải email cuả mk ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.19852,
+         "id": "1164863",
+         "field_search": "question",
+         "question": "sao em không thể đăng nhập tài khoản google trên thiêt bị nó cứ báo là bị \"không thể đăng nhập vào thiết bị do thay đổi mật khẩu gần đây. vui lòng thử đăng nhập lại 24 giờ sau khi thay đổi mật khẩu được thực hiện\" mà e để qua mấy ngày mà vẫn vậy không thể đăng nhập vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.967155,
+         "id": "1155815",
+         "field_search": "question",
+         "question": "Hi!Cho e hỏi face book của em bị yêu cầu xác nhận danh tính, khi e bấm vô thì nó ra màn hình  vui lòng phê duyệt đăng nhập này trên điện thoại hoặc máy tính bạn đã sử dụng trước đó nhưng khi cọn thì báo ko đc, em sd nhận trợ giúp từ bạn bè và nhập đúng mã bạn gửi lại vẫn báo sai,vui lòng hỗ trợ e với ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.863453,
+         "id": "1148084",
+         "field_search": "question",
+         "question": "Điện thoại em sử dụng là iPhone 7. Trước đây vẫn đăng nhập ứng dụng instagram bình thường nhưng giờ lúc nào cũng “rất tiếc đã xảy ra lỗi với yêu cầu của bạn, thử lại sau...” và không đăng nhập được. Tất cả các tài khoản gồm 6 account có 2c liên kết với fb cũng bị lỗi như vậy mặc dù em có thể đăng nhập trên web như safari, google và ở một số thiết bị điện thoại khác. Em đã thử xoá đi tải lại ứng dụng, khởi động lại máy, đặt lại tất cả ứng dụng, kiểm tra kết nối wifi nhưng kết quả vẫn không thay đổi và lỗi này đã bị gần cả 2 tháng, em làm mọi cách như đổi mật khẩu, đổi tên để lấy đường link truy cập tài khoản trên ứng dụng nhưng vẫn không được. Em cần được hỗ trợ gấp vì thiệt sự những account này rất quý đối với em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.846478,
+         "id": "786721",
+         "field_search": "question",
+         "question": "Anh ơi.. Em đăng nhập và đăng xuất icloud bình thường.. Giờ em đăng xuất không dùng icloud nữa. Thỳ sau này bán máy đi ngta có tạo được icloud mới riêng của ngta không anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.78211,
+         "id": "1161737",
+         "field_search": "question",
+         "question": "Khi tôi đăng nhập tài khoản Facebook trên điện thoại ,( được đăng ký bằng số điện thoại, và tôi chưa sử dụng tài khoản này trên bất cứ điện thoại nào khác ) thì hệ thống thông báo rằng :\" Chưa xác thực danh tính . Chúng tôi không thể xác thực danh tính của bạn. Vui lòng thử lại sau.\" Sự việc xuất hiện bất ngờ sau 1 ngày oi bức. Tôi chẳng thể làm gì tiếp theo, để có thể sử dụng tài khoản. Trong khi đó, tài khoản đăng ký bằng số sim của tôi . Vậy tôi phải làm gì ở trường hợp nay? Hi vọng nhận được sự hỗ trợ của các bạn. Chân thành cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.722534,
+         "id": "768249",
+         "field_search": "question",
+         "question": "iPhone sao lại cần tài khoản liên tục vây. Hôm bữa ra tgdđ anh kỹ thuật có cho tài khoản nhưng hôm nay bị mất. Anh chị có thể cho em xin tài khoản mới đc ko. Vì đường xa ko ra tgdđ được. Gửi qua sđt giúp em 0933978xx2 cám ơn anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.70442,
+         "id": "904924",
+         "field_search": "question",
+         "question": "Mình bị cướp điện thoại IP6, hiện tài khoản icloud của mình bị vô hiệu hóa, mình reset lại nhưng không cho option reset qua mail mà gởi mã qua số điện thoại của mình. mình điền mã vào thì nó thông báo khi nào tài khoản sẵn sàng khôi phục thì sẽ nhắn tin đến số điện thoại của bạn,quá trình khôi phục sẽ mất vài ngày. tuy nhiên mình chờ vẫn không thấy tin nhắn. cho mình hỏi còn cách nào khác để lấy lại tài khoản này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.686203,
+         "id": "767624",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là em mới mua lại điện thoại iPhone, giờ em muốn thoát tài khoản iCloud đó ra để tạo một tài khoản mới có được không ạ? Em nghe nói là mỗi máy chỉ dùng được một tài khoản thôi, thế giờ em tạo cái mới có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.593925,
+         "id": "1006029",
+         "field_search": "question",
+         "question": "   Em đăng kí tài khoản id để đăng nhập appstore nhưng cứ đến bước xác minh email thì lại bị ntnVậy phải làm ntn bh ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.483795,
+         "id": "883407",
+         "field_search": "question",
+         "question": "e nhập sai mã pin nhiều lần của laptop win 10 thì giờ làm sao để đăng nhập lại đc,e nhớ đc mã pin của rồi mà nó ko hiện chỗ nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.912094,
+         "id": "795215",
+         "field_search": "question",
+         "question": "Em vừa mất iPhone 5s. Lúc vừa mất, điện thoại em không mở 3g hay kết nối internet. Em có nhờ bạn đăg nhập tk icloud, khóa máy. Lát sau, em có đăng nhập vào lại, tìm thử nhưng để ngoại tuyến, em mới xóa ip luôn, kèm thông báo \"iPhone sẽ tiến hành xóa khi có kết nối internet\". 2 ngày sau, em vào lại, thấy vẫn để dòng chữ đó. Rồi em lại hủy xóa, khóa máy lần nữa. Vậy cho em hỏi, người ta có dùng được điện thoại em không ạ? Em có cài mật khẩu máy.Em cám ơn ạ! Em chỉ mong bọn cướp không dùng được điện thoại của em thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.869366,
+         "id": "821018",
+         "field_search": "question",
+         "question": "Em đang dùng điện thọai Asus zenphone c.sau khi mượn một điện thoại khác để truy cập zalo thì sao khi em truy cập zalo bằng địên thọai của mình thì có thông báo hết phiên đăng nhập và yêu cầu đăng nhập lại. Sau khi đăng nhập thì tin nhắn của em bị xóa hết.vậy có cách nào để khôi phục lại tin nhắn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.599274,
+         "id": "989079",
+         "field_search": "question",
+         "question": "icloud của em không thể đăng nhập được mà nếu đăng nhập được thì cũng hiện như này em phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.47898,
+         "id": "805695",
+         "field_search": "question",
+         "question": "cho em xin mật khẩu tài khoản thegioididong98@yahoo.com.vn được không ah. để em đăng nhập vào tài khoản icloud của e... giờ đang xài nó cứ hiện bắt nhập mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.413067,
+         "id": "1140456",
+         "field_search": "question",
+         "question": "Dạ chào anh  chị .giúp em vs ạ . Chuyện là em  lỡ đăng nhập viber vào 1 điện thoại khác . Nhưng khi em nhập mã vào điện thoại khác đó thì tin nhắn và dữ liệu trên viber bên điện thoại chính của em bị mất hết . Và bên điện thoại khác đó k vào đc viber nữa. Vậy em làm sao có thể lấy lại được tin nhắn và dữ liệu cũ ạ . Do trước em chưa sao lưu . Nhờ giúp em vs ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.370384,
+         "id": "813856",
+         "field_search": "question",
+         "question": "Muốn xác minh tài khoản ID ntn hả anh vì em ko biết xác minh cái tài khoản ID ntn ho nên em muốn gửi lời để hỏi công ty mình mong các anh có thể giải mã hộ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.193733,
+         "id": "756623",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi trên iphone của em không bật chứ năng tìm iphone thì bây giờ em có thể khóa iphone lại qua icloud trên macbook không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.139557,
+         "id": "1159058",
+         "field_search": "question",
+         "question": "Facebook của em bị xác minh danh tính nhận diện 5 bạn bè.  Bị 7 lần rồi.  Nếu lần sau bị nữa mà em k nhớ dẫn đến vô hiệu hóa. Em lập nick mới thì em lập trên điện thoại mà bị xác minh danh tính 7 lần đó đc k.  Hay em phải lập trên điện thoại khác rồi lại đăng nhập trên đt bị 7 lần kia để dùng? Mục đích để k bị xác minh danh tính nữa.  Xin ad tư vấn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.07283,
+         "id": "1139630",
+         "field_search": "question",
+         "question": "Sao khi em tải messager thì nó bấm vào không được và có dòng chữ : Yêu cầu xác thực. Bạn cần đăng nhập Tài khoản Google của mình . Mà trong khi đó em có tài khoản Google rồi ạ!Máy em là máy Oppo A57. Khắc phục giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.017994,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.999233,
+         "id": "1144940",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn lấy đc mã thì phải làm sao ạ Ních facebook của em nó bị như vậy ạ   Warning \"Bạn đã thử nhập quá nhiều mã. Vui lòng thử lại sau.\" giờ em phải làm như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.839596,
+         "id": "968567",
+         "field_search": "question",
+         "question": "em quên mật khẩu zalo và yêu cầu mã xác nhận để tạo mật khẩu mới nhưng không nhận được tin nhắn. phải làm sao ạ, help me!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.727062,
+         "id": "1165101",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tài khoản facebook của em giờ quên mật khẩu có cài số điện thoại nhưng bấm vô quên mật khẩu thì nó không gửi mã về điện thoại thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

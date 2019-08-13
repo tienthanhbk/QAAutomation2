@@ -1,0 +1,801 @@
+{
+   "id_query": "927457",
+   "total": 34054,
+   "total_current": 100,
+   "max_score": 162.88385,
+   "origin_question": "Máy mh là laptop windows 10 tải cocococ về nhưng không sài đc, nó bảo Quyền truy cập Internet của bạn bị chặn Tường lửa hoặc phần mềm diệt vi-rút có thể đã chặn kết nối.Hãy thử:Kiểm tra kết nối   là sao có wifi mà, cho mh nguyên nhân và cách khắc phục",
+   "hits": [
+      {
+         "score": 59.879646,
+         "id": "1162933",
+         "field_search": "question",
+         "question": "E vào Google chrom mà nó không kết nối được và hiển thị bỏ chặn trong tường lửa hoặc diệt virus thì làm sao ạ? E dùng kaspersky internet antivirus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.99703,
+         "id": "897678",
+         "field_search": "question",
+         "question": "Tôi sài laptop lenovo yoga 500 mà wifi máy bắt lúc nào cũng có dấu tam giác màu vàng có dấu thăng bên trong và đề là k có internet nhưng tôi truy cập mạng vẫn dc nhưng yếu.. các máy laptop xung quanh tôi hoặc đt đều kết nối cùng 1 wifi đó mạnh và bình thường.. cách khắc phục là ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.60297,
+         "id": "932375",
+         "field_search": "question",
+         "question": "Mình bị lỗi wifi cua laptop hp botebook lam sao mà kết nối wifi rồi mà nò hiện k có mạng k thể truy cập vào internet dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.228466,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.31878,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.095947,
+         "id": "995833",
+         "field_search": "question",
+         "question": "- Mh đag sử dụng ip6+ và cho mh hỏi là tsao khi mh tải ứng dụng trên asari về máy mh lại không thể tải đc như thế này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.086178,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.9676,
+         "id": "1155142",
+         "field_search": "question",
+         "question": "Em đang dùng máy mi note 4 thì gặp lỗiWifi bị ngắt kết nối mặc dù cục wifi để khá gầnVô cài đặt wifi thì nó hiện wifi đã lưu phải kết nối lạiCho em xin nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.633987,
+         "id": "828934",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình dùng windows phone 10 sau khi đổi dns để vào facebook, nhưng sau khi mình tắt IP tĩnh đi thì nó bị mấy cổng nối mặc đinh và kết nối wifi nó báo ko có internet. chỉ cho mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.47822,
+         "id": "1021895",
+         "field_search": "question",
+         "question": "Cho em hỏi là: em bị lỗi wifi, khi bắt được wifi, vào được mạng bằng wifi nhưng máy báo là không có internet, wifi không có quyền truy cập internet.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.09198,
+         "id": "855363",
+         "field_search": "question",
+         "question": "chào a/c ạ😊em có một em iphone 3, cho em hỏi là:...- máy khôq thể truy cập mạq bằq tiền đc ạ, khi kết nối wifi thì đc ạ...-em khôq thể tạo tài khoản appstore đc...-khôq thể tải game hoặc ứng dụng về máy đc ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.692333,
+         "id": "1145210",
+         "field_search": "question",
+         "question": "cho mình hỏi. Cách khắc phục lỗi kết nối wifi cho laptop dùng win10.máy cứ dùng được 3-5p là hiện dấu chấm than hoặc tự ngắt kết nối, phải kích lại mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.04804,
+         "id": "766801",
+         "field_search": "question",
+         "question": "  Anh chị cho em hỏi ipad của em báo là đã kết nối wifi nhưng em truy cập mạng không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.856712,
+         "id": "996611",
+         "field_search": "question",
+         "question": "mh có con iphone 5s bắt đc wifi nhưng lại không có mạng,trong khi đó máy tính + đt samsung của em mh thì lại bắt đc và có mạng,mh đem điện thoại đi bắt thử wifi nhà khác thì điện thoại 5s của mh vẫn dùng mạng bình thường??? bạn nào giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.64248,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.56059,
+         "id": "1138974",
+         "field_search": "question",
+         "question": "Tại sao samsung j5 prime không thể truy cập mạng wifi mặc dù đã kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.50528,
+         "id": "843897",
+         "field_search": "question",
+         "question": "vì sao laptop của e. mỗi lần truy cập wifi là nó tự mở web và tự động truy cập 1 trang web nào đó. có cách nào khắc phục đc k ạ. hoặc có thể sửa trang web đó thành web khác k. mọng mọi người giúp đỡ e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.49554,
+         "id": "937404",
+         "field_search": "question",
+         "question": "Minh mua may tinh ở thế giới di động ,mấy hn máy mh ko vào đc internet edge, nó thông báo ko thể truy cập khi sử dụng của ng quản trị cài sẵn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.78612,
+         "id": "846588",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình và bạn ấy ko hủy kết bạn zalo nhưng tại sao mh vào dòng thời gian thì chỉ xem được ảnh thôi ạ. stt hay ghi âm đều ko xem được. cho mh hỏi vì sao lại vậy ạ. mh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.63124,
+         "id": "776514",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s mình kết nối Sẩi bằng 3G thì máy báo là iphone của bạn khong kết nối được Internet, nhưng kết nối bằng wifi là Ok. Khi kết nối 3G thì lên face, YouTube, đọc báo là Ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.49483,
+         "id": "1008481",
+         "field_search": "question",
+         "question": "Cho mình hỏi phí cài win 10 và phần mềm diệt vi rút bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.483315,
+         "id": "989925",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi sao không cập nhật lên iOS 10.2.1 được, cập nhật là cyws báo không có kết nối wifi trong khi đã kết nối rồi, iOS hiện tại là 9.3.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.997677,
+         "id": "857845",
+         "field_search": "question",
+         "question": " cho mình xin hỏi về phần mềm diệt vi rút cho iPhone vì hiện tại máy đt mình đang bi nhiễm vi rút ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.800655,
+         "id": "828352",
+         "field_search": "question",
+         "question": "chào bạn.cho mình hỏi sao minh đăng nhập messenger cứ báo là k thể kết nối internet trong khi wifi đầy cột sóng.mình thử xóa và cài lạ vẫn như vậy. tắt nguồn máy đăng nhập lại vẫn bị như z. bạn có thể chỉ mình cách khắc phục không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.77996,
+         "id": "940107",
+         "field_search": "question",
+         "question": "  IP 6 kết nối wifi nhập MK đúng mà bị thế này là làm sao ạ? có cách khắc phục ko ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.74742,
+         "id": "972815",
+         "field_search": "question",
+         "question": "Chưa kết bạn. Nếu bị chặn người lạ coi ảnh trên trang cá nhân của người chặn mình bấm vào mục ảnh trên trang cá nhân của người chặn thì nó báo như thế nào vậy? Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.699135,
+         "id": "1168377",
+         "field_search": "question",
+         "question": "Cho hỏi có cách nào chặn  quảng cáo trên Youtube hoặc có thể tải app nào chặn đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.569,
+         "id": "805997",
+         "field_search": "question",
+         "question": "Em vừa cập nhật phần mềm cho con ipad 2 của em mà cập nhật xong thì nó bị lỗi ghi là:\"không thể kích hoạt ipad của bạn vì máy chủ kích hoạt tạm thời không khả dụng.Thử kết nối ipad của bạn với itunes để kích hoạt hoặc thử lại sau một vài phút.\" thế là sao ạ ?? có bị hỏng gì không ạ em sợ quá các bác giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.510902,
+         "id": "1134390",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony z4, trước máy em vẫn kết nối wifi bình thường, nhưng 1 tuần nay máy em kết nối thì hiện đã kết nối nhưng wifi có chấm than, em thay ip tĩnh vẫn không được. Các wifi nhà khác máy em kết nối bt chỉ có wifi nhà em mới vậy. Anh/chị cho e hỏi e vậy là máy e bị sao ạ và khắc phục ntn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.327812,
+         "id": "813536",
+         "field_search": "question",
+         "question": " laptop của mình cứ thường xuyên bị ngắt kết nối wifi hoặc không kết nối wifi được luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.140812,
+         "id": "871254",
+         "field_search": "question",
+         "question": "Iphone 5s bật wifi xem video trên mạng xã hội và youtube thì lại mất wifi, khi kết nối lại được nhưng lại mất, có khi không kết nối được và mắt phải tự động chọn nhà mạng. Cho em hỏi đo là do nguyên nhân nào dù em đã thử mọi cách cỏ thể làm wifi bất sóng tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.968765,
+         "id": "1153465",
+         "field_search": "question",
+         "question": "Tôi xài laptop acerTôi đã kết nối lap của mình với wifi ròi nhưng lại báo là k kết nối đc với internetVậy làm sao để sửa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.95038,
+         "id": "882818",
+         "field_search": "question",
+         "question": "điện thoại của mình quên mk nên bị vô hiệu hóa,và yeu câu kết nối vs itunes. mình tải itunes về roi nhưng vẫn không được. có phải do mình tải phần mềm về máy tính sau lúc máy bị lỗi nên ko đc ko hả bạn Phạm Khải Hoàn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.832745,
+         "id": "1143545",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình vừa tải 1 games từ google về chiếc galaxy A5 2016 và cài đặt với tư cách là ứng dụng k rõ nguồn gốc .Rồi k chơi đc nên mình đã xóa nó xong máy của mình nó cứ tự bật mấy trang web rất khó chịu mình phải chặn suất nhưng chặn xong đc luc nó lại hiện lên .bây jo mình phải làm sao để khắc phục ,và có phải máy mình đã bị nhiẽm virus k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.65246,
+         "id": "993606",
+         "field_search": "question",
+         "question": "Chào tgdd,Mình đang sử dụng máy DELL mua ở TGDDHôm qua máy mình vẫn hoạt động bình thường, tuy nhiên, hôm nay bỗng nhiên wifi kết nối nhưng không hoạt động.Cụ thể là mình đã kết nối (connected), tuy nhiên vẫn bị No internet.Biểu tượng wifi phía dưới thì không bắt đc cột sóng nào (trong khi phía trên là full)Không phải vấn đề với router vì dt vẫn kết nối bình thường, mình cũng đã test trên nhiều wifi và đều bị.Xin cho mình hỏi là máy mình bị lỗi gì và cách khắc phục đc không ạ? (những cách đơn giản trên mạng mình đã thử qua nhưng không khả quan)Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.6025,
+         "id": "875521",
+         "field_search": "question",
+         "question": " cách diệt vi rus cho điện thoại iphone 5s từ phần mềm bản quyền bkav trên laptop ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.592068,
+         "id": "790676",
+         "field_search": "question",
+         "question": "M bị chặn trên zalo vậy làm sao để biết ng ta đã bỏ chặn mình hay chưa? Nếu ng ta truy cập vào zalo thì có thể xem nhật ký của mình đc k và nếu họ vào xem nhật ký của mình thì họ có ở trạng thái truy cập k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.27491,
+         "id": "758051",
+         "field_search": "question",
+         "question": "Tải PC companion về máy tính bàn chạy win xp, mở PC companion lên mà không có kết nối dù đã cắm điện thoại rồi vậy có cách nào kết nối không anh? Dù cáp zin dùng tốt và điện thoại đã kết nối với máy tính. Nhưng không có kết nối PC companion?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.92607,
+         "id": "1004632",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình mua laptop tại cửa hàng thế giới đi động. Khi bạn nhân viên cài máy, mình có hỏi là phần mềm Office 2010 có bản quyền ko? thì bạn nv nói là có. Mà h mình thấy máy báo là phần mềm ko có bản quyền.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.92159,
+         "id": "826083",
+         "field_search": "question",
+         "question": "tui mua laptop 6 tháng rùi .. đang sử dụng win 10 .. tự nhiên windows store không vào được với microsoft thì không kết nối internet được là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.846367,
+         "id": "889225",
+         "field_search": "question",
+         "question": "em muốn hỏi làm cách nào bật tường lửa với chống virus của bitdefender 2016 ạ, bản quyền vẫn còn 300 mấy ngày, nhưng hôm qua em lại cho phần mềm tự sửa lỗi, thế là nó hiện lên mấy cái đó đã hết hạn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.74963,
+         "id": "900734",
+         "field_search": "question",
+         "question": "cho hỏi con asus core i5 cua em mua ở TGDD. sao khoang 2 tháng sài bình thường nhưng bi giờ bị lổi wifi có dấu chấm thang và máy bị đơ luôn. đem lại bảo trì thì nhân viên nói k bị gì do wifi ở tgdd thì kết nối được. còn đem về thì k kết nối được mà còn bị đơ máy. cpu và ram lúc nào củng cao. rất là ức chế. mua tận 16tr.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.745667,
+         "id": "1016563",
+         "field_search": "question",
+         "question": "Em hiện dùng j2 prime máy em khi kết nối cùng 1 wifi máy khác đều kết nối đc nhưng máy em tuy nhập mật khẩu đúng nhưng máy báo là mật mã sai. Cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.572147,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.546875,
+         "id": "992611",
+         "field_search": "question",
+         "question": "Máy e đang sài là ip6s. Sau một thời gian tìm hiểu về những tính năng mà ios11 đem lại thì e mới thử nâng cấp lên xem sao. K ngờ thì hậu quả để lại là máy bị đơ và khó sài quá,e muốn phát điên lên mất. E có nghe nói là mình có thể kết nối với máy tính và tải phần mềm gì đó về để có thể kéo lại xuống ios 10.3.2 được. Cho e hỏi TGDĐ có thể giúp e đc k ạ??Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.531487,
+         "id": "1138921",
+         "field_search": "question",
+         "question": "Mk đg sử dụng Huawei y6 prime, hôm qua vẫn sử dụng wifi bình thường, nhưng hôm nay kết nối wifi thì vạch wifi vẫn hiện lên nhưng lại có dấu chấm than và ghi là không có kết nối Internet.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.527885,
+         "id": "813796",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là trước kia zalo mình và ngđó là bạn bè vì lý do bạn ấy chặn mình.mỗi khi nt thì k đc.lâu lâu xuất hiện dòng tin chặn,kết bạn và báo cáo. Nhưng mh kb thì bgiờ nick ngđó thôg báo đang chờ chấp nhận và bgiờ báo là nick ngđó ko nhận tin từ người lạ.vậy mình đăng gì ng ấy thấy k.mặc dù trc kia ngdo chỉ chặn mình thôi và mình vao tin nhắn thì thấy ngđó vẫn online",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.375797,
+         "id": "899947",
+         "field_search": "question",
+         "question": "chào ad.... có thể giúp m giải quyết vấn đề này không ạ...m đang dùng dt lumia chia sẻ kết nối internet qua wifi để bắt vào laptop.... mọi ngày vẫn bình thường... nhưng giờ nó bị thế này....khi bật chia sẻ ở đt thì máy tính và dt đều nhận kết nối.. nhưng trên máy tính nó hiện như hình dưới....m làm mọi cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.3171,
+         "id": "1166419",
+         "field_search": "question",
+         "question": "Tại sao tài khoản itunes của máy mình bị lỗi không kết nối với máy chủ?? Có cách khắc phục không ạ. Nó khiến mình không tải được các ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.195282,
+         "id": "1021659",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao điện thoại huawei y5 2017 e mới mua được gần 1tháng kết nối wifi bình thường nhưng cách đây hai ngày thì kết nối được nhưng khồng dùng được wifi ạ, kết nối wifi rồi nhưng lại ghi là không kết nối wifi nào hết và bên cạnh hiện lên dấu \"!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.194126,
+         "id": "1169004",
+         "field_search": "question",
+         "question": "Sau khi cập nhật phần mềm xog sao Zalo ko kết nối đc với WiFi ạ ,e sử dụng Samsung j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.179375,
+         "id": "828702",
+         "field_search": "question",
+         "question": "QTV chỉ em cách khắc phục lỗi kết nối facebook cho Windows với...dù em sử dụng bất kì wifi hay 3G vẫn ko kết nối được...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.157665,
+         "id": "1146650",
+         "field_search": "question",
+         "question": "mình mới mua 1 iPhone 6s plus tại TGDĐ chưa được 1 tháng. Hôm kia đang lướt Facebook ngon lành thì Wifi tự nhiên ngắt kết nối, mình cố kết nối lại nhưng không được và bị báo sai mật khẩu (nhưng mình khẳng định 100% là không sai). Sau đó mình có thử kết nối Wifi của mấy nhà xung quanh nhưng đều không được (vẫn chắc chắn mật khẩu đúng). đến khi ra của hàng TGDĐ thì nhân viên hỗ trợ lại kết nối được Wifi ở shop và nói là Wifi nhà mình bị lỗi. Lỗi thế nào được khi mình đã thử kết nối Wifi của nhiều nhà, vậy là máy mình lỗi chứ phải không? Giờ làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.153107,
+         "id": "919533",
+         "field_search": "question",
+         "question": " Bạn cho mình hỏi cách khắc phục máy tính win 10 không kết hợp với wifi có mật khẩu trên 8 kí tự. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.948746,
+         "id": "774297",
+         "field_search": "question",
+         "question": "Máy của mình (Samsung S3) bị lỗi xác thực khi kết nối WiFi, hầu như tất cả WiFi đều xảy ra lỗi xác thực,hoặc có khi hiện chữ đang kết nối và đang tìm rồi cứ lặp lại mà không kết nối được.cho mình hỏi có cách nào giải quyết vấn đề trên không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.898598,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.808826,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.806618,
+         "id": "1155933",
+         "field_search": "question",
+         "question": "Ipad air khi cập nhật lên IOS 12 thì wifi kết nối lúc được lúc không, có wifi vô được có wifi vô không được. Cách khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.74281,
+         "id": "1007813",
+         "field_search": "question",
+         "question": "a chị cho e hỏi. samsung galaxy j7 bị lỗi kết nối wifi đc khoảng 30s thì bị lỗi internet không sẵn dùng là sao ạ. trong khi những đt khác vẫn kết nối và vào mạng bình thường ạ. e thử resest lại modem, hkởi động lại đt, khôi phục cài đặt gốc vẫn không được. ac có thể giúp e khác phục đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.69923,
+         "id": "802401",
+         "field_search": "question",
+         "question": "Máy tính của em kết nối Wifi được nhưng em không thể truy cập Internet bằng Microsoft Edge được. Nhưng khi em sử dụng trình duyệt Cốc Cốc thì vẫn vào được bình thường là bị lỗi gì ạ? Xin chỉ em cách sửa. (Đặc biệt khi em sử dụng mạng có dây thì Edge mới vào được bình thương).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.698505,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.676666,
+         "id": "1008445",
+         "field_search": "question",
+         "question": "Tại sao khi vào mess nó cứ hiện ra \" vui lòng kiểm tra kết nối internet \" mặc dù wi-fi nhà mình rất mạnh. Vẫn sử dụng YouTube, Zalo đc. Mong mọi người chỉ mình cách khắc phục. Máy em là máy samsung j7 prime nhé ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.646046,
+         "id": "765692",
+         "field_search": "question",
+         "question": "Máy em bị mất kết nối wi-fi thường xuyên không phải do điện thoại ở chế độ tiết kiệm pin,em đã cài đặt rồi.thi thoảng máy lại cập nhật và nhận địa chỉ IPAD gây ngắt quãng kết nối làm cho công việc bị gián đoạn.thật sự rất bất tiện.có thể giúp em tìm hiểu nguyên nhân và cách khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.58993,
+         "id": "1166440",
+         "field_search": "question",
+         "question": "em dg xài chiếc nokia 8.1, mấy hôm nay ko piết sao khi xài wifi thì vào mang đc tầm 2 giờ thì máy ngưng kết nối vào báo mạng không có internet dù các máy khác xài vẫn bình thường,em đã thử nhiều cách khắc phục nhưng máy vẫn như vậy, mong ltv có thể giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.586823,
+         "id": "810338",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 6s, vừa mới cập nhật ios 9.3. Kết nối wifi lúc có lúc k, mạng wifi kết nối trên laptop vẫn bt. Giúp mình khắc phục cái.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.583275,
+         "id": "837695",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi là bây facebook của em nó thông báo là không thể kết nối tới máy chỉ còn messenger của em thông báo là \"đã hết thời gian. Không thể kết nối tới facebook. Vui lòng kiểm tra kết nối tới máy chủ\". Trong trường hợp này em p làm tn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.502235,
+         "id": "1144053",
+         "field_search": "question",
+         "question": "điện thoại của mình dạo gần đây khi cắm sạc vào máy. máy ko báo sạc nhanh mà báo sạc chậm mặc dù mình dùng cáp và dây sạc đi theo máy. Và máy mình cũng ko có ứng dụng rác hay phần mềm diệt virus. mình dùng ss a5 2017. ad có thể cho biết nguyên nhân và cách khắc phục đc ko?. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.444157,
+         "id": "1133529",
+         "field_search": "question",
+         "question": "Em là nhân viên bhx em dùng iphone 5s mà mấy ngày hôm nay bị lỗi app MWG mấy ngày nay không vô đc em đã xoá và tải lại cũng như vậy cho em hỏi nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.280495,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.2355,
+         "id": "875504",
+         "field_search": "question",
+         "question": "add cho mình hỏi khi mình gửi lời mời kết bạn vs ngta mà nó hiện lên dòng chữ \"người này ko muốn nhận lời mời kết bạn từ bạn\" như vậy là mình bị chặn đúng ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.23527,
+         "id": "831482",
+         "field_search": "question",
+         "question": "Khi tôi phát hiện Facebook bị chặn thì tôi có lên đây để hỗ trợ, cũng như bên hỗ trợ đã chỉ cách khắc phục Họ bảo download ứng dụng Hotspot Shield Free VPN , tôi đã làm theo và cũng đã khắc phục được tình trạng Facebook bị chặn rồi. Nhưng khi tôi truy nhập Zalo thì nó lại bị như thế này, vậy cho hỏi t download ứng dụng Hotspot Shield Free VPN để khắc phục Facebook thì nó có ảnh hưởng gì đến zalo không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.21135,
+         "id": "1139290",
+         "field_search": "question",
+         "question": "Mình có down phần mềm Wondershare Filmoral Portable về, có thể trong đường link có virus nên laptop mình đã bị cài đặt phần mềm lạ là SearchAwesome, và nó cứ tự động hiện Internet Edge và hiện quảng cáo liên tục, xóa phần mềm đó đi cũng không được. Tóm lại là cho mình hỏi bị nhiễm cái đó có nguy hiểm không và xóa nó có dễ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.10298,
+         "id": "871493",
+         "field_search": "question",
+         "question": "loptop của mình là lotop hp, kết nối wifi thì mạnh nhưng lên mạng lại không được trong khi máy hiển thị là đã kết nối rồi. có ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.09752,
+         "id": "1145765",
+         "field_search": "question",
+         "question": " cho em hỏi cách khắc phục lỗi khi tải video từ máy của ss a7 2018, tải lên youtobe, thì máy báo đã bị tắt , bị chặn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.085293,
+         "id": "805162",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 5 từ lúc lên phiên bản 9.2.1 máy kết nối wifi toàn không đúng mật khẩu hoặc không thể kết nối là sao vậy add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.08081,
+         "id": "785912",
+         "field_search": "question",
+         "question": " máy ARBUTUS AR5 của e bị lỗi ko kết nối được vs máy ảnh làm sao để khắc phục. phần mềm chụp ảnh nào cũng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.041534,
+         "id": "1151561",
+         "field_search": "question",
+         "question": "mình dung M20 cho mình hỏi tại sao internet đã kết nối nhưng lại ko thể có sẵn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.02296,
+         "id": "1149515",
+         "field_search": "question",
+         "question": "Mh dùng ịphone6splus giờ chuyển sang samsung galaxyj8 tìm lại ảnh đã lưu trữ mà k thấy j8 32g ad giup mh vơi.nên khắc phục cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.964119,
+         "id": "1154584",
+         "field_search": "question",
+         "question": "Cho em cách khắc phục laptop em không tìm thấy thiết bị tai nghe bluetooth awei a930bs. Em có thử laptop của bạn em vẫn không tìm ra được nhưng điện thoại thì vẫn tìm thấy và kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.953964,
+         "id": "1000098",
+         "field_search": "question",
+         "question": "hiện tại mình sài ip 6splus ios 8.1 facebook thì sai được còn vào messenger là bị out ra ! mở 3g thì sài bình thường - mình đã thử xóa cả face và messenger + kết nối wifi khác nhưng vẫn bị out !! chỉ có sài 3g là ko bị gì thôi mong dc sự giúp đở và khắc phục của mod ! !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.937391,
+         "id": "1141895",
+         "field_search": "question",
+         "question": "trung tâm tgdd cho em hỏi: máy của em là samsung s7 thường mua được 3 tháng thì bị tình trạng là không thể kết nối với các thiết bị không dây như wifi bluetooth.em gửi 2 tấm hình, tuy wifi tắt nhưng nó vẫn chạy còn biểu tượng wifi thì khi bấm vào thì nó sáng mờ. trung tâm có thể tư vấn cho em về cách khắc phục được không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.893105,
+         "id": "903388",
+         "field_search": "question",
+         "question": " làm sao để tải nhạc có bản quyền trên Zing Mp3, máy mình là laptop windows 10, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.89193,
+         "id": "1165680",
+         "field_search": "question",
+         "question": "Mấy mod cho e hỏi vấn đề này cái.  Pc e mới cài lại driver mà mạng nó cứ bị dấu chấm than vàng hoài  ,  mặc dù kết nối được nhưng không có internet.  E đã thử 1 vài cách trên mạng mà vẫn không khắc phục được mong các mod chỉ e khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.86406,
+         "id": "869173",
+         "field_search": "question",
+         "question": "hic, mình có mua owe TGDĐ 1 máy laptop acer aspire v3-371 nhưng từ đó đến nay máy cứ bị trục trặc về wifi hoài, kết nối lúc nào cũng full cột sóng wifi, ko mất kết nối nhưng thường xuyên ko thể tải nổi trang vì tốc độ tải xuống quá chậm, phải reset máy nhiều lần mới hết. TGDĐ có thể tư vấn dùm nó bị gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.847849,
+         "id": "1141751",
+         "field_search": "question",
+         "question": "ad ơi mình cần trợ giúp : mh đang dùng máy redmi note5 pro hiện tại mình không truy cập đc tât cả các ứng dụng của google ngoài ra không hiển thị phần bàn phím có cách nào khác phục lỗi này k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.8324,
+         "id": "775285",
+         "field_search": "question",
+         "question": "Thegioididong cho mình hỏi iphone của mình hay bị out wifi là bị lỗi gì? Có phải do phần cứng không vì mình đã chỉnh \"off\" định vị wifi và cập nhật phần mềm nhưng vẫn bị bắt wifi kém và hay bị out. Nhà có 2 cái iphone mà 1 cái bị chứ không phải cả 2. Cái bị out wifi là iphone 5s quốc tế đã cập nhật phần mềm mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.8121,
+         "id": "1010787",
+         "field_search": "question",
+         "question": "Không biết là TGDĐ ở TP.Vinh có thay màn hình với cả chạy phần mềm máy Vivas Lotus S1 không nhỉ? Máy mình không hiểu sao không thể bật kết nối wifi và bluatooth đượcMong #ad phản hồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.709305,
+         "id": "801017",
+         "field_search": "question",
+         "question": "laptop em tự dưng kết nối wifi k đc ngta chỉ vô là ấn cái chỗ màu đỏ trong hình là đc mà máy e nó k ấn đc vào đó là sao chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.647942,
+         "id": "746792",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng ip6 nhưng tại sao em tải line về máy em đăng nhập lại khoản line cũ ko đc và tạo tài khoản mới cũng k đc , Line toàn hiện là k kết nối được với line vui lòng kiểm tra kết nối mang trong khi wifi và 3g của em dùng ở các ứng dụng khác vẫn rất tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.64625,
+         "id": "1023808",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e tải youtube rồi có video ngoại tuyến rồi mà khi tắt wifi là ko vào được video ngoại tuyến vậy nó cứ nói là không có kết nối trong khi máy cũ của e vào mà ko có wifi bình thường mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.613424,
+         "id": "1133987",
+         "field_search": "question",
+         "question": "Mh sd dt samsung j7 2016 bị cảnh báo lỗi camera trước. Hướng dẫn mh cách khắc phục lỗi với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.57358,
+         "id": "1152897",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi là đt của em luôn luôn bị lỗi mất kết nối wifi tầm 5-10 giây sao là hết mà khi chơi game là bị liên tục. Thế làm sao để khắc phục ạ. Do bạn em có chỉ là ra tgdd ngta làm làm gì đó nên em hỏi. Đt em là Xiaomi redmi note 5a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.569527,
+         "id": "1164506",
+         "field_search": "question",
+         "question": "Instagram của mình bị chặn không cho follow? Có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.554218,
+         "id": "782429",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua điện thoại iphone 5s được 15 ngày hôm nay em kết nối wifi thì nó ghi là sai pass và không kết nối dc em đã tắt và khởi động lại máy nhưng vẫn không kết nối dc . Trường hợp của em có cần mang ra thegioididong sữa ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.490313,
+         "id": "1153315",
+         "field_search": "question",
+         "question": "em xài samsung j đời cũ kết nối wifi và bluetooth và chơi những game online trong nước thì chạy bình thường nhưng chơi game nước ngoài thì lại báo là mạng kết nối không ổn định có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.432474,
+         "id": "1145540",
+         "field_search": "question",
+         "question": "Tôi có mua Sony XB21 nhưng không thể kết nối Bluetooth với laptop win 10, bạn có hướng dẫn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.38068,
+         "id": "1012948",
+         "field_search": "question",
+         "question": "Mk hôm qua có sử dụng laptop để tải nhạc trên zing mp3. Mình tải khoảng hơn 100 bài chiếm hơn 1gb của bộ nhớ. Mk sử dụng google chorme và mk bật chế độ ẩn danh( thói quen của mk). Tuy nhiên khi tải về xong mở file thì lại không thể mở đc vs thông báo\" window not find\" và nôik dung của nó là ko tìm được mà mk đã tải. Nhưng những file nhạc của mk vẫn chiếm bộ nhớ. Cho mk hỏi nguyên nhân và cách khắc phục vs ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.345718,
+         "id": "998763",
+         "field_search": "question",
+         "question": "Điện thoại ip6 của em có bị rơi. Rơi mạnh ạ. Sau đó thì ko thể kết nối được với mạng wifi . Làm ơn chỉ cho em cách khắc phục. Trạng thái máy vẫn bìh thường ạ. Chỉ k kết nối dc wf thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.29196,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

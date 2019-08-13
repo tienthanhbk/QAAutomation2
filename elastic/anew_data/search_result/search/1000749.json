@@ -1,0 +1,801 @@
+{
+   "id_query": "1000749",
+   "total": 12881,
+   "total_current": 100,
+   "max_score": 86.10227,
+   "origin_question": "Làm sao để thay đổi băng tầng của asus zen max 3 thế?",
+   "hits": [
+      {
+         "score": 27.952276,
+         "id": "1010972",
+         "field_search": "question",
+         "question": "Cho em hỏi con asus zenphone5 của em bị chập chờn wifi thì làm thế nào để khác phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.842886,
+         "id": "763133",
+         "field_search": "question",
+         "question": " Sao máy tính bảng Asus của em bị mất màu rồi em nên làm thế nào để phục hồi màu như cũ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.30329,
+         "id": "1024330",
+         "field_search": "question",
+         "question": "Add cho mình hỏi máy tính của mình nhảy nhiều tab mới thì làm thế nào để hết ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.836525,
+         "id": "1019761",
+         "field_search": "question",
+         "question": "Giờ làm sao để biết 1 con máy có bị thay thế linh kiện fake ko hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.754465,
+         "id": "757176",
+         "field_search": "question",
+         "question": " Làm sao để tắt chế độ làm phiền của Zenfone2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.196926,
+         "id": "1023809",
+         "field_search": "question",
+         "question": "Tự nhiên đồng hồ máy em (zen 2) bị lệch sang bên trái.em đã thử khởi đôngh lại máy. Cho em hỏi làm thế bào để sửa lại với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.501049,
+         "id": "1009169",
+         "field_search": "question",
+         "question": "Máy asus zenfone 3 max 5.5 bật chế độ chạy nền thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.251003,
+         "id": "1022185",
+         "field_search": "question",
+         "question": "Thế giới di động có bảo hành asus zenfone 3 max 5.5 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.152594,
+         "id": "752677",
+         "field_search": "question",
+         "question": "Reset lại iphone có mất dữ liệu không và làm thế nào để kiểm tra tin nhắn của mình đã xóa không còn lưu trên máy nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.141975,
+         "id": "987099",
+         "field_search": "question",
+         "question": "Đổi mật khẩu tài khoản Apple giờ k nhớ phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.031591,
+         "id": "1022186",
+         "field_search": "question",
+         "question": "Thế giới di động Có bảo hành asus zenfone 3 max 5.5 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.93835,
+         "id": "744725",
+         "field_search": "question",
+         "question": " Làm thế nào để biết bạn mình đang online trên tango ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.843525,
+         "id": "1024308",
+         "field_search": "question",
+         "question": "Làm thế nào để root máy huawei 4.4.2 z tư vấn hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.708565,
+         "id": "1010967",
+         "field_search": "question",
+         "question": "Anh cho em con asus zenphone 5 của em bị chập chờn wifi thì cho em hỏi làm các nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.65736,
+         "id": "1016372",
+         "field_search": "question",
+         "question": "Quản trị viên cho em hỏi. Em có cái sim thường (của Viettel), bây giờ em muốn thay sim đấy bằng cái sim mới loại micro sim (vẫn số đấy, vẫn của Viettel) thì em có thể đổi luôn ở cửa hàng TGDĐ được không ạ hay vẫn phải đến chỗ của Viettel để làm thủ tục ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.432493,
+         "id": "1153755",
+         "field_search": "question",
+         "question": "Làm cách nào để hết tình trạng sạc pin lâu của oppo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.382647,
+         "id": "763715",
+         "field_search": "question",
+         "question": " Cho em hỏi hình nền mặc định của iPhone 6 bị mất rồi phải làm sao để tìm lại làm ơn chỉ với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.940142,
+         "id": "1161000",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để gõ tiếng Việt trong messenger ở S10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.787252,
+         "id": "1160537",
+         "field_search": "question",
+         "question": "Cho en hỏi sao dt asus zenfone 4 max 5.2 của em sao nó bị đơ màn hình mấy lần và nó vô cung lag cho em hỏi bị sao thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.75886,
+         "id": "746481",
+         "field_search": "question",
+         "question": " Sao oppo joy 3 của em lại không có chuyển đổi phân vùng ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.694637,
+         "id": "1004321",
+         "field_search": "question",
+         "question": "Làm thế nào để ẩn ứng dụng trên điện thoại wiko vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.694637,
+         "id": "998721",
+         "field_search": "question",
+         "question": "Làm thế nào để biết mình đang dùng máy oppo tên j vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.472084,
+         "id": "746547",
+         "field_search": "question",
+         "question": " Làm thế nào để đưa thanh google ra màn hinh chính....mình xài zenfone 2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.263472,
+         "id": "1008330",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thê nào để sao chép và dán văn bản trên facebook của mình bằng điện thoại oppo neo 3. Mình đã làm moi cách, ấn giữ, rồi xóa và tải lại vẫn ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.940628,
+         "id": "1163619",
+         "field_search": "question",
+         "question": "Tôi sử dụng điện thoại Huawei y3 2017 Tôi muốn đổi ảnh nền thành ảnh tôi nhưng ko đc,thử đổi qua ảnh có sẵn trong máy cg̉ ko đc,lúc trước tôi đổi được nhưng bây giờ ko đổi đc ,phải làm sao để đổi ảnh nền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.758636,
+         "id": "1164356",
+         "field_search": "question",
+         "question": "zenphone 3 max 5.5 không có pc link thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.74161,
+         "id": "1006762",
+         "field_search": "question",
+         "question": "Cho mình hỏi là zen phone 3 max 5.5 vs con galaxy j7 pro nên mua con nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.719639,
+         "id": "1138449",
+         "field_search": "question",
+         "question": " Jup root máy asus max xong xuát hiện logo asus chìm dưới màn hình phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56017,
+         "id": "1001668",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình mới mua nhưng bị rơi bể mặt kính thì thay thế như thế nào? Giá bao nhiêu? Asus zenfone max 5.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.527296,
+         "id": "1000114",
+         "field_search": "question",
+         "question": "Giá thay màn hình asus zenfone 3 max 5.5 là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.047691,
+         "id": "909789",
+         "field_search": "question",
+         "question": "Sđt đăng kí fb của tôi giờ lại thông báo không khớp với tài khoản nào khi đăng nhập vậy phải làm sao để vào được tài khoản fb của mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99259,
+         "id": "1148575",
+         "field_search": "question",
+         "question": "Thay đổi kích thước thanh trạng thái trên ssg a8 star như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.924786,
+         "id": "779172",
+         "field_search": "question",
+         "question": "Ad biết khắc phục lỗi 101 của sim ghép koVói cả làm sao để biết mìh dụng mạng nào khi mới đăng nhập sim ghép",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.876408,
+         "id": "1007267",
+         "field_search": "question",
+         "question": "Em muốn thay mặt kính máy asus zenfone 3 max 5.5 thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.876408,
+         "id": "999284",
+         "field_search": "question",
+         "question": "cho e hỏi giá thay màn hình  Điện thoại Asus Zenfone 3 Max 5.5 ZC553KL",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.845802,
+         "id": "1155675",
+         "field_search": "question",
+         "question": "cho mình hỏi là bên TGDD có thay pin máy zen 4 max pro không vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.743528,
+         "id": "1149692",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi vào subway suffes máy mình bắt đăng nhập = tài khoản google,vậy làm thế nào để đăng nhập = fb được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.72232,
+         "id": "775133",
+         "field_search": "question",
+         "question": " Máy Laptop của em bị ERR Connection Time Out. Bây giờ em muốn sửa thì làm thế nào ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71363,
+         "id": "996873",
+         "field_search": "question",
+         "question": ". Thế giới di động ơi cho mình hỏi làm sao để tắt gamelot trên điện thoại lenovo a5000 dc không ạ ? nó cứ hiện lên không vô dc :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.675636,
+         "id": "1009103",
+         "field_search": "question",
+         "question": "chào ad ạ...e đang xài zen 3 max 5.2 khi e sạc pin đến 100% thì máy báo đèn xanh (pin đầy) sau mốt lát thì báo đèn vàng và có biểu tưởng đang sạc cứ lập đi lập lại ạ.....máy e bị từ khi up lên android 7.0 e phải làm thế nào ạ??? cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.609741,
+         "id": "783085",
+         "field_search": "question",
+         "question": " Hủy chặn cuộc gọi trên oppo neo 3 thì làm như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.46108,
+         "id": "1161117",
+         "field_search": "question",
+         "question": "Làm cách nào để chuyển đổi loại tệp không hợp lệ thành hợp lệ để đăng youtube ? Nó bảo loại tệp này k hợp lệ , vui lỏ̃ng chuyển thành định dạng tệp hợp lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.949177,
+         "id": "996248",
+         "field_search": "question",
+         "question": "Cách thay đổi tài khoản google trên asus zenfone 2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.850626,
+         "id": "1166518",
+         "field_search": "question",
+         "question": "Điện thoại của em Asus Zenfone4 max pro bị liệt 2 phím back và đa nhiệm ,vì sao ak ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.81885,
+         "id": "774466",
+         "field_search": "question",
+         "question": "Tại sao máy oppo neo 3 của em lại bị mất sóng thế? Em đã khởi động lại mấy lần mà nó vẫn mất sóng như thế này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.731764,
+         "id": "817450",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn thay đổi thẻ sim trong ip 5s thì đến thegioididong.com làm được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70282,
+         "id": "1137965",
+         "field_search": "question",
+         "question": "thay kính cảm ứng bị bể asus zenfone 3 max 5.5 giá bao nhiêu, không bị lỗi cảm ứng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70282,
+         "id": "999387",
+         "field_search": "question",
+         "question": "dạ... cho em hỏi màn hình asus zefnone 3 max 5.5 in thay màn hình bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.689085,
+         "id": "895567",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng latop lenovo . Khi mình tắt nút nguồn nó vẫn sáng . Giờ làm thế nào để hết ạ. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.601908,
+         "id": "1009827",
+         "field_search": "question",
+         "question": "Cho em hỏi sao tắt cái chế độ rung của nút home ảo asus zenfone 3 max vậy.lúc trước em tắt được sau khi reset máy em hết biết đường tắt.kím không ra chỗ để tắt nó.mỗi lần chạm vào nút home nó rung rung giật giật thấy khó chịu lắm.không thích chế độ rung cho lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.591103,
+         "id": "1134552",
+         "field_search": "question",
+         "question": "Em có gửi chiếc laptop của em ra thế giới di động để gửi đi hãng, khi đem về thì e kiểm tra thấy tem ở ổ cứng bị tróc 1 cạnh, e không thay ổ cứng, giờ khi e mở lên thì bắt nhập password để vào ổ cứng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.585943,
+         "id": "817750",
+         "field_search": "question",
+         "question": "Tại sao iphone 4s của tôi khi vào jailbreame.com lai không xuất hiện chi xuất hiện lung tung và chỉ cho em làm sao để jailbreak không cần máy tính được không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.55436,
+         "id": "1134004",
+         "field_search": "question",
+         "question": "Máy mk là máy asus zenphone 4 max pro còn bảo hành. Máy bị phồng pin mang ra thế giới di động có được thay pin không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.54821,
+         "id": "1023739",
+         "field_search": "question",
+         "question": "Làm sao để đăng bình luận trdhjsjdhdhdhrbrnrnhrhdhhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.396486,
+         "id": "776508",
+         "field_search": "question",
+         "question": "Tại iPhone 4 của em khị bị va chạp nhẹ phía sao màng hình hoặc đặc xuống thì nó bị tắt nguồn thế có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.349815,
+         "id": "991772",
+         "field_search": "question",
+         "question": "tablet asus zen forn trà vinh còn khong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.293379,
+         "id": "747690",
+         "field_search": "question",
+         "question": "Tại sao Oppo Joy 3 của em lại không có chuyển đổi phân vùng ạ Em muốn chuyển bộ nhớ sang chế độ tích hợp ạ?​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.237005,
+         "id": "1022791",
+         "field_search": "question",
+         "question": "Em lỡ tay gỡ cài đặt cập nhật dịch vụ của google và tắt ứng dụng google play trên điện thoại ASUS ZENPHONE 5 nên bây giờ vào youtube hay Gmail đều nói rằng Gmail sẽ không chạy trừ khi bạn cập nhật dịch vụ của google và nói lỗi dịch vụ của google. Bây giờ em phải làm sao để sửa ạ? Mong các anh giúp em với.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.210922,
+         "id": "744456",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi muốn cài cydia cho iphone 4 thì làm như thế nào ạ, iphone của em hiện tại chạy phiên bản 7.1.2?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.13786,
+         "id": "851395",
+         "field_search": "question",
+         "question": " qtv cho em hỏi khắc phục lỗi DRIVERPOWERSTATEFAILURE win 8.1 dòng asus làm như thế nào được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.959348,
+         "id": "1162846",
+         "field_search": "question",
+         "question": "sao em cập nhật oppo joy 3 lên phiên bản mới nhất mà vào messenger chơi game nó vẫn để là \"hãy cập nhật điện thoại của bạn lên phiên bản mới nhất để chơi\"ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.938545,
+         "id": "847622",
+         "field_search": "question",
+         "question": " Em muốn thay đổi mã ID của line nhưng em không biết..ad biết chỉ giùm em với..Em cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.809296,
+         "id": "1138909",
+         "field_search": "question",
+         "question": "cho hỏi có giá dự kiến của zen fone max pro m2 chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.735337,
+         "id": "1001006",
+         "field_search": "question",
+         "question": "trung tậm có thể thay thế màn hình của apple watch 2 không ạ. hiện tại màn hình của em bị vỡ mất rồi . em muốn được thay thế nó. nếu thay xong có sợ bị thấm nước không ạ??, và cho em biết gia cả luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.646151,
+         "id": "1169370",
+         "field_search": "question",
+         "question": "làm sao để khôi phục sdt trên dòng vivo 1280 vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.522829,
+         "id": "813480",
+         "field_search": "question",
+         "question": " Làm sao để lấy lai ảnh bị xóa trên điện thoại LG K10? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.465294,
+         "id": "1000665",
+         "field_search": "question",
+         "question": "Asus zenfone 3 max có hổ trợ gọi bluetooth ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.401991,
+         "id": "1007685",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có sử dụng 1 cái sim không phải bằng chứng minh của em. Giờ em làm mất và sim đó dùng để đăng kí nhiều thứ quan trọng, giờ có làm lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.358574,
+         "id": "788043",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi pin của laptop còn baonhiêu phần trăm thì nên sạc? Sạc mấy tiếng? Xem thế nào để biết đã sạc đủ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.324327,
+         "id": "895525",
+         "field_search": "question",
+         "question": "Laptop của e ko bắt được wifi của nhà trong khi điện thoại vẫn bắt được và vào bình thường(wifi nhà hàng xóm thì laptop vẫn bắt được bình thường). QTV cho e hỏi thế là bị làm sao và cách khắc phục ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.27882,
+         "id": "1018552",
+         "field_search": "question",
+         "question": "Mình được số điện thoại 02839719975 gọi đến báo là mình trúng pmh trị giá 3 triệu (tự nhận là nhân viên của trung tâm điện máy sài gòn) có liên kết với trung tâm thế giới   di động để tặng mình pmh mua điện thoại ss galaxy. Không biết thế giới i động có biết số đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.219499,
+         "id": "1022632",
+         "field_search": "question",
+         "question": "cho em hỏi cách sóa fb trên asus zenfone 3 max 5.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.150903,
+         "id": "1007310",
+         "field_search": "question",
+         "question": "Làm sao để biết tháng cuối cùng của trả góp phải trả bao nhiêu. Nhân viên tgdd thu tiền nhưng hỏi thì không biết. Mấy sđt của công ty mình trả góp thì gọi toàn nói gì gì. K thấy ai trả lời. Mình trả gop fe credit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.076119,
+         "id": "806804",
+         "field_search": "question",
+         "question": "Ad ơi, máy tính ASUS của e đang dùng mấy ngày nay cứ bị liệt mấy phím rồi lại được, ngày sau lại liệt phím khác, thế là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.073212,
+         "id": "1017032",
+         "field_search": "question",
+         "question": "ktv cho e hỏi laptop asus x541ua e mua chưa đầy 1 tháng thì giờ pin của e đã chai 2 % rồi. e hay cắm sạc đầy pin rồi vừa dùng vừa cắm sạc k rút ra liệu như thế làm ảnh hưởng tới pin phải k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.04921,
+         "id": "996502",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi cách đỗi giao diện trên asus 3 max 5.5giao diện xì trum...thì sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.034065,
+         "id": "859535",
+         "field_search": "question",
+         "question": " Ad giúp e với. Làm sao để loại bỏ mấy tin rác này ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.921514,
+         "id": "1154989",
+         "field_search": "question",
+         "question": "cho em hỏi ở trong máy của em có 1k6 ảnh,14 video  nhưng sao em vào icloud đồng bộ để sao lưu lại trên máy tính thì chỉ hiện lên 550 cái ảnh,6 video ? cách khắc phục như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.837863,
+         "id": "989353",
+         "field_search": "question",
+         "question": " Ốp lưng Asus Zenfone 3 Max 5.5 có không thế giới di động? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.819367,
+         "id": "988680",
+         "field_search": "question",
+         "question": "mình dùng zalo phiên bản 3.2.2.r2.medium chỉ đổi ảnh nền trong một khung chat thôi mình muốn đổi ảnh nền cho tất cả thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.769982,
+         "id": "1167699",
+         "field_search": "question",
+         "question": "làm sao để em có thể tìm thấy dấu trang trên samsung account được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.73831,
+         "id": "1005334",
+         "field_search": "question",
+         "question": "Điện thoại Asus Zenfone 3 Max 5.5 ZC553KL co ho tro 4g khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.647965,
+         "id": "1151543",
+         "field_search": "question",
+         "question": "Mình đang dùng asus zenfone 4 max pro,khi cắm dây sạc thì có hiện tượng sạc chập chờn.mình đã thử đổi cục sạc và dây và thử luôn tắt nguồn điên thoại và bật lại.nhưng khi cắm dây sạc vào đèn màn hình máy sáng liên tục.v cho mình hỏi máy bị sao? Nếu bị hư chuôi sạc trong máy thì ở TGDD có mạch sạc cho asus zenfone 4 max pro hay k. Mình chỉ sạc bằng củ sạc và dây sạc kèm theo máy,k hề sử dụng củ sạc hay dây sạc của máy khác. Nếu có chip sạc của máy asus zenfone 4 max pro thì shop gọi cho mình với nha 0905347902 hay 0972565372.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.598599,
+         "id": "1009052",
+         "field_search": "question",
+         "question": "Thay màn hình ZenFone 3 max 5.5 khoảng bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.593555,
+         "id": "763938",
+         "field_search": "question",
+         "question": " Làm thế nào tắt chế độ khách Oppo Neo 5. Làm ơn giúp mình với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.573469,
+         "id": "997155",
+         "field_search": "question",
+         "question": "Em sử dụng thẻ nhớ 4GB cho asus zenfone max 3 5.5 dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.498986,
+         "id": "839780",
+         "field_search": "question",
+         "question": " Làm sao để phát trực tiếp facebook trên iphone 4 vậy chỉ mình với ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.480421,
+         "id": "1005342",
+         "field_search": "question",
+         "question": "android 7.1.1 cập nhật trên asus zenfone 3 max 5.5 đa hêt lôi chưa ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.425817,
+         "id": "991405",
+         "field_search": "question",
+         "question": "TGDDĐ ở Mỹ tho,  asus zenfone 3 max 5.5 chừng nào có hàng nữa vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.39038,
+         "id": "935863",
+         "field_search": "question",
+         "question": " làm sao share internet từ máy tính sang cho điện thoại android vậy,em đang xài asus zen 2 lazer ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.368556,
+         "id": "803284",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu wechat nhưng làm đến thế này thì không biết làm như thế nào nữa mong anh chị QTV hướng dẫn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3602,
+         "id": "987819",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bên mình còn Asus Zenfone 3 Max 5.5 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.353579,
+         "id": "1015557",
+         "field_search": "question",
+         "question": " Cho e hỏi bị như thế này thì phải làm sao và cách khắc phục  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.352541,
+         "id": "888658",
+         "field_search": "question",
+         "question": " Laptop của em nhập mã như trong hình không bao h đc. em đã tắt tiếng viết hết rồi 3 làm ơn giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.296064,
+         "id": "851226",
+         "field_search": "question",
+         "question": " cho em hỏi làm sao để khắc phục lỗi 0x80070020 trên laptop em đang sài windows 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.290209,
+         "id": "1012477",
+         "field_search": "question",
+         "question": "A/c cho em hỏi tháng trước e nộp tiền trả góp điện thoại huawei vào ngày 18/7. Nhưng quên k lấy thẻ để đóng lãi về, bây giờ làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.239912,
+         "id": "998931",
+         "field_search": "question",
+         "question": "Em đang dùng asuszenfone 3 max 5.5 giờ không dùng nữa không biết có thể đổi trả tại tgdd được không ạ. Máy em dùng gần 4 tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.233252,
+         "id": "772561",
+         "field_search": "question",
+         "question": "  Điện thoại Oppo neo 5 vào Messenger cứ bị thế này phải làm sao để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.198768,
+         "id": "1018834",
+         "field_search": "question",
+         "question": "cho mình hỏi với mình mới mua iphone hang doi tra của thế giới di động đang còn trong thời gian bao hanh chính hãng 5 tháng , taiphone giờ bị rè có đc bảo hành hay đổi cái khác ko",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

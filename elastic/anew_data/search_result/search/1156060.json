@@ -1,0 +1,801 @@
+{
+   "id_query": "1156060",
+   "total": 29120,
+   "total_current": 100,
+   "max_score": 79.176956,
+   "origin_question": "laptop em mới mua tuần trước, anh nhân viên bảo dùng word được 1 tháng mà giờ em dô word không sài được?",
+   "hits": [
+      {
+         "score": 38.19008,
+         "id": "1153186",
+         "field_search": "question",
+         "question": "Laptop của em tuần trước mua ở tgdđ vẫn còn dùng được word, excel bình thường mà bây giờ lại không dùng được nữa. Nó bảo sp chưa cấp phép là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.359776,
+         "id": "889857",
+         "field_search": "question",
+         "question": " máy em mới mua được 2 tuần không đánh được chữ trong word 2016 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.524057,
+         "id": "1022168",
+         "field_search": "question",
+         "question": "em mua máy bên mình mà nhân viên kỹ thuật cài đặt chưa bẻ khóa excel, word với powerpoint. giờ e vào tìm office để bẻ khóa mà không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.222597,
+         "id": "1023663",
+         "field_search": "question",
+         "question": "anh em vừa mới mua laptop cho em. em sử dụng được tối nay là 3 tuần và em mới reset máy tính lại. nhưng mà bây giờ em cài đặt lại word, excel, powerpoint các ứng dụng cần thiết thì yêu cầu phải có 25 ký tự gì đó. mà em không biết mà 25 ký tự này ở đâu giờ em pphai làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.10072,
+         "id": "1011665",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi , điên thoại em mua mới 1 tuần mà bị nứt màn hình bảo hành có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.585997,
+         "id": "1008475",
+         "field_search": "question",
+         "question": "Sao laptop của mình không thể vào word. powerpoin và 1 số khác. Nó bắt mua là sao. Máy mình mới mua được 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.93895,
+         "id": "1004576",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi laptop Dell Vostro 3568 ko có bản quyền Office ạ? E mua bên mình nghe nhân viên nói có bản quyền mà giờ word kêu kích hoạt ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.654205,
+         "id": "1010482",
+         "field_search": "question",
+         "question": "- laptop của em không hiểu sao lại khọng tải photoshop cs6 được ạ ngay cả word , excel cũng khọng dùng được luôn . anh/chị tư vấn giúp em nhé .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.579918,
+         "id": "1159145",
+         "field_search": "question",
+         "question": "máy tính của em trước đây mua tại thế giới di động có mua qua office giờ làm sao để không phải mua ofice mà vẫn xài được chứ không đánh word hay excel được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.759573,
+         "id": "1136950",
+         "field_search": "question",
+         "question": "Vài tháng trước em có mua laptop acer E5 575g 53EC nhân viên có nói được tặng mã giảm 100k cho đơn hàng sau giờ còn thời hạn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.381668,
+         "id": "1156502",
+         "field_search": "question",
+         "question": "Sao laptop của em khi vào word không nhập dữ liệu được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.864132,
+         "id": "891902",
+         "field_search": "question",
+         "question": " lap em lỗi win em đi cài lại mà sao may anh kỹ thuật viên không cài lại word cho em kg cài unikey, em rất bực minh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.686527,
+         "id": "991758",
+         "field_search": "question",
+         "question": "mình mua ip 5s sài hơn 3 tuần thấy máy nóng quá với nhanh hết pin. giờ muốn đởi máy mới được không vì thấy có chính sách bảo hành là trong 1 tháng đc 1 đổi 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.63832,
+         "id": "1024452",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi máy tính em đang sài win10 em reset laij thì bị mất hết các biểu tượng trên màn hình chẳng hạn microsoft word không có biểu tượng của word nữa. khi vào các file tải về vào xem củng không được. anh chị cho em cách khắc phục với ạ. cảm ơn a/c",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.580704,
+         "id": "1144998",
+         "field_search": "question",
+         "question": "em vừa mua laptop asus vivo book bên mình đợt tết dương vừa rồi bây giờ word,excel..yêu cầu phải kích hoạt thì mới dùng được. Cho e hỏi là e có được cấp key để kích hoạt không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.546177,
+         "id": "869258",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em mới mua tại cửa hàng mình..nhưng em không biết làm sao có word và excel trong máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.535982,
+         "id": "947704",
+         "field_search": "question",
+         "question": "Cho em hỏi là Laptop em mới mua tại TGDD cũng hơn nữa tháng rồi. Giờ em muốn vào dùng Word, Excel hay PowerPoit thì nó đều để phải mua hoặc kích hoạt để sử dụng. Vậy giờ làm sao để kích hoạt hay bắt buộc phải mua ạ.????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.29033,
+         "id": "907028",
+         "field_search": "question",
+         "question": "anh ơi máy e bị xem phim nó quay mà vô không được nghe nhạc nhaccuatui thi báo lỗi kím không thấy với tải lmht không được ạ em đang sài Laptop Dell Inspiron 3558 i5 mới mua 1 tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.131691,
+         "id": "1157660",
+         "field_search": "question",
+         "question": "cho e hỏi là laptop e mới mua dùng win10 bản quyền 1 năm nhưng sao vào word k dùng đc và yêu cầu mua ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.706003,
+         "id": "1155531",
+         "field_search": "question",
+         "question": "Anh chi cho em hoi em vua mua may tinh dươc cai word ve excel 2013. Vậy khi minh dánh văn ban hay lam báo cao này kia bằng 2 phần mem nay thi khi chuyển qua máy tính khác chi sài word , excel 2010 thi có chỉnh sửa được không vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.320572,
+         "id": "1149428",
+         "field_search": "question",
+         "question": "Lap top của em win 10, em muốm tải word 2007 được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.277456,
+         "id": "761435",
+         "field_search": "question",
+         "question": "Laptop em mới mua đc 1 tháng lúc đầu chạy win 8.1 . Em hạ suống win 7, giờ láp em không nhận chuột . Em mang máy suống bảo hành có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.052814,
+         "id": "1001720",
+         "field_search": "question",
+         "question": "Chào anh cho em hỏi tại nghe em mua mới 3thanh mà bây giờ nó nghe được 1 bên em có thể đô lại được không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.83849,
+         "id": "753708",
+         "field_search": "question",
+         "question": "anh chị nhân viên nào cho em hỏi. em có mua 1 cái máy tính dell ở TGDĐ, hiện em đang dùng win 10, em muốn đưa máy về trạng thái khi mới mua về không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.82954,
+         "id": "1149903",
+         "field_search": "question",
+         "question": "cho em hỏi máy tính em các phần mềm về word , excel, power point không sài được. phải đăng nhập là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.810007,
+         "id": "806884",
+         "field_search": "question",
+         "question": "Chào các anh chị, em có 1 cái iphone 4S, em mới mua được gần 1 tháng thì không biết sao bin vẫn hiện thị 100% dù sài cả 2 3 tiếng, mới cắm sạc thì đã đầy 100%, trước đó thì không như vậy, nhờ anh chị giải đáp dùm em ạ, Thanks you!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.800097,
+         "id": "1016084",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua máy bên TGDĐ được 1 tuần bây giờ e bán lại máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.77376,
+         "id": "1021561",
+         "field_search": "question",
+         "question": "hôm trước em mua laptop được tặng chuột,giờ chuột hỏng có được bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.67791,
+         "id": "1012387",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua một cái laptop hãng dell tại thế giới di động nhưng không thấy nhân viên đưa phiếu bảo hành, vậy lúc máy bị sự cố gì có được bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6328,
+         "id": "1162628",
+         "field_search": "question",
+         "question": "cho e hỏi ạ e mua laptop ở shop về 1 khoảng thời gian vẫn dùng được word và office 365 sao h lại k dùng được nó cứ bắt nhập key ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.572294,
+         "id": "1011214",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc đt Mobiistar Zumbo s2 ở điện máy xanh tuần trước. Nhưng giờ em kh muốn dùng nữa và muốn bán lại điện thoại này không biết có được kh ạ . em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.517431,
+         "id": "878985",
+         "field_search": "question",
+         "question": " laptop hp của e vào word không được bị vậy là sao ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.501158,
+         "id": "1153249",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua laptop về em cài đặt các bảng mã unicode. Kiểu gõ telex rồi mà sao vào Word vẫn ko gõ đc tiếng việt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.428093,
+         "id": "999385",
+         "field_search": "question",
+         "question": "Mình vừa mua máy c9pro màu vàng gold , đc 1 tuần  lúc mua nhân viên bảo có 1 màu thôi bây giờ có màu đen r mình đổi lấy máy đen đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.419296,
+         "id": "1016657",
+         "field_search": "question",
+         "question": "5 tháng trước em vừa mới mua một cái tai nghe giá 150k, cách nay 1 tháng em cái tai nghe chỉ còn nghe được 1 bên, nên em đã đến cửa hàng tgdđ để bảo hành và được đổi cai tai nghe mới, nhưng hôm nay cai tai nghe mới lại bị hư, em không biết có bảo hành được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.384563,
+         "id": "843289",
+         "field_search": "question",
+         "question": " Em mới mua iPhone đa 1 tuần bị rớt xước màn hình giờ có đc bảo hành thay mới không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.369648,
+         "id": "1015409",
+         "field_search": "question",
+         "question": "Cho em hỏi, Gần đây em có mua 1 laptop Dell. Sao tự nhiên lại mất word,excel, powerpoint ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.354586,
+         "id": "1155611",
+         "field_search": "question",
+         "question": "Chào ạnh chị.Em vừa  mới  mua dell ins 3567 bên chỗ điện máy xanh( đã có bản quyên win 10).Nhưng người ta không có cài word, powpoint, và excel cho emSau đó 2 tuần , em ra thế  giới di động bảo người ta cài  word, powpoint, và excel cho em , nhưng người ta lại bảo em cái đó phải mua bản quyền bên office , giá gần 1 triệu.hoặc là người ta cài cho em 3 cái đó nhwung ko pải bản của ofice như thườngmà khác. mấy cái đó không giống bên w,pp, execel như ofice. Nên em dùng không tiện.Em thắc mắc là sao  em mua máy mà các ứng dụng cơ bản như w,pp, ex em ko có dùng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35271,
+         "id": "813379",
+         "field_search": "question",
+         "question": " Em đang sử dụng laptop hp450 đã nầg cấp lên window 8.1 khi em vào word tại sao không gõ tiếng việt được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.317116,
+         "id": "1168554",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước em có mua ip5p ở tgdt. tài khoản icloud cũng do nhân viên tạo dùm khi mới mua máy. Hiện giờ điện thoại em bị khóa bị lỗi bảo mật nhưng em không biết pass icloud thì đem tới tgdđ có giải quyết được không ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.275229,
+         "id": "1155203",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua A7 bản 128GB cách đây 2 tuần bây giờ em muốn đổi máy A50 được không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.217396,
+         "id": "1021756",
+         "field_search": "question",
+         "question": "Hi bạn! hiện tại mình có mua máy tính laptop acer đã qua sử dụng. và mới mua được chưa được một tuần thì máy có tình trạng giật lag. trong khi mình không sử dụng việc gì ngoài word và exel. cũng không dowload gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.176308,
+         "id": "1001323",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ. Trước em có mua sạc ở TGDD, nhân viên bảo nếu hỏng thì 1 đổi 1 trong vòng 1 năm. Vậy đổi em có cần mang sạc cũ lên không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.972412,
+         "id": "815830",
+         "field_search": "question",
+         "question": "Anh ơi sao em dùng 5s mà sao máy chạy mạng cứ nóng lên vậy máy bị làm sao không bây giờ không vào của hàng của ap đẻ mua được nữa em mới mua dc 3 tháng bây giờ em muốn đổi máy được không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.934027,
+         "id": "1007650",
+         "field_search": "question",
+         "question": "laptop của e mới mua cách đây 4 tháng, hạng bảo hành là 1 năm, nhứng giờ máy em có vấn đề là loa bị rè ạ, mình đi bảo hành được không vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.842173,
+         "id": "811418",
+         "field_search": "question",
+         "question": "Em đag sdụg laptop win 8.lúc mua ngta cài cho e word 13,nay e mún cài word 7 mà k bị bị mất dữ liệu trog mày dc k ạ.và giá của cài word 7 là bao nhiu.e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.799225,
+         "id": "778597",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi với .Em mới mua laptop Asus tp550la có dùng được photoshop cs6 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.794308,
+         "id": "925014",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Em mua laptop ở TGDĐ nay đã hết bảo hành, em vừa refresh win lại nên mất hết các chương trình Word, Excel.... đã đc TGDĐ cài khi mua máy. Giờ em muốn ra TGDĐ cài lại thì có được không và phí cài là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.742325,
+         "id": "1143015",
+         "field_search": "question",
+         "question": "A có đem laptop asus k53s ra tgdđ nhờ ghost lại win mà nhân viên bảo không làm dc. Nhân viên cài lại win mới mà máy báo lỗi không sử dụng dc. Giờ a phải làm sao, a dang cần sử dụng gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.733902,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.649824,
+         "id": "999328",
+         "field_search": "question",
+         "question": "em mua ipad , lúc mới mua là máy có sẵn icloud hay mình tạo ạ , vì khi em mua anh nhân viên chỉ tạo ID để xài em không biết icoud của máy mình , bây giờ máy em bảo hành cần icoud thì em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.635624,
+         "id": "803984",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua cái laptop cài win 10 nhưng không có kèm word,powerpoint...em phải làm sao ạ. Em cứ tưởng khi cài win là có sẵn mấy phần mềm đó rồi chứ ạ.Mong anh (chị) giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.464998,
+         "id": "755917",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là laptop của em mua được gần 9 tháng, mà bây giờ miếng nhựa chỗ cắm dây mạng bị gãy, giờ không giữ được dây mạng nữa có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.438028,
+         "id": "1142117",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop của mình không dùng được word hay powerpoint là lỗi gì ạ. Mình xài laptop lenovo ideapad 310, win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.35657,
+         "id": "1152954",
+         "field_search": "question",
+         "question": "Em mới mua samsung galaxy a7 mới 3 tuần thôi mà sao tính năng vuốt bàn tay để chụp màn hình không được nữa, lúc trước có xài thì được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.341545,
+         "id": "747623",
+         "field_search": "question",
+         "question": "anh chị cho tôi hỏi: tôi dùng laptop asus 360 cài đặt kingsoft, khi tải các file word trên mạng về thì không mở được, làm sao để mở a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.260477,
+         "id": "788213",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng iPhone 5s em mới mua được 1 tháng giờ muốn đổi sang iPhone 6 16g được không ạ em phải các thêm bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.257696,
+         "id": "1149470",
+         "field_search": "question",
+         "question": "shop chỉ giúp mình tải word 2010 cho laptop asus được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.095377,
+         "id": "908976",
+         "field_search": "question",
+         "question": "Chào anh/chị,Em dùng laptop Acer Espire E14, mấy ngày trước lap vẫn dùng để trình chiếu được nhưng tự nhiên giờ lại không được, em bấm Win + P thì nó bảo là Try installing drive.... em phải khắc phục thế nào đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08782,
+         "id": "1150470",
+         "field_search": "question",
+         "question": "Em muôn hỏi là giờ em vào word thì vẫn có thể xem được documents nhưng không thể edit hay làm gì được. Vậy có phải là do expired không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.057077,
+         "id": "1163600",
+         "field_search": "question",
+         "question": "laptop mình không còn Word với PowerPoint giờ muốn cài lại phải làm sao ạ? Mong nhận được phản hồi sớm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.03201,
+         "id": "895788",
+         "field_search": "question",
+         "question": " Em bị lỗi win 7..khi em tải word về mà không xem được toàn hình chữ không à..em muốn cài win nào cho xem được vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.026487,
+         "id": "885711",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Asus tp301 .Làm sao dùng word, exel trên win 10 vậy. phải bắt buộc thêm tiền để kích hoạt mới dùng được sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.850965,
+         "id": "798801",
+         "field_search": "question",
+         "question": " Cho em hỏi , bên mình có cái word 10 vào máy laptop không a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.791445,
+         "id": "970122",
+         "field_search": "question",
+         "question": "Laptop em mới mua trước tết em thấy máy chỉ có 1 ổ đĩa nên em đã xem có một ổ bị khóa nên không mở được.giờ em đi mở có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.755632,
+         "id": "802927",
+         "field_search": "question",
+         "question": "1 tuần trước em còn tải được fjle trên facebook về mà hôm nay lại không tải được.tải về báo tải xuống không thành công. Em dùng HTC ONE MAX. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.720625,
+         "id": "1005388",
+         "field_search": "question",
+         "question": "Hai tuần trước em có sử dụng một miếng dán chống xước cho iphone 6 nhưng giờ nó xước rồi mà hôm đấy anh ý nói trong vòng mấy tháng được thay miễn phí vậy giờ em mang tới cơ sở có được thay miễn phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.711485,
+         "id": "1157653",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy em mua được 4 tháng rồi. Mà giờ em làm mất phiếu bảo hành. Thì giờ ra có còn được bảo hành bằng cách naod ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.68557,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.65224,
+         "id": "745543",
+         "field_search": "question",
+         "question": " Tại sao em bật radio trên j7 mà không nghe được. Em mới mua máy được 2 tuần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.599857,
+         "id": "992073",
+         "field_search": "question",
+         "question": "trước em có mua iphone 6 tại thế giớ di động được nhân viên kick hoạt máy cho giờ em khôi phục lại thì cần tài khoản để kick hoạt giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.59254,
+         "id": "1140293",
+         "field_search": "question",
+         "question": "Điện thoại em mua chưa được 1 tháng còn trong thời hạn bảo hành bị hư camera sau em đổi cái mới được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.534426,
+         "id": "1113228",
+         "field_search": "question",
+         "question": "bây giờ em đang sài iphone mà quên mật khẩu id apple với lại quên câu hỏi bảo mật vậy bên anh có lập trình lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.520294,
+         "id": "1023054",
+         "field_search": "question",
+         "question": "Em mới mua j2 prime được 1 tháng mấy ngày thì rơi vào nước sửa rồi sài lại bình thường em muốn đem trả lại lấy mấy vs giá 80% mà thegioididong đã nói có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.514309,
+         "id": "983299",
+         "field_search": "question",
+         "question": " máy mình mua là win bản quyền sao mình không sài được microsoft word và các microsoft khác vào thì nó đòi phải có key ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.497988,
+         "id": "760668",
+         "field_search": "question",
+         "question": " Ad có thể chỉ em cách cài đặt word 2013 không ạ ?? Và siêu thị mình có cài đặt word không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.438265,
+         "id": "744051",
+         "field_search": "question",
+         "question": "Ad cho em hỏi : em mua máy win 8 bản quyền up lên win 10. mà em recovery máy. giờ ad cho em xin lại key bản quyền được không ạ? (em mới mua máy có 1 tuần thôi ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.403688,
+         "id": "917095",
+         "field_search": "question",
+         "question": "Em đang dùng J7 Prime nhưng sao em không thể tải file word về từ Facebook nhưng trước đây em vẫn tải được. Khi em bấm chọn file thì hiện thông báo \"Không thể tải trang này\". Em đã thử nhiều file khác nhau vẫn không tải được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.357063,
+         "id": "1011835",
+         "field_search": "question",
+         "question": "Tôi mua chiếc galaxy j7 prime tháng 12 năm trước lúc đó có bảo hành rơi vỡ màn hình. Sao nhân viên bên thế giới di động bảo không có là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.345713,
+         "id": "1151897",
+         "field_search": "question",
+         "question": "Em mua máy oppo f7youth ở tgdd quận 9 vào tháng 1 nhưng giờ dùng nhiều khi wifi đầy cây mà không vào được Facebook vs thỉnh thoảng hay bị đơ mà giờ e đang ở quận 10 có mang đi bảo hành ở quận 10 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28342,
+         "id": "1169350",
+         "field_search": "question",
+         "question": "Em sài samsungA7 được 1 tháng mấy rồi mà em thấy pin mau hết quá cho em hỏi pin có sao k ạ em mua máy được 1thang1 rưỡi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.264606,
+         "id": "1145632",
+         "field_search": "question",
+         "question": "ad cho em hỏi đợt tháng em có mua 1 cái đt trả gớp 0% 4 tháng oppo a3s dùng tầm 2 tháng thì bị cướp mất bây giờ còn hộp sạc đầy đủ chỉ thiếu đt thôi mà em gớp xong hết rồi , giờ em đang dùng hộ khẩu tách với cmnd có thể lên mua trả gớp được không vậy anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.262838,
+         "id": "1158048",
+         "field_search": "question",
+         "question": "Mình mua laptop lenovo chạy win 10.xài word bắt mua bản quyền.Mình có cài word nào xài miễn phí ko v???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.25264,
+         "id": "1160504",
+         "field_search": "question",
+         "question": "Cho em hỏi em đã mua máy ở thegioididong cũng đã hơn 6 7 tháng rồi giờ em muốn nhờ nhân viên thegioididong tải giúp em một số phần mềm máy tính được không ạ, có tính phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.237572,
+         "id": "1135513",
+         "field_search": "question",
+         "question": "Cho em hỏi khi tải tệp tin như Word,Excel,PowerPoint Thì nó nằm ở đâu ạ e đang sài huawei nova2i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.23397,
+         "id": "897102",
+         "field_search": "question",
+         "question": "máy tính em không có word và excel.. giờ em muốn đến thegioididong để cài được không vậy ad? và giá tiền để cái là bao nhiêu? em mua máy tại thegioididong. em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.230768,
+         "id": "827972",
+         "field_search": "question",
+         "question": " Em mới lấy 5s trả góp mới được 1 tháng bây giờ em muốn đổi sang máy khác có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.22726,
+         "id": "1156498",
+         "field_search": "question",
+         "question": "Cho e hỏi. Hôm mua lap e có mua thêm microsoft office 365 để dùng Word, PowerPoint, Exel. Nhưng hôm máy bị hư ra cài lại Win thì  Word, PowerPoint, Exel lại bị đổi thành WPS. giờ e muốn dùng lại bản Microsoft thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.15872,
+         "id": "1002357",
+         "field_search": "question",
+         "question": "cho em hỏi. em mua điện thoại được 6 tháng rồi mà bây giờ tai phone bị hư thì còn được bảo hành phụ kiện không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.12045,
+         "id": "994379",
+         "field_search": "question",
+         "question": "Khoảng tháng 1 /2017 Tôi có mua 1 Ipad air ; hiện nay bị trục trặc về pin ( nhân viên kỹ thuật tại cửa hàng tại tx Cailay đã xem xét và xác nhận ) Xin hỏi là \" tại sao tôi không được 1 đổi 1 mà hẹn đợi bảo hàng 30 ngày ?\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.076784,
+         "id": "992021",
+         "field_search": "question",
+         "question": "admin cho e hỏi là em vừa mới mua 1 dây tai nghe bluetooth cách đây khoảng 1 tuần thôi mà vì lý do gì đó nó k còn nghe đc thậm chí giờ là hết kết nối được mà giờ em đã lỡ đánh mất tờ giấy bảo hành rồi thì mình vẫn có thể đem tới hỗ trợ được k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.053612,
+         "id": "1012457",
+         "field_search": "question",
+         "question": "máy em mới mua về chừng một năm nhưng không để ý thì phát hiện máy không có office word, bây giờ em phỉa làm sao ạ. Mong mọi người giúp đỡ. (máy của em là dell)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.04537,
+         "id": "1147387",
+         "field_search": "question",
+         "question": "Em mới mua opp F9 chưa được 1 tháng giờ em muốn đổi sang sam sung A7 thì phụ nhiều không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.99209,
+         "id": "867844",
+         "field_search": "question",
+         "question": " Xin Chào tháng 5 vừa rồi em có mua 1 cái laptop tại cửa hàng bây giờ em bán lại được không ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93635,
+         "id": "893297",
+         "field_search": "question",
+         "question": "Anh (Chị) cho em hỏiBữa em mua máy iphone 5s tại tgdd thị xã buôn hồ ban đầu mới mua em k biết sài ip. Về rất nhiều vấn đề có cả tài khoản nên anh nhân viên lấy tài khoản của tgdd đăng nhập máy em luôn. Giờ thì em đăng xuất lại rồi em dùng tài khoản em tự tạo nhưng mà cứ mỗi lần ứng dụng cập nhật là cứ thấy tài khoản của tgdd là sao anh (chị)Giờ em muốn xoá bỏ tài khoản đó luôn thì phải làm sao... Giúp em với .Cảm ơn anh (chị)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.935114,
+         "id": "802259",
+         "field_search": "question",
+         "question": "Chào quản trị viên. Em mới mua laptop Dell 3558.qtv có thể tư vấn cho em cách dùng pin hiệu quả nhất được không ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.813515,
+         "id": "999568",
+         "field_search": "question",
+         "question": "Chào admin, lúc trước e có mua hàng ở tgdd hình thức trả góp mà k được, nhân viên báo lại là bị nợ xấu. Giờ e muốn kiểm tra có mua được chưa thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753433,
+         "id": "823204",
+         "field_search": "question",
+         "question": "cho em hỏi, nếu em đến cửa hàng của mình liệu anh chị nhân viên có thể giúp em sao lưu tin nhắn từ iphone cũ sang iphone mới được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.752235,
+         "id": "1155586",
+         "field_search": "question",
+         "question": "Word, powerpoint 2010 được cài miễn phí phải không ạ? Em có thể đem lap lên TGDĐ nhờ cài giúp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

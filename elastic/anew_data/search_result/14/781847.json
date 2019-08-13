@@ -1,0 +1,801 @@
+{
+   "id_query": "781847",
+   "total": 29898,
+   "total_current": 100,
+   "max_score": 91.437164,
+   "origin_question": "Em mua điện thoại iphone ở thegioididong o tp HCM, giờ em muốn đổi ở xửa hàng thegioididong ở tỉnh khác được không? thanks ..",
+   "hits": [
+      {
+         "score": 35.494377,
+         "id": "1160280",
+         "field_search": "question",
+         "question": "Điện thoại iPhone X 256GB màu xám có hàng ko bạn, mình ở q3 , tp hcm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.806,
+         "id": "993135",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Em ở tỉnh,  muốn mua trả góp trong vòng 4 tháng ở TP. Hcm có dc ko,  thứ tục cần gì.  Lúc trước e có trả góp 6 tháng ở bên mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.369373,
+         "id": "998205",
+         "field_search": "question",
+         "question": "Theo bạn thôi nha, tháng9 iphone 632 gb còn hàng ở tp hcm ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.090721,
+         "id": "1007996",
+         "field_search": "question",
+         "question": "cho hỏi nếu em muốn mua đt cũ nhưng nó ở khác tỉnh em ở có mua được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.08489,
+         "id": "1024019",
+         "field_search": "question",
+         "question": "mình muốn mua máy đổi trả ở tgdd nhưng ở tỉnh mình k có. thì có thể mua online ở tỉnh khác đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.021858,
+         "id": "1006295",
+         "field_search": "question",
+         "question": "Em mua laptop ở thegioididong. Giờ em muốn sửa laptop nhưng không còn bảo hành thì có sửa được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.875206,
+         "id": "1158944",
+         "field_search": "question",
+         "question": "Em có 2 triệu và muốn mua điện thoại coolpad mega 5 cũ. Thì không biết ở cửa hàng thegioididong có bán lại điện thoại cũ hay không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.852947,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.839296,
+         "id": "1006183",
+         "field_search": "question",
+         "question": "máy cũ có chuyển hàng trong tỉnh k ạ, mình cần mua máy ở tp tânAn nhưng ở Hậu Nghĩa có, mình muốn chuyểnmáy về có được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.664257,
+         "id": "988696",
+         "field_search": "question",
+         "question": "Cho mình hỏi sửa điện thoại ở thegioididong có thể cho mình mượn tạm điện thoại để dùng trong quá trình sửa không (điện thoại mình không mua ở thegioididong)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.500845,
+         "id": "753930",
+         "field_search": "question",
+         "question": "Hiện tại thegioididong chi nhánh quận Bình Thạnh, TP. HCM còn hàng iPhone 5s 16GB Gold không ạ, giá khoảng bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.408606,
+         "id": "998145",
+         "field_search": "question",
+         "question": "Anh chị ơi, em muốn bán Nokia Lumia 520 mua ở Nguyễn Kim, giá bao nhiêu ạ? Thanks. Em ở Tân Bình, HCM.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.16344,
+         "id": "1003586",
+         "field_search": "question",
+         "question": "Cho e hỏi bên cửa hàng mình có sửa điện thoại không ạ. Em mua ở cửa hàng thegioididong ạ nhưng hết bảo hành rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.902943,
+         "id": "1150996",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua đt cũ ở tgdd khu vực tp hcm mà em muốn ship về bến tre đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.360722,
+         "id": "998503",
+         "field_search": "question",
+         "question": "Anh muốn hỏi iphone 6 32gb đến cuối tháng 8 có còn hàng ở tp hcm hay giảm giá ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.348988,
+         "id": "775579",
+         "field_search": "question",
+         "question": " Mình CM và HK Bến Tre. Nhưng mình muốn mua trả góp iPhone 6s 64g tại TGDD ở TP. HCM có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.064558,
+         "id": "1155559",
+         "field_search": "question",
+         "question": "Điện thoại mi8 xách tay em mua ở  cửa hàng khác.  Giờ em đem qua tgdd để  unlock cài tiếng Việt  được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.77032,
+         "id": "986150",
+         "field_search": "question",
+         "question": "cho em hỏi em mua trả góp điện thoại tại TGDĐ Đồng xoài bình phước. Tới kì đóng tiền em ra bất kì TGDĐ nào ở TP HCM để nhờ thu hộ có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.665146,
+         "id": "1134746",
+         "field_search": "question",
+         "question": "cho mình hỏi huawei mate 20 pro về hàng chưa bạn, mình ở TP HCM",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.299011,
+         "id": "785859",
+         "field_search": "question",
+         "question": "Em có mua iPhone 6S Gold 16GB còn bảo hành 11/2016. Muốn đổi iPhone 6S 64GB máy xàu rồi thì làm sao Shop, có đổi được không? Em ở HCM!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.118698,
+         "id": "1160504",
+         "field_search": "question",
+         "question": "Cho em hỏi em đã mua máy ở thegioididong cũng đã hơn 6 7 tháng rồi giờ em muốn nhờ nhân viên thegioididong tải giúp em một số phần mềm máy tính được không ạ, có tính phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.025595,
+         "id": "1013556",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua máy cũ mà em ở tỉnh khác thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.993214,
+         "id": "1016301",
+         "field_search": "question",
+         "question": "Ở thegioididong có dáng kiến cường lực điện thoại không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.87162,
+         "id": "998278",
+         "field_search": "question",
+         "question": "Em muốn xin việc làm ở cửa hàng tgdđ tại thành phố HCM, em muốn biết mức lương cơ bản ở đây, vui lòng cho em biết được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.649694,
+         "id": "756366",
+         "field_search": "question",
+         "question": " iPad em mua trả góp ở TGDD.... Em muốn đổi iPad khác được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.558977,
+         "id": "1002956",
+         "field_search": "question",
+         "question": "em hiện tại đặt 1 đơn hàng tại thegioididong!nhưng nhận hàng là 21/7 ngày đó em không ở vị trí nhận hàng đượcem muốn hủy đơn hàng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.202084,
+         "id": "1014152",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi ngày mai em sẽ đi mua iphone 6 (32GB).nhưng em ko bít o tp hcm quận Tân Bình còn cửa hàng nào có so ko anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.187714,
+         "id": "1167124",
+         "field_search": "question",
+         "question": "thegioididong có hỗ trợ dán điện thoại tất cả các máy kg? khi sản phẩm kg đc mua ở thegioididong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.14635,
+         "id": "1142620",
+         "field_search": "question",
+         "question": "shop cho mình hỏi ở chi nhánh thegioididong ở Cai Lậy có còn điện thoại mi 8 lite không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.0437,
+         "id": "796666",
+         "field_search": "question",
+         "question": "Cho em hỏi cái này ad ơi.em mới mua iphone5 bên trung tâm tgdd ở tp thanh hóa.mới mua được mấy hôm về làm quà mà chưa có sử dụng. Giờ em muốn đổi sang máy khác thì mang lên chỗ em mua có đổi được không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.831018,
+         "id": "1014786",
+         "field_search": "question",
+         "question": "em muốn mua 1 máy s7 cũ ở hà giang với giá 6930000 nhưng em ở tp huế thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.799412,
+         "id": "1137124",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại cũ itel it 1516 giá 830.000đ  tại tp hcm  làm sao để em  mua được chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.656582,
+         "id": "1163117",
+         "field_search": "question",
+         "question": "Điện thoại của e mua ở tgdd oppoF9 tháng92018Tgdd có mua lại không?  e muốn đổi điện thoại khác đuoc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.638556,
+         "id": "834858",
+         "field_search": "question",
+         "question": "chào ad . em mới mua latop đc hơn 2 tuần . lỗi win thế em ra cửa hàng cài đc ko ạ . ( win 10 pro . )- và tiện thể cho em hỏi . thằng em của em mua máy ở cửa hàng khác. thế thegioididong có nhận cài win cho máy không phải thegioididong kinh danh không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.61874,
+         "id": "1009031",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mua hàng ở siêu thị này mà đổi hàng ở siêu thị khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.588818,
+         "id": "801973",
+         "field_search": "question",
+         "question": " e mua lap của thegioididong nhưng giờ lap của e bị hỏng sạc e có thể mua sạc ở cửa hàng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.452385,
+         "id": "1142618",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có dán cường lực samsung a520 ko? e ở TP HCM",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.443306,
+         "id": "986162",
+         "field_search": "question",
+         "question": "cho e hỏi, e hiện đang ở trảng bàng tỉnh tây ninh, e muốn mua máy cũ, nhuwngthoong tin máy của e nằm ở tp hcm.... v thì khi e bấm đặt mua để giữ hàng, e ra tgdd tại trảng bàng thì tgdd ở trảng bàng có thể l.he lấy máy cho e k hay e phai đi tới địa chỉ đang giữ hàng để mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.398586,
+         "id": "1023171",
+         "field_search": "question",
+         "question": "em đặt hàng mua điện thoại từ chiều đến giờ. báo đặt hàng thành công và thegioididong sẽ liên lạc xác nhận sau ít phút . sao giờ em chưa thấy thegioididong liên lạc ạ . em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.372086,
+         "id": "1001561",
+         "field_search": "question",
+         "question": "Mua trả góp 0đ bằng CMT  HK photo đc ko vậy?? và ở ngoại tỉnh có mua đc ở TP ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.314842,
+         "id": "1142268",
+         "field_search": "question",
+         "question": "ví dụ em mua 1 máy cũ ở thegioididong, 1 tháng sau em mang máy cũ đó tới thegioididong bán lại để bù tiền mua máy mới được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.074331,
+         "id": "1007307",
+         "field_search": "question",
+         "question": "Iphone 5s có màu đen ở cửa hàng thegioididong 108 lạc long quân k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.987507,
+         "id": "795572",
+         "field_search": "question",
+         "question": "Mình muốn jailbreak iphone 6 plus, xin hỏi thegioididong có hỗ trợ không ạ? Em ở TP.HCM, quận 1 thì liên hệ ở đâu? xin cảm ơn.099.772.19XX",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.781595,
+         "id": "1138298",
+         "field_search": "question",
+         "question": "Tôi muốn đổi điện thoại nova 3e để mua điện thoại khác dc ko. Nova 3e tôi mua ở tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.689072,
+         "id": "1024370",
+         "field_search": "question",
+         "question": "Chào ad, mình ở tp.hcm , có mua hàng đổi trả bên mình , nhưng dt bị lỗi và phải ra trả lại . NHân viên bảo là giờ mình muốn đổi con khác tại cửa hàng phải bù thêm vì giá cao hơn. Mình có coi thông tin thì của hàng ở tỉnh khác đang còn máy ngang giá thì tgdd có hỗ trợ gửi máy về tp.hcm để đổi cho mình được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.571047,
+         "id": "1023278",
+         "field_search": "question",
+         "question": "C ho em hỏi là sạc samsung a7(2016) của e bị hư dây cáp. Giờ em mua dây cáp thường ở TGDD xài thì có còn sạc nhanh ko hay là phải mua hàng chính hãng ạ và cho em hỏi là mua cáp sạc chính hãng thì mua ở đâu gần quận 8 TP. HCM ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.560734,
+         "id": "885338",
+         "field_search": "question",
+         "question": "em có mua iphone 5s ở TGDD, em mua ở cửa hàng TGDD Vật Lại - Ba Vì, giờ em đang ở Hà Nội, em có thể ra cửa hàng TGDD ở trên này để thay miếng dán được không ạ, em vẫn đang được bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.552984,
+         "id": "792091",
+         "field_search": "question",
+         "question": "iphone 6s của người khác làm sao mình biết được dt đó được mua ở thegioididong?? có cách nào kiểm tra như kiểm tra imei hok??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.367523,
+         "id": "1000041",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có nhận sữa diện thoại hư không ạ..sữa ở ngoài sợ không uy tín..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.270945,
+         "id": "1014035",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình muốn mua máy đổi trả nhưng ở tỉnh mình lại ko có thì tgdd có chuyển hàng từ nơi khác về cho mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.1697,
+         "id": "1153588",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire A715 72G 54PC có ở chi nhánh nào ở quận bình thạnh tp hcm vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.09685,
+         "id": "1136388",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn máy cũ ip7plus32g mau vang trả góp ,mà em ở quảng bình ko có màu vàng mà ở tỉnh khác vậy.. vậy bên tgdd có chuyển đơn hàng đó về bên tgdd ở quảng bình để em mua trả góp đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.081276,
+         "id": "1158001",
+         "field_search": "question",
+         "question": "tôi muốn nâng cấp ổ ssd cho laptop asus mà không muốn mất bảo hành, vậy tôi có thể tìm chi nhánh asus nào ở HCM, và cách tìm trên trang thegioididong ntn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.040745,
+         "id": "811404",
+         "field_search": "question",
+         "question": " SHOP cho mình hỏi, iphone 6 hàng đổi trả bên bạn có thể chuyển từ HCM về vũng tàu được không, vì mình ở vũng tàu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.030718,
+         "id": "999096",
+         "field_search": "question",
+         "question": "nếu ở tỉnh thành khác có mua được máy vuc giá rẻ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02486,
+         "id": "1156202",
+         "field_search": "question",
+         "question": "Điện thoại là Nokia 5, mua từ 1 năm trước không phải ở TGDD, giờ em muốn đổi cũ lấy mới qua Nokia 5.1 có được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.95227,
+         "id": "752926",
+         "field_search": "question",
+         "question": "Xin chào Admin. Ad cho em hỏi là giờ em muốn cài Windows 7 hoặc 8.1 trên con laptop Asus F555L mà em cài toàn bị lỗi nên không cài được. Em muốn nhờ bên thegioididong cài giúp em. Nhưng mà laptop ấy em lại không mua ở shop thegioididong. Vậy em có thể mang máy đến shop tgdd cài win giúp em được không ạ. Và nếu được thì chi phí bao nhiêu ạ. Thanks ad. Mong ad sớm phản hồi giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.935184,
+         "id": "785686",
+         "field_search": "question",
+         "question": " Ở thegioididong mình có sữa lỗi icould cho iphone đuợc không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.92166,
+         "id": "1140219",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Nhà em đã mua tivi ở thegioididong dc khoảng 2 tháng rồi, nhưng giờ nhà em có nhu cầu tivi lớn hơn . Vậy nhà em có đổi dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.768906,
+         "id": "1014994",
+         "field_search": "question",
+         "question": "e vừa mới mua một chiếc sony XA1 ultra full bõ ở thegioididong, được 2 ngày . nhưng giờ e muốn đổi lên iphone 6 plus hoặc sony xz dual thì phải bù  thêm bao nhiêu tiền ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.737705,
+         "id": "986143",
+         "field_search": "question",
+         "question": "em mua trả góp điện thoại chưa được một tháng giờ em muốn đổi sang điện thoại khác cũng trả góp có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.687893,
+         "id": "999548",
+         "field_search": "question",
+         "question": "em hỏi em không mua điện thoại bên mình nhưng giờ em muốn bán bên mình để đổi lấy điện thoại khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.642809,
+         "id": "1168251",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua điện thoại hawei p30 lite ở cửa hàng mới hơn 2 tuần., mình muốn đổi lấy điện thoại Samsung được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.608711,
+         "id": "758358",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi,mình mua laptop đã lâu rồi mua ở quê, giờ mình vào tphcm mình muốn đem vào thegioididong sửa được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.56815,
+         "id": "1156941",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi, laptop Dell của em không nhận tai phone cắm vào. Em đã từng đi sửa 1 lần ở thegioididong và anh kỹ thuật bảo là lỗi phần mềm, ảnh chỉnh lại được nhưng bây giờ bị tiếp, em không rõ là lỗi gì, thegioididong tư vấn giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.560558,
+         "id": "1147688",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở tp nam định còn máy ip 7plus hàng đổi trả không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.553951,
+         "id": "994314",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình đặt cọc ở tgdd này mà lúc lấy máy ở tgdd ở tỉnh khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.519579,
+         "id": "1023584",
+         "field_search": "question",
+         "question": "Em muốn hỏi chương trình mua online l, mình đặt mua nhận ở cửa hàng. Vậy em có được xem và lựa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.49102,
+         "id": "991097",
+         "field_search": "question",
+         "question": "Iphone 7plus red 128GB có ở thegioididong Trường Chinh ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.324053,
+         "id": "1000918",
+         "field_search": "question",
+         "question": "Cửa hàng thegioididong ở thị xã quảng yên, quảng ninh có iphone 6 32gb màu vàng k ah ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.241352,
+         "id": "834293",
+         "field_search": "question",
+         "question": " Điện thoại em mua ở ngoài, iPhone 4 em muốn mang vào thế giới di động chạy lại chương trình giúp em được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.183432,
+         "id": "940154",
+         "field_search": "question",
+         "question": "Em mua đt zenfone max 1 ở cơ sở bên gò vấp bây giờ em muốn bảo hành ở nơi khác có được không ? và em cần đem gì bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.16619,
+         "id": "1009404",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ở huyện krong păk có thegioididong Không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.122515,
+         "id": "1166788",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi. Em vửa m thẻ vina game ở thegioididong hồi 14h. Anh chị có cách nào cho em đổi lại được không ạ. Em mua nhầm. Nhiều quá chết em rồi. Làm ơn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.112434,
+         "id": "997143",
+         "field_search": "question",
+         "question": "Em mua điện thoại ở bên phú quốc tại điện máy xanh...giờ em qa rạch giá muốn vào tgdd rạch giá bán có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.04341,
+         "id": "1009427",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua laptop ở thegioididong ở Huế. Giờ máy em mở nguồn lên là nó chạy đc 1 lát rồi nó kêu cái cạch rồi tắt luôn. Em đưa máy đến sửa đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.020187,
+         "id": "760918",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, hôm trước mình mua iPhone 6 64gb ở cữa hàng khác mà giờ mình muốn đổi sang iPhone 6 16gb thì bên TGDD có chính sách gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.004333,
+         "id": "999516",
+         "field_search": "question",
+         "question": "cho em hỏi ở tỉnh BÌnh Định có cửa hàng nào của TGDĐ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.977253,
+         "id": "1001079",
+         "field_search": "question",
+         "question": " em muốn mua loại điện thoại Molbell Nova S2, thì mua ở đâu là có hàng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.929209,
+         "id": "1140470",
+         "field_search": "question",
+         "question": "Cho em hỏi là trước em có mua đt ở thegioididong,vậy bên  mình  có thu mua máy cũ k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.889458,
+         "id": "1161513",
+         "field_search": "question",
+         "question": "Cho e hỏi hóa đơn điện ở Tỉnh long an . Mà e muốn đóng tiền ở tgdd của thành phố được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.838072,
+         "id": "1022230",
+         "field_search": "question",
+         "question": "Samsung j3 mua ở thegioididong có thể dùng được sim của các nhà mạng bên Nhật không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.806097,
+         "id": "1015229",
+         "field_search": "question",
+         "question": "ac ơi. nếu e mua đt cũ nhưng sản phẩm đó ko có ở tỉnh e mà ở tỉnh khác thì TGDD có chuyển về tỉnh e ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.78663,
+         "id": "991571",
+         "field_search": "question",
+         "question": "Điện thoại  mua thegioididong cn e thời hạn bảo hành có đổi được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.7358,
+         "id": "1137968",
+         "field_search": "question",
+         "question": "Cho em hỏi ở thegioididong có mở mạng samsung galaxy s7 edge không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.6664,
+         "id": "1007853",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nếu ở cơ sở chỗ em ở hết hàng thì lúc mình đặt hàng ở nơi khác về thì có được trả không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.659338,
+         "id": "1148703",
+         "field_search": "question",
+         "question": "oppo A3s em mới mua ở Bình Dương chưa được 1 tháng... bị hư thì đi đến chi nhánh tỉnh khác bảo hành được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.656485,
+         "id": "799638",
+         "field_search": "question",
+         "question": " Laptop mình mở không lên.. Cho mình hỏi là bên thegioididong có sữa chữa k? Máy mình cũng mua ở thegioididong nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.61572,
+         "id": "1014423",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại ở điện máy xanh, nhưng bị lỗi. Vậy thì em sẽ được đổi điện thoại mới trong 1 tháng đầu phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.598244,
+         "id": "990549",
+         "field_search": "question",
+         "question": "Cho e hỏi e ở tỉnh khánh hoà mà mua máy ở tỉnh khác thì máy có gửi về không ạ. Và thủ thục đặt mua máy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587135,
+         "id": "1139748",
+         "field_search": "question",
+         "question": "Muốn mua Atice 1 ở đâu, đã có ở TP Buôn mÊ Thuột chưa v sop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.558025,
+         "id": "1023168",
+         "field_search": "question",
+         "question": "Dạ . Anh chị cho em hỏi 1 vấn đề ạE mua điện thoại ở TGDD nhưng bây giờ muốn đổi cái cùng loại màu khác . Samsung j7 pro màu xám đổi qua màu đen . Em mua được 12 ngày rồi .liệu có đổi được không . Hay mình phải bù 20% tiền . Anh chị tư vấn giùm em ạ .em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.538164,
+         "id": "995944",
+         "field_search": "question",
+         "question": "diện thoại e mới mua 2 bữa bị lỗi camera trước có khi vào dược có khi vào k được đêm tới tgdđ thì nhân viên bảo là lỗi có thể đổi sp mới nhưng k có sp ở noi e ở vậy em đêm đt vào cửa  hàng tgdđ ở nơi khác  có hàng em đổi được k ạ    {lúc này e vào camera trước được vậy cửa hàng có đt em cần đổi cho đổi khộng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.43361,
+         "id": "999604",
+         "field_search": "question",
+         "question": "cho hỏi nếu tôi muốn nhờ 1 người ở tỉnh khác làm hồ sơ trả góp thi có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.384552,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.343142,
+         "id": "1001648",
+         "field_search": "question",
+         "question": "shop cho em hoi là em muốn mua máy iphone 6s plua 32 gb củ của bên chi nhánh thuận an mà nhà em thì ở bình phước khác tỉnh  nếu em chạy xuống chi nhánh mua máy thì sau khi mua máy em có được bảo hành tại chi nhánh noi em ở tức là ờ bình phước khong   ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.30174,
+         "id": "830066",
+         "field_search": "question",
+         "question": " Em mới lấy một cây 5s ở Thegioididong, anh chị có thể chỉ cho em cách xài để pin được tốt hơn không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.25787,
+         "id": "991522",
+         "field_search": "question",
+         "question": "Tôi muốn nhờ Thegioididong kiểm tra giúp tôi iphone 7 có kiểu máy là MN962QL/A là hàng bán ở thị trường nào được không?Tôi xin trân trọng cảm ơn Quý công ty",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.235428,
+         "id": "1024367",
+         "field_search": "question",
+         "question": "E mua điện thoại ở tgdd giờ e muốn bán lại cho tgdd có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1146787",
+   "total": 30281,
+   "total_current": 100,
+   "max_score": 135.59375,
+   "origin_question": "Admin ơi. Em đang sử dụng J7prime. Trong bộ sưu tập của em. 1 tấm hình cứ bị sao ra 2 giống hệt. Khi xóa 1 tấm thì cả 2 đều mất. Làm sao để khắc phục admin. Em cảm ơn admin",
+   "hits": [
+      {
+         "score": 39.309994,
+         "id": "1137946",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, hiện tôi đang sử dụng j7 prime. Khi tôi xóa ảnh trên google photo thì trong bộ sưu tập của tôi cũng bị xóa. Có cách nào để xóa ảnh trên google photo nhưng trong bộ sưu tập của tôi vẫn còn không vậy. Dù tôi đã tắt đồng bộ nhưng vẫn bị...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.79546,
+         "id": "1004617",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao s7 edge của mình mỗi khi tải ứng dụng về nó hiện ra 2 ứng dụng lận. Mà mình xóa 1 cái thì mất cả 2 luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.662918,
+         "id": "1148482",
+         "field_search": "question",
+         "question": "Mình dùng ss J3 Pro, nhiều khi bộ sưu tập của mình lúc vào xem thì những tấm ảnh theo thứ tự thời gian không sắp xếp kế nhau, xuất hiện tấm này lại ở ngày này còn tấm kế nó lại ở ngày kia, nhìn rất khó chịu và lộn xộn! Có thể giúp mình cách khắc phục được không ạ? Mình xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.61399,
+         "id": "1012358",
+         "field_search": "question",
+         "question": "Admin ơi !Em đang xài Samsung Galaxy J2 Prime đã lắp thẻ nhớ 16G nhưng ứng dụng tải về đều sử dụng bộ nhớ máy. Em đã thử chuyển qua thẻ SD nhưng bộ nhớ máy vẫn còn ứng dụng và liên tục báo đầy.Mong admin hướng dẫn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.39814,
+         "id": "997236",
+         "field_search": "question",
+         "question": "Chào admin TGDĐ. Con HTC one M8 của e dạo này bị tình trạng chấm như hình. Không thể truy cập sử dụng bản đồ được và bị liệt không thóat ra ưng dụng được. Admin giúp đỡ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.78266,
+         "id": "1008140",
+         "field_search": "question",
+         "question": "Hiện mình đang sử dụng ss a5 2017, dạo này mỗi lần xóa bớt hình trong bộ sưu tập máy đều báo là chuyển vào Thùng rác của samsung cloud, mình muốn xóa hẳn trong samsung cloud cũng như không sử dụng Samsung cloud luôn thì phải làm ntn vậy tgdd ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.69998,
+         "id": "1013520",
+         "field_search": "question",
+         "question": "admin cho em hỏi tại sao điện thoại của em vào google nhập tìm kiếm một từ khóa bất kì nào đó và khi mở trang lên nó báo không tìm thấy ứng dụng nào để mở url làm sao để khắc phục ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.118587,
+         "id": "1136850",
+         "field_search": "question",
+         "question": " Admin ơi làm sao khắc phục lỗi cứ bắt định dạng phân vùng ổ cứng di động khi cắm vào máy tính ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.577576,
+         "id": "1019904",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng đt Samsung Galaxy J2, hiện máy của em bị lỗi gì đó mà em mới chụp ảnh xong mở ảnh ra xem lại thì không mở được và hiện thông báo \"Không có mục nào trong bộ sưu tập\".Em mở bộ sưu tập và cả thẻ nhớ ra xem cũng không thấy có ảnh mới chụp? Em muốn hỏi làm thế nào để sửa được ạ? Cám ơn anh/chị nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.57595,
+         "id": "1162054",
+         "field_search": "question",
+         "question": "Chrome của em đang bị như hình 1 và làm thế nào để chuyển về như hình 2 vậy ạ. Em cảm ơn.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.15726,
+         "id": "998405",
+         "field_search": "question",
+         "question": "Máy tính mình xài window 7, hiệ tại máy có 2 accounts đều có quyền admin. Mình đã làm mất mật khẩu 1 account, lam sao để lấy lại mật khẩu bằng account còn lại ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.798763,
+         "id": "1163480",
+         "field_search": "question",
+         "question": "Chào admin. Em có mua cho mẹ 1 máy Mobiistar Lai Z cách đây 2 - 3 năm. Gần đây máy hay tự động gửi tin nhắn ra các đầu số nước ngoài, phí 2500đ/tin với nội dung \"i want to enjoy content\" cùng với 1 dãy số.Em đã thử khôi phục cài đặt gốc và ra cửa hàng Viettel để chặn tất cả các loại dịch vụ của sim rồi nhưng đt vẫn tiếp tục tự gửi tin nhắn.Em không biết lí do và cách khắc phục ntn ạ. Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.762535,
+         "id": "1164319",
+         "field_search": "question",
+         "question": "Em sài samsung m20, em lỡ xóa ảnh trong bộ sưu tập mà không biết khôi phục lại ntn ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.762207,
+         "id": "1160800",
+         "field_search": "question",
+         "question": "Tải ảnh từ trên internet về nhưng lại không xuất hiện trong bộ sưu tập, chỉ có trong File của bạn thôiCách khắc phục ra sao ạ?Em dùng Samsumg galaxy Grandprime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.716515,
+         "id": "753299",
+         "field_search": "question",
+         "question": " Mỗi khi bật máy lên thì đều hiện thế này admin cho em hỏi là bị sao với    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.705032,
+         "id": "1143105",
+         "field_search": "question",
+         "question": "Em khôi phục gốc máy Samsung S6 Edge và bị mất hết các ảnh trong bộ sưu tập...Cho em hỏi có lấy lại các ảnh đó được không ạ ???Cho em gửi lời cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.43118,
+         "id": "998627",
+         "field_search": "question",
+         "question": "Mình dùng ss a5 2017 lỡ xóa mất file bộ sưu tập bị mất hết hình ảnh và video trong máy mà chưa bật sao lưu (google photo chưa bật). Vậy có cách nào để lấy lại đc kg ạ.  M cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.0295,
+         "id": "1016495",
+         "field_search": "question",
+         "question": "AD cho em hỏi là ảnh trong bộ sưu tập tại sao e xóa mà không được vậy? Điện thoại Samsung J2 prime.Mong ad hồi đáp sớm. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.89564,
+         "id": "944001",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, laptop asus của em thường xuyên bị treo máy, lúc trước có ra tgdd thì anh hỗ trợ nói lâu lâu mới bị vậy chỉ cần tắt máy rồi mở lại. Mà giờ thì nó trèo máy thường hơn! Admin chỉ cách cho em khắc phục tình trạng đó ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.793427,
+         "id": "1022512",
+         "field_search": "question",
+         "question": "Admin ơi em có chiếc máy asus zenfone2 thì hôm qua em đã khôi phục cài đặt gốc thì đã lên và bị sao âý. Nó bị cứ chạm vào màn hình là nó hiện đồng hồ lên ko biết sao chỉ em khắc phục như thế nào đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.711742,
+         "id": "759653",
+         "field_search": "question",
+         "question": " Add ơi. em muốn chỉnh từ hình 1 giống hình 2 thì làm như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.60405,
+         "id": "1022682",
+         "field_search": "question",
+         "question": "Cho em hỏi, em sài samsung j7 2016, điện thoại nó cứ hiện thư mục ini chứa 1 ảnh không xác định trong bộ sưu tập, với lại bài hát tên dummy trong mp3 zing nhưng không hát được, xóa đi thì có lại, em thử reset máy nhưng vẫn bị, giờ làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59559,
+         "id": "1136130",
+         "field_search": "question",
+         "question": "E có đth Huawei Y9 2019 khi chụp hình xong có khi hình ko xuất hiện ở bộ sưu tập mà phải vào trong tập tin mới có. Làm cách nào để khắc phục ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.492573,
+         "id": "1159329",
+         "field_search": "question",
+         "question": "Mình dùng samsung tap 7 hệ điều hành android, ảnh của mình đột nhiên bị chuyển từ bộ sưu tập qua bên app ảnh của google (ảnh nào bị chuyển thì ảnh bên bộ sưu tập sẽ mất lun). Mặc dù còn lại 1 vài ảnh nhưng rất it. Ảnh bị cuyển qua bên google thì cần mạng mới xem đc, rất bất tiện.Vậy nên mọi người cho mình hỏi làm sao để chuyển ảnh ngựic lại bộ sưu tập và xóa cái app của google mà ko bị mất ảnh ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.10784,
+         "id": "870676",
+         "field_search": "question",
+         "question": "admin ơi. Điện thoại mobiistar prime X plus của em bị gì rồi ý. em không thể truy cập được facebook hay messenger. Máy có tình trạng hay bị đơ khi truy cập 1 số ứng dụng như Clean Master or CM security. Thi thoảng thì lại gửi SMS lung tung làm tốn cả tiền. Em đã sao lưu và đặt lại đủ kiểu mà không được. Mong admin cho em xin hướng giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.928688,
+         "id": "798814",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi máy tính của em không sử dụng gì chỉ lướt wed thôi mà ram toàn 80-90% cho em hỏi là có cách nào khắc phục không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.904316,
+         "id": "1003686",
+         "field_search": "question",
+         "question": "Mình đang dùng máy galaxy a7 2015,tại sao tất cả ảnh trong bộ sưu tập ko hiển thị được,các file nhạc lưu trong máy cũng bị mất,máy ảnh chụp thì ko lưu ảnh vào máy được. Giúp mình với nhé. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.891876,
+         "id": "1162885",
+         "field_search": "question",
+         "question": "Điện thoại em bị tình trạng là cứ hiện logo galaxy xong tắt rồi cứ mở lại như thế liên tục không vào hệ điều hành thì do đâu vậy admin em cảm ơn admin trước luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.884937,
+         "id": "1144507",
+         "field_search": "question",
+         "question": "Mình cắm cáp kết nối đt  samsung Galaxy A5 với máy tính, trong lúc đó mình đổi tên 1 thư mục trong bộ sưu tập, sau đó thư mục mình vừa đổi tên xong không còn trong bộ sưu tập mà chỉ còn trong file của bạn. bây h mình muốn đưa về lại bộ sưu tập thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.873035,
+         "id": "1136472",
+         "field_search": "question",
+         "question": "Mình lỡ xóa ứng dụng zalo, sau khi tải lại ứng dụng thì mất hết sạch tin nhắn, mình maatstimf cách khôi phục tin nhắn qua sao lưu nhưng ko đc, admin làm ơn chỉ mh cách lấy lại toàn bộ tin nhắn đc ko? thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.766064,
+         "id": "788069",
+         "field_search": "question",
+         "question": " Chào admin,Em dùng ip 6 em muốn lấy file ghi âm từ điện thoại ra máy tính, admin hướng dẫn giúp em nhé.Cảm ơn admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.618855,
+         "id": "844671",
+         "field_search": "question",
+         "question": "Màn hình laptop em bị chập chờn rồi tự động tắt vs chế độ sleep, cơ mà máy cũng tự động mở màn hình lại luôn, nếu mở lên thì trong khoảng 30s nó lại tắt, có khi thì 1 tiếng sẽ bị tắt. Em đem ra tiệm sửa mà chủ tiệm bảo không tìm thấy lỗi. Admin cho e hỏi máy e bị lỗi gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.519287,
+         "id": "929501",
+         "field_search": "question",
+         "question": " Làm sao để biết 2 máy đang sử dụng chung 1 iCloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.500866,
+         "id": "1160947",
+         "field_search": "question",
+         "question": "Em vừa mới sử dụng điện thoại Samsung galaxy note 3 gần đây không biết làm sao xóa ảnh trong bộ sưu tập trên điện thoại anh chị bên thế giới gì động có cách nào không chỉ em với ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.495754,
+         "id": "845511",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng con iphone 5 dô chụp hình đc 1 tấm ra lại thì nó đứng mất ..nó lại lên như thế này nữa ..     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.445507,
+         "id": "1134165",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại reamlme 2. e mún xóa bớt cửa sổ màn hình chính thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.346912,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.268787,
+         "id": "938959",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng nhập bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.25054,
+         "id": "1135976",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi cách tắt tự động cập nhật win 10 được không ạ?.Khi cập nhật thì bị lỗi. Admin cho em xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.22875,
+         "id": "1014446",
+         "field_search": "question",
+         "question": "Sau khi em xóa ảnh thì máy báo đã lưu vào thùng rác của Samsung Could. Vậy thùng rác đó nằm ở đâu hay có cái nào để khôi phục ảnh đã xóa không ạ? Phần khôi phục trong máy em không có mục bộ sưu tập. Em dùng J7 Prime.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.204464,
+         "id": "760790",
+         "field_search": "question",
+         "question": "Admin cho em hỏi 2 cái cảm biến của Galaxy J7 có tác dụng gì vậy, có phải kích hoạt nó lên không sao khi mình gọi điện thoại áp vào tai đèn màn hình không tự tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.101707,
+         "id": "768747",
+         "field_search": "question",
+         "question": "Chào anh chị ! en có 1 iPad air 2 . trong quá trình sử dụng em lỡ làm mất mật khẩu màn hình khóa.- iCoud của em cũng quên mất .- có cách nào mở giùm em không ạ ? - em xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.069412,
+         "id": "1004598",
+         "field_search": "question",
+         "question": "A ơi sao ĐT e cái ứng dụng Bộ Sưu Tập trong máy giật giật vs bị nhòe là bị gì a ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.062447,
+         "id": "1146703",
+         "field_search": "question",
+         "question": "Xin chào các Admin! Mình xin được hỏi : Khi đã đồng bộ Hình Ảnh từ Google Ảnh sang Google Drive sau khi Khôi phục lại Cài đặt Gốc có bị mất hay không. Máy của mình ứng dụng File của bạn thông báo đã Dừng! nên không thể di chuyển Ảnh vào thẻ nhớ được  và mình có thể tải lại một ứng dụng File mới để thay thế được không ? Mong các Admin chỉ giúp ! Chân thành cảm ơn Admin  ( Từ TP. S.Trăng 😍).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.053722,
+         "id": "848045",
+         "field_search": "question",
+         "question": "Em dùng đt Q-smart 08 em gặp sự cố khi đang cập nhật facebook là kh cập nhật đc vì mã lỗi 104. Em kh biết làm sao để khắc phục. Mong các admin tư vấn cho em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.033283,
+         "id": "998344",
+         "field_search": "question",
+         "question": "Admin ơi sao máy e để WCDMA và GSM mà k để là 2G3G4Gv admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.812605,
+         "id": "1019441",
+         "field_search": "question",
+         "question": "Chào admin, mình đang có budget tầm 20tr đổ lại để mua 1 laptop sử dụng chủ yếu chương trình Sketchup, mong admin tư vấn cho mình sản phẩm phù hợp nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.802906,
+         "id": "888182",
+         "field_search": "question",
+         "question": "admin cho e hỏi điện thoại iphone 5 của e bị hư màn hình . ngoài việc sử dụng icloud để tải ảnh thì còn cách nào khác để lấy ảnh trên cuộn camera về được không ạ . tại e đăng nhập icloud nhưng nó chỉ về có vài tấm à . help me !!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.768051,
+         "id": "938962",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng xuất bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.512753,
+         "id": "747598",
+         "field_search": "question",
+         "question": " Admin ơi, sao phần setting trong laptop mình down xuống không có Sync Tones là sao hả admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.395924,
+         "id": "810136",
+         "field_search": "question",
+         "question": "Chào admin , máy tính win 7 của em xài gần 3 tháng , do em tải nhiều thứ quá rồi xoá đi nên máy có hơi lad , em có nên sử dụng phần mềm cclean để xoá toàn bộ dữ liệu trên ổ C không ạ ? Nếu làm vậy có gây ra lỗi gì không ??? em chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.275543,
+         "id": "1013201",
+         "field_search": "question",
+         "question": "Nokia 5 máy em sao chụp hình rồi vào ảnh xem thì không thấy vài tấm hình chỉ thấy 1 màu trắng nhấn vào xem thì nó cứ quay vòng vòng và 1 màu đen thui",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.265789,
+         "id": "925813",
+         "field_search": "question",
+         "question": "admin cho mình hỏi: sao icloud của mình sao lưu ảnh đc 2 máy iPhone 6s mà mình nhập vào iPhone 7 plus sao k thấy sao lưu ảnh đc vao máy nhi? admin giải thích dùm minh với đc k?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.246433,
+         "id": "1001546",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony z5. Khi nhắn tin đăng ký gói 3g cả 2 nhà mạng Vinaphone và Mobile đều kg được. Báo lỗi \"Không thể gửi!\". Hỏi nhà mạng, họ nói do cài đặt \"bảo mật về tin nhắn...\" trên máy. Nhưng tôi kg tìm và kg khắc phục được. Xỉn Admin chỉ dẫn giúp! Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.115334,
+         "id": "1001267",
+         "field_search": "question",
+         "question": "j5 prime  của bị tự nhiên các icon hiển thị to lên làm sao để thu nhỏ các icon lại ạ, cảm ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.043056,
+         "id": "716012",
+         "field_search": "question",
+         "question": " Khôi phục ảnh trong bộ sưu tập????????????????????????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.954617,
+         "id": "752697",
+         "field_search": "question",
+         "question": " Admin ơi mình bị lỗi phần mềm audio 5s thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.815752,
+         "id": "942964",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi máy em chạy win 10 giờ máy em bị lỗi 0xc000021a thì có cách nào khắc phục được không ạ .hay phải chạy lại win",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.776588,
+         "id": "1022295",
+         "field_search": "question",
+         "question": "máy mình samsung j1, mình vào bộ sưu tập đc nhưng tất cả album đề không hiện ảnh. Mình có khởi động lại thì mất tất cả album luôn. Giờ làm sao để khôi phục lại thế à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.760723,
+         "id": "1153314",
+         "field_search": "question",
+         "question": "Admin ơi. microsoft office 2016 của em cần activate, nhưng không có code, em xin code vs ạ.Hoặc cho em xin link tải bản 2003 ạ. em cám ơn admin nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.738043,
+         "id": "856969",
+         "field_search": "question",
+         "question": "Iphone của em. Sao cứ từ 30 giây đến 1 phút thì lại bị đơ, không sử dụng được màn hình cảm ứng, trong khi các nút cứng vẫn sử dụng được. E đã khởi động lại nhưng vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.655937,
+         "id": "773076",
+         "field_search": "question",
+         "question": "Cho mình hỏi mimh đang sử dụng iPhone 6 plus đang sử dụng thì bị đơ không chạy được nữa làm sao để khắc phục ạ xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.608541,
+         "id": "780539",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em xài iPhone 5 đã jailbreak, do em không biết khi muốn gỡ phần mềm jailbreak ra khỏi máy đã bấm Cài Đặt Chung > Đặt Lại > Xóa Tất Cả Nội Dung Và Cài Đặt , bây giờ máy em bị treo táo phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.602116,
+         "id": "1158958",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi là em đang chơi Angry Birds 2 trên Huawei Y3 2017. Em đang chơi thì điện thoại bị treo không thoát ra cũng không tắt máy được. Mong mọi người cho em biết nó bị làm sao và cách khắc phục như thế nào. Xin cảm ơn mọi người.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.595104,
+         "id": "778019",
+         "field_search": "question",
+         "question": " Quên mã pin 2 Sony Xperia Z3 phải làm sao lấy lại vậy Admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.56245,
+         "id": "898177",
+         "field_search": "question",
+         "question": "AD cho em hỏi. e có 1 tk icloud đăng nhập trên ip5s. e mua 1 chiếc ip6 về. e reset ip6 và khôi phục ip6 bằng icloud. giờ 2 ip đã giống hệt nhau. em nhận được thông báo nhập mật khẩu icloud. e vào cài đặt và nhập xong thì cả 2 ip bị đẩy ra và yêu cầu nhập id passwuod. e nhập vào thì nó báo không đúng. trong khi e không thay đổi mật khẩu icloud, e bị 2 lần rồi, mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.495499,
+         "id": "990653",
+         "field_search": "question",
+         "question": "em dùng iphone 4s lúc trước thì còn bình thường nhưng do em dùng mạng 3G nhiều nên máy khá nóng nên đã bị hỏng wifi bây giờ nút wifi ở trung tâm kiểm soát đã bị biến thành màu xám trong cài đặt thì ko bật đc em đã thử 1 số cách như reset mạng reset toàn bộ máy nhưng đều không có hiệu quả vậy em mong admin và các mod giúp em khắc phục lỗi này em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.458893,
+         "id": "1155822",
+         "field_search": "question",
+         "question": "Admin ơi bạn có bảng sao sánh tốc độ khởi động và tốc độ chụp ảnh của những smartphone năm 2018 và 2019 ko admin,mình chỉ thấy 2015 à,xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.39968,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.346169,
+         "id": "1010647",
+         "field_search": "question",
+         "question": "Chào admin,Hiện tại em đang dùng Laptop Asus X541-uv. Hôm nay nó gặp tình trạng mất tất cả các dữ liệu cũng như tài khoản Google, Facebook mà em đã đăng nhập trên tất cả các trình duyệt (Coccoc, chrome, firefox) khi tắt máy hoặc khởi động lại.Admin vui lòng tư vấn giúp em cách khắc phục ạ!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.233908,
+         "id": "1023750",
+         "field_search": "question",
+         "question": "Mình sử dụng samsung j7 prime. Làm thế nào để sắp xếp ảnh của bộ sưu tập theo từng ngày ạ.( lúc trước nó sắp xếp theo từng ngày mà giờ sắp xếp loạn tất cả lên). Kím vẫn k thấy mục sắp xếp theo thời gian trong bọ sưu tập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.092524,
+         "id": "1166662",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em đang dùng con xiaomi redmi note 7 mỗi lần em vào trong bộ nhớ máy xem có tệp tin nào dư thừa thì em xoá bỏ có những tấm hình em đã xoá hết trong thư viện rồi mà sao khi em vào trong bộ nhớ máy thì số MB vẫn còn ạ, mong anh chị giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.088316,
+         "id": "1020520",
+         "field_search": "question",
+         "question": "Khi mình mở ảnh màu nâu . Thì xảy ra hiện tượng . Nhưng ứng dụng khi nảy vừa sử dụng xuất hiện ẩn mờ mờ bên trong hình màu nâu đó . Mình đã thử reset máy . Khôi phục cài đặt góc nhưng vẫn không hết . Điều lạ là sau khi mình tắt nguồn mở lại thì mở tấm ảnh màu nâu lên lại xuất hiện logo samsung mờ mờ bên trong tấm ảnh . Vậy lỗi gì và giải pháp ra sau ? . Xin ad gợi ý . Mua tại tgdd được 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.042229,
+         "id": "858047",
+         "field_search": "question",
+         "question": "Em sài đt samsung j5 đời cũ. Bộ sưu tập e cứ tự động tải hình xung là bị sao v ạ. Hình fb. Hinh đã xóa tu lâu nay lại có.. xoa rôi vài giờ sai lại co. Ai giup em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.969812,
+         "id": "1021508",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính bảng Huawei mediapad T1 8.0....sao khi chơi game từ động thoát ra ngoài nhiều lần.... vậy là bị lôi gì vậy admin...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.958477,
+         "id": "1142112",
+         "field_search": "question",
+         "question": "Dạ, Ad support giúp em với ạ, em đang dùng điện thoại Asus Zenphone 2 (mã ZE 551ML), điện thoại em chỉ nhận duy nhất 1 thẻ Sim nhà mạng là Viettel còn lại tất cả nhà mạng khác em kiểm tra trong mục \"Mạng Khả Dụng\" thì đều bị cấm hết, em cắm Sim Mobifone vào thì ko nhận được ạ. Em không biết khắc phục như thế nào hay lỗi máy ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.853462,
+         "id": "771585",
+         "field_search": "question",
+         "question": " Admin ơi, cách tháo pin máy Dell n3552pen15.6hdwin10??Cám ơn Admin! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.852222,
+         "id": "1003308",
+         "field_search": "question",
+         "question": " Thưa admin em đag dùng 6s và thời lượng pin của máy như thế có ổn không admin hay pin bị tuột. Em xin cám ơn   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.80627,
+         "id": "1149936",
+         "field_search": "question",
+         "question": "Em có cái video post trên zalo, mà em xóa ko được, trên tường e xóa tất rồi. mà người khác vẫn thấy. xong e lại xóa tất cả hình ảnh, video rồi, mà người khác vẫn thấy 3 đoạn Video đó. em đăng xuất ra đăng nhập lại. kể cả tắt nguồn mở lại vẫn bị vậy. Admin giúp em với ạ. e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.773327,
+         "id": "1134737",
+         "field_search": "question",
+         "question": "admin ơi! cho mình hỏi điện thoại samsung j5. Mình enscript sd card sau khi reset factory thì không xem được tất cả các file trong thẻ nhớ thì phải làm sao ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.766315,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.706009,
+         "id": "1141895",
+         "field_search": "question",
+         "question": "trung tâm tgdd cho em hỏi: máy của em là samsung s7 thường mua được 3 tháng thì bị tình trạng là không thể kết nối với các thiết bị không dây như wifi bluetooth.em gửi 2 tấm hình, tuy wifi tắt nhưng nó vẫn chạy còn biểu tượng wifi thì khi bấm vào thì nó sáng mờ. trung tâm có thể tư vấn cho em về cách khắc phục được không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.687613,
+         "id": "754080",
+         "field_search": "question",
+         "question": " Cho em hỏi em tài phần mềm genymotion sử dụng giả lập android trên máy tính nó báo thông bị lỗi là sao admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.673985,
+         "id": "734961",
+         "field_search": "question",
+         "question": "Admin cho em hỏi Samsung Galaxy J7 có thể lưu dữ liệu trực tiếp lên thẻ nhớ được không? Hay là phải chuyển từ bộ nhớ máy sang thẻ nhớ ??? Cảm ơn Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.643759,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.595936,
+         "id": "1020885",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ.em mới mua j7prime chưa được 1 tháng.man hình có chấm trắng là bị làm sao ạ cách khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.44256,
+         "id": "1150990",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi điện thoại sony xperia x performance sao lúc em xem phim trên google lúc bật toàn màn hình thì vẫn còn phím điều hướng ảo và có thể tắt nó được không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.375185,
+         "id": "1001684",
+         "field_search": "question",
+         "question": "Admin cho em hỏi . Em Dag dùng cái iPhone 6s . Mà sao check imei trên trang của Apple nó cứ kiu là : xin lỗi hk thực hiện đc, vui lòng thử lại lúc khác là sao v admin ? Giải đáp giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.36002,
+         "id": "869683",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, em đang dùng ĐT SS galaxy a5, em vào YouTube, CH-PLAY, Gmail, Nhaccuatui.. bình thường. Nhưng vào tango, Facebook, messenger thì không được, vào Web thì thì có trang vào được có trang không. Admin có thể cho em hỏi ĐT em bị như như vậy là bị lỗi gì ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.331648,
+         "id": "1142061",
+         "field_search": "question",
+         "question": "Admin tư vấn cho em các dòng điện thoại chỉ để chơi game mượt mà giá của nó dưới 4tr được không ạCảm ơn admin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.309624,
+         "id": "1014709",
+         "field_search": "question",
+         "question": "E sử dụng đt J3 2016. E cố xóa ảnh trog bộ sưu tập nhưng để 1 lúc lại hiện trở lại. E khôi phục cài đặt gốc. E định dạng thẻ mà vẫn k đc. Có phải thẻ nhớ e bị hư r k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.28175,
+         "id": "1004765",
+         "field_search": "question",
+         "question": "điện thoại em lỡ bật chế độ xem ảnh bằng máy in, vậy em muốn chỉnh xem trên bộ sưu tập thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.269003,
+         "id": "999796",
+         "field_search": "question",
+         "question": "Mobell tab 7c em mua về sử dụng hơn tám tháng nhiều lần bị tuột màn hình,khi khởi động lại thì tất cả ứng dụng đều bị dừng lại và có lỗi android.process.acore,xin hỏi cần làm thế nào để khắc phục!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.22651,
+         "id": "1023538",
+         "field_search": "question",
+         "question": "Hello. Giúp em chút. máy J7 prime sau khi reset lại máy nhưng sau đó không mở được ảnh trong bộ sưu tập. Giờ làm sao đây ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.150248,
+         "id": "766193",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin, pin lên lâu rồi bị đứng và thay vào không lên pin mà lại xuống nhanh như trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14444,
+         "id": "1164530",
+         "field_search": "question",
+         "question": "Xin chào. Cho em hỏi là ip X của em đang hoạt động thì màn hình bị rung,app đang sử dụng bị giật ngang và tự chuyển qua các app đã sử dụng khác, có cách nào khắc phục không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.125319,
+         "id": "1155447",
+         "field_search": "question",
+         "question": "Samsung m20 bị loạn cảm ứng và đơ có cách nào khắc phục ko admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.056112,
+         "id": "1136294",
+         "field_search": "question",
+         "question": "admin cho em hỏi ? máy em samsung j7 pro sao máy e sạc máy k vào pin và k hiện kí tự sạc pin .  em đã thử rất nhiều loại chân sạc nhưng k vào  . em mang ra quán thì họ kêu lỗi hoặc bị ic trong máy. mong admin giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.98231,
+         "id": "789869",
+         "field_search": "question",
+         "question": "Admin cho hỏi máy iPhone 5s của mình các biểu tượng trên màng hình hay nhảy lung tung không kiểm sót được có khi mất biểu tượng ứng dụng cài đặt luôn. nhờ admin tư vấn giúp. cám ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

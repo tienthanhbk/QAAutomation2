@@ -1,0 +1,801 @@
+{
+   "id_query": "805926",
+   "total": 34343,
+   "total_current": 100,
+   "max_score": 121.15631,
+   "origin_question": "Cho mình hỏi mình mới mua điện thoại iPhone 5s tại cửa hàng và copy một số ảnh của máy cũ vào nhưng tại sao lại ko xóa được ảnh đó nhỉ. Khi tích vào ảnh thì biểu tượng thùng rác bên dưới lại ẩn",
+   "hits": [
+      {
+         "score": 53.038033,
+         "id": "1145989",
+         "field_search": "question",
+         "question": " Đây là ảnh em chép từ máy cũ, nhưng khi muốn xoá thì lại ko hiện biểu tượng thùng rác thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.430683,
+         "id": "1162680",
+         "field_search": "question",
+         "question": "Mình lỡ tay xóa một số hình ảnh và video trong thùng rác của Nokia6.1plus. Vậy mình có thể khôi phục lại các video đấy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.652073,
+         "id": "1167288",
+         "field_search": "question",
+         "question": "Điện thoại samsung j4 của mình thông báo đầy bộ nhớ nên mình đã vào \"file của bạn\" trên máy và ấn xóa mấy cái ở bộ nhớ trong. Mãi sau mới biết bị mất hết ảnh ở thư viện máy ảnh. Vậy cho mình hỏi cách khôi phục lại ảnh với ạ. Ở thùng rác k có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.41603,
+         "id": "1156634",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn một số ảnh, tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.58523,
+         "id": "1014446",
+         "field_search": "question",
+         "question": "Sau khi em xóa ảnh thì máy báo đã lưu vào thùng rác của Samsung Could. Vậy thùng rác đó nằm ở đâu hay có cái nào để khôi phục ảnh đã xóa không ạ? Phần khôi phục trong máy em không có mục bộ sưu tập. Em dùng J7 Prime.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.7314,
+         "id": "766820",
+         "field_search": "question",
+         "question": "Giúp mình với iPhone của mình thoát iCloud cũ và đăng nhập tài khoản mới vào Album rõ ràng không còn ảnh và video của iCloud cũ nữa, chỉ có mấy chục cái ảnh mình mới chụp, sao vào xem giới thiệu lại thấy số lượng ảnh và video trong máy rất nhiều (như trước khi mình thoát iCloud cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.622925,
+         "id": "1153080",
+         "field_search": "question",
+         "question": "xóa ảnh muốn tìm lại trên thùng rác của j6 lavendar như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.52783,
+         "id": "1166313",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn tìm lại ảnh trên máy ssj7 prime thì làm sao ạk. E vào thùng rác mà báo là k tìm thấy mục nào bị xóa là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.79367,
+         "id": "836204",
+         "field_search": "question",
+         "question": "em có một số ảnh trên điện thoại iphone và muốn cop sang máy tính nhưng khi kết nối với máy tính thì lại ko thấy hết ảnh mà chỉ được một số ít như vậy là bị sao ạ và em phải làm như nào để thấy được hết ảnh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.466583,
+         "id": "940542",
+         "field_search": "question",
+         "question": " tại sao ảnh chụp màn hình của máy em lại ko xóa được ạ,không có hình giỏ rác,,,máy em là ip5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.313217,
+         "id": "909924",
+         "field_search": "question",
+         "question": "Tại sao điện thoại samsung J5 của mình mới cài đặt lại chương trình. thì mình tải zalo về thì lại k gửi ảnh đi được, ảnh người khác gửi thì mình nhận được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.165787,
+         "id": "772596",
+         "field_search": "question",
+         "question": "Cho mình hỏi, khi xoá tin nhắn mình ấn thêm rồi, chọn được rồi nhưng không xuất hiện biểu tượng thùng rác thì làm thế nào?(iphone 6 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.017704,
+         "id": "1135559",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút ạ . Mình mới mua oppo f9 khi sài bên zalo lưu hình về máy. ảnh vẫn lưu về mình mở ảnh trong zalo hay fb đều thấy . Nhưng khi thoát ra ngoài vào thư viện ảnh của máy lại k thấy ? zay minh làm sao để ảnh nó hiện trong thư viện ảnh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.994423,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.993515,
+         "id": "1135073",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy oppo a3s của e chụp ảnh cam thường lại ko lưu vào máy ạ. Vào album toàn mất ảnh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.87888,
+         "id": "819523",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước em có tải ảnh từ máy tính thông qua itools vào điện thoại iphone 6, bây giờ em muốn xóa mà không xóa trên đt đc, đã mang ra cửa hàng dùng phần mềm kết nối với máy tính để xóa ảnh, khi đó điện thoại báo đã xóa được hình ảnh ra khỏi máy rồi, em vào máy kiểm tra cũng không còn thấy hình nữa, nay điện thoại lại trở về những ảnh đó như cũ, chưa được xóa hình nào cả. Em không có sử dụng tài khoản icoud? Xin hỗ trợ giúp em có cách nào xóa vĩnh viễn những hình đó không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.245434,
+         "id": "1156631",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn đi. tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.114525,
+         "id": "845453",
+         "field_search": "question",
+         "question": "Tôi copy 1 ảnh từ điện thoại iphone 6s sang máy tính, copy xong ở máy tính có 2 ảnh (1 ảnh có tên là IMG_0005.JPG và 1 ảnh có tên là IMG_0005.MOV). Khi mở xem ảnh trên máy tính ảnh có đuôi JPG mở bình thường; ảnh có đuôi MOV phải mở dạng video. Hỏi vậy tại sao? nếu do cài chế độ chụp ảnh của iphone thì cách cài đặt cụ thẻ ra sao? xin cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.78163,
+         "id": "987928",
+         "field_search": "question",
+         "question": "Admin cho hỏi tại sao khôi phục ảnh từ máy iphone này qua máy iphone khác lại mấy dung lượng máy đến thếMáy củ của e ảnh chỉ có 800MB nhưng qua máy mới tới 1.77GB và xoá ảnh vẫn không giảm đi số GB đó Admin cho e hỏi là lí do vì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.666576,
+         "id": "1020520",
+         "field_search": "question",
+         "question": "Khi mình mở ảnh màu nâu . Thì xảy ra hiện tượng . Nhưng ứng dụng khi nảy vừa sử dụng xuất hiện ẩn mờ mờ bên trong hình màu nâu đó . Mình đã thử reset máy . Khôi phục cài đặt góc nhưng vẫn không hết . Điều lạ là sau khi mình tắt nguồn mở lại thì mở tấm ảnh màu nâu lên lại xuất hiện logo samsung mờ mờ bên trong tấm ảnh . Vậy lỗi gì và giải pháp ra sau ? . Xin ad gợi ý . Mua tại tgdd được 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.573532,
+         "id": "996525",
+         "field_search": "question",
+         "question": "Mình muốn xóa vĩnh viễn ảnh hay video ở Samsung A7. Mình bấm xóa rồi. Vậy hình ảnh có còn trong thùng rác không? Mình kiểm tra như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.385593,
+         "id": "988561",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy a9 pro của em lúc mới mua về em xóa ảnh thì ngày mai nó khôi phục lại còn bây giờ xóa ảnh tại sao không khôi phục lại nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.372105,
+         "id": "762743",
+         "field_search": "question",
+         "question": "Giúp mình vs.mình đăng xuất và xoá hết ảnh, video của tk icloud cũ rồi đăng kí tk icloud mới.vào album ảnh thì có mấy cái mà sao vào giới thiệu thì vẫn còn nguyên số ảnh và video đó. Dung lượng ảnh và video đó thì vẫn còn. thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.30308,
+         "id": "997557",
+         "field_search": "question",
+         "question": "Chào bạn, - Mình dùng oppo F1 plus, cho mình hỏi cách chọn tất cả các ảnh cùng một lúc trong thư viện ảnh để xóa hoặc di chuyển cùng lúc cho nhanh được không ạ? hiện tại mình toàn chọn từng ảnh không à, thao tác này gây mất thời gian quá..hjc.  - Với lại cho mình hỏi O-Cloud của oppo F1 Plus sao không sao lưu hình ảnh được vậy ạ? hiện tại chỉ sao lưu danh bạ số điện thoại và tin nhắn SMS thôi. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.066902,
+         "id": "906794",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi với ạ. Em mua máy ip6 cũ. sau khi đã đăng nhập hết tài khoản của em vào máy rồi nhưng thỉnh thoảng vào album ảnh lại hiện lên 1 số ảnh không phải do máy e chụp là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.008915,
+         "id": "1159329",
+         "field_search": "question",
+         "question": "Mình dùng samsung tap 7 hệ điều hành android, ảnh của mình đột nhiên bị chuyển từ bộ sưu tập qua bên app ảnh của google (ảnh nào bị chuyển thì ảnh bên bộ sưu tập sẽ mất lun). Mặc dù còn lại 1 vài ảnh nhưng rất it. Ảnh bị cuyển qua bên google thì cần mạng mới xem đc, rất bất tiện.Vậy nên mọi người cho mình hỏi làm sao để chuyển ảnh ngựic lại bộ sưu tập và xóa cái app của google mà ko bị mất ảnh ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.97233,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.938416,
+         "id": "817022",
+         "field_search": "question",
+         "question": " Mình bị mất biểu tượng app trên máy 5s 16gb, máy mình mới mua hôm qua ở cửa hàng tại Điện Biên. Nhờ ad chỷ giùm. THks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.91397,
+         "id": "819770",
+         "field_search": "question",
+         "question": "Tại sao khi tôi cài viber vào điện thoại thì danh bạ chỉ dùng được một số người còn lại ko dùng đc. Trong khi đó tại điện thoại trước tôi vẫn sử dựng bình thường? hiện tại tôi đan dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.9028,
+         "id": "1011254",
+         "field_search": "question",
+         "question": "Mình vừa mới chơi intasgam mình mới theo dõi một số người nhưng ko hiểu sao bảng tin của mình lại k hiển thị ảnh của họ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.878555,
+         "id": "874453",
+         "field_search": "question",
+         "question": "Tại sao vào zalo của người khác lại không xem được ảnh vậy. Vào rất nhiều nick để xem ảnh đều hiện thị không có ảnh. Mà người đó lại k chặn minh xem nhật kí hay gì hết .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.803596,
+         "id": "1164946",
+         "field_search": "question",
+         "question": "Cho mình hỏi là chiếc iPhone 6s 16GB của mình. App Ảnh của mình có 20 ảnh, nhưng khi mình vào Dung lượng iPhone thì mục Ảnh lại là 7GB.Thế là sao ạ, mong công ty tư vấn giúp mình sớm, vì máy mình có 16 GB rất tốn  dung lượng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.52554,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.511787,
+         "id": "764747",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên icloud rồi mà khi mình vào iloud.com để xem ảnh thì mục hình ảnh trống nhỉ? mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.464245,
+         "id": "764757",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên iCloud rồi mà khi mình vào iCloud.com để xem ảnh thì mục hình ảnh trống nhỉ? Mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.37918,
+         "id": "1008772",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi. Bữa đó em em vô App trung tâm bảo mật của oppo trên đt. Em có bấm dọn dẹp gì đó rồi vào google ảnh thì ảnh bị mất hết trơn. Em tìm trong thùng rác cũng không có. Add giúp em khôi phục lại với 😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.31861,
+         "id": "876286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. E đang xài iphone 6 sau nhiều lần sao lưu thì bây giờ vô album ảnh xem lại ảnh thì phải có 3g hoặc wifi thì mới xem rõ ảnh được còn nếu không có mạng thì hình ảnh rất mờ và hiện biểu tượng chữ i ở góc dưới bên phải màn hình. Có cách nào khắc phục tình trạng này không ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.17323,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.008125,
+         "id": "905521",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua ip6s pl 16g hôm qua 26/10/2016 sau khi kiểm tra máy tại cửa hàng thì mình thấy ko có vấn đề gì, sau khi về nhà mình mở icloud ra thì lại có cả tên đăng nhập và mât khẩu rồi, đăng xuất ra cũng ko đc, với còn cả đống hình ảnh trong album với danh bạ thì số đt quá chừng trong khi đó mình chưa đụng chạm gì vào hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.875977,
+         "id": "859491",
+         "field_search": "question",
+         "question": "mình mới mua iphone 5S được 1 tháng. phần mail của mình tại sao lại chứa hết 6,2GB mà mình vào mail ko có gì trong đó hết. xóa ứng dụng cũng không được. xin được giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.86146,
+         "id": "1165380",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dung samsung a9 , sau bản update mới nhất gần đây,  tại sao máy mình ko vào được mạng,  biểu tượng mạng luôn có dấu chấm than,  kết nối vào thì lại bảo internet ko có sẵn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.85394,
+         "id": "1007713",
+         "field_search": "question",
+         "question": "Cho mình hỏi với Tại sao gần đây khi mình chụp ảnh màn hình xong thì xem lại ảnh lại chuyển sang màu vàng ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.76847,
+         "id": "1004629",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao đt samsung j7 prime của mình gọi video bằng ứng dụng messenger nhưng lại ko nhìn thấy hình ảnh của người mình gọi. nhưng người khác gọi cho mình thì lại nhìn thấy hình ảnh bình thường??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.497375,
+         "id": "1020868",
+         "field_search": "question",
+         "question": "Mình dùng ĐT Samsung A5 (2016), cho mình hỏi khi comment trên FB, có cách nào để vào các thư mục ảnh chọn ảnh post lên ko?  Tại chỗ bình luận, vào ảnh luôn hiện ra 1 list ảnh theo thứ tự thời gian, tìm ảnh cũ rất mất thời gian. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.38886,
+         "id": "747087",
+         "field_search": "question",
+         "question": "Cho em hỏi khi khôi phục cài đặt gốc nhưng em không sao lưu lai hình ảnh số điện thoại vào iCloud hoặc iTune trên máy tính thì làm thế nào để có thể lấy lại được. Máy của em là iPhone 6S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.322777,
+         "id": "1134975",
+         "field_search": "question",
+         "question": "Tại sau e không có thùng rác khoi phục ảnh vậy ạ ad trả lời giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.127262,
+         "id": "1155282",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.118492,
+         "id": "1000032",
+         "field_search": "question",
+         "question": "Em sài samsung j2 prime khi chụp ảnh thì hình ảnh vẫn bình thường nhưng khi call video facebook thì hình ảnh lại bị tối và bên kia không thấy gì, dù em đã xóa và tải lại, khởi động lại máy nhưng vẫn không được. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.03419,
+         "id": "1006654",
+         "field_search": "question",
+         "question": "thẻ nhớ của mình bỗng nhưng không thể xóa ảnh hay là đưa ảnh vào thẻ nhớ được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.018394,
+         "id": "765387",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy iPhone 5 của e chụp ảnh ở cemara 360 và chụp ảnh màn hình lại không được lưu vào thư viện ảnh. Khi lưu nó chỉ hiện save to album là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.01007,
+         "id": "1155278",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.888214,
+         "id": "873128",
+         "field_search": "question",
+         "question": "E hiện dùng ip4. Trong lúc tải ảnh từ máy tình vào thì đồng bộ hóa đã xóa hết ảnh cũ trong máy thì có khôi phục lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.79718,
+         "id": "929864",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s nhưng khi lắp sim vào thì mất hế danh bạ. giờ làm sao để lấy lại danh bạ được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.745888,
+         "id": "764893",
+         "field_search": "question",
+         "question": " Mình đã sao lưu ảnh lên iCloud, thì làm cách nào để vào xem lại ảnh trên iCloud bằng điện thoại nhanh nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.677055,
+         "id": "1023281",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsung galaxy j1 của mình cứ khởi động lại máy hay tắt nguồn bật lại cứ bị biến mất những biểu tượng mà mình đưa ra màn hình, mình lại đưa một biểu tượng khác vào đúng chỗ của cái biểu tượng bị mất, sau đó khởi động lại máy thì thấy hiện tượng 2 cái biểu tượng đè chồng lên nhau. Cứ biến mất biểu tượng thế này mình khó chịu lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.629814,
+         "id": "1159283",
+         "field_search": "question",
+         "question": "mình đăng xuất sau đó đăng nhập lại icloud nhưng bị mất hết ảnh, từ 6k ảnh còn 105 ảnh. Mong nhận được sự hỗ trợ giúp mình láy lại ảnh ạ? Khi đăng nhập lại nó có hỏi cái gì đó mà mùnh k nhớ, nhưng chỉ nhớ là mùnh có ấn vào chứ hợp nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.592552,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.57047,
+         "id": "779165",
+         "field_search": "question",
+         "question": "Mình mua điện thoại iphone mới ở TGDD, có nhờ kỹ thuật sao ảnh từ máy điện thoại cũ sang. Vấn đề là chỗ ảnh được sao sang điện thoại, cũng iPhone là không xoá chúng đi được nữa. Có quá nhiều ảnh nên mình muốn xoá bớt. Vậy phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.566757,
+         "id": "782716",
+         "field_search": "question",
+         "question": " Tại sao hình ảnh và nhạc tự nhiên bị mất và ảnh chụp song vào thư viện ko coi được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.460136,
+         "id": "1160314",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đag sài oppf7 ,đã cho ảnh vào vùng an toàn riêng tư. Mình muốn xem lại ảnh đó phải vào mục nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.457077,
+         "id": "875831",
+         "field_search": "question",
+         "question": "  Tại sao điện thoại iphone 5s của e không chụp được ảnh mà báo lỗi cần làm mát iphone  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.405426,
+         "id": "1023692",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang xài máy samsung A3 do mình bấm nhầm vào nút xóa ảnh nên giờ những ảnh mình chụp trên máy bị xóa hết có cách nào lấy lại được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.39258,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.379063,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.242836,
+         "id": "1157643",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung m20, có một số hình trên máy mình vô tình xóa, mình định khôi phục lại nhưng không tìm thấy thùng rác ở đâu, mình đã thử vào cài đặt trong bộ sưu tập nhưng vẫn không thấy. Phải làm sao đây ad? Mình cám ơn :3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.184677,
+         "id": "779746",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HKphone Revolead. Tất cả ảnh gửi qua viber đều được lưu vào thẻ nhớ. Nhưng lúc mình tháo thẻ nhớ ra đến khi lắp vào thì mất toàn bộ ảnh đã lưu của viber. Làm thế nào để lấy lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.090275,
+         "id": "1021880",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có mua điện thoại bên Điện máy xanhnhưng giwof mình muốn đổi sang máy khác, mình muốn bán lại điện thaoij cho của hàng, rồi đổi sang mua máy khác tại cửa hàng có được k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.08626,
+         "id": "805823",
+         "field_search": "question",
+         "question": " Tại sao mình không xóa được ảnh và STT trên Zalo làm cách nào để xóa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.082047,
+         "id": "763733",
+         "field_search": "question",
+         "question": " Khi xoá một ứng dụng trên iOS, khi vào tải lại thì có biểu tượng đám mây thì lúc đó mình đã thật sự tải lại chưa ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.046574,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.00743,
+         "id": "846588",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình và bạn ấy ko hủy kết bạn zalo nhưng tại sao mh vào dòng thời gian thì chỉ xem được ảnh thôi ạ. stt hay ghi âm đều ko xem được. cho mh hỏi vì sao lại vậy ạ. mh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.003265,
+         "id": "1003686",
+         "field_search": "question",
+         "question": "Mình đang dùng máy galaxy a7 2015,tại sao tất cả ảnh trong bộ sưu tập ko hiển thị được,các file nhạc lưu trong máy cũng bị mất,máy ảnh chụp thì ko lưu ảnh vào máy được. Giúp mình với nhé. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.00133,
+         "id": "1134617",
+         "field_search": "question",
+         "question": "Bạn ơi mình có samsung J3 mà muốn truy xuất vào phần cứng của đt để để xóa một số ảnh của zalo mà không cần máy tính thì làm sao à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.934532,
+         "id": "1152885",
+         "field_search": "question",
+         "question": "Em muốn hỏi là máy em dùng icloud, em tắt đồng bộ ảnh icloud, sau đó xóa ảnh trên iphone thì khi bật đồng bộ ảnh icloud lên hoặc back up lại thì hình đã đồng bộ trước đó nhưng bị xóa ở iphone thì trên icloud còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.91146,
+         "id": "959956",
+         "field_search": "question",
+         "question": "Mình dùng camera 360 nhưng khi chụp xong thì mình quên ấn nút lưu ảnh.Cho mình hỏi là ảnh còn tồn tại trong máy Ko. Nhưng tấm ảnh rất quan trọng đối với mình vì lần đầu dùng 360 nên mình nghĩ ảnh sẽ tự lưu chứ K nghĩ chụp tấm nào là phải save tấm đó. Mình dùng iPhone 7+ liệu có cách nào tìm lại ảnh Ko. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.88366,
+         "id": "1146487",
+         "field_search": "question",
+         "question": "Mình đăng xuất IC cũ đăng nhập vào IC mới. Sau này nếu mình đăng nhập lại vào IC cũ thì tất cả dữ liệu, hình ảnh, v.v... còn nguyên vẹn không và ngược lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.78859,
+         "id": "873635",
+         "field_search": "question",
+         "question": "Hi TGDĐ,Mình có cài itunes trên máy tính và sau đó copy nhạc vào điện thoại. Mọi quá trình đều diễn ra thành công. Tuy nhiên, khi mình mở iphone và truy cập vào Nhạc thì bị xuất hiện hình ảnh này. Mọi thao tác tại đây đều không hoạt động. Không biết có vấn đề gì xảy ra? TGDĐ trả lời giúp mình với. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.720284,
+         "id": "1139693",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng ip xsmax, khi xem ảnh trên fb ấn vào hình ảnh đều bị mờ, thoát ảnh đó ra vào xem lại thì mới nét. Mong add hướng dẫn cách khắc phục ạ. Thanks add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.69213,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.666607,
+         "id": "1155582",
+         "field_search": "question",
+         "question": "Các chuyên gia cho hỏi mình bị lỗi bộ sưu tập.cứ thỉnh thoảng các hình ảnh hay video trong bộ sưu tập của mình lại tự động nhân đôi hình ảnh hay video đó lên.mình vào xóa hết ảnh nhân đôi nhưng 1 thời gian sau lại bị.những ảnh mình chụp thì dung lượng 6 7 MB nhưng những ảnh nhân đôi chỉ mấy trăm kb thôi.những vi deo mình quay thỉnh thoảng cũng bị nhân đôi lên.mở thì ko dc.tgdd cho mình hỏi máy mình bị lỗi gì.cách khắc phục ntn.mình dùng samsung note4 chính hãng nhé.thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.58059,
+         "id": "1155604",
+         "field_search": "question",
+         "question": "Ad Cho em hỏi tại sao khi dùng zalo lúc call video ẩn ra ngoài lại không thấy hình ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.491924,
+         "id": "1167063",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để chọn mặc định một bàn phím cho iPhone nhỉ, mình có tải Google Keyboard mà mỗi khi nhập tin nhắn xong thoát ra sau đó vào lại thì trở lại bàn phím iPhone như cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.418835,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.416664,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.389908,
+         "id": "907836",
+         "field_search": "question",
+         "question": "Chào ad! Em muốn hỏi khi dùng iphone và có tài khoản icloud. Nếu xóa ảnh trên iphone thì tại tài khoản icloud có còn ảnh đó nữa hay không? Thank ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.387173,
+         "id": "1156349",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao iPhone 6 của em khi khôi phục lại dữ liệu thì k khôi phục được ảnh ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.38033,
+         "id": "996319",
+         "field_search": "question",
+         "question": "Laptop của em khi gọi video thì nó ko có hình ảnh... nhấn vào biểu tượng video thì nó hiện lên không tìm thấy máy ảnh của bạn.. kết nối với máy ảnh của bạn.. là sao vậy ạ mà e dùng những cái khác như chụp ảnh thì vẫn sử dụng webcam bình thường còn gọi video trên facebook thì ko dùng đc.. mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35266,
+         "id": "1015406",
+         "field_search": "question",
+         "question": "Tại sao một số điện thoại cũ hỗ trợ giá sốc còn lại thì không ạ? Em cần tư vấn mua iphone 7 cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.328312,
+         "id": "851557",
+         "field_search": "question",
+         "question": " Tại sao iPhone 5s mình mới mua chụp ảnh bằng camera 360 rất sáng, xài khoản 2 tuần thì chụp k rõ nét và mờ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.28773,
+         "id": "1158659",
+         "field_search": "question",
+         "question": "cho em hỏi, em xài XS Max, em có mấy hình ảnh gửi trên zalo, bấm vào nút : ( 3 chấm lưu lại ) thì báo toàn bộ ảnh và video đã được lưu,  nhưng vào album ảnh trên iphone lại ko có, nhưng lưu từng tấm thì lại có! em thử xoá app và khởi động iph nhưng vẫn ko thay đổi ! cám ơn Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.198162,
+         "id": "757095",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để kết nối iPhone 5S với máy tính. mình đã cài iTunes nhưng khi kết  nối thì trên PC không hiện link để copy ảnh từ iPhone sang máy tính được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.15588,
+         "id": "754616",
+         "field_search": "question",
+         "question": "Laptop của mình cấu hình như trong ảnh đính kèm. Khi mua máy thì tại cửa hàng cho minhf mua win 7 home basic bản quyền. Nhưng khi mình nâng cấp lên win 10 thì cứ chạy ì ạch. Mong được sự tư vấn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.14556,
+         "id": "1022657",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút!Mình đang dùng máy J2 PrimeLúc mình ngắt kết nối thẻ SD xong mới tháo thì đến lúc lắp vào nó chỉ hiện các file lưu trên thẻ!Còn mục máy ảnh ko thấy đâu. Mục đó (ở thẻ nhớ) là mỗi khi chụp thì nó lưu vào luôn!Giờ cái hình nền của mình vẫn là 1 ảnh trong mục đó!!Bây giờ mình tìm mãi không thấy!!Giúp mình với !Tại có nhiều ảnh quan trọng lắm!!Huhuhu...!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.093506,
+         "id": "1021564",
+         "field_search": "question",
+         "question": "Mình đag dùng máy htc one me(máy mới).khi mình lấy nét để chụp ảnh thì thấy rất nét.nhưng khi chụp thì ảnh ko được nét như trước. Và khi nhấn chụp thì đợi khoảng 2smới chụp. Mặc dù tỳ vào bàn để chụp mà ảnh vẫn ko dc nét như khi lấy nét. Và máy rất nóng khi chụp ảnh. Xin mod giải thích giùm mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.044632,
+         "id": "854989",
+         "field_search": "question",
+         "question": "Messenger trên iphone 4 của mình gần 1 tháng nay thì người khác gửi ảnh cho mình không xem được. Muốn xem phải lưu ảnh vào máy rồi mở ra xem nhưng chỉ có ảnh gửi rời mới lưu và xem đc. Mng giúp mình fix lỗi này với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.001762,
+         "id": "776417",
+         "field_search": "question",
+         "question": "Cho mình hỏi về icloud. Lúc trước khi mua ip4 mình mượn ID icloud của người bạn sau đó mới tạo ID cho mình dùng sau. Hiện nay mình đổi sang ip5, và muốn khôi phục dữ liệu từ dt cũ qua đt mới bằng icloud, nhưng tại sao trong quá trình reset lại máy ip5 thì máy yêu cầu nhập id và pass của người bạn mình vậy ạh ???? Mình đã nhập chính xác, nhưng ko biết việc đó có ảnh hưởng gì dữ liệu của máy mình sang máy bạn mình ko ??? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.957907,
+         "id": "1158881",
+         "field_search": "question",
+         "question": "Mình mới mua Nokia 3310, nhưng khi để điện thoại rảnh thì máy lại tắt nguồn. Cho mình hỏi tại sao ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.897503,
+         "id": "1142673",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình tích hết vào các ô rồi xóa hết các mục đó có đc k vậy. có ảnh hưởng gì k vậy. dell inspiron 3567 windowns 10 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.891356,
+         "id": "918678",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s, gần đây mỗi lần vào thư viện nhấp vào xem ảnh, video thì nó lại hiện lên dấu \"!\" phía dưới góc phải? Cho em hỏi là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

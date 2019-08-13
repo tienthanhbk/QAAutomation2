@@ -1,0 +1,801 @@
+{
+   "id_query": "787526",
+   "total": 33431,
+   "total_current": 100,
+   "max_score": 54.41389,
+   "origin_question": " Cho mình hỏi. Mình vừa mua Lap Dell được 5 ngày, giờ muốn đổi máy qua acer có được không ạ ? ",
+   "hits": [
+      {
+         "score": 31.24748,
+         "id": "792633",
+         "field_search": "question",
+         "question": " Dạ cho em hỏi em mới mua laptop Asus khoảng 2 ngày mà bây giờ em muốn đổi qua lap Dell vậy được ko ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.154673,
+         "id": "1165893",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 điện thoại ngày hôm qua...cho hỏi mình muốn đổi sản phẩm khác cùng mức giá được không ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.672344,
+         "id": "1012340",
+         "field_search": "question",
+         "question": "Mình mua máy hôm qua giờ mình muốn đổi máy khác có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.723951,
+         "id": "995494",
+         "field_search": "question",
+         "question": "QTV ơi cho mình hỏi mình mới mua máy dc 5 ngày có thể đổi.. Máy được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.499094,
+         "id": "1024238",
+         "field_search": "question",
+         "question": "alo bạn cho mình hỏi .mình vừa mua cái nokia 5 được 2 ngày mình mua trả góp . bây giờ mình cảm thấy ko vừa ý mình muốn đổi sang cái sony xperia xa1 urtra . thì sẽ bị mất bao nhiêu phần trăm vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.928404,
+         "id": "1163382",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss A7 được hơn 10 ngày. Bây giờ em muốn đổi qua A50 thì có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.294804,
+         "id": "1019515",
+         "field_search": "question",
+         "question": "mình đang dùng j7 prime nhưng giờ mình muốn đổi qua máy khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.199335,
+         "id": "997867",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình mua S7 được 3 ngày, không may máy bị ẩm có đổi được không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.158571,
+         "id": "1011589",
+         "field_search": "question",
+         "question": "Chào bạn. Bạn cho mình hỏi chút mình mới mua máy Sony L1 từ ngày 8/8/2017.nhưng giờ mình muốn đổi sang máy Samsung J2 thì đổi được không nhỉ bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.136799,
+         "id": "1157035",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt mình Oppo f9 mua ở tgdđ ngày 112 giờ mình muốn đổi qua đt samsung a50 thì bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.128727,
+         "id": "1019517",
+         "field_search": "question",
+         "question": "Xin cho hỏi mình mua máy Acer Iconia B1-733 gần được 1 thàng ở TGDĐ nhưng mình muốn đổi máy Sam sung Galaxy A6 7.0\" được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.099726,
+         "id": "1136022",
+         "field_search": "question",
+         "question": "mình vừa mua xiaomi redmi note 6 pro nhưng mình muốn đổi lại sang xiaomi redmi note 5 thì có được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.055344,
+         "id": "1150593",
+         "field_search": "question",
+         "question": "Mình vừa mới mua Xiaomi Mi 8 được vài ngày, bây giờ mình muốn đổi sang iphone 7 plus thì có được không và hình thức như thế nào, nếu được thì có mất phí đổi không và phí đó là bao nhiêu, mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6097,
+         "id": "1165484",
+         "field_search": "question",
+         "question": "Mình có mua iPhone xr qua sử dụng qua trả góp fecredit, giờ muốn huỷ hợp đồng có đc ko ạ, vừa mới mua khoan 2 ngày gần đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.593222,
+         "id": "1013328",
+         "field_search": "question",
+         "question": "Cho em hỏi. em  vừa mua sản phẩm J7 Pro dưới dạng trả góp. , nhưng giờ em muốn đổi qua sản phẩm a5 2017 thì có được không ạ. máy mua 1 tuần còn trong chương trình 1 đổi 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.525251,
+         "id": "1006982",
+         "field_search": "question",
+         "question": "cho e hỏi e mua laptop o tgdd ngày 15/5, giờ thấy ko phù hợp e muốn đổi laptop khác được không. nếu được giá trị của máy còn bao nhiu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.487152,
+         "id": "776809",
+         "field_search": "question",
+         "question": " Ad mình có con iPhone 5 mua được gần một năm rồi, giờ mình muốn mang đến đổi liệu có được không AD? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.453175,
+         "id": "1142586",
+         "field_search": "question",
+         "question": "Cho e hỏi ,e mới mua máy a9 2018 được 5 ngày,nhưng do màn hình quá nhạy,hiện giờ muốn đổi máy a9 khác hoặc đổi sang dòng máy khác có mất phí gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.431892,
+         "id": "1001548",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua máy đổi trả bên mình được 3 ngày bây giờ em muốn đổi lại máy để mua máy mới thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.413507,
+         "id": "1157275",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua máy SS galaxy A9 e muốn đổi qua ss galaxy A50 được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.297382,
+         "id": "1148132",
+         "field_search": "question",
+         "question": "Em vừa mua 1 đt samsung hôm qua nhưng giờ em muốn đổi sang iphone 6s plus được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.294569,
+         "id": "1163783",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi là mình vừa mới mua một con redmi note 6 pro hàng cũ ở chi nhánh 8d nguyễn thị minh khai. Bây giờ mình muốn đổi qua redmi note 7 không biết có được không ạ và hình thức như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.283697,
+         "id": "757512",
+         "field_search": "question",
+         "question": " Mình mua máy iPhone 4s ngày 22082015 , giờ mình muốn đổi trả thì máy mình còn được bao nhiêu tiền vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.082396,
+         "id": "1144082",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy tính dell minh mua khoảng 3,5 tháng nhưng đã bảo hành 3 lần nay mình muốn đổi trả máy thì  có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.076145,
+         "id": "1162639",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua góp con samsung a50 mới được 3 ngày màu xanh giờ muốn đổi sang màu đen thì được không ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.014273,
+         "id": "1023149",
+         "field_search": "question",
+         "question": "mình vừa mua nokia5 trả góp cách đây vài tuần.... giờ mình muốn đổi trả mua góp cái khác được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.877312,
+         "id": "1015091",
+         "field_search": "question",
+         "question": "mình mua s8 plus hôm 58, giờ máy bị lỗi, mình mua chưa đến 30 ngày thì có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.814365,
+         "id": "1160030",
+         "field_search": "question",
+         "question": "Mình vừa mua góp Mi 8 vào tuần trước nhưng ko thích lắm, muốn đổi qua sản phẩm khác được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.77691,
+         "id": "1010964",
+         "field_search": "question",
+         "question": "em mới mua ốp lưng iphone 5 được 3 ngày chưa xài, bạn em không thích giờ em muốn đổi lại để mua món khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.486336,
+         "id": "782823",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 iPhone 4s máy đổi trả vào ngày 2/2 trong khi sử dụng máy có hiện tượng giật và hơi lag bây giờ mình muốn đổi sang máy khác hoặc trả lại thì có mất phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.355204,
+         "id": "999412",
+         "field_search": "question",
+         "question": " Em vừa mua máy J7 Prime trả góp ngày 37 bây giờ em lên đổi lấy iPhone 5s được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.28854,
+         "id": "991394",
+         "field_search": "question",
+         "question": "Cho hỏi e vừa mua cái oppo f3 vàng đồng giờ muốn đổi bản màu đen thì có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.279675,
+         "id": "1141850",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình nua máy trả góp nhưng giờ mình muốn đổi trả để mua máy khác thì có được áp dụng như mua trả thẳng không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.187334,
+         "id": "761964",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 (máy đổi trả) thư mục cuộc gọi không sử dụng được. Bây giờ mình muốn đổi máy khác được không, còn trong thời gian 30 ngày lỗi sản phẩm: mong được hồi âm sớm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14486,
+         "id": "1156185",
+         "field_search": "question",
+         "question": "Mình mới mua Samsung M20 được 04 ngày nay muốn đổi sang máy khác được không?. Mua trả góp 0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.131407,
+         "id": "996573",
+         "field_search": "question",
+         "question": " Mình mua c9 pro đổi trả. Giờ mình muốn đổi máy khác được kh?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.050856,
+         "id": "793092",
+         "field_search": "question",
+         "question": "E mới đựợc cho em iPhone 6.16gb (mua ở tg cách đây 5 ngày ).giờ e muốn đổi qua iPhone 6s 64gb thì điều kiện đổi như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96517,
+         "id": "781608",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 5S ở TGDĐ được 3 ngày nhưng loa máy khi phát được hai phần ba âm lượng có rè rè. Vậy có sao không và có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.83894,
+         "id": "1163294",
+         "field_search": "question",
+         "question": "Mình mới mua samsung a7 ngày hôm qua nay màn hình bọ vỡ rồi.vậy đổi máy được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.795645,
+         "id": "1144305",
+         "field_search": "question",
+         "question": "Làm ơn cho mình hỏi vơi. Cách đây gần 1 tuần mình có mua cái dt oppo a7 của thegioididong với giá 5990. Giờ mình muốn đổi qua máy samsung A 6 plus cũng bằng giá tiền có được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.783516,
+         "id": "992792",
+         "field_search": "question",
+         "question": "Thế giới di động cho mình hỏi: mình vừa mua chiêc Noki 222 đã qua sử dụng. Tuy nhiên về sử dụng lại không ổn lắm nên mình muổn đổi trả được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.762945,
+         "id": "1139850",
+         "field_search": "question",
+         "question": "Mình vừa mua máy xong nhưng do chồng mua nên ko đúng ý mình. Giờ mình muốn đổi lại máy khác thì có được hưởng những khuyến mãi mua online giá rẻ hiện tại không. Và phải bù bao nhiêu % giá trị máy. Ví dụ mình mua ss j4+ giá 3490k mình muốn đổi ss j6 giá khuyến mãi online 3290k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.735153,
+         "id": "1145029",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình đang xài s8 phiên bản mỹ bây giờ mình muốn đổi qua main phiên bản việt mình xài được 2 sim k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.723572,
+         "id": "1162069",
+         "field_search": "question",
+         "question": "Máy mình mới mua con itel s13 pro tối qua cho mình hỏi nếu không thích dùng nữa mình có thể đổi được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.704824,
+         "id": "743562",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng iPhone 5. Vừa qua mình lên bản iOS 9.1 giờ mình muốn xuống bản 9.0.2. Không biết bên bạn có hỗ trợ điều này không ạ ???Mong nhận được sự hồi đáp rõ ràng từ các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.692938,
+         "id": "1134102",
+         "field_search": "question",
+         "question": "Mình mới mua máy Samsung A7 2018 được 3 ngày. Giờ mở ca nhạc loa bị rè khi nốt nhạc lên cao. Hỏi mình có thể đổi máy khác được không. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.676516,
+         "id": "1004925",
+         "field_search": "question",
+         "question": "Cho mình hỏi. mình có mua cái điện thoại F3 màu đen mà giờ mình muốn đổi lấy mầu vàng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.652157,
+         "id": "1156359",
+         "field_search": "question",
+         "question": "Mình vừa mua samsung A7 dc 17 ngày giiwf muốn đổi con A50 thì ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.648985,
+         "id": "791491",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có chiếc Laptop Dell Vostro 3460 màn hình bị mành mành ở phía trên. Bây giờ mình muốn mang máy qua thegioiđiong thay được không vậy & giá thay màn hình là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.639603,
+         "id": "1007348",
+         "field_search": "question",
+         "question": "mình vừa mua trả góp ngày 27/7 điện thoại NOKIA 3 trị giá 3triệu đồng mình trả góp được 1,5triệu bây giờ mình muốn trả máy lại thì mất bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.621397,
+         "id": "1000138",
+         "field_search": "question",
+         "question": "hôm qua mình vừa mua 1 tai nghe nhét trong bên mình, hôm nay mình muốn đổi sang loại tai nghe chụp với sản phẩm bằng tiền hoặc đắt hơn có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.58191,
+         "id": "1014580",
+         "field_search": "question",
+         "question": "alo mình mua điện thoại oppo F3 được 20 ngày rồi giờ mình muốn đổi màu đỏ? thì sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.575533,
+         "id": "1140057",
+         "field_search": "question",
+         "question": "em mua trả góp máy huawei nova 3i được 13 ngày rồi giờ muốn đổi sang máy huawei nova 3 có dược không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.539885,
+         "id": "1134860",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là. Mình mới mua dt a7 tại tgdd được 3 ngày, giờ tính đổi sang oppo f9 được ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.518328,
+         "id": "1023168",
+         "field_search": "question",
+         "question": "Dạ . Anh chị cho em hỏi 1 vấn đề ạE mua điện thoại ở TGDD nhưng bây giờ muốn đổi cái cùng loại màu khác . Samsung j7 pro màu xám đổi qua màu đen . Em mua được 12 ngày rồi .liệu có đổi được không . Hay mình phải bù 20% tiền . Anh chị tư vấn giùm em ạ .em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.515755,
+         "id": "1153820",
+         "field_search": "question",
+         "question": "Mình muốn hỏi mình mới mua iPhone xs max 256g mới mua được 3 ngày giờ mình muốn đổi lại iPhone 7plus thì bên shop có hỗ trợ k.và giá chênh lệch thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.481285,
+         "id": "988725",
+         "field_search": "question",
+         "question": "máy tính mình mới mua được 5 tháng ở TGDĐ hôm qua đi chạy lại máy giờ nó còn đơ hơn trước di chuột còn không chạy. cho mình hỏi giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.480392,
+         "id": "1156103",
+         "field_search": "question",
+         "question": "Tôi vừa mua máy samsung M20.mấy ngày hôm nay máy của tôi cảm ứng không nhạy. Tôi vừa mua trả góp chưa được 1tháng. Vậy tôi có đổi máy khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.45233,
+         "id": "1017895",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về việc đổi trả máy tính bảng. Mình mua máy tính bảng được 3 tháng rồi bây giờ  muốn đổi cái khác được 0. Nếu được cách thức đổi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.4187,
+         "id": "1160481",
+         "field_search": "question",
+         "question": "Tháng 5 năm ngoái, mình có mua 1 cái laptop Acer Nitro 5 ở Thế Giới Di Động. Mình muốn bán lại thì có được không ạ? Bàn phím bị hư một phím c.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41532,
+         "id": "781842",
+         "field_search": "question",
+         "question": "Cho hỏi mình vừa mua laptop Laptop Dell Inspiron 3543 i3 được 2 ngày , mà sao bật camera lên nó lại hiển thị như thế này , mình có thể đem ra các cua hang thegioididong gần nơi mình ở xem dùm mình được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.383928,
+         "id": "993452",
+         "field_search": "question",
+         "question": "Đổi lại  máy??? Em vừa mua máy oppo a37(neo9) nhưng em cãm thấy không ưng ý. Em muốn đổi lại máy mới có được không ạ. Nếu được mình sẻ phải làm thủ tục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.358334,
+         "id": "1156202",
+         "field_search": "question",
+         "question": "Điện thoại là Nokia 5, mua từ 1 năm trước không phải ở TGDD, giờ em muốn đổi cũ lấy mới qua Nokia 5.1 có được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.303572,
+         "id": "1006591",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi chút... Mình vừa mua máy redmi 4x này đc 5hôm giờ dùng máy nóng quá muốn đổi sang iphone 5s cũ có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.298918,
+         "id": "1153823",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đăng kí mua Ip X màu bạc đã thanh toán qua ATM nhưng mình muốn đổi sang mau đen thì có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.231398,
+         "id": "1160098",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua dt sam sung a50 tối qua giờ e muốn đổi qua đt a7 128g được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.228441,
+         "id": "1006769",
+         "field_search": "question",
+         "question": "Em vừa mua dt mobiistar prime x1Hôm qua bây giờ e muốn đổi lại oppo a37 thì có bị trừ tiền không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.152067,
+         "id": "1013681",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi nếu máy mình mua ở tgdd đã qua sử dụng nhưng đang trong thời gian bảo hành có được đổi trả không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.145327,
+         "id": "1158342",
+         "field_search": "question",
+         "question": "em có mua máy Acer A515 bên mình ngày 28/2 giờ không còn nhu cầu sử dụng nữa và muốn trả lại hàng thì có thể nhận lại bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.079672,
+         "id": "1008005",
+         "field_search": "question",
+         "question": "Em mới mua lap top  LAPTOP ACER ASPIRE F5573G55Pj đầu tháng 2 tại tgdđ gIờ em muốn bán lại thì được bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.028261,
+         "id": "1019639",
+         "field_search": "question",
+         "question": "mính có mua 1 máy samsung S8+ nhưng về xài ko thích lắm và muốn đổi qua ip nhưng mình lại mua trả góp. vậy cho mình hỏi nếu thế thì có thể đổi máy khác được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.009125,
+         "id": "1017283",
+         "field_search": "question",
+         "question": "Toi mới mua iphone 6s plus tại TGDD máy cũ, giờ tôi muốn đổi qua s8 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.960442,
+         "id": "938845",
+         "field_search": "question",
+         "question": " Mình muốn hỏi mua trả góp lap top dell 3568 core i7, có gói nào lãi suất 0 đồng không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.75659,
+         "id": "992899",
+         "field_search": "question",
+         "question": "Ad ơi ...em mới mua máy mobiistar zumbo s2 ngày hôm qua 14_06_2017 và bây giờ Em có thể đổi sang máy oppo F3 được không ạ...Hiếu được thì cần phụ thêm bao nhiêu Tiền ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.75261,
+         "id": "1011375",
+         "field_search": "question",
+         "question": "Mình có mua dt samsung j2 prime vào ngày 5.1.2017... bây giờ muốn đổi dt khác... bên mình thu lại bao nhiêu ạ.. máy không bị trầy xước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.725607,
+         "id": "1154360",
+         "field_search": "question",
+         "question": "Mình mới mua đth S10, giờ mình muốn đổi sang S10 được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.657946,
+         "id": "787655",
+         "field_search": "question",
+         "question": " cho mình hỏi giờ mình muốn bán iPad mini 1 dung được 5 tháng thì được bao nhiêu vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.61916,
+         "id": "996760",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua tai nghe 2 ngày trước, mình muốn trả lại hàng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.606222,
+         "id": "1142334",
+         "field_search": "question",
+         "question": "chào AD , cho mình hỏi chút về sản phẩm lapt acer E5 476 , mình vừa mua ngày 1/1/2019, qua 2 ngày sử dụng mình thấy một điệm khá bất thường , khi sử dụng sản phẩm, để ý nghe kỹ sẽ nghe được một hiện tượng bên trong máy có tiếng rè rẹt rẹt bên trong (ko phải quạt tản nhiệt) mà ở bộ phận khác. Cho hỏi đây là lỗi gì ở máy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.584206,
+         "id": "1023318",
+         "field_search": "question",
+         "question": "mình hỏi chút, mình mới mua đt ở TGDĐ chưa được một tháng sony XA1, mua trả góp. Giờ mình muốn đổi sang đt khác Sony XA1 plus hơn thì có được không, máy XA1 Plus bao giờ có vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.546583,
+         "id": "792941",
+         "field_search": "question",
+         "question": " Cho hỏi mình mua sản phẩm iphone được 3 tháng giờ muốn đổi sản phẩm cùng loại màu khác được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.540771,
+         "id": "1134910",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi Laptop của mình đã mua tại TGDĐ được khoảng 5 năm, giờ mình muốn cài lại win bản quyền của máy thì có mất phí không vậy? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52059,
+         "id": "1014608",
+         "field_search": "question",
+         "question": "Mình có mua C9 pro qua sử dụng ngày 2007 giờ muốn bán lại để đổi S8 plus thì TGDD có thu lại khôngChính sách thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.516842,
+         "id": "1158269",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy mobell s60 vào ngày 173 vừa rồi bây h mình muốn đổi sang realme c1 thì cần phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.491016,
+         "id": "743888",
+         "field_search": "question",
+         "question": "Mình vừa mua pantech 910s ở TGDĐ vài tháng còn thời gian bảo hành, bây giờ mình muốn đổi điện thoại để lấy laptop core i3 được không QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.48075,
+         "id": "1021590",
+         "field_search": "question",
+         "question": "Mình vừa mua samsung galaxy j7 pro tại TGDD được 2 tuần. Giờ mình muốn mang ra TGDD bán lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.47777,
+         "id": "1020732",
+         "field_search": "question",
+         "question": "chào bạn. mình vừa mua máy tính bảng hiệu mobell tab 8 pro được 8 ngày. máy hay bị thoát ra khỏi ứng dụng khi mình đang xài. hôm nay thì tắt nguồn luôn mở không lên nữa. cho mình hỏi mình có thể đổi máy khác không? và ở tại tgdd nào cũng được hả bạn????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.454784,
+         "id": "991107",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy Acer B1 723 khoảng 7 tháng rồi mà mình mún đổi lấy máy khác và có thể đổi .mua máy cũ đc ko Imei",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.389147,
+         "id": "1004189",
+         "field_search": "question",
+         "question": "cho mình hỏi bên thế giới di động  có mua lại máy cũ không ạ mình mới mua cái máy sony x được 3 tháng giờ muốn lên đời máy không biết bên di động có mua lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.32294,
+         "id": "790281",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có mua 1 laptop acer tại thế giới di động giờ đã qua bảo hành, nhưng nó bị hư. cho em hỏi có gửi sữa chữa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.32229,
+         "id": "1007136",
+         "field_search": "question",
+         "question": "Mình muốn hỏi mình mới mua điện thoại htc evo 10 nhưng dùng không như mong muốn, mình có thể đổi điện thoại khác được không ? Và có bị trừ phí không. Điện thoại mình mua chưa được 24 giờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.297846,
+         "id": "912966",
+         "field_search": "question",
+         "question": " Em vừa mới mua lap xách tay Dell latitude e6330, chho em hỏi máy ni có card rời không ạ.Em cảm ơn rất nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.287756,
+         "id": "1017688",
+         "field_search": "question",
+         "question": "Điện thoại mình mới mua ngày 11/8, mà giờ điện thoại lúc nghe được ko nghe được, phải tắt nguồn điện thoại mới nghe được bình thường. Giờ mình đem máy qa có được đổi máy mới ko. Iphone 6s+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.279081,
+         "id": "1138769",
+         "field_search": "question",
+         "question": " Dạ cho mình hỏi, mua máy cũ thì có trả góp qua thẻ được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.2571,
+         "id": "1138451",
+         "field_search": "question",
+         "question": "lap của e hãng acer mà bị hư loa máy rồi có sửa được không ạ ?..sửa khoảng bn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.249176,
+         "id": "820473",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Điện thoại Asus của mình vừa mua khoảng 3 tháng bây gìơ mình muốn đổi sang điện thoại iphone 5 mình cần trả bao nhiêu nữa vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.18727,
+         "id": "1020738",
+         "field_search": "question",
+         "question": "em mới mua con DELL inspiron 14 được một tháng , không hư hao nay muốn đổi máy khác tại cửa hàng có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.186598,
+         "id": "835766",
+         "field_search": "question",
+         "question": " Cho em hỏi lap mình có camera mà sử dụng không được giờ phải làm sao để sử dụng ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.171682,
+         "id": "1149744",
+         "field_search": "question",
+         "question": "Cho mình hỏi,mình mới mua samsung a9 chiều hôm nay,giờ mình muốn đổi trả lại sang máy xaomi mi8 có được ko,chi phí như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

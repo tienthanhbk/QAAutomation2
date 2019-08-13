@@ -1,0 +1,801 @@
+{
+   "id_query": "822688",
+   "total": 30835,
+   "total_current": 100,
+   "max_score": 150.27544,
+   "origin_question": "Tôi dùng iPhone 4 cũ, tôi đã lập được id app mới và đăng nhập tải được ứng dụng rồi. Nhưng khi tôi đăng nhập vào icloud bằng id app đó thì máy báo là đã hết tài khoản icloud miễn phí.Vậy tôi khắc phục thế nào đây addthank add nhiều",
+   "hits": [
+      {
+         "score": 64.00893,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.723377,
+         "id": "902203",
+         "field_search": "question",
+         "question": "Ip của tôi ko thể tải ứng dụng trên app store về do ko thể đăng nhập vào tài khoản appstore đc.qua tìm hiểu tôi đã thử thay đổi thời gian cho khớp với thời điểm thực tế nhưng vẫn không đăng nhập được.trước đó tôi đã đăng ký xong tài khoản appstore and itunes rồi. Mong thegioididong giúp tôi sử lý lỗi trên. Tôi xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.25053,
+         "id": "1154242",
+         "field_search": "question",
+         "question": "Em vừa được cho một chiếc ipx và đã thoát icloud sạch sẽ. Nhưng khi em tạo 1 icloud mới thì máy thông báo là đã hết số lần đăng ký miễn phí, sau đó em có lên trên web tạo một tài khoản icloud mới và đã kích hoạt thành công nhưng khi em đang nhập icloud vào máy thì máy vẫn báo đã hết số lần tạo tài khoản miễn phí. Bây giờ có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.36479,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.359467,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.008705,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.067474,
+         "id": "783336",
+         "field_search": "question",
+         "question": "Muốn mở khoá icloud cần phải làm gì?Tôi mới bị mất một chiếc điện thoại iphone có cài đặt icloud nhưng trong khoảng 1h icloud trên máy đã bị phá cho hỏi bằng cách nào mà người kia có thể phá icloud nhanh như vậy ??? Lúc phát hiện bị mất tôi có vào máy tính báo mất trên ứng dụng icloud và đã cho khoá iphone nhưng ngay thời gian 15 phút tôi đăng nhập lại icloud mà không được vì tài khoản đã bị xoá?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.9287,
+         "id": "744406",
+         "field_search": "question",
+         "question": "Minh dang xài 5s không hiểu sao cập nhật úng dụng trong App store lại kêu đăng nhập tài khoản (không phải tk mình thiết lập) có cách nào khắc phục để đăng nhập và cập nhật ứng dụng đúng như ID trong App store mình đã thiết lập ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.178528,
+         "id": "763455",
+         "field_search": "question",
+         "question": " Tại sao tôi không đăng nhập được tài khoản ID Apple của máy iPhone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.815067,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.213795,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.176285,
+         "id": "1021957",
+         "field_search": "question",
+         "question": "Chào ad. Tôi không rành về ip lắm và sợ mất ip.nên đây tôi xin nhờ ad giúp là mới mua 1 ip5 từ một anh chàng ở gia lai. Anh nói đã tắt icloud rồi. Nhưng giờ tôi vào tải thêm app thì nó hiện ra id. tôi bấm vào cài đặt thì nó hiện như trong hình. Vậy cho tôi hỏi là tôi có thể tạo 1 tài khoản khác cho tôi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.97034,
+         "id": "991634",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đã đăng nhập tài khoản ID Apple mới rồi khi cập nhật ứng dụng lại còn tài khoản cũ á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.2286,
+         "id": "758734",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi bị mất iPhone 5 nhưng trước khi bị mất đã đăng xuất tài khoản iCloud ra rồi thì có cách nào tìm được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.193745,
+         "id": "1010992",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng android đăng nhập game bằng bằng tài khoảng google nhưng bây giờ tôi chuyển qua ios giờ tôi phải đăng nhập vào game bằng tài khoảng google như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.839497,
+         "id": "892733",
+         "field_search": "question",
+         "question": " tôi không đăng nhập vào tài khoảng instagram của minh được và tôi đã quên mật khẩu email thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.78579,
+         "id": "1136824",
+         "field_search": "question",
+         "question": "Thegioididong cho tôi hỏi: Face của tôi đăng ký bằng sdt và đã bị hack. Tôi lấy sđt đó đăng ký 1 tài khoản facebook mới. Giờ tôi xóa tài khoản facebook mới thì có lấy lại được nick facebook cũ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.50198,
+         "id": "1156976",
+         "field_search": "question",
+         "question": "E không đăng nhập được vào app fb của IP X, đã xóa đi tài lại ứng dụng vẫn không được. Facebook báo \" lỗi đăng nhập, đã xảy ra lỗi không mong muốn. Vui lòng đăng nhập lại sau\". Em đăng nhập nik vào máy khác thì vẫn được. Mong add chỉ e cách khắc phục ak, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.9858,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.216705,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.04117,
+         "id": "1149702",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy iphone của e đã xoá ID aple này vi quen mk và thay thế ID khác nhưng khi vào app để tải ứng dụng thì lại bắt nhập ID cũ . lm cách nào để khắc phục vậy ạ. mong ad trả lời cho e sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.632072,
+         "id": "931738",
+         "field_search": "question",
+         "question": "em dùng id cũ để nhập vào máy mới... nhưng chỉ vào đc icloud thôi ạ... còn vào itunes thì nó báo là \" ko thể xác minh, đã có lỗi khi kết nói với máy chủ id apple\".. vậy là sao ạ?.. giờ e ko vào app store để tải ứng dụng đc ạ... giúp e với..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.424664,
+         "id": "871922",
+         "field_search": "question",
+         "question": "tại sao không đăng nhập vào icloud được bằng tài khoản @icloud.com (nhưng đăng nhập bằng tài khoản @gmail.com lại được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.375107,
+         "id": "800022",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. lúc mình mua máy về có sử dụng tài khoản icloud của đứa bạn. sau đó mình đã sử dụng tài khoản icloud của mình. mình kiểm tra các thứ vẫn là tài khoản của mình nhưng khi mình cập nhật ứng dụng trong app store thì có phần itunes store bắt nhập mật khẩu cho id appel và khi đó nó hiện lên tài khoản của bạn mình.cho hỏi bây giwof mình phải làm thế nào để đăng xuất vĩnh viễn cái tài khoản của bạn mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.13717,
+         "id": "910991",
+         "field_search": "question",
+         "question": " Tôi đăng nhập vào zalo, nhưng không vào được và báo mã lỗi112? Cách khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.95904,
+         "id": "873506",
+         "field_search": "question",
+         "question": "tôi không vào được icloud do không nhớ mật khẩu, sau khi không nhớ tôi ấn mấy lần mật khẩu nhưng không đúng, máy báo tài khoản của tôi bị khóa. sau đó tôi vào máy tính đặt lại mật khẩu gmail và vào lại. nhung máy chỉ xác nhận là tên ID Apple đúng mà không vào được icloud, máy chủ bảo đang xác lập lại, có cách gi bảo tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.90267,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.849422,
+         "id": "782660",
+         "field_search": "question",
+         "question": "Tôi đang dùng một iPhone 5s chạy 8.4.1 nhưng gần đây máy báo yêu cầu nhập mật khẩu iCloud tôi đã nhập đúng nhưng máy báo sai mật khẩu tôi không hiểu tại sao nữa giúp tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.612724,
+         "id": "895159",
+         "field_search": "question",
+         "question": "Tôi, Hà Thạch Thủy Thương đã từng mua 1 ipad air tại TGDD ở Tam Kỳ, h tôi cài đặt lại cho ipad của mình có hỏi khóa kích hoạt (nhập ID Apple và mậ khẩu) nhưng tôi nhập theo ID của tôi lại thông báo \"Không thể sử dụng tài khoản này để mở khóa ipad. Cho tôi hỏi: khi tôi mua máy, nhân viên ở đây đã cài đặt tài khoản nào cho máy tôi. Mong trả lời sớm để tôi có thể tiếp tục làm việc. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.317852,
+         "id": "1161604",
+         "field_search": "question",
+         "question": "xin chào Add. Tôi dùng 1 số điện thoại đăng kí 2 ních Face (ních cũ bị hack), thời gian sau, ních cũ đổi mật khẩu vào lại được. Nhưng tôi vẫn sài ních mới. sau này tôi quên mật khẩu, thế là vào face để thực hiện lấy lại mật khẩu. Thì lại đăng nhập vào face cũ. face mới không vào được.  Vậy Add xem làm thế nào để vào được face mới ạ ? Messenger vẫn là face mới nhé. Còn đăng nhập Face lại là face cũ. Mong Mọi người giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.02679,
+         "id": "1116993",
+         "field_search": "question",
+         "question": "Tôi bị mất máy tôi đăng nhập icloud vào máy khác để xem định vị ở đâu lần đầu được lần sau báo icloud k tồn tại là sao ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.878952,
+         "id": "988228",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể vào được mục iCloud của tôi tôi mua máy cũ và có một tài khoản iCloud của người khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.837563,
+         "id": "888599",
+         "field_search": "question",
+         "question": "khi reset lại ip máy có hỏi dùng tài khoản icloud để đăng nhập nhưng tại sao dùng tài khoản iclcoud của máy thì lại bị thông báo là không được dùng để đăng nhập vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.786243,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.625637,
+         "id": "827316",
+         "field_search": "question",
+         "question": "Xin chào!Tôi đã dùng viber được một thời gian, nhưng hiện tại tôi đang sống ở nước ngoài. Tôi muốn hỏi làm thế nào để giữ được thông tin và số điện thoại đã đăng ký để đăng nhập cho lần cài đặt mới lần sau, vì đôi khi điện thoại của tôi bị trục trặc và tôi phải cài mới lại từ đầu, nhưng vì ở nước ngoài nên không thể dùng đăng ký theo số điện thoại cũ được. Xin hướng dẫn làm cách nào để tôi có thể lấy lại thông tin tài khoản la số điện thoại cũ để đăng nhập cho lần cài đặt mới? Xin giải đáp cho tôi theo email: hanhbanmai@yahoo.com. Xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.600193,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.518066,
+         "id": "733979",
+         "field_search": "question",
+         "question": "Tôi có tài khoản email xxx@icloud.com, trong quá trình đăng ký có email ID apple dự phòng, nhưng do quên pass mail icloud, khi lấy lại pass thông qua ID apple là: xxxnhcd@yahoo.com thì toàn chỉ thay đổi được ID app thôi vẫn không vào được xxx@icloud.com. Xin được giúp. TksNguyễn Văn Minh: xxxnhcd@yahoo.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.237312,
+         "id": "903283",
+         "field_search": "question",
+         "question": " Làm cách nào để biết iPhone đã đăng nhập bao nhiều tài khoản id apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.155502,
+         "id": "758671",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng iPhone 5 em đã đăng nhập tài khoản appstore mới rồi mà khi em tải ứng dụng về máy toàn yêu cầu nhập mật khẩu của tài khoản cũ là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.727512,
+         "id": "796638",
+         "field_search": "question",
+         "question": "Vì em mới mua lại điện thoại iPhone 4 nên em không biết gì đến tài khoản iCloud giờ em hỏi lại và người chủ cho em mật khẩu đăng nhập nhưng khi em đăng nhập để tải ứng dụng thì máy báo sai mật khẩu, giờ QTV cho em hỏi có cách nào để đăng ký lại tài khoản iCloud để sử dụng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.71958,
+         "id": "737472",
+         "field_search": "question",
+         "question": "iCloud có thể dùng cho 2 máy được không? Khi tôi đang nhập vào tai khoản iCloud khac  ma quên thoát iCloud cũ thì toàn bộ giữ liệu máy tôi bị chuyển sang máy đang đung iCloud cũ của tôi. Giúp tôi cách xoá giữ liệu của tôi ở máy kia nhe!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.594486,
+         "id": "844676",
+         "field_search": "question",
+         "question": "Tôi mới mua iPhone 5s tại thế giới di động huyện Long Thành Đồng nai ngày 18/6/2016, khi tải Graptaxi thì máy yêu cầu đăng nhập vào iTune store, nhập mât khẩu cho ID Apple\"longthanh.111@icloud.com'' nhưng tôi ko biết mật khẩu này thì làm sao để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.43633,
+         "id": "736743",
+         "field_search": "question",
+         "question": "Tôi mua lại iphone 6 cũ 9.1 tôi đã tạo đăng xuất id cũ và tạo 1 id mới.khi vào cài đặt icloud.contact on thì danh bạ của người dùng trước lại hiện lên. Vậy cho tôi hỏi làm thế nào để xóa hoàn toàn contact của người dùng trước?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.3488,
+         "id": "750742",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình khôi phuc lại iPhone khi máy bảo kích hoạt iPhone, mình đã nhâp đúng ID rồi mật khẩu sao máy báo là không được nhi? Mình đã dùng tài khoản đăng nhập vào https://appleid.apple.com/ thì vẫn được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.13578,
+         "id": "787043",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi đăng nhập Tango ở một cái máy khác cùng một số điện thoại đang nhập thì lại không nhận được dữ liệu tin nhắn hay danh bạ mà những người tôi đã kết bạn ở máy đang nhập củ, y như tôi là một người mới gia nhập Tango Bây giờ tôi phải làm cách nào để có những tin nhắn cũ và những người đã kết bạn cũ ở máy điện thoại đăng nhập mới này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.122437,
+         "id": "743934",
+         "field_search": "question",
+         "question": "Tôi bị treo táo iPhone 4 nhưng tôi đã quên tài khoản ID Apple. Khi chạy chương trình lại thì không mở được máy vì không nhớ tài khoản iCloud.Cho hỏi bây giờ tôi phải làm sao? Mong anh chị hướng dẫn giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.085712,
+         "id": "776276",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đăng xuất tài khoản icloud cũ rồi nhập tài khoản mới luôn khi mình cập nhật lại ứng dụng nó cứ kiu nhập mk cũ là s zị pn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.02852,
+         "id": "1024080",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ. e đã có tk id apple rồi, e muốn tải phần mềm xuống máy tính, chọn tải xong đăng nhập nick thì nó lại hiện lên là : id apple này chưa được sử dụng trong app store. vui lòng xem xét lại tài lại tài khoản. em ấn vào nút xem xét thì nó không hiện lên gì cả! làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.817394,
+         "id": "816258",
+         "field_search": "question",
+         "question": "Mình muốn cài đặt iD apple miễn phí để đăng ký iTunes và Appstore. Vì đăng ký tài khoản mới trên máy đòi thanh toán qua Visa, còn nếu tải app miễn phí thì không có tài khoản sao tải về được bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.802513,
+         "id": "888297",
+         "field_search": "question",
+         "question": "1. Cho tôi hỏi: tôi dùng mất iphone 6 rồi mua lại iphone 6 dùng chung một icloud. Nay bị báo icloud đã đầy, trong đó iphone cũ 4,8Gb, (hình 1) vậy tôi xóa dung lượng trên iphone 2 (hình 2) để giải thoát bộ nhớ có ảnh hưởng gì không vây (kèm hình) .rất mong được phản hồi, ĐT: 0985027327, kybv.dnpc@gmail.com2. tôi muốn đổi pass icloud nhưng chưa biết cách thực hiện.3. Nâng cấp tài khooản icloud thì cần thẻ tín dụng và tài khoản nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.77141,
+         "id": "781769",
+         "field_search": "question",
+         "question": "Ad cho em hỏi.khi em tạo tài khoản icloud của em và em đăng nhập vào máy rồi mà khi vào appstore lại hiện 1 tài khoản icloud khác là sao vậy.cách khắc phục như nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.70683,
+         "id": "779826",
+         "field_search": "question",
+         "question": " Em mới mua iphone 5s sao không đăng nhập được vào tài khoản icloud của mình khi nhân viên của thế giới di động lập? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.65126,
+         "id": "1155484",
+         "field_search": "question",
+         "question": "Tài khoản của tôi up ảnh lên thì 1s sau tự dưng bị xoá. Tôi đã xoá app và tải lại. Nhưng ko đc. Tôi cũng đã tắt đth và mở lại nhưng cũng thế. Hãy giúp tôi. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.630157,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.546154,
+         "id": "760433",
+         "field_search": "question",
+         "question": "Chào Admin Thegioididong.com. Tôi có mua một iPad Air tại Thế giới di động hồi tháng 4/2015 và đươc nhân viên Thegioididong lập giúp iCloud. Hôm nay tôi muốn bán đi và đăng xuất iCloud cho khách nhưng quên Pass và nhiều lần thử đã bị khoá tài khoản. Thegioididong có thể reset lại giúp tôi không? Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.429394,
+         "id": "1005956",
+         "field_search": "question",
+         "question": "Mình đăng suất id apple rồi đăng nhập lại iphone mình báo số lượng tài khoản miễn phí tối đa đã đuợc kích hoạt trên iphone này. Liên hệ 01666860927",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.393463,
+         "id": "741686",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình đã nhập đúng ID với mật khẩu mà không thể đăng nhập vào app stores được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.381706,
+         "id": "808375",
+         "field_search": "question",
+         "question": "Em đăng nhập facebook bằng máy tính thì phải nhập mật khẩu 2 lần mới vào được, còn trên điện thoại thì báo lỗi không thể đăng nhập, nhưng đăng nhập bằng ních khác thì vẫn vào bình thường. Em đã thử xóa ứng dụng và tải lại rồi vẫn không được. Cho em hỏi làm thế nào để khôi phục lại bình thường ạ. Em cảm ơnđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.367035,
+         "id": "765641",
+         "field_search": "question",
+         "question": " Tôi cho em !em mất  rồi !tôi không biết ID IPad gì sao đăng nhập ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.312557,
+         "id": "777616",
+         "field_search": "question",
+         "question": "Chào ad, tôi vừa mua lại một chiếc iphone 5, nhưng người bán không đăng xuất icloud, vậy cho tôi hổ làm thế nào để tôi đăng nhập icloud của mình? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.21772,
+         "id": "860785",
+         "field_search": "question",
+         "question": " AD cho em hỏi là khi cập nhập app trên appstore là nó lại kêu mình đăng nhập tài khoản id của chủ cũ là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.14647,
+         "id": "1024047",
+         "field_search": "question",
+         "question": "Tôi và bn đều dùng j5, bạn tôi thì tải đc nhiều ứng dụng còn máy tôi cứ tải ứng dụng là báo đầy k tải đc. Mong đội ngũ TGDD chỉ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.034676,
+         "id": "819633",
+         "field_search": "question",
+         "question": " Tôi muốn thay đổi tài khoản icloud, nhưng tài khoản icloud cũ vẫn còn trong máy và tôi không nhớ mật khẩu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.02869,
+         "id": "767551",
+         "field_search": "question",
+         "question": " Tôi đang xài iPhone 4, tôi đã quên mật khẩu icloud. Có cách nào để xoáthoát tài khoản ra không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.914124,
+         "id": "961147",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đã tạo được id apple và đã đăng nhập ok,nhưng khi mình tải đồ thì lại bắt mình nhập mật khẩu của tài khoản khác,như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.61037,
+         "id": "953087",
+         "field_search": "question",
+         "question": " Tôi đã xin xóa zalo bây giờ tôi muốn đăng nhập lại như mới lúc chưa đăng nhập ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.565086,
+         "id": "1152571",
+         "field_search": "question",
+         "question": "Việt Khắc vừa đăng Tôi sử dụng Facebook từ năm 2013 đến giờ, tự nhiên báo phiên bản hết hạn và đăng nhập vào lại không được.Dùng email và số điện thoại vẫn thường dùng thì báo không trùng khớp với tài khoản Cần được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.56387,
+         "id": "816223",
+         "field_search": "question",
+         "question": "12 ngày trước (03/04/2016) tự nhiên tôi không thể đăng nhập vào ID Apple + Ipad của mình mặt dù tôi nhớ đầy đủ pw. chắc có người đã vào ăn cắp mật khẩu của tôi. Vậy bằng cách nào tôi dùng được iphone + Ipad của mình huhuhu. Cảm ơn sự giúp đỡ của bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.540894,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.37694,
+         "id": "1016618",
+         "field_search": "question",
+         "question": "Mình đăng nhập lại tài khoản google của mình nhưng khi nhập mã thì không được dù mình đã viết đúng mã rồi, mình đã nhập rất nhiều lần nhưng vẫn không được. Vậy bây giờ làm sao để đăng nhập được đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.298504,
+         "id": "1142309",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Mình có đăng nhập icloud trên máy ip6s cho bố dùng. Ở nhà có lần nhờ cài app không biết nghịch thế nào mà bị khóa mất icloud. Mình có mua máy khác ip 6s+ và dùng đúng email cũ để đăng ký đúng id apple cũ thì vẫn được và hiện nay mình đang dùng bình thường. Xin hỏi id apple cũ trên máy ip6s làm sao để mình có thể xóa đi để reset máy được không ạ. Đã thử rất nhiều cách rồi nhưng không được ạ. Chân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.275696,
+         "id": "901857",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu bị quên mật khẩu đăng nhập ITUNES & APP STORE thì em đăng ký như nào để lấy lại? ID của ICLOUD có giống như ID của APP không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.16913,
+         "id": "1136998",
+         "field_search": "question",
+         "question": " tôi mất số điện thoại khi tôi bảo mật sdt khi đăng nhập icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.05058,
+         "id": "752249",
+         "field_search": "question",
+         "question": " Ai giúp em lập 1 tài khoản icloud vớiEm đã làm nhiều lần.báo đã thành công r nhập vào tài khoản lại không được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.98009,
+         "id": "997059",
+         "field_search": "question",
+         "question": "Ipad của em vừa mới nâng cấp ios, sau đó em đăng nhập vào icloud của em thì không được, máy thông báo : \"Ko thể xác minh, Đã có lỗi kết nối với máy chủ id apple\"    Có cách nào khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.95912,
+         "id": "733823",
+         "field_search": "question",
+         "question": "Cho tôi hỏi, khi tạo account cho ipad tôi chọn địa chỉ mail đang sử dụng là .....yahoo.com. Chọn địa chỉ gmail.com có tốt hơn không. Có đổi được account không?Khi tôi vào icloud của iphone và tạo new Apple ID (kiểm tra khóa kích hoạt trên mạng thấy đang tình trạng off), tôi nhập địa chỉ email yahoo mà tôi đã dùng cho ipad thì được thông báo địa chỉ mail đã được sử dụng phải chọn một địa chỉ khác. Tôi không thể sử dụng chung một địa chỉ email cho cả iphone và ipad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.933407,
+         "id": "757422",
+         "field_search": "question",
+         "question": "Xin chào ! Hiện tôi đang cần tải Google Maps nhưng không có tài khoản App Store? Có thể cho tôi mượn tài khoản App Store tải Google Maps được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.81083,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.698772,
+         "id": "835718",
+         "field_search": "question",
+         "question": " Tôi quên tài khoản iCloud làm như thế nào mà lấy lại được tài khoản để mở được iphone 4S đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.694225,
+         "id": "743346",
+         "field_search": "question",
+         "question": " Tôi bị hack mất ID và mật khẩu Apple còn lại email cũ của tài khoản đó, tôi có thể lấy lại được tài khoản không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.6592,
+         "id": "797332",
+         "field_search": "question",
+         "question": "Tôi muốn tạo tài khoản mới trên ID Appe trên iPhone 5s trên mục thanh toán thẻ máy tôi lại chỉ có 3 mức là : visa,mastercard,AmeX ,không có mục 4 là không,giờ để đăng ký đc tài khoản mà không đúng thế thì tôi phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.656593,
+         "id": "748294",
+         "field_search": "question",
+         "question": "Mình đã xác minh TK ID Apple sau khi đc yêu cầu và đã báo xác minh thành công. Khi mình đăng nhập vào iCloud vẫn báo TK chưa được xác minh là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.64209,
+         "id": "953070",
+         "field_search": "question",
+         "question": "Tôi bị người khác thay đổi lại mật khẩu tài khoản icloud vì vậy tôi đag muốn lấy lại mật khẩu , và trên tài khoản đây đang dùng bằng số điện thoại của tôi , tài khoản imail của tôi cũng không mở được vì tôi dùng chung mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.63857,
+         "id": "997766",
+         "field_search": "question",
+         "question": "mình mới mua Iphone 7 plus lúc đầu đăng nhập tk apple vào không sao hết nhưng sau khi mình khỏi động lại thì máy yêu cầu nhập tk apple. mình nhập đúng nhưng vẫn không vào được trên ip7 ( đã đăng nhập thành công trên máy tính và ip khác) ad cho hỏi có cách nào khắc phục không ạ . ID apple đúng máy rồi nhưng sao không vào được , có phải ip yêu cầu @icloud.com hay không , do mình xài ID apple là @gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.53581,
+         "id": "918455",
+         "field_search": "question",
+         "question": "ad cho hỏi mọi ngày vẫn vào bình thường nay tự dưng ko tải được ứng dụng..icloud vẫn đăng nhập được nhưng app store không đăng nhập đươc..e thử mọi cách rồi nhưng vẫn không được ad à..có cách nào khác giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.499413,
+         "id": "793460",
+         "field_search": "question",
+         "question": "Chào mọi người,Tình hình là máy mình là ip6 plus. Mình dùng appstore vẫn bằng id apple của mình. Nhưng hôm nay mình muốn update 1 app thì nó lại hiện ra tài khoản khác. Ban đầu mình nghĩ là app này được tải bởi tài khỏan ngoài hàng nên khi update nó mới hiện tài khoản đó. Nhưng mình kéo xuống dưới và thử update tài khoản do chính mình down bằng id của mình thì nó cũng hiện ra tài khoản đó. Nhưng tài khoản này chỉ hiện ở phần update. Mình vào settings để tìm tài khoản lạ kia rồi đăng xuất thì nó cũng chỉ hiện ra tài khoản của mình mà thôi. Mọi người có biết đây là trường hợp gì và làm thế nào để khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.44323,
+         "id": "1161737",
+         "field_search": "question",
+         "question": "Khi tôi đăng nhập tài khoản Facebook trên điện thoại ,( được đăng ký bằng số điện thoại, và tôi chưa sử dụng tài khoản này trên bất cứ điện thoại nào khác ) thì hệ thống thông báo rằng :\" Chưa xác thực danh tính . Chúng tôi không thể xác thực danh tính của bạn. Vui lòng thử lại sau.\" Sự việc xuất hiện bất ngờ sau 1 ngày oi bức. Tôi chẳng thể làm gì tiếp theo, để có thể sử dụng tài khoản. Trong khi đó, tài khoản đăng ký bằng số sim của tôi . Vậy tôi phải làm gì ở trường hợp nay? Hi vọng nhận được sự hỗ trợ của các bạn. Chân thành cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.354553,
+         "id": "865231",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản app store nhưng nhập sai mã thư tín nên không thành công. Khi tải phần mềm, gõ mật khẩu và password thì máy báo ID không đúng. Cho em hỏi, em phải làm sao để sửa lại thông tin nhập sai khi đăng kí tài khoản. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.224773,
+         "id": "1152121",
+         "field_search": "question",
+         "question": "Cho mình hỏi với mình đăng ký ID Apple, đã xác minh địa chỉ mail, khi đăng nhập vào iTunes & App Store nó báo \"Không thể đăng nhập, Đã xảy ra sự cố khi kết nối với máy chủ\" là bị sao vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.206512,
+         "id": "757121",
+         "field_search": "question",
+         "question": " Cho em hỏi dùng ID Apple đăng nhập vào iCloud được không zậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.13806,
+         "id": "790649",
+         "field_search": "question",
+         "question": " ad cho e hỏi dụng tài khoản icloud đăng nhập itune có tải được ứng dụng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.07904,
+         "id": "1145575",
+         "field_search": "question",
+         "question": "Ngày trước mình bị hackk facebook vì insta mình liên kết vs face luôn nên cx mất. Sau khi mình đăng nhập lại đc facebook đó thì lại k vào đc ins, mà mình đã tạo tài khoản khác mà vẫn k đăng nhập đc bằng app trên đt mình. Nhưng khi vào app trên đt khác lại vào đc !! Làm thế nào để khôi phục lại app bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.071854,
+         "id": "831482",
+         "field_search": "question",
+         "question": "Khi tôi phát hiện Facebook bị chặn thì tôi có lên đây để hỗ trợ, cũng như bên hỗ trợ đã chỉ cách khắc phục Họ bảo download ứng dụng Hotspot Shield Free VPN , tôi đã làm theo và cũng đã khắc phục được tình trạng Facebook bị chặn rồi. Nhưng khi tôi truy nhập Zalo thì nó lại bị như thế này, vậy cho hỏi t download ứng dụng Hotspot Shield Free VPN để khắc phục Facebook thì nó có ảnh hưởng gì đến zalo không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.056213,
+         "id": "761740",
+         "field_search": "question",
+         "question": "Em mua lại 1 con iPhone 5s nhưng đăng nhập iCloud  nó báo không thể đăng nhập số lượng tài khoản miễn phí tối đa được kích hoạt trên iPhone này là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.04234,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.99323,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.917957,
+         "id": "751740",
+         "field_search": "question",
+         "question": "Sao mình đăng nhập tài khoản  App store sao khi mình đăng nhập vào nó nói là tài khoản đã bị vô hiệu hoá vì lí do an ninh là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.80204,
+         "id": "1142905",
+         "field_search": "question",
+         "question": "Khi tôi khôi phục lại máy, thì có thông báo nhập mật khẩu iCloud là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.800312,
+         "id": "1159800",
+         "field_search": "question",
+         "question": "tại sao sau khi đăng kí được tài khoản ID Apple rồi mà lúc đăng nhập vào AppStore lại không được",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

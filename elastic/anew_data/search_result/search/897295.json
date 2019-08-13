@@ -1,0 +1,801 @@
+{
+   "id_query": "897295",
+   "total": 32798,
+   "total_current": 100,
+   "max_score": 41.922375,
+   "origin_question": " Nếu tắt siri thiết bị iphone có bị sao không cho mình hỏi cái ",
+   "hits": [
+      {
+         "score": 23.82373,
+         "id": "899392",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone của mình bị mất nếu muốn tìm lại thì phải làm như thế nào ?(khi iphone bị tắt nguồn ,thiết bị tìm iphone bị tắt)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.922276,
+         "id": "840267",
+         "field_search": "question",
+         "question": " Cho em hỏi máy em sao nó bị mất cái gợi ý siri là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.042936,
+         "id": "780086",
+         "field_search": "question",
+         "question": " cho mình hỏi iPhone 6s thường hay bị đơ màn hình, khi khơie động thì Siri cúe nói cái gì đấy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.442898,
+         "id": "1149362",
+         "field_search": "question",
+         "question": "cho em hỏi máy em cứ bị đơ xong sau đó là tiếng Siri cứ nhấn home là lại có tiếng siri. Màn hình mờ không cho tắt nguồn reset cũng không được. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.209194,
+         "id": "768845",
+         "field_search": "question",
+         "question": " Cho mình hỏi iphone 5s có bị nhiễm vi rút không vậy? Nếu có phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.068546,
+         "id": "947059",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Tại sao mình đăng nhập zalo trên thiết bị mới thì toàn bộ tin nhắn trên thiết bị cũ lại không xem được. Cho hỏi tại sao. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.991116,
+         "id": "795156",
+         "field_search": "question",
+         "question": " Cho hỏi nếu bị móc túi iPhone 6 mà tắt nguồn có thể tìm ra được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.499207,
+         "id": "1149346",
+         "field_search": "question",
+         "question": "điện thoại của t là vivo y55s, không hiểu sao lại bị đổi tên thành một cái tên khác khi đăng nhập gmail nó lại hiện thiết bị của tôi mang tên khác ko phải là thiết bị vivo y55s . cho t hỏi hỏi là tên thiết bị của tôi có phải hack ko? và có đổi lại đc ko vì nó bị đổi thành tên rất mất lịch sự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.366648,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.197884,
+         "id": "796865",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách hoặc thiết bị để kết nối iPhone 6 với tivi Sony? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.17173,
+         "id": "1153879",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ. App sức khoẻ trên iphone 7 plus của mình hiẹn lên nguồn thiết bị là những thiết bị khác ,như hình . Như vậy có ảnh hưởng gì đến bảo mật máy mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.017866,
+         "id": "813950",
+         "field_search": "question",
+         "question": " cho mình hỏi iphone5s của mình khi ấn tắt máy đi thì màn hình nháy 1 cái rồi mới tắt là bị làm sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.676007,
+         "id": "769225",
+         "field_search": "question",
+         "question": " Nếu nâng cấp iOS bị lỗi  đơ máy hay treo táo thì có khắc phục được không hay là sẽ bị hỏng thiết bị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.676007,
+         "id": "769010",
+         "field_search": "question",
+         "question": " Nếu nâng cấp iOS bị lỗi đơ máy hay treo táo thì có khắc phục được không hay là sẽ bị hỏng thiết bị  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.607864,
+         "id": "757755",
+         "field_search": "question",
+         "question": " Cho em hỏi máy iPhone 4 có thể bị nhiễm virus không ? Nếu có phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.383238,
+         "id": "783083",
+         "field_search": "question",
+         "question": " Bên thế giới di động có hổ trợ jailbreak cho thiết bị iphone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.378818,
+         "id": "833131",
+         "field_search": "question",
+         "question": " Trên iPhone 5S mình nói hey Siri nhưng nó không hoạt độngPhải làm sao bây giờAdmin giúp với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.339694,
+         "id": "864161",
+         "field_search": "question",
+         "question": " Cho mình hỏi ở đây có bán iphone 5 màu trắng cũ không. Nếu có cho mình xin cái giá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.28756,
+         "id": "759965",
+         "field_search": "question",
+         "question": "  Tại sao iPad mini của mình đã cài iOs 9.2 mà không có Siri ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.186007,
+         "id": "772877",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, khi mình ấn nút nguồn iPhone 6S để tắt máy thì màn hình sáng lên 1 lần rồi mới tắt, không biết máy có bị làm sao không, Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.183574,
+         "id": "813979",
+         "field_search": "question",
+         "question": " khi tắt iphone5s của mình nháy màn hình 1 cái ròi mới tắt là bị sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.170398,
+         "id": "753357",
+         "field_search": "question",
+         "question": " Cho mình hỏi cái Lenovo A7000 Plus loa ngoài quá nhỏ là do thiết kế của nhà sản xuất hay máy bị lỗi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.113901,
+         "id": "822645",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mình bị treo cap iTunes mình cứ kết nối điện thoại với máy tính cái là hiện 1 bảng có ghi (có sự cố iphone yêu cầu phải cập nhật hoặc khôi phục thiết bị ) thế là như nào ad có cách nào giúp mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.047496,
+         "id": "775285",
+         "field_search": "question",
+         "question": "Thegioididong cho mình hỏi iphone của mình hay bị out wifi là bị lỗi gì? Có phải do phần cứng không vì mình đã chỉnh \"off\" định vị wifi và cập nhật phần mềm nhưng vẫn bị bắt wifi kém và hay bị out. Nhà có 2 cái iphone mà 1 cái bị chứ không phải cả 2. Cái bị out wifi là iphone 5s quốc tế đã cập nhật phần mềm mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.944845,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.939693,
+         "id": "836655",
+         "field_search": "question",
+         "question": " Cho mình hỏi nếu iPhone lỡ vào web đen thì có bị virut ko ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.865454,
+         "id": "841142",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tắt máy tính thì bị yêu cầu có dòng chữ UPDATE AND SHUT DowN là sao ạ. Khi bị như vậy mình không tắt được máy tính.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.739832,
+         "id": "797488",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 4s của em tự nhiên bị tắt nguồn mở không lên là nó bị làm sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.732256,
+         "id": "793359",
+         "field_search": "question",
+         "question": "AD cho mình hỏi iPhone 5S gắn sim vào rồi nhưng hay bị báo là không có dịch vụ mình tắt nguồn khởi động lại nhưng vẫn bị như vậy giờ làm sao cho hết vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.704471,
+         "id": "862340",
+         "field_search": "question",
+         "question": " Chào ad iPhone 4s của e tại sao không thấy cho mục quản lí thiết bị trong cài đặt chung ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.645985,
+         "id": "1140878",
+         "field_search": "question",
+         "question": "Adim cho mình hỏi iphone. có app nào biến iphone thành loa đi dộng hoặc thành thiết bị nhận bluetooth như của android không. Vì mình muốn lấy iphone nhận bluetooth để phát nhạc cho dàng âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.645007,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.470759,
+         "id": "801792",
+         "field_search": "question",
+         "question": " Khi đăng nhập icloud trên máy tính để tìm iphone mà không có thiết bị nào là sao hả ad ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.39016,
+         "id": "916125",
+         "field_search": "question",
+         "question": " nếu iphone bị khóa tài khoản icloud khoang 2 tháng có sao không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.387441,
+         "id": "867868",
+         "field_search": "question",
+         "question": "Mình có tải video lên youtube , nhưng nó chỉ cho xem trên máy tính , còn hạn chế xem ở một số thiết bị , làm sao để xem trên các thiết bị khác (điện thoại , máy tính) ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.363228,
+         "id": "761977",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái iphone 5 của mình có lúc có cuộc gọi đến mà nó đổ chuông chứ không sáng màn hình. mình chẳng nhấc máy được luôn. không biết nó bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.346434,
+         "id": "899776",
+         "field_search": "question",
+         "question": " AD cho em hỏi tí nhé. mình có thể thiết lập giờ tự động sao lưu iphone bằng icloud được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3369,
+         "id": "1015498",
+         "field_search": "question",
+         "question": "Hiện e đag dùng J7 prime, e bị mất mật khẩu samsung account nên phải đặt lại mật khẩu, cho e hỏi nếu đặt lại mật khẩu thì mk có bị mất dữ liệu thiết bị ko ạ? Nếu mất thì làm sao để lấy lại ạ? E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3132105,
+         "id": "845189",
+         "field_search": "question",
+         "question": "Cho hỏi sau khi báo mất iPhone trên iCloud thì các trang mạng xã hội trên iPhone bị mất người lấy cắp có thể sử dụng được không ah? Và mình có thể đăng nhập iCloud trên thiết bị khác được nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.295353,
+         "id": "1156288",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoai oppo f7 mình đang xem phim onlie đang xem cái mình hàn từ từ tối cái tắt dần la bị gi ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.246417,
+         "id": "1155918",
+         "field_search": "question",
+         "question": "Ad cho e hỏi máy iphone 6s tìm đc các thiết bị bluetooth khác mà không tìm thấy loa sony xrs 31 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.200426,
+         "id": "1168302",
+         "field_search": "question",
+         "question": "e xài oppo f7 làm sao để tắt thông báo giao hiện người dùng hê thống khi bị đinh vị từ thiết bị khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.1695,
+         "id": "1135814",
+         "field_search": "question",
+         "question": "Cho mình hỏi A7 2018 vào Bảo trì thiết bị. Dọn dẹp không hết được ứng dụng chạy ngầm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.163215,
+         "id": "1017990",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình xóa tài khoản zalo thì những tin nhắn mà mình đã nhắn cho mọi người từ trước đó nó có còn lưu trong zalo trên thiết bị của họ hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.084427,
+         "id": "1154554",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em cứ lúc nào sạc là bị nhoè theo kiểu màu bị mờ hơi hơi trắng.Có phải gần thiết bị gì đó nên màn hình bị như vậy không ạt.Em đang dùng IPhone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.042428,
+         "id": "1136273",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone x bị báo mất (icloud) có unlock được không? TGDĐ có làm dịch vụ này không. Nếu không thì mình phải làm ở đâu. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.035577,
+         "id": "806392",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 4s. Mình không biết tại sao máy mình lâu lâu bị đơ và trong quá trình đang chơi game hoặc nghe nhạc thì lại bị đẩy ra ngoài màn hình chính.Cho mình hỏi liệu máy mình có phải bị virus không và nếu bị thì bên bạn có thể diệt không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.030614,
+         "id": "1004288",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên bạn có bán ổ cứng di động cho iphone không bạn?, nếu có thì dung lượng khoảng bao nhiêu GB, Nếu được cho mình cái link sản phẩm nhé!!!Thanks!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.028714,
+         "id": "801424",
+         "field_search": "question",
+         "question": " iPhone 5S của mình có kết nối với laptop không biết có bị nhiễm virus không? Nếu muốn biết thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.006186,
+         "id": "819407",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi chiếc iphone của em chả biết tại sao 2 hôm nay em cứ bật 3G lên là tự sập nguồn mà vừa cắm sạc vừa bật 3G thì không bị sao nếu tắt 3G mà không sạc thì vẫn dùng bình thường ad cho em hỏi máy em bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.976764,
+         "id": "813541",
+         "field_search": "question",
+         "question": " Cho mình hỏi, mình đang xài IOS 9.3.1. Sao mình ko thấy mục Siri trong phần setting nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.940024,
+         "id": "1165819",
+         "field_search": "question",
+         "question": "Chào anh/chị, Cho em hỏi: Ngày bắt đầu bảo hành thiết bị di động có phải ngày thiết bị bắt đầu được sử dụng bởi người mua đầu tiên không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.92903,
+         "id": "760234",
+         "field_search": "question",
+         "question": "  Cho em hỏi em mua cái iPhone Trung Quốc reset máy lại cái bị đứng luôn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.82818,
+         "id": "835833",
+         "field_search": "question",
+         "question": "Cho em hỏi sao mỗi khi em sạc iPhone 4 thì máy nó nóng cũng về đây sạc cũng bị nóng luôn không biết cái này có phải bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.819435,
+         "id": "947649",
+         "field_search": "question",
+         "question": "Điện thoại của em bị hỏng màn hình không bấm được. E muốn tắt ứng dụng Tìm Iphone trên máy nên đăng nhập vào trang web icloud.com bằng tài khoản icloud của em nhưng lại được báo là không tìm thấy thiết bị có nghĩa là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.811667,
+         "id": "1022150",
+         "field_search": "question",
+         "question": "Trong mục Thông tin thiết bị của Sam Sung s7 edge của mình ko hiện số sim. Cho mình hỏi cách cập nhật số sim vào thông tin thiết bị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.798486,
+         "id": "1168162",
+         "field_search": "question",
+         "question": "Làm sao tải ảnh xuống từ thiết bị galaxi j4 mà không bị mờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.777397,
+         "id": "1013985",
+         "field_search": "question",
+         "question": "cho mình hỏi về cái vụ tắt nguồn iphone, nếu như bình thường thì mình bấm nút nguồn đợi tới khi thanh \"slide to power off\", hiện ra sau đó trượt thì máy tắt nguồn, nhưng nếu khi thanh\"slide to power off\" hiện ra mà mình vẫn ấn giữ nút nguồn sau đó ấn giữ tiếp phím home thì vài giây sau vẫn tắt nguồn được, thì vậy là sao ad giải thích giùm mình cái. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.747477,
+         "id": "1149412",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới đi động có bán thiết bị phát WiFi bằng sim không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.66877,
+         "id": "1009053",
+         "field_search": "question",
+         "question": "tôi có 1 cái điện thoại soni bi treo và hỏng thiết bị ở trong ko biết có sửa đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.639898,
+         "id": "1157369",
+         "field_search": "question",
+         "question": "em có mất một chiếc iphone..em vào wed icloud để bật chế độ tìm..xong em ấn nhầm vào chỗ tắt tìm iphone đi..xong giờ nó hiện ở wed là không có thiết bị nào nữa..thì cho em hỏi có cách khác để tìm lại điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.619149,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.607126,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.555836,
+         "id": "1024275",
+         "field_search": "question",
+         "question": "mình dùng máy tính dell vostro i3 sau khi tắt máy mở lại thì ngày giờ bị trở lại năm 2010 nếu không cài đặt ngày giờ lại thì không thể bắt wifi là sử dụng mạng đc cho hỏi máy mình bị sao và cách khắc phục nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.535954,
+         "id": "920745",
+         "field_search": "question",
+         "question": "Cho Mình hỏi 1 chút, tài khoản Viber có thể đăng nhập trên 2 thiết bị di động đc ko?Hay chỉ trên PC thôi?Nếu đc, thì làm cách nào để đăng nhập đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.522294,
+         "id": "813504",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi giờ cái kính iPhone 6 em bị nứt có thể thay không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.511401,
+         "id": "788425",
+         "field_search": "question",
+         "question": "Bố mình vừa cho mình chiếc iphone 4s đã được jailbreak, lúc mình reset máy thì máy tắt nguồn rồi hiện lên một vòng tròn chạy được 3, 4 tiếng rồi vẫn chưa thấy gì ? Cho mình hỏi máy bị làm sao và có thể sửa được không và nếu có thì sửa ở chỗ nàoPS: máy bố mình mua ở Viettel",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.501506,
+         "id": "783511",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em dùng iPhone 6 mà em bật đèn led nhưng sao không được là bị sao vậy ạ, nếu như đèn của em mà bị hỏng em mang sang ben mình sữa chữa cho em có được không ( máy em không mua ben mình) và cho em giá cả nếu em sửa là bao nhiêu ạ?Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.49938,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.475795,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.473783,
+         "id": "1139592",
+         "field_search": "question",
+         "question": "Em vừa mua realme c1 và có tải ứng dụng khoá màn hình, Nhưng điện thoại cứ thông báo \" Quyền trình điều khiển thiết bị đang bật, chạm để tắt \" và nếu em tắt thì ứng dụng này dùng k đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.466534,
+         "id": "951058",
+         "field_search": "question",
+         "question": " Bạn cho mình hỏi ip7 siri đã cập nhật tiếng việt chưa bận ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.420934,
+         "id": "1009768",
+         "field_search": "question",
+         "question": "Mình xài máy SS J5 Prime , mình muốn muốn tắt lớp phủ màn hình của ứng dụng Picsart , nhưng cái chỗ nút bấm của mình lại không bấm được , có vài ứng dụng như OneNote có thể bấm , còn Picsart thì không . Cho mình hỏi làm sao để tắt lớp phủ màn hình những úng dụng bị như vậy , mình cảm ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.403889,
+         "id": "773894",
+         "field_search": "question",
+         "question": " QTV cho hỏi, tôi muốn phản chiếu màn hình của iPhone, iPad lên TV mà không dùng dây phải mua thiết bị nào vậy? TKS ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.377865,
+         "id": "770021",
+         "field_search": "question",
+         "question": "iPhone 6S Plus của mình hay gặp tình trạng người khác gọi đến là bị treo màn hình không thể nghe thì nguyên nhân tại sao lại bị như vậy cho hỏi cái nha add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.339015,
+         "id": "763868",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 6s cua mình đang chạy ios 9.1 khi ấn nút khóa màn hinh có lúc bị chớp màn hình 2 lần. bình thường chỉ cần ấn 1 cái là màn hình tắt luôn. giờ ấn khóa nó lại hiện thêm 1 lần nữa mới tắt màn hình. kiểu dạng như chụp ảnh màn hình vậy. cho e hoie là như thế là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.319317,
+         "id": "748760",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình dán kiếng cường lực chống bể màn hình iPhone 6 bảo hành 3 tháng nếu bị vỡ, Giờ miếng dán mình bị tróc keo có thể dán lại miếng mới không Ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.284364,
+         "id": "875859",
+         "field_search": "question",
+         "question": " Mod oi cho em hoi,, laptop em moi mua . mà cái khiên nó bị tắt là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.264945,
+         "id": "993766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.264209,
+         "id": "1134677",
+         "field_search": "question",
+         "question": "Sài tai nghe Samsung cho Xiaomi đc ko ad ?? Có bị hư thiết bị k??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.249662,
+         "id": "1002706",
+         "field_search": "question",
+         "question": "Mình dùng j2 prime. Tại sao chuyển ứng dụng Messenger từ bộ nhớ thiết bị qua thẻ SD thành công rồi mà bộ nhớ thiết bị vẫn còn lưu ứng dụng đó. Khắc phục sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.20252,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.200652,
+         "id": "998804",
+         "field_search": "question",
+         "question": "Vivo bị tắt ứng dụng đổi mật khẩu thì phải làm sao cho mình hỏi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.199206,
+         "id": "1137787",
+         "field_search": "question",
+         "question": "Mới mua cái tap s4 ở 230 32 về gặp lỗi này rồi nan quá. 14tr160 chứ đâu có rẻ.Lỗi bảo mật : thiết bị này đã bị flash là sao vậy. Mua tiền tươi nhanh gọn về gặp cảnh này buồn lắm . Giúp mình 0901404976",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.194777,
+         "id": "755271",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone sạc vào điện pin không lên là bị làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1860895,
+         "id": "1019922",
+         "field_search": "question",
+         "question": "Em xjn lỗi cho em hỏi điện thoại mới mua nếu bị lỗi mình đổi cái khác mất bao nhiêu phần trăm vậy...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.175652,
+         "id": "825656",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy em iphone 5 quốc tế...sao em không tắt tiếng chụp ảnh được ạ..dù đã gạt cái công tắt ở bên rồi..chụp vẫn kiêu ad ơi..chi em hỏi có cách nào để tắt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.174264,
+         "id": "1150484",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình sony Xperia sạc 1 giờ chỉ được 50 pin, vậy máy mình có bị gì không nếu bị gì tư vấn cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.169781,
+         "id": "1162247",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Hiện tại facebook của mình chỉ đăng nhập được trên ipad mà không đăng nhập được trên các thiết bị khác. Khi đăng nhập vào các thiết bị khác facebook yêu cầu mã xác nhận 2 yếu tố nhưng mình không nhận được mã đó. Cho mình xin hướng giải quyết với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.156177,
+         "id": "792543",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu mua iphone trong apple mang về VN xài nếu bị lỗi có thể mang ra shop bảo hành được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.141854,
+         "id": "1009146",
+         "field_search": "question",
+         "question": "cho mình hỏi lenovo a8 5500 khi gắn sim vào thì không có song và khi tra cứu hay gọi thì báo là \"mạng di động không thiết lập\" vào là bị sao vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.119201,
+         "id": "1163368",
+         "field_search": "question",
+         "question": "mn cho em hỏi là cái máy tính của em nó bị sao mà cứ có cái dấu tích bên trên biểu tượng vậy ngay cả trong explorer các tệp cũng có cái dấu này.  Nếu được xin chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.110613,
+         "id": "1005426",
+         "field_search": "question",
+         "question": "điện thoại Samsung J7 Prime của mình lâu lâu cái màn hình nó cứ bị gì ấy, mình không sử dụng nữa mình tắt màn hình nhưng nó cứ sáng lên, mình để yên cho nó tự tắt, nó tắt xong lại sáng lên, làm sao để sửa đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.083364,
+         "id": "796356",
+         "field_search": "question",
+         "question": "Mình thấy trong cài đặt => quản lý dung lượng => có cái ứng dụng khác chứa một con androi chiếm > 200Mb...nếu mình xóa nó đi điện thoại m có bị sao không....lenovo a7000....thân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.0726385,
+         "id": "761545",
+         "field_search": "question",
+         "question": " MÁY IPHONE 4 BỊ TẮT NGUỒN MỞ KHÔNG LÊN, LÝ DO TẠI SAO? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.053322,
+         "id": "836938",
+         "field_search": "question",
+         "question": " ad ơi cho e hỏi...cái iphone 5 của e là bản quốc tế mà sao không tắt âm thanh được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.041848,
+         "id": "923957",
+         "field_search": "question",
+         "question": "Hiện tại mình đang xài cây 5s mà sao nó cứ tắt nguồn hoài, lúc dùng thì không sao lúc mà mình không dùng thì máy tự tắt nguồn. mình đã thay pin rồi mà vẫn bị. vậy cho hỏi máy mình bị gì vậy? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.029771,
+         "id": "920219",
+         "field_search": "question",
+         "question": " MÌNH ĐĂNG NHẬP MỘT ID TRÊN NHIỀU THIẾT BỊ IPHONE BÂY GIỜ ID ĐÓ BỊ KHOÁ PHẢI LÀM THẾ NÀO SỬ DỤNG ĐƯỢC ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.016918,
+         "id": "1006026",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo F1s nếu bị chai pin thì bên mình có thay pin được không ạ? Nếu có thì chi phí thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

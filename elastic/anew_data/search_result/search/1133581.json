@@ -1,0 +1,801 @@
+{
+   "id_query": "1133581",
+   "total": 32062,
+   "total_current": 100,
+   "max_score": 95.610725,
+   "origin_question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+   "hits": [
+      {
+         "score": 57.457165,
+         "id": "1007891",
+         "field_search": "question",
+         "question": "Iphone 4s tải ứng dụng trên google về lúc tải xong đang cài đặt . Máy lại báo là không thể tải ứng dụng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.445324,
+         "id": "874998",
+         "field_search": "question",
+         "question": "Tai sao khi mình tải ứng dụnh về 100% đang cài đặt điện thoại lại báo không thể cài đặt ứng dụng đó vào lúc này là sao ??? Minh dùng iphone nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.185154,
+         "id": "1017801",
+         "field_search": "question",
+         "question": "Note 4 của e k vào đc messenger. Xóa đi tải lại thì CH Play thông báo là chương trình beta đã hết chỗ. Dù e xóa hết ứng dụng nhưng vẫn k vào đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.008347,
+         "id": "1155201",
+         "field_search": "question",
+         "question": "chỉ giúp mình lỗi khắc phục khi khởi động máy lên kích vào ứng dụng đã cài đặt : máy oppo f5 báo là không thể khởi động ứng dụng do k đọc được dữ liệu ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.291714,
+         "id": "1152814",
+         "field_search": "question",
+         "question": "Em mới tải 1 số app trên CH Play về máy nhưng khi mở app để sử dụng thì máy báo là ứng dụng không phản hồi. Vậy thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.27035,
+         "id": "1158418",
+         "field_search": "question",
+         "question": "Chào ad, mình lỡ tay xoá ứng dụng Facebook, giờ muốn tải lại trên CH PLAY nhưng mà không thể tải lại được, nó cứ hiện ra là ứng dụng không tương thích với thiết bị (mình dùng Oppo a3s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.863785,
+         "id": "1167891",
+         "field_search": "question",
+         "question": "Em bị lỗi là khi tải 1 ứng dụng về trên CH play nó cứ để là \"đang tải xuống\" nhưng nó cứ treo máy và không tải được  giúp em đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.75182,
+         "id": "1016675",
+         "field_search": "question",
+         "question": "Minh tải ứng dụng trên ch play về thì tải xong thì ứng dụng đó tự mở dù minh đang mỏ ứng dụng khác muốn khắc phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.442177,
+         "id": "1022446",
+         "field_search": "question",
+         "question": " làm sao để cài CH play để tải các ứng dụng về máy tablet  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.979008,
+         "id": "1142413",
+         "field_search": "question",
+         "question": "Tại sao khi cài ứng dụng xong rồi thì nó nói là CH play đã dừng  lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.77664,
+         "id": "1145538",
+         "field_search": "question",
+         "question": "Tại sao máy mình k tải đc ứng dụng trên ch play vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.740204,
+         "id": "1167929",
+         "field_search": "question",
+         "question": "Dạ e ko thể dùng tài khoản Google  của mình đăng nhập vào ứng dụng của Google như ch play và youtube.tất cả đều báo là ko có kết nối mạng .e đã xóa cache và thử gỡ cài đặt ứng dụng nhưng đều ko đc ạ ..mong ad giúp e khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.727745,
+         "id": "842890",
+         "field_search": "question",
+         "question": "Mình vẫn đang dùng facebook, bỗng dưng mất . Xem bên cài đặt ứng dụng thì vẫn còn , nhưng không thấy ứng dụng trên trang của điện thoại. mình có xóa ,thử cài lại nhưng vẫn bị .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.21942,
+         "id": "801759",
+         "field_search": "question",
+         "question": " Mã lỗi 18 trên cửa hàng CH Play không tải được ứng dụng là sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.11633,
+         "id": "1158590",
+         "field_search": "question",
+         "question": "mình mới mua e ssa50 nhưng khi tải ứng dụng từ chplay thành công thì ko thấy  nó xuất hiện trên màn hình chính. Mình thử vào ch play, cài đặt nhưng ko thấy mục \"Bật hiển thị ứng dụng trên màn hình\" như hướng dẫn. Máy mình bị lỗi à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.47625,
+         "id": "1161359",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt lenovo a5000 bị văng ra khỏi các ứng dụng như game và các ứng dụng hệ thống (như mục cài đặt, youtube, ch play...) là sao v. Mình đã khởi động lại nhiều lần vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.44609,
+         "id": "797991",
+         "field_search": "question",
+         "question": "Cho mình hỏi là khi mình download những ứng dụng trên safari như vshare hay hipstore thì tại sao nó lại hiện lên là không thể tải ứng dụng lúc này dù mình đã đổi DNS wifi nhưng nó vẫn thế??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.304268,
+         "id": "776770",
+         "field_search": "question",
+         "question": " Mã lỗi  18 trên CH Play khi cài ứng dụng vào máy Galaxy Core 2?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.11192,
+         "id": "796913",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dùng ip5 lock mà dùng máy được tầm 15 phút là thấy nóng máy rồi là bị làm sao ạ,tất cả các ứng dụng mình tắt hết máy mình k cài đặt nhiều ứng dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.938007,
+         "id": "1149566",
+         "field_search": "question",
+         "question": "Sao mình cài ứng dụng từ nguôn khác ngoài CH play nó đều hiện lên ứng dụng chưa được cài đặt ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.74373,
+         "id": "1156320",
+         "field_search": "question",
+         "question": "Ad cho hỏi.m sd j7 2016 mình mới khôi phục lại cài đặt gốc, khi vào CH play thì không tải được ứng dụng nua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.573994,
+         "id": "1164132",
+         "field_search": "question",
+         "question": "Tại sao máy samsung j4 core không tải được ứng dụng trên ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.518684,
+         "id": "827510",
+         "field_search": "question",
+         "question": "e dùng máy c2 00 khi vào ứng dụng fb thì máy báo là cài đặt không cho phép truy cập ứng dụng..giúp e khăc phục e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.338802,
+         "id": "789898",
+         "field_search": "question",
+         "question": " Tại sao khi tải các ứng dụng trên appcola thì nó trả lời là k thể tải vào lúc này, Mình đang sử dụng iPhone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.820477,
+         "id": "999785",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không thể mở camera được, bấm vào máy ảnh thì nó kêu vui lòng tắt hết các ứng dụng đang sử dụng camera hoặc đèn flash. Em đã thử reset máy, khôi phục cài đặt gốc nhưng vẫn không có tác dụng, vào mục Cài đặt->Ứng dụng->Tất cả ứng dụng thì không thấy camera/máy ảnh. Em đang sài điện thoại philips s358",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.144035,
+         "id": "1150141",
+         "field_search": "question",
+         "question": "Huawei nova3i lúc bật 4g sao không thể tải đc ứng dụng trên ch play vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.115273,
+         "id": "1159823",
+         "field_search": "question",
+         "question": "mình có mua đt J7 prime, nhưng sao ứng dụng CH play lại không tải được ứng dụng mobile banking Nam A bank?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.025337,
+         "id": "997718",
+         "field_search": "question",
+         "question": "Wiko Ridge Fab 4G của mình không vào được CH Play. Cứ mỗi lần vào là lại bị văng ra. Tất cả những ứng dụng khác của google ( trừ Google chrome và Youtube) cũng gặp tình trạng tương tự CH Play. Trước đây mình vào được CH Play nhưng khi muốn cài đặt app thì nó chỉ tải về được chứ không cài đặt được. Sau đó thì mình khôi phục lại cài đặt gốc thì CH Play không vào được nữa luôn. Android của mình đang ở version 5.0.2 và CH Play là phiên bản 5.5.12. Mong mọi người giải đáp giúp. Cảm ơn mn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.72574,
+         "id": "877773",
+         "field_search": "question",
+         "question": "Máy mình là iphone 5 ios 10 cho mình hỏi mỗi lúc mình tải game trên appvn về là nó để không thể cài đặt ứng dụng vào lúc nàyMong admin chỉ mình cách sửa lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.646427,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.54861,
+         "id": "1001024",
+         "field_search": "question",
+         "question": "Chào ad. Em chuyển vậy rồi mà sao tải ứng dụng gì từ CH play về nó củng báo không đủ dung lượng là sao ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.34488,
+         "id": "1149573",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài samsung A7 2018 và đang xài 4G nhưng khi chơi tựa game pubg mobile hay cài đặt ứng dụng CH play đều ko dc là sao vậy? Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.277977,
+         "id": "817649",
+         "field_search": "question",
+         "question": "Cho mình hỏi dt philip s388 khi tải Facebook từ ch play về. Mình ko mở lên được. Trên màn hình dt thì không thấy. Vào ứng dụng thì có. Giờ làm sao để sử dụng Facebook đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.10608,
+         "id": "809902",
+         "field_search": "question",
+         "question": "Em dùng máy Iphone5s, tại sao khi tải ứng dụng về máy hay xem quảng cáo trên mạng khi trở về màn hình chính là máy tự báo tắt nguồn là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.07449,
+         "id": "1006301",
+         "field_search": "question",
+         "question": "E mới mua samsung j2 prime nhưng điện thoại luôn báo bộ nhớ đầy e mua thẻ nhớ 8g lắp vào nhưng sao khi e vào ch phay tải ứng dụng về nó vẫn báo là bộ nhớ đầy cần xóa bớt để tải trong khi e đã lắp thẻ nhớ còn mới chưa dùng vào điện thoại rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.04461,
+         "id": "1161314",
+         "field_search": "question",
+         "question": "Cho hỏi là e muốn ẩn ứng dụng trên điện thoại j5 prime nhưng khi muốn mở lại ứng dụng thì phải vào cài đặt bỏ ẩn ứng dụng, sau khi sử dụng xong thì phải vào cài đặt và ẩn lại.Nên có cách nào để em mở ứng dụng mà em đã ẩn một cách nhanh chóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.03164,
+         "id": "852646",
+         "field_search": "question",
+         "question": " CH Play khi cập nhật ứng dụng bị lỗi 104 là sao ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.026474,
+         "id": "1163492",
+         "field_search": "question",
+         "question": "Xin hỏi có ứng dụng android  nào fake ip ko ạ? Mình đã tải về nhiều ứng dụng nhưng vẫn là ip của Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.021523,
+         "id": "1010752",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em dùng oppo R8001 e tải game liên quân mobile bằng 3g máy báo không đủ dung lượng e ra xóa bớt ứng dụng rồi bắt wifi vào cửa hàng play tải được game rồi nhưng giờ máy vẫn báo không đủ dung lượng tải về thất bại mà e tải đk rồi sao máy vẫn báo, làm sao để hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.96958,
+         "id": "1144357",
+         "field_search": "question",
+         "question": "Lỗi không tải được ứng dụng trên ch play, mã lỗi 490, ứng dụng nào cũng ko tải đượcKhắc phục như nào vậy ad, em dùng máy redmi 5 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.96058,
+         "id": "1010627",
+         "field_search": "question",
+         "question": "Cho hỏi làm cá ch nào để khôi phục lại ứng dụng Ch play  khi xóa tại phần ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.904675,
+         "id": "819683",
+         "field_search": "question",
+         "question": "Khi vào appstore để tải ứng dụng về máy iphone 4 mà sao không tải được..? xuất hiện ĐANG CHỜ mà mãi không thể hiện thị ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.753983,
+         "id": "1149919",
+         "field_search": "question",
+         "question": "máy mình là ip4. tải 1 số ứng dụng về nhưng nhấn vào ứng dụng thì lại bị quay về màn hình chính. có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.74649,
+         "id": "1138151",
+         "field_search": "question",
+         "question": "Mình đang sài sam sung A9pro 2016 lên 8.0 rồi .Mình cố gắng tải ứng dụng trên Ch play .nhưng không được  chạy mãi .chạy riết .vẫn ko tải về dc.Mình có ra xóa dữ liệu và xoa bộ đệm của CH play nhưng vẫn ko dc ạ .nhờ qtv giúp mình à. Bị lỗi gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.732212,
+         "id": "999998",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi e đang sử dụng điện thoại samsung j5 prime. Khi tải ứng dụng ở CH play thì tải về máy nay em mún tải về thẻ nhớ thì cài đặc sao ạ mong ad giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.58834,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.492928,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.460358,
+         "id": "793019",
+         "field_search": "question",
+         "question": "Máy của mình là somy Xperia M5 dual. Khi bật camera thì máy báo lỗi: máy ảnh hoặc đèn nháy có thể đang được ứng dụng khác sử dụng.Hãy đóng ứng dụng đó và thử lại. Mình đã kiểm tra nhưng ko thấy ứng dụng nào chạy và dùng camera và đèn cả. Mong các bạn giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.17214,
+         "id": "1004162",
+         "field_search": "question",
+         "question": "tôi không thể tải ứng dụng ch play bằng điện thoại nokia",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.13289,
+         "id": "1000965",
+         "field_search": "question",
+         "question": "làm sao để tải ứng dụng trong CH Play về thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.12878,
+         "id": "1134635",
+         "field_search": "question",
+         "question": "cho e hỏi đth e kêu cập nhattj dịch vụ ch play nếu k mấy ứng dụng k thể chạy và e cập nhật xong thì vẫn tiếp tục thông báo như trên và hình ứng dụng ch play của e cũng là hình mặc định mong giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.893574,
+         "id": "819799",
+         "field_search": "question",
+         "question": "Mình mới mua Oppo F1 Plus có vài câu hỏi cần giải đáp:- Khi tải ứng dụng về từ CH Play thì sẽ lưu vào bộ nhớ 4GB hay bộ nhớ 64GB?- Oppo F1 Plus có cho phép chuyển ứng dụng từ bộ nhớ sang  không?Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.85552,
+         "id": "855558",
+         "field_search": "question",
+         "question": "Em muốn tải zalo trên PC bằng ứng dụng BlueStacks nhưng lúc cài đặt báo lỗi xác thực, cần đăng nhập vào tài khoản Google của mình. Là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.658978,
+         "id": "1022622",
+         "field_search": "question",
+         "question": "E đang sài j2 prime, vào ứng dụng nào cũng dừng lại, mọi người chỉ là vào cài đặt ứng dụng rồi xóa dữ liệu, nhưng em vào thì ko có chỗ nào để xóa dữ liệu hết.em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.640945,
+         "id": "1148130",
+         "field_search": "question",
+         "question": "Chào các bạn. Máy mình oppo neo 5 đang chơi thì hàng loại câu androi. Process.acroce đã dừng. Mình giải quyết bằng cách khôi phục cài đặt gốc và sau đó mất hết các ứng dụng liên quan đến google.minhf mới lên trình duyệt cài lại ch play và dịch vụ google play nhưng cài xong cũng đăng nhập nhưng lỗi khác xuất hiện. Y lỗi trên và cả lỗi com.google.android.gapps đã dừng và bây giờ cũng không vào được ch play không tải gì được cả. Ai đó giúp mình với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.52057,
+         "id": "765869",
+         "field_search": "question",
+         "question": "Cho em hỏi sao cài CH Play của em chỉ tải game với ứng dụng khi có wifi thôi. Còn mở 3G không tả được là sao hả QTV. Em đang dùng Xiaomi Note 2.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.23343,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.205654,
+         "id": "997943",
+         "field_search": "question",
+         "question": "mình đang dùng samsung j7 2015, mình chuyển ứng dụng sang thẻ SD nhưng chỉ 1 thời gian tất cả ứng dụng lại trở về bộ nhớ máy là sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.193882,
+         "id": "1015548",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy mobistar prime X không thể cài đặt ứng dụng liên quân mobile do lỗi 504 trong CH play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.181854,
+         "id": "1133398",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là. Em vừa mới mua samsung j6+ nên chưa biết sử dụng rõEm vừa tải game xog mà trog màn hình chính đt thì không có ứng dụng đó nhưng CH play thì để là đã cài đặtVậy làm sao để e đưa ứng dụng đó ra màn hình chính của đt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.0841,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.057926,
+         "id": "811993",
+         "field_search": "question",
+         "question": " em tải zalo về máy.hệ thống báo đã cài đặt,nhưng trên msy ko có ứng dụng zalo.e tải hoài mà ko đc,nv sao ah. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.026104,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.97878,
+         "id": "944444",
+         "field_search": "question",
+         "question": "Mình dùng 6s, khi đăng hình thì nó báo là \"Không thể đồng bộ nhật ký lên máy chủ\". Mình đã xóa ứng dụng cài lại, tắt nguồn khởi động lại đều ko dc. Vui lòng hỗ trợ mình với. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.87522,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.806595,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.798637,
+         "id": "781886",
+         "field_search": "question",
+         "question": "Em đang xài iPhone 5c ạ, có nhiều ứng dụng đã tải được về máy nhưng không hiểu tại sao khi click vào ứng dụng thì nó out ra màng hình menu. Ai giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.791904,
+         "id": "1022608",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi điện thoại cảm ứng mà mình tải ứng dụng quét rát trên CH play mà mình sử dụng lâu ngày có làm hai điện thoại mình hay không,em đang dùng galaxy j7 pro ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.780228,
+         "id": "836925",
+         "field_search": "question",
+         "question": "máy ipad mình down trên wed về thành công nhưng tới khi bấm vào thì nó để cần phải xác mình ứng dụng khi mình vào xác minh ứng dụng thì nó bảo cần kết nối mạng để xác minh , trong khi đó là wifi nhà mình vẫn bth có thể lên Safari :( . mong ad giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.699696,
+         "id": "1011585",
+         "field_search": "question",
+         "question": " Mình đang dùng samsung j5 2016. Sau khi mình cài đặt ứng dụng xong là nó lại tự bật lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.675232,
+         "id": "891410",
+         "field_search": "question",
+         "question": "Xin đươc hỏi. Sau khi tôi cập nhật ios10 cho ipad air2 thi may không tải đươc ứng dụng từ app store và không xóa được ứng dụng. Xin hỏi là tại sao? Tôi đã khởi động lại máy nhưng vẫn vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.647728,
+         "id": "1003390",
+         "field_search": "question",
+         "question": " Cho mìh hỏi là tải ứng dụng trên ch play như thế này là lỗi j và cách khắc phục như thế nào.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.542713,
+         "id": "1158484",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi e tải ứng dụng quay video khác từ CH play , thì ko quay đc màn hình khi chơi game, cứ nhấn quay và vào game là ứng dụng tự đóng 😶. Giải quyết giúp e với ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.50143,
+         "id": "813053",
+         "field_search": "question",
+         "question": "Tải ứng dụng trên CH Play ko được cứ báo mã lỗi thì làm sao qtv- : Máy chủ Google không phản hồi, lỗi tạm thời.- : Xoá dữ liệu  và Dịch vụ Google Play.: Vào.: Chọn : Chọn.: Chọn .Các bạn thực hiện tương tự cho .Sau đó bạn có thể cần tắt nguồn  khởi động lại.- : Do thời gian máy của bạn bị sai với giờ hệ thống Google khiến CH Play báo lỗi.- : Bạn có thể vào \" cập nhật lại cho đúng với hiện hành.Nếu đã đúng ngày giờ bạn có thể tham khảo thêm cách sau: \"\".- : Tải ứng dụng từ CH Play bị gián đoạn.- : Do bộ nhớ cache của thiết bị đã đầy, vì vậy bạn nên xóa những ứng dụng (File) không cần thiết. Khởi động thiết bị vào chế độ rồi chọn \"\".>>> Bạn có thể tham khảo cách vào để reset một số dòng máy sau trong .- : Không tải được vì dính.- : Bạn sẽ thao tác tương tự lỗi đầu tiên và kết hợp với buộc dừng ứng dụng.Nếu vẫn chưa được bạn cần tiến hành sao lưu khôi phục gốc lại máy.- : Không tải được app khi 2  đã từng mua ứng dụng trên 1 thiết bị.- : Truy cập vào  với đúng tài khoản Google đang dùng >  > Sau đó “mua” lại.Trên đây là tổng hợp lỗi  cũng như . Chúc các bạn thao tac thành công.>>> >>> >>>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.47122,
+         "id": "1155426",
+         "field_search": "question",
+         "question": "Mình dùng oppo f1s mà sao ko mở được you tube. Máy báo về cho mình là,ứng dụng không còn tương thích với thiết bị của bạn, là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.467308,
+         "id": "750972",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng iPhone 5s nhưng tại sao khi em tải ứng dụng gì về máy đều không được và có thông báo là thẻ SD bị hỏng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.328907,
+         "id": "986797",
+         "field_search": "question",
+         "question": "Ad giải đáp giúp mình với ạ. Mình sử dụng iphone 5s, khi mình sử dụng 1 ứng dụng nào đó cần phải sử dụng 3G hoặc wifi. Mình sử dụng wifi thì cứ vào ứng dụng là wifi bị mất, nhưng vào cài đặt mình vẫn thấy đang kết nối wifi. Vậy có phải kết nối wifi của mình bị hỏng không? Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.173264,
+         "id": "1145524",
+         "field_search": "question",
+         "question": "Sao tải ứng dụng trên CH play không được vậy ạ ? Làm sao để khắc phục được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.119564,
+         "id": "1139936",
+         "field_search": "question",
+         "question": "Mình đang xài oppo a37 mình gỡ cài đặt ứng dụng không xài như Google play trò chơi, Google play phim thì có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.039185,
+         "id": "1161521",
+         "field_search": "question",
+         "question": "Điện thoại oppo f3 cứ tải thêm ứng dụng (wattpad, waka, agribank,...) là bị liệt nút home xóa ứng dụng đó đi , khởi động lại thì lại dùng bình thường là bị sao ạ  😭😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.93504,
+         "id": "998569",
+         "field_search": "question",
+         "question": "Sumsung galaxy j2 prime của em nó cứ báo bộ nhớ đầy là sao vậy. dung lượng máy tới 8g em vào cài đặt xóa bớt mà không biết xóa cái nào em cứ sợ là xóa nhầm vào các ứng dụng cần thiết của máy nên không dám xóa ad có thể hướng dẫn em xóa các ứng dụng không cần thiết của sumsung galaxy j2 prime được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.789608,
+         "id": "806897",
+         "field_search": "question",
+         "question": " Mình có tải zalo cho máy nokia 206 về máy mà ko dc? máy báo là khong hỗ trợ ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.762638,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.761257,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.731373,
+         "id": "995833",
+         "field_search": "question",
+         "question": "- Mh đag sử dụng ip6+ và cho mh hỏi là tsao khi mh tải ứng dụng trên asari về máy mh lại không thể tải đc như thế này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.658733,
+         "id": "837387",
+         "field_search": "question",
+         "question": "Mình không thể tải các ứng dụng trên Iphone . Khi dăng nhập xong hiện lên bảng thông báo : không thể kết nối với Itunes store là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.644127,
+         "id": "1020481",
+         "field_search": "question",
+         "question": "cho hỏi tại sao oppo f3 ko cài được ứng dụng font chữ vậy.đã tải nhiều ứng dụng ma vẫn không có cái nào cài đặt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.64102,
+         "id": "790482",
+         "field_search": "question",
+         "question": "Vì sao dt tôi khi cài đặt zalo xong thì trong điện thoại không hiển thị ứng dụng. khi vao store lại thì ứng dụng báo đã đc cài đặt và không cho cài đặt lại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.62955,
+         "id": "938461",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.586266,
+         "id": "938453",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.54729,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.524807,
+         "id": "1009779",
+         "field_search": "question",
+         "question": "Em đã vào Cài đặt Xóa dữ liệu rồi Khởi động lại nhưng khi vào Ứng dụng để thanh toán thì nó vẫn hiện như vậy em không hiểu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.52463,
+         "id": "815276",
+         "field_search": "question",
+         "question": " Tải ứng dụng trên Điện thoại Philips S307 thế nào ak trên Ch play ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.42706,
+         "id": "1168248",
+         "field_search": "question",
+         "question": "Em reset máy xong thì 2 ứng dụng messenger và fb lite bị xóa khỏi máy không một lý do và tải lại thì bị như thế tải trên ch play với apk không ăn thua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.27614,
+         "id": "1151606",
+         "field_search": "question",
+         "question": "mình dùng ss j4+ khi tải liên quân thử nghiệm qua apk đến lúc cập nhật thì bị báo \"Ứng dụng chưa được cài đặt\" là như thế nào ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.225857,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.22147,
+         "id": "1013741",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình đã chuyển các ứng dụng sang thẻ nhớ rồi mà sao vẫn bị báo là dung lượng đầy.trong khi đấy thẻ nhớ vẫn còn dung lượng trống.vậy làm sao để khắc phục tình trạng này.mình đang dùng j2 prime.mình cũng không tải các ứng dụng như clean mater đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.16674,
+         "id": "843931",
+         "field_search": "question",
+         "question": " Tại sao em tải Messenger lại về máy, mà máy lại ghi là không tải được ứng dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.156143,
+         "id": "1023422",
+         "field_search": "question",
+         "question": "Cho hỏi có cách nào đề ngăn gỡ cài đặt ứng dụng bằng vẫn tay hoặc mã pin... không nhỉ? Vấn đề là mình hay cho thằng bạn mượn máy mà nhiều khi nó lên cơn xóa ứng dụng của mình và giờ mình đang muốn bật lại nó.Mong được chỉ dẫn!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

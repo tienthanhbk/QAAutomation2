@@ -1,0 +1,801 @@
+{
+   "id_query": "792633",
+   "total": 32954,
+   "total_current": 100,
+   "max_score": 65.64127,
+   "origin_question": " Dạ cho em hỏi em mới mua laptop Asus khoảng 2 ngày mà bây giờ em muốn đổi qua lap Dell vậy được ko ạ ? ",
+   "hits": [
+      {
+         "score": 32.22731,
+         "id": "787526",
+         "field_search": "question",
+         "question": " Cho mình hỏi. Mình vừa mua Lap Dell được 5 ngày, giờ muốn đổi máy qua acer có được không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.688517,
+         "id": "1007988",
+         "field_search": "question",
+         "question": "Em mới mua con Asus A570UP chưa được một tháng thì bây giờ em muốn đổi qua con Asus A556UR thì có cần làm gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.68378,
+         "id": "1163382",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss A7 được hơn 10 ngày. Bây giờ em muốn đổi qua A50 thì có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.710052,
+         "id": "1001639",
+         "field_search": "question",
+         "question": "Em mới mua con  Laptop Dell Vostro 3568 i7 7500U/4GB/1TB/2GB M420/Win10 khoảng 2 tháng trước. Bây giờ em muốn đổi con khác do máy yếu quá không đáp ứng được nhu cầu làm việc bên em (core i7 gen 7th mà visual 2015 chạy lếch lếch vậy) thì bên TGDD thu lại giá được bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.655798,
+         "id": "1001548",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua máy đổi trả bên mình được 3 ngày bây giờ em muốn đổi lại máy để mua máy mới thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.518871,
+         "id": "1155203",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua A7 bản 128GB cách đây 2 tuần bây giờ em muốn đổi máy A50 được không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.504065,
+         "id": "822384",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi mua mua lap dell ngày 19/2/2016, khi mới mua về dùng pin đc 4h. Nhưng mà hôm nay ngày 30/4/2016 Pin lại báo chỉ đc gần 2h. Như vậy có phải là do chất lượng pin k? Và Bên TGDĐ có bảo hành pin k ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.157717,
+         "id": "991529",
+         "field_search": "question",
+         "question": "cho em hỏi sao lap acer aspire e15 của em sao mới xài khoảng 15 ngày mà sao pin lại nhanh hết vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.022232,
+         "id": "1145370",
+         "field_search": "question",
+         "question": "Dạ bây giờ em đang muốn mua đt 8 64g, mà em đang đi làm, em muốn đặt rồi 2 tuần em lấy dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.870672,
+         "id": "1149595",
+         "field_search": "question",
+         "question": "Em mới mua chiếc điện thoại Oppo F9 10 ngày. Bây giờ em muốn đổi sang điện thoại Samsung được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.799135,
+         "id": "1155703",
+         "field_search": "question",
+         "question": "dạ cho em hỏi TGDD thu mua lap cũ bao nhiêu ạ? Em mua Dell hồi 1102018 0903815239",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.784254,
+         "id": "1150107",
+         "field_search": "question",
+         "question": "Em mua laptop asus khoảng nửa năm thôi mà bây giờ laptop của em thường xuyên ko chỉnh được độ sáng ạ. Lúc thì chỉnh được, lúc thì độ sáng 0% với 100% cũng như nhau @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.782076,
+         "id": "1165103",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e mới mua con ip 6s plus. Mà còn trả góp 2 tháng nữa. Nhưng bây giờ em muốn lên đổi 6s plus lấy con 7 plus trả góp tiếp thì có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.753857,
+         "id": "1156367",
+         "field_search": "question",
+         "question": "Cho e hỏi là em có mua con laptop dell vostro 5568 i5 hồi tháng 9 em mua trả góp và đã trả xog hết rồi. Mà bây giờ thì em muốn đổi laptop khác thì đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.699207,
+         "id": "1008005",
+         "field_search": "question",
+         "question": "Em mới mua lap top  LAPTOP ACER ASPIRE F5573G55Pj đầu tháng 2 tại tgdđ gIờ em muốn bán lại thì được bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.472944,
+         "id": "998825",
+         "field_search": "question",
+         "question": "shop cho em hỏi em mới mua j5 prime trả góp duoc 20 ngày bây giờ em muốn đổi j7 pro dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.468245,
+         "id": "1023168",
+         "field_search": "question",
+         "question": "Dạ . Anh chị cho em hỏi 1 vấn đề ạE mua điện thoại ở TGDD nhưng bây giờ muốn đổi cái cùng loại màu khác . Samsung j7 pro màu xám đổi qua màu đen . Em mua được 12 ngày rồi .liệu có đổi được không . Hay mình phải bù 20% tiền . Anh chị tư vấn giùm em ạ .em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.433117,
+         "id": "1165578",
+         "field_search": "question",
+         "question": "cho em hỏi em có con samsung a7 2015 mà bây giờ em muốn đổi qua con nova 3i vậy có được không, có bù thêm tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.33044,
+         "id": "786891",
+         "field_search": "question",
+         "question": " Em mua 2 cái Asus Zenfone C giờ muốn đổi qua iPhone 4S thì khoản bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.154339,
+         "id": "1012865",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi trước em mua điện thoại ở thế giới di động vào ngày 11-2-2017,củ sạc của em bị hỏng sạc cả ngày mà nó k nên nổi 1% cho em hỏi em có dk đổi củ mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.937233,
+         "id": "1156094",
+         "field_search": "question",
+         "question": "Em có mua Samsung A9 2018 trong khoảng ngày 16-20/2, đến bây giờ đã được 1 tháng hơn rồi ạ , em mua tổng là 10tr070, máy vẫn còn mới vì em giữ rất kĩ, không trầy hay có lỗi gì... em muốn đổi sang dùng iphone7plus giá 13tr9,,, thì bây giờ em phải bù thêm bao nhiêu để có thể mua được cái 7plus ạ ? Hộp và hoá đơn vẫn còn đầy đủ, tai nghe còn nguyên tem chưa tháo ra, chỉ mới sử dụng dây sạc thôi ạ , em muốn đổi qua thì bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.934782,
+         "id": "792402",
+         "field_search": "question",
+         "question": "Cho em hỏi, lap em mới cài win8 lại, khi em mở lap thì nó hiện lên tên là Dell, trong khi lap của em là asus, nó bị j vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.909365,
+         "id": "1169243",
+         "field_search": "question",
+         "question": "cho e hỏi iphone X em mới mua tầm được 2 ngày mà em để điện thoại qua đêm không xài mà pin tuột tới 6% vậy có sao không ạ.!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.687521,
+         "id": "1006672",
+         "field_search": "question",
+         "question": "cho hỏi tôi mua tai nghe bluetooth mới dược 3 ngày. mà bây giờ tôi muốn đổi tai nghe sang loa bluetooth có được ko  ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.658094,
+         "id": "1141077",
+         "field_search": "question",
+         "question": "Dạ em mới mua chiếc Laptop Asus A411UA i5 8250U/4GB/1TB/Win10/ đươc khoảng một tuần mà trong thời gian trải nhiệm em thấy máy rất nhanh hết pin khởi động máy lên chậm và thường hay dựt lag em muốn đổi 1 chiếc máy mới thì sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.608643,
+         "id": "1011253",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài điện thoại zenfone 2 mua tại cửa hàng , bây giờ em muốn bán lại để đổi điện thoại mới có dc ko ( điện thoại em mua được 2 năm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.602869,
+         "id": "991407",
+         "field_search": "question",
+         "question": "em có đổi máy ở shop nhưng mấy hôm nữa mới có , nhưng mà bây giờ em muốn đổi qua hãng khác có dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.419136,
+         "id": "1020816",
+         "field_search": "question",
+         "question": "em mới mua 1 laptop dell vostro 3568 được 6 ngày mà lap bị treo và đứng máy 3 lần rồi... lướt web rất chậm như vậy có phải máy bị lỡi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.03992,
+         "id": "996436",
+         "field_search": "question",
+         "question": "Cho em hỏi  em mới mua j7 prime hôm qua mà em định tới ngày 77 đổi j7 pro thì bù nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.806055,
+         "id": "1019702",
+         "field_search": "question",
+         "question": "em muốn hoi em mới mua 1 chiếc laptop duoc 15 ngày mà em thấy nó yếu quá em muốn đổi sang hãng khác giá cao hươn có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.504946,
+         "id": "1155664",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi thay màn hình laptop dell bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.490808,
+         "id": "1147929",
+         "field_search": "question",
+         "question": "Dạ e mới mua j6 đc 2 tuần .giờ e muốn đổi lên j6 và thêm tiền đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.478743,
+         "id": "1140561",
+         "field_search": "question",
+         "question": "Giờ em đang góp 1 chiếc điện thoại Sony mà còn khoảng 2 tháng nữa là góp xong bây giờ em muốn mua góp thêm 1 chiếc liệu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.451183,
+         "id": "1154029",
+         "field_search": "question",
+         "question": "em mới lấy S10 bây giờ em muốn đổi lên S10 được k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.286713,
+         "id": "772196",
+         "field_search": "question",
+         "question": " Em mới mua laptop Acer i5 hôm qua. Mà bây giờ xem video., zingmp3, phim, youtube mà toàn bị giật là sao ạ..??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.277882,
+         "id": "1156376",
+         "field_search": "question",
+         "question": "Máy em mới mua 3 ngày và mua qua trả góp nhưng em mún đổi máy khác bị mất 20 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.270123,
+         "id": "999014",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi bữa em mua đt samsung galaxy s8plus màu đen giờ em muốn đổi lại màu tím khói được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.089014,
+         "id": "1024300",
+         "field_search": "question",
+         "question": "Mod ơi em có máy asus zenfone 3 max 5.2inc mua tại tgdd đã trả góp xong 5 tháng. Bây giờ em muốn đổi qua máy mới thì nên đổi trả 1-1 và bù thêm tiền hay là bán lại cho cửa hàng ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.008291,
+         "id": "992899",
+         "field_search": "question",
+         "question": "Ad ơi ...em mới mua máy mobiistar zumbo s2 ngày hôm qua 14_06_2017 và bây giờ Em có thể đổi sang máy oppo F3 được không ạ...Hiếu được thì cần phụ thêm bao nhiêu Tiền ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.929962,
+         "id": "897496",
+         "field_search": "question",
+         "question": "Em mới mua lap Lenovo khoảng 5 tháng ở thegioididong nhưng vài ngày nay chuột cảm ứng trên lap k hoạt động nữa. Em muốn hỏi phải khắc phục như thế nào hoặc là còn bảo hành được k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.799597,
+         "id": "1161529",
+         "field_search": "question",
+         "question": "Cho em hỏi là em vừa mua laptop bên mình được cỡ gần 2 tháng, bây giờ nó hơi lag, em có thể đem ra chạy win lại được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.787485,
+         "id": "996800",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua máy đã qua sử dụng đk 2 hôm nhưng máy bị lỗi thì giờ ra TGDD sẽ đổi cho em máy cũ giống như vậy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.773466,
+         "id": "1162322",
+         "field_search": "question",
+         "question": "Khi em mới mua dt thì có tạo một tài khoản như vậy. Samsung account nếu bây giờ em muốn thay đổi sang tài khoản gmail khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.769655,
+         "id": "1140219",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Nhà em đã mua tivi ở thegioididong dc khoảng 2 tháng rồi, nhưng giờ nhà em có nhu cầu tivi lớn hơn . Vậy nhà em có đổi dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.733149,
+         "id": "1148132",
+         "field_search": "question",
+         "question": "Em vừa mua 1 đt samsung hôm qua nhưng giờ em muốn đổi sang iphone 6s plus được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.710663,
+         "id": "1160633",
+         "field_search": "question",
+         "question": "dạ anh/ chị cho em hỏi thăm 1 chút ạ ?  cuối tháng 2.em có mua htc u12lite. tới 25/3 do bị lỗi tự động tắt nguồn và lỗi mã khóa . em đã được đổi máy mới.   mà hôm nay 14/4 máy htc lại bị lỗi như cũ. bây giờ em có thể đổi sang nokia 8.1 mà k bị tốn phí k ạ. em trả góp bên hc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.702137,
+         "id": "823324",
+         "field_search": "question",
+         "question": " cho em hỏi. em mới mua iphone 5s đc 2 tuần mà bị lỗi FB có đc đổi máy mới ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.590034,
+         "id": "838494",
+         "field_search": "question",
+         "question": "mình mới mua ASUS F555L khoảng 7 tháng, mấy tháng trước đầy pin dùng bt khoảng 3-4 tiếng mà bây giờ chỉ khoảng 2 tiếng rưỡi, lỗi là ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.551456,
+         "id": "1001010",
+         "field_search": "question",
+         "question": "Cho em hỏi là, em mới mua con Oppo xong mà giờ em đổi ý muốn mua Huawei thì có được không ạ? Em mua chương trình trả góp ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.541124,
+         "id": "1003313",
+         "field_search": "question",
+         "question": "cho em hỏi là em có mua onl tay nghe Kanen JK2 mà em ko ung ý em có thể dổi tay nghe khac dc ko vậy mới mua dc 2 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.523457,
+         "id": "1012383",
+         "field_search": "question",
+         "question": "Em mới mua samsung galaxy j2 prime được 1 ngày giờ muốn đổi lấy j3 đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.435719,
+         "id": "1005396",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop em mới mua Dell 5567 i5 7200U nhưng sao nó bị giật lag vậy ad chỉ cho cách khắc phục được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.399536,
+         "id": "793092",
+         "field_search": "question",
+         "question": "E mới đựợc cho em iPhone 6.16gb (mua ở tg cách đây 5 ngày ).giờ e muốn đổi qua iPhone 6s 64gb thì điều kiện đổi như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.280935,
+         "id": "1160098",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua dt sam sung a50 tối qua giờ e muốn đổi qua đt a7 128g được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.268131,
+         "id": "815830",
+         "field_search": "question",
+         "question": "Anh ơi sao em dùng 5s mà sao máy chạy mạng cứ nóng lên vậy máy bị làm sao không bây giờ không vào của hàng của ap đẻ mua được nữa em mới mua dc 3 tháng bây giờ em muốn đổi máy được không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.261778,
+         "id": "1022067",
+         "field_search": "question",
+         "question": "e mua s8+ trả góp tại tgdd mà chưa đc 1 tháng bây giờ em muốn đổi qua ip7plus dc k ạ và đổi qua thì như thế nào vậy bác hướng dẫn giùm e đc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.226757,
+         "id": "1013004",
+         "field_search": "question",
+         "question": "bố em vừa mua sam sung a7 cách đây khoảng vài tiếng bây giờ muốn ra đổi j7 pro có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.1748,
+         "id": "803290",
+         "field_search": "question",
+         "question": "Bqt cho e hỏi với ạ!!E có mua máy laptop ở tgdd vào ngày 21/2/2016 hãng dell. Khi mua máy là được hỗ trợ cài win 10, bây giờ e muốn hạ xuống win 7 thì có bị mất chi phí ko ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.172747,
+         "id": "750583",
+         "field_search": "question",
+         "question": " Cho em hỏi, em muốn mua laptop khoảng 9 triệu em nên mua HP hay Asus máy nào xài tốt hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.159676,
+         "id": "1168806",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy tính Asus VivoBook X540U em dung chưa được 1 năm giờ em muốn đổi qua máy HP 15 da0443TX i3 thì hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.06758,
+         "id": "801102",
+         "field_search": "question",
+         "question": " Cho em hỏi em bảo trì laptop. Phải mất 2 ngày mới lấy được. Vậy em co thể muon 1 laptop khac để su dung được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.004108,
+         "id": "994442",
+         "field_search": "question",
+         "question": "Cho em hỏi máy A37 lúc mấy ngày đầu em mới mua còn đỡ mấy hôm nay em thấy bắt mạng kém lắm em muốn đổi mới đc ko...em mua đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.99559,
+         "id": "1010964",
+         "field_search": "question",
+         "question": "em mới mua ốp lưng iphone 5 được 3 ngày chưa xài, bạn em không thích giờ em muốn đổi lại để mua món khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.835802,
+         "id": "817030",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi hôm qua em mới mua cai Laptop Dell Inspiron 5458 i7 5500U/4GB/500GB/2GB 920M/Win8.1 ở thế giới di đông và em đang gửi o tgdd bên nguyễn oanh gò vấp để nâng cấp lên win 10 em muốn nhờ kỹ thuật viên cài giúp em game này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.79505,
+         "id": "781689",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang xài iphone 5s được 2 tuần rồi nên còn rất mới, bây giờ em muốn bán ra để bù tiền vào mua iphone 6 plus có được không vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.732494,
+         "id": "1003819",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua điện thoại meizu m5 3tr90 ngàn bây giờ e mún đổi mua lại điện thoại cũ được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.64154,
+         "id": "765196",
+         "field_search": "question",
+         "question": "Em mua  trả góp máy iphone 6 plus 64GB 21.590k, em sử dụng được 2 ngày bây giờ em không muốn sử dụng em bán lại thì em lỗ như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.582071,
+         "id": "1151312",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop Dell Inspiron 3567 i3 6006U mua được khoảng 1 năm, máy còn mới, do trường không cho sử dụng nhiều thì giờ nếu em đem ra cửa hàng thì bán lại được bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.555952,
+         "id": "791214",
+         "field_search": "question",
+         "question": "Em mới mua máy laptop với giá 8tr490 em mua trả góp bi giờ e muốn đổi máy laptop 8tr890 thì e phải bù bao nhiêu tiền để được đổi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.552483,
+         "id": "794799",
+         "field_search": "question",
+         "question": " Dạ em mới mua cây Dell chạy win 10 s mà gắn đầu lọc vô nó hiện như vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.476082,
+         "id": "1147715",
+         "field_search": "question",
+         "question": "Em có mua Huawei y7pro 2018 nhưng bây giờ em muốn đổi hưawei 2019 dc ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.466637,
+         "id": "996850",
+         "field_search": "question",
+         "question": "Dạ TTDD cho em hỏi giờ muốn thu lại đt samsung galaxy j7 prime được bao nhiêu tiền ạ, không thì nêu em đổi qua samsung galaxy j7 pro thì phải bù bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.447254,
+         "id": "781015",
+         "field_search": "question",
+         "question": " Em mới mua lap cài win 10 giờ em muốn cài win 7 tgdd có cài hộ em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.361273,
+         "id": "1142049",
+         "field_search": "question",
+         "question": "Em mới mua máy cũ  đổi trả giờ em muốn đổi máy khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.355452,
+         "id": "1142441",
+         "field_search": "question",
+         "question": "Tớ mua đt Nokia 2.1 được 2 ngày, bây giờ tôi muốn bù thêm tiền để đổi Nokia 3.1 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.348543,
+         "id": "1136591",
+         "field_search": "question",
+         "question": "cho em hỏi là em mới mua samsung a7 2018 hôm nay 8/12. máy dùng ko tốt lắm, nên em muốn đổi qua mua iphone 6s plus cũ thì có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.219563,
+         "id": "1017332",
+         "field_search": "question",
+         "question": "em mới mua thẻ nhớ 16G khi mua điện thoại ngày 22 tháng 8, bây giờ muốn đổi lấy thẻ nhớ có dung lượng cao hơn thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.209568,
+         "id": "1144727",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ em muốn đem laptop của em ra tiệm cài đặt lại như lúc mới mua nhưng em đã hết bảo hành, vậy thì e tôn bn tiền để cài lại ạ. Sđt lúc e mua laptop là 0909261508 mà e bị mất số lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.20279,
+         "id": "1022523",
+         "field_search": "question",
+         "question": "Laptop window 10 của em bị 2 sọc trên màn hình bây giờ em đem ra sửa nhưng không phải mua ngoài thế giới di động vậy sửa khoảng hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.147615,
+         "id": "832922",
+         "field_search": "question",
+         "question": " mk mới mua cái lap ở tgdd được mấy ngày, giờ mk muốn đem tới tgdd cài game đk ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.141317,
+         "id": "1139224",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua j4 vào ngày 1710 thì bây giờ em ra đổi điện thoại Xiaomi a2 lite thì bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.125467,
+         "id": "1165484",
+         "field_search": "question",
+         "question": "Mình có mua iPhone xr qua sử dụng qua trả góp fecredit, giờ muốn huỷ hợp đồng có đc ko ạ, vừa mới mua khoan 2 ngày gần đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.073391,
+         "id": "1153690",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua laptop dell inspiron 3567 i3 win 10. nhưng sài được tầm 2 tháng thì nó báo là '' Your windows license will be expired ạ. vậy lúc mua thì em phải được cài win 10 bản quyền chớ ạ. sao giờ nó lại báo hết hạn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.065586,
+         "id": "790145",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5s em mới mua cách đây 2 ngày dán màn hình rồi , bây giờ dán màn hình bị hỏng bóc ra , đi dán thì mất bao tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.051374,
+         "id": "1012014",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại samsung J3 giờ em muốn đổi qua xiao mi cùng giá thì tốn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.0331,
+         "id": "1007553",
+         "field_search": "question",
+         "question": "Cho em hỏi là đt A7 2017 em mua lúc mới ra mà bây giờ khi để sạc qua đêm thì nó chỉ sạc đến 97% thì dừng lại vậy có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.956997,
+         "id": "827972",
+         "field_search": "question",
+         "question": " Em mới lấy 5s trả góp mới được 1 tháng bây giờ em muốn đổi sang máy khác có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.951017,
+         "id": "999412",
+         "field_search": "question",
+         "question": " Em vừa mua máy J7 Prime trả góp ngày 37 bây giờ em lên đổi lấy iPhone 5s được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.93959,
+         "id": "837075",
+         "field_search": "question",
+         "question": " Cho em hỏi máy laptop hiệu dell nào khoảng 13tr trở xuống chơi được liên minh vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.934288,
+         "id": "1141525",
+         "field_search": "question",
+         "question": "Dạ anh cho em hỏi. em có mua một máy laptop ở thế giới di động, giờ em muốn nâng cấp ổ ssd m2 sata thì các anh có thể hỗ trợ em việc lắp ổ ssd được ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.93063,
+         "id": "918441",
+         "field_search": "question",
+         "question": "Em mới mua iPhone  5s ở tgdd, em mới sử dụng được 3 ngày và em thấy Sđt mình chậm kinh khủng. Vuốt qua chụp hình phải đợi cỡ 20s mới chụp được, wifi thì đang có mà nhầm lúc kh vào mạng được. Vậy có phải là do máy không ạ ? Vậy em có được đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904053,
+         "id": "1164620",
+         "field_search": "question",
+         "question": "Em mua đt oppo a71 bên mình khoảng 2 tháng nay. Nhưng sạc hơn 7 giờ mà vẫn chưa đầy. Không biết em có thể đổi máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.866188,
+         "id": "992210",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua a52017 trả góp 0 dc 2 tháng máy vậy giờ mình muốn đổi 1 cái đt khác thì mất bao nhiêu  ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.861439,
+         "id": "1166260",
+         "field_search": "question",
+         "question": "Chào anh chị em muốn hỏi môt chút ạ em mới mua hàng cũ đổi trả bên mình giờ em muốn trả dc ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.80516,
+         "id": "796666",
+         "field_search": "question",
+         "question": "Cho em hỏi cái này ad ơi.em mới mua iphone5 bên trung tâm tgdd ở tp thanh hóa.mới mua được mấy hôm về làm quà mà chưa có sử dụng. Giờ em muốn đổi sang máy khác thì mang lên chỗ em mua có đổi được không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.783113,
+         "id": "997808",
+         "field_search": "question",
+         "question": "Chào ạ! Em mới mua điện thoại gần đây, bây giờ em muốn đổi điện thoại khác vì không hợp ý! Bây giờ em muốn trả đổi như thế nào ạ? Giá cả thì mất bao nhiêu? Quà tặng 400k em sẽ bị thu hồi lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.781982,
+         "id": "758773",
+         "field_search": "question",
+         "question": " Cho em hỏi em mới mua laptop ngày 17122015 dán máy có được miễn phí không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.77747,
+         "id": "799179",
+         "field_search": "question",
+         "question": " Em muốn đổi điện thoại Neo 5 lấy F1 vậy giờ em phải bù bao nhiêu dạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.771093,
+         "id": "1158886",
+         "field_search": "question",
+         "question": "Cho e hỏi , e mới mua laptop HP giá 12tr khoảng 2 tuần mà không cài được Win 7 để e đi làm ,giờ e muốn đổi máy liệu có mất tiền gì không ?trả lời Giúp e , cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

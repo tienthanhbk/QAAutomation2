@@ -1,0 +1,801 @@
+{
+   "id_query": "1013379",
+   "total": 30784,
+   "total_current": 100,
+   "max_score": 58.01569,
+   "origin_question": "vừa xạc vừa xài laptop có bị chai pin không ạ em đang dùng laptop dell",
+   "hits": [
+      {
+         "score": 36.281517,
+         "id": "870537",
+         "field_search": "question",
+         "question": " Hiện em đang xài laptop asus TP501UB. Mình vừa sử dụng vừa sạc có bi chai pin gì không a??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.910486,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.81912,
+         "id": "1140261",
+         "field_search": "question",
+         "question": "laptop liền pin thì mình vừa sạc đầy pin sau đó cắm sạc dùng lâu rồi rút dây đem đi thì có bị chai pin không ạ ? giúp em với em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.653986,
+         "id": "950009",
+         "field_search": "question",
+         "question": " cho em hỏi e vừa sạt vừa dùng mà s laptop lại sụt pin chứ không đầy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.294685,
+         "id": "1140392",
+         "field_search": "question",
+         "question": "máy acer aspire E5576G52YQ vừa sử dụng vừa sạc có bị chai pin k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.536177,
+         "id": "780372",
+         "field_search": "question",
+         "question": "Ad cho hỏi pin của máy Asus A556UF có rời k ạ, em hay sử dụng nhiều nhưng pin của máy chỉ có 2 cell, em sợ vừa sạc vừa dùng máy bị chai pin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.522593,
+         "id": "781516",
+         "field_search": "question",
+         "question": "iPhone vừa sạc vừa chơi có bị chai pin không ạ.với cả máy em có hiện đang sạc cỡ 35% pin xong nhảy lên 40% pin trong vòng 2 giây kể từ lúc mở màn hình vậy có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.353958,
+         "id": "909766",
+         "field_search": "question",
+         "question": " Vừa sạc vừa sử dụng laptop pin liền có ảnh hưởng gì không ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.970943,
+         "id": "1020358",
+         "field_search": "question",
+         "question": "Cho em hỏi, e vừa mua laptop Dell https://www.thegioididong.com/laptop/dell-vostro-3568-p63f002 khoảng 1 tháng. e vừa bị TNGT bể màn hình laptop. zậy e được bảo hành gì không ạ, cho e xin giá thay màn hình luôn ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.224693,
+         "id": "839348",
+         "field_search": "question",
+         "question": "Chào các anh chị em có 1 con Laptop hiệu dell , em nghe nhìu khuyên của mọi người là hãng laptop hiện nay có thể vừa để pin vừa cắm nguồn điện để xài dc và sạc đến khi đầy r để dây cắm luôn , vậy có được không ? các anh chị tư vấn cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.089144,
+         "id": "884325",
+         "field_search": "question",
+         "question": " Có thể vừa sạc vừa sử dụng laptop dell n5050 ko v mấy anh chị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.760696,
+         "id": "1137364",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào hiệu quả để cho máy không bị chai pin không ?  máy em là máy laptop dell vostro 5568 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.746428,
+         "id": "873788",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có sửa dây xạc laptop dell k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.552307,
+         "id": "997215",
+         "field_search": "question",
+         "question": "adm ơi em dùng dt oppo  A37fw vừa sạc sạc dự phòng vừa chơi game có bị chai bin ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.320778,
+         "id": "1141978",
+         "field_search": "question",
+         "question": " Cho em hỏi máy laptop dell vostro 5568 thì mình làm cách nào để cần làm gì để pin không bị chai ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.213469,
+         "id": "804426",
+         "field_search": "question",
+         "question": " Em nên sử dụng tế nào để pin laptop không bị chai ạ?Nếu pin bị chai thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.683704,
+         "id": "1151632",
+         "field_search": "question",
+         "question": "Cho em hỏi, em vừa mua laptop dell vostro 5568 sao em không cài tiếng việt được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.559568,
+         "id": "882616",
+         "field_search": "question",
+         "question": "Mình đang xài máy laptop của dell, nhưng mà xài được 1 tý thì pin của laptop nó nóng lên vậy cho mình hỏi là nóng như thế có bị sao không và có làm hư pin không? Nguyên nhân của pin nóng lên là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.293907,
+         "id": "827271",
+         "field_search": "question",
+         "question": "e vừa mua asus K555L pin liền ở thế giớ di động, vì tính chất công việc phải sử dụng laptop liên tục suốt 8 tiếng 1 ngày, làm thể nào để pin không bị chai ạ, e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.162033,
+         "id": "991013",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi là cục sạc laptop của mình nóng rất nhanh, dùng khoảng 30p là nóng khi mình vừa sạc vừa dùng. Mình vừa sạc vừa dùng như vậy tầm 3-4 năm rồi không biết dùng thêm vài năm nữa có sao không ( như cháy,nổ pin )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.056023,
+         "id": "1011008",
+         "field_search": "question",
+         "question": "ad cho em hỏi lap em hiệu dell inprison core i5, pin không tháo rời được. Nếu em vừa sạc vừa dùng có hư pin không ạ, nếu hư thì làm sao khắc phục lúc máy hết pin mà em đaq dùng ạ. Mong ad trả lời em sớm để e bjk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.037891,
+         "id": "886322",
+         "field_search": "question",
+         "question": " Pin laptop bị nóng khi đang xài và không cắm sạc vậy có bị sao không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.90832,
+         "id": "760738",
+         "field_search": "question",
+         "question": " Cho hỏi chiếc máy laptop TP500LB này có vừa sạc vừa dùng được không  nếu để sạc qua đêm có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.80025,
+         "id": "1002583",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng lenovo a7000. Trước đây e vừa sạc bin vừa xem phim vẫn vô bin như bình thường. Nhưng bây giờ em vừa sạc vừa xem phim thì bin vô rất yếu rồi tuột bin như không cắm sạc. Vậy có phải do bin em bị chai rồi không ạ, hay là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.711113,
+         "id": "878794",
+         "field_search": "question",
+         "question": "pin laptop lúc nào cũng cắm sạc và dùng trong 1 tuần mới rút sạc . nhiều lần như vậy pin có bị chai k ạ?, và những việc gây chai pin là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.567728,
+         "id": "1005217",
+         "field_search": "question",
+         "question": "có laptop nào vừa xoài 360 vừa tải được nhiều game không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.558569,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.506762,
+         "id": "1162123",
+         "field_search": "question",
+         "question": "ad cho e hỏi huawei nova 2i vừa sạc vừa dùng pin có bị sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23773,
+         "id": "800269",
+         "field_search": "question",
+         "question": " Pin laptop là pin liền sau này nếu pin chai có thay được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.15046,
+         "id": "907113",
+         "field_search": "question",
+         "question": "bạn ơi laptop của mình khi mua ở tgdd về nhà sạc tầm 2h.khi bật lên để vừa chơi vừa sạc thì pin vừa sạc vừa có chữ X là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.95649,
+         "id": "789820",
+         "field_search": "question",
+         "question": " Mình có nên vừa sạc laptop vừa cắm tai nghe để nghe nhạc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.904247,
+         "id": "957116",
+         "field_search": "question",
+         "question": "LAPTOP DELL WIN 7Làm thế nào để biết các app vừa down về trên laptop là gì? Muốn xóa hết các app vừa down về thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.67921,
+         "id": "1161170",
+         "field_search": "question",
+         "question": "Em là sinh viên không biết em nên chọn con laptop nào vừa chơi game và vừa lập trình được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.191025,
+         "id": "939315",
+         "field_search": "question",
+         "question": " nên gắm xạc pin laptop nhiều dù pin 100 hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.067553,
+         "id": "780127",
+         "field_search": "question",
+         "question": "Mình dùng ipad mà hôm qua để hết cạn pin, sạc không lên nên ra quán kích pin, đem về dùng vừa sạc vừa chơi nó bị tụt pin là bị gì vậy bạn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.04485,
+         "id": "862107",
+         "field_search": "question",
+         "question": " mình đang sài con Dell Inspiron 15 5559M5I5414W có nên vừa cấm sạc vừa sử dụng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.038532,
+         "id": "782894",
+         "field_search": "question",
+         "question": " Qtv ơi cho em hỏi. Mình vừa sạc laptop vùa chơi thì có giật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.96678,
+         "id": "1155110",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi bên mình có bán cục xạc laptop dell ko ạ!E cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.955845,
+         "id": "1005266",
+         "field_search": "question",
+         "question": "cho em hỏi laptop HP của em phải tắt máy hoặc bật chế độ ngủ thì máy mới sạc pin được ạ bây h ko thể vừa  sạc vừa chơi được giúp em với\"(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.734861,
+         "id": "1134941",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài máy xiaomi note 4 , các mod có thể giới thiệu em cái kính thực tế ảo nào giá vừa vừa đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.69947,
+         "id": "886978",
+         "field_search": "question",
+         "question": " Em cần mua 1 con laptop vừa học vừa chơi game tầm 20tr không biết nên mua loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.697983,
+         "id": "1158688",
+         "field_search": "question",
+         "question": "em đang cần mua pin laptop dell inspiron 15 3000 series, bên mình có không ạ, nếu có thì giá cả thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642124,
+         "id": "844301",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.458393,
+         "id": "801030",
+         "field_search": "question",
+         "question": " em đang dùng acer e547350s7 . em xạc đầy pin rồi không dùng vài ngày sau thì thấy máy hết kiệt pin là sao ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.243774,
+         "id": "1150302",
+         "field_search": "question",
+         "question": "Em đang dùng F7 gần đây em sạc tầm 3 tiếng mới đầy em không biết có phải chai pin không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.230282,
+         "id": "999484",
+         "field_search": "question",
+         "question": "Ad cho em hỏi e đang dùng neo 7. Vừa bật nhạc vừa lướt bảng tin fb nhưng sao lại cứ bị dừng nhạc lại vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.103449,
+         "id": "1139320",
+         "field_search": "question",
+         "question": " Em có nhu cầu mua laptop từ 15 triệu trở xuống mà cân bằng vừa học vừa chơi thì nên chọn mua máy nào ạ?Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06082,
+         "id": "1144998",
+         "field_search": "question",
+         "question": "em vừa mua laptop asus vivo book bên mình đợt tết dương vừa rồi bây giờ word,excel..yêu cầu phải kích hoạt thì mới dùng được. Cho e hỏi là e có được cấp key để kích hoạt không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.994436,
+         "id": "835158",
+         "field_search": "question",
+         "question": " Laptop Asus P550L khi sử dụng mà cắm sạc pin để cả ngày có chai pin không ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.976171,
+         "id": "1153942",
+         "field_search": "question",
+         "question": "Tư vấn dùm em laptop vừa học vừa chơi cấu hình mạnh giá từ 13tr15tr với ạ, cho em nhiều loại để em xem thử nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.838923,
+         "id": "824853",
+         "field_search": "question",
+         "question": "Chào anh/chị!Em đang xài laptop Dell Vostro 3559 i5 .Em có thể cài hệ điều hành Windows 7 64 bit được không ạ?Em xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.785786,
+         "id": "856638",
+         "field_search": "question",
+         "question": " Thế giới Di động có bán Adapter xạc PIn của LAPTOP Asus X454L X454LA không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.688864,
+         "id": "821523",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi . mình mua máy laptop hồi tháng 2 hảng asus . Đến h thì máy có hiện tượng bị chai pin . Dùng phần mền thì pin bi chai đến 16.4 % . Cho mình hỏi của hàng mình có bao hành pin pi chai ko . Trả lời sớm cho mình nhé .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678505,
+         "id": "1141826",
+         "field_search": "question",
+         "question": "Em xài xiaomi a2 lite , cho em hỏi nếu mih sạc pin bằng cục sạc dự phòng qua đêm không bt pin có bị chai ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.589502,
+         "id": "1150650",
+         "field_search": "question",
+         "question": "Em đang dùng F7 gần đây em sạc tầm 3 tiếng mới đầy e không biết có chai pin không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57517,
+         "id": "831000",
+         "field_search": "question",
+         "question": " Ad cho em tham khảo laptop nào chơi được Liên Minh huyền thoại ạ giá cả vừa phải thôi ạ vì em đang là sinh viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.54209,
+         "id": "754157",
+         "field_search": "question",
+         "question": "em đang dùng iphone 5điện thoại cuả em khi cắm sạc thì có  dấu hiệu đang xạc nhưng không lên % pin em đã thử dùng tất cả những xạc khác nhưng vẫn bị hiện tượng như vậy. mọi người có thể cho em biết vậy là do pin hay do máy được không ạ ? nếu là do pin thì khi mua dấu hiệu gì để biết đó là pin tốt hay không tốt ạ,và giá cả ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.498926,
+         "id": "811219",
+         "field_search": "question",
+         "question": "Em kiểm tra pin IP 6+ plus 64GB là 2600mah/ 2855mah. Như vậy pin này còn xài tốt không ạ, em vừa mới mua loại đã active",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.492378,
+         "id": "1006940",
+         "field_search": "question",
+         "question": "cho em hỏi con sky a870 của em vừa sạc vừa dùng vẫn tụt pin.sạc đầy rất lâu dung rất nhanh hết pin 100% xem youtube 1h30 p đã hết pin rùi.em đã thay pin nhưng không có tác dụng.ad cho hỏi máy em bị làm sao và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.443039,
+         "id": "785547",
+         "field_search": "question",
+         "question": " Tôi đang xài điện thoại iphone 5s hiện máy đang có tình trạng chai pin vậy cho hỏi ở TGDD có thay pin iphone không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.404444,
+         "id": "931421",
+         "field_search": "question",
+         "question": "AD cho em hõi em bị như hình dưới là bị gì ạ hồi tối còn xài bình thường vừa đến sáng mỡ lên thì bị như vậy và giá sữa chữa là bao nhiêu ạ , laptop cũa e là Asus G75vw",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.319393,
+         "id": "1155779",
+         "field_search": "question",
+         "question": "dạ cho em hỏi bên thế giới di động có thay pin cho laptop hãng dell không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.317135,
+         "id": "1164655",
+         "field_search": "question",
+         "question": "laptop e vừa mở lên bị màng hình xanh rồi ra như  này khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.292225,
+         "id": "969853",
+         "field_search": "question",
+         "question": " Tôi muốn mua laptop vừa chơi lol vừa làm việc tại nhà . xin Qtv giúp tôi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.235146,
+         "id": "745315",
+         "field_search": "question",
+         "question": "Giup em với!!! Em cần mua laptop hãng Dell. em muốn máy mạnh mạnh chút có thể chơi game onlline được, nhất là tối thiểu việc chai pin :( Em không biết nên mua máy Dell nào cả xin tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.224352,
+         "id": "1152679",
+         "field_search": "question",
+         "question": "iphone 8 plus vừa sạc vừa chơi bằng pin dự phòngcó sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.19649,
+         "id": "769566",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 6 , em vừa cài lên IOS 9.2 dùng và thấy máy rất nóng với nhanh hết pin dù em đã bật chế độ tiết kiệm pin. Cho em hỏi có cách nào khắc phục được không ạ? E cám ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.141487,
+         "id": "1002669",
+         "field_search": "question",
+         "question": "Em cần mua một laptop dưới 8 triệu vừa có thể học tập vừa chơi game cầu hình cao như Liên Minh.. thì em nên chọn máy nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.13077,
+         "id": "802259",
+         "field_search": "question",
+         "question": "Chào quản trị viên. Em mới mua laptop Dell 3558.qtv có thể tư vấn cho em cách dùng pin hiệu quả nhất được không ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.117683,
+         "id": "789175",
+         "field_search": "question",
+         "question": " Pin của laptop Lenavo T61 dung lượng 4 cell bị chai hỏng.Ở hãng có bán không?Bán ở đâu?Tôi ở Hà Nội. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.11124,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.021296,
+         "id": "941267",
+         "field_search": "question",
+         "question": " Mình dùng ip 6 mà xài khoảg 3 là hết 1 pin về lướt facebook các kiểu. Liệu có phải pin mình bị chai k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.97829,
+         "id": "762687",
+         "field_search": "question",
+         "question": " Em dùng iphone5 bật wifi không tắt, một đêm rớt 10 pin thì có phải bị chai pin rồi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.96374,
+         "id": "1150199",
+         "field_search": "question",
+         "question": "Em xài xiaomiredmi note 5a prime . Bây giờ điện thoại em bị chai,phồng pin thì bên TGDĐ có dịch vụ thay pin không ạ và không biết mất bao nhiêu thời gian ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.925983,
+         "id": "947632",
+         "field_search": "question",
+         "question": "Tôi vừa mua  Laptop Lenovo Z5070 i3 4030U4G500GVGA2GW...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.868216,
+         "id": "883210",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi . Em có đọc trên một vài trang web họ bảo rằng : Pin của laptop asus sẽ tự động ngắt sạc khi đầy 100% , khi đó chúng ta có thể để nguyên sạc trong ổ điện không cần rút ra và sử dụng máy bình thường vì lúc này máy không sử dụng điện từ pin mà sử dụng điện trực tiếp từ sạc . Cứ để nguyên như vậy không rút ra có thể xài được khoảng 5 ngày ( vì mỗi ngày pin sẽ xuống 1% do nuôi linh kiện ) . Khi còn 94% thì rút sạc ra và xài bình thường vì lúc này máy sẽ tự động kết nối sạc để sạc đầy lại 100% , nếu không rút thì máy sẽ vừa sạc vừa xả sẽ bị chai pin . Khi nào còn 10% thì sạc đầy và tiếp tục làm như trên , làm như vậy sẽ hạn chế số lần sạc pin giúp pin lâu chai . Cách sử dụng như vậy có đúng không ? Việc cắm sạc liên tục không rút ra khi pin đã đầy và dùng có ảnh hưởng gì không ? Em cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.793785,
+         "id": "1151590",
+         "field_search": "question",
+         "question": "Con Laptop Asus nào chơi đc Liên Minh Giá vừa thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.789347,
+         "id": "837086",
+         "field_search": "question",
+         "question": " cho mình hỏi TGDG có bán sạc laptop không ạ? mình dùng máy dell nhưng bị hỏng mất sạc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.711273,
+         "id": "1013415",
+         "field_search": "question",
+         "question": "Khi Vừa sạc vừa sử dụng điện thoại có bị nổ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.662992,
+         "id": "821896",
+         "field_search": "question",
+         "question": " Cho em hỏi em xài iPad Air 2 em xạc pin từ 6h chiều tới 5h sáng có bị j hong anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.650038,
+         "id": "835393",
+         "field_search": "question",
+         "question": "Ad ơi, sao iphone 4 của mình sạc mãi không lên pin. Lúc có pin thì mình vừa sạc vừa dùng nhưng pin vẫn cứ tụt, bình thường nó vẫn tăng mà.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.628357,
+         "id": "766628",
+         "field_search": "question",
+         "question": "Chào adEm giờ dùng iPhone 5S,nhưng không biết tại sao giờ sạc pin vô chậm lắm, vừa chơi vừa sạc không vô lại còn tụt nữa. Ad cho em hỏi điện thoại em hỏng gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.617731,
+         "id": "934865",
+         "field_search": "question",
+         "question": "Cho e hỏi cái này nha : e xài laptop dell buồn quá e lấy laptop ra chơi khoảng 30 phút tắt đi , em xài ít thời gian vậy có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.608875,
+         "id": "997759",
+         "field_search": "question",
+         "question": "Em đang dùng Laptop DELL chạy Windows 10.Hiện tại máy em đang bị lỗi win.em muốn cài win 7 cho máy cho dễ sử dụng.Em có thể mang ra Viễn Thông A giúp được không ạ.thanks ad trước ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.566488,
+         "id": "995717",
+         "field_search": "question",
+         "question": "Cáp sạc của em mua ở tgdd ninh bình được 2 tháng. H sạc có khi cả đêm mới được 50%. Nếu vừa dùng vừa sạc còn bị tụt pin nữa. N.thế có thể mang đến đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.540596,
+         "id": "874461",
+         "field_search": "question",
+         "question": "e mới mua cái laptop về xạc kluôn k nghịch gì nhưng e xạc dc 5 tiếng thay vì 8 tiếng do bố e rút xạc ra bây giờ lap hết pin e xạc đến 10tieng dược k ạ mong nhận hồi âm sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.531607,
+         "id": "998115",
+         "field_search": "question",
+         "question": "Mình mua laptop ở tgdd ,đã hết thời gian bảo hành,nay bị chai pin mình muốn tới tgdd thay pin có đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50934,
+         "id": "1169119",
+         "field_search": "question",
+         "question": "Em đang dùng redmi note 6 vừa mang bảo hành  về  sao lại bị mất cài đặt vân tay rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.488373,
+         "id": "837037",
+         "field_search": "question",
+         "question": "Laptop N5558 i7 của mình mỗi lần sạc pin là độ chai pin tăng lên rất nhiều. Mình dùng được 7 tháng mà độ chai pin lên tới 26,89% O_O. Mình dùng BatteryCare. Mong QTV tư vấn giúp mình. Thansks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.465248,
+         "id": "810372",
+         "field_search": "question",
+         "question": " cho em hỏi về cách xả pin điện thoại ạ.có phải dùng hết pin mới xạc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.431608,
+         "id": "1165105",
+         "field_search": "question",
+         "question": "mình vừa mua máy iphone x của hãng mới được lần sạc đầu tiên đầy pin mà máy không dùng bị tụt % pin không biết có sao không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.413849,
+         "id": "1004815",
+         "field_search": "question",
+         "question": "Vừa khôi phục cài đặt gốc Android vừa sạc pin được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.392246,
+         "id": "792016",
+         "field_search": "question",
+         "question": " Cho em hỏi bây giờ iPhone của em bị chai pin ròi có thay pin được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.378397,
+         "id": "810338",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 6s, vừa mới cập nhật ios 9.3. Kết nối wifi lúc có lúc k, mạng wifi kết nối trên laptop vẫn bt. Giúp mình khắc phục cái.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.373587,
+         "id": "1009407",
+         "field_search": "question",
+         "question": "Pin Mobiistar nhiu tien z. Và có loai pin nào vừa với pin Q nice không. Gắn vừa dien thoai Q nice",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34843,
+         "id": "1165232",
+         "field_search": "question",
+         "question": "Hi AD, cho mình hỏi mình vừa cắm sạc laptop vùa sử dụng và lại vừa cắm tai phím vào thì như vậy điện có truyền vào lỗ tai gây cháy nổ hay điện giật gì không?    Laptop Asus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.332518,
+         "id": "1013316",
+         "field_search": "question",
+         "question": "Ad ơi e đang dùng 5s. Không hiểu sao lúc trc khi đi ngủ e thấy máy còn 56% mà sáng dậy đã tụt xuống còn 32%. E lại dùng tiếp đến lúc báo yếu mới sẠc. Vừa cắm sạc máy đã lên 34% là sao ạ. Hiện tượng này là chai pin ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.318264,
+         "id": "867844",
+         "field_search": "question",
+         "question": " Xin Chào tháng 5 vừa rồi em có mua 1 cái laptop tại cửa hàng bây giờ em bán lại được không ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.205437,
+         "id": "890308",
+         "field_search": "question",
+         "question": "Laptop Dell em vừa mua chung mới con ip6s plus hồi gần cuối tháng 7 mà bây giờ bàn phím nó bị kẹt vài phím như B M hay phím qua lại hay gì đó nhấn nó không ăn nữa thì có bảo hành không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

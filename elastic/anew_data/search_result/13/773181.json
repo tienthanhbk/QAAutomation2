@@ -1,0 +1,801 @@
+{
+   "id_query": "773181",
+   "total": 32346,
+   "total_current": 100,
+   "max_score": 75.293175,
+   "origin_question": "e mới chạy lại ứng dụng ở máy tính nhưng lại không thấy phần mềm diệt virus Bitdefender trên máy nữa thì phải làm sao ạ",
+   "hits": [
+      {
+         "score": 33.41863,
+         "id": "797618",
+         "field_search": "question",
+         "question": "AD cho em hỏi, hùi trước em có mua máy tính Laptop ở THẾ GIỚI DI ĐỘNG, nhưng sài 1 thời gian thì phần mềm diệt virus hết hạn, em phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.721039,
+         "id": "780947",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để diệt virus ở iPhone , tim thì không thấy có ứng dụng diệt vizut nào cho iPhone ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.9616,
+         "id": "767510",
+         "field_search": "question",
+         "question": " Cho em xin link tải phần mềm diệt virus cho máy tính ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.30265,
+         "id": "798374",
+         "field_search": "question",
+         "question": "cho hỏi máy tính HP của mình mới mua , lúc đầu màn hình cảm ứng chạy bình thường nhưng hồi sau lại không nhân được nữa phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.953266,
+         "id": "856044",
+         "field_search": "question",
+         "question": "mình có cài đặt chương trình bitdefender. mình tải au về nhưng bị lỗi phải tắt chương trình diệt virus đi, xem trên mạng hướng dẫn tắt phần WIndows defender nhưng mình tìm mãi ko được như trên mạngMình đã tắt được bitdefender rồi nhưng như vậy là tắt hết chương trình diệt virus chưa?Máy của mình dùng win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.429256,
+         "id": "827583",
+         "field_search": "question",
+         "question": " cho e hỏi cách diệt virus trên iphone 5s vs. đt e bị virus mak e tìm phần mềm diệt virus mãi khôg đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.852373,
+         "id": "755943",
+         "field_search": "question",
+         "question": " Máy iPhone 5s của em có virus bây giờ em phải tải ứng dụng nào để diệt ạ? Em thử tải 360 security nhưng không thấy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.792433,
+         "id": "1013585",
+         "field_search": "question",
+         "question": "Ai cho tôi biết lỗi này trên Windows XP với : Khi tôi cài một ứng dụng lên máy thì chạy được nhưng khi tắt máy và khởi động lại thì không còn thấy ứng dụng nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.712671,
+         "id": "750736",
+         "field_search": "question",
+         "question": "Tôi đang xài phần mêm diệt virus bitdefender, chỉ còn 15 ngày, nếu muốn xài tiếp phải làm sao và tốn bao nhiêu, có đang khuyến mãi hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.593922,
+         "id": "745218",
+         "field_search": "question",
+         "question": " Mình muốn tải ứng dụng diệt virus trên iPhone mà không biết phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.027132,
+         "id": "764309",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm sao để diệt virus trên ịphone và có cần tải ứng dụng diệt virut không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.748907,
+         "id": "867645",
+         "field_search": "question",
+         "question": " cho hỏi phần mềm diệt virus trên điện thoại iphone sau ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.574373,
+         "id": "900142",
+         "field_search": "question",
+         "question": " máy e bị quên mật khẩu icloud mà khi đi chạy phần mềm thì ko dùng được nữa thì phải làm sao hả add  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.428509,
+         "id": "867646",
+         "field_search": "question",
+         "question": " cho hỏi tải phần mềm diệt virus trên điện thoại iphone sau ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.21795,
+         "id": "1151248",
+         "field_search": "question",
+         "question": "cho mình hỏi là trên pc Win 10, mình cài ứng dụng Bluestack, Coc Coc, và một số phần mềm khác dưới quyền Admin, nhưng khi chuyển sang tài khoản User khác thì không thấy ứng dụng đó nữa, làm cách nào để mình có thể chạy các ứng dụng đó trong tài khoản User khác mà không phải cài thêm cho nặng máy không? xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.00606,
+         "id": "803757",
+         "field_search": "question",
+         "question": " có phần mềm nào diệt virus cho iPhone không vậy a,e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.933594,
+         "id": "775736",
+         "field_search": "question",
+         "question": "Cho tôi hỏi phần mềm windows defender trong win 7 có diệt virus được không? máy tính của tôi chỉ sử dụng mỗi phần mềm đó thì liệu có an toàn không? vừa qua kiểm tra má tính thì tôi phát hiện có một file tên wmiaprpl.h. File đó là an toàn hay virus?Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.588436,
+         "id": "916651",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏiMáy e bị hỏng chân sạc cứ cắm vào là lên hình chân sạc với hình nốt nhạc...e có đem đt ra quan sửa thì a sửa đt chạy lại phần mềm cho e .nhưng sau khi chạy lại phần mềm thì máy yêu cầu nhập tài khoản iCloud mới mở đk máy...nhưng e bị quên tài khoản r thì bh e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.463453,
+         "id": "1150765",
+         "field_search": "question",
+         "question": "Tại sao máy (oppo A3s) của tôi mới cập nhật phần mềm buổi tối sáng kiểm tra máy lại thấy hình màn hỉnh khóa bị mờ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.449633,
+         "id": "840418",
+         "field_search": "question",
+         "question": "Mình sử dụng máy Laptop Asus X553M Win8.1 with Bing. Có cài đặt Bitdefender và gói Office 365 mua tại TGDĐ. Hiện tại, mình muốn khôi phục lại máy vì máy có hiện tượng chậm. SỬ dụng chế độ khôi phục giữ lại các tệp cá nhân thì nó vẫn xóa đi các phần mềm khác như Bitdefender và Office 365. Vậy cho mình hỏi, mình muốn giữ lại hai ứng dụng này (nếu giữ lại được tất cả ứng dụng thì càng tốt) thì mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.235195,
+         "id": "781862",
+         "field_search": "question",
+         "question": " Chào anh chị, em mới mua iPhone 5S có cần tải phần mềm diệt virus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.075161,
+         "id": "777295",
+         "field_search": "question",
+         "question": "Cho em hỏi về máy iPhone. Em vào web thì máy báo nhiễm virus. Và có giới thiệu cho em cài Appcola để diệt virus nhưng em không biết tìm phần diệt virus ở đâu. Anh có thể giúp em được không ạ. Cảm ơn a.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.05629,
+         "id": "898637",
+         "field_search": "question",
+         "question": " khi mua máy có office16 và bitdefender nhưng bây giờ không nhớ tài khoản thì phải làm s ạ e mới mua máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.89251,
+         "id": "910503",
+         "field_search": "question",
+         "question": " mới mua máy tính asus nhưng lại tải phần mềm chụp ảnh không chụp được làm thế nào để chụp được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.87411,
+         "id": "832096",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao e không tải đc phần mềm diệt virus cho iPhone 5s vậy. Hoặc nếu tải đc cũng k sử dụng đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.84033,
+         "id": "744556",
+         "field_search": "question",
+         "question": " Muốn diệt virus máy oppo joy 3 phải làm sao và khôi phục pin thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.732761,
+         "id": "804022",
+         "field_search": "question",
+         "question": " Cho mình hỏi là mình có thể mua phần mềm diệt virut cho máy tính ở TGDD không??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.72812,
+         "id": "999395",
+         "field_search": "question",
+         "question": "SAMSUNG A52017 CO CẦN DÙNG PHẦN MỀM DIỆT VIRUS KHÔNG?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.675207,
+         "id": "886367",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 5. Máy e thấy thông báo nhiễm 4 virus phá hoại pin . Hiện tại e sạc pin chỉ được 92% ko đầy được . Xin hỏi e nen tải phần mềm nào để diệt virus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.612469,
+         "id": "1148402",
+         "field_search": "question",
+         "question": "Phần mềm com.android.system.ui là virus phải không ạ em nhớ lúc mới mua đâu có nó ạ, chỉ có phần mềm com.android.systemui à mấy phần mềm quét virus (VirusTotal) cho nó là Trojan virus ạ, nhưng không nào xóa nó được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.560518,
+         "id": "799427",
+         "field_search": "question",
+         "question": "Máy của em là iphone 5s. em vào xem phim có cảnh báo là máy đã nhiễm virus. Mở Safari ra ở phần thường xuyên truy cập lại có cảnh báo. Ấn vào cảnh báo máy báo có virus và yêu cầu làm theo thao tác diệt virus. em muốn bỏ chỗ cảnh báo đó đi thì phải làm sao? (Em đã cài đặt lại iphone rồi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.515806,
+         "id": "845481",
+         "field_search": "question",
+         "question": " ứng dụng diệt virus nào tốt mà miễn phí cho máy tính dell windows 10 vậy add.cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.488855,
+         "id": "897698",
+         "field_search": "question",
+         "question": "Máy tính của e mua ở tgdd. Mỗi lần e tải ứng dụng gì trên 200MB là máy nó lag. Em phải làm gì để nó hết lag mà máy vẫn tải dc nhiều phần mềm nặng hơn. Máy của em là dell insprion 15 3000 series",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.439077,
+         "id": "824748",
+         "field_search": "question",
+         "question": "Qtv làm ơn cho hỏi tại sao đt chạy window phone thì không bị virut con laptop chạy window thì bị và cần phải cài đặt phần mềm diệt virut.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.436426,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.277424,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.267458,
+         "id": "807814",
+         "field_search": "question",
+         "question": " Diệt virus trên điện thoại Samsung J1 phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.266735,
+         "id": "1150831",
+         "field_search": "question",
+         "question": "E đang dùng iphone 5s đang ở bản ios 10.2.1 pin mới thay độ chai pin 0% Máy có chơi game liên quân mobile gặp tình trạng đánh đc 1 trận lại tự thoát ứng dụng và phải vào lại game để đánh trận khác E muốn chạy lại phần mềm cho máy để nó lên ios 10.3.3 được không ạ và giúp e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.218885,
+         "id": "840373",
+         "field_search": "question",
+         "question": "Cho e hỏi phần mềm cốccốc của iPhone 5s tải phim trên phimmoi.net tải về chưa được nữa phim thì bị lỗi thì phải làm sao ạ.có phần mềm nào tải phim cho iPhone nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.14467,
+         "id": "830817",
+         "field_search": "question",
+         "question": "laptop mình khi vào chorome hay cốc cốc thì máy lại tự động chuyển sang trang wed lạ khác hoặc vào trang này lại nhảy sang trang kia , có phải là bị nhiễm virus rồi đúng ko ạ ?máy mình chưa cài phần mềm diệt virus nào cả . có cách khắc phục ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.084517,
+         "id": "822548",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất mặt khẩu iCloud em muốn lấy lại làm cách nào và phần mềm diệt virus thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.075813,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.002104,
+         "id": "1023555",
+         "field_search": "question",
+         "question": "Máy SS S6 edge plus phần ghi âm, máy tính ở đâu ạ? E tìm nhưng k có ứng dụng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.792446,
+         "id": "808953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi , có phần mềm diệt virus nào hiệu quả cho iphone không ạ? Em mới tậu một em iphone 5s, mà sợ hay lên mạng google máy mó này nọ, lại rước về nhà không biết bao nhiêu em virus thì đau khổ lắm !!!! help helppp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.777342,
+         "id": "771758",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 6s có phần mềm diệt virus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.686195,
+         "id": "870359",
+         "field_search": "question",
+         "question": "Thegioididong có nhận cài phần mềm diệt virus cho laptop k ? và cho mình hỏi bây giờ nên cài loại phần mềm diệt virus nào là tốt nhất ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.668867,
+         "id": "988725",
+         "field_search": "question",
+         "question": "máy tính mình mới mua được 5 tháng ở TGDĐ hôm qua đi chạy lại máy giờ nó còn đơ hơn trước di chuột còn không chạy. cho mình hỏi giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.650167,
+         "id": "810891",
+         "field_search": "question",
+         "question": " Cho em hỏi phần mềm diệt virus cho iphone tên gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.611877,
+         "id": "1001727",
+         "field_search": "question",
+         "question": " Máy của em sao lại bị như vậy ạ. Em muốn chạy lại phần mền thì phải làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.559944,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.49103,
+         "id": "848154",
+         "field_search": "question",
+         "question": " bên thế giới di động có bán phần mềm diệt virus kaspersky antivirus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.418318,
+         "id": "903454",
+         "field_search": "question",
+         "question": "Em cài phần mềm XperiaCompanion,nhưng máy cứ báo lỗi này, chuyển sang máy khác cũng vậy. 2 máy đều xài win 7, Gở bỏ phần mềm diệt virut rồi)chuyển sang cái máy khác win 10 thì được, nhưng máy này lại không nhận điện thoại sony. hạ xuống cài Sony pc Companion khi khởi động nó cứ bắt cập nhật mới cho sử dụng, nhưng cập nhật lại báo lỗi, trên cả 3 máy. Anh/ Chị giúp em nhé! cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.374546,
+         "id": "1142661",
+         "field_search": "question",
+         "question": "Máy Lumia 730 vào facebook ở web và ứng dụng bị vănh ra mang máy ra tiệm chạy lại phần mềm sài được lúc giờ lại bị văng ra.trong lúc văng ra có báo tải ứng dụng nhưng vào cữa hàng tìm không có facebook để tải.mong anh chị giải đáp giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.306757,
+         "id": "801705",
+         "field_search": "question",
+         "question": " E mới mua iPhone 5s khi lên mạng thì máy báo bị nhiễm virus cần phải diệt gấp..... V máy có bị nhiễm virus ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.261177,
+         "id": "616432",
+         "field_search": "question",
+         "question": " Điện thoại Iphone có cần phài cài phần mềm diệt virus không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.255987,
+         "id": "761118",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 6 Plus có phần mềm diệt virus không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.251516,
+         "id": "994031",
+         "field_search": "question",
+         "question": "Xin cho em hỏi về virus trên MacBook pro.Chị em có 1 cái MacBook pro nhưng ko biết nhiều về máy tính nên tải+cài cái này, cái kia về, nên giờ máy xuất hiện nhiều file lạ trên màn hình.Chị em đã để máy như vậy rất lâu rồi (khoảng hơn 6 tháng rồi, vì thấy tùm lum trên máy tính hết nên mới hỏi em, từ đó em mới biết)Xin cho em hỏi - nếu em reset về cài đặt gốc liệu có hết virus hay không ạ?- liệu để virus lâu trên máy tính như vậy, đã có hư hỏng phần mềm/ phần cứng gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.2274,
+         "id": "770631",
+         "field_search": "question",
+         "question": " iPhone báo nhiễm virus thì phải làm sao để diệt vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.184431,
+         "id": "1021034",
+         "field_search": "question",
+         "question": "cho em hỏi em tới trung tâm mua phần mềm diệt virus thì cài office có mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.056725,
+         "id": "948440",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Mình mới mua laptop ở tgdd, nhưng k biết vì sao máy tính sài được 3 ngày thì máy giật lag. Scan thì k thấy virus... A, chị nào giúp e với. Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.044409,
+         "id": "1000704",
+         "field_search": "question",
+         "question": "Máy tính em là Dell inspiron 5459 i7 Mới dùng được 3 tháng nhưng em cảm thấy máy bị hỏng phần mềm muốn cài lại Win có mất phí k ạCòn bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.99693,
+         "id": "781338",
+         "field_search": "question",
+         "question": "Em đang dùng Asus f454l chạy win 10 nhưng máy bị lỗi phải reset lại reset xong máy bị mất phần mềm asus smart gesture giờ em tải nó ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.974173,
+         "id": "780660",
+         "field_search": "question",
+         "question": " Laptop của em hiện đang bị virus nên em muốn chạy chương trình lại cho máy thi phải làm sao ạ máy hp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.964785,
+         "id": "868835",
+         "field_search": "question",
+         "question": "E Sài Ip 5s ,e mới nang cấp len phần mềm IOS 9.3.3 .e nang cấp xong mạng 3G với ứng dụng ko chạy nổi.nhất là mạng 3G cứ hiện len chữ E? Gio e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.916826,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.907282,
+         "id": "998217",
+         "field_search": "question",
+         "question": "chạy lại phần mềm androi cho oppo neo5 có bị tính tiền không?có thì khoảng bao nhiêu ah?vì máy đầy bộ nhớ, muốn chạy lại phần mêm nguyên thủy ban đầu chưa cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.899931,
+         "id": "875614",
+         "field_search": "question",
+         "question": "tại sao tài khoản icloud của em khi đăng nhập vào icloud.com trên máy tính thì đăng nhập được còn ở điện thoại lúc chạy lại phần mềm thì nó lại ghi là không thế kích hoạt bằng email này . admin biết là do cái gì không ạ.Mong addmin cho e câu trả lời sớm nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.83518,
+         "id": "871725",
+         "field_search": "question",
+         "question": " Trong máy iPhone 3GS có phần mềm diệt virut phải không nếu co thi bấm vào đâu dể diệt vỉut ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.826885,
+         "id": "1024173",
+         "field_search": "question",
+         "question": " Mình đã tải về phần mềm diệt virus xong rồi.sao không mở tệp được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.780344,
+         "id": "750641",
+         "field_search": "question",
+         "question": " Giờ máy tính mình bị nhiễm virus thì tốn bao nhiêu tiền để diệt virus? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.659775,
+         "id": "785072",
+         "field_search": "question",
+         "question": "  thế giới di động có bán phần mềm diệt virus vs dọn rác cho laptop không ạ ???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587788,
+         "id": "818341",
+         "field_search": "question",
+         "question": "KTV làm ơn cho em hỏi laptop của em không hiểu sao bị virus tên là hardware. Em dùng phần mềm avira quét rồi nhưng mà khi mở máy lại thì nó vẫn báo virus em đã tìm ra file định xóa file gốc những file được bảo vệ không xóa được. Xin KTV tư vấn giúp em làm sao để diệt tận gốc virus.Dong may dell n5448.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.474674,
+         "id": "1145006",
+         "field_search": "question",
+         "question": "+ tôi muốn cài phần mềm win bản quyền thì bao nhiêu tiền, và khi tôi đổi sang máy tính khác thì tôi có dùng được phần mềm bản quyền đó nữa ko?+ và cài phần mềm office bản quyền thì bao nhiêu tiền , khi đổi sang máy tính khác có dùng lại phần mềm đó được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.398834,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.372587,
+         "id": "819000",
+         "field_search": "question",
+         "question": "Cho em hỏi e đang dùng win 10 trên máy asus x555, e muốn cài 1 win 7 chạy song song ở ổ cứng khác, khi chạy reset máy lại menu boot thì nó chặn lại không cho tiếp tục vậy e phải làm sao với menu boot",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.306875,
+         "id": "862885",
+         "field_search": "question",
+         "question": "mình muốn mua máy tính chạy phần mềm thiết kế thời trang, mình muốn hỏi máy tính core i3 có đáp ứng được không, cảm on!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.302814,
+         "id": "858943",
+         "field_search": "question",
+         "question": " Sau khi cập nhật lại messenger trên máy ip4s thì mình ko còn phần ghi âm nữa vậy làm sao để lấy lại ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.299929,
+         "id": "893602",
+         "field_search": "question",
+         "question": "ChàoLaptop mình vừa đk mua phần mềm diệt vi rút tại TGDĐ, vừa mở máy lap lên thì trên màn hình nó chạy locking. Mình thử tắt nguồn r mở lại thì cũng vẫn màn hình chạy locking. Ko biết là máy bị lỗi gì ah? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.260447,
+         "id": "889225",
+         "field_search": "question",
+         "question": "em muốn hỏi làm cách nào bật tường lửa với chống virus của bitdefender 2016 ạ, bản quyền vẫn còn 300 mấy ngày, nhưng hôm qua em lại cho phần mềm tự sửa lỗi, thế là nó hiện lên mấy cái đó đã hết hạn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.225908,
+         "id": "768748",
+         "field_search": "question",
+         "question": " Có ứng dụng diệt virus nào tốt cho iPad mini không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.21234,
+         "id": "807151",
+         "field_search": "question",
+         "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.198275,
+         "id": "808240",
+         "field_search": "question",
+         "question": " iPhone báo nhiễm virus thì phải làm sao để diệt vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.156588,
+         "id": "843654",
+         "field_search": "question",
+         "question": "hiện tại e đang sử dụng oppo neo 3 nhưng mấy hôm nay thì truy cập chrome, chplay và những ứng dụng khác ( trừ facebook và bản đồ ) là bị thoát ra, hôm qua e có lên TGDD chạy lại phần mềm thì sáng nay lại bị lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.153744,
+         "id": "836432",
+         "field_search": "question",
+         "question": "E có 1 máy tính Hp450 mua ở siêu thị Buôn Ma thuật 1 năm trướcGiờ e muốn cài đặt khôi phục lại máy tính chạy nhanh hơn. Làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.10451,
+         "id": "856270",
+         "field_search": "question",
+         "question": "Ad cho em ? e dùng iPhone 5 có dow ứng dụng kiểm tra pin về máy và bị cảnh báo nhiễm 6 con virus cần diệt ngay nếu k pin bị hỏng ad cho e ? bg phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.04704,
+         "id": "812521",
+         "field_search": "question",
+         "question": "Em mua cũ lại iPhone 6s plus nhưng đã cài khoá vân tay, mà chủ máy lại không ở đây, vậy em phải làm sao mới mở được máy và sử dụng ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.043999,
+         "id": "801768",
+         "field_search": "question",
+         "question": " iPhone báo nhiễm virus thì phải làm sao để diệt vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.02552,
+         "id": "757289",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5 khi xem phim thấy máy báo có virus 17 con có lúc lên 52 con rồi nếu không diệt virus sẽ hỏng pin tới 72%. Lần sau vào lại hiện và hiện hình ảnh của phần cài đặt đang quét virus ạ ? Cho em hỏi máy em bị nhiễn virus không? Cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.006462,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.99247,
+         "id": "761492",
+         "field_search": "question",
+         "question": "Mình đang dùng laptop dell inspiron n4050. Mình mới cài phần mềm magic deskop, khi vào thì bị đơ máy,mình tắt và khởi động lại máy thì lại hiện lên hình màu đen và chỉ xuất hiện con trỏ chuột còn lại không thấy gì cả, mình muốn hết hiên tượng này thì phải làm sao ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.967838,
+         "id": "814014",
+         "field_search": "question",
+         "question": " iPhone báo nhiễm virus thì phải làm sao để diệt vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.96725,
+         "id": "924251",
+         "field_search": "question",
+         "question": " Chị ơi máy tính em là loại acer trên máy tính có ổ đĩa nhưng e không mở được,phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.954592,
+         "id": "871343",
+         "field_search": "question",
+         "question": "Anh chị cho em biết nhung ứng dụng diệt virus trên iphone . Em đang dùng iphone 5 máy em bị nhiễm virus mà không biết cách diệt nên em mong anh chị cho em biết cách . Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93807,
+         "id": "1150877",
+         "field_search": "question",
+         "question": "Cho em hỏi là nên chọn phần mềm diệt virus nào cho laptop tốt nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.885418,
+         "id": "760111",
+         "field_search": "question",
+         "question": "Em vào safari để tìm web xem phim nhưng nó cứ hiện lên là máy phát hiện 6 con virus từ những trang web người lớn làm tổn hại danh bạ máy và pin. Em có tải phần mềm avira nhưng chẳng biết diệt hay chưa. Làm sao để biết còn virus hay không và dùng avira thế nào ạ? Em dùng iphone 5 ạ. Thank's!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.849617,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.786942,
+         "id": "1157120",
+         "field_search": "question",
+         "question": "Nii Cho em hỏi máy em là iphone 8 plus, theo em biết thì trên hệ điều hành IOS thì story của facebook và instagram có phần chèn âm nhạc nhưng tại sao máy em không có dù đã cập nhật đầy đủ? Đây là lỗi của máy hay lỗi ứng dụng? Em phải làm sao để có phần chèn này? Máy bạn em 6s+ chưa cập nhật phần mền mới nhưng vẫn sử dụng được tính năng này!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.786736,
+         "id": "1160008",
+         "field_search": "question",
+         "question": "Máy e là iphone 5s chạy ios 11.4.1 phiên bản 16GB,gần đây e có kiểm tra trong phần dung lượng iphone thì thấy phần “khác” chiếm tới 6,88GB mà e có tham khảo trên mạng thì thấy thường phần này chỉ chiếm vài trăm mb.Cho e hỏi có cách nào để xoá bớt dung lượng mà phần này sử dụng mà không cần resert lại máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.702595,
+         "id": "895787",
+         "field_search": "question",
+         "question": " IphoneSE thì có cần phải dùng phần mềm diệt virut không ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

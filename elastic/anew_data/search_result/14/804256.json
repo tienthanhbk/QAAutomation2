@@ -1,0 +1,801 @@
+{
+   "id_query": "804256",
+   "total": 29685,
+   "total_current": 100,
+   "max_score": 45.798275,
+   "origin_question": " Qtv cho em hỏi điên thoai em sạc nó báo như này là bị sao?  ",
+   "hits": [
+      {
+         "score": 20.561913,
+         "id": "1135440",
+         "field_search": "question",
+         "question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.791304,
+         "id": "754406",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi, máy báo lỗi như thế này là bị sao vậy ạ ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70972,
+         "id": "1013393",
+         "field_search": "question",
+         "question": "Gio em muôn di tra góp tiên điên thoai ma em không mang theo cai to giày dong tiên điên thoai co được hong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.4708,
+         "id": "1017679",
+         "field_search": "question",
+         "question": "  Cho em hỏi cắm sạc vào nó thông báo thế này và cách khắc phục làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.447977,
+         "id": "1003353",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại em bị rớt nhưng không bị bể màn hình. Nhưng nó bị như thế này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.268877,
+         "id": "914004",
+         "field_search": "question",
+         "question": " cho em hỏi sao lap top em chỉ sạc được 89 là không thể sạc vào nữa, cho em hỏi vậy là bị như nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.234812,
+         "id": "837812",
+         "field_search": "question",
+         "question": "Máy tính của mình khi sạc thì hiện ra thông báo như thế này, đồng thời cũng không nhận sạc. QTV cho mình hỏi khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.217302,
+         "id": "1165486",
+         "field_search": "question",
+         "question": "em moi mua điên thoại trả góp gio e đôi sang điên thoai khac đuoc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.976494,
+         "id": "1168189",
+         "field_search": "question",
+         "question": "Cho em hỏi sạc điên thoại Galaxg A6 có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.949545,
+         "id": "828488",
+         "field_search": "question",
+         "question": " Ad cho hỏi như này là bị sao vậy cứ đăng nhập vô là nó hiện ra như vậy ad giải đáp hộ em nhanh nha  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.941982,
+         "id": "1002641",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em ko biết bị gì nữa mà sạc nó ko vô bin em cúp nguồn sạc thì nó mới vô còn mở nguồn sạc thì nó ko vô toàn báo bin yếu rồi sập nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.735817,
+         "id": "992911",
+         "field_search": "question",
+         "question": "Chào các mod và qtv của tgdđ.Em đang dùng con ipad air 2, em muốn hỏi là sao cứ sạc pin chỉ khoảng 2phút là đầu sạc nối vào ổ cắm và đầu nối vào máy rất nóng??? Đây là do sạc hay do máy của em.  Nó nóng như vậy có bị hỏng sạc,chảy dây sạc hay hỏng máy không? Có cách nào làm cho nó không nóng khi sạc pin được không. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.650423,
+         "id": "751971",
+         "field_search": "question",
+         "question": "    Cho em hỏi. sao em dùng ram 8gb mà chơi mấy game nhẹ nhẹ này nó vẫn báo thiếu ram là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.633936,
+         "id": "1001743",
+         "field_search": "question",
+         "question": "QTV cho em hỏi máy em samsung j7 2016 chơi còn 0% sạc lên 85% xog em sạc thêm 30p nữa lên đc 86% cho hỏi bị gì vậy qtv nếu em chơi còn 20% trở lên sạc đến 100% bình thường nhưng còn 0% thì sạc 86% là đứng yên .. vậy là bị gì vậy ạ mong qtv trả lời ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.562065,
+         "id": "747857",
+         "field_search": "question",
+         "question": "Qtv ơi em đang dùng điện thoại iPhone 5 . Anh chị cho em hỏi hôm nay em đang lướt web thì máy báo như này  vậy điện thoại của em có bị làm sao không anh chị tư vẫn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.515835,
+         "id": "843476",
+         "field_search": "question",
+         "question": "QTV cho em hỏi con iPhone 6s của em nó bị như thế này thì sửa hết bao nhiêu tiền ạ,cảm ứng bình thường chỉ bị đổ mực vs bung nắp như v thoi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.415699,
+         "id": "791362",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi đăng ký tài khoản Apple tới bước này nó báo lỗi như vậy thì xử lý như thế nào? Cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.256363,
+         "id": "1010373",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua điên thoai mobiistar zumbo j2  em mún đổi lại cái xiaomi 4a thì phải bù bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.248068,
+         "id": "793192",
+         "field_search": "question",
+         "question": " Điện thoại sạc pin mà báo như này thì khắc phục làm sao vậy ad Giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.185509,
+         "id": "896088",
+         "field_search": "question",
+         "question": " Hôm nay sao e sạc pin sao dt nó báo cáp hoặc sạc ko phù hợp với ip này là sao v add? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.110046,
+         "id": "835833",
+         "field_search": "question",
+         "question": "Cho em hỏi sao mỗi khi em sạc iPhone 4 thì máy nó nóng cũng về đây sạc cũng bị nóng luôn không biết cái này có phải bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.104744,
+         "id": "823245",
+         "field_search": "question",
+         "question": " Sao vào là cứ báo như thế này là sao ad. giúp em với ad   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.081547,
+         "id": "1019014",
+         "field_search": "question",
+         "question": " Nó cứ báo như thế này là sao ad ơi... J7 prime.....,.,.........  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.058199,
+         "id": "946195",
+         "field_search": "question",
+         "question": "Add ơi, em dùng a37 nhưng nó bị thế này này, e không biết phải làm sao để nó trở lại như bình thường nữa ạ. Rõ là có Wi-Fi mà máy báo không có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.017103,
+         "id": "874741",
+         "field_search": "question",
+         "question": "mỗi lần mở là máy em hiện lên như thế này, cho em hỏi nó bị lỗi gì vậy anh/chị, làm sao em có thể khắc phục?em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.992542,
+         "id": "906487",
+         "field_search": "question",
+         "question": " Có ai cao thủ giúp em vụ này với? em vào nó cứ báo thế này là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.944002,
+         "id": "845774",
+         "field_search": "question",
+         "question": "Máy tính của mẹ em hiện thế này là sao ạ? Mẹ em chuyển thư mục Program Files từ ổ C sang ổ D nó cứ báo lỗi như thế này là sao ạ? Ai chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.854858,
+         "id": "762707",
+         "field_search": "question",
+         "question": "Sao mình chèn ảnh mà nó hiện ảnh khác như thế này là sao? Và qtv kiểm tra dùm imei này với ah. Em không kiểm tra được. 354391060962623 cảm ơn nhiều ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.834177,
+         "id": "1138623",
+         "field_search": "question",
+         "question": " Cho em hỏi instagram của em như vầy là bị sao ạ và làm như thế nào để nó hết bị như vầy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.83344,
+         "id": "797622",
+         "field_search": "question",
+         "question": " Cho em hỏi em vô zalo em muốn xóa vị trí mà sao nó lại báo lổi ntn mong qtv giúp em trả lời sớm  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.804726,
+         "id": "1163373",
+         "field_search": "question",
+         "question": "Cho em hỏi icloud em bị như này là sao ạ. Em đăng nhập là bị thoát. Vào facetime hay imess đều bị lỗi ạ. E c.ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.65943,
+         "id": "759009",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, máy e tự dưng báo là iphone này đã bị mất và bị xóa, hãy đăng nhập bằng ID Apple đã được sử dụng để xóa IPhone này, như thế là sao ah, giúp e với ah, em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.589296,
+         "id": "828917",
+         "field_search": "question",
+         "question": " Sao điên thoại mình ko đăng nhập được facbook ..nó báo lỗi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.5875,
+         "id": "780396",
+         "field_search": "question",
+         "question": "Cho em hỏi, em dùng iphone 4, bị rơi xuống nước mang đi sấy dùng lại được rồi nhưng đến mấy ngày hôm sau sạc pin vào rất châm và cuối cùng pin nó không vào nữa, điện thoại tắt nguồn sạc cũng không vào. Dùng sạc khác nó cũng vẫn vậy. Hiện tại điên thoại em đang bị tắt nguồn không sạc được pin, cắm sạc để 1 lúc nó tự bất nguồn, rung rồi lại tự tắt... Cho em hỏi pin của em có sao không vậy, hu hu..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.579817,
+         "id": "822257",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Em xài ip5s lúc vào safari nó cứ hiện thông báo là ip của bạn bị nhiễm virus. Như vậy có bị sao không ad. Nếu vậy phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.521124,
+         "id": "1161893",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại sạc pin nó vẫn vô pin mà em để cả 3 tiếng nó vẫn không lên % pin nào cả vẫn cứ như lúc mới cắm sạc vậy là bị lỗi gì em xài máy samsung galaxy j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.507093,
+         "id": "819277",
+         "field_search": "question",
+         "question": " QTV cho em hỏi pin iphone 5s của em như thế này có ổn không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.483332,
+         "id": "771069",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone em đang xài nó hiện báo pin bị hỏng phát hiện 19 virus là sao vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.461018,
+         "id": "757367",
+         "field_search": "question",
+         "question": "Em đang dọc báo trên iPhone 5 thì máy báo có virus bảo diệt em bấm ok thì nó ra mấy trang web. Thấy vậy em tắt máy, như vậy có bị dính virus không? Sao mọi hôm sạc pin bình thường hôm đó sạc pin xong nó báo dây cáp chưa xác nhận không hợp với iPhone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.459326,
+         "id": "1157861",
+         "field_search": "question",
+         "question": "Sau một đêm sạc điện thoại của em là realme c1 thì mở nguồn không lên. Cáp sạc vẫn tốt. Bị như này là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.422207,
+         "id": "743615",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi sao em vào email thì báo là điện thoại này bị giới hạn tạo tài khoản là sao em không vào được iCloud luôn hix",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.37147,
+         "id": "800367",
+         "field_search": "question",
+         "question": " Cho em hỏi khi tải trò chơi nó hiện lên như thế này mà nhập hoài không được là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32044,
+         "id": "1138880",
+         "field_search": "question",
+         "question": "cho em hỏi dt e sạc pin không vào được  bị như tnn là sao ạ. Em dang dùng galaxy j6 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.22341,
+         "id": "800204",
+         "field_search": "question",
+         "question": " Cho em hỏi. laptop của em khởi động là có thông báo như thế này thì có sao không ạ? cách khắc phục thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.215511,
+         "id": "1135375",
+         "field_search": "question",
+         "question": "cho em hỏi, em dùng điện thoại iPone 5. em sạc vào thì nó vẫn báo đang sạc rồi pin nó cứ tụt dần ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.196112,
+         "id": "1160527",
+         "field_search": "question",
+         "question": "cho em hỏi em sạc pin điện thoại vẫn hiện thông báo sạc nhưng ko lên phần trăm là do bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.148918,
+         "id": "908798",
+         "field_search": "question",
+         "question": "Ad cho hỏi cái máy tính của t đang bị cái gì không, sạc pin mà nó báo không sạc. sạc vẫn sáng màn hình nhưng nó báo là (đã cắm vào, không sạc). máy tính dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.13327,
+         "id": "951050",
+         "field_search": "question",
+         "question": "  Khi em reset win 10 nó bị lỗi như vậy phải làm sao để khắc phục vậy QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.127363,
+         "id": "908913",
+         "field_search": "question",
+         "question": " Cho em hỏi như thế này là sao vậy? Em Xài wifi lên mà như vậy.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.07208,
+         "id": "874912",
+         "field_search": "question",
+         "question": " Cho em hỏi khi sạc iphone 6s củ sạc bị nóng là bị sao ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.06134,
+         "id": "1144622",
+         "field_search": "question",
+         "question": " cho hỏi! Như thế này là sao ạ? Nó bị mất đi cái khung Wifi và Networks 2 rùi! Làm sao bật nó lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.060295,
+         "id": "763389",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi Samsung Galaxy A8A800VE sạc bao nhiêu tiếng là đầy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.035982,
+         "id": "1152584",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua Nokia 8.1 sao chia đôi màn hình lại không được ạ?nó báo lỗi như dưới ảnh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.020624,
+         "id": "1139212",
+         "field_search": "question",
+         "question": "điện thoại em bị như vậy là sao ạ tự nhiên đang sài ngon mà bị vậy em củng hk pk sao nửa nó báo là '' đả sãy ra lỗi với cảm biến dấu vân tayNiếu thông báo này xuấn hiện nhiều hãy khởi động máy lại '' mà em dẳ khởi động nhiều lần rồi mà vẫn vậy bây giờ làm sao ạ mong giúp dỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.991793,
+         "id": "820881",
+         "field_search": "question",
+         "question": " Ad cho em hỏi con iphone 4s của em sạc pin nó không vào nhưng tắt nguồn đi sạc nó lại vào là sao ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.949416,
+         "id": "788557",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ! em đang xài iphone 5 mà sao mỗi lần tải ứng dụng từ appvn là bị như vầy , em phải khắc phục như thế nào mới tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9305105,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.899521,
+         "id": "1165906",
+         "field_search": "question",
+         "question": "Khi cắm sạc vào thì nó báo như thế này máy e ss a7 2018 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.847442,
+         "id": "897001",
+         "field_search": "question",
+         "question": " Máy em iPhone 6 kiểm tra imei bị như này là sao ạ? Tắt tìm kiếm đi rồi nó vẫn hiện là on? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.836249,
+         "id": "1017058",
+         "field_search": "question",
+         "question": "Tôi dùng ss j5 pr Sao tôi gửi tin nhắn cho tổng đài mà mà nó cứ báo như này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.829049,
+         "id": "1023838",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em pin sạc thì có hiển thị đã sạc mà sao nó lên dc 1% rút sạc ra lại bị hao pin ạ? Em sạc từ nãy đến giờ chả lên được % pin nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.76978,
+         "id": "747859",
+         "field_search": "question",
+         "question": "  Quản Trị Viên ơi cho em hỏi em dùng iPhone 5, đang lướt web mà điện thoại nó hiện lên như thế này là sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7536335,
+         "id": "778146",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi Lumia 730 của em sao khi tháo the nhớ ra. cái zalo vs line toàn báo lỗi là sao. Zalo vẫn chạy nhưng được tý lại báo lỗi 501. Line thi goi dien toàn báo lỗi loa mí miro là tắt. Gio làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.750477,
+         "id": "768883",
+         "field_search": "question",
+         "question": "Em tải game trong google play mà nó báo như thế này là sao Bạn chưa truy cập ứng dụng Cửa hàng Google Play (biểu tượng giỏ hàng màu trắng) trên thiết bị của bạn bằng tài khoản email này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.743991,
+         "id": "754080",
+         "field_search": "question",
+         "question": " Cho em hỏi em tài phần mềm genymotion sử dụng giả lập android trên máy tính nó báo thông bị lỗi là sao admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.717619,
+         "id": "1143000",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi iphone bị như này là sao ạ, anh chỉ em cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.700205,
+         "id": "998438",
+         "field_search": "question",
+         "question": "Máy em là samsung j7 preme dạo này cứ 1lúc là nó cứ tự phát quảng cáo cho dù ở đâu cũng vậy, em ẩn đa nhiệm thì thấy file system os đang chạy. Cho em hỏi tại sao lại bị như vậy và làm sao để xóa nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.674711,
+         "id": "837140",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi đt samsung galaxy j3 có đèn led thông báo tin nhắn như dòng Samsung s4 k vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.586234,
+         "id": "1138225",
+         "field_search": "question",
+         "question": "Admin ạ,cho em hỏi....em xài samsung galaxy S7...Em vừa tắt nguồn máy thì nó hiện như thế này là như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.569565,
+         "id": "1142685",
+         "field_search": "question",
+         "question": "Dạ em sử dụng J7 2016 mà mỗi lần e gửi tin nhắn cho tổng đài mà nó cứ báo lỗi như này, em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5440855,
+         "id": "1135340",
+         "field_search": "question",
+         "question": "cho em hỏi chút, máy Note5 của em không kiểm tra được lệnh 0 là bị sao ạ, nó báo Plase open book cover ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.543462,
+         "id": "1139009",
+         "field_search": "question",
+         "question": "em dùng samsung j5 2016 mà máy của em khi sạc bộ sạc không phải cuẩ samsung thì nó báo là phải dùng bộ sạc của hãng, nếu em muốn sạc bằng bộ sạc khác thì phải làm sao ạ, vì sạc samsung dễ bị hư lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.541225,
+         "id": "799201",
+         "field_search": "question",
+         "question": "Em đang dùng ip6s+ nhưng nó bị lỗi báo pin sai khi e hack ngày để chơi Candy.cho em hỏi lỗi này là do của riêng máy em hay là lỗi chung ạk?😔",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.539724,
+         "id": "759437",
+         "field_search": "question",
+         "question": " Cho em hỏi em mua dây sạc iPhone 4 và sạc dự phòng mà về sạc điện thoại cứ báo phụ kiện không hổ trợ là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.528879,
+         "id": "998491",
+         "field_search": "question",
+         "question": "Cho em hỏi như này là bị sao ạ? Và em có thể tự khắc phục không hay phải mang đi sửa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.487856,
+         "id": "1022042",
+         "field_search": "question",
+         "question": "Htc e8 của em không kết nối 3g và nó thông báo như thế này  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4847,
+         "id": "1163355",
+         "field_search": "question",
+         "question": "Cho mình hỏi vs, wechat mình nó báo không thể đăng nhập bị chặn đăng nhập, giờ phải làm sao, có cách nào mở không, giờ nó như thế này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.48415,
+         "id": "949823",
+         "field_search": "question",
+         "question": " Cho e hỏi. Iphone 7 plus của e chỉ sạc đến 98 là báo đã sạc. Tức sạc đầy rồi là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.436177,
+         "id": "876394",
+         "field_search": "question",
+         "question": " cho mình hỏi xíu, sao fb mình dạo này ko cho like page nữa vậy ah?, nó báo là fb mình bị hạn chế ạ???.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.422673,
+         "id": "848943",
+         "field_search": "question",
+         "question": " Cho em hỏi sao em đang lướt web thì bị báo là có virus là có bị gì ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.408964,
+         "id": "763150",
+         "field_search": "question",
+         "question": " Cho mình hỏi khi mình vào phần nhạc mà nó cứ hiện mãi như thế này là bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.387873,
+         "id": "761150",
+         "field_search": "question",
+         "question": " Em vào tạo ID Apple mới mà sao điện thoại em nó ghi như thế này ạ iOS Update Required như vậy là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.347854,
+         "id": "858534",
+         "field_search": "question",
+         "question": "Ad cho em hõi điên thoai em iphon 5s em đang choi facebook binh thuong nhưng tự nhiên bây gio bấm vao không đuoc xoá cung không duoc và dứoi biễu tuong ghi là đang chờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.338762,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.31648,
+         "id": "1164024",
+         "field_search": "question",
+         "question": "Mod cho e hỏi thế này là driver nó bị sao mà cứ bị dấu chấm vàng náy làm bàn di chuột của em nó không dùng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.307293,
+         "id": "1163488",
+         "field_search": "question",
+         "question": "Cho em hỏi, tìm mà nó hiện như này là sao ạ. Là có tìm được không ạ. Hiện tại số đó đang thuê bao rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.273627,
+         "id": "875268",
+         "field_search": "question",
+         "question": " Em mở cốc cốc lên là nó nhảy sang trang như thế này, em phải làm sao ạ? em cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.255149,
+         "id": "909206",
+         "field_search": "question",
+         "question": " máy em nó bị thế này là bị sao ạ. ai pk giúp e với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.250963,
+         "id": "1167360",
+         "field_search": "question",
+         "question": "Cho em hỏi là đt oppo a37fw em mua khoảng 1 năm tự nhiên hôm nay sạc đc 79% em rút ra chơi , chơi khoảng nữa tiếng thì nó bị đơ từ 1 giờ đến 5 giờ mà nó chưa hết nữa Có cách nào khắc phục không qtv ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.232264,
+         "id": "1015569",
+         "field_search": "question",
+         "question": "Gủi mấy ah kĩ thuật cho em hỏi đien thoai đỗi trả bên tgdd bán ra là đien thoai zin 100% nhung cũ. hay đã bị tháo lấp này kia ạ điển hình như em đã mua 1 chiếc a5 2017 đổi trả bên tgdd giá 6tr5 em khong biết hàng zin hay đã bị rã máy hay tháo lấp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.225449,
+         "id": "991986",
+         "field_search": "question",
+         "question": " máy e bị sọc như thế này ạ, và sử dụng thì nó càng lan rộng thêm. cho em hỏi nó bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.221628,
+         "id": "1021424",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài samsum J7 prime e mún sạc bin nhưng nó báo bin ở tình trạng thấp k sạc được như vậy máy e nó bị gì zạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.219597,
+         "id": "793188",
+         "field_search": "question",
+         "question": " Ad cho em hỏi điện thoại mà bị như thế này là sao ạ.Có cách gì để khắc phục đây ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.212636,
+         "id": "845238",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng laptop DELL 3542. Em mua cách đây không lâu. không hiểu tại sao lúc đầu sạc bình thường nhưng hôm nay sạc tới 88% thì đèn báo sạc nó chớp vài cái rồi lúc hiện đã đầy pin rồi lại quay lại 88%. có khi báo đầy em rút ra lại quay về 88%. nó cứ báo đang sạc rồi lại đã đầy rồi lại đang sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.189315,
+         "id": "1167967",
+         "field_search": "question",
+         "question": "cho em hỏi là: em dùng samsung j1 sài đến dưới 50% là nó tự sập nguồn nếu không cắm sạc thì nó cứ tắt rồi hiện lên chữ \"samsung\" xong nó tắt và liên tục hiện rồi tắt như vậy nhưng khi cắm sạc vào rồi thì nó mới vào giao diện chính là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.18066,
+         "id": "876004",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.174027,
+         "id": "773693",
+         "field_search": "question",
+         "question": "QTV cho em hỏi cái Oppo neo 7 của em vô zalo bấm dô phần kết bạn qua facebook sao nó để kết quả không phù hợp là sao vậy mong QTV chỉ giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.15342,
+         "id": "998420",
+         "field_search": "question",
+         "question": "Tgdd cho em hỏi em có cái điện thoai hien asus zenfore c ạ.  Vài ngày gần đây em gán sim mà may k nhận. Nó để biểu tượng như mất sóng vậy.  Mà diện thoai e bị bể màng hih nữa cho e hỏi có cách nao sua duoc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.125202,
+         "id": "774647",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy em mới lên 9.2, xài được 1 ngày thì hôm nay sạc pin vẫn báo đang sạc, nhưng sạc mãi không thấy phần trăm phin tăng lên chút nào cả, là máy bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

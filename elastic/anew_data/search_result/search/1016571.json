@@ -1,0 +1,801 @@
+{
+   "id_query": "1016571",
+   "total": 15961,
+   "total_current": 100,
+   "max_score": 57.015835,
+   "origin_question": "Tại sau pin điện thoại sam sung j5 prime bị tụt dần",
+   "hits": [
+      {
+         "score": 25.5944,
+         "id": "1012406",
+         "field_search": "question",
+         "question": "Làm sau để root máy điện thoại sam sung j7 prime vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.146856,
+         "id": "1001002",
+         "field_search": "question",
+         "question": "Cách tắt chế độ an toàn của điện thoại sam sung j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.891926,
+         "id": "996083",
+         "field_search": "question",
+         "question": "Thời gian sạc pin tốt nhất cho điện thoại sam sung galaxy j7 prime là khoảng mấy tiếng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.92769,
+         "id": "1012561",
+         "field_search": "question",
+         "question": "cho e hỏi em mới mua sam sung j5 prime cách đây 1 tuần nhưng h e muốn đổi điện thoại khác thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.605026,
+         "id": "1005305",
+         "field_search": "question",
+         "question": "Vì sao pin của máy samsung galaxy j5 prime tụt nhanh vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41869,
+         "id": "1162751",
+         "field_search": "question",
+         "question": "Thay màn hình sam sung j5 prime giá bao nhiêu ? Thời gian làm việc bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.112125,
+         "id": "1003378",
+         "field_search": "question",
+         "question": "Em muốn thay màn hình cảm ứng của sam sung j5 prime thì bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.05658,
+         "id": "1016801",
+         "field_search": "question",
+         "question": "e hổ là mua sam sung galaxy j5 prime giá online với giá thường là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.732487,
+         "id": "1002383",
+         "field_search": "question",
+         "question": "chỉ em cách chuyển dữ liệu từ máy cũ sang sam sung galaxy j5 prime với ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.61624,
+         "id": "1003647",
+         "field_search": "question",
+         "question": "giấy chứng minh và bằng lái xe hóa đơn điện trả truoc 0 đồng được không ạ khi mua máy sam sung j5 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.425064,
+         "id": "1135375",
+         "field_search": "question",
+         "question": "cho em hỏi, em dùng điện thoại iPone 5. em sạc vào thì nó vẫn báo đang sạc rồi pin nó cứ tụt dần ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.757023,
+         "id": "1017979",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.573254,
+         "id": "1005196",
+         "field_search": "question",
+         "question": "Tại sao facebook không thể thiết lập tiếng việt mình đang sử dụng sam sung galaxi j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.442274,
+         "id": "1009458",
+         "field_search": "question",
+         "question": "Cho hỏi máy sam sung j5 bị lỗi trang chủ làm sao vây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.183878,
+         "id": "1020982",
+         "field_search": "question",
+         "question": "cho hỏi là điện thoại sam sung J3 pro mới mua 1 tháng tự nhiên hôm nay đang dùng còn 10% pin điện thoại tự tắt rồi cứ hiện lên 2 chữ sam sung vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.116385,
+         "id": "1018628",
+         "field_search": "question",
+         "question": "Cho anh hoi ,a muon doi  SAM SUNG J5 Prime lay con J7Prime thi cua anh mat bao nhieu tien nua vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.756313,
+         "id": "1149955",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng con Samsung J7 Prime, thời gian gần đây điện thoại nó hay tụt pin, ví dụ như tối 80% sáng dậy chỉ còn 57%, v điện thoại e có bị gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.437422,
+         "id": "1006674",
+         "field_search": "question",
+         "question": "tại sao máy sam sung j3 2016 có kiểu thiết bị là sam sung SMj320F ram chỉ có 1 gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.271862,
+         "id": "1013515",
+         "field_search": "question",
+         "question": "Em đag dùng sam sum j5 prime , điện thoại thông báo cập nhật phần mềm mà em mới mua điện thoại 3 tháng trước có nên cập nhật ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.180634,
+         "id": "1023754",
+         "field_search": "question",
+         "question": "Co thay màn hình dt sam sung j5 2015 duoc k Admin????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.098763,
+         "id": "1013500",
+         "field_search": "question",
+         "question": " Cho mình hỏi muốn nhập số điện thoại vào danh bạ trên máy sam sung j7 prime máy báo như thế này là sao vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.045364,
+         "id": "1012309",
+         "field_search": "question",
+         "question": "Mã chỉnh sam sung j5 prime tr ơi chỉ cần vậy thôi 50 ký tự dài quá như vậy vẫn chưa đủ hả kì quá.nnnnnnnnnnnnnnnnsjsjsjzjzhzhshahshzhzbzkalakznxbxbxbxbxhxhxjzjiakakananzbxhxhzjsj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032883,
+         "id": "1016772",
+         "field_search": "question",
+         "question": "Điện thoại J5 prime  là pin liền với may hay rời . Và có thay được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.836441,
+         "id": "999797",
+         "field_search": "question",
+         "question": "E sài đt sam sung galaxy j5 2016 .tại sao  sạc bình thường thì 100% nhưng khi tắt nguồn cắm sạc lại chỉ có 88%. có phải pin e bị chai ko e sài đc tầm 10 tháng r ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.697655,
+         "id": "1154425",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi cuộc gọi đến hoặc gọi đi bằng sim điện thoại, mà lại báo vào tin nhắn zalo. làm sao bỏ chế độ này. Điện thoại mình sam sung J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.64566,
+         "id": "1156055",
+         "field_search": "question",
+         "question": "Em đang sài điện thoại sam sung a7 2018 màu xanh dương loại 128gb á. Mặt kính của ốp lưng sau bị vỡ giờ e  muốn thay thì có ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55564,
+         "id": "1004458",
+         "field_search": "question",
+         "question": "chào shop cho mình hỏi, mình mới mua điện thoại sam sung J7 Prime khoảng 2 tuần mình dùng cứ hay bị đơ , mình muốn đổi máy khác có được k ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.516903,
+         "id": "1150704",
+         "field_search": "question",
+         "question": "Cho e hỏi là e không dùng điện thoại 3 tháng , sam sung j7 grime . Xong 3 tháng sau e sữ dụng lại thì điện thoại có bị sụp nguồn hay khóa sim hay gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.49869,
+         "id": "1015233",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại sam sung galaxy bao nhiêu bao nhiêu triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.397467,
+         "id": "1021942",
+         "field_search": "question",
+         "question": "Dạ chào achị.Thay mặt sau của điện thoại J5 prime thì chi phí là bao nhiêu ạ . E cãm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.3507,
+         "id": "1155866",
+         "field_search": "question",
+         "question": "em muốn mua 90 điện thoại sam sung s8 thì giá sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.331245,
+         "id": "997675",
+         "field_search": "question",
+         "question": "Cho hoi di3n thoai sam sung j5 thuong co ho tro 4g khong ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.26276,
+         "id": "1015533",
+         "field_search": "question",
+         "question": "Em xài sam sung galaxy j2 prime mà sao thời lượng pin ước tính không hiện thị như lúc đầu mới mua vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.151903,
+         "id": "1152660",
+         "field_search": "question",
+         "question": "Minh đang dùng sam sung j7 prime. Rất tốt, ko hư hại chỗ nào. Mình muốn đổi sang sam sung a7 thì bù vô bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.128513,
+         "id": "998042",
+         "field_search": "question",
+         "question": "Toi muon tim dien thoai sam sung j7 prime mau hong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.038637,
+         "id": "1014097",
+         "field_search": "question",
+         "question": "ĐT của tôi tự bật  sáng khi đã cài đặt chế độ 15s,rất hao pin, xin hãy giúp tôi chỉnh lại, ĐT hãng Sam sung j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.938135,
+         "id": "1005206",
+         "field_search": "question",
+         "question": "sạc dự phòng của sam sung điện thoại mobiistar sài đc ko ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.930021,
+         "id": "1013491",
+         "field_search": "question",
+         "question": "Tao sao may cua em sam sung J5 2015 lai ko gui tin nhan duoc vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.85333,
+         "id": "1000167",
+         "field_search": "question",
+         "question": " cho tôi hỏi điện thoại sam sung J7 pro đã có hàng chưa vây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.813118,
+         "id": "1014977",
+         "field_search": "question",
+         "question": "Tại sao sam sung j7 prime loa ngoài nghe nhỏ giữ vậy là vì do máy hay có lỗi gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.808186,
+         "id": "1022563",
+         "field_search": "question",
+         "question": "Chung nao sam sung j7 prime moi  co anrord 7.0.1 cho hoi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.747923,
+         "id": "1159953",
+         "field_search": "question",
+         "question": "điện thoại của em là sam sung j2 prime. từ hôm qua nó cứ bị tắt nguồn suốt thôi ạ. lúc e khởi động lại nó hiện màn hình như thế này là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.583063,
+         "id": "1016586",
+         "field_search": "question",
+         "question": "Tôi dùng sam sung trend lus tôi muốn hỏi tại sao dung lượng trong bộ nhớ của tôi cứ tăng dần tư từ trong khi đó tôi không dùng một dung lượng nào hãy chĩ cách khắc phục giúp . Với lại tôi hỏi sam sung trend lus có tải được tập kick hay liên quân không . Và chĩ tôi cách xóa ram",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.504017,
+         "id": "821648",
+         "field_search": "question",
+         "question": " EM mua máy iphone 4s tại tgdd.e mua được Hơn 2 tháng,giờ e muốn đổi sang sam sung J5 thì e phải các thêm bao tiền ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.473637,
+         "id": "1144589",
+         "field_search": "question",
+         "question": "Cho em hỏi là, sam sung j7 pro của em bị vết đen 1 chỗ, sau đó lan dần ra màn hình thì bị làm sao ạ? Và muốn sửa thì như thế nào ạ, mang đến đâu để sửa ạ? Em đang ở Hà Nội ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.433712,
+         "id": "1016293",
+         "field_search": "question",
+         "question": "Màn hình điện thoại sam sung galaxy j7pirme của em bị vỡ màn hình vậy thay màn hình là bao nhiều tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.433594,
+         "id": "1006561",
+         "field_search": "question",
+         "question": "Tôi sài sam sung j2 prime làm sao để sửa lỗi này...................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.385056,
+         "id": "1162850",
+         "field_search": "question",
+         "question": "Tại sao sam sung j1 vao game ica lại bị văn ra không chơi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.332733,
+         "id": "1022866",
+         "field_search": "question",
+         "question": "J7 prime của em để qua đêm thường bị tụt từ 3 đến 5 còn ban ngày kh bị tụt vậy đt em có bị chai pin kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.301842,
+         "id": "1138186",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoạ oppo f9i em thấy hao pin ...qua đêm là điện thoại tụt pin....e nghe mọi người nói điện thoại này pin trâu nhưng e thấy nó lại tụt nhanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.260262,
+         "id": "1154415",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại sam sung A7 2018 64gb ngày 3/3/2019 tại thế giới di động còn đầy đủ phụ kiện, quà tặng, hộp, mình muốn đổi sang sam sung galaxy A50 phải bù thêm bao nhiêu tiền, bửa mình mua hết 6.190.000",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.177357,
+         "id": "1135363",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại sam sung cứ hiện không xác định dialing.... là lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.168283,
+         "id": "847428",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 5 ios 9.2 điện thoại của em khi sạc nó vẫn báo sạc nhưng vẫn không lên  pin mà giảm dần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.157513,
+         "id": "996214",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại Samsung Galaxy J5 prime, hiện tại bị bể màn hình nhưng vẫn cảm ứng bình thường, vậy giá tôi thay màn hình là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.141026,
+         "id": "1135671",
+         "field_search": "question",
+         "question": " Ad ơi em muốn hỏi.dòng điện thoại sam sung nào từ 24tr mà chơi game mượt ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.063835,
+         "id": "997883",
+         "field_search": "question",
+         "question": "Điện thoại sam sung J 7 2016 có cập nhật lên android 7 được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.013968,
+         "id": "1156685",
+         "field_search": "question",
+         "question": "The gioi di dong có còn bán sạc điện thoại Sam Sung phiên bản cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.012016,
+         "id": "995128",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng Samsung J5, có vẻ như pin của máy em bị phồng! Em muốn hỏi là bên mình có bán riêng pin điện thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.00907,
+         "id": "1138232",
+         "field_search": "question",
+         "question": "e đang dùng sam sung j2 prime vậy nên dùng thể nhớ nào phù hợp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.984963,
+         "id": "1001064",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại SamSung Galaxy J7 prime màu đen. Vừa bắt đầu sữ dụng tãi 1 game và zalo, messenge. Nhưng pin đã tụt hơn 20% sau nữa giờ, máy rất nóng. Như vậy có không bình thường quá không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.95824,
+         "id": "1010893",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại sam sung s7edge tự nhiên khởi động lại và sau đó thì không nhập được mật khẩu (vẫn cảm ứng được).và bị liên tục trong ngày.bây giờ phải làm xao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.908406,
+         "id": "1155976",
+         "field_search": "question",
+         "question": "tôi muốn mua trả góp điện thoại Sam Sung galaxy A50, thì phải đăng kí như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.905724,
+         "id": "1148429",
+         "field_search": "question",
+         "question": "cho e hỏi đt sam sung j2 prime bây giờ bán lại là bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.847938,
+         "id": "1144198",
+         "field_search": "question",
+         "question": "Cách root máy sam sung j2 prime smG532GDS phải làm sao để root may",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.741598,
+         "id": "998379",
+         "field_search": "question",
+         "question": "cho e hỏi là giờ đổi từ điện thoại samsung j5 2015 sang j5 prime thì thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.719791,
+         "id": "1160339",
+         "field_search": "question",
+         "question": "Mình đang xài sam sung j4 core mình muốn đổi điện thoại qua hãng khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.68927,
+         "id": "1153506",
+         "field_search": "question",
+         "question": "Điện thoại ss j5 prime có nên sạc qua đêm hông vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.649301,
+         "id": "1135770",
+         "field_search": "question",
+         "question": "Màn hình sam sung j2 bị vỡ thay lại thì liên hệ tại đâu? Giá cả thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.64894,
+         "id": "999906",
+         "field_search": "question",
+         "question": "Cho mình hỏi sam sung J7 Prime dùng có hay bị đơ kg ah, và có chế độ chống nước kg ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.63834,
+         "id": "1162041",
+         "field_search": "question",
+         "question": "Cho e hoi Sam sung j7 prime co hang hk a va gia la bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.601225,
+         "id": "1010205",
+         "field_search": "question",
+         "question": "sac pin sam sung galaxy a5 2017 day 100 pin co tu ngat khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.596433,
+         "id": "1000342",
+         "field_search": "question",
+         "question": "cho em hỏi em đang sử dung điện thoại sam sung j2 prime em vừa mới cập nhật phần mềm từ androd 6.0 lên 6.0.1 như vậy có ảnh hưởng gì đến máy k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.570487,
+         "id": "1002989",
+         "field_search": "question",
+         "question": "Cho em hoi sam sung j2 prime ko choi duoc asphalt 8 phai ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.493559,
+         "id": "1162379",
+         "field_search": "question",
+         "question": "Hướng dẫn một khóa các minh tai khoản google máy san sung j5 prime sm g570yds",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.476763,
+         "id": "1148203",
+         "field_search": "question",
+         "question": "cho em hỏi máy sam sung j7 prime smg610f có mã quốc gia là bao nhiêu vậy ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.428713,
+         "id": "1144875",
+         "field_search": "question",
+         "question": "Em mua điện thoại sam sung j2 pro tại thế giới khoảng 3 tháng rồi ạ giờ em muốn bán lại thêm tiền mua đt khc bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.411783,
+         "id": "1017612",
+         "field_search": "question",
+         "question": "mình đang dùng con j5 prime đang onl fb thì điện thoại bị đứng sau đó tắt màng hình mở không lên. nhưng dùng điện thoại khác gọi vào thì vẫn đổ chuông, mình có cắm sạc nhưng vẫn không lên. mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.396466,
+         "id": "873645",
+         "field_search": "question",
+         "question": " Vì sao khi chuyển vùng zalo của tôi trên điện thoại sam sung A5 không cập nhật được vị trí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.384863,
+         "id": "1013349",
+         "field_search": "question",
+         "question": "Em hỏi em mới mua thay pin một tháng nhưng sao điện thoại em cứ tụt pin nhanh vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.38119,
+         "id": "1136665",
+         "field_search": "question",
+         "question": " shop có bán pin sam sung j3 không ạ. sho tư vấn giúp mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.361799,
+         "id": "1135824",
+         "field_search": "question",
+         "question": "Cho em hỏi thay màn hình điện thoại samsung j5 prime bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.312649,
+         "id": "1006190",
+         "field_search": "question",
+         "question": "Đt sam sung j2 prime sao chụp màn hình không được. Khi bật 4g thì vài phút sau nó rớt xún 3g.bật lại 4g n cũng rớt lại miết thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.208343,
+         "id": "1157015",
+         "field_search": "question",
+         "question": "em vừa mua điện thoại sam sung a50 muốn đổi qua oppo f9 thì các bước như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.194408,
+         "id": "1146134",
+         "field_search": "question",
+         "question": "Tao icloud tren dien thoai sam sung sau do minh dang nhap qua iphone duoc khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.173488,
+         "id": "1011767",
+         "field_search": "question",
+         "question": "Em muốn đổi điện thoại sam sung j7 priem lấy điện thoại oopof1s 2017 mà điện thoại em sài dc 3 tháng mấy rồi vậy bù bao nhiêu tiền vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.152657,
+         "id": "1164787",
+         "field_search": "question",
+         "question": "cho e hỏi cửa hàng có hỗ trợ khôi phục lại dữ liệu trong điện thoại sam sung j3 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.140593,
+         "id": "1005430",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại j5 prime được 15 ngày. Mà sao điện thoại mình để qua đêm từ 11 giờ tới 6h sáng k bật wifi 3g mà xuống tới 16% pin lận vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.092118,
+         "id": "1008446",
+         "field_search": "question",
+         "question": "Cho hoi sac pin dien thoai sam sung galaxy 3 tot bao tien ? Vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.05232,
+         "id": "1146673",
+         "field_search": "question",
+         "question": "Tại sao sam sung a7 2018 đang dùng tự nhiên khởi động lại máy ạ?? E bị 45 lần rồi,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.048564,
+         "id": "1009820",
+         "field_search": "question",
+         "question": "Điện thoại samsung j5 prime của em mua khoảng được 1 tháng mà bây giờ cáp sạc khi cắm vào điện thoại nó bị lỏng vậy làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.977042,
+         "id": "1160271",
+         "field_search": "question",
+         "question": "bên mày có cóc Sam Sung và cáp sam sung zin ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.791355,
+         "id": "1142362",
+         "field_search": "question",
+         "question": "Anh, chị cho hỏi mua điện thoại sam sung galaxy j2 hoặc j4 trả góp trong 4 tháng có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.790604,
+         "id": "1004928",
+         "field_search": "question",
+         "question": "-điện thoại e sạc pin khoảng 5 6 tiếng mới đầy? ko biết là do sạc hay do pin e bị hư ạ-ở shop mình có bán pin cho điện thoại samsung j5 2016 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.778311,
+         "id": "1008478",
+         "field_search": "question",
+         "question": "Điện thoại của mink là samsung j5 prime khi ko dùng tắt wifi rồi để siêu tiết kiệm pin mà tối 50% sáng còn dưới 10% Điện thoại như vậy là bị làm sao akCó cách nào khắc phục koMink còn đặt lại cài đặt gốc rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.768616,
+         "id": "990287",
+         "field_search": "question",
+         "question": "cho mình hỏi. Mình ở Huyện Thái Thụy  Thái Bình. Muốn mua sam sung galaxy J5 thì mua ở đâu. Giá cả thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.720881,
+         "id": "1148422",
+         "field_search": "question",
+         "question": "Chào các anh chị. Cho tôi hỏi tôi mua điện thoại sam sung j5 tôi reset lai máy máy yêu cầu xác minh bằng gmail khi khôi phục. Gmail tôi không biết giờ tôi phải làm sao để mở được máy. Tôi xin cam ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.627102,
+         "id": "1157890",
+         "field_search": "question",
+         "question": "Thay màn hình trong sam sung note 5 giá nhiêu ạ ? Tầm gần 1 triệu k nó có bị vỡ phía sau 1 chút nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.582666,
+         "id": "1148155",
+         "field_search": "question",
+         "question": "Em muốn thay màn hình cảm ứng điện thoại samsung j5 prime thì bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.578967,
+         "id": "1008693",
+         "field_search": "question",
+         "question": "adm cho tôi hỏ j5 prime bị treo máy k tắt nguồn được khi hết pin cắm sạc vào lại lại dùng bình thường là tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

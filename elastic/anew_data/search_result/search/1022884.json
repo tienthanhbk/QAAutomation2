@@ -1,0 +1,801 @@
+{
+   "id_query": "1022884",
+   "total": 34227,
+   "total_current": 100,
+   "max_score": 144.29674,
+   "origin_question": "Anh chị cho e hỏi. E đang dùng đt oppo a39. Nhưng kg hiểu sao máy của e bây giờ cứ hiện lên đã phát hiện một con virus hoài thôi. E đã thử diệt theo yêu cầu của máy, nhưng ngày hôm sau lại như vậy. Xin hỏi anh chị giờ e phải làm sao để khắc phục ạ?  Em cảm ơn",
+   "hits": [
+      {
+         "score": 53.409508,
+         "id": "987909",
+         "field_search": "question",
+         "question": " Anh chị ơi cho e hỏi máy e bị làm sao và cách khắc phục với. Em cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.843456,
+         "id": "1148362",
+         "field_search": "question",
+         "question": "xin chào, em muốn nhờ các anh chị giúp đỡ e một vấn đề à về laptop ạ, hôm qua e có lỡ tay shift delete một số file word văn bản quan trọng bây giờ e muốn khôi phục lại các file đó thì phải làm sao ạ. Nhờ các anh chị giúp đỡ, em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.806694,
+         "id": "1153260",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi đt oppo F7 lâu rồi e k tắt nguồn, bây giờ e tắt nguồn rồi mở lên nó cứ khởi động lại là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.60072,
+         "id": "913851",
+         "field_search": "question",
+         "question": "Hiện tại e đang dùng máy iPhone 5 32g . Máy đang chạy IOS 7.1.2 và đã jailbreak .vì lý do ios quá thấp không tải được một số ứng dụng trên app store nên e muốn lên ios 10 ạ. Anh,chị cho e hỏi e nên làm như thế nào cho hợp lý ạ? Và nếu làm thì phải làm như thế nào ạ? E xin chân thành cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.53388,
+         "id": "864143",
+         "field_search": "question",
+         "question": "em hỏi giúp anh trai em một chút ạ. anh trai e có mua trả góp một máy iphone 6plus. trả trước 1 nửa. anh ý đã mua được 20 ngày, giờ muốn trả lại thì phải thanh lý hợp đồng đúng ko ạ. nhưng e chưa hiểu thanh lý hợp đồng là phải làm như thế nào ạ. anh chị giải thích giúp em để em mang máy trả lại cửa hàng cho nhanh nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.3525,
+         "id": "1140141",
+         "field_search": "question",
+         "question": "Cho e hỏi e bấm vô CH play thì hiện lên như hình. Hôm qua e đã tới tgdd để làm lại rồi nhưng hôm nay lại bị lại. Chỉ e cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.343716,
+         "id": "1136133",
+         "field_search": "question",
+         "question": "E đang xài zenfone 4 max pro, lần trước e có cập nhật bản asus theo yêu cầu của điện thoại thì sau đó đt bị chậm và đơ nhiều app phải reset máy mới bth trở lại. Giờ đt lại yêu cầu cập nhật nữa, cho e hỏi làm sao để tắt bỏ yêu cầu cập nhật đó được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.928143,
+         "id": "1157364",
+         "field_search": "question",
+         "question": "Chào anh/chị cho em hỏi một chút ạĐiện thoại của em đang dùng là samsung j7 prime hay bị hiện quoảng cáo thì anh/chị có thể hỗ trợ e lsao để không hiện quảng cáo lên nữa với ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.539597,
+         "id": "904419",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi chút. e quên mất ID của icloud trên iphone 5s giờ không kích hoạt được điện thoại thì phải làm sao ạ? xin các anh chị chỉ giúp cho. em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.35547,
+         "id": "830610",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy iPhone của em ở ứng dụg mesenger có tin nhắn đến tại sao nó k hiện lên và k có chuông. Em đã bật hết âm lượng ở mesenger lên nhưng nó vẫn k có chuông và hiện lên tin nhắn đến. Ac giúp e vs ạ. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.35547,
+         "id": "830612",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy ip của em ở ứng dụg mesenger có tin nhắn đến tại sao nó k hiện lên và k có chuông. Em đã bật hết âm lượng ở mesenger lên nhưng nó vẫn k có chuông và hiện lên tin nhắn đến. Ac giúp e vs ạ. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.235153,
+         "id": "1002307",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi e đang dùng samsung galaxy j5 prime hôm nay e có gửi tin nhắn lên tổng đài thì máy hiện lên cho phép hay là không cho phép gì đấy e vội quá ấn nhầm vào phần k cho phép thì phải bây giờ gửi tn lên tổng đài k được nữa giờ làm sao ạ mong ac giúp e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.127106,
+         "id": "1004743",
+         "field_search": "question",
+         "question": "Chào Anh/ Chị! Em đang dùng laptop Dell LATITUDE 3540 / i5 và đang dùng windows 10Pro 64bits. Không biết máy hay do win bị lỗi gì sau khi cài lại một thời gian , máy của em không hiện ổ C/D/E . Em cũng bị một lần mất ổ E/D sau khi cài lại được một thời gian lại sảy ra hiện tượng lỗi như trong hình .Mong Anh/ Chị tư vấn giúp em. Cám ơn Anh/ Chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.120155,
+         "id": "1008807",
+         "field_search": "question",
+         "question": "Chào ad e đang dùng con oppo a39 dùng adroids 5.1 bây giờ có lên được 6.0 ko. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.550064,
+         "id": "1148529",
+         "field_search": "question",
+         "question": "Ad cho hỏi: e đang dùng iphone 6plus, e đã nâng cấp lên ios 12 nhưng máy chạy quá chậm, bây giờ e muốn cài đặt lại ios 10.3.3 thì phải làm sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.050205,
+         "id": "745876",
+         "field_search": "question",
+         "question": " Các anh chị giúp e với. Iphone 5s của e bị virus. A chị giúp e diệt virut được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.024956,
+         "id": "1134390",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony z4, trước máy em vẫn kết nối wifi bình thường, nhưng 1 tuần nay máy em kết nối thì hiện đã kết nối nhưng wifi có chấm than, em thay ip tĩnh vẫn không được. Các wifi nhà khác máy em kết nối bt chỉ có wifi nhà em mới vậy. Anh/chị cho e hỏi e vậy là máy e bị sao ạ và khắc phục ntn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.469925,
+         "id": "1014438",
+         "field_search": "question",
+         "question": "cho e hỏi cái ạ : sao cứ gọi các số ko sao, nhưng gọi cho bố e thì cứ máy bận , em gọi bằng sim sinh viên của viettel phát năm 2016, đc biết thì máy em và máy của bố cùng là J2 Prime , cũng ko có hiện tượng chặn số, xin cho e cách khắc phục cái ạ , em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.412727,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.368362,
+         "id": "1018429",
+         "field_search": "question",
+         "question": "Sau khi cài lại win máy của e gặp phải sự cố về âm thanh. Có lúc bật lên thì có âm thanh có lúc thì không? mong anh chị chỉ cho e cách khắc phục ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.36596,
+         "id": "1021860",
+         "field_search": "question",
+         "question": "Em hiện tại đang dùng laptop dell win 8 ạ.Thời gian gần đây lap của e bắt wifi rất kém ạ, để cách ổ wifi mấy mét  nhưng cũng chỉ hiện 3 vạch. E thử dùng lap khác và đt bắt nhưng đều bắt đc nhiều wifi và còn khỏe hơn ạ. Cho e hỏi e phải khắc phục laptop của e thế nào để bắt được nhiều wifi và khỏe hơn bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.345303,
+         "id": "991674",
+         "field_search": "question",
+         "question": "dạ, laptop của e là hãng dell core 5,e đã sạc pin cho máy đầy r, nhưng qa ngày hôm sau e sử dụng thì máy hết pin và bị nóng máy ở phần dưới lap, mong anh (chị ) giải đáp hộ e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.172985,
+         "id": "795807",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em lên web liền có thông báo virut .. Và có yêu cầu tải phần mềm duyệt virut .. E đã làm theo đang nhập tk app store tải về . Qua tìm hiểu e biết mình bị lừa , cho e hỏi vậy iPhone e có bị gì không ? Lộ thông tin có sao không ? ? Có dính mã độc không? Cần làm gì để khắc phục ạ ..?? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.09276,
+         "id": "1007070",
+         "field_search": "question",
+         "question": "Chào anh chị ! Cho em hỏi laptop của em mở lên hiện chữ \" hibernating\" rồi quay mãi không hiện lên màn hình thì giờ phải làm sao ạ ? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.924534,
+         "id": "998457",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi với ạ. Dòng máy em là oppo A37,máy em mới mua được gần 1 tháng thôi ạ. Mà sao có lúc máy bị đơ đơ ý ạ. Em không hiểu sao, không biết tại máy như vậy hay em đã làm gì ạ??Mong phản hồi của các anh chị ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.760857,
+         "id": "995328",
+         "field_search": "question",
+         "question": "Bây giờ e lỡ xoá mất messenger trên iphone 4 thì làm thế nào để cài lại ạ? E lên app vn để tải mà nó yêu cầu jailbreak, e lại k có sử dụng laptop nữa ạ? Anh/chị chỉ dẫn cho e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.683712,
+         "id": "755309",
+         "field_search": "question",
+         "question": "Anh chị nào biết cho e hỏi hiện e đang dùng iphone4 chạy 7.1.2 mà e vào cái ảnh cho các cuộc gọi mà anh rất nhỏ ko full màn hình nền vậy anh chị nào biết làm thế nào để cho nó full toàn màn hình e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.56422,
+         "id": "1008449",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏiĐiện thoại samsung galaxy j3 của e bị rơi, rồi ở bên dưới góc trái màn hình hiện chế độ an toàn. Thì bây giờ e phải làm sao để nó không hiện nữa ạ ? E khôi phục cài đặt gốc vs tắt nguồn và khởi động lại vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.529972,
+         "id": "1016661",
+         "field_search": "question",
+         "question": "Iphone của e mới hôm trước bị kẻ sọc trắng xanh đỏ tím vàng... trên màn hình. Em muốn hỏi là nếu cứ để như vậy thì máy còn dùng được khoảng bao lâu nữa? Mong anh chị giải đáp sớm giúp e. E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.188725,
+         "id": "1022626",
+         "field_search": "question",
+         "question": "E chỉnh tai phone để tiện nghe điện thoại. Khi mới mua về e chỉnh là cuộc gọi tới 2s là tự động nghe máy .giờ e mún đổi lại nhưng e kg biết làm sao. E tìm hoài nhưng kg biết chỉnh ở âu. E nhờ mấy a chị chỉ giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.162445,
+         "id": "1015477",
+         "field_search": "question",
+         "question": "Máy của em có vấn đề phải không QTV.  hiện e chỉ đang lướt web, máy báo 402 mb. nhưng sao lại chiếm tới 52% ram. Máy của em ram 4gb @@. Làm sao để khác phục đây QTV, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.05032,
+         "id": "1167614",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi , đt của e đã hết bảo hành rồi, cho e hỏi màn hình đt Nokia 5 bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.022087,
+         "id": "1019649",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, em mới mua máy bên mình được 3 tháng thì hôm nay phát hiện có vệt đen trên màn hình.Máy của em là máy Asus. Thì bây giờ phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.845814,
+         "id": "1141336",
+         "field_search": "question",
+         "question": "Chào ad, e đang xài Oppo neo 3 , dạo này app thời tiết của e cứ bị hiện sai ngày, bây giờ phải chỉnh như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.149857,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.097446,
+         "id": "871343",
+         "field_search": "question",
+         "question": "Anh chị cho em biết nhung ứng dụng diệt virus trên iphone . Em đang dùng iphone 5 máy em bị nhiễm virus mà không biết cách diệt nên em mong anh chị cho em biết cách . Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.06828,
+         "id": "1018028",
+         "field_search": "question",
+         "question": "Chào anh/chị! E đang dùng j7 pro.Khi e gửi ảnh cho bn bè bằng zalo, người nhận đã xem. Sau đó, e xóa ảnh trong máy của e. Khi đó, tin nhắn xảy ra lỗi. Nếu dùng messenger thì hk xảy ra tình trạng như vậy, trái lại, e vẫn có thể xem và tải ảnh về khi e đã xóa ảnh trong máy trước đó r.Thân anh/chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.060738,
+         "id": "1167692",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng con oppo A57, kh biết sao ứng dụng messenger của em phần story nó lại hiển thị dọc (bình thường thì nằm ngang). Em đã xóa và tải lại nhưng vẫn như vậy. Em cũng đã thử khôi phục cài đặt gốc của điện thoại nhưng vẫn bị. Anh giúp em khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.02446,
+         "id": "780074",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang xài iphone 4s, bây giờ bị hư 3G mỗi lần bật lên chỉ hiện chữ E không hiện 3G không phải do mạng yếu vì lúc trước em vẫn xài bình thường. Làm sao để khắc phục đây ạ? Em xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.91708,
+         "id": "1023476",
+         "field_search": "question",
+         "question": "Máy e oppo a37 e rút tai nghe rồi nhưng vẫn hiện biểu tượng làm sao bây giờ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.885193,
+         "id": "1016662",
+         "field_search": "question",
+         "question": "Ip của e là iphone 5s và mơis hôm trước máy đột nhiên lên các kẻ sọc màu sắc khác nhau trên màn hình. E muốn hỏi là nếu cứ để như vậy thì máy còn sử dụng đc bao lâu nữa ạ? Mong anh chị sẽ trả lời e sớm. E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.789177,
+         "id": "993708",
+         "field_search": "question",
+         "question": "cho e hỏi, máy e là oppo f1, đã hết thời hạn bảo hành. hiện tại đang bị mất nguồn. cần thay nguồn khác chứ k sửa đc. vậy bên anh/chị có làm đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.767906,
+         "id": "856051",
+         "field_search": "question",
+         "question": "Mấy anh chị ơi cho em hỏi .. e đang sài samsung galaxy a3 2016 . E đăng nhập vào fb và mes không được nhưng mật khẩu là đúng e có thử máy khác được . E thử vào zalo thì lại được .. Làm sao để giải quyết đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.715305,
+         "id": "1014055",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ. E đang dùng samsung s4. Không hiểu sao cứ bật 3G dùng đến 30% là máy sập nguồn. Cắm sạc vào thì máy hiển thị 0%. E đã thay pin mới nhưng chỉ đc mấy hôm là máy lại bị như cũ. Trường hợp này thì phải làm thế nào ạ? Mong ad trả lời.Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.70394,
+         "id": "917882",
+         "field_search": "question",
+         "question": "mấy anh chị cho e hỏi, em chơi game cần sử dụng nhiều phím cùng 1 lúc nhưng lap của e chỉ nhận 1 phím, phải thả phím kia thì nhấn phím khác mới dc. Xin anh chị hướng dẫn cho e ạ, máy của e hãng Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.59,
+         "id": "1155082",
+         "field_search": "question",
+         "question": "Ủa anh chị sao wifi của e nó cứ bật tắt hoài vạyE đag xài đt Samsung Galaxy A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.486717,
+         "id": "819215",
+         "field_search": "question",
+         "question": "Chào anh chị! A/c cho e hỏi xíu nhé ạ! Chả là e ms có mất con ip6s và e đã truy cập icloud.com để khó nó vào rồi ạ. Cơ mà dường như người bắt dc lại biết mật khẩu mở máy of e hay sao mà họ vẫn dùng dc máy. Giờ e đang tính là dùng icloud xóa dữ liệu trên máy đó đi. Thì ac cho e hỏi nếu xóa đi thì ng đó có dùng được máy tiếp ko ạ. Cảm ơn a/c nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.374195,
+         "id": "825902",
+         "field_search": "question",
+         "question": "Anh chi biêt khắc phục vần đề nay không ?facebook e bi hack .giơ e đổi mật khẩu rùi khi đang nhập lại facebook yêu cầu trả loi bảo mât kêu nhap văn bản ?anh chị biết làm sao không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.223633,
+         "id": "1015424",
+         "field_search": "question",
+         "question": "dạ cho e hỏi ms tháng trước e có mua chiếc mobiistar lai zumbo s không hiểu sao nó lại tự dung ko dùng được cảm ứng bật nguồn vẫn lên nhưng ko sài cảm ứng được vậy ac cho  e hỏi máy e bị sao vậy ( e thử khởi động lại rồi ko được ). Em cảm ơn ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.21909,
+         "id": "1013976",
+         "field_search": "question",
+         "question": "Cho em hỏi,  em muốn cài tiếng nhật cho máy oppo A39, nhưng khi vào phần ngôn ngữ thì e lại không tìm thấy tiếng nhật,  cách anh chị có thể hướng dẫn cho e không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.182365,
+         "id": "742849",
+         "field_search": "question",
+         "question": "Các anh chị làm ơn cho em hỏi ạ em đang sử dụng iphone 3s em có cho người anh bị nghiện phim sex mượn quả nhiên anh ấy đã đăng nhập vào đấy thật lúc nó hiện lên thông báo dt của bạn đã bị nhiễm 17 virut và hãy làm theo chỉ dẫn...em đã làm theo và ngay sau đó pin của em đã bị tụt vô cùng nhanh em cũng thường hay vừa sạc vừa chơi vậy dt của em có bị nhiễm virut thật không ạ nếu có xin các anh chị làm ơn giúp em . Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.11446,
+         "id": "808783",
+         "field_search": "question",
+         "question": "da anh chị cho e hoi, máy tínhcủa em hiệu acer thường không thể vô mạng bình thường, thường mất mạng hoặc ngắt kết nối khi sử dung wifi, e đã thử với mạng dây cáp thì lâu lâu cũng bị ngắt. thế máy em có khắc phục được không. máy của e mua vào 12-2015, e xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.08514,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.938217,
+         "id": "753035",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em cập nhật lại phần mềm và quên mất tài khoản và mật khẩu icloud giờ làm sao để có thể mở máy ra đc. Anh chị có thể mở hộ em qua số iccid và imei của e được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.927425,
+         "id": "1016261",
+         "field_search": "question",
+         "question": "cho em hỏi oppo r827 của em nó cứ hiện rất tiếc status bar đã dừng lại cứ tắt lại hiện liên tục, em đã reset nhưng vẫn không được bây giờ phỉa làm sao ạ? Với lại imei 866890023517680 có phỉa là đã mua ở tgđ k ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.907227,
+         "id": "906794",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi với ạ. Em mua máy ip6 cũ. sau khi đã đăng nhập hết tài khoản của em vào máy rồi nhưng thỉnh thoảng vào album ảnh lại hiện lên 1 số ảnh không phải do máy e chụp là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.838306,
+         "id": "1009872",
+         "field_search": "question",
+         "question": "Anh( chị ) ơi làm ơn tư vấn giúp em cái này . Em có 1 con galaxy j7 prime dùng bình thường nhưng ko m làm rơi mới đầu mở không lên nguồn nhưng sạc pin vào thì lại lên rồi giờ máy dùng rất tốn pin so với lúc chưa bị rơi. Anh ( chị) có thể tư vấn giúp rm ko ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.745533,
+         "id": "1161811",
+         "field_search": "question",
+         "question": "Dạ e chào anh chị cho e hỏi samsung A30 hiện bên mình có giá baoo nhiêu ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.668404,
+         "id": "746080",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi e đang dùng iphone 5s bản của mĩ (model a1533) . Em nâng cấp lên ios 9.0.2 e mua sim 4g sao ko dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.66434,
+         "id": "1019341",
+         "field_search": "question",
+         "question": "Anh (chị) ơi cho em hỏi, thanh công cụ trên màn hình đt của em (Sony Z5) nó cứ hiện ra hình cái loa (hình cái loa ở góc trái ngoài cùng trên thanh công cụ ấy ạ). Trước giờ ko có, mà bây giờ lại có. (Lưu ý: ĐT đang để ở chế độ RUNG, kế bên hình cái loa là biểu tượng hình chữ nhật - chế độ rung).Rồi nó còn hiện thông báo \"Đã chặn dịch vụ dữ liệu\" nữa, em không hiểu. Anh (chị) xem giúp em với ạ! Em cảm ơn anh (chị) nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.601994,
+         "id": "1167022",
+         "field_search": "question",
+         "question": "e với bạn trai xài chung icloud nhưng hiện giờ đt của e bị mất, e đã khóa icloud e muốn đăng xuất icloud của e trên đt bạn trai thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.59786,
+         "id": "823216",
+         "field_search": "question",
+         "question": "Xin chào. cho e hỏi e mới mua một con iPhone 5s 32 g máy củ số imei 358757055305562 e l biết kiểm tra máy xin các a giúp dùm e kg kiểm tra được gì cả vậy e xin các anh chi kiểm tra dùm thử máy thật hay máy giả. xin cảm oen ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.538143,
+         "id": "1015252",
+         "field_search": "question",
+         "question": "Cho e hỏi đt thoại s7 sged của e  sao thế này ạ. Chỉ cjo e cách khắc phục với. E xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.434998,
+         "id": "828832",
+         "field_search": "question",
+         "question": " Anh chị, e không thể đăng nhập vào facebook được. mặc dù đã thử tất cả các cách khắc phục.. phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.433212,
+         "id": "1007671",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng máy galaxy s3 sau khi root máy xong khởi động lại máy nó lag vậy cho e hỏi làm sao để khắc phục ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.413498,
+         "id": "820909",
+         "field_search": "question",
+         "question": "Chào anh chị thegioididong. anh chị có thể chỉ cách em lên zalo khi không còn dung lượng tốc độ cao không ạ? vì zalo trên máy em chỉ lên được khi còn dung lượng tốc độ cao và có wifi thôi, anh chị giúp dùm e, e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.30046,
+         "id": "1020726",
+         "field_search": "question",
+         "question": "Anh Chị, cho e hỏi điện oppo giá là 3.390.000, e muốn hỏi sao sypke ko hiện thanh thông báo  từ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.28581,
+         "id": "780868",
+         "field_search": "question",
+         "question": "iPhone 6 plus mình vào xem fim thì hiện ra trang cảnh báo điện thoại bị nhiễm virus Vậy mình phải làm sao. Có khi đang xem fim lại hiện liên tục phát hiện virus. Hiện lần đầu đề là cảnh báo phát hiện iPhone nhiễm virus 7 con. Lần sao lại phát hiện 19 con virus. Và hiện yêu cầu diệt virus có kể cả thời gian nữa. Lúc trước có lên hỏi mà trả lời là quảng cáo không có thật. Mã điện thoại cụ phát hiện virus cần lúc cần nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.234882,
+         "id": "1158617",
+         "field_search": "question",
+         "question": "Anh/chị cho e hỏi, e đang sử dụng ssj4 và hiện đang gặp vấn đề về thẻ nhớ, máy báo là thẻ nhớ bị lỗi vậy làm thế nào để khắc phục mà không bị mất dữ liệu trong thẻ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.20049,
+         "id": "1149020",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em mua ss j6 2018 cụ thể là ngày 22/12/2018 trên thế giới di động  xóm bằng đồng kỵ hôm qua e mở màn hình ko đc tắt nguồn được nhưng khi mở máy lên thì chỉ hiện dòng chữ logo của máy ss j6 , vậy giờ e phải làm cách nào mong a chỉ chỉ cho hay phải mang đi bảo hành máy . sdt bảo hành máy là 0976488633",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.1989,
+         "id": "759524",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là tại sao Messenger của em không gọi được video mà Appstore yêu cầu cập nhật liên tục rồi ạ? em đang dùng iphone 5S, mong anh chị giúp em với ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.146133,
+         "id": "988524",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi, e phát wifi từ laptop theo cách ad hoc, ở mục netwwork and sharing center đã xuất hiện biểu tượng waiting for uess chữ đậm, trong đó signal streng là excilent mà sao điện thoại androi không thấy hiện ra wifi này vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.090664,
+         "id": "743734",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Máy e ip4s khi chụp camera sau của camerA 360 thì cứ bị đảy ra ngoài mà camera trước thì k sao. Bây giờ e phải làm sao ạ 😢😢😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.030045,
+         "id": "874741",
+         "field_search": "question",
+         "question": "mỗi lần mở là máy em hiện lên như thế này, cho em hỏi nó bị lỗi gì vậy anh/chị, làm sao em có thể khắc phục?em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.96627,
+         "id": "1146608",
+         "field_search": "question",
+         "question": "A Chị ơi cho e hỏi với.e vừa kết thúc hợp đồng hôm 20/1 nhưng mấy hôm nay con j8 của e loa trong ko nghe đc toàn phải nghe loa ngoài.e ko biết là máy của e còn bảo hành ko ạ.e mong A Chị hồi Âm sớm e xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.956688,
+         "id": "999008",
+         "field_search": "question",
+         "question": "E đang dùng oppo a39, cho e hỏi tại sao lúc màn hình xoay ngang bàn phím nó lại như thế này, a chỉ e cách khắc phục vụ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.929806,
+         "id": "1153270",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e từ lúc khôi phục cài đặt gốc sao ở chỗ pin thời lượng ước tính sao nó ko hiện thời gian dùng mà cứ hiện ra là Đang tìm hiểu cách sử dụng là sao ạ Giúp e khắc phục với ạ Máy e là ss a7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.925278,
+         "id": "1018602",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi.đt của e lở sao lưu cài đặc mất hết hình ảnh có trong máy samsung a5 anh chị cho e hỏi có cách nào lấy lại hình ảnh của e đx hk z.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.868587,
+         "id": "909730",
+         "field_search": "question",
+         "question": " laptop em xuất hiện mục quảng cáo cứ hiện suốt, bây giờ tắt làm sao anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.80952,
+         "id": "1137764",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em vừa sạc máy được 48% bật wifi lên phát còn 40% và từ đấy pin tụt rất nhanh không thả phanh lúc trước máy dùng rất bt nhưng k hỉu sao tự nhiên mấy ngày nay nó cứ hao pin kinh khủng như thế em đã cố tìm tham khảo để giảm hao pin nhưng chỉ được hiệu quả một thời gian anh chị có thể cho em biết hiện tượng trên là gì được không ạ 😓😓😓",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.71469,
+         "id": "1136654",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e bị tắt nguồn nhưng khi bật lại thì bị treo ở logo xperia rồi treo đến lúc hết pin lại bật lên vẫn treo thế nhưng dùng các cách để reset lại máy nhưng không hiện lên bảng  Recovery. để tiến hành cài lại. máy e là sony xa1. giờ e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.68818,
+         "id": "1150716",
+         "field_search": "question",
+         "question": "Em đang dùng máy samsung j7 prome hôm qua giờ thẻ sim cứ báo vòng tròn gạch chéo như hình và không gọi, nhắn tín được. Em đã thử tắt nguồn, mở chế độ máy bay, khôi phục cài đặt gốc,...nhưng vẫn không được. Giờ e làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.682964,
+         "id": "988528",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi, e phát wifi từ laptop theo cách ad hoc, ở mục netwwork and sharing center đã xuất hiện biểu tượng waiting for uess chữ đậm, trong đó signal streng là excilent mà sao điện thoại androi không thấy hiện ra wifi này vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.66514,
+         "id": "1139659",
+         "field_search": "question",
+         "question": "Anh ơi Cho em hỏi máy em oppo f1s lúc trước e nâng cấp lên Android 6.0 giờ em muốn ve lại Android 5.1 phải làm sao anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.61754,
+         "id": "1018470",
+         "field_search": "question",
+         "question": "chà anh chị. hôm trước em có hỏi vấn đề về laptop đã được các anh chị giải đáp. em muốn hỏi thêm là em đã mua bản quyềnoffice luôn rồi nhưng lúc cài đặt các anh chị đó không nói những vấn đề này cũng như mật khẩu .... bây giờ làm sao em có thể lấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.569386,
+         "id": "775352",
+         "field_search": "question",
+         "question": "Cho em hỏi đt iPhone 6 plus e đang sài nó hiện lên cảnh báo \"pin iphone 6plus đã bị hư\" e sai thêm tj nữa lại cảnh báo thêm \"pin iphone 6plus đã bj nhiễm virus\" vậy là bị gì vậy ad. Pin e vẫn còn 80% pin. Mong ad cho e ý kiến sớm để khắc phục sớm hơn. Mong ad tl qua gmail. Vì em đăng bài viết lên biến mất tiêu e ko tiếp được bài viết của e. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.541504,
+         "id": "1142172",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện e đang sử dụng máy samsung j7 prime nhưng giờ e muốn đổi qua máy xiaomi thì sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.53688,
+         "id": "1014526",
+         "field_search": "question",
+         "question": "E đang dùng oppo f1s được một thời gian và có nâng cấp phiên bản mới nhất. Nhưng do bị lỗi về nhắn tin nên e đã cài về khôi phục cài đặt gốc nhưng lại k thể xem phim trên các trang web. Vậy giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.531048,
+         "id": "998632",
+         "field_search": "question",
+         "question": "e chào anh chị ạ! cho e hỏi là giá hiện tại của oppo F3 Lite A57 là bao nhiêu ạ? màu này ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.528877,
+         "id": "1016213",
+         "field_search": "question",
+         "question": "Anh chị ơi đt của e bị như vầy thì giải quyết sao ạ!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.52409,
+         "id": "894029",
+         "field_search": "question",
+         "question": "cho em hỏi một chút là hiện tại e đang dùng ip 5 vì trước đây không muốn nâng ios nên e vẫn để ios 7.1.1. bây giờ ip đã có đến ios 10 nhưng e chỉ muốn nâng lên ios 8 thì có cách nào không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.519894,
+         "id": "805715",
+         "field_search": "question",
+         "question": "ChoCho e hỏi e xái lap top asus 540l . khi e tắt máy thi máy của e bi như vậy la sao ạ . xin chi e cach khắc phuc ạ e xin cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.512127,
+         "id": "1142183",
+         "field_search": "question",
+         "question": "E dùng huawei y5 II, e bật 3G lên bình thường hiện chữ H+ nhưng bây giờ nó chỉ hiện chữ E, cho hỏi muốn chuyển về chữ H+ thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.505444,
+         "id": "1023170",
+         "field_search": "question",
+         "question": "Em có sim Vina nhưng lâu ngày k sử dụng, hôm nay e lắp vào máy nhưng lại báo k đăng kí nhà mạng. Là sao vậy các anh, chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.445175,
+         "id": "1000653",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoại bảo hành có số điện thoại là 0987017986 đã xong chưa ạ ?. Hơn nữa số điện thoại liên hệ em đã đổi thành 01688687688 rồi ạ, Nhưng bên hệ thống lại gọi báo tin tới số 0987017986 làm e không nhận được thông tin máy ạ. Anh chị làm ơn gọi lại vào số 01688.687.688 giúp e ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.34308,
+         "id": "1002926",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi là: e bị mất máy điện thoại oppp F1s mấy hôm rồi. Trên máy đó e đã từng dùng tài khoản Google để truy cập và đồng bộ. Sau khi mất e lên máy tính làm theo hướng dẫn tìm điện thoại, cài đặt khóa máy. Thỉnh thoảng lại vào tìm thiết bị, nhưng ko tiếp cận được thiết bị, thời gian đồng bộ lần cuối vẫn là ngày 3.7. E hiểu là điện thoại của em có thể vẫn bị tắt nguồn, hoặc mở nguồn nhưng ko truy cập internet. Nếu khi người ta kết nối internet,truy cập  vào google, youtobe,... thì trên máy tính em đang tìm có báo cho em biết thời gian đồng bộ mới nhất của máy Oppo F1s đó ko? Và nếu báo và có vị trí của máy thì e làm gì tiếp theo?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.338474,
+         "id": "996027",
+         "field_search": "question",
+         "question": "anh chị ơi . đt e mua ở tgdd nhưng giờ hết hạn rồi. e làm rớt nó hư nguồn rồi hay s ấy ạ. e muốn hỏi giờ e đem tới sữa có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.310608,
+         "id": "1152741",
+         "field_search": "question",
+         "question": "Xin hỏi e dùng Xiaomi remix 5plus , đã up miui 10.0.4.0 giờ e muốn úp lên phiên bản miui 10.8....? Vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.287586,
+         "id": "1149212",
+         "field_search": "question",
+         "question": "Em cần lắm khắc phục ứng dụng bị như vậy .. Các game nặng như liên quân, bubg mobile... Cứ mỗi lần 1 chơi đc khoảng 1, 2 lần là hiện tượng như vậy . bắt buộc e lại tải từ CHPLAY  về và lại tiếp tục. E để màn hình như vậy cho đến sáng thì nó k hiển thị gì thêm . e đã thử reset và cả thử khôi phục cài đặt gốc rồi mà vẫn bị. Mong anh chị khắc phục giúp em .. Chân thành cảm ơn và mong đc giúp đỡ sự bất tiện này ...",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

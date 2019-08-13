@@ -1,0 +1,801 @@
+{
+   "id_query": "1166154",
+   "total": 32928,
+   "total_current": 100,
+   "max_score": 66.89765,
+   "origin_question": "Loa iphone X có nghe được 2 loa dưới ko ạ . Tại sao máy mình chỉ nghe được 1 bên phải",
+   "hits": [
+      {
+         "score": 40.39962,
+         "id": "1152979",
+         "field_search": "question",
+         "question": "cho e hỏi là sao máy xiaomi redmi 6 pro có 2 loa dưới mà chỉ nghe đc 1 loa chị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.75233,
+         "id": "832579",
+         "field_search": "question",
+         "question": " tại sao oppo r7s có 2 loa, nhưng khi nghe nhạc chỉ nghe có 1 loa vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.554596,
+         "id": "920537",
+         "field_search": "question",
+         "question": " sao mình nghe nhạc iphone 7 plus chỉ được có 1 loa vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.232555,
+         "id": "1141428",
+         "field_search": "question",
+         "question": "Dòng Mi8 lite chỉ nghe được 1 bên phải của 2 loa thôi hay là do điện thoại mình bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.474724,
+         "id": "776125",
+         "field_search": "question",
+         "question": " Mình có đang dùng iphone 5s sao máy mình lại có 1 bên loa ngoài không nghe được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.455723,
+         "id": "997953",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi oppo a37 sao loa chỉ nghe được 1 bên vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.482834,
+         "id": "1152020",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy huawei y7 có 2 loa nhỏ bên cạnh nhưng khi phát âm thanh chỉ có 1 loa là phát còn loa kia thì ko có phải là 1 bên bị hỏng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.08525,
+         "id": "1155231",
+         "field_search": "question",
+         "question": "cho mình hỏi loa của iphone 7 có nghe được 2 bên như 8plus không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.98748,
+         "id": "1151783",
+         "field_search": "question",
+         "question": "Cho mình hỏi ... Mình đang sài redmi 6 pro ... 2 bên loa nghe được hết hay là chỉ 1 bên thôi v ? Cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.25073,
+         "id": "1134996",
+         "field_search": "question",
+         "question": "Bên TGDD có sửa được loa nghe máy j7 pro ko? Máy mua tại TGDD mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.13369,
+         "id": "1001763",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua con Xiaomi Mi Mix lúc nghe nhạc, chơi game thì 2 dãy loa ở cạnh dưới, 2 dãy loa nằm 2 bên lỗ sạc pin thì nghe được 1 bên thôi bên còn lại không có âm thanh. Vậy thì do nhà sản xuất làm như thế để làm gì hay loa bị hư ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.89456,
+         "id": "995411",
+         "field_search": "question",
+         "question": "Cái tai nghe mình có được bảo hành miễn phí k? Bên loa phải k nghe thấy mà bên trái nghe bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.654053,
+         "id": "1021708",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi máy mình huawei y6 có hai loa mà chỉ nghe được có một bên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.47798,
+         "id": "1003305",
+         "field_search": "question",
+         "question": "Ko nghe nhạc được bằng lao ngoài mà chỉ nghe được bằng loa trong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.25366,
+         "id": "1021709",
+         "field_search": "question",
+         "question": "Cho mình hỏi huawei y6 mấy loa vậy. Hai loa ngoài sao chỉ nghe đc có một bên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.505789,
+         "id": "758826",
+         "field_search": "question",
+         "question": "iPhone có 2 hay 1 micro vậy? Em nghe gọi nói chuyện thoải mái, nhưng khi dùng ứng dụng Messeger facebook nói chuyện Video loa ngoài thì bên kia không nghe thấy gì, nói chuyện loa trong bên kia lại nghe rõ bình thường? các ứng dụng khác phát loa ngoài rồi nói bên kia cũng không nghe thấy gì (thử facetime loa ngoài bên kia vẫn nghe bình thường).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.501654,
+         "id": "914535",
+         "field_search": "question",
+         "question": "e mới mua iphone 5s bên mình khoảng 3 tháng đã phải đi bảo hành loa ngoài 1 lần rồi. nhg bh loa ngoài lại k nghe được. ko biết bên mình có xem xét trường hợp này đổi máy giúp e ko ? máy dùng nhẹ nhàng và cẩn thận lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.371008,
+         "id": "1006091",
+         "field_search": "question",
+         "question": "2 loa của Iphone 7 có phải là một bên có hiệu ứng rung khi áp tay vào còn một loa không có j nhưng vẫn nghe đc bình thường phải không ạ . Hay là iphone của mình bị hư loa vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.247217,
+         "id": "1153998",
+         "field_search": "question",
+         "question": "E đang xài huawei y7 pro 2019 sao loa ngoài chỉ nghe được một bên ak. Còn bên kia k nghe gì hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.855232,
+         "id": "999850",
+         "field_search": "question",
+         "question": "em có một bộ loa vi tính gồm 2 loa vệ tinh và một loa trầm nhưng giờ 2 loa vệ tinh bị hư k nghe được nữa e muốn hỏi bên mình có loa vệ tin nào mà phù hợp với loa trầm của em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.748913,
+         "id": "1164646",
+         "field_search": "question",
+         "question": "Em mua huawei  y6 prim nhưng về phần loa của máy sao chỉ có thể nghe được 1 bên ạ? Hay do hãng đã cài đặt sẵn như vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.250853,
+         "id": "1014448",
+         "field_search": "question",
+         "question": "Cho hỏi đt của mìk là lenovo p70 tại sao cứ mỗi lần có cuộc gọi là nghe loa ngoài vậy tại sao ko nghe loa trong mỗi lần ai điện là kéo đt xuống loa ngoài để nghe là sao ạk hay loa trong có vấn đề nhưng mìk nghe tin nhắn thoại thì loa trong củn nghe đuợc vậy làm cách nào cho ai điện là nghe loa trong ạk xjn cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.123243,
+         "id": "798564",
+         "field_search": "question",
+         "question": "Em mua iPhone 5s được hai tháng. Mà giờ loa ngoài tự nhiên không nghe đc. Muốn nghe em phải cắm phone mới nghe đc. Loa điện thoại em bị sao vậy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.872356,
+         "id": "1010489",
+         "field_search": "question",
+         "question": "E mấy mua oppo neo9 mà xao loa ngoài chỉ phát 1 bên phải còn bên trái xao k nghe ạ.hay là máy bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.735502,
+         "id": "778741",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em đang dùng 1 chiếc iphone 4S. Tại sao khi em cắm tai nghe vào mới nghe được nhạc. Còn khi phát loa lại không nghe được không cho to nhỏ được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.65045,
+         "id": "1147086",
+         "field_search": "question",
+         "question": " Xiaomi note 6 để loa kép mà khi hát nhạc tại sau chỉ nghe có một bên loa vậy lại có tiếng xè xè nữa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.56,
+         "id": "986214",
+         "field_search": "question",
+         "question": "Cho e hoi ạ. E dùng ip6plus đc gần 1 tháng. Mọi thứ vẫn bt. Tự nhiên bây giờ gọi bên mesenger. Mở loa ngoài hay video thì mình nói họ ko nghe. Ko mở loa thì nghe bt là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.300526,
+         "id": "1006308",
+         "field_search": "question",
+         "question": "E dùng máy samsung j5.không biết sao sau khi kết nối tai nghe bluetooth xong thì mở medi k nghe được loa ngoài mà nghe được loa trong ạ.làm sao khắc phục được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.264376,
+         "id": "774948",
+         "field_search": "question",
+         "question": "Máy iPhone 5 lúc nằm mà dùng máy nghiêng máy thì loa ngoài phát được, hơi nhỏ 1 tí, nhưng dùng bình thường như ngồi, đi lại thì loa ngoài không nghe được, chỉ có lúc nằm mới được ( hơi nhỏ) cái này là do lỏng chân loa hay là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.099382,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.482597,
+         "id": "813271",
+         "field_search": "question",
+         "question": "Điện thoại ip6s cua tôi bị rơi xuông nước sau đó không nghe được loa trong mà chỉ nghe được khi cắm tai nghe và mở loa ngoài . Tôi phai làm soa đây?huuu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.29194,
+         "id": "996697",
+         "field_search": "question",
+         "question": "Em dùng ip 6s plus, khi có cuộc gọi nếu em đang cắm tai nghe thì phải mở loa ngoài xong và tắt loa ngoài đi thì tai nghe mới nghe được là sao vậy ạ?? Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.129738,
+         "id": "1163931",
+         "field_search": "question",
+         "question": "Cho em hỏi con xiaomi note 6 pro mỗi khi nghe nhạc, xem phim thì nó phát nhạc  bằng 2 loa ở bên dưới máy đúng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.09991,
+         "id": "1023687",
+         "field_search": "question",
+         "question": "E dùng đt samsung tab à ..mà khi mình gọi video trên fb thì e nghe được giọng bên kia nói , nhg bên kia thì không nghe được giọng mình với lại khi gọi đt thì khi e bật loa ngoài thì bên kia không nghe mình nói gì được con k bật loa ngoài thì họ nghe đc bt , vậy là sao ạ mn.. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.981432,
+         "id": "1164577",
+         "field_search": "question",
+         "question": "Mình đã mua Tai nghe Bluetooth Roman Z6000s. Hiện tại tai nghe chỉ nghe được một bên trái, bên phải hoàn toàn không nghe thấy gì.Xin được trợ giúp ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.545273,
+         "id": "778689",
+         "field_search": "question",
+         "question": " Cho hỏi iPhone 5s phát cả 2 loa hay chỉ 1 loa vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.508938,
+         "id": "788014",
+         "field_search": "question",
+         "question": " Tai nghe Oppo neo 7 chỉ nghe được 1 bên cắm vô lap thì nghe được cả 2 tai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.409813,
+         "id": "927885",
+         "field_search": "question",
+         "question": "Em có đang dùng iphone 6s .máy thỉnh thoảng loa bị dè.k nghe được.nói ng khác cũng k nghe được..cho em hỏi nó bị làm sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.379995,
+         "id": "914748",
+         "field_search": "question",
+         "question": " Cho em hỏi là sao em cắm loa ngoài và headphone vào máy tính lại không nghe được mặc dù loa và headphone ko bị hỏng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.379614,
+         "id": "883162",
+         "field_search": "question",
+         "question": "Minh đang dùng iphone 5 ...nhưng khi mình gọi Facetime hay messenger cho bạn mình, lúc mình nói tì bạn mình nghe nhỏ nhưng mình nói thì bên bạn mình lại nghe to và tốt...thế cho mình hỏi có phải máy mình bị hỏng loa ko ạ...nhưng nghe nhạc tì ok...nếu hỏng tì bên st có sửa ko à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.327753,
+         "id": "670938",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mỗi lần gọi điện người bên đầu dây kia vẫn nghe được mình nói gì nhưng mình lại không nghe được người ta nói gì hết? Mỗi lần như vậy mình lại phải bật loa ngoài hoặc cắm tai nghe mới nói chuyện được. Bây giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.293362,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.092306,
+         "id": "1139249",
+         "field_search": "question",
+         "question": "Loa của điện thoại nova 3i nghe ngoài thì bình thường, sao cắm tai nghe với cắm vào loa to ngoài thì rất nhỏ. Có phải loa nó như v không, hay điện thoại mình cố vấn đề?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.05903,
+         "id": "826366",
+         "field_search": "question",
+         "question": "Cho em hoi máy của em là iphon 5s cũ nhưng hiện tại em bật loa để nghe bài hát thì không nghe thấy tiếng phải dùng tai nghe vậy loa của em bị sao và cách khắc phục.em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.948593,
+         "id": "1001315",
+         "field_search": "question",
+         "question": "máy của em là f3 sau em gọi điện thoại bật loa mà sau đầu dây bên kia không nghe được gì còn đầu dây bên mình thì nghe rõ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.92527,
+         "id": "769944",
+         "field_search": "question",
+         "question": " Cho hỏi Oppo R7 Lite sao loa nghe nhạc nhỏ, gọi đt cùng nghe nhỏ tăng loa cũng nghe nhỏ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.909647,
+         "id": "769123",
+         "field_search": "question",
+         "question": " cho em hỏi là sao máy tính em mở nhạc loa lại không nghe được vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.884285,
+         "id": "1160930",
+         "field_search": "question",
+         "question": "Xiaom mi 8 lite có 2 loa nghe nhạc thì chỉ.có. 1. Cái phát còn cái còn lại thì ko ko bít cái do là do loa như vậy hay bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.700905,
+         "id": "1159702",
+         "field_search": "question",
+         "question": "Tại sao iPhone 6s nói chuyện điện thoại bình thường khi chuyển sang gọi bằng loa ngoài thì bên đầu kia nghe rất kém ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.601797,
+         "id": "1014977",
+         "field_search": "question",
+         "question": "Tại sao sam sung j7 prime loa ngoài nghe nhỏ giữ vậy là vì do máy hay có lỗi gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.331036,
+         "id": "958873",
+         "field_search": "question",
+         "question": " Thỉnh thoảng máy iphone 7 bị lỗi loa ,mất tiếng, không nghe được, phải tắt nguồn đi mới dùng được. lý do khắc phục ntn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.326948,
+         "id": "1165678",
+         "field_search": "question",
+         "question": "tại sao iphone 7 của mình không nghe được trong game mà chỉ nghe được trên youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.277374,
+         "id": "833216",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 6. Lúc gọi Zalo, Facebook,tango, mở loa ngoài mình nói bên kia k nghe thấy j, họ nói mình nge rõ, gọi thường thì mở loa ngoài vẫn nghe nói bình thường, xin cho hỏi máy e bị j ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.998756,
+         "id": "1016289",
+         "field_search": "question",
+         "question": "mình mới mua con galaxy j7pro nhiêu khi mình nghe có cuộc gọi thi máy mất loa ngoai khi nghe nhạc và chỉ phát bằng loa trong và sac thi nóng bất bình thường cac bác cho e hỏi thế là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.90154,
+         "id": "1010404",
+         "field_search": "question",
+         "question": "Cái Loa mấy oppo f3 e vua moi mua được 1 tháng mà Sao giờ nghe nhỏ vậy ạ... Có phai lỗi mấy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.816473,
+         "id": "1020787",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình gọi điện thoại k bật loa ngoài mà máy lại phát loa ngoài, phải bật rồi tắt loa ngoài nó mới hết và lúc nghe điện thoại hay bị bé loa bất thường gần như k nghe thấy gì mặc dù mình để chế độ âm lượng to nhất ạ. Máy mình là j7 prime ạ. Mình phải làm gì để khắc phục ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.769413,
+         "id": "1165023",
+         "field_search": "question",
+         "question": "AD cho e hỏi ạ!!!Loa trên readmi note7 là loa kép mà s e chĩ nghe dc một bên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.70129,
+         "id": "1023682",
+         "field_search": "question",
+         "question": "Em mới nâng cấp lên ios11. Nhưng sau khi nâng cấp dk 2 ngày dt của e gặp lỗi về loa. Cụ thể là cuộc gọi loa trong không nghe được nghe nhạc và xem video cũng không nghe được gì cả tin nhắn cũng không có chuông.  Trong khi đó cuộc gọi đến vẫn đổ chuông và khi nghe bật loa to lên vẫn có tiếng. Em phải làm như thế nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.66357,
+         "id": "986711",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua máy dell core i3 đã qua sử dụng tại thegioididong. nhưng về cắm tai nghe hay loa vi tính vào máy thì âm thanh không phát vô dược chỉ nghe được ở trong máy tính thôi. vậy có phải do jack cắm trên máy tính bị hư không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.644217,
+         "id": "1022282",
+         "field_search": "question",
+         "question": "samsung j2 prime của mình bị làm sao mà loa trong k nghe đượccòn loa ngoài thì chỉ có cuộc gọi đến hoặc có tin nhắn đến mới kêu còn nghe nhạc hay xem youtube lại k có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.61948,
+         "id": "1154111",
+         "field_search": "question",
+         "question": "Cho tôi hỏi đt huawei y7 pro 2019 loa ngoài được sự dụng mấy loa vậy. Đt tôi nghe dc có một bên ak còn bên kia mở nhạc k nghe j vậy là đt tôi có bị gì k. Tôi mua ở tgdd nek",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.544153,
+         "id": "1006307",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Ip6 của e loa nghe nhạc điều bình thường , điện bằng zalo và messenger thì bên nào cũng nghe rất rõ , chỉ có gọi bằng sim thì bên kia không nghe e nói nhưng e nghe bên kia nói rất rõ.. cho e biết là do bị gì vậy ? Tại sim hay tại máy ?? E cám ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.346487,
+         "id": "838946",
+         "field_search": "question",
+         "question": "Chào anh chị.Chiếc iphone 4s em đanv dùng thỉng thoảng loa ngoài không nghe được. Cả khi dùng tai nghe cũng có tình trạng tương tự, phải rút ra cắm lại tai nghe thì mới nghe được cứ 30s thì bị.Em cần làm gì để khắc phục điều này ạ? Bên anh chị có hỗ trợ em sửa chữa trực tiếp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.28926,
+         "id": "1151143",
+         "field_search": "question",
+         "question": "Cho hỏi HUAWEI Y7 Pro 2019 loa ngoài 2 loa hay 1 loa . Có quay phim màn hình được kg ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.164925,
+         "id": "1160665",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi note 6 pro đc 2 tháng. Giờ m mới để khi nghe nhạc thì 1 bên loa ko có âm thanh. Điện thoại chưa hề rơi vỡ hay bị và đập mạnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.062037,
+         "id": "807027",
+         "field_search": "question",
+         "question": "mình hiện đang sử dụng iPhone 4, hôi trưa nay minh nghe nhạc loa bình thường nhưng chiều sau khi sạc xong mình mở nhạc lên nghe thì loa phát nhỏ hơn so với bình thường. ( minh nghe trưc tiếp băng loa của máy k sử dụng tai nghe gì cả)cho mịn hỏi là máy mình bị gì vậy?gửi ban quản trị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.034258,
+         "id": "1144602",
+         "field_search": "question",
+         "question": "Mình dùng máy Huawei nova 3i nghe một số bài nhạc thì loa bị rè, như thế loa cí bị làm sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.025955,
+         "id": "780650",
+         "field_search": "question",
+         "question": " iphone 6 plus . Khi cắm tai nghe vào chỉ nghe được 1 bên. 1 bên thì rè.. là lỗi gì vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.994556,
+         "id": "1006672",
+         "field_search": "question",
+         "question": "cho hỏi tôi mua tai nghe bluetooth mới dược 3 ngày. mà bây giờ tôi muốn đổi tai nghe sang loa bluetooth có được ko  ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.910666,
+         "id": "1010191",
+         "field_search": "question",
+         "question": "Oppo a37 s chỉ sử dụng được loa bên phải z . Không lẽ chỉ để cho có vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.855015,
+         "id": "989728",
+         "field_search": "question",
+         "question": " Cho em hỏi mới mua máy tính Dell. Cài win 10 mà cấm tai nghe không nghe được loa bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.830666,
+         "id": "811714",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình mới mua 1 cái tai nghe iphone. Mình dùng ip4s cắm vào chỉ nghe dc 1 bên tai. Còn cắm vào các máy lhzcs thì nghe dc cả 2. Làm thế nào để khắc phục dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.738977,
+         "id": "1137479",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại e đang xài điện thoại xiaomi a2 lite. Ở phần dưới của điện thoại có 2 dãy loa. Khi xài thì chỉ có dãy loa hoạt động. Không biết dãy còn lại bị sao hay là do vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.61773,
+         "id": "1000694",
+         "field_search": "question",
+         "question": "Máy mình Samsung Galaxy J2 Prime dạo này loa nghe cuộc gọi đến rất nhỏ. Mình có thể đưa ra Thegioididongg sửa được k ạ? CÓ được bảo hành không ạ bởi mình chỉ mới mua máy hồi tháng 3. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.611315,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.538408,
+         "id": "1002240",
+         "field_search": "question",
+         "question": "Mình đang sử dụng HTC One E8, máy không bị va chạm hay vô nước gì mà bỗng dưng chỉ có nghe được nhưng nói thì bên kia không nhận được, nghĩ hư mic nhưng khi chuyển qua loa ngoài thì bên kia lại nghe được bình thường, mình đã reset vài lần nhưng vẫn bị tình trạng trên, bên mình có thể tư vấn giùm mình được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.476757,
+         "id": "1161305",
+         "field_search": "question",
+         "question": "laptop asus vivo book s510ua em mua được nửa năm giờ loa bị rè 1 bên phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.407316,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.391506,
+         "id": "998418",
+         "field_search": "question",
+         "question": "Zenfone 2 loa ngoài nghe rất nhỏ.xin hỏi cách khắc phục? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.324642,
+         "id": "761732",
+         "field_search": "question",
+         "question": "Mình có mua 1 iPad mini ở TGDĐ tự nhiên loa ngoài của mình không nghe đc nhưng khi cấm tai nghe vào thù nghe bình thường. Cho hỏi máy mình bị gì vậy? Làm sao để trở lại bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.312517,
+         "id": "1146608",
+         "field_search": "question",
+         "question": "A Chị ơi cho e hỏi với.e vừa kết thúc hợp đồng hôm 20/1 nhưng mấy hôm nay con j8 của e loa trong ko nghe đc toàn phải nghe loa ngoài.e ko biết là máy của e còn bảo hành ko ạ.e mong A Chị hồi Âm sớm e xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.30652,
+         "id": "1020716",
+         "field_search": "question",
+         "question": "bên trung tâm cho e hỏi máy e mới mua đc 3 tháng mà lúc mua về loa bình thường sau 3 tháng nó lại nhỏ dần đi nếu muốn nghe thì phải đeo tai nghe mới nghe và nói chuyện được thì có được bảo hành không ạ và bảo hành trong bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.252626,
+         "id": "789845",
+         "field_search": "question",
+         "question": "Mình mua 5s bên tgdd về nghe đươc 3 lần tai nghe thì chỉ nghe được 1 bên tai. Đã test nhiều tai nghe. Và ko phải do tai nghe hỏng. Mà do khe jack tai nghe bị lỏng ở đâu đó. Chính sách bảo hành thế nào vậy QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.192427,
+         "id": "1017688",
+         "field_search": "question",
+         "question": "Điện thoại mình mới mua ngày 11/8, mà giờ điện thoại lúc nghe được ko nghe được, phải tắt nguồn điện thoại mới nghe được bình thường. Giờ mình đem máy qa có được đổi máy mới ko. Iphone 6s+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.115852,
+         "id": "1141166",
+         "field_search": "question",
+         "question": "Mình có mua Iphone 6s plus tại tgdđ. Thì mình dùng 1 tg tai nghe của mình nó có vấn đề với 1 bên, chỉ còn nghe đc 1 bên nhưng không thấy bị đứt dây hay là gì, hiện vẫn còn bảo hành thì liệu mình có thể đem ra tgdđ và bảo hành tai nghe đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.05591,
+         "id": "760246",
+         "field_search": "question",
+         "question": "Máy iPhone 5s của em khi nghe điện thoại mở loa ngoài thì bị vọng lại nghe rất khó chịu ạ. Có cách nào khắc phục không ạ.??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.967226,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.944166,
+         "id": "900981",
+         "field_search": "question",
+         "question": "cho mình hỏi tai sao Ipad 2 cua minh ào khoảng 2 tuần thi am thanh thoi bi re rat kho ngen den sang nay thì loa ko phat tiếng nữa mà khi ngan tai nghe vao thi co tiếng cho mình hoi co phai loa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.851902,
+         "id": "1014011",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao loa ngoài của zumbo s bé thế ạ,bật âm nhỏ nhất xem video youtube thì phải áp tai vào ms nghe đc,còn max âm media thì nghe chỉ bằng nửa các máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.78528,
+         "id": "1011520",
+         "field_search": "question",
+         "question": "Mình có mua tai nghe Awei ES979 ở TGDD vào tháng 2/2017. Hiện tại tai nghe bị hỏng 1 bên không nghe được. Cho mình hỏi chính sách bảo hành như thế nào? Nếu áp dụng 1 đổi 1 mình xin đổi sang sản phẩm khác có được không? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.763088,
+         "id": "1021069",
+         "field_search": "question",
+         "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.745823,
+         "id": "941268",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy tính asus X553MA mua tại thế giới di động bị rách màng loa một bên khi nghe nhạc máy cứ rè nghe rất khó chịu vậy sữa khoảng bao nhiêu tiền vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.725428,
+         "id": "834302",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ??? iPhone 6 không nghe đc loa trong chỉ nhận tai nghe thì xử lý thế nào ạ?? mong add giúp đỡ cảm ơn add nhiều ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.712406,
+         "id": "1002634",
+         "field_search": "question",
+         "question": "máy j5 2015 bản android 6.0.1 loa nghe gọi bị nhỏ là lỗi gì ạ?và có cách nào khắc phục được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587513,
+         "id": "1004240",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi gọi bằng zalo hay nhận cuộc gọi trên zalo toàn nghe loa ngoài ai cũng nghe dc.tôi muốn nghe bằng loa trong thì phải cài đặt như thế nào?.tôi dùng oppo f1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.559471,
+         "id": "995345",
+         "field_search": "question",
+         "question": "ad cho mình hỏi chút mình mơi mua tau nghe bên minh được khoảng 2 tháng ở nhà có em nhỏ làm đứt 1 bên tai nghe . vậy mình có thể được bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.487825,
+         "id": "1000641",
+         "field_search": "question",
+         "question": "Cho em hỏi BQT. Em có cái điện thoại sony M4. Cứ ai gọi đến hay mình gọi đi thì nói bên đầu dây bên kia đều không nghe được. Nhưng mà em mỡ loa ngoài lên thì bên đầu dây bên kia lại nghe được vậy cho em hỏi có phải do cài đặt gì không hay do đt bị hư.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.384743,
+         "id": "777516",
+         "field_search": "question",
+         "question": "Sao loa của Lenovo 7000 Plus nghe nhỏ xíu vậy để kịch tầm thì mới nghe đc cho nhỏ xuống một chút xíu là chẳng nghe được .. máy thì hay đứng nữa chứ...sài chán kinh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.367281,
+         "id": "1160903",
+         "field_search": "question",
+         "question": "Mình có 1 máy samsung galaxy grand prime không nhận tai nghe, cắm 1 tai nghe khác vào lại nghe được bth, tai nghe kìa cầm sang máy khác cũng vẫn nghe được ,thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

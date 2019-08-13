@@ -1,0 +1,801 @@
+{
+   "id_query": "1165236",
+   "total": 30883,
+   "total_current": 100,
+   "max_score": 53.016434,
+   "origin_question": "mình dùng nokia 3.1 nhưng không thể cài đặt nhạc chuông thì làm cách nào ạ?",
+   "hits": [
+      {
+         "score": 31.937551,
+         "id": "1166279",
+         "field_search": "question",
+         "question": "Dạ máy em  Nokia 3.1 TA10630DS 332 SKU  11ES2B21A13 có cách nào đê cài nhạc chuông về máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.441257,
+         "id": "1156916",
+         "field_search": "question",
+         "question": "Chào TGDD:mình đang dùng nokia 3.1cập nhật androi 9(bản cập mới nhât cho nokia),mình có tải nhac trên zingmp3 về để cài làm nhạc chuong cho đt nhưng không cài đặt làm nhạc chuông không được,trước đó bản 8.1 thì cài được.Có phải bản 9.ko hỗ trợ...Vui lòng hướng dẫn cài nhạc chuông tải về từ zmp3.Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.0509,
+         "id": "1138548",
+         "field_search": "question",
+         "question": "Nokia 3.1 có đèn led thông báo không ạVà chỉ em cách cài đặt đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.009743,
+         "id": "777813",
+         "field_search": "question",
+         "question": "Bạn Cho mình hỏi chút. Mình đang dùng Samsung a8 tự dưng chuông báo thức không kêu khi vào cài đặt chọn nhạc chuông thì không phát nhạc chuông để nghe thử mà lại hiện ra dòng chữ \" không thể phát khi đang gọi\" có thể giúp m không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.259521,
+         "id": "1139472",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình dùng máy oppo f3 thì làm thế nào để cắt chỉnh nhạc để đặt làm nhạc chuông hay là mình phải tải app mới làm đk ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.939692,
+         "id": "846745",
+         "field_search": "question",
+         "question": " cách nào để cài nhạc chuông iphone 5 bằng mp3tôi không thể làm được mong chỉ giúp tôi cảm ơi nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.834475,
+         "id": "742928",
+         "field_search": "question",
+         "question": " em muốn cài nhạc chuông cho máy iphone 4s thỉ phải làm thể nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.505167,
+         "id": "744413",
+         "field_search": "question",
+         "question": " Cài đặt nhạc chuông tự chọn cho oppo neo 7 như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.445654,
+         "id": "1150293",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao khi mình vào phần cài đặt rồi, mình đã đặt nhạc chuông bài hát của mình nhưng khi gọi điện đến thì lại là nhạc chuông mặc định của máy. Máy mình là samsung galaxy j4 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.400679,
+         "id": "1157474",
+         "field_search": "question",
+         "question": "Mình mới mua nokia 3.1, thời gian đâu thì không sao, nhưng sau lần sạc thứ 3, khi mình kiểm tra thẻ nhớ, trong thẻ vẫn có các file nhạc,phát riêng ừng file thì ok,nhưng mình không dùng các file nhạc đó làm nhạc chuông hay nghe tất cả nhạc cùng lúc được nữa, vì nó không hiển thị lên khi mình bấm vào dấu + ở bên góc phải màn hình phần ringtones, lúc mới mua về thì có hiển thị tát cả file nhạc. Vậy máy mình làm sao để nghe nhạc đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.134235,
+         "id": "756916",
+         "field_search": "question",
+         "question": "Ad ơi..muốn cài đặt nhạc chuông cho iPhone thì dùng máy tính cây được không hay nhất thiết phải dùng laptop mới được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.02665,
+         "id": "1009424",
+         "field_search": "question",
+         "question": "Trong mục cài đặt nhạc chuông, phần nhạc chuông thêm từ điện thoại của samsung j7 pro, t lỡ chọn onedrive, giờ muốn thoát ra làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.968365,
+         "id": "841848",
+         "field_search": "question",
+         "question": " cài đặt nhạc chuông từ zing mp3 cho iphone 6s như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.766428,
+         "id": "816469",
+         "field_search": "question",
+         "question": "Mình mới mua Iphone 6, nhưng thời gian gấp nên chưa kịp yêu cầu thegioididong hỗ trợ cài nhạc chuông. Admin cho mình hỏi mình muốn cài nhạc chuông bằng itunes nhưng ko thể truy cập itunes được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.372812,
+         "id": "996612",
+         "field_search": "question",
+         "question": "cho em hỏi làm thế nào để cài nhạc chuông báo thức và nhạc chuông thông báo trên ss galaxy j5. Cài nhạc chuông cho tất cả báo thức về 1 bào nhạc mình muốn ý. Và làm sao để máy chọn ra đoạn nhạc hay trong bài máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.095161,
+         "id": "1150383",
+         "field_search": "question",
+         "question": "nokia 3.1 plus không thể lưu trữ ứng dụng trên thẻ SD hay sao? tìm đủ chỗ r trong cài đặt và quản lý r nhưng không có chỗ nào cho chuyển ứng dụng qua thẻ sd cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.901152,
+         "id": "800578",
+         "field_search": "question",
+         "question": " Chào ad, cho em hỏi cách tải nhạc về samsung j5 để cài nhạc chuông như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.80915,
+         "id": "997593",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mk dùng huawei y5ll tại sao mk cài đặt nhạc chuông tin nhắn rồi mà sao nó k kêu yh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.70876,
+         "id": "1162510",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng Nokia 3.1 mọi khi e vẫn nge nhạc đc từ thẻ nhớ mà giờ e k thể nghe đc là sao ah.và làm ntn để nghe nhạc từ trong thẻ nhớ vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.60393,
+         "id": "1010881",
+         "field_search": "question",
+         "question": "Giải đáp Cách cài nhạc chuông ở điện thoại it1516 như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.589458,
+         "id": "873455",
+         "field_search": "question",
+         "question": " mình xài iphone muốn cài nhạc chuông về điện thoại thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.502436,
+         "id": "1022935",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi làm sao để đặt nhạc mp3 thành nhạc chuông, nhạc thông báo ạ. E đag dùng máy Mobell tab 7s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48089,
+         "id": "1155607",
+         "field_search": "question",
+         "question": "Cho mình hỏi là, tại sao mình dùng messages đặt nhạc chuông là Messages nhưng khi người khác gọi tới ứng dụng đó thì lại là về nhạc mặc định vậy ? Mình dùng Mobiistar PRIME X 2017 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.318626,
+         "id": "1149655",
+         "field_search": "question",
+         "question": "Máy nokia 3.1 16gb  mua ngày 2192018. Mún đổi máy nokia 3.1 32gb và 3.1 plus thì bù nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.176477,
+         "id": "763007",
+         "field_search": "question",
+         "question": " Cho em hỏi cách cài bài hát làm nhạc chuông trên iPhone 5s vậy ad. Em mới mua mà chả biết dùng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.955421,
+         "id": "832308",
+         "field_search": "question",
+         "question": " tại sao đt của mình lại không có phần ÂM BÁO ?làm sao cài MP3 làm nhạc chuông iphone ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.89189,
+         "id": "767500",
+         "field_search": "question",
+         "question": " Cài nhạc chuông iPhone phải làm sao để cài nhạc có lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.8149,
+         "id": "880253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài nhạc chuông MP3 cho iphone 4s thì làm sao được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.738413,
+         "id": "779699",
+         "field_search": "question",
+         "question": " Mình muốn thay đổi nhạc chuông của Samsung A7 2016 thì làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70249,
+         "id": "1021592",
+         "field_search": "question",
+         "question": "Qtv ơi cho minh hỏi cách cài đặt chuông cho zalo với mình không cài được , mình  đang dùng đt philip v787 , cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.545887,
+         "id": "1000571",
+         "field_search": "question",
+         "question": " Cách cài nhạc chuông trên mobiistar lai zumbo j ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.479866,
+         "id": "819603",
+         "field_search": "question",
+         "question": " Làm thế nào để cài thêm nhạc chuông cho điện thoại obi khi đã tải nhạc về máy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.400982,
+         "id": "1142439",
+         "field_search": "question",
+         "question": "Bên cửa hàng có mẫu nokia 3.1 plus không ạ ? Nếu có tôi muốn đặt mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323679,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.281288,
+         "id": "1148718",
+         "field_search": "question",
+         "question": "Hướng dận cách xài nhạc chuông iphon x. Như thế nào ai chỉ dùng mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26131,
+         "id": "1145703",
+         "field_search": "question",
+         "question": "mình mới dùng IP XS Max mà muốn đổi thành nhạc chuông mặc định của IP 7 thì làm thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.227537,
+         "id": "1020045",
+         "field_search": "question",
+         "question": "cho e hỏi là lúc e cài nhạc chuông mặc định của sony thì vẫn nghe bình thường nhưng khi đổi nhạc chuông là bài hát khác thì ai gọi đến lại không nghe được nữa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.164053,
+         "id": "880214",
+         "field_search": "question",
+         "question": " Thế giới cho e hỏi làm thế nào để cài MP3 làm nhạc chuông chi iphone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.097607,
+         "id": "777916",
+         "field_search": "question",
+         "question": " Tải nhạc chuông cho iPhone bằng bài hát trên mạng thì làm như nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.038113,
+         "id": "811118",
+         "field_search": "question",
+         "question": " Nhạc từ zing mp3 trên Lenovo A2010a, làm sao để cài thành nhạc chuông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.017265,
+         "id": "997692",
+         "field_search": "question",
+         "question": " Em dùng máy Galaxy V, em cài đặt Recovery thì làm cách nào để Reset được máy ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.93513,
+         "id": "761569",
+         "field_search": "question",
+         "question": "Cho tôi hỏi: HTC 826 Dual Sim sau khi reset và cài đặt lại, giờ vào phần nhạc chuông cho sim1, sim2 và nhạc chuông báo thức. . .nói chung phần nhạc chuông, bấm vào không có tác dụng hiện lên để chọn đổi nhạc chuông. Đã khởi động lại máy vẫn không hiện lên những nhạc chuông khác để đổi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.921669,
+         "id": "784290",
+         "field_search": "question",
+         "question": " Em muốn tải nhạc chuông cho ios 8 thì làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.8955,
+         "id": "1156847",
+         "field_search": "question",
+         "question": "Xin chào!mình hiện đang sử dụng Nokia 3.1.sau khi đt cập nhật thì mình k thể xài đa nhiệm theo cách cũ nữa.Mong bên TGDD hỗ trợ mình.Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.865906,
+         "id": "821671",
+         "field_search": "question",
+         "question": "Ad có thể cho mình xin đường link tải Itunes mà để cài nhạc chuông cho máy được không ? Cái Itunes trên http://www.apple.com/itunes/download/ này mình dow về nhưng không thể kéo bài hát vào album nhạc được . Thử trên 3 laptop vẫn k đc trong khi ông a làm trên PC thì lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.861029,
+         "id": "1143434",
+         "field_search": "question",
+         "question": "em xài nokia x7 làm thế nào để em viết được tiếng việt có dấu ạ. em kiếm cài đặt nhưng không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.589432,
+         "id": "990912",
+         "field_search": "question",
+         "question": "để cài nhạc chuông từ phần mềm nhaccuatui của dòng máy iphone5s thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.574747,
+         "id": "992697",
+         "field_search": "question",
+         "question": "Cho mình hỏi là muốn tạo nhạc chuông theo bài hát mình yêu thích trên iphone 6 thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.497274,
+         "id": "1002263",
+         "field_search": "question",
+         "question": "Cho hỏi là muốn xoá nhạc chuông đt làm s v ạ? Lúc đầu e cài ứng dụng garageband mà e lỡ xoá cái ứng dụng đi mà bây giờ nhạc chuông kh xoá đc ạ? Mình làm s v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.331161,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.31864,
+         "id": "835199",
+         "field_search": "question",
+         "question": " iPhone 5S có thể lấy bài hát khác làm nhạc chuông được không ad?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.314833,
+         "id": "787228",
+         "field_search": "question",
+         "question": " Em đang dùng Mobiistar Lai Zumbo sao không cài được nhạc chuông sim 2 vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.290873,
+         "id": "753838",
+         "field_search": "question",
+         "question": " Oppo Neo 7 khôi phục cài đặt gốc lại nhạc chuông hệ thống mất hết vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.280304,
+         "id": "903379",
+         "field_search": "question",
+         "question": "em cài nhạc chuông cho 6s. tại sao khi đồng bộ hóa itunes đã báo thành công nhưng trong iphone lại không tìm thấy bản nhạc chuông ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.2388,
+         "id": "882610",
+         "field_search": "question",
+         "question": " mình mua iphone 5s về ma ko cài được nhạc chuông ngoài nên có thể vào teamview cài giúp dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.137426,
+         "id": "796008",
+         "field_search": "question",
+         "question": "e vừa mới mua mobistar lai zumbo của thegioididong dc vài ngày. e nhét sim của m vào sim2, xong rồi k tài nào cài dc nhạc chuông,làm cách nào cũng k cài dc. chỉ e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.96461,
+         "id": "813625",
+         "field_search": "question",
+         "question": "Cách cài nhạc chuông trên iphone 6 như thế nào ah. khi em tải itune về thì giao diện không có phần tones như hướng dẫn là sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.958904,
+         "id": "1164410",
+         "field_search": "question",
+         "question": "làm sao để dùng file ghi âm làm nhạc chuông cho messenge",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.93958,
+         "id": "808723",
+         "field_search": "question",
+         "question": "Mình vừa mua win bản quyền nhưng không biết cách cài đặt vậy thegioididong có thể hỗ trợ cài đặt giúp mình được không?? Mình cám ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.910816,
+         "id": "1013587",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Điện thoại SamSung J2 cài nhạc chuông riêng thông báo riêng. Mà sao khi có thông báo tin nhắn lại đổ chuông như âm nhạc chuông luôn ạ?? Làm sao để thay đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.902884,
+         "id": "760668",
+         "field_search": "question",
+         "question": " Ad có thể chỉ em cách cài đặt word 2013 không ạ ?? Và siêu thị mình có cài đặt word không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.82022,
+         "id": "840994",
+         "field_search": "question",
+         "question": "Mình đang muốn thay đổi nhạc chuông cho Iphone bằng itunes, nhưng mà giao diện itunes 12.4.1 đã thay đổi nên mình k biết cách làm. AD có cach nào hướng dẫn được mình hk ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.744198,
+         "id": "774239",
+         "field_search": "question",
+         "question": " Ad ơi tải nhạc làm nhạc chuông ở iPhone 5s thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.510023,
+         "id": "1010880",
+         "field_search": "question",
+         "question": " cách thay đổi nhạc chuông điện thoại it1516 như thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.440098,
+         "id": "752159",
+         "field_search": "question",
+         "question": " Mình đang sử dụng ios nhưng mún đổi nhạc chuông thông báo zalo thì phải làm sao vậy ??? Ad chỉ giúp mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.40146,
+         "id": "880818",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt zalo trên máy java như nokia xpressmusic 5310 có được không và cài đặt như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.307802,
+         "id": "767520",
+         "field_search": "question",
+         "question": " Ad ơi làm sao thay đổi nhạc chuông của iPhone 5 vậy...muốn dùng nhạc trong zing MP3  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.2615,
+         "id": "974400",
+         "field_search": "question",
+         "question": "Hỏi Cài Game Ứng dụng từ file IPA trên iPhone như thế nào Cho mình hỏi, iPhone có thể cài đặt ứng dụng từ file IPA giống như file APK trên Android phải không? Nếu làm được thì cách làm như thế nào và có thể hướng dẫn cho mình được không ạ. Xin cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.196058,
+         "id": "1148221",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao sau khi khôi phục lại cài đặt gốc thì máy không hiện ứng dụng đặt chuông báo thức ạ? E dùng ss j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.16573,
+         "id": "896772",
+         "field_search": "question",
+         "question": " Mình dùng máy A7 2016, mình muốn cài đặt chuông thông báo tin nhắn zalo thì phải vô đâu mong ad chỉ giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.994785,
+         "id": "782150",
+         "field_search": "question",
+         "question": " iphone5s hệ điều hành 9.2.1 làm sao để cái nhạc chuông mà không dùng đến máy tính? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.879343,
+         "id": "1152083",
+         "field_search": "question",
+         "question": "Oppo A3s nhạc chuông chỉ reo. 10_15s . Có cách nào khắc phục k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.866713,
+         "id": "1142113",
+         "field_search": "question",
+         "question": "Em mới mua đt Nokia 3.1 ngày hôm qua 1/1/2019. Thấy máy có chức năng doube tap mở màn hình trong phần cài đặt nhưng thực tế thì không sử dụng được chức năng này. Cho hỏi máy có bị lỗi và TGDD có hỗ trợ gì ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.855621,
+         "id": "1145750",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 ram 3gb.máy cứ bị lỗi restart liên tục là sao vậy Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.842361,
+         "id": "1138358",
+         "field_search": "question",
+         "question": "Ad ơi tại sao điện thoại oppo neo9s của mình cài nhạc chuông mà cứ hát được mấy giây thì lại ngừng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.768618,
+         "id": "874821",
+         "field_search": "question",
+         "question": " Làm sao để xóa nhạc chuông của iphone khi đã cài bằng phần mềm ituns ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.760414,
+         "id": "843404",
+         "field_search": "question",
+         "question": " Mình muốn cài nhạc ngoài cho ip nhưng k biết cách . Tgdd có cài đc k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70224,
+         "id": "837878",
+         "field_search": "question",
+         "question": "Cách cài nhạc chuông cho iphone bằng itunes trên máy tính phiên bản mới nhất?e cài theo hướng dẫn nhưng tới phần ACC gì đó e tìm hoài k thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.66584,
+         "id": "988538",
+         "field_search": "question",
+         "question": " E dùng iTunes trên PC để cài nhạc chuông mà khi kết nối iphone vs PC lại ghi ntn là sao ạ ???    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.661726,
+         "id": "1019043",
+         "field_search": "question",
+         "question": "cho e hỏi, e mới cài được nhạc chuông video cho điện thọi j5 prime nhưng khi ấn trả lời lần thứ nhất thì lại bị quay về nhạc chuông mặc định và k có video, r sau đó phải ấn trả lời lần 2 mới được. Vậy làm sao để khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.600845,
+         "id": "1163970",
+         "field_search": "question",
+         "question": "Xin chào. Mình mới mua nokia 5.1 plus hôm chủ nhật, nhưng về nhà sử dụng thì thấy ko hiển thị thông báo khi có cuộc gọi, vẫn có rung và chuông. Vào cài đặt - thống báo - điện thoại thì không gạt được nút điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.520092,
+         "id": "1147662",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 Ram 3gb, máy bị lỗi tự động Restart liên tục.  TGDD cho mình biết máy bị lỗi gì và khắc phục như thế nào nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.516705,
+         "id": "1151062",
+         "field_search": "question",
+         "question": "Cách chuyển ứng dụng sang máy nokia 6.1 thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.505066,
+         "id": "801738",
+         "field_search": "question",
+         "question": "Cho mình hỏi là: Máy laptop của mình đặt password nhưng login lại thì không được, phím máy tính bị liệt nút delete nên không thể đổi được. Vậy làm cách nào để bẻ khóa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.502827,
+         "id": "1161548",
+         "field_search": "question",
+         "question": "E đang dùng máy Nokia 3.1 máy e có hiện tượng pin đang ở 60% mà bị sập nguồn khởi động lại thì còn 1%. Bây h phải lm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.481155,
+         "id": "786905",
+         "field_search": "question",
+         "question": " Tôi mua máy iPhone 6 ở Thế Giới Di Động, tôi muốn nhờ thế giới di động cài đặt nhạc chuông dùm tôi có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.471848,
+         "id": "996890",
+         "field_search": "question",
+         "question": "Máy lenovo vibe s1 của em khi vào cài nhạc chuông thì nó hiện android.process.media là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43822,
+         "id": "1156523",
+         "field_search": "question",
+         "question": "Tai sao toi không cài đc nhạc chuông đt thoại tí Zing mp3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.421421,
+         "id": "1001377",
+         "field_search": "question",
+         "question": "Cài đặt nhạc chờ cho điện thoại oppa a37 thì lm như nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.401257,
+         "id": "781393",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đang dùng iPhone 6 khi vào phần cài đặt   quyền riêng tư lại không thấy có phần nhạc là thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.386234,
+         "id": "873670",
+         "field_search": "question",
+         "question": "Minh dang xai oppo f1s mình muốn đổi nhạc chuông thông báo của zalo cho khác của sms nhung ko biết vào đâu cài đặt. Giúp mình tl nha. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.375504,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.28973,
+         "id": "832826",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách thay đổi nhạc chuông zalo. Mình đang xài Oppo f1 plus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.249819,
+         "id": "895685",
+         "field_search": "question",
+         "question": "iphone 6s không nghe được chuông cuộc gọi đến và mở youtube cũng k chạy. Vô cài đặt âm thanh tăng giảm âm lượng cũng không nghe tiếng nhạc. Nếu tắt mở nguồn lại thì lại nghe được. Nhưng sử dụng 1 2 ngày thì bị lại. Cho mình hỏi là bị j vậy ạ! Mình vừa nâng lên ios10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.186674,
+         "id": "1159535",
+         "field_search": "question",
+         "question": "Sao Nokia 3.1 của em sao ko dùng được chế độ xem thực tế ảo trên Youtube vây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.11782,
+         "id": "1159001",
+         "field_search": "question",
+         "question": "Mình dùng Nokia 6.1 plus khi bên kia gọi đổ chuông nhưng màn hình máy mình không hiển thị cuộc đến.Bạn tư vấn giúp mình , sdt 0965128237 Tên Lợi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.081186,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.021942,
+         "id": "789563",
+         "field_search": "question",
+         "question": " Muốn cài đặt lại hệ điều hành android thì lấy ở đâu làm cách nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.98372,
+         "id": "1159541",
+         "field_search": "question",
+         "question": "Sao Nokia 3.1 của em lại ko dùng được chế độ xem vr trên Youtube vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

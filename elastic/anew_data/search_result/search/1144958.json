@@ -1,0 +1,801 @@
+{
+   "id_query": "1144958",
+   "total": 33693,
+   "total_current": 100,
+   "max_score": 85.32591,
+   "origin_question": "AnhChị cho Em hỏi bên mình có điện thoại  SHARP 507SH AQUOS ANDROID ONE không ạ và giá bao nhiêu thế ạ.Em cảm ơn ạ. ",
+   "hits": [
+      {
+         "score": 31.662899,
+         "id": "1140324",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán sạn điện thoại huawei 3i không? và giá bao nhiêu vậy .cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.985594,
+         "id": "1164703",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có dịch vụ đánh bóng điện thoại không ạ Và phí bao nhiêu ạ ip x  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.357954,
+         "id": "999299",
+         "field_search": "question",
+         "question": "Bên mình có bán cáp otg ko ạ,và giá bao nhiêu!em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.22539,
+         "id": "782541",
+         "field_search": "question",
+         "question": " AnhChị cho em hỏi bên mình còn điện thoại iphone 6 64GB đã qua màu xám đã qua sử dụng còn hàng không ạ. em cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.487514,
+         "id": "1012106",
+         "field_search": "question",
+         "question": "chào anhchị. Bên mình có bán AirBar không ạ? Nếu có, cho em xin giới thiệu và giá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.229408,
+         "id": "1160336",
+         "field_search": "question",
+         "question": "Ad ơi em vừa làm rơi nứt mặt kính điện thoại j2pro cho em hỏi có thể thay mặt kính đó được không ạ và nếu thay thì giá bao nhiêu ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.935755,
+         "id": "1153451",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động có bán máy điện thoại sharp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.776579,
+         "id": "1144387",
+         "field_search": "question",
+         "question": "Dạ em có mua điện thoại MEIZU M5 bên mình, em muốn thay pin của điện thoại thì giá bao nhiêu vậy ạ ? Và tầm bao lâu thì em lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.36458,
+         "id": "1152038",
+         "field_search": "question",
+         "question": "anhchị có thể cho e hỏi là e đang xài dell win7 e muốn cài lại win10 thì mất bao nhiêu ạ?em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.133873,
+         "id": "991173",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng mình có bán s7 egde cũ không ạ mà giá bao nhiêu ạem cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.993767,
+         "id": "1163992",
+         "field_search": "question",
+         "question": "bên mình có thay nút home IP5s không ạ ? và cho em hỏi nếu được thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.797007,
+         "id": "997946",
+         "field_search": "question",
+         "question": "Anhchị cho e hỏi bên mình có những điện thoại nào nghe fm radio không cần tai nghe không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.745749,
+         "id": "1013262",
+         "field_search": "question",
+         "question": "cho e hỏi là bên mình có sửa nút nguồn của iphone 3gs không ạ, và giá là bao nhiêu, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.70363,
+         "id": "1023891",
+         "field_search": "question",
+         "question": "ở thế giới di động  có cài win crack không ạ? cảm ơn anhchị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.58742,
+         "id": "1010144",
+         "field_search": "question",
+         "question": "Cho em hỏi là bên mình có thu điện thoại LUMIA 830 cũ không ạ! EM cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.481934,
+         "id": "753960",
+         "field_search": "question",
+         "question": " Chào TGDD, bên mình có thay màn hình iPhone 4S không ạ? Nếu thay thì giá bao nhiêu? Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.19101,
+         "id": "994687",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi bên cửa hàng của mình có hỗ trợ đổi sim 4G viettel không ạ? Và thủ tục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.107449,
+         "id": "1163046",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là bộ sạc android samsung có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.033005,
+         "id": "768890",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có tai nghe chính hãng của iphone 5s không. Và giá tiền thế nào. Cảm ơn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.956812,
+         "id": "1153333",
+         "field_search": "question",
+         "question": "Android one dùng tối thiểu là bao nhiêu ram là tốt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.868185,
+         "id": "988479",
+         "field_search": "question",
+         "question": "shop cho mình hỏi là, điện thoại còn bảo hành thì bên mình mua lại với giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.732677,
+         "id": "1161811",
+         "field_search": "question",
+         "question": "Dạ e chào anh chị cho e hỏi samsung A30 hiện bên mình có giá baoo nhiêu ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.513105,
+         "id": "1135659",
+         "field_search": "question",
+         "question": "Shop ơi, cho em hỏi là nếu thay cảm ứng của Asus Zenfone 3 Max giá bao nhiêu ạ? Điện thoại em tự nhiên bị cảm ứng không ăn thì phí như thế nào ạ? Không rớt gì luôn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.381851,
+         "id": "1133644",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình điện thoại Xiaomi Redmi 4X ko ạ? Nếu có thì giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.374006,
+         "id": "1138594",
+         "field_search": "question",
+         "question": "Bên mình có điện thoại Lenovo z5 không nếu có thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.300179,
+         "id": "785357",
+         "field_search": "question",
+         "question": "Anh ơi chỗ mình có thay mặt gương iphone 6 plus không vậy. Và điện thoại của em đang trong thời gian bảo hành vậy chi phí thay mình có tính không. Nếu tính thì giá bao nhiêu vậy ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.208635,
+         "id": "766149",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có thay màn hình iPhone 5 không ạ ? Nếu có thì giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.171713,
+         "id": "1138021",
+         "field_search": "question",
+         "question": "Em mua máy note9 ở bên mình. Và bây giờ cảm ứng và màn bị vỡ Nếu nhờ bên mình sửa hộ thì bên mình có thể báo giá và thời gian nhận máy là bao lâu ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12266,
+         "id": "999073",
+         "field_search": "question",
+         "question": "cho mình hỏi bên TGDĐ còn pin điện thoại grand prime không? nếu còn giá khoảng bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.064083,
+         "id": "997889",
+         "field_search": "question",
+         "question": "a cho mình hỏi bên mình có thay màng hình điện thoại samsung A9 ,,,nếu có giá bao nhiêu  zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.833052,
+         "id": "748732",
+         "field_search": "question",
+         "question": " Cho em hỏi ở thế giới di động mình có thay pin điện thoại iphone 4. không? Mà nếu có thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.791779,
+         "id": "1020231",
+         "field_search": "question",
+         "question": "CHÀO. MÌNH MỚI MUA CON PHILIPS S326 HÔM 1.9 MÀ GIỜ MÌNH KHÔNG XÀI NỮA, CHO HỎI BÊN MÌNH THU HỒI LẠI KHÔNG Ạ? VỚI GIÁ BAO NHIÊU VẬY AK? MÌNH CẢM ƠN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.777859,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.73568,
+         "id": "784313",
+         "field_search": "question",
+         "question": "Admin cho em hỏi ạ! Em có con iphone 5 muốn bán bù qua để mua iphone 5s thì tgdđ có nhận thu không ạ và giá dao động bao nhiêu ạ? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.711912,
+         "id": "1014060",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, bên cửa hàng có bán Pin máy samsung galaxy Young GT-S6310 không ạ, nếu có thì giá bán đang là bao nhiêu ạ!Em xin cảm ơn và rất mong nhận được sự phản hồi của cửa hàng ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.662704,
+         "id": "1005115",
+         "field_search": "question",
+         "question": "cho mình hỏi bên mình có nhận thay pin máy tính bảng b1  723 không và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.496197,
+         "id": "1016625",
+         "field_search": "question",
+         "question": "AnhChị cho em hỏi bên mình có bán usb hút sóng wifi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.478683,
+         "id": "1159999",
+         "field_search": "question",
+         "question": "chào anhchị ạ anh chị cho em hỏi bên mình có sản phẩm   Huawei P30 Lite   không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.476238,
+         "id": "1163045",
+         "field_search": "question",
+         "question": "Cho em hỏi, giá thay màn hình redmi note 5 là bao nhiêu ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.465227,
+         "id": "1011321",
+         "field_search": "question",
+         "question": "Cho em hỏi, giá của mặt kính j5 prime  2016 bao nhiêu ạ?Em muốn thay mặt kính ạ? Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.439943,
+         "id": "1142107",
+         "field_search": "question",
+         "question": "Cho em hỏi Iphone XS 64G giá 29.990.000 đã bao gồm thuế chưa ạ? Nếu chưa thì giá bao gồm thuế là bao nhiêu ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.413454,
+         "id": "1007799",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại Mobistar Lai Zumbo bị nứt mặt kính cảm ứng màn hình! Cho em hỏi mình có thể thay thế được không và giá khoảng bao nhiêu? Em ở Huyện Đất Đỏ,Tỉnh Bà Rịa Vũng Tàu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.409115,
+         "id": "808464",
+         "field_search": "question",
+         "question": " Ở tgdd có laptop nào nhỏ ko ạ? Nếu có thì nhỏ bao nhiêu inch và giá bao nhiều ạ? Cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.379717,
+         "id": "1160994",
+         "field_search": "question",
+         "question": ".cho em hỏi màn hình điện thoại của Oppo a3s giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.359905,
+         "id": "992172",
+         "field_search": "question",
+         "question": " Ad cho hỏi có pin điện thoại Samsung Galaxy 7102 không vậy ? Và giá bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.25015,
+         "id": "1154392",
+         "field_search": "question",
+         "question": "chao shop oppo a3s bên mình còn không ạ ? và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23477,
+         "id": "796644",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình còn iphone 5s gold không ah.và giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.229969,
+         "id": "1166784",
+         "field_search": "question",
+         "question": "shop cho hỏi bên mình có thay pin ipad 4 không vậy, giá bao nhiêu. cám ơn shop.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.222527,
+         "id": "841223",
+         "field_search": "question",
+         "question": " cho em hỏi, chỗ mình có dán ngoài cho laptop ko ạ, và hết bao nhiêu, e ở quảng trị , e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.147211,
+         "id": "1010707",
+         "field_search": "question",
+         "question": "Cho em hỏi em có 1 xperia X F5122 imei 358099072025547 mua tại thegioididong. Cho em hỏi là bên mình có thu lại máy không ạ. Và thu lại ở mức giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.133406,
+         "id": "1165406",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn dán chống xước 2 mặt cho iphone  7 plus giá bao nhiêu thế ạ. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130371,
+         "id": "1008170",
+         "field_search": "question",
+         "question": "Mình mới mua máy mobistar zoro giá 1590000d ngày 28/7/2017. Kèm thẻ nhớ,dán 2 mặt điện thoại và miếng đế (được giảm giá còn 360000d ). Giờ mình muốn trả lại sản phẩm này thì mình bị trừ bao nhiêu phần trăm ạ? Và những phụ kiện mình mua sẽ tính thế nào ạ? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.121166,
+         "id": "1007775",
+         "field_search": "question",
+         "question": "Điện thoại em là Samsung galaxy s2 HD LTE chạy android 2.3.6(không hỗ trợ gọi video) . Nay em muốn nâng cấp lên android 4.4 để được hỗ trợ gọi video được không ad ??? Và phí nâng cấp là bao nhiêu ?? Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.117878,
+         "id": "786224",
+         "field_search": "question",
+         "question": " Cho em hỏi, thay màn hình máy tính bảng acer b1  723 giá bao nhiêu ạ? Cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.99017,
+         "id": "1151917",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình muốn thay pin điện thoại oppo a39 giá bao nhiêu thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.970413,
+         "id": "993912",
+         "field_search": "question",
+         "question": "điện thoại obi sf1 ram 3g có tại chi nhánh đà nẵng không ạ và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.90633,
+         "id": "1168032",
+         "field_search": "question",
+         "question": "Điện thoại Huewei nova3i bên mình mua lại giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.875767,
+         "id": "794972",
+         "field_search": "question",
+         "question": " Ở mình có thay pin của iPhone 5 không ạ, và thay thì giá như thế nào ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.86725,
+         "id": "1011799",
+         "field_search": "question",
+         "question": "cho em hỏi dán decal mặt sau điện thoại nokia lumia 525 giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.853926,
+         "id": "1147309",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có hỗ trợ sửa laptop không ạ? Vì em mua laptop bên mình đã lâu rồi và hết bảo hành nên không biết bên mình còn hỗ trợ sửa không? Và nếu với lỗi không mở nguồn lên được thì sửa tầm bao lâu và mất phí là bao nhiêu? Em mong nhận được phản hồi sớm. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.821398,
+         "id": "1154689",
+         "field_search": "question",
+         "question": "Cho em hỏi hay cường lực điện thoại oppo F9 giá khoảng bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.807777,
+         "id": "759268",
+         "field_search": "question",
+         "question": "  Cho em hỏi là bên anh chị có sửa bàn phím laptop không ạ, laptop của em là acer e1471, và giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.767832,
+         "id": "1133744",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn thay pin của samsung galaxy j7 prime cửa hàng có thay loại pin đó không ạ? Nếu có giá bao nhiêu? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.708582,
+         "id": "1159184",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại xiaomi redmi note 7 giá 4tr990.000d  khi mua vào ngày chủ nhật có giảm giá không ạ nếu có thì giảm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.68868,
+         "id": "1021014",
+         "field_search": "question",
+         "question": "Bên mình có dán màn hình laptop ASUS X556URK không ạ? máy mình mua ngoài. Và giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.668528,
+         "id": "1161505",
+         "field_search": "question",
+         "question": "cho mình hỏi mình muốn thay pin điện thoại samsung galaxy A8 giá của pin điện thoại là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.640976,
+         "id": "1004641",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình lenlovo p70 ko ạ và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.498888,
+         "id": "1133726",
+         "field_search": "question",
+         "question": "thegioididong có thay pin điện thoại oppo R8001 không ạ? giá là bao nhiêu và thời gian thay trong bao lâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.49412,
+         "id": "1142478",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu laptop, bên mình có hỗ trợ ko, nếu có thì phí là bao nhiêu ạ, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.491966,
+         "id": "1144623",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu như iphone 7 plus bỏ jack 3.5 thì thế giới di động mình có bán dây đó không ạ? Và giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.491116,
+         "id": "759044",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iPhone 5c có 4G không ạ. Em xin cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.461739,
+         "id": "1010662",
+         "field_search": "question",
+         "question": "Em vừa cập nhật android 6.0 cho máy Oppo f1s, em thấy mát chạy tốn nhiều ram hơn lúc còn ở android 5.1. Anh( chị) cho em hỏi là như vậy điện thoại của em có phải vị virus không và có cách nào khắc phục không ạ. Em cảm ơn và mong sớm nhận được hồi đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.339071,
+         "id": "1140379",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình của honor có hàng không ạ và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.32956,
+         "id": "1163070",
+         "field_search": "question",
+         "question": "Cho hỏi bên anh diện thoại  Vsmart Joy 1  6inch giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.318192,
+         "id": "751068",
+         "field_search": "question",
+         "question": "  Điện thoại iPhone 5S bây giờ giá bao nhiêu thế em muốn mua mà không biết giá? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.307049,
+         "id": "1007169",
+         "field_search": "question",
+         "question": "cho em hỏi anhchị cửa hàng mình có bán ốp lưng điện thoại vivo Y553_1606 không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.256077,
+         "id": "1023159",
+         "field_search": "question",
+         "question": "Hicho hỏi bên TGDĐ mình có dán keo full mặt sau và viền cho iphone 6plus và ipad pro 9.7 k ạ? giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.205854,
+         "id": "1137972",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình còn hàng oppo f5 mới ko ạ? Giá máy mới là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.099812,
+         "id": "1145610",
+         "field_search": "question",
+         "question": "Em đang dùng máy asus x542u, em muốn lắp thêm ram 4gb nữa có được không ạ? Nếu được thì cho em hỏi giá là bao nhiêu?Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.038277,
+         "id": "998648",
+         "field_search": "question",
+         "question": "E xài điện thoại oppo f1s,  e muốn up lên android 6.0 cho e hỏi bên TGDĐ có làm giúp e được không ạ?? Và làm free hay tính phí ạ (nếu có thì phí bao nhiu)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.027073,
+         "id": "1168189",
+         "field_search": "question",
+         "question": "Cho em hỏi sạc điên thoại Galaxg A6 có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.966455,
+         "id": "997795",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua điện thoại htc one khoản 3 tháng trước, bây giờ thu lại giá khoản bao nhiêu ak. lúc đầu mùa là 5990",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.94321,
+         "id": "753616",
+         "field_search": "question",
+         "question": " Thế giới di động có mở mạng iPhone 6 không bạn, nếu có giá mở mạng là bao nhiêu vậy. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.941265,
+         "id": "1161535",
+         "field_search": "question",
+         "question": "Cho em hỏi bộ vỏ của mẫu laptop Asus A456U giá bao nhiêu ạ. Bao gồm và không bao gồm bàn phím có khác giá không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.934633,
+         "id": "1004172",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là bây giờ em muốn thay loa cho điện thoại sony Xperia Xa thì mất khoảng bao nhiêu tiền ạ...em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.900497,
+         "id": "996820",
+         "field_search": "question",
+         "question": "em làm mất cục sạc của máy ảnh này COOLPIX S2800 tại thegioididong cần thơ có bán kh ạ và giá bao nhiêu ạ. xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.898603,
+         "id": "1162523",
+         "field_search": "question",
+         "question": "Điện thoại mình vừa rớt và đứt dây màn hình. Cho mình hỏi thay dây màn hình của điện thoại iphone 7s phiên bản quốc tế thì giá bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87787,
+         "id": "1020313",
+         "field_search": "question",
+         "question": "điện thoại oppo f1 có ở  cần thơ không ad và giá bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.876343,
+         "id": "1138284",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi giá điện thoại oppo F1s bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.872868,
+         "id": "988311",
+         "field_search": "question",
+         "question": "Cho em hỏi pin điện thoại lenny2 có giá bao nhiêu vậy có bán không anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.84639,
+         "id": "992647",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi, chị em đang mua điện thoại trả góp, vậy có đứng tên mua được điện thoại trả góp nửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.833586,
+         "id": "1139255",
+         "field_search": "question",
+         "question": " Cho em hỏi hiện bên mình có bán loại sim 4g vinaphone speed không vậy? Giá của nó hiện tại bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.767994,
+         "id": "987018",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có thu mua điện thoại không ạ ? em đang xài sony xperia c4 , nếu có thu mua thì giá sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.760426,
+         "id": "1159755",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới Di Động có nhận sửa điện thoại ko ạ?Mà có thì giá sửa và thời gian là bao nhiêu ạ?Tại vì máy e bị vỡ màn hình cảm ứng(Máy e dòng Mobell s61 ạ )Mong shop hồi âm sớm ☺️☺️",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.74957,
+         "id": "835321",
+         "field_search": "question",
+         "question": "Cho em hỏi là ở thế giới di động giá sạc iphone 5 chính hãng là bao nhiêu ạ! Nếu sử dụng sạc không đúng hãng có gây hại cho điện thoại ko a!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.714073,
+         "id": "986018",
+         "field_search": "question",
+         "question": " Em muốn hỏi thế giới di động iPhone 6 giá bao nhiêu ạ ???Và em muốn trả góp thì trả trước bao nhiêu?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70718,
+         "id": "996183",
+         "field_search": "question",
+         "question": "cho em hỏi thay cả màn cảm ứng và màn bên trong của sony m4 thì hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.697012,
+         "id": "1149938",
+         "field_search": "question",
+         "question": "Bên mình có bán lẻ cường lực nokia 8.1 ko ạ? Nếu có bán thì bao nhiêu 1 chiếc ạ? E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68429,
+         "id": "1002058",
+         "field_search": "question",
+         "question": " EM đang cần mua gấp một cái HTC ạ ? Cho em hỏi HTC One là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

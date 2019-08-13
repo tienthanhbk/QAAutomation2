@@ -123,7 +123,7 @@ def raw_query_pool2():
 
         user_judge = ''
 
-        while (len(arr_id) != 2160) and (user_judge != '0'):
+        while (len(arr_id) != 4320) and (user_judge != '0'):
             qa_checking = random.choice(arr_question_source)
             if qa_checking['id'] in arr_id_checked:
                 continue
@@ -215,17 +215,17 @@ def split_data(path_glob, test=True):
         train_paths, dev_paths = train_dev_test_split(paths, test=test)
 
     for path in train_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/train'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/train'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in dev_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/dev'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/dev'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in test_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
@@ -237,8 +237,8 @@ def raw_pool(kind='train', pool='similar2', max_judged=10, strict=False):
     # explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
     # explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
 
-    explicit_path_use = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test/*.json'
-    explicit_path_raw = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/raw/test.txt'
+    explicit_path_use = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative/all/*.json'
+    explicit_path_raw = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative/raw/allnegative.txt'
 
     raw_to_file(strict=strict,
                 separator='\t',
@@ -394,6 +394,9 @@ def get_search_result(query_obj, index, page=0, size=10, field_search="question"
     for hit in current_hits:
         if len(hit['_source']['question']) == 0 or len(hit['_source']['answer']) == 0:
             continue
+        # Ignore self
+        if query_obj['id'] == hit['_id']:
+            continue
         raw_hit = {
             "score": hit['_score'],
             "id": hit['_id'],
@@ -485,6 +488,24 @@ def statistic_search_result():
     print('total_bad_half: %d - %f' % (total_bad_2, (total_bad_2 * 100 / total_pair_2)))
 
 
+def refresh_judged_files(judged_path, new_path):
+    # dict_path: dictionary path to json files
+    # strict: True or False. If True, only question related masked 2 is considered relevan
+    paths = glob.glob(judged_path + "/*.json")
+    paths.sort()
+
+    for path in paths:
+        with open(path, 'r') as f:
+            search_result = json.load(f)
+            hits = search_result['hits']
+            for hit in hits:
+                hit['relate_q_q'] = 0
+            newname = '{}.json'.format(search_result['id_query'])
+            print(newname)
+            with open(new_path + '/' + newname, 'w+') as f:
+                json.dump(search_result, f, indent=3, ensure_ascii=False)
+
+
 def caculate_AP(path, strict, dict_path):
     # path: path to file json
     # strict: True or False. If True, only question related masked 2 is considered relevan
@@ -499,27 +520,36 @@ def caculate_AP(path, strict, dict_path):
         for hit in hits:
             # if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
             #     continue
-            if hit['relate_q_q'] == 2:
-                num_related += 1
-                arr_denote_all.append(1)
+            try:
+                if hit['relate_q_q'] == 2:
+                    num_related += 1
+                    arr_denote_all.append(1)
 
-                if len(arr_denote_top30) < 30:
-                    arr_denote_top30.append(1)
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(1)
 
-                if len(arr_denote_top10) < 10:
-                    arr_denote_top10.append(1)
+                    if len(arr_denote_top10) < 10:
+                        arr_denote_top10.append(1)
 
-            elif hit['relate_q_q'] == 1 and not strict:
-                num_related += 1
-                arr_denote_all.append(1)
+                elif hit['relate_q_q'] == 1 and not strict:
+                    num_related += 1
+                    arr_denote_all.append(1)
 
-                if len(arr_denote_top30) < 30:
-                    arr_denote_top30.append(1)
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(1)
 
-                if len(arr_denote_top10) < 10:
-                    arr_denote_top10.append(1)
+                    if len(arr_denote_top10) < 10:
+                        arr_denote_top10.append(1)
 
-            else:
+                else:
+                    arr_denote_all.append(0)
+
+                    if len(arr_denote_top30) < 30:
+                        arr_denote_top30.append(0)
+
+                    if len(arr_denote_top10) < 10:
+                        arr_denote_top10.append(0)
+            except KeyError:
                 arr_denote_all.append(0)
 
                 if len(arr_denote_top30) < 30:
@@ -572,29 +602,38 @@ def caculate_positive_ratio(dict_path):
             for hit in hits:
                 # if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
                 #     continue
-                if hit['relate_q_q'] == 2:
-                    num_related += 1
-                    arr_denote_all.append(1)
+                try:
+                    if hit['relate_q_q'] == 2:
+                        num_related += 1
+                        arr_denote_all.append(1)
 
-                    if len(arr_denote_top30) < 30:
-                        arr_denote_top30.append(1)
+                        if len(arr_denote_top30) < 30:
+                            arr_denote_top30.append(1)
 
-                    if len(arr_denote_top10) < 10:
-                        num_positive += 1
-                        arr_denote_top10.append(1)
+                        if len(arr_denote_top10) < 10:
+                            num_positive += 1
+                            arr_denote_top10.append(1)
 
-                elif hit['relate_q_q'] == 1:
-                    num_related += 1
-                    arr_denote_all.append(1)
+                    elif hit['relate_q_q'] == 1:
+                        num_related += 1
+                        arr_denote_all.append(1)
 
-                    if len(arr_denote_top30) < 30:
-                        arr_denote_top30.append(1)
+                        if len(arr_denote_top30) < 30:
+                            arr_denote_top30.append(1)
 
-                    if len(arr_denote_top10) < 10:
-                        num_positive += 1
-                        arr_denote_top10.append(1)
+                        if len(arr_denote_top10) < 10:
+                            num_positive += 1
+                            arr_denote_top10.append(1)
 
-                else:
+                    else:
+                        arr_denote_all.append(0)
+
+                        if len(arr_denote_top30) < 30:
+                            arr_denote_top30.append(0)
+
+                        if len(arr_denote_top10) < 10:
+                            arr_denote_top10.append(0)
+                except KeyError:
                     arr_denote_all.append(0)
 
                     if len(arr_denote_top30) < 30:
@@ -612,20 +651,114 @@ def tmp():
     # raw_pool(kind='test', pool='tmp', max_judged=10, strict=True)
 
 
-tmp()
+def get_origin_q_with_positive_q():
+    paths = glob.glob('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged' + "/*/*.json")
+    for path in paths:
+        print(path)
+        with open(path, 'r') as f:
+            search_result = json.load(f)
+            hits = search_result['hits']
+            num_related = 0
+
+            for hit in hits:
+                try:
+                    if hit['relate_q_q'] == 2:
+                        num_related += 1
+                    elif hit['relate_q_q'] == 1:
+                        num_related += 1
+                except KeyError:
+                    continue
+
+            print(num_related)
+            if num_related > 0:
+                filename = os.path.basename(path)
+                shutil.copy2(path, '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all')
+            else:
+                shutil.copy2(path, '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative')
+
+
+def denote_consensus(path_judge, path_target_dict):
+    judge = None
+    target=None
+
+    arr_denote = []
+    with open(path_judge) as f:
+        judge = json.load(f)
+
+    for path_target in glob.glob(path_target_dict + '/*.json'):
+        with open(path_target) as f:
+            target = json.load(f)
+            if target['id_query'] == judge['id_query']:
+                break
+            else:
+                target = None
+
+    if target is None:
+        return arr_denote
+
+    count = 0
+
+    for judge_q in judge['hits']:
+        count += 1
+        for target_q in target['hits']:
+            if judge_q['id'] == target_q['id']:
+                if judge_q['relate_q_q'] == target_q['relate_q_q']: # True
+                    if judge_q['relate_q_q'] == 1: # True positive
+                        arr_denote.append(1)
+                    else: # True negative
+                        arr_denote.append(0)
+                else: # False
+                    arr_denote.append(-1)
+                break
+        if count >= 10:
+            break
+
+    return arr_denote
+
+
+def caculate_consensus(arr_denote):
+    if len(arr_denote) == 0:
+        return None
+    num_true = 0
+    for denote in arr_denote:
+        if denote == 1 or denote == 0:
+            num_true += 1
+    return num_true / len(arr_denote)
+
+
+# arr = denote_consensus('/Users/tienthanh/Desktop/Tienthanh-Chi_Thanh/today/593993.json',
+#                  '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all')
+# print(caculate_consensus(arr))
+
+def caculate_consensus_all(path_judge_dict, path_target_dict):
+    arr_consensus = []
+    for path_judge in glob.glob(path_judge_dict + '/*.json'):
+        score_consensus = caculate_consensus(denote_consensus(path_judge, path_target_dict))
+        if score_consensus is not None:
+            arr_consensus.append(score_consensus)
+    print("len: ", len(arr_consensus))
+    return np.mean(arr_consensus)
+
+
+# print(caculate_consensus_all('/Users/tienthanh/Desktop/Tienthanh-Chi_Thanh/today',
+#                              '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/*'))
+
+# get_origin_q_with_positive_q()
+
+# tmp()
 
 # raw_index_file2()
-# raw_query_pool2()
+raw_query_pool2()
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
 #                      path_raw_result='elastic/search_result/test/')
 
 # Search general data:gensim/model/question.d2v
-# search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json',
-#                      path_raw_result='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/search_result/search/',
-#                      index='qa_general')
+search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json',
+                     path_raw_result='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/search_result/search/',
+                     index='qa_general')
 
 # statistic_search_result()
-# caculate_mAP('elastic/judged/test-data/tmp', strict=False)
+# caculate_mAP('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test', strict=False)
 
 
 # raw_to_file(strict=False, tokenize=True, separator='\t', max_judged=None, more_info=True,
@@ -648,10 +781,10 @@ tmp()
 #             explicit_path_use='elastic/judged/test-data/tmp/*.json',
 #             explicit_path_raw='data/test_data/raw/test.txt')
 
-# split_data(path_glob='/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/*/*.json', test=True)
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/dev'))
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/test'))
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/split/train'))
+# split_data(path_glob='/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all/*.json', test=True)
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/train'))
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/dev'))
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test'))
 # refresh_query_pool()
 # refresh_query_pool(path_searched='elastic/anew_data/search_result/train/*.json',
 #                    path_pool='elastic/anew_data/query_pool/query_train.json')
@@ -665,3 +798,6 @@ tmp()
 #     search_result = json.load(f)
 #     f_new = open(path, 'w')
 #     json.dump(search_result, f_new, indent=3, ensure_ascii=False)
+
+# refresh_judged_files('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/Tri_part1',
+#                      '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/origin/Tri_origin')

@@ -1,0 +1,801 @@
+{
+   "id_query": "1157025",
+   "total": 31136,
+   "total_current": 100,
+   "max_score": 63.27825,
+   "origin_question": "Cho e hỏi sản phẩm xiaomi mi 8 lite có tính năng trống nước không ạ?",
+   "hits": [
+      {
+         "score": 47.937874,
+         "id": "1157086",
+         "field_search": "question",
+         "question": "Cho em hỏi máy xiaomi mi 8 lite có hỗ trợ tính năng trống nước và bụi bẩn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.330872,
+         "id": "1163995",
+         "field_search": "question",
+         "question": "cho e hỏi Mi a2 lite 323 có chống nước không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.392063,
+         "id": "1155334",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi mi 8 lite có hỗ trợ sạc nhanh quick charge 3.0 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.19447,
+         "id": "1145468",
+         "field_search": "question",
+         "question": "xiaomi mi 8 lite có thể sạc tren máy tình đc không.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.561712,
+         "id": "1141522",
+         "field_search": "question",
+         "question": "A tại sao đt xiaomi mi 8 lite của e ko có giờ việt nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.128025,
+         "id": "1144105",
+         "field_search": "question",
+         "question": "Cuộc gọi thì có đèn flas nhấp nháy.. sao tin nhắn lại không có vậy ... E  xài xiaomi mi 8 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.102867,
+         "id": "1146783",
+         "field_search": "question",
+         "question": "Qtv ss dùm em xiaomi mi 8 lite vs mi 8 se con nào chơi game tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.5979,
+         "id": "1146255",
+         "field_search": "question",
+         "question": "Dung lượng gam khả dụng của xiaomi mi 8 lite là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.697191,
+         "id": "1144297",
+         "field_search": "question",
+         "question": "nếu như mua xiaomi mi 8 lite tại thế giới di động chi nhánh nào đó mà không có thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.310019,
+         "id": "1140540",
+         "field_search": "question",
+         "question": "Con Xiaomi Mi 8 lite 6G khi mua có hổ trợ kính cường lực ko shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.275434,
+         "id": "1157846",
+         "field_search": "question",
+         "question": "xiaomi mi 8 lite 6Gb128GB pin 3350mAh và xiaomi redmi note 7 pin 4000mAh  thì xài khoảng được bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.943468,
+         "id": "1156127",
+         "field_search": "question",
+         "question": "Em mới mua Xiaomi mi 8 lite 6g trả góp giờ đổi sang vivo v15 đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.418854,
+         "id": "1143971",
+         "field_search": "question",
+         "question": "Xiaomi mi a1 có chống nước không . Chông chay k ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.192923,
+         "id": "1167881",
+         "field_search": "question",
+         "question": "Điện thoai xiaomi mi 8 lite nếu trả trước 0 thì phải trả trước bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.155184,
+         "id": "1136764",
+         "field_search": "question",
+         "question": "Cho mk hỏi nếu mua mi 8 lite có được tặng hay ưu đãi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.086584,
+         "id": "1156325",
+         "field_search": "question",
+         "question": "Em mới mua Xiaomi mi 8 lite 6g ngày 143 h đổi a50 đc k ạ em mua trả góp thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.903772,
+         "id": "1144360",
+         "field_search": "question",
+         "question": "Đèn Led trên cảm biến.báo sạc báo cuộc gọi nhỡ.. hay tin nhắn chưa xem xiaomi mi 8 lite có mấy màu ạ... sao e thấy có 1 màu ạ.. màu trắng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.895462,
+         "id": "1159999",
+         "field_search": "question",
+         "question": "chào anhchị ạ anh chị cho em hỏi bên mình có sản phẩm   Huawei P30 Lite   không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.47255,
+         "id": "1144215",
+         "field_search": "question",
+         "question": "cho em hoi tgdd có dán màn hinh xiaomi mi 8 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.079819,
+         "id": "1160578",
+         "field_search": "question",
+         "question": "Anh ơi Giữa xiaomi redmi note 4x và Xiaomi mi 5 thì 2 sản phẩm đó chơi game đc bao lâu ạ. Cụ thể là khoảng mấy giờ ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.017918,
+         "id": "1160547",
+         "field_search": "question",
+         "question": "Anh ơi Giữa xiaomi redmi note 4x và Xiaomi mi 5 thì 2 sản phẩm đó onscreen đc bao lâu ạ. Cụ thể là khoảng mấy giờ ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.00566,
+         "id": "1142620",
+         "field_search": "question",
+         "question": "shop cho mình hỏi ở chi nhánh thegioididong ở Cai Lậy có còn điện thoại mi 8 lite không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.937006,
+         "id": "1160030",
+         "field_search": "question",
+         "question": "Mình vừa mua góp Mi 8 vào tuần trước nhưng ko thích lắm, muốn đổi qua sản phẩm khác được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.882555,
+         "id": "1145483",
+         "field_search": "question",
+         "question": "cho em hỏi là xiaomi remid note 6 pro với xiaomi mi A2 lite cái nào xài bền hơn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.785862,
+         "id": "1145721",
+         "field_search": "question",
+         "question": "Cho tôi hỏi sản phẩm note 8 cũ tại bình dương có ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.710018,
+         "id": "1139273",
+         "field_search": "question",
+         "question": " Điện thoại Xiaomi Mi 8 Lite 6GB128GB có kết hợp sạc nhanh QC3 mà mua máy trong hộp chỉ có cục sạc thường thôi sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.666002,
+         "id": "1155256",
+         "field_search": "question",
+         "question": "Chỉ e cách ẩn ứng dụng trên xiaomi mi a2 lite đi mn ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63823,
+         "id": "1142296",
+         "field_search": "question",
+         "question": "Cho mình hỏi chi nhánh 32 nào có dán cường lực cho xiaomi mi A2 lite vậy? giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.491163,
+         "id": "1151916",
+         "field_search": "question",
+         "question": "Xiaomi Mi A1 và Nokia 6 có thể mang sang nước ngoài sử dụng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.010038,
+         "id": "1135469",
+         "field_search": "question",
+         "question": "Các bác dùng xiaomi mi 8 lite cho em hỏi: chơi pubg màn hình bị tràn ra phần tai thỏ, rất khó chơi, làm cách nào để khắc phục ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.744015,
+         "id": "1139470",
+         "field_search": "question",
+         "question": " Nên mua Xiaomi note 5, Xiaomi Mi A2 lite hay Xiaomi redmi 5 plus chơi Pubg đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.728605,
+         "id": "1155479",
+         "field_search": "question",
+         "question": "Mn ơi  Chỉ e cách ẩn ứng dụng trên đt xiaomi mi a2 lite đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.710762,
+         "id": "1144358",
+         "field_search": "question",
+         "question": "Cuộc gọi thì có đèn flas nhấp nháy.. sao tin nhắn lại không có vậy ... E xài xiaomi mi 8 lite.. Không xài ứng dụng cài đặt đèn bao flash cuộc gọi thì có còn flash tin nhắn thì k ... là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.704517,
+         "id": "1150866",
+         "field_search": "question",
+         "question": "Đối với Samsung A7 với Xiaomi Mi 8 lite thì chiếc nào chơi game tốt hơn và cái nào tụt pin nhanh hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.675714,
+         "id": "1162927",
+         "field_search": "question",
+         "question": "cho em hỏi đt xiaomi mi 8 lite của em . nó cứ bị giật giật mỗi khi gõ tn và nhiều lúc vân tay kh cảm biến liền liệu nó bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.596655,
+         "id": "1141981",
+         "field_search": "question",
+         "question": "shop ơi cho e hỏi sản phẩm iphone 8 phiên bản 64Gb và 256 Gb shop ngừng kinh doanh rồi ạ? Hay shop hết sản phẩm chưa nhập về thêm ạ? Liệu trước Tết em mua có hàng k ạ? E cám ơn shop ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52957,
+         "id": "1135799",
+         "field_search": "question",
+         "question": "Em có đặt giữ đơn hàng xiaomi mi 8 lite vậy bên mình có thể tra cứu giúp em xem em có dc khách hàng thân thiết k v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.49512,
+         "id": "1162020",
+         "field_search": "question",
+         "question": "Cho em hỏi e có coi mấy bài test nước của samsung galaxy note 5 thì chống nước nhưng nhà sản xuất không đề cập tới khả năng chống nước vậy em có thể sử dụng thoải mái dưới mua không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.320335,
+         "id": "1022002",
+         "field_search": "question",
+         "question": "cho tôi hỏi TGDĐ huyện Giồng Trôm là sản phẩm  mobiistar lai zumbo s lite 2017 có bán tại TGDĐ mình không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268543,
+         "id": "1135804",
+         "field_search": "question",
+         "question": "Em có giữ hàng dòng máy xiaomi mi 8 lite ở bên mìnhVậy bên anh có thể  ho em bk em có đc giảm giá khách hàng thân thiết k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.22195,
+         "id": "1020133",
+         "field_search": "question",
+         "question": "cho em hỏi s8 mới ra có giá là bao nhiêu ak?có tính năng ghi âm cuộc gọi không?khi mua sản phẩm thì được hưởng dịch vụ khuyến mãi gì không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.20149,
+         "id": "1134260",
+         "field_search": "question",
+         "question": "mình muốn mua con xiaomi mi 8 lite không càn trả trước trả góp 12 tháng thì lãi xuất bao nhiêu và mỗi tháng cần trả bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.178385,
+         "id": "995183",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi, bên bạn có sản phẩm bàn phím máy tính không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.076172,
+         "id": "1004986",
+         "field_search": "question",
+         "question": "Cho hỏi messenger lite đã cập nhật tính năng gọi điện chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.940842,
+         "id": "1133833",
+         "field_search": "question",
+         "question": "ac ơi cho em hỏi máy xiaomi mi a2 lite h thay măt kính giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889648,
+         "id": "1146735",
+         "field_search": "question",
+         "question": "tui mới mua 1 dt Xiaomi mi 8 lite lúc ság bây giờ tui mún quay lại đổi sang đt vmart activate 1+ có được ko vậy tui ở cần thơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.865217,
+         "id": "1163805",
+         "field_search": "question",
+         "question": "tôi hỏi khu vực TGDD ở mạo khê Quảng ninh có sản phẩm đồng hồ điện tử Mi band 3 không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.741453,
+         "id": "1142371",
+         "field_search": "question",
+         "question": "Cho tôi hỏi Xiaomi mi8 lite có chức năng pico pic hok. Nếu có thì dùng như thế nào? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.66759,
+         "id": "1160554",
+         "field_search": "question",
+         "question": "Tại sao đt xiaomi mi 8 lite không hiện thị nút tắt, khi mình muốn kết thúc cuộc nói chuyện, mà phải mở khóa màn hình, mới tắt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.62039,
+         "id": "1148459",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là giữa Sony Xpreria Z2 với LG G5 thì sản phẩm nào có hiệu năng tốt hơn ạ và chênh lệch hiệu năng giữa 2 máy có quá đáng kể không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.60202,
+         "id": "1143645",
+         "field_search": "question",
+         "question": "Em mùa Xiaomi 8 lite . Nhưng không thể mở toàn màn hình được ạ . Bị che",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.469063,
+         "id": "1145941",
+         "field_search": "question",
+         "question": "Xin hỏi thế giới di động có sản phẩm vỏ máy tính bảng Galaxy tab A8, SMP355 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.257296,
+         "id": "1136501",
+         "field_search": "question",
+         "question": "Mấy Sony xa1 plus có tính năng chống nước không vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.242004,
+         "id": "1148211",
+         "field_search": "question",
+         "question": " Máy xiaomi note 5 của e nó không cho bật tính năng lên thì fix lỗi này ntn ạ...!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.209679,
+         "id": "1149162",
+         "field_search": "question",
+         "question": "Cho e hỏi e sài xiao mi 8 lite khi e chơi game liên quân bupg thì bị quang cáo liên tục trong lúc chơi ad có cách khắc phục tắc hết quãng cáo đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.026596,
+         "id": "1145463",
+         "field_search": "question",
+         "question": "Đèn Led trên cảm biến.báo sạc báo cuộc gọi nhỡ.. hay tin nhắn chưa xem xiaomi mi 8 lite có mấy màu ạ... sao e thấy có 1 màu ạ.. màu trắng.. khi sạc đầy .máy vẫn sạc nhưng tắt led màu Trắng và k không có đèn led xanh nhu MOD nói ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01935,
+         "id": "1160368",
+         "field_search": "question",
+         "question": "Cách thêm video từ ứng dụng thư viện vào album ẩn trên mi 8 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.943314,
+         "id": "988482",
+         "field_search": "question",
+         "question": "Xin chào!TGDĐ có sản phẩm Wifi Repeater Xiaomi Gen 2 ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.876408,
+         "id": "1161556",
+         "field_search": "question",
+         "question": "cho em hỏi làm fullscreen ở máy xiaomi mi a2 lite khi chơi game sao ạ? mấy đang ở hệ điều hành android 9 ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.756935,
+         "id": "1145620",
+         "field_search": "question",
+         "question": "e Hỏi là Đt Xiaomi mi 8 lite gắn sạc đang sạc 99% thì còn đèn led màu trắng trên gần camera trước ( Đèn báo sạc ). Khi sạc 100% thì đèn tắt.. k có đèn xanh khi sạc đầy 100% như MOD trước nói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.708061,
+         "id": "1152393",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 plus có khả năng chống nước không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.628685,
+         "id": "1160490",
+         "field_search": "question",
+         "question": "Cho mình hỏi tai nghe có micro mà giá rẻ nhất là sản phẩm nào ạ dành cho máy tính để bàn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.603172,
+         "id": "998955",
+         "field_search": "question",
+         "question": "Tại sao thế giới di động không bán nhiều sản phẩm của Xiaomi thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.525444,
+         "id": "1141481",
+         "field_search": "question",
+         "question": "cho em hỏi là em đang phân vân giữa xiaoMi 8 lite với oppo f9 ko bít nên mua cái nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.501425,
+         "id": "1008663",
+         "field_search": "question",
+         "question": "CHO EM XIN BÁO GIÁ 3 SẢN PHẨM:+ IPad Wifi 128GB (2017)+ Samsung Galaxy Tab E 9.6 (SM-T561)+ Máy tính bảng Mobell Tab 8 ProGIÁ RA HOÁ ĐƠN ĐỎ LUÔN NHÉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.441961,
+         "id": "1153511",
+         "field_search": "question",
+         "question": "Cho em hỏi ở tggđ còn máy mi A2 lite ko ạ.       ..................,.............",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.438961,
+         "id": "752186",
+         "field_search": "question",
+         "question": "iPhone 6s mình mua máy ở TGDD, sao khi kết nối với máy tính lại không hiển thị là sản phẩm phân phối của nước nào? và không có thông tin bảo hành là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.239338,
+         "id": "1144122",
+         "field_search": "question",
+         "question": "Điện thoại. xiaomi mi 8 lite sạc bao lâu thì đầy. pin ạ.. .. Tắt khi sac .. Tắt khi pin 60% hoặc đã sạc đầy... là sao.. có phãi là sạc nhanh tới 60% từ 60% trở đi là sạc bình thường phải k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165354,
+         "id": "1144113",
+         "field_search": "question",
+         "question": "xiaomi mi a1 32gb con bán không ạ . mình ở huyện định quán tỉnh đồng nai ,chổ minh có bán xiaomi mi a1 32 gb k ạ (hoặc xiaomi mi a1 64gb)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.164421,
+         "id": "1167078",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại mi 8 lite đã update lên android 9 mà muốn hạ xuống android 8 có được không ? Nếu hạ xuống thì cần bao lâu ?Điện thoại mình bị bể phần kính phía sau giờ muốn thay bên thegioididong có hổ trợ không hay phải ra nơi bảo hành xiaomi ơ hcm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.125633,
+         "id": "1133309",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình mua sản phẩm A9 2018 nếu không lấy quà tặng thì có được giảm giá không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.107004,
+         "id": "912985",
+         "field_search": "question",
+         "question": " tôi muốn lấy mã sản phẩm của máy tính thì phải làm sao?Máy tính tôi mới reset lại nên cần mã sản phẩm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.102911,
+         "id": "1164575",
+         "field_search": "question",
+         "question": "Có chiếc máy nào mà 10 triệu mà có trống nước và chơi game tốt không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.065825,
+         "id": "1022035",
+         "field_search": "question",
+         "question": "cho tôi hỏi TGDĐ huyện giồng trôm về thông số kĩ thuật và giá tiền của sản phẩm mobiistar lai zum s lite 2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.047224,
+         "id": "1158884",
+         "field_search": "question",
+         "question": "cho mình hỏi note 8 mua mới có bảo hành chống nước không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.035793,
+         "id": "1011774",
+         "field_search": "question",
+         "question": "Add ơi hm bữa e có mua sản phẩm của thế giới di động giờ e muốn đổi sản phẩm mới mà bị mất hộp có đổi được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.97829,
+         "id": "1146773",
+         "field_search": "question",
+         "question": "Qtv so sánh dùm e con xiaomi 8 lite vs huawai nova 3i con nào game tốt hơn v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.964611,
+         "id": "1023762",
+         "field_search": "question",
+         "question": "Cho e hỏi câu này nghĩa là như thế nào? .\" Trường hợp sản phẩm đổi hết hàng, khách hàng có thể đổi sang sản phẩm khác cùng nhóm hàng có giá trị lớn hơn 50% giá trị sản phẩm lỗi \" .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.938683,
+         "id": "1149784",
+         "field_search": "question",
+         "question": "Mình muốn đổi xiaomi a2 life. Thành mi 8 life thì giá cả như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.938223,
+         "id": "1157736",
+         "field_search": "question",
+         "question": "Xiaomi 8 lite 4gb 64mb màu xanh dương còn hàng k shop....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.91797,
+         "id": "1152884",
+         "field_search": "question",
+         "question": "Hôm trước em có mua điện thoại xiaomi mi 8 lite tại cửa hàng trước khi về nhân viên có nói với em là ngày hôm nay sẽ gọi điện xác nhận nhưng nãy em không bắt máy được do phải làm việc. Vậy điện thoại em có bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.843943,
+         "id": "1156091",
+         "field_search": "question",
+         "question": "Cho e hỏi máy xiaomi Mi 4C có hỗ trợ 4G ko ạ.Mong ad giúp.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.836433,
+         "id": "799446",
+         "field_search": "question",
+         "question": "Cho em hỏi Ipod touch gen là loại sản phẩm như thế nào Chức năng nó khá giống với 1 chiếc iphone thông thường phải không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.755808,
+         "id": "1147461",
+         "field_search": "question",
+         "question": " Vậy xiaomi mi 8 SE chơi game có nhỉnh hơn nhiều so với asus max pro m2 ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.748137,
+         "id": "1017713",
+         "field_search": "question",
+         "question": "Mình đang phân vân giữa hauwei gr5 2017 và xiaomi redmi note4.cho mình hỏi 2 sản phẩm trên sản phẩm nào cho trải nghiệm chơi game mượt mà và ổn định nhất.mình chơi game crossfire legends và liên quân ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.746712,
+         "id": "1156439",
+         "field_search": "question",
+         "question": "XIN CHÀO, CHO EM HỎI BÊN MÌNH CÒN DÒNG SẢN PHẨM \" ASUS VivoBook Flip 14 TP412UA  KHÔNG Ạ? CÓ THỂ TƯ VẤN GIÚP EM DÒNG SẢN PHẨM NÀY KHÔNG?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.622807,
+         "id": "1146857",
+         "field_search": "question",
+         "question": "alo cho em hỏi xaomi mi 8 có bản chính hãng chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.564993,
+         "id": "1022867",
+         "field_search": "question",
+         "question": "Cho tôi hỏi TGDĐ huyện Giồng Trôm. Sản phẩm mobiistar lai zumbo s lite (2017) cấu hình ổn ko. Chơi đc game vừa và nhẹ ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.492912,
+         "id": "1134344",
+         "field_search": "question",
+         "question": "Xiaomi redmi 6 pro có hỗ trợ sạc nhanh không ạ Giúp e cách làm trống ram càng nhiều càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.326626,
+         "id": "1146195",
+         "field_search": "question",
+         "question": "Máy sam sung j4 của e không thấy máy tính. Ad có thể cho e biết máy tính năng ở đâu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.29698,
+         "id": "1024054",
+         "field_search": "question",
+         "question": "Cho tôi hỏi TGDĐ huyện Giồng Trôm. Sản phẩm mobiistar lai zumbo s lite(2017) đang có hàng tại TGDĐ mình phải ko vậy. Các bạn có thể làm video đánh giá được không. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.296757,
+         "id": "1151924",
+         "field_search": "question",
+         "question": "hiện e có mua 1 sản phẩm trả góp và bây h e muốn mua trả góp 1 sản phẩm nửa có đc hk ạ e mua trả góp bên  fe credit ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.270939,
+         "id": "1139690",
+         "field_search": "question",
+         "question": "em định thanh toán xiaomi mi 8 lite 6/128 bằng zalo pay nhưng bị rớt mạng nên chưa kịp quét mã QR, sau khi vào lại thì e nhận được thông báo là \" số điện thoại này đã tham gia chương trình \" nên không thể tiếp tục thanh toán được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.223886,
+         "id": "1013239",
+         "field_search": "question",
+         "question": "cho em hỏi sản phẩm iphone 5s hiện còn hàng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.223333,
+         "id": "1014661",
+         "field_search": "question",
+         "question": "cho e hỏi hãng điện thoại mobell là do nước nào sản xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.218273,
+         "id": "1139200",
+         "field_search": "question",
+         "question": "Cho mình hỏi xiaomi a2 LITE có trang bị quick charge 3.0 không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.191559,
+         "id": "797265",
+         "field_search": "question",
+         "question": " E mua laptop dell này muốn trả sản phẩm mà cái hộp sản phẩm bị rách thì có được đổi trả được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.111868,
+         "id": "1138982",
+         "field_search": "question",
+         "question": " cho e hỏi về sản phẩm của vs mart với máy joy1 giảm 300k là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.10559,
+         "id": "1163846",
+         "field_search": "question",
+         "question": "Điện thoại Xiaomi Redmi Note 7 32GB sản phẩm này siêu thị có kinh doanh ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

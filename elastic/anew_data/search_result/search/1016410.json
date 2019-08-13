@@ -1,0 +1,801 @@
+{
+   "id_query": "1016410",
+   "total": 32632,
+   "total_current": 100,
+   "max_score": 109.767265,
+   "origin_question": "Sam sung j7 của em gửi tin nhắn có dấu. Tin nhắn ở máy nhận bị lỗi cứ kí tự nào có dấu thì chuyển thành dấu hỏi. Ad chỉ cách khắc phụ",
+   "hits": [
+      {
+         "score": 46.236965,
+         "id": "779117",
+         "field_search": "question",
+         "question": " Làm ơn cho hỏi, em muốn nhắn tin có dấu thì làm thế nào, em xài iPhone 5S, muốn bỏ dấu nhưng không được?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.104137,
+         "id": "999030",
+         "field_search": "question",
+         "question": "điện thoại sam sung galaxy win i8552 của em root lỗi, giờ bật nguồn máy thì hiện dấu chấm than và chữ samsung. có cách nào để khắc phục không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.25129,
+         "id": "1137415",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua điện thoại Huawei 3i sao lúc đầu mình nt thì không bị lỗi mất chữ khi bỏ dấu, sau này không biết từ khi nào cứ hễ bỏ dấu khi nt nhấn gửi xong là bên kia người nhận bị mất hết những chữ cái mình bỏ dấu.khi soạn tin nhắn thì không bị mất nhé. ví dụ: yêu anh nhé ===> gửi xong bên kia sẽ nhận được là y u anh nh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.09986,
+         "id": "1006064",
+         "field_search": "question",
+         "question": "Điện thoại Mobistar B242i nhắn tin không gõ dấu được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.450985,
+         "id": "1163368",
+         "field_search": "question",
+         "question": "mn cho em hỏi là cái máy tính của em nó bị sao mà cứ có cái dấu tích bên trên biểu tượng vậy ngay cả trong explorer các tệp cũng có cái dấu này.  Nếu được xin chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.205647,
+         "id": "1133974",
+         "field_search": "question",
+         "question": "Giúp e khắc phục lỗi ko thể gửi tin nhắn đc .không thành công gì đó. Samsung j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.082966,
+         "id": "777166",
+         "field_search": "question",
+         "question": "Mình xài Sony Xperia z5, bị lỗi nhắn tin bị lặp lại khi nhận tin nhắn của người khác, khi lấy sim ra đổi máy khác không bị. Vậy không phải lỗi của sim, vậy có phải lỗi do máy, chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.96741,
+         "id": "1143053",
+         "field_search": "question",
+         "question": "Mình đang dùng máy sam sung j7 2016 .tuần nay mình không thể gửi tin nhắn tới tất cả các đầu số",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.822224,
+         "id": "1010428",
+         "field_search": "question",
+         "question": "Tin nhắn điện thoại của mình cứ hiện đang gửi. Khởi động lại máy vẫn bị. Tin nhắn gửi đến vẫn nhận như bình thường,  còn gửi đi nó cứ hiện đã gửi.  Cả 2 sim viettel và vietnam mobile đều bị.  Anh chị cho e hỏi là lỗi gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.73759,
+         "id": "790926",
+         "field_search": "question",
+         "question": " Máy của mình không nhận dấu vân tay thì có cách nào sửa được không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.352745,
+         "id": "821427",
+         "field_search": "question",
+         "question": "AD cho e hỏi ạ!.Trên máy tính khi e gõ dấu nháy đơn thì ra dấu nháy đôi, còn gõ dấu nháy đôi thì ra 4 dấu nháy đơn liên tiếp.. vậy có phải lap bị lỗi bàn phím ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.021812,
+         "id": "1021904",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ASUS zenfone 3 max 5.5 (Android 6.0.1). Khi đang nhấn tin sms bỏ dấu tiếng Việt bị lỗi: VD: soạn tin nhấn \"Bóng đá\"; sau khi nhấn tin thì trong máy và người nhận hiển thị \"Bo ng da\".Cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.87482,
+         "id": "830993",
+         "field_search": "question",
+         "question": " Tại sao Oppo neo 7 của e gửi tin nhắn k đc..cứ báo bị lỗi là s ad.giúp e cách khắc phục  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.83422,
+         "id": "1000054",
+         "field_search": "question",
+         "question": "Máy j7 prime của e bị vầy khắc phục bằng cách nào ak e vào zalo và messenger nhưng ko gửi đc tin nhắn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.45668,
+         "id": "778705",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 6 mới nâng cấp lên iOS 9.2.1 nhưng không gửi SMS nhiều kí tự được (4-5 dòng tin nhắn trở lên), chỉ gửi được tin nhắn ngắn 1-2 dòng kí tự. Phiền thegioididong giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.30265,
+         "id": "820027",
+         "field_search": "question",
+         "question": "Mấy hôm nay, viber trên MacBook của tôi không thể sync tin nhắn từ người khác gửi đến cho tôi. Nó chỉ sync những tin nhắn từ điện thoại của tôi gửi đi. Nó ko thể nhận và gửi được tin nhắn trên macbook. Vui lòng hướng dẫn cách khắc phục. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.04258,
+         "id": "987599",
+         "field_search": "question",
+         "question": "ad cho e hỏi: e xài ip4s, mới đầu gửi tin nhắn cho ai cũng gửi đc, họ cũng nhận đc, về sau có duy nhất 1 số ko gửi đc tin nhắn, mặc dù tin nhắn của e gửi vẫn bị mất tiền, nhưng họ cx ko nhận đc, họ cx gửi lại tin nhắn cho e, nhưg e cx chả thấy j?? ad có thể giúp đỡ cho e đc ko ạh?2 đứa xài viettel...ko hiểu s ko gửi đc tin nhắn cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.864517,
+         "id": "993205",
+         "field_search": "question",
+         "question": "Cho em hỏi khi mua máy mới về thì nhận được tin nhắn kích hoạt imei bảo hành thành công, vậy tin nhắn đó có tính phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.67034,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59902,
+         "id": "1154730",
+         "field_search": "question",
+         "question": "Máy em bị lỗi gửi tin nhắn cho 191 không được ạ, gửi cho số di động người thân thì thành công, mong phản hồi khắc phục sớm của bên mình ạ, máy em là samsung galaxy A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.460297,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.43474,
+         "id": "881238",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với, fb của em vô thì rất bình thường nhưng chỉ có vô mess thì k đc, tin nhắn k nhận đc với k thấy và k gửi đc tin nhắn kể cả trên máy tính hay điện thoại, còn em vô 1 cái nick fb phụ của em thì vẫn bình thường ạ v là sao mong ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.353306,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.339714,
+         "id": "1000372",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn SMS thì xuất hiện lỗi: Hiện tại không gửi được tin nhắn. Sẽ gửi khi có dịch vụ. Em vẫn có thể gọi được nhưng không nhắn tin được. Em xài Samsung A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.270824,
+         "id": "951756",
+         "field_search": "question",
+         "question": " Cách chuyển tin nhắn thường sang tin nhắn văn bản của iphone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.155968,
+         "id": "1023390",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi tin nhắn gửi tổng đài không được trên sony XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.1329,
+         "id": "761117",
+         "field_search": "question",
+         "question": " AC cho em hỏi, iPhone 4s không gửi được tin nhắn nhưng vẫn có thể nhận được. AC hướng dẫn em cách khắc phục nhé. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.123783,
+         "id": "821016",
+         "field_search": "question",
+         "question": "Tôi chọn khóa mật khẩu iphone 5 bằng ký tự có dấu nhưng khi nhập để mở máy thì không thể viết dấu kí tự tiếng việt.vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.11563,
+         "id": "1002002",
+         "field_search": "question",
+         "question": "Cho hỏi...nếu bị chặn tin nhắn trên oppo thì có gửi đc tn k? Tại mình gọi thì bị chặn, nhắn tin thì báo gửi đã nhận nhưng k hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.079227,
+         "id": "799757",
+         "field_search": "question",
+         "question": " Có phải khi bị chặn tin nhắn zalo thì có ghi dòng chữ  xin lỗi !hiện tại tôi không muốn nhận tin nhắn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.056797,
+         "id": "1003001",
+         "field_search": "question",
+         "question": "Điện thoại sam sung galaxy a5 2017 e mới mua được 1 tháng xuất hiện 2 dấu chấm màn hình. Dí tay vô dấu chấm nó bị nhòe chỗ đó là bị sao ạ. Có phải lỗi nhà sản xuất không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.97461,
+         "id": "832720",
+         "field_search": "question",
+         "question": " Cho mình hỏi? Tại sao hình gửi qua tin nhắn zalo lại tự lưu vào máy vậy? Và cách khắc phục như thế nào? Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.79011,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.64055,
+         "id": "751501",
+         "field_search": "question",
+         "question": " Bàn phím của neo 7 không có dấu   có cách nào để khắc phục không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.22664,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.197384,
+         "id": "914727",
+         "field_search": "question",
+         "question": "Tại sao viber của tôi ko gửi dc tin nhan cho người khác nữagữi tin nhắn xong chỉ báo là đã chuyển,nhưng người bên kia ko nhận đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.03097,
+         "id": "1146495",
+         "field_search": "question",
+         "question": "Khắc phục lỗi không gửi được tin nhắn trên hawaii j7pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.98503,
+         "id": "1154016",
+         "field_search": "question",
+         "question": "Tôi đang dùng điện thoại galaxy S8+ mua ở TGDĐ mới dùng được mấy thang hiện nay máy đang gặp lỗi nhận tin nhắn. cứ mỗi ngày lại phải khởi động lại máy mới nhận được tin nhắn là bị làm sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.947529,
+         "id": "746486",
+         "field_search": "question",
+         "question": " Cách nạp tiền và gửi tin nhắn để đăng kí 3g trên ipad 4 phải làm thế nào ạ.ths ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.60902,
+         "id": "997898",
+         "field_search": "question",
+         "question": "Bàn phím điện thoại oppo a39 nhắn tin,nhập kí tự thường xuyên bị lỗi... Làm thế nào để khác phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.567146,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.444584,
+         "id": "1023090",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi cách viết tiếng việt có dấu trên samsung j7 pr0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.308258,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.305622,
+         "id": "998166",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại samsung j7 của em báo có tin nhắn chưa đọc nhưng khi mở lại ko có tin nhắn nào chưa đọc cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.266832,
+         "id": "747805",
+         "field_search": "question",
+         "question": "Em mới mua cái dell vostro 3558,cho em hỏi có cách nào chỉ bấm hiện ra 1 dấu ngoặc đơn không tại vì em bấm shift+' ra 2 dấu \"\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.182928,
+         "id": "1020404",
+         "field_search": "question",
+         "question": "Mình dùng Asus Zenphone 5, hôm qua còn bình thường hôm nay gửi tin nhắn toàn bị lỗi này tự thoát ra trang chủ ko gửi đc tin nhắn. Mình đã thử xóa bớt tin nhắn đều ko đc. Many thks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.085337,
+         "id": "815939",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy bữa nay điện thoại iphone 4s của em gửi tin nhắn cho mấy bạn được rồi nhưng bạn đó vẫn không nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.056698,
+         "id": "1007266",
+         "field_search": "question",
+         "question": "Em đang sử dụng Galaxy A5 2017, máy của em bị lỗi gửi tin nhắn (sim1 gửi được nhưng sim2 gửi không được). Em có tham khảo bài viết hướng dẫn cách khắc phục lỗi nhưng không thành công, nên em đã khôi phục cài đặt gốc. Nhưng sau khi khôi phục cài đặt gốc thì nó vẫn còn bị lỗi như vậy. Ai giúp em với ạ. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.0359,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.021378,
+         "id": "1004902",
+         "field_search": "question",
+         "question": "Làm cách nào để viết có dấu trên chiếc samsung galaxy J7 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.94623,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.93598,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.914986,
+         "id": "1157942",
+         "field_search": "question",
+         "question": "Đt xem cứ xem Youtube là bị lỗi, (màng hình chuyển thành màu xanh và có tiếng hú) chỉ lỗi mỗi Youtube thôi, có cách nào khắc phục k ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.911375,
+         "id": "1144420",
+         "field_search": "question",
+         "question": "Ad ơi sao app tin nhắn của em nó ko hoạt động gửi hay nhận tin đều ko được  Nokia 6.1 plus ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.902025,
+         "id": "770273",
+         "field_search": "question",
+         "question": "iPhone 6 của mình bị lỗi ấn vào safari và tin nhắn là bị xoay ngang màn hình. Và khi soạn thảo tin nhắn cứ bị hiện lên chữ \"hoàn tác\" rất phiền phức. Sửa lỗi như thế nào chỉ mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.8661,
+         "id": "924487",
+         "field_search": "question",
+         "question": "có một số tin nhắn bạn tôi đã gửi trước đó 5 tiếng nhưng tôi mở viber không thấy tin nhắn nhưng tôi khởi động lại máy thì mới thấy tin nhắn đã gửi cách đó 5 giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.78675,
+         "id": "868281",
+         "field_search": "question",
+         "question": "cho mình hỏi sao ip của mình bay h khi có tin nhắn máy chỉ báo ở màng hình khóa . còn vào mục tin nhắn thì ko thấy hiện thị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.7802,
+         "id": "996784",
+         "field_search": "question",
+         "question": "Mình nhắn tin nhắn MMS thì những đt bấm đời cũ hơn cos nhận được tin nhắn mà mình gửi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.77694,
+         "id": "1011971",
+         "field_search": "question",
+         "question": " Chỉ em cách làm mất dấu 3 chấm như hình ở máy oppo neo 7 với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.739405,
+         "id": "997246",
+         "field_search": "question",
+         "question": "Tại sao nhắn tin mặc định của máy galaxy J2 prime không gửi tin nhắn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.727463,
+         "id": "1152839",
+         "field_search": "question",
+         "question": "Cho em hỏi tin nhắn messenger. Khi nhắn tin gửi đi thì tin nhắn cuối cùng nó hiện thời gian phía sau phải không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.653023,
+         "id": "1016237",
+         "field_search": "question",
+         "question": "Câu hỏi lần trước mình hỏi là tại sao chuông thông báo tin nhắn cứ tự động tăng âm lượng, và giờ mình phát hiện ra là chỉ khi nhận được tin nhắn rác thì chuông lại to hết cỡ. Hơn nữa tính năng chặn tin nhắn rác hoạt động rất phiền hà. Vẫn nhận tin nhắn bình thường với chữ Spam và tự động lưu luôn số đó vào danh bạ. Đã không chặn được lại còn thông báo to hơn, rõ ràng hơn nữa chứ. Nhiều lúc ức chế với cái J5 Prime này cực kỳ luôn. Mình muốn hỏi xem có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.595238,
+         "id": "1133665",
+         "field_search": "question",
+         "question": "E mới mua huwei Y9 nhưng bị lỗi phần tin nhắn văn bản. Gửi đi toàn bị lỗi phông, sửa bằng cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.591732,
+         "id": "1166174",
+         "field_search": "question",
+         "question": "Choi game dien thoai .có dấu hiệu ghi Lỗi phân tích dữ liệu của máy chủ.Vậy vui lòng hướng dẫn cách làm khắc phục sữa lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.577343,
+         "id": "799012",
+         "field_search": "question",
+         "question": "E dùng iphone 5s,nhưng khi đăng kí smsbank trên cây rồi mà gửi tin nhắn đến tiổng đài 8170 của vietcombank mà vẫn không nhận được tin phản hồi,gọi tổng đài thì họ nói gửi rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.562717,
+         "id": "883605",
+         "field_search": "question",
+         "question": " Tin nhắn zalo đã nhận về máy, nhưng chưa xem mà đã báo là đã xem ở máy gửi. Có phải do lỗi zalo ko nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.54739,
+         "id": "1138805",
+         "field_search": "question",
+         "question": "Tại sao khi e gửi tin nhắn thì người nhận có thể nhận nhận được nhưng khi họ gửi ngược lại thì e ko nhận được.... Cả 2 bên thuê bao gửi-nhận đều ko có thông báo bị lỗi khi gửi gì cả???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.538992,
+         "id": "1001437",
+         "field_search": "question",
+         "question": "Em không gửi được tin nhắn trên điện thoại zte blade v7 lite, bình thường vẫn gửi được, mong mọi người chỉ em cách gửi tin nhắn lại như bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.532686,
+         "id": "908452",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em show available networks thì chỉ có 1 mạng wifi có dấu nhân. em vẫn nhập pass và được báo can't connect to this network. cách khắc phục lỗi này như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.51568,
+         "id": "1157020",
+         "field_search": "question",
+         "question": "Ad cho hỏi với. Mình dùng samsung j7pro. Mấy hôm nay bị mất âm thanh tin nhắn đến. Cũng không hiển thị biểu tượng có tin nhắn đến ở thanh công cụ. Chỉ rung rồi sáng lên 1 cái, rồi phải vào mục tin nhắn mới biết là có tin nhắn đến. Chỉ giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.382572,
+         "id": "774832",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. iPhone 5s của em. Sao tin nhắn cứ đến chậm. Ví dụ như tin nhắn e vừa gửi ngta trả lời liền nhưng khoảng 30 ' saou e mới nhận dc tn nhắn. Và ghi trên màn hình là 30' truoc. Lý do là sao. E cảm thấy hơi bất tiện. Ai biết cách khắc phục giúp e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.07286,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.017223,
+         "id": "861030",
+         "field_search": "question",
+         "question": "Cho mình hoi máy của mình dang nhắn tin SMS cho bạn mình thì máy chuyển sang nhắn tin FaceTime nhưng tin nhắn không tới bạn mình mà lại tới số lạ khác và mình kiểm tra chi tiết tin nhăn gửi cho bạn trên may mình vân có còn bạn mình thì FaceTime khổng kích hoạt ma tin nhắn vẫn đến số lạ là bị làm sao vậy mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.958357,
+         "id": "1134039",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để tắt thông báo liên tục của cái tin nhắn của máy và messenger khi tin nhắn tới  lần mà mình k đọc cũng 1 tin nhắn đó mà cứ báo đi báo lại nhiều lần khi mua về k có bị sao nhưng khi cập nhật phần mềm thì nó lại bị như vậy nó rất khó chịu xin ad chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.956154,
+         "id": "986791",
+         "field_search": "question",
+         "question": " Nếu máy em báo bộ nhớ tin nhắn đầy mà có người gửi tin nhắn đến thì chuyện gì sẽ xảy ra ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.927168,
+         "id": "835212",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi:mình bị quên mật khẩu ID cũng làm trình tự các bước như bạn chỉ, nhưng Appe không có gửi tin nhắn về địa chỉ email của mình, mình làm đi làm lại nhiều lần bên email vẫn k thấy gửi tin nhắn về :( Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.917759,
+         "id": "1010263",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có mua card điện thoại online ở thegioididong, khi nhận được tin nhắn mà chưa kịp nạp mà nỡ xóa mất tin nhắn. Có cách nào tra lại mã card đã mua được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.916838,
+         "id": "804991",
+         "field_search": "question",
+         "question": " Em chặn 1 sđt trên viber. Em có gửi 1 tin nhắn trước khi chặn thì ng đó có đọc được tin nhắn đấy không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.897465,
+         "id": "1016505",
+         "field_search": "question",
+         "question": " Sao mà điện thoại của em là PHILIPS sao ko nhắn tin đc a chỉ nhận tin trong messenger thời có dịch vụ thì cũng ko có  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.883183,
+         "id": "1010804",
+         "field_search": "question",
+         "question": "Em dùng htc desire 630, gần đây khi nhắn tin trên messenger thường xuyên bị rớt mạng, gửi rất chậm tin nhắn. Dù thanh wifi nhà em vẫn đầy vạch. Cho em xin cách khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.831175,
+         "id": "988974",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi Máy mình là máy Iphone 5S có lần mình xem phim thì mình thấy camera của điện thoại hiện lên dấu chấm đỏ ở bên trong camera cho mình hỏi có phải máy mình bị ai theo dõi đúng không hay vì sao mà có dấu chấm đỏ (Lúc trước mình xem thì chẳng bao giờ thấy hiện cái dấu chấm đỏ đó)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.784342,
+         "id": "1152888",
+         "field_search": "question",
+         "question": "Add ơi ! Tôi sử dụng điện thoại vivas lotus s3 lte bị gặp vấn đề nhắn tin không hiễn thị tiếng việt có dấu và không đính kèm được file ảnh trong thư viện lên facebook được? Nhờ Add chỉ hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.766409,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.762636,
+         "id": "892551",
+         "field_search": "question",
+         "question": "Hi chi mình hỏi thông tin viberSo dt: 0939455252 mình tại sao nhận duoc tin nhắn từ bạn bè, nhưng khi mình gửi lại tin nhắn được mà bên kia không nhìn thấy tin nhăn mình gửi, bạn có thể giúp mình không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.721048,
+         "id": "779766",
+         "field_search": "question",
+         "question": "Messenger không thể gửi tin nhắn thoại (Voice message) là tại vì sao ạ ? tin nhắn load rất lâu nhưng tin nhắn thoại chỉ có 5s thôi và cuối cùng Messenger báo lỗi ko gửi đc. Mình đã thử nhiều cách như update, tắt nguồn máy, xóa Mess và cài lại những vẫn không dùng được !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.68655,
+         "id": "848001",
+         "field_search": "question",
+         "question": "Có người gửi tin nhắn zalo cho mình nhưng mình chưa kịp đọc thì người đó đã thu hồi vậy có cách nào đọc được tin nhắn đã thu hồi không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.686,
+         "id": "1157000",
+         "field_search": "question",
+         "question": "hướng dẫn hiện thị thông báo có tin nhắn đến trên màn hình khóa sam sung A50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.684788,
+         "id": "1013611",
+         "field_search": "question",
+         "question": " Ad giúp mình cách khắc phục bị chặn tin nhắn khi gửi đến các đầu số ngắn 8xxx hoặc 333... nhé  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.663368,
+         "id": "1145210",
+         "field_search": "question",
+         "question": "cho mình hỏi. Cách khắc phục lỗi kết nối wifi cho laptop dùng win10.máy cứ dùng được 3-5p là hiện dấu chấm than hoặc tự ngắt kết nối, phải kích lại mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.613846,
+         "id": "1154610",
+         "field_search": "question",
+         "question": "E đag dùng máy mobistar x. E k nhận đc thông báo có tin nhắn . Khi mở ứng dụng mới thấy tin nhắn. Chỉ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.607645,
+         "id": "836034",
+         "field_search": "question",
+         "question": "Mình on facebook bằng chrome nhưng mấy bữa nay tin nhắn của mình bị nói đã chuyển qua messenger. Cho mình hỏi có cãhs nào nhắn tin lại bình thường tren chrome ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.603128,
+         "id": "1144455",
+         "field_search": "question",
+         "question": "Kí hiệu âm thanh của lap win 10 có dấu gạch đỏ phải xử lý như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.578182,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.572792,
+         "id": "1162039",
+         "field_search": "question",
+         "question": "Chào anh chị ạ, điện thoại em là samsung j7 prime. Cách đây k lâu e có gửi tin nhắn. Nó báo là có thể sẽ mất phí rồi em lỡ nhấn từ chối. Và kể từ đó mỗi lần gửi tin nhắn nào mà mất phí thì nó tự động k gửi giúp em. Mà em k biết sửa sao. Anh chị giúp em với ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.505371,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.495968,
+         "id": "1142685",
+         "field_search": "question",
+         "question": "Dạ em sử dụng J7 2016 mà mỗi lần e gửi tin nhắn cho tổng đài mà nó cứ báo lỗi như này, em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.487106,
+         "id": "779791",
+         "field_search": "question",
+         "question": " iPhone 4 sao gửi tin nhắn mà người nhận không nhận được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.459707,
+         "id": "1163375",
+         "field_search": "question",
+         "question": "Máy samsung J3 pro của em bị lỗi, bấm vào tin nhắn, thì hiện bảng, \" tin nhắn đã dừng \" mong có phản hồi để sửa lỗi ạ, cảm ơn mấy anh/chị đã xem giùm em,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.392332,
+         "id": "1135264",
+         "field_search": "question",
+         "question": "E đang sử dụng samsung J7 Pro. Lúc trước khi có thông báo facebook hay tin nhắn zalo đều hiện số ở trước ứng dụng. Mà sao bây giờ k có tin nhắn nó k còn hiện bao nhiu tin nhắn nửa. Chỉ e cách cài đặt lại với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

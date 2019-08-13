@@ -1,0 +1,801 @@
+{
+   "id_query": "796254",
+   "total": 29306,
+   "total_current": 100,
+   "max_score": 136.85503,
+   "origin_question": "Mình đang sử dụng con Dell Inspiron N5558 win8.1 trong lúc đang chơi FO3 hay LOL thì máy hiển thị Display driver stopped responding and has recovered vậy bây giờ mình fix lại như thế nào?",
+   "hits": [
+      {
+         "score": 53.148685,
+         "id": "907817",
+         "field_search": "question",
+         "question": "em có mua laptop win 10 Acer aspire e5 575g chơi game vs xem phim lúc sao bật game lại nó báo lỗi display driver stopped responding and has recovered là sao ạ em xin luon cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.383884,
+         "id": "761666",
+         "field_search": "question",
+         "question": "Máy mình bị lỗi display driver stopped responding and has recovered thường xảy ra mỗi khi chơi game mặc dù cấu hình máy mình vượt xa cấu hình tối thiểu để chơi game đó, ai biết cách khắc phục lỗi này thì làm ơn hướng dẫn mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.960888,
+         "id": "756717",
+         "field_search": "question",
+         "question": "Máy nhà em  Laptop Dell Inspiron 3551 Pentium N3540/2GB/500GB/Win8.1 thì nên dùng card đồ hoạ rời nào để chơi game lol ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.072088,
+         "id": "862107",
+         "field_search": "question",
+         "question": " mình đang sài con Dell Inspiron 15 5559M5I5414W có nên vừa cấm sạc vừa sử dụng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.865673,
+         "id": "900853",
+         "field_search": "question",
+         "question": "  Lúc sạc pin thì màn hình hiển thị như thế này. Rồi mình turn off đi. Giờ mình muốn turn on lại thì làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.572351,
+         "id": "801985",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dùng máy dell e5440 i5 ram 4g. có chơi lol được không ? nếu ko cách nào khắc phục để chơi lol được không !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.261686,
+         "id": "815446",
+         "field_search": "question",
+         "question": "Chào ad. máy J7 của m bị mất hiển thị giờ với thời tiết ở màn hình chính. muốn mở lại thì làm thế nào để hiển thị đc. với lại nhiều lúc m đang nghe nhạc bằng tai nghe thì tự nhiên nhạc dừng, hoặc đang xem hình ảnh trong thư viện thì tự nhiên bị tắt là sao vậy ad. có cavhs nào giải quyết không. giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.169071,
+         "id": "1144260",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi : mình đang sử dụng con redmi note6 pro .. giờ mình muốn truyền dữ liệu hình ảnh lên ti vi .. thì phải làm như thế nào ah .. nhà mình đang sử dụng tivi box",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.104948,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.702547,
+         "id": "1019816",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, khi copy từ máy tính sang đt samsung s4, cứ đến 99% là nó hiện the device has either stopped responding or has been disconnected là bị làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.563007,
+         "id": "909297",
+         "field_search": "question",
+         "question": "Chào Admin!Mình đang dùng máy tính xách tay DELL Inspiron 7548 cài sẵn Windows 10 bản quyền. Sau một thời gian sử dụng nay mình muốn khôi phục lại hệ điều hành giống như khi bung Win lúc mới mua thì làm như thế nào? (Không phải vào Control Panel rồi vào Recovery) Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.261333,
+         "id": "928889",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại tddđ có laptop dell inspiron i5-7200u không ạ? Và nếu mình mua dell thì máy có cài sẵn chương trình cho mình không ạ? Mình mua về thì sử dụng liền hay có cần cài driver hay wireless không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.090319,
+         "id": "763805",
+         "field_search": "question",
+         "question": " Cho em hỏi ở siêu thị mình có máy Dell N5558 i5 không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.830488,
+         "id": "897183",
+         "field_search": "question",
+         "question": "chào ad, em muốn tìm mua máy laptop có thể chơi nhanh các game onl như LOL và FO3 thì có thể tìm những máy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.192879,
+         "id": "1140332",
+         "field_search": "question",
+         "question": "Máy báo lổi: htkk has stopped working a problem caused the program to stop working corectly. windows will close the program and notify you if a solution is avilable, vậy cho e hỏi khắc phục thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.102556,
+         "id": "1003565",
+         "field_search": "question",
+         "question": "Mình đang sử dụng con HTC U PLAY mới ra mắt gần đây. Hiện tại thì khi mình nghe nhạc trên MP3 thì khi khóa màn hình MP3 không hiển thị trên màn hình khóa. Có ai đang sử dụng, hoặc biết cách thì chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.988932,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.557178,
+         "id": "1009587",
+         "field_search": "question",
+         "question": "Tầm 20m mua lap nào chơi đc trò fo3 ah? Mấy trò như lmht hay dota em ko chơi nên có thể bỏ qua. Em đang ngắm con asus zenbook ux430 cơ mà lại card onboard @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.493095,
+         "id": "747056",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi, app store đang sử dụng bình thường nhưng sau đó vào lại thì hiển thị  kết nối được. Mình sử dụng wifi bình thường, ngày giờ không sai lệch gì hết. Trường hợp này phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.18229,
+         "id": "879645",
+         "field_search": "question",
+         "question": "Cho mình nhờ với... máy mình bị treo táo.. bây giờ mình restore lại nhưng mà đang thực hiện lỗi (9) tức là thiếu dung lượng pin.. vậy làm thế nào để sạc đầy pin được trong tình trạng máy đang bị treo táo như thế này ạ.. :( đang hoang mang lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.11271,
+         "id": "1000719",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung J7 prime. giờ máy mình tự nhiên nhật ký điện thoại không hiển thị các cuộc gọi nhỡ hay gọi đến và đi trong ngày nữa. Và số mình liên lạc nhiều nhất lưu trong danh bạ không hiển thị, trừ khi gõ hẳn tên trong mục tìm kiếm mới hiển thị. Giờ khắc phục tn m.n hướng dẫn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.056704,
+         "id": "999211",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone khi sử dụng camera trước không có chế độ lưu ảnh như trong phần hiển thị đang chụp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.914814,
+         "id": "819088",
+         "field_search": "question",
+         "question": "mình đang sử dụng PC. Lúc đang sử dụng thì máy bị sọc màn hình khoảng 5 phút thì trở lại bình thường. Vậy không biết máy mình bị gì và có cần đem ra TGDĐ kiểm tra không vậy QTV ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.773956,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.631395,
+         "id": "1005652",
+         "field_search": "question",
+         "question": "Máy tính Dell Inspiron 5767 sử dụng card màn hình rời hay sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.623634,
+         "id": "807514",
+         "field_search": "question",
+         "question": "Hiện tại mình đang cần mua một laptop giá tầm 4 triệu, mình xem tại TGDD thì có sản phẩm Lenovo ideapad 100s có cấu hình tốt nhất trong tầm giá này. Nhưng hiện tại mình đang phân vân vài vấn đề.- Với cấu hình như thế thì mình có thể chơi được một số game như LOL hay không ?(trên mạng có review cấu hình này chơi ở low setting được)- Máy có được bán trả góp hay không ?- Chế độ bảo hành thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.611977,
+         "id": "825610",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 5 Lock đã fix lỗi. Nếu khôi phục cài đặt gốc thì có bị lỗi lại như lúc chưa Fix không !!! AD giúp vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.593946,
+         "id": "773928",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính của mình hiệu Dell Inpiron 3420. Dạo này sử dụng đuợc một lúc là bị treo, phải tắt nguồn, khởi động lại mới sử dụng đuợc. Tình trạng như thế máy của mình bị lỗi phần mềm hay phần cứng vậy. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.436695,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.23599,
+         "id": "1000423",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đang sài con Oppo F3 plus mua qua sử dụng lúc mua là 8tr4 giờ mình muốn đổi lấy máy mới phải bù thêm bn tiền vậy ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.181551,
+         "id": "777448",
+         "field_search": "question",
+         "question": "chào hệ thống, mình đang xài laptop Dell Inspiron 15 (7537) và hình như pin có vấn đề, sạt không vô và nó hiện lên dòng (your battery has experienced a permanent failure and needs to be replaced. The system will power down when the AC adapter is unplugged.) Mong hệ thống phản hồi sớm nhất. xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.131714,
+         "id": "788917",
+         "field_search": "question",
+         "question": "cho e hỏi laptop dell inspiron n5110 khi download app thì bị lỗi như thế này ạ:'IDM has been registered with a fake Serial Number or the Serial Number has been blocked.IDM is exiting...' rồi hiện ra bảng ' please enter your registration details in the corresponding fields and push OK button'",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.991953,
+         "id": "992757",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ipad . Khi người khác gọi massage cho mình thì 2 cái nút xanh ( đồng ý ) và nút đỏ  ( từ chối ) nó không hiển thị vậy . Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.990932,
+         "id": "937281",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 5 và ipad cùng chung 1 accounds , mỗi lần mình nhắn tin hay gọi điện thoại trên iphone nó đều hiển thị trên ipad . Mình muốn chặn tin nhắn hay cuộc gọi hiển thị trên ipad thì làm thế nào ad giúp mình với . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.691206,
+         "id": "1009394",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí , mình đang sử dụng con S7 edge , mình đang để chế độ màn hình luôn sáng nhưng khi sạc thì màn hình cứ tự mở màn hình liên tục , cách khắc phục như thế nào vậy AD , thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.619972,
+         "id": "818348",
+         "field_search": "question",
+         "question": "mình đang xài điện thoại Lg F160s đang chạy android 4.1 bây giờ mình muốn nâng cấp lên android 5.1 có được không nhỉ nếu được thì làm như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.591946,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.529797,
+         "id": "781842",
+         "field_search": "question",
+         "question": "Cho hỏi mình vừa mua laptop Laptop Dell Inspiron 3543 i3 được 2 ngày , mà sao bật camera lên nó lại hiển thị như thế này , mình có thể đem ra các cua hang thegioididong gần nơi mình ở xem dùm mình được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.497154,
+         "id": "890925",
+         "field_search": "question",
+         "question": " Ad ơi. Bây giờ m đag dùng máy dell i5 win 10 mà bây giờ nó bị như vậy thì làm thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.244587,
+         "id": "1158688",
+         "field_search": "question",
+         "question": "em đang cần mua pin laptop dell inspiron 15 3000 series, bên mình có không ạ, nếu có thì giá cả thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.171392,
+         "id": "999532",
+         "field_search": "question",
+         "question": "Mình mua s8+, hôm đầu tiên bắt đầu sử dụng vó cuộc gọi mình nghe thì thấy người ta nói. Nhưng mình nói thì đầu dây bên kia k nghe đc. Rồi trong 9 ngày sử dụng ngày nào cũng bị 2,3 lần. Mình mang đi đổi trả. Đến máy s8+ này cũng vẫn bị lỗi như vậy. Cho mình hỏi bây giờ mình muốn chuyển sang dòng máy khác thì tính như thế nào...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.152014,
+         "id": "998573",
+         "field_search": "question",
+         "question": "Đang bối rối giữa 2 con Asus zenfone 3 max 5.5 với Huawei GR5 2017.Nên chọn con nào về chơi game và chụp hình đẹp bây giờ???và sử dụng tốt về sau nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.133446,
+         "id": "1003950",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sử dụng oppo neo9. Trong lúc sử dụng mạng wifi bình thường nhưng vào youtube thì bị lỗi là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.00816,
+         "id": "846542",
+         "field_search": "question",
+         "question": " Mình đang sử dụng ip se và mình đang bị lỗi ứng dụng không biết phải khắc phục như thế nào, ad giúp mình được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.000317,
+         "id": "756903",
+         "field_search": "question",
+         "question": " iPad mình đang sử dụng chạy iOS 5.1 giờ mình muốn nâng cấp phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.919079,
+         "id": "998471",
+         "field_search": "question",
+         "question": "T dùng máy zen 3 5.5. Sau khi cập nhập lại máy thì máy chỉ hiển thi sim2 còn sim 1 thì không hiển thị. Vậy khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.894478,
+         "id": "877124",
+         "field_search": "question",
+         "question": " Qtv cho e hỏi laptops dell inspiron 14 3421 core i5 có chơi được game lol không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.864668,
+         "id": "1001383",
+         "field_search": "question",
+         "question": "add cho mình hỏi mình đang sử dụng asus zenfone 3 max 5.5 giờ mình muốn lên android 7. để sử dụng thì máy có hay bị lỗi gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.862473,
+         "id": "804724",
+         "field_search": "question",
+         "question": "Mình đang sử dụng Iphone 6 và mình muốn khi sử dụng 3G đạt dung lượng đến 1G sẽ tự động ngắt kết nối vậy phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.857864,
+         "id": "1160034",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang Sài con Oppo a3s sao nó cứ tự sáng màn hình hoài vậy lúc sáng lúc tắt cứ vậy hoài trong lúc sạc cũng bị như vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.821358,
+         "id": "800882",
+         "field_search": "question",
+         "question": "Trong quá trình sử dụng đôi khi mình bị out ứng dụng ra ngoài...như thế có hại máy k ạ...làm cách nào để khắc phục ạ mình đang dùng ip5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.792276,
+         "id": "1013045",
+         "field_search": "question",
+         "question": "Mìn đang dùng j7 prime mình quên mật khẩu mở khóa đt bạn mình bấm để reset máy thì màn hình hiển thị ra như vậy là bị sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.745602,
+         "id": "840418",
+         "field_search": "question",
+         "question": "Mình sử dụng máy Laptop Asus X553M Win8.1 with Bing. Có cài đặt Bitdefender và gói Office 365 mua tại TGDĐ. Hiện tại, mình muốn khôi phục lại máy vì máy có hiện tượng chậm. SỬ dụng chế độ khôi phục giữ lại các tệp cá nhân thì nó vẫn xóa đi các phần mềm khác như Bitdefender và Office 365. Vậy cho mình hỏi, mình muốn giữ lại hai ứng dụng này (nếu giữ lại được tất cả ứng dụng thì càng tốt) thì mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.712883,
+         "id": "771192",
+         "field_search": "question",
+         "question": "Mình mua máy dell inspiron 5458 mã Imei 6FPR062 card đồ họa MVIDIA Geforce 920M 2GB, mình chơi fifa online 3 rất mượt nhưng chơi được một lúc thì máy bị treo, cho hỏi giải quyết vấn đề này thế nào, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.711418,
+         "id": "1153142",
+         "field_search": "question",
+         "question": "E có mua một loptop dell inspiron  5570 cách đây 21 ngày . Mà hiện tại e sử dụng thì thấy máy hay bị đứng và có hiện tượng đang sử dụng thì máy bị tắt màn hình rồi nó mở lên lại. Xin cho biết cách giải quyết đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.641499,
+         "id": "1159819",
+         "field_search": "question",
+         "question": "Mình đang dùng máy nokia 7 plus chạy android one. Làm thế nào để hiển thị danh bạ đã lưu ở trên sim?!.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.609362,
+         "id": "852263",
+         "field_search": "question",
+         "question": "Chào QTV. Em đang dùng dell inspiron n4050 đã lâu nên pin đã chai khoảng 61%. Hiện em không có nhu cầu sử dụng bên ngoài.( mục đích sử dụng như máy tính bàn) thì em gắn sạc vào để sử dụng thì có sao không. Có cần tháo pin ra hay phải thay pin mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56326,
+         "id": "764557",
+         "field_search": "question",
+         "question": "Anh ơi, bây giờ em đang sử dụng Laptop dell inspiron 14 3000.Không biết nếu tháo pin ra và sử dụng nguồn điện trực tiếp có sao không. Ưu điểm và nhược điểm của việc này là gì. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56324,
+         "id": "1010410",
+         "field_search": "question",
+         "question": "Mình xin hỏi có bạn nào bị lỗi ở phần giờ trong Instagram chưa ạ? Hiện tại thì hiển thị trước 15h ạ, trong ảnh này tức là tầm 1h trước. Em không biết lỗi do điện thoại hay app, mong mọi người giúp em fix với. Em dùng Samsung.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.542091,
+         "id": "1000158",
+         "field_search": "question",
+         "question": "mình 4s lock, bỏ sim 4g vào thì máy báo không hỗ trợ và không hiển thị về màn hình chính, thế là lỗi ở máy hay như nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.533806,
+         "id": "804897",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo: Một vài ứng dụng đang hoạt động như: GDI+ windows mặc dù mình đã tắt hết tất cả rổi. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.457584,
+         "id": "1143057",
+         "field_search": "question",
+         "question": "Iphone của em đang sử dụng bình thường thì bị sập nguồn có lúc cắm sạc thì lên pin lúc thì không cắm sạc lên cho hỏi máy em bị như thế thì phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.445023,
+         "id": "1134200",
+         "field_search": "question",
+         "question": "Mình mua đt samsungA7(mua máy cũ ) đc 1 ngày, nhưng sóng của đt lúc yếu lúc mạnh ,giờ mình muốn đổi lại để bù tiền mua con f9 thì giá như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.422775,
+         "id": "1014037",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi. Giờ mình muốn xóa hay chuyển 1 file bất kì trong QUẢN LÝ FILE  của máy thì phải làm như thế nào ah. Mình đang dùng máy A5 2017, mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.403517,
+         "id": "804171",
+         "field_search": "question",
+         "question": "Cho em hỏi nên chọn con nào tốt nhất ạ?Laptop HP Pavilion 15 ab254TX i7 6500U/4GB/1TB/VGA 2GB/Win10 hay Laptop Dell Inspiron 5458 i7 5500U/4GB/500GB/2GB 920M/Win8.1 thì tốt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.356758,
+         "id": "756173",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iphone 3g mà sao chơi game ma thần hay bị văng ra là cách nào mới hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.327824,
+         "id": "768961",
+         "field_search": "question",
+         "question": "Điện thoại tôi màn hình đang hiển thị Samsung GALAXY Xin chào mừng mà tôi không thoát ra được vậy tôi phải làm thế nào để sử dụng được các chức năng khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.31673,
+         "id": "770053",
+         "field_search": "question",
+         "question": "MÌnh dùng Dell N5558 được 3 tháng mà sao mình sạc mãi không đấy. Máy báo 98%, cắm vào, đang sạc cứ như thế từ tối hôm qua rồi. Mong QTV chỉ cách khăc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.285717,
+         "id": "745695",
+         "field_search": "question",
+         "question": "Quản trị viên cho mình hỏi chút về phím fnmình đang dùng dell inspiron 15 3000serieshiện tại thỳ máy mình không cần bấm fn mà các chức năng từ f1-f12 vẫn sử dụng như fn+f1....f12làm sao để tắt chức năng tự động đó đi và phải dùng fn + thỳ mới có tác dụng chứ bây giờ mình cần dùng f1-f12 lại cứ bị dính các chức năng fn+....thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.256025,
+         "id": "1000766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, con Pantech Vega A890 của em đang xài bỗng dưng có lỗi nên em đã reset máy, khi đã reset xong thì nó vẫn bảo setting như bình thường nhưng nó lại chận 1 trang toàn tiếng Hàn và nút ok, khi bấm vào thì nó lại ghi \"Unfortunately, Vaccine Information has stopped\" và nó chận đứng lại không cho em xài gì cả vậy giờ làm sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.222034,
+         "id": "1021904",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ASUS zenfone 3 max 5.5 (Android 6.0.1). Khi đang nhấn tin sms bỏ dấu tiếng Việt bị lỗi: VD: soạn tin nhấn \"Bóng đá\"; sau khi nhấn tin thì trong máy và người nhận hiển thị \"Bo ng da\".Cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.207073,
+         "id": "757745",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4S 9.2. Mình cài ảnh người gọi đến được thời gian đầu thì hiển thị full màn hình còn bây giờ chỉ hiển thị một ảnh nhỏ ở góc phải màn hình. Cho mình hỏi làm thế nào để cho full màn hình đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.181051,
+         "id": "765196",
+         "field_search": "question",
+         "question": "Em mua  trả góp máy iphone 6 plus 64GB 21.590k, em sử dụng được 2 ngày bây giờ em không muốn sử dụng em bán lại thì em lỗ như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.148499,
+         "id": "1004615",
+         "field_search": "question",
+         "question": "  Mình muốn gỡ cài đặt fb nhưng khi ấn vào gỡ cài đặt n hiển thị như này. Bây giờ nhấn ok hay hủy ạ. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.14407,
+         "id": "741790",
+         "field_search": "question",
+         "question": "mình đang dùng win 7 với máy dell i3, office 2010. Bây giờ nâng cấp hệ điều hành lên win 10 thì máy chạy ổn không ? office và diệt virut còn sử dụng đc bình thường không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.135044,
+         "id": "766347",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 6s plus sử dụng 2 ngày đầu bình thường bữa nay phần trăm pin xài không tụt sạc không lên tắt nguồn mở lại thì hiển thị đúng nhưng 1 lúc lại đứng im",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.103773,
+         "id": "796937",
+         "field_search": "question",
+         "question": "Xin chào! Tôi muốn hỏi là laptop của tôi mắc một số lỗi và hiện thông báo \"....has stopped working\". Vậy là như thế nào và làm sao để sửa lỗi đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.098686,
+         "id": "1144447",
+         "field_search": "question",
+         "question": " cho mình hỏi con đt Xiaomi redmi 6a sử dụng loại pin nào???Sạc như thế nào thì đúng cách??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.073038,
+         "id": "768501",
+         "field_search": "question",
+         "question": "Em đang xài con Dell e6510,cho em hỏi con này bật đèn bàn phím được không và nếu được thì bật như thế nào vậy??? em cám ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.044855,
+         "id": "846016",
+         "field_search": "question",
+         "question": "IP 5s của mình là hàng unlock Nhật ko sử dụng sim ghép, nhưng khi số điện thoại nước ngoài nhắn tin qua Whatsapp hay gọi điện đến đều ko hiển thị tên như mình đã lưu trong danh bạ. SĐT trong nước thì ko sao.Như vậy là bị lỗi gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.012947,
+         "id": "890709",
+         "field_search": "question",
+         "question": " Sao Dell inspiron 3559 chơi lol vẫn bị giật vậy.cho tôi xin ý kiến khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.989113,
+         "id": "1166093",
+         "field_search": "question",
+         "question": "Mình sử dụng LAPTOP DELL Inspiron 15-3567 được 3 năm muốn nâng cấp máy, từ lúc mua đến giờ chưa sửa chữa, thay mới gì hết. Cho mình hỏi là nếu mình muốn nâng cấp cho máy chạy nhanh hơn thì có thể làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.90471,
+         "id": "1134845",
+         "field_search": "question",
+         "question": "bây giờ mình muốn mua trả góp samsung galaxy j4 thì thủ tục như thế nào vậy ạ? mình có thể sử dụng bản photo có công chứng để mua trả góp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.869328,
+         "id": "1142519",
+         "field_search": "question",
+         "question": "Chào TGDD. Mình đang xử dụng Sony Xperia XZ1 nhưng dạo này có trường hợp (sau khi update lên Android 9) thì kết nối wifi đôi lúc không tìm thấy wifi mình đang sử dụng mà phải reset lại điện thoại mới vào được wifi. Và app FB trên đt của mình nó ko hiển thị được hình ảnh và video HD dù đã thử gỡ và cài lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.859287,
+         "id": "997466",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại epic x9 plus mình muốn chuyển từ máy sang thẻ nhớ thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.808096,
+         "id": "1147087",
+         "field_search": "question",
+         "question": "Laptop mình bị chậm và đôi lúc bị đơ. Giờ mình muốn ra cài lại win thì có bị mất win10 mình đang sử dụng không? (Win10 này được cài khi mình mua máy ở TGDĐ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.731583,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.709805,
+         "id": "998588",
+         "field_search": "question",
+         "question": "Xin hỏi Hiện em đang sử dụng máy Dell inspiron 15 với ram 4Gb, nay em muốn nâng lên thành ram 8Gb thì chi phí hết bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.656103,
+         "id": "1146210",
+         "field_search": "question",
+         "question": "Đang chơi game mà máy hiện  you progress has been updated from the cloud là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.598728,
+         "id": "834610",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Trước đây mình đăng xuất tài khoản facebook xong thường hiển thị hình đại diện của mình. Nếu muốn đăng nhập lại chỉ cần nhấn vào hình đó mà ko cần đánh mật khẩu thì bây giờ mình không làm được vậy là sao? Mình đang dùng iPhone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.588392,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.540918,
+         "id": "754536",
+         "field_search": "question",
+         "question": "IPHONE 5 mình đang dùng có lỗi thế này, khi mình vào appstore thì chỉ có hiển thị mục cập nhật , còn các mục khác như tìm kiếm, hay nổi bật thì màn hình trắng hoàn toàn. Xin cho mình hỏi cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.528301,
+         "id": "996667",
+         "field_search": "question",
+         "question": "Mình đang dùng LG G2 androi 4.0.1 bây giờ mình muốn nâng cấp máy lên androi 5.0 thì có được không ạ. Và cách nâng như thế nào ạ Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5279,
+         "id": "1010165",
+         "field_search": "question",
+         "question": "Xin chào. Hiện mình đang sử dụng chiếc Galaxy S8+. Lúc mua có bảo hiểm rơi vỡ. Máy mình giờ đã rơi vỡ kính lưng và trầy xuốc khung viền. Nên mình hỏi muốn thay mới sẵn đỗi màu cho chiếc đt thì bảo hiểm rơi vỡ được tính như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.51113,
+         "id": "1009400",
+         "field_search": "question",
+         "question": "Mình xài điện thoại Sony XA. Mình muốn hỏi khi có cuộc gọi quốc tế gọi đến mà mình muốn điện thoại hiển thị quốc gia nào đang gọi tới thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.476082,
+         "id": "881948",
+         "field_search": "question",
+         "question": "Hello.Mình đang sd máy nokia lumia 925. Công việc của mình thương sd đến ứng dụng viber. Nhưng mấy hnay các tin nhắn thông báo đến lại k hiển thị ở màn hình nền. Mà phải vào ứng dụng mới đọc được. Có cách nào hiển thị thông báo không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463085,
+         "id": "999526",
+         "field_search": "question",
+         "question": "Mình đang sử dụng oppo f1s được 8 tháng rồi bây h mình muốn chuyển sang con máy xiaomi redmi note 4x thì phải bù thêm bao nhiêu tiền,xin ad trả lời giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.460165,
+         "id": "906976",
+         "field_search": "question",
+         "question": " mình đang dùng máy tính ecer win 10 lúc thì báo pin lúc không thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.459896,
+         "id": "953165",
+         "field_search": "question",
+         "question": " điện thoại iphone 5s của mình không hiển thị thời gian sử dụng , đây là lỗi hay chỉnh sao ạ     ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

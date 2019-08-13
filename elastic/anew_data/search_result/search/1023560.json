@@ -1,0 +1,801 @@
+{
+   "id_query": "1023560",
+   "total": 27272,
+   "total_current": 100,
+   "max_score": 47.310646,
+   "origin_question": "Mấy anh chị cho em hỏi kích hoạt Win 8.1 như nào vậy. ",
+   "hits": [
+      {
+         "score": 27.930473,
+         "id": "867923",
+         "field_search": "question",
+         "question": "Hôm trước em có đi cài lại win ở chỗ anh/chị nhưng khi về thì win chưa được kích hoạt, và hiện h em đã nâng cấp lên thành win 10 rồi. xin hỏi bây h em phải kích hoạt win như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.748293,
+         "id": "896146",
+         "field_search": "question",
+         "question": " Anh chị ơi, cho e hỏi Boot máy tính Asus a450 như thế nào để có thể cài win 8.1 từ USB vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.297163,
+         "id": "1022095",
+         "field_search": "question",
+         "question": "Mấy anh chị cho hỏi xoá ứng dung trên máy tính như nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.908602,
+         "id": "836524",
+         "field_search": "question",
+         "question": "Xin hỏi QTV có cách nào kích hoạt được bản quyền win 10 home không. Mình vừa mua ở thegioididong về đươc mấy hôm báo yêu cầu phải kích hoạt bản quyền. Mình vào kích hoạt thì bị lỗi 0x00xxxx74 gì gì đó không kích hoạt được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.839167,
+         "id": "763660",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ: em mới từ win 7 và chạy lên win 10. ở win 7 thì em đã kích hoạt và là win bản quyền. mà sao lúc lên win 10 em không thể kích hoạt được và hiện ra lỗi 0x803f7001 . giờ em phải làm sao để kích hoạt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.760265,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.675993,
+         "id": "806591",
+         "field_search": "question",
+         "question": "Chào anh chị. Em đang sử ipad mini wifi nhưng khi đăng nhập imess và facetime thì báo lỗi khi kích hoạt. Vậy có cách nào fix này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.178305,
+         "id": "904419",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi chút. e quên mất ID của icloud trên iphone 5s giờ không kích hoạt được điện thoại thì phải làm sao ạ? xin các anh chị chỉ giúp cho. em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.83979,
+         "id": "1020993",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi mình muốn root may samsung j1 như nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825172,
+         "id": "832839",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop DELL win 8.1 của em đang đòi activate windows, bậy giờ em phải làm như thế nào ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.735134,
+         "id": "928766",
+         "field_search": "question",
+         "question": "Cho mình hỏi tai sao mình kích hoạt imessage va factime thi báo chờ kích hoạt mà mình đả làm các bước đăng nhập đầy đủ như đăng nhập icloud mà vẩn báo chờ kích hoạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.66688,
+         "id": "779567",
+         "field_search": "question",
+         "question": " Các anh chị cho em hỏi tại sao windows 8 pro của em không thể upgrade lên 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.553633,
+         "id": "753238",
+         "field_search": "question",
+         "question": "trước kia em mua máy dell có cài win 8.1 bản quyền . sau đó em ra tiệm cài lại win 7 . em còn cái đĩa recovery lại win 8.1 , vậy phải làm thế nào để trở lại win 8.1 bản quyền ạ . Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.533096,
+         "id": "828298",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi máy em dùng win 8.1 bản quyền có thể Recovery dược bao nhiêu lần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.504187,
+         "id": "781883",
+         "field_search": "question",
+         "question": " Cái iphone 7 giá nhiêu vậy mấy anh chị cho em biết được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.334204,
+         "id": "894726",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là máy tính của em cổng usb 2.0 vậy có dùng được usb 3.0 không nếu được thì usb hoạt động như 2.0 hay 3.0 dạ em cảm ơn . em thấy nhiều hãng 2.0 với 3.0 theo anh chi cái nào tốt ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.309834,
+         "id": "923368",
+         "field_search": "question",
+         "question": " Mấy anh chị cho em hỏi Iphone 4 có thể cập nhật lên ios 8 được không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.248222,
+         "id": "743836",
+         "field_search": "question",
+         "question": " Admin cho em hỏi laptop win 8.1 bản quyền có xuống được win 7 không vậy ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.181107,
+         "id": "845143",
+         "field_search": "question",
+         "question": "mấy anh chị cho em hỏi cái car màn hình của em đang chơi...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.106182,
+         "id": "833417",
+         "field_search": "question",
+         "question": " Mấy anh chị... có jaibeark cho ios 9.2.1 chưa vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.049202,
+         "id": "802384",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi. Em muốn mua laptop để học và lưu tài liệu, có hổ trợ ổ đĩa DVD. Thế em nên chọn loại mấy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.650602,
+         "id": "755990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em đang dùng laptop Asus X553M chạy Windows 8.1 giờ em muốn hạ xuống Windows 7 được không ạ và hết bao nhiêu tiền ạ? Em cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.58867,
+         "id": "994688",
+         "field_search": "question",
+         "question": "ad cho mình hỏi sim go go 4g mình mua nhưng kích hoạt sau được không hay là mua là phải kích hoạt luôn vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.56454,
+         "id": "1163996",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.508904,
+         "id": "744452",
+         "field_search": "question",
+         "question": " Cho em hỏi là iphone 6s 128G Điện thoại em chưa kích hoạt vậy bán lại được nhiêu . Em cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.479105,
+         "id": "803984",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua cái laptop cài win 10 nhưng không có kèm word,powerpoint...em phải làm sao ạ. Em cứ tưởng khi cài win là có sẵn mấy phần mềm đó rồi chứ ạ.Mong anh (chị) giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.424072,
+         "id": "812145",
+         "field_search": "question",
+         "question": "iPhone 5C lock nhật của em bị dính tài khoản iCloud để kích hoạt, em quên gmail có thể nào kích hoạt lại được không ạ, còn ID Apple của em vẫn sử dung được bình thường có cách nào không vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.391277,
+         "id": "748758",
+         "field_search": "question",
+         "question": "Cho em hỏi e bị mất chiếc iPhone 6s chưa kích hoạt . Bằng số sire hoặc mấy dãy số trên vỏ hộp có tìm lại được không . Hoặc có cách nào khác không . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.17608,
+         "id": "862376",
+         "field_search": "question",
+         "question": " Anh chị kiểm tra gium e cimei sao ko check dc ngày kích hoạt? Máy này có chính hãng ko ,có vấn đề j ko ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.139961,
+         "id": "764826",
+         "field_search": "question",
+         "question": " Em có cái iPhone 3gs sau khi reset thì kích hoạt không được vậy phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.130522,
+         "id": "777708",
+         "field_search": "question",
+         "question": " Mấy anh chị cho em hỏi máy tính của em đưa vào chạy chương trình lại sao mà nó chậm hơn lúc ban đầu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.103258,
+         "id": "820608",
+         "field_search": "question",
+         "question": " Cho hỏi win bản quyền 8.1 bên bạn bán bao nhiêu vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.029263,
+         "id": "807789",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cách fix lỗi iPhone 5 lock của mỹ như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.029263,
+         "id": "1024343",
+         "field_search": "question",
+         "question": " anh chị kỹ thuật viên cho em hỏi khắc phục lỗi update này như thế nào ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.881552,
+         "id": "763092",
+         "field_search": "question",
+         "question": " Tôi muốn kiểm tra ngày kích hoạt của iPhone 5s thì tôi phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.866774,
+         "id": "767030",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi iPhone 5s tại sao khi chọn kích hoạt imessge và facetime máy báo không kích hoạt được và đang chờ kích hoạt hoài vẫn không được, mình kiểm tra kết nối mag và kích hoạt lại mình đã tất bật nhiều lần vẫn như vậy . Xóa cả những ứng dụng nhắn tin miễn phí vẫn không được mà máy là bản quốc tế mọi người giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.813326,
+         "id": "923788",
+         "field_search": "question",
+         "question": "xin chào bqt tgdđ cho em hỏi cái này ạ hôm bữa máy em có bị hỏng thế em mới lên sửa thì nhân viên cài lại cho em win 8 bữa trước em dùng win 7 mà.Từ lúc cài lại win thì máy em nó chả kích hoạt được window nữa.Em mới hỏi bộ phận kỹ thuật bên miscro thì họ nói pid của em là bản quyền k hợp lệ thì k kích hoạt đc phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.769003,
+         "id": "842465",
+         "field_search": "question",
+         "question": "Xin cho em hỏi : Em đã bấm số mã kích hoạt zalo quá số lần. Giờ em muốn bấm số dể kích hoạt lại lần nữa thì phãi làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.743676,
+         "id": "773477",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại wiko kết nối cáp usb với máy tính như thế nào ạ? em gắn vào rồi mà vẫn không kết nối được. Xin mấy anh chị giúp em với, e cảm ơn ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.731321,
+         "id": "827503",
+         "field_search": "question",
+         "question": " Làm thế nào để cài win 8.1 hoặc win 10 cho win 7 ram 2GB 32bit ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.730198,
+         "id": "830599",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, máy tính của em cấu hình celeron, ram 2g. Vậy có sử dụng win xp đc không. Lần trước em có ghost mà không được, em nghe nói là phải nạp MBR gì đó.Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.570746,
+         "id": "891087",
+         "field_search": "question",
+         "question": " cho em hỏi tải autocad cho win 10 là auto mấy vậy ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.46172,
+         "id": "1143250",
+         "field_search": "question",
+         "question": "chụp ảnh trên iphone bị ngược là sao vậy mấy anh chị??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.418284,
+         "id": "999355",
+         "field_search": "question",
+         "question": "Mấy anh cho em hỏi ở Long Xuyên chỗ nào có kinh doanh xiaomi mi4 chính hãng vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.402218,
+         "id": "774567",
+         "field_search": "question",
+         "question": "khi em quyên mật khẩu khoá màn hình và sau khi nhập quá nhiều lần iPhone 5s 16g không còn báo nhập mật khẩu nữa em đã đi chạy lại phần mềm và giờ iPhone của em hỏi nhập tài khoản iCloud để kích hoạt iPhone. Em bị quyên tài khoản va mật khẩu iCloud nên ko biết cách nào để kích hoạt lại iPhone của minh. Hỏi a chị xem có cách nào để kính hoạt lại được iPhone của e ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.353754,
+         "id": "1009701",
+         "field_search": "question",
+         "question": "Em chào ac. Ac cho e hỏi e vừa đăng kí sim vinaphone 4g speed bên mình. Vậy e cần làm thế nào để kích hoạt sim ạ?  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.345919,
+         "id": "906956",
+         "field_search": "question",
+         "question": " Cho em hỏi chip âm thanh máy hp pavilion g4 dùng chung 1 loại hả mấy anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.311511,
+         "id": "774474",
+         "field_search": "question",
+         "question": "Chào anh chị. Em bị quên tài khoản va mật khẩu iCloud để kính hoạt lại iPhone 5s. Giờ làm cách nào để kính hoạt lại điện thoại iPhone của em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.290507,
+         "id": "1164004",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko,ko nhưng có thằng nào đăng nhập vào máy em ,em ko nhớ tên nó thì làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.28448,
+         "id": "994536",
+         "field_search": "question",
+         "question": "Chào anh chị em muốn mua cái ASUs zenphone 3 loại 5tr mấy mà mua trả góp anh chị có thể hướng dẫn cho em ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.248485,
+         "id": "1154900",
+         "field_search": "question",
+         "question": "Office 365 được cài sẵn ở laptop nhưng phải kích hoạt mới sử dụng được ạ? Nếu không kích hoạt thì thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.21248,
+         "id": "801288",
+         "field_search": "question",
+         "question": " cho e hỏi ứng dụng nào trên laptop chạy win 8.1 mà tạo đc video ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.152081,
+         "id": "989967",
+         "field_search": "question",
+         "question": "AD cho em hỏi lỗi không thể kích hoạt Iphone phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1306095,
+         "id": "1168243",
+         "field_search": "question",
+         "question": "chào ạ e muốn hỏi là làm cách nào để kích hoạt imessage ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.106837,
+         "id": "1164001",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko,ko nhưng có thằng nào đăng nhập vào máy em ,em ko nhớ tên nó thì làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.098774,
+         "id": "751149",
+         "field_search": "question",
+         "question": " Chào anhchị, cho em hỏi laptop sony sao khi cập nhật win 8.1 lại bị lỗi màn hình xanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.093689,
+         "id": "1015574",
+         "field_search": "question",
+         "question": "Mấy anh , mấy chị cho e hỏi . Em muốn tìm một chiếc điện thoại tầm giá 5tr′↓  đễ chơi liên quân mobile và ứng dụng mạnq xã hội thì em nên chọn mua điện thoại nào ạ ! 😘😘",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.08012,
+         "id": "1147838",
+         "field_search": "question",
+         "question": "Muốn kích hoạt bảo hành joy1 phải làm như thế nào, đã bấm vào cập nhập thì tin nhưng k dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.064777,
+         "id": "755964",
+         "field_search": "question",
+         "question": "Chào anh chịEm muốn tìm iPhone 5s gold, giá khoảng 7 triệu mấy, anh chị có hàng gọi em 0909967xxx, em đang sống HCMCám ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.029069,
+         "id": "778073",
+         "field_search": "question",
+         "question": " Cho em hỏi  Em muốn nâng cấp win 8.1 lên win 10 của latop acer, tgdd có hỗ trợ không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.018461,
+         "id": "809968",
+         "field_search": "question",
+         "question": " cho em hỏi sao iphone5 của em lại không kích hoạt được imessage và facetime ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.016623,
+         "id": "947704",
+         "field_search": "question",
+         "question": "Cho em hỏi là Laptop em mới mua tại TGDD cũng hơn nữa tháng rồi. Giờ em muốn vào dùng Word, Excel hay PowerPoit thì nó đều để phải mua hoặc kích hoạt để sử dụng. Vậy giờ làm sao để kích hoạt hay bắt buộc phải mua ạ.????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.956121,
+         "id": "851395",
+         "field_search": "question",
+         "question": " qtv cho em hỏi khắc phục lỗi DRIVERPOWERSTATEFAILURE win 8.1 dòng asus làm như thế nào được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.948436,
+         "id": "1011524",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Điện thoại em là oppo a37. Mấy hôm nay em có quay video và em vô album để mở xem lại. Khi em nhấn vào xem video thì không lên video mà lại lên hình. Anh chị cho em hỏi máy em bị gì vậy ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8957615,
+         "id": "802263",
+         "field_search": "question",
+         "question": "Cho Em Hỏi:Tháng Trước Em Mua Laptop Của TGDĐ.Sau Đó Em Cài Win Lại Mà Bị Lỗi.Bây Giờ Thì Phải Mang Đi Bảo Hành Như Thế Nào Ạ?.Mong Anh Chị Giúp Em.Em Chân Thành Cảm Ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.850152,
+         "id": "885711",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Asus tp301 .Làm sao dùng word, exel trên win 10 vậy. phải bắt buộc thêm tiền để kích hoạt mới dùng được sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.812361,
+         "id": "777483",
+         "field_search": "question",
+         "question": "Mấy anh chị em bên TGDĐ cho em hỏi chút ạ, em vừa mua iPhone 5s 16GB trên TGDĐ nhưng không biết phiên bản 9.2 xài có ổn định không ah ? Nhờ anh chị em tư vấn giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.80603,
+         "id": "905905",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi trong thời gian 30 ngày mua máy có bảo hành win không ạ em muon xoa ban win nay di cai lai win moi vi thay co loi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.790678,
+         "id": "795355",
+         "field_search": "question",
+         "question": " Xin hỏi em nên dùng laptop win 10 hay win 8.1 thì tốt hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.776278,
+         "id": "771265",
+         "field_search": "question",
+         "question": " Cho em hỏi lap cài win 8.1 bản quyền rồi giờ lên win 10 mà em muốn nó xuống win 7 lại thì có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.741436,
+         "id": "802089",
+         "field_search": "question",
+         "question": "Em mua điện thoại iPhone cũ mà khi kích hoạt nó báo như vậy : \" iphone này đang được liên kết với id apple (b*******yahoo.com) đăng nhập id apple đã được sử dụng để thiết lập iphone này \" e phải làm sao để kích hoạt đây ạ? Em không biết pass :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.730911,
+         "id": "749666",
+         "field_search": "question",
+         "question": " Ad giữa win 10 với win 8.1 cái nào sử dụng tốt hơn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.729172,
+         "id": "897198",
+         "field_search": "question",
+         "question": "Em mua laptop ở tgdd nhưng e làm mất bản quyền win 8.1 của máy rồi. cho e hỏi là tgdd coa thể cài lại win 8.1 cho e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.712779,
+         "id": "1144085",
+         "field_search": "question",
+         "question": "Em chào anh/chị ạ. Cho em hỏi là khi mình sử dụng tín năng Chặn trên Facebook là mình sẽ không nhìn thấy bất cứ thông tin nào từ người mình đã chặn nữa đúng không ạ? Tại khi em chặn người đó nhưng ở nhật kí hoạt động + mục đã lưu của em vẫn còn hiện những hoạt động của người đó hoài, có cách nào khắc phục không ạ? Em cảm ơn anh/chị nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.710965,
+         "id": "762015",
+         "field_search": "question",
+         "question": " Em bị lỗi prepring win 10. Giúp em với anh chị tgdd ơi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.69666,
+         "id": "779781",
+         "field_search": "question",
+         "question": "Cho e hỏi, hiện tại imessage trên đt ip6 của e không thể tắt mở được như( như hình ảnh bên dưới), vì vậy bị lỗi kích hoạt. Cho e hỏi cách giải quyết ntn. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6911955,
+         "id": "844941",
+         "field_search": "question",
+         "question": "  Khi kích hoạt lại id apple nó yêu cầu đăng nhập vào mail có đuôi me.com . cho em hỏi phải đăng nhập thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.647258,
+         "id": "1009300",
+         "field_search": "question",
+         "question": "Em có mua sim VinaBumDATA 250k,chị nhân viên nói là sau 24h sẽ kích hoạt,mà tới bây giờ em vẫn chưa thấy.xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.643943,
+         "id": "1014875",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em vừa mua laptop bên mình ạ. Lap em có thêm mấy số bên hông mà em bấm thì không lên ạ. Vậy em chỉnh sao ạ?  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.608355,
+         "id": "1143765",
+         "field_search": "question",
+         "question": "cho mình hỏi , lúc trước mình có mua lap top ở thế giới di động, có tặng win 10 bản quyền cho mình, giờ mình muốn cài lại win thì k có mã số key kích hoạt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.574497,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.554812,
+         "id": "1024108",
+         "field_search": "question",
+         "question": "Em dùng Iphoen 6 Plus, hôm nay em có update máy lên IOS 11 nhưng vì lag giật, giảm hiệu năng máy nên em đã sử dụng phần mềm 3utool để về lại IOS 10.3.3. Nhưng khi em kích hoạt lại Iphone thì bị báo lỗi 'Khoogn thể kích hoạt iPhone của bạn vì khoogn thể kết nối với máy chủ kích hoạt\". Em sử dụng mạng wifi để active bình thường, bấm 'Thử lại\" nhiều lần nhưng vẫn không active lại máy được. Anh/chị tư vấn giúp em với, em đang rất lo lắng ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.493789,
+         "id": "747857",
+         "field_search": "question",
+         "question": "Qtv ơi em đang dùng điện thoại iPhone 5 . Anh chị cho em hỏi hôm nay em đang lướt web thì máy báo như này  vậy điện thoại của em có bị làm sao không anh chị tư vẫn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.440731,
+         "id": "860553",
+         "field_search": "question",
+         "question": " Anh chị cho e hỏi bên anh chị có thay màn hình iPhone 4s k vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.435311,
+         "id": "794311",
+         "field_search": "question",
+         "question": " Cho em hỏi bây giờ muốn nâng từ win xp lên win 7 như nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4342575,
+         "id": "812205",
+         "field_search": "question",
+         "question": " Làm thế nào để kích hoạt điều khiển tv của Oppo r7s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.410455,
+         "id": "831947",
+         "field_search": "question",
+         "question": " QTV cho em hỏi Laptop DELL của em đồi kích hoạt của sổ, bây giờ em phải làm sao đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.402742,
+         "id": "908976",
+         "field_search": "question",
+         "question": "Chào anh/chị,Em dùng laptop Acer Espire E14, mấy ngày trước lap vẫn dùng để trình chiếu được nhưng tự nhiên giờ lại không được, em bấm Win + P thì nó bảo là Try installing drive.... em phải khắc phục thế nào đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.402235,
+         "id": "1021115",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi cái htcpro vpn của htc one m8 sao không hoạt động vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.395571,
+         "id": "993427",
+         "field_search": "question",
+         "question": " lg mới ra sao k thấy bán nữa vậy anh chị ơi khi nào có hàng vậy anh chị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.37731,
+         "id": "874150",
+         "field_search": "question",
+         "question": "anh ơi em mới mua iphone5 cũ em.Em muốn biết máy đó đã sử dụng bao lâu thì em phai làm thế nào ..Em đã xem ngày kích hoạt trên apple nhưng không thấy .số imel máy em là 013330002907737 mong anh xem giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.374662,
+         "id": "793887",
+         "field_search": "question",
+         "question": " Em dùng iphone 5 bản quốc tế. Khi kích hoạt FaceTime cứ bị hiện lên như này là sao ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.364425,
+         "id": "912811",
+         "field_search": "question",
+         "question": "Dear Anh/Chị!Hiện tại em đang sống tại TP. Hcm, Em muốn cài lại win laptop, em không biết mình còn chương trình cài win miễng phí hay không? hay phải trả phí và phí cài win lại là bao nhiêu?Thanks Anh/ Chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.315729,
+         "id": "997208",
+         "field_search": "question",
+         "question": "Anh, chị cho em hỏi máy Sony cua em ko tải dc ngoại tuyến ko có ngoại tuyến làm cách nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.315186,
+         "id": "771552",
+         "field_search": "question",
+         "question": "Mấy anh ơi máy em chạy iOS 6.1.6. khi tải Facebook thì nó yêu cầu iOS 7.0 trở lên. anh chị có cách nào tải về không chỉ em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.295709,
+         "id": "1163397",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em muốn mua điện thoại samsung tầm 3 triệu trở lại thì em nên mua điện thoại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.275248,
+         "id": "755014",
+         "field_search": "question",
+         "question": "Cho em hỏi là, khoảng 1 năm trước em có mua laptop tại Thegioididong, khi mua thì đã đượcc cài win 8.1 bản quyền Home single language, sau rồi em nâng cấp lên win 10 bản quyền tương tự, nhưng sau thời gian sử dụng em thấy hình như win 10 của em bị lỗi thì phải, cho em hỏi là giờ em mà cài lại win 10 hay là quay về win 8.1 thì có mất bản quyền không ạ, em xin cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.271369,
+         "id": "819610",
+         "field_search": "question",
+         "question": " Như vậy là máy tính e bị gì ạ,hỗ trợ giúp e với,máy e win 8.1 sony i3 ạ,  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.27131,
+         "id": "1161457",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone của e khi check ngày kích hoạt máy thì ra là ngày 1041978 là sao vậy ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

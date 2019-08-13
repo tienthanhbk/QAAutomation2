@@ -1,0 +1,801 @@
+{
+   "id_query": "1013791",
+   "total": 32904,
+   "total_current": 100,
+   "max_score": 77.74676,
+   "origin_question": "em là sinh viên năm 2 nhưng vẫn còn giữ giấy báo nhập học thì khi mua láp có được giảm giá không ạ ?",
+   "hits": [
+      {
+         "score": 77.74676,
+         "id": "1013597",
+         "field_search": "question",
+         "question": "em là sinh viên năm 2 nhưng vẫn còn giữ giấy báo nhập học thì khi mua láp có được giảm giá không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.077156,
+         "id": "1021480",
+         "field_search": "question",
+         "question": " Cho hỏi phiếu giảm giá học sinh sinh viên có giảm giá cho laptop không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.423628,
+         "id": "1010462",
+         "field_search": "question",
+         "question": "13051998 CÓ MUA ĐƯỢC KHÔNG Ạ !!! EM KHÔNG PHẢI SINH VIÊN ! HAY HỌC SINH Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.175009,
+         "id": "1012255",
+         "field_search": "question",
+         "question": "em hiện tại là sinh viên năm nhất học ngành kinh doanh vậy có cần mua bản office 365 cho laptop không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.08085,
+         "id": "1138530",
+         "field_search": "question",
+         "question": "Cho em hỏi, hiện tại em đang là sinh viên muốn trả góp điện thoại thì cần những giấy tờ gì (giấy tờ nào công ty tài chính giữ và giấy tờ nào được mang về) và có được hưởng ưu đãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.867964,
+         "id": "1023062",
+         "field_search": "question",
+         "question": "Mình là sinh viên đang học xây dựng? Muốn mua laptop để học thì nên mua loại nào tầm giá từ 1015,5 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.956245,
+         "id": "1006194",
+         "field_search": "question",
+         "question": "Em là tân sinh viên, em muốn mua điện thoại trã góp được không ạ? Nếu được thì cần những loại giấy tờ nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.799349,
+         "id": "1013640",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi em là sinh viên năm nhất nếu mà đi mua điện thoại trả góp thì có được  không ạ, rồi có chương trình khuyến mãi dành cho sinh viên không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.36648,
+         "id": "993932",
+         "field_search": "question",
+         "question": "Em sinh năm 2000 đã có giấy chứng minh , vậy em có thể mua điện thoại củ giá 3050000d được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.046482,
+         "id": "1008422",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mua trả góp thì cần giấy tờ s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.567307,
+         "id": "1157610",
+         "field_search": "question",
+         "question": "Cho em hỏi học sinh mua điện thoại có đc giảm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.166887,
+         "id": "1138559",
+         "field_search": "question",
+         "question": "em đang là sinh viên bây em muốn mua realme C1 trả góp mà em sinh năm 99 có thể trả góp được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.728958,
+         "id": "1163184",
+         "field_search": "question",
+         "question": "HI TGDD, MÌNH NGHE NÓI HÔM NAY AI CÓ NGÀY SINH NHẬT 2604 MUA ĐIỆN THOẠI SAMSUNG A50 ĐƯỢC GIẢM GIÁ CÒN NĂM TRIỆU MẤY HẢ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.721365,
+         "id": "993935",
+         "field_search": "question",
+         "question": "Em sinh năm 2000 đã có giấy chứng minh , vậy em có thể mua điện thoại củ giá 3050000d  trả góp đc hk được ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.695572,
+         "id": "1011998",
+         "field_search": "question",
+         "question": "e là sinh viên năm nay 19 tuổi có thể mua trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.658934,
+         "id": "1154563",
+         "field_search": "question",
+         "question": "chào bạn, bạn có thể tư vấn dùm mình về laptop dành cho học sinh sinh viên được không vậy? tại mình muốn mua lap nhưng không rành lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.651476,
+         "id": "994109",
+         "field_search": "question",
+         "question": "Em là sinh viên năm 3 Xây DựngChuyên ngành của e là xây dựng dân dụng và công nghiệp. Vậy có thể cho e biết e nên mua laptop gì để phục vụ việc học và đi làm sau này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.636774,
+         "id": "1017051",
+         "field_search": "question",
+         "question": "admin cho em hỏi em muốn nộp đơn xin việc vào vị trí cộng tác viên giám sát camera....em sinh viên đại học sinh năm 1999 mà yêu cầu là từ 1996-1998...vấn đề này có thể giải quyết dc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.28629,
+         "id": "1008320",
+         "field_search": "question",
+         "question": "Chính sách  trả góp và vấn đề liên quan. Là học sinh,  sinh viên có được ưu đãi gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.194458,
+         "id": "770971",
+         "field_search": "question",
+         "question": " Em là 1 học sinh lớp 12, em muốn mua iPhone 5S 8tr4 trả góp thì cần có những giấy tờ gì và trả góp như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.006296,
+         "id": "1014844",
+         "field_search": "question",
+         "question": "Cho Em hỏi em đang là sinh viên học đại học từ xa và đang làm cty có ký hợp đồng lao đông.. em chỉ mới 18t thôi vậy mua trả góp thì như thế nảo ạCòn điễm thi thpt quoc gia vừa qua được nhận mã giảm giá vậy có áp dụng cho mua trã góp dc  không ạ rất mong ad tư vấn hoặc lh giúp em qua sdt 0985485594",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.98848,
+         "id": "753449",
+         "field_search": "question",
+         "question": " Em là sinh viên và học ngành quản trị kinh doanh . anh chị có thể cho em biết mình nên mua máy tính loại nào không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.61234,
+         "id": "1155949",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop nào  hợp giá tiền học sinh sinh viên mà tải đc liên minh huyền thoại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.853558,
+         "id": "935963",
+         "field_search": "question",
+         "question": "em có down window7backgroundchager vào năm ngoái để dùng khá tốt. nhưng năm nay khi em muốn thay đổi lại thì nó không dùng đc nữa và em đã uninstall app đi bằng program and feature. Nhưng khi em down lại app đấy và cài đặt thì app không cài được và báo 1 trong các phần mềm vẫn đang chạy sẵn, đúng là khi em bật máy thì cái ảnh em đặt từ năm ngoái vẫn giữ nguyên.. Vậy phải làm thế nào để cài lại app đấy ạ /?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.638332,
+         "id": "1006223",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo f1s tại sóc trăng còn hàng k ạ. Và mình muốn mua hàng trưng bày f1s với hìn thức trả góp thì có dc k ạ? Hiện tại mình là học sinh có giấy CMND nhưng bằng lái xe thì đứng tên là mẹ mình thì có dc k? Mong QTV giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.606129,
+         "id": "1014665",
+         "field_search": "question",
+         "question": "Em có khoảng 2 đến 3 triệu. Sinh viên thì nên mua máy nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.530222,
+         "id": "746899",
+         "field_search": "question",
+         "question": "em là sinh viên học quản trí kinh doanh tại Hà Nội. em muốn mua 1 chiếc laptop giá khoảng 9-11tr. máy nhanh, mượt, pin bền, màn hình đẹp, làm việc văn phòng ổn, thì nên mua máy nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.124048,
+         "id": "1158721",
+         "field_search": "question",
+         "question": "Cho em hỏi ! Hiện em là sinh viên sinh ngày 12081999 vậy em có thể mua trả góp bên ngân hàng nào được không ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.877953,
+         "id": "992004",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mu trả góp oppo a39 thì e cần những giấy tờ gì ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.860249,
+         "id": "1011532",
+         "field_search": "question",
+         "question": "QTV. cho e hỏi sim e là sim học sinh mà giờ e chuyển sang sim 4G .vậy sim e có còn gói sim học sinh không ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848455,
+         "id": "1141284",
+         "field_search": "question",
+         "question": "em là học sinh muốn mua điện thoại mới xài tết tầm giá 23tr có tai thỏ và chơi game mượt thì nên chọn máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.711258,
+         "id": "1012342",
+         "field_search": "question",
+         "question": "Cho em hỏi: đứa em mới vừa mua cái laptop asus a540up với giá 14.490.000đ có tặng kèm các sản phẩm như balo,chuột ,tai nghe nhưng sao cửa hàng tại Bạc Liêu nói là không tặng do đã giảm giá  (vì em nó vừa thi đại học xong, có phiếu điểm nên giảm được 5% tức là giảm 750.000đ ). Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.691303,
+         "id": "1019492",
+         "field_search": "question",
+         "question": "Em có mua dây sạc tại cửa hàng và được bảo hành 1 năm . Bây giờ dây sạc em có vấn đề nhưng em không còn giữ bill chỉ có lúc mua em có đọc tên và số điện thoại thì bây giờ có được bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.422049,
+         "id": "951567",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua laptop ở thế giới di dộng dưới quê em còn bảo hành nhưng giấy bảo hành em bỏ dưới quê, còn em thì đang ở thành phố. Em bị lỗi khi cài itune thì đem máy ra tgdd thành phố mà không cần giấy bảo hành thì nhân viên kỹ thuật có hỗ trợ không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.382751,
+         "id": "1141563",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi ạ.Em là học sinh cuối cấp nên máy tính như cánh tay phải của em. Tối qua e vẫn dùng máy học được nhưng tối nay e bật lên thì màn hình nó không lên trong khi nút nguồn sáng. Quạt gió thì chạy đc 4s xong ngừng. Vậy lí do tại sao ạ?  Có cách nào khắc phục không ạ? Lap em đang dùng là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.375414,
+         "id": "1131399",
+         "field_search": "question",
+         "question": " Êm muốn tìm con máy chơi pubg mobile được nhưng giá rẻ sinh viên ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.356962,
+         "id": "803760",
+         "field_search": "question",
+         "question": "Em muốn mua Laptop Asus A540LA i3 4005U/4GB/500GB/Win10với hình thức trả góp thì cần những giấy tờ gì ạ. hiện em là sinh viên tại hà nội, em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.180717,
+         "id": "999280",
+         "field_search": "question",
+         "question": "Nếu như mua điện thoại giá 1200000 ngàn mà có đăng ký thành viên thì được giảm bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.137634,
+         "id": "792274",
+         "field_search": "question",
+         "question": "Em là sinh viên muốn mua 1 iphone 5s trả góp. Em chưa đủ 20 tuổi thì có mua được không và nếu được thì e có chứng minh nhân dân, 1 biên lai đóng tiền kì gần nhất, 1 sổ hộ khẩu phôtô công chứng và thẻ sinh viên thì có đủ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.122633,
+         "id": "802274",
+         "field_search": "question",
+         "question": "Chào tư vấn viênem là sinh viên trường ĐHĐTem muốn mua laptop để hỗ trợ việc học nhưng do gia đình khó khăn. Vậy cho em hỏi có dịch vụ gì hỗ trợ cho em không hay chương trình gì đó..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.071926,
+         "id": "1009867",
+         "field_search": "question",
+         "question": "em là tân sinh viên học chuyên ngành kinh doanh đang có nhu cầu muốn mua laptop trong tầm từ 10tr-15tr. mong anh/chị có thể tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.042688,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.027996,
+         "id": "992384",
+         "field_search": "question",
+         "question": "Em đang là sinh viên đủ 20 tuổi có Giấy cmnd và bằng lái xe khi đi góp thì có cần phãi đưa sđt người thân nữa không ạ.hay chỉ thông tin cá nhân th ạ.Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.98666,
+         "id": "763225",
+         "field_search": "question",
+         "question": "Em vừa mua cáp sạc iphone 5 ở TGDĐ nhưng em quên không cầm máy để cập nhập thông tin nhân viên tại TGDD bảo vs em là đc bảo hành 1 năm. Vậy cho em hỏi ví dụ cáp sạc của em bị đứt thì có được bảo hành không và khi bảo hành thì cần nhưng thông tin gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.894127,
+         "id": "1013333",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu là sinh viên chỉ có chứng minh nhân dân thôi thì có được mua trả góp k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.842129,
+         "id": "989494",
+         "field_search": "question",
+         "question": "cho em hỏi là em đang là sinh viên thì có thể góp đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.790869,
+         "id": "808375",
+         "field_search": "question",
+         "question": "Em đăng nhập facebook bằng máy tính thì phải nhập mật khẩu 2 lần mới vào được, còn trên điện thoại thì báo lỗi không thể đăng nhập, nhưng đăng nhập bằng ních khác thì vẫn vào bình thường. Em đã thử xóa ứng dụng và tải lại rồi vẫn không được. Cho em hỏi làm thế nào để khôi phục lại bình thường ạ. Em cảm ơnđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.685978,
+         "id": "834388",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang muốn mua laptop thì nên mua máy của hãng nào để đáp ứng tối ưu nhất cho nhu cầu giải trí như chơi game online, xem phim,lên mạng vừa nếu muốn có thể kết hợp cho việc học ở mức giá vừa phải dành cho học sinh sinh viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.635439,
+         "id": "761297",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ạ. iPhone 4S của em đang cài IOS9, hôm nay lúc chiều vẫn có thể chơi, gọi, nghe nhạc, log in Insta thoải mái. Nhưng đang chạy thì bỗng nhiên không thể thoát được Insta, dùng phím Home, lock màn hình thì nó tắt luôn đen sì, chừng nửa tiếng sau thì mới lên nhưng vẫn kẹt ở app Insta, dùng cả phím Home ảo, chuyển sang màn hình đa nhiệm rồi nhưng vẫn không thể thoát được, ấn giữ nguồn để khởi động lại máy không được nốt. Em phải làm như thế nào ạ? Và cho em hỏi là TGDĐ nếu có fix lỗi thì giá cả như thế nào ạ, vì em vẫn đang là học sinh cấp 3 nên chưa thể chủ động được. Em cảm ơn các QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60132,
+         "id": "1134703",
+         "field_search": "question",
+         "question": " Mua trả góp thì Cửa hàng có giữ lại giấy tờ gì ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.469463,
+         "id": "1159184",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại xiaomi redmi note 7 giá 4tr990.000d  khi mua vào ngày chủ nhật có giảm giá không ạ nếu có thì giảm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.4141,
+         "id": "1150879",
+         "field_search": "question",
+         "question": "Mình là sinh viên công nghệ thông tin cần mua laptop phục vụ cho việc học tập và làm việc giá khoảng 15 triệu. Mong ad tư vấn giúp mình dòng máy phù hợp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.339521,
+         "id": "880843",
+         "field_search": "question",
+         "question": "Em sinh năm 97 , e muốn mua iphone 5s trả góp . E có cmt và hộ khẩu photo nhưng chưa công chứng . Có mua được trả góp k ạ ? Và cho e hổ giá trả trước là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.325811,
+         "id": "778403",
+         "field_search": "question",
+         "question": " Cho em hỏi là em sinh ngày 1 tháng 1 năm 1996 em có thể mua iPhone 6 plus trả góp được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.207527,
+         "id": "1012451",
+         "field_search": "question",
+         "question": "em có mã giảm giá 4 ma e mua trả góp có được sử dụng mã giảm giá không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.201601,
+         "id": "1156094",
+         "field_search": "question",
+         "question": "Em có mua Samsung A9 2018 trong khoảng ngày 16-20/2, đến bây giờ đã được 1 tháng hơn rồi ạ , em mua tổng là 10tr070, máy vẫn còn mới vì em giữ rất kĩ, không trầy hay có lỗi gì... em muốn đổi sang dùng iphone7plus giá 13tr9,,, thì bây giờ em phải bù thêm bao nhiêu để có thể mua được cái 7plus ạ ? Hộp và hoá đơn vẫn còn đầy đủ, tai nghe còn nguyên tem chưa tháo ra, chỉ mới sử dụng dây sạc thôi ạ , em muốn đổi qua thì bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.160158,
+         "id": "993469",
+         "field_search": "question",
+         "question": "E sinh năm 1994. Giấy tờ hiện có là sổ hộ khẩu và cmnd số tiền e muốn trả trước là 7tr2.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.154224,
+         "id": "1135617",
+         "field_search": "question",
+         "question": "Tôi có sử dụng điện thoại samsung galaxy S2 nhưng không lấy được mã giảm giá do điện thoiạ không tương thích với bản cài đặt quà tặng galaxy thì khi mua A9 có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.14699,
+         "id": "995979",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp mà mình chỉ có CMNN với thẻ sinh viên thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.136986,
+         "id": "924943",
+         "field_search": "question",
+         "question": " Lap của mình vẫn còn bảo hành nhưng hiện mất giấy bảo hành thì vẫn có thể mang ra bảo hành được chứ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.124014,
+         "id": "1003990",
+         "field_search": "question",
+         "question": "Cho hỏi mình muốn mua sim nghe gọi 3g .là học sinh thì cước 3g sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.010824,
+         "id": "1138744",
+         "field_search": "question",
+         "question": " Cho em hỏi năm nay em sinh năm 1999 bằng lái em đã có em có được mua trả gớp hk ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.987944,
+         "id": "1012146",
+         "field_search": "question",
+         "question": "Cho e hỏi là sinh viên có được trả góp điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.929144,
+         "id": "965738",
+         "field_search": "question",
+         "question": "Em có mua laptop dell tại thế giới đi dộng được một năm và mua bộ office bản quyền giá 1 triệu 2 nhưng được khuyến mãi còn 600 nghìn.Sử dụng được 1 năm và bây giờ không sử dụng được,bây giờ em phải làm sao để có thể tiếp tục xài nữa ạ và nếu phải mua lại thì với giá bao nhiêu ạ.Mong nhận được câu trả lờ sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.838076,
+         "id": "998791",
+         "field_search": "question",
+         "question": "cho em hỏi ưu đãi cho sinh viên khi mua laptop trả góp là những gì ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.8263,
+         "id": "1022290",
+         "field_search": "question",
+         "question": "Em là sinh viên, hiện h em cần tìm mua 1 laptop có thể đáp ứng đc việc học, và cũng có thể chơi game đc. Anh chị nào biết có thể tư vấn giúp em với. Mà nếu rm mua trả góp thì em có đc nhận quà tặng kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.759266,
+         "id": "898732",
+         "field_search": "question",
+         "question": " em cần mua 1 laptop dùng bền trong 4 năm học thì em có nên chọn laptop acer hay không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.723955,
+         "id": "831000",
+         "field_search": "question",
+         "question": " Ad cho em tham khảo laptop nào chơi được Liên Minh huyền thoại ạ giá cả vừa phải thôi ạ vì em đang là sinh viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620766,
+         "id": "843638",
+         "field_search": "question",
+         "question": "Em sinh năm 97 , e muốn mua iphone 5s trả góp . E có cmt và hộ khẩu photo nhưng chưa công chứng . Có mua được trả góp k ạ ? Và cho e hổ giá trả trước là bao nhiêu. E làm nghề tự do ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.604425,
+         "id": "781876",
+         "field_search": "question",
+         "question": "Cái ipad air 2 em mua hồi năm ngoái sài vẫn bình thường nhung hôm qua em để sạc qua đêm đến sáng em dậy thì thấy ipad không sạc được 1% em chơi còn 19% rồi sạc mà sáng dậy nó vẫn còn 19% là sao anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.603603,
+         "id": "1140289",
+         "field_search": "question",
+         "question": "xin chào? tại sao mình ko nhập được mã giảm giá khi mua hàng online ss A9?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.554327,
+         "id": "780999",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPad air 2 có được giảm 10 khi mua online không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.466581,
+         "id": "828538",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ !Em sinh năm 98, em có CMND + SHK công chứng vậy em có đc mua trả góp không ạ !Nếu không được thì yêu cầu ntn mới được ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.466389,
+         "id": "1023583",
+         "field_search": "question",
+         "question": "Em là sinh viên (chưa đủ 20 tuổi), em muốn duyệt hồ sơ trả góp qua điện thoại thì phần thông tin sẽ ghi thông tin của em hay người đứng tên hộ ạ? và em đã nhận coupon trợ giá sinh viên, nhưng sử dụng nó bằng cách nào ạ?Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.40602,
+         "id": "847428",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 5 ios 9.2 điện thoại của em khi sạc nó vẫn báo sạc nhưng vẫn không lên  pin mà giảm dần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.396116,
+         "id": "1161107",
+         "field_search": "question",
+         "question": "em là sinh viên có nhu cầu mua trả góp chiếc điện thoại z5 ,anh chị có thể tư vấn cho em được ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.370193,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35666,
+         "id": "1016139",
+         "field_search": "question",
+         "question": "sinh viên mua điện thoại oppo có được ưu đãi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35553,
+         "id": "1137199",
+         "field_search": "question",
+         "question": "cho mình hỏi giá của gear s3 mua online đang giảm giá trong khi mình đang đợi hàng chuyển về tới cửa hàng gần nhất thì có được tính giảm không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.338806,
+         "id": "1010589",
+         "field_search": "question",
+         "question": "admin ơi cho em hỏi em là sinh viên  muốn mua máy trả góp thì em cần những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.301357,
+         "id": "1022060",
+         "field_search": "question",
+         "question": "khi mua laptop giảm giá SV thì có được các KM khác ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.279648,
+         "id": "1145058",
+         "field_search": "question",
+         "question": "Cho em hỏi sinh viên nếu mua laptop trả góp thì cần điều kiện gì mới mua được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.171888,
+         "id": "1162059",
+         "field_search": "question",
+         "question": "ad cho em hỏi điện thoại samsung galaxy a10 nghe nói ngày 20-21 giảm giá còn 2tr790đ, em đặt hàng onl ngày 20v vậy có được giảm giá không ạ và nếu được thì làm sao để nhận hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.145208,
+         "id": "1011353",
+         "field_search": "question",
+         "question": "2 tuần trước em có mua một sản phẩm bên thế giới di động nhưng là sản phẩm đổi trả , nhân viên có nói là có thể đổi máy tương ứng với giá tiền của máy , vì máy sử dụng không được tốt cho lắm nên em có thể đổi máy khác với giá tương ứng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.143433,
+         "id": "1138478",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, khoảng 2 tháng trước em có đặt một sim viettel và chọn hình thức tới cửa hàng để lấy, nhưng do bận rộn nên đến giờ vẫn chưa lấy được, không biết là đến giờ thegioididong còn giữ sim đó để em lấy không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.111938,
+         "id": "1004258",
+         "field_search": "question",
+         "question": "cho e hỏi em vừa thi đại học xong. được mã giảm giá 20% nhưng do vấn đề gia đình mà em chưa mua được máy ạ. vậy làm sao để mã ko hết hạn vậy ạ?? chứ ko e tiếc quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.110928,
+         "id": "1004291",
+         "field_search": "question",
+         "question": "Khi là khách hàng thân thiết vậy mua điện thoại tại cửa hàng có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.067974,
+         "id": "1153812",
+         "field_search": "question",
+         "question": "Em là học sinh em định mua điện thoại tầm gửi á 1 triệu thì ko biết bên TGDD có sản phẩm điện thoại nào 1 triệu phù hợp cho học sinh vừa có cấu hình tốt chơi game tốt xem Youtube và các kiểu ko biết có ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.066044,
+         "id": "821654",
+         "field_search": "question",
+         "question": " Em muốn mua laptop giá trung bình phù hợp với cv của 1 sinh viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032333,
+         "id": "1138389",
+         "field_search": "question",
+         "question": "Iphone 6 của em mới thay pin nhưng bị tình trạng pin không tăng không giảm, chỉ giữ ở mức 2%, và bị khởi động lại liên tục, em đã nâng cấp lên phiên bản iOs 12 nhưng vẫn bị tình  trạng trên, em nên làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.993681,
+         "id": "1150440",
+         "field_search": "question",
+         "question": "Cho em hỏi là em tắt âm ở trên màn hình thông báo nhưng camera sam sung a5 năm 2016 của em vẫn bị kêu .Ad có thể giúp em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.935188,
+         "id": "1164732",
+         "field_search": "question",
+         "question": "Em Sinh năm 2000 mua điện thoại trả góp được không anh , chị. .?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.931423,
+         "id": "834464",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Em tên Đặng ngọc tuấn em có mua một điện thoại iphone 4s 8gb trả góp trong vòng một năm với số tiền đóng hàng tháng là 337.000vnd . Nhưng đến hôm nay điện thoại của em bị lỗi không sạc pin được em muốn hỏi TGDĐ là em muốn đem điện thoại đến để kiểm tra sữa chữa cho em nhưng em làm mất giấy bảo hành thì đem biên lau đóng tiền trả góp hàng tháng ra để kiểm chứng được không ạ ? Em vẫm còn chương trình dán màn hình 12 tháng mà ko cần giấy vẫn dán bình thường nhưng bảo hành thì sao ạ mong TGDĐ trả lời em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.898289,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.836338,
+         "id": "1015235",
+         "field_search": "question",
+         "question": "Em mua đt ở tgdd được hơn nửa năm rồi, bây giờ đt bị hư, vậy nếu em muốn sửa thì vào tgdd sửa được không ạ? Không có giấy bảo hành được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.791304,
+         "id": "1139405",
+         "field_search": "question",
+         "question": "Cho em hỏi là trước em vừa trả góp xong 1 con samsung note fe bây giờ em muốn mua trả góp tiếp samsung note 9 thì có cần phải xác nhận lại giấy tờ không ạ. giấy tờ trả góp cũ em vẫn còn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.732817,
+         "id": "758941",
+         "field_search": "question",
+         "question": "Em hỏi em là sinh viên năm nhất em muốn mua iphone 6 plus 16gb. trả góp trong vòng 12 tháng. vậy em phải đóng trước bao nhiêu vậy ạ. 1 tháng em phải trả bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71037,
+         "id": "1001912",
+         "field_search": "question",
+         "question": "E là học sinh mới chuẩn bị học đại học ngành lập trình máy tính ad cho e hỏi dòng máy nào giá từ 12-15tr phù hợp với   việc học lập trình của e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.708931,
+         "id": "1017943",
+         "field_search": "question",
+         "question": "khi một thành viên tắt thông báo zalo nhóm thì quản trị viên có biết được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

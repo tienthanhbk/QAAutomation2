@@ -1,0 +1,801 @@
+{
+   "id_query": "1006298",
+   "total": 30921,
+   "total_current": 100,
+   "max_score": 52.490417,
+   "origin_question": "cho em hỏi bên anh chị có nâng cấp anroid lên phiên bản mới không",
+   "hits": [
+      {
+         "score": 28.886253,
+         "id": "1157387",
+         "field_search": "question",
+         "question": "Mình dùng oppo A37, máy báo nâng cấp lên phiên bản mới. Theo mọi người có nên nâng cấp không ạ?  Phiên bản mới có bị lag không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.74635,
+         "id": "1162335",
+         "field_search": "question",
+         "question": "Điện thoại HTC phiên bản 4.4.2 nâng cấp lên phiên bản mới nhất được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.324156,
+         "id": "1162332",
+         "field_search": "question",
+         "question": "Điện thoại HTC phiên bản của Android 4.4.2 nâng cấp phiên bản lên được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.26206,
+         "id": "993181",
+         "field_search": "question",
+         "question": "Cho em hỏi, cái Ip 6 plus có nâng cấp lên phiên bản ios 11 đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.835226,
+         "id": "1023725",
+         "field_search": "question",
+         "question": "a ơi cho em hỏi mình có thể nâng cấp phiên bản android từ 5.1 lên 5.1.1 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.581913,
+         "id": "908535",
+         "field_search": "question",
+         "question": " Làm thế nào để nâng cấp từ phiên bản 8.1 lên phiên bản 10.0 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.543627,
+         "id": "1016543",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi là máy của em là ip 5s phiên bản 10.1.1 bây giờ em muốn nâng cấp lên phiên bản 10.3.3 bị lỗi anh cho em xin cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.994595,
+         "id": "766555",
+         "field_search": "question",
+         "question": " Em đang xài iphone 4s 16g phiên bản 6.1 em có nên nâng cấp lên 8.4 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.098398,
+         "id": "1166237",
+         "field_search": "question",
+         "question": "Cho em hỏi nokia8.1 cóa nâng lên anroid 10 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.808197,
+         "id": "792309",
+         "field_search": "question",
+         "question": " Có nâng cấp từ 4.4.4 lên 5.0 cho sony xperia e4 được không anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.553198,
+         "id": "1155270",
+         "field_search": "question",
+         "question": "Cho mình hỏi MediaPad T1 8.0 của mình bây giờ mới ở phiên bản 4.3, nếu muốn nâng cấp lên nhưng máy không có bản cập nhật mới thì có thể tải bản cập nhật đó ở đâu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.510614,
+         "id": "926033",
+         "field_search": "question",
+         "question": " 5s của e đang ios10.1,khi tải fb lại yêu cầu nâng cấp phiên bản mới,giờ e phải nâng cấp phiên bản bao nhiêu và ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.279362,
+         "id": "774542",
+         "field_search": "question",
+         "question": " Em muốn hỏi, em mới nâng Phiên bản IPhone 5s lên 9.2 thế 9.2 có lỗi gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.210243,
+         "id": "1153449",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 6 pro có nâng cấp lên phiên bản Android cao hơn 8.1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.85108,
+         "id": "746080",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi e đang dùng iphone 5s bản của mĩ (model a1533) . Em nâng cấp lên ios 9.0.2 e mua sim 4g sao ko dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.843712,
+         "id": "1135891",
+         "field_search": "question",
+         "question": "Máy của mình là máy Ip5s phiên bản 8.4.1 có nâng cấp được lên IOS 12 không shop. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.84358,
+         "id": "776663",
+         "field_search": "question",
+         "question": "Nâng cấp lên iOS 9.2 máy iPhone 5 khi đăng nhập vào itunes store để nâng cấp ứng phiên bản mới cho ứng dụng thì bị lỗi đang nhấp itune không thể đăng nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.824951,
+         "id": "767359",
+         "field_search": "question",
+         "question": "Có thể nâng cấp iPhone 4s (8G) từ 8.3 lên ios 9.2 không? cần dung lượng máy trống là bao nhiêu để cài nâng cấp lên 9.2 ? khi nâng cấp lên máy có nặng hơn không và sau khi nâng cấp lên thì có thế quay về phiên bản cũ được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.71725,
+         "id": "794045",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.599962,
+         "id": "835194",
+         "field_search": "question",
+         "question": " Em có con iphone 3gs đang ở phiên bản 4.1, muốn nâng cấp lên thì phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.554499,
+         "id": "1007931",
+         "field_search": "question",
+         "question": "chào anh/chịem đang sử dụng máy huawei gr5 2017, đã nâng cấp lên phiên bản 7.0 bây giờ em muốn hạ android xuống thì làm sao??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.480808,
+         "id": "834684",
+         "field_search": "question",
+         "question": " iPhone 6s 16 gb có nên nâng cấp lên phiên bản iOS 9.3.2 kg? Vì sao. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.428778,
+         "id": "760465",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi là em có 1 máy tính bàn chạy hệ điều hành Windows 8 em nâng cấp lên WIndows 10 thành công rồi em xóa phiên bản cũ bây giờ em khôi phục cài đặt gốc ( Xóa toàn bộ tệp tin) như vậy có vấn đề gì không qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.312302,
+         "id": "795906",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 4 thường nâng cấp phiên bản ios 8.0 đc không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.219099,
+         "id": "806416",
+         "field_search": "question",
+         "question": " em đang sử dụng điện thoại ip4s phiên bản 7.1.1 em muốn nâng cấp lên bản cao hơn thì làm như nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.091478,
+         "id": "777483",
+         "field_search": "question",
+         "question": "Mấy anh chị em bên TGDĐ cho em hỏi chút ạ, em vừa mua iPhone 5s 16GB trên TGDĐ nhưng không biết phiên bản 9.2 xài có ổn định không ah ? Nhờ anh chị em tư vấn giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.84023,
+         "id": "794053",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.750616,
+         "id": "778949",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao iPhone 4s của em khi nâng cấp lên phiên bản iOS 9.2.1 thì pin ảo hay tự động sập nguồn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.744183,
+         "id": "815091",
+         "field_search": "question",
+         "question": " Anh chị QTV ơi cho em hỏi iphone 4 của em đang chạy ios 7.1.2 bây giờ muốn nâng cấp lên ios 8 làm sao anh chi   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.677256,
+         "id": "757610",
+         "field_search": "question",
+         "question": "Chào anh chị ạ. Máy của em là iPhone 5. Giờ em chót lên phiên bản 9.1, giờ e muốn máy em xuống phiên bản 8.4.1 được không ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.59547,
+         "id": "926024",
+         "field_search": "question",
+         "question": " 5s của e đang hệ điều hành 10.1 nhưng khi tải fb lại báo phải nâng cấp,giờ nâng cấp lên phiên bản bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.582052,
+         "id": "787231",
+         "field_search": "question",
+         "question": " Cho em hỏi máy tính bản Mobell Tab 8 có nâng cấp hệ điều hành mới được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.330227,
+         "id": "782171",
+         "field_search": "question",
+         "question": " Cho em hỏi..em đang dùng iphone 5s bản 8.4.1...em có nên nâng cấp lên 9.1 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.24018,
+         "id": "856180",
+         "field_search": "question",
+         "question": "Chào Mod. Mod cho mình hỏi mình đang dùng IP5 đã jb ios 6.1. Vậy mình có thể nâng cấp lên IOS 8.1 được không, hay phải nâng cấp lên bản IOS mới nhất ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064735,
+         "id": "872522",
+         "field_search": "question",
+         "question": "Tại Sao Iphone 5 của em phiên bản mới 7.1.2 Nó cứ vậy em . Em vào cài đặt phền mềm rồi nhưng sao chẳng được . Anh chỉ em nâng cấp lên 8.0 với để e có thể cập nhật những ứng dụng khác . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.037691,
+         "id": "840693",
+         "field_search": "question",
+         "question": " admin ơi cho mình hỏi ipad mini1 nâng cấp phiên bản 9.3.2 bây h xương lại 8. được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.037075,
+         "id": "781413",
+         "field_search": "question",
+         "question": "Anh/Chị có thể cho em hỏi có thể nâng cấp trực tiếp từ IOS 7 trên iPhone 5S lên IOS 9 được không ạ? Nếu không thì làm cách nào? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.957605,
+         "id": "757643",
+         "field_search": "question",
+         "question": "Anh chị ơi em có mua điện thoại iphone 6s bên hàn quốc chính gốc không phải phiên bản quốc tế  vậy cho em hỏi đem về việt nam có sài được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.37304,
+         "id": "781686",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ khách hàng nâng cấp phiên bản ios 9.2.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.32888,
+         "id": "792736",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi em mua laptop dùng win8 vậy khi em nâng cấp lên win10 thì chế độ bảo hành vẫn giữ nguyên hay sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.204966,
+         "id": "1023385",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình vừa nâng cấp phiên bản 11.0 của iphon giờ mình muốm hạ xuống 10.3.3 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.180416,
+         "id": "764118",
+         "field_search": "question",
+         "question": "Chào anh(chị)Em mới mua một chiếc iPhone 5s LOCK 32G. Em nghe bảo cần jaibreak mới fix được hết lỗi. Em cần một lời khuyên là em nên nâng cấp lên IOS mấy? 8.4.1 hay là bản 9. Bản iOS 9 nếu hết lỗi thì 5s có nên lên không vì em sợ máy chưa đủ độ như 6 hay 6sEm cảm ơn !!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.113531,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.096199,
+         "id": "918262",
+         "field_search": "question",
+         "question": "cho mình hỏi ip3gs 16gb của mình đang ở phiêm bản 6.1.6 nhưng nó bị mất sóng.có cách nào khắc phục hay nâng cấp lên phiên bản nào thì nó có sóng lại được bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.930706,
+         "id": "794574",
+         "field_search": "question",
+         "question": " IMEI là 990002772306039 đây là phiên bản lock hay phiên bản quốc tế hả anh chị...... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.891108,
+         "id": "885271",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi a, máy em đang dùng iphone 4 , em lỡ xoá mất ưng dung youtube , em tải lai nhưng máy bắt buộc máy phải phiên bản 8.0 mới tải được , phiên bản của em hiện đang 7.1.2 , hay em co the sao luu ung dung duoc ko a? mong anh chị tư vấn cho em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.777435,
+         "id": "1156183",
+         "field_search": "question",
+         "question": "Mình mới mua 1 cái vsmart joy 1+ ,hệ điều hành android 8.1.0, giờ muốn nâng cấp lên phiên bản cao hơn thì phải làm thế nào ạ?? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.771355,
+         "id": "756549",
+         "field_search": "question",
+         "question": "Cho em hỏi iPad của em quên mất iCloud và bây giờ không mở máy được, vậy nếu em mang lên TGDD anh chị giúp em được không ạ? Máy phiên bản quốc tế ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.702007,
+         "id": "998776",
+         "field_search": "question",
+         "question": "cho e hỏi mobistar lai zumbo j có bản nâng cấp lên android 7.0 chưa ad. và làm thế nào để nâng cấp lên android 7.0 v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.627037,
+         "id": "754514",
+         "field_search": "question",
+         "question": " Phiên bản ios cao nhất ipad 2 nâng cấp được là bao nhiêu vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.574675,
+         "id": "800634",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng iPhone 4, sim ghép, phiên bản 5.1.1. Xin hỏi có thể nâng cấp lên phiên bản cao hơn đc ko? Nếu dc thì tính năng thoại có ảnh hưởng gì ko ? Trân trọng cảm ơn ! Lê Thi An",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.4224,
+         "id": "1153661",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi nâng cấp office 2010 lên 2016 thì có bị mất dữ liệu không ạ, và khi cập nhật lên office mới thì có cần xóa bản cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.417103,
+         "id": "954883",
+         "field_search": "question",
+         "question": " Cho em hỏi IPhone 4 nâng cấp lên 8.0 được không ạ.em thấy có người nâng cấp lên được .AD cho em xin í kiến với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.404724,
+         "id": "750375",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi .em chơi game lmth vô không được nó hiện lên màng hình là lỗi drirectX không xát định đã xảy ra lmht không chạy được .vui lòng đảm bảo card màng hình của bạn đã nâng cấp lên driver mới nhất của nhà sản xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.333986,
+         "id": "748122",
+         "field_search": "question",
+         "question": "mấy anh chị cho e hỏi bên mình có thể up io9.1 xuống ios 9.0 hay 8.4 k, để em cài cydia , hay bên thế giới di động mjnh có thể cài cydia cho phiên bản 9.1 k vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.318132,
+         "id": "807504",
+         "field_search": "question",
+         "question": " Chào anh chịEm có nên nâng cấp IOS 9.3 không?ios 9.3 có những ưu điểm nào ạ.THANKS anh chị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.233238,
+         "id": "1000025",
+         "field_search": "question",
+         "question": "Nâng cấp phien bãn của j7prime có j ms k có chậm hơn phiên bản củ k ...ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.224167,
+         "id": "794039",
+         "field_search": "question",
+         "question": " Iphone 5s 16g mới mua về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp tại nhà k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.106865,
+         "id": "1001626",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi tý ạ.Em có nhu cầu mua https://www.thegioididong.com/laptop/dell-vostro-3568-i7-7500uNhưng muốn gắn thêm ổ SSD 240 GB và Nâng cấp Ram 4GB lên Ram 16 GB thì giá sẽ thay đổi thế nào ạ. Anh/chị báo lại giá đã có VAT giúp em nhé.Em cảm ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.067694,
+         "id": "1133540",
+         "field_search": "question",
+         "question": "Iphone 6 có lên phiên bản 12 được ko bạn mình muốn lên phiên bản mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06203,
+         "id": "1012013",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi imei 355673073893732 có phải điện thoại bên anh chị không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.999699,
+         "id": "1158070",
+         "field_search": "question",
+         "question": "cho em hỏi có thể tải viber phiên bản cũ cho điện thoại android không ? em tìm trên chplay chỉ thấy phiên bản mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.932825,
+         "id": "882990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. em lỡ update Iphone 5s của em lên phiên bản IOS 9.3.5 giờ nó hao pin nhanh quá em muốn hạ xuống IOS 9.3 thấp hơn hoặc 9.2 có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.92758,
+         "id": "1160021",
+         "field_search": "question",
+         "question": "Bên shop mình đã có galasy s10 phiên bản nâng cao 12 g ram chưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.825329,
+         "id": "966141",
+         "field_search": "question",
+         "question": " Qtv ơi e đang sử dụng iphone 4s nhưng phiên bản là 7. Giờ e muốn nâng cấp lên 8. Thỳ làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.81055,
+         "id": "1166905",
+         "field_search": "question",
+         "question": "Cho em hỏi Realme 2 có được nâng cấp lên ColorOs 6 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.80872,
+         "id": "1011460",
+         "field_search": "question",
+         "question": "xin chào! anh chị cho em hỏi bên anh chị có bán USB 32 GB Kington không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.776894,
+         "id": "895818",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi. Hiện tại iphone nâng cấp điều bị lỗi hả. Iphone của e 5s. Phiên bản 8.3 muốn nâng cấp lên 10.0 mà k biết có nên k. Tại ms đọc đc thông tin là nâg cấp bị lỗi nên e cũg đag k biết có nên nag cấp hay k. Mog ad cho câu trl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.658846,
+         "id": "840931",
+         "field_search": "question",
+         "question": " Nâng cấp lên ios 9.3.2 có bị mất ứng dụng và anh danh bạ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.644705,
+         "id": "799144",
+         "field_search": "question",
+         "question": " Laptop em đang dùng win 8.1 bản quyền, em muốn nâng cấp lên win 10 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.591492,
+         "id": "893924",
+         "field_search": "question",
+         "question": "em muốn ra hàng nâng cấp laptop dell của em lên win 10 với nâng cấp microsoft office(mấy cái word, powerpoint các thứ ý ạ)lên bản 2016 thì có mất tiền không ạ? em k dám nâng cấp tại nhà vì sợ lag máy các thứ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.558622,
+         "id": "754754",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang dùng con iPhone 5s quốc tế a1533 . em đang bên china bên đó có 4g sao em lắp sim 4g vào mà chỉ hiện E không có 4g 3g cũng không thấy là sao em thắc mắc lâu rồi bực mình nữa của em nâng cấp lên ios 9.1 hay là nâng cấp lên bị như vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.557938,
+         "id": "831356",
+         "field_search": "question",
+         "question": " em cài nhạc từ itunes phiên bản 12.4 anh chị nào hướng dãn dc k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.50522,
+         "id": "817064",
+         "field_search": "question",
+         "question": "dạ máy asus e có bản quyền win8 vậy e muốn nâng cấp lên win 10 e vào tgdd nâng cấp được không ạ? mất nhiều thời gian không ạ? khi đi nâng cấp có cần giấy tờ hay gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.478022,
+         "id": "776971",
+         "field_search": "question",
+         "question": " Anh cho em hỏi có nên cài đặt phiên bản ios 9.2.1 cho iPhone 5 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.474792,
+         "id": "783748",
+         "field_search": "question",
+         "question": "QTV cho em hỏi khi máy cập nhật lên phiên bản mới như ios 7 thì máy có bị mất dữ liệu như app hay phim nhạc không ạ? Vì máy em sài phiên bản cũ rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.387043,
+         "id": "867619",
+         "field_search": "question",
+         "question": " Cho e hỏi e dung ios 7.1.2 giờ muốn nâng cấp lên ios 8.0 có dươc không ạ có cách nào nâng cấp lên không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.340942,
+         "id": "799636",
+         "field_search": "question",
+         "question": " Anh chị ơi cho em hỏi máy em vừa update facebook lên bản mới nhất thì em vô cứ bị dis ra là lỗi j v ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.315535,
+         "id": "805797",
+         "field_search": "question",
+         "question": " Cho em hỏi là iphone 5s có nên nâng cấp lên ios 9.3 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.186813,
+         "id": "1138389",
+         "field_search": "question",
+         "question": "Iphone 6 của em mới thay pin nhưng bị tình trạng pin không tăng không giảm, chỉ giữ ở mức 2%, và bị khởi động lại liên tục, em đã nâng cấp lên phiên bản iOs 12 nhưng vẫn bị tình  trạng trên, em nên làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.178202,
+         "id": "1151542",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.163376,
+         "id": "1137001",
+         "field_search": "question",
+         "question": "Em có máy Dell Vostro 5470 dòng i7, em muốn nâng cấp ram lên 8Gb hoặc 16Gb. Cho em hỏi là thegioididong có dịch vụ nâng cấp ram không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.06079,
+         "id": "972829",
+         "field_search": "question",
+         "question": " máy tính em muốn chơi game h muốn nâng cấp. bên mình có nâng cấp máy tính không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.052416,
+         "id": "996999",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng iPhone 6 từ ngày nâng cấp phiên bản 10.2 touchid dấu vân tay của e không dùng được ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.04089,
+         "id": "1135365",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em đang bị lỗi : DỪNG CUỘC GỌI KHI VIDEO CALL TRÊN MỌI ỨNG DỤNGem dùng con Lenovo S90 - A , đã nâng cấp androin của máy lên phiên bản mới nhất , update messenger,facebook,viber,skype,... lên mọi phiên bản mới nhất.Em gọi video call , trên máy vẫn hiện ra hình ảnh em , nhưng ko hiện ra hình ảnh người bên kia mà báo là : ĐANG CHỜ KẾT NỐI . xong rồi 5s nó tự động ngắt cuộc gọiEm đã thử dùng messenger, skype, viber,.. đều bị như vậy khi call = video, call thường rất okay.Admin giúp em vớiEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.002598,
+         "id": "1163043",
+         "field_search": "question",
+         "question": "Cho em hỏi dòng laptop asus ram 4gb có nâng cấp lên ram 8fb đc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.908005,
+         "id": "1140820",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone có thể nâng cấp lên ios mấy là cao nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.878468,
+         "id": "782172",
+         "field_search": "question",
+         "question": " Em đang dùng 5s..em muốn hỏi có nên nâng cấp lên 9.1 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.85048,
+         "id": "792920",
+         "field_search": "question",
+         "question": " Em sài iphone 6 sao không cập nhật đc fb phiên bản mới mặc dù đã có phiên bản mới rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.785164,
+         "id": "1139659",
+         "field_search": "question",
+         "question": "Anh ơi Cho em hỏi máy em oppo f1s lúc trước e nâng cấp lên Android 6.0 giờ em muốn ve lại Android 5.1 phải làm sao anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.759863,
+         "id": "811550",
+         "field_search": "question",
+         "question": "Cho em hỏi là Thế Giới Di Động có hỗ trợ việc nâng cấp ram cho Laptop không ạ.Em đang dùng máy Dell Inspiron 14 3421RAM có sẵn là 2GB em muốn nâng cấp lên, vậy Thế Giới Di Động có hỗ trợ nâng cấp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.749702,
+         "id": "1141304",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi , em thắc mắc ko biết bản cập nhật hệ điều hành android smartphone samsung do ai cung cấp ạ , như sony thì nsx sony cung cấp để nâng cấp thiết bị , còn nokia thì nhà sx sẽ gởi bản cập nhật cho hệ điều hành nokia để nâng cấp thiết bị , còn apple thì nhà sx gởi bản cập nhật thiết bị cho apple để hệ điều hành apple nâng cấp thiết bị , samsung , huawei , opple ... cũng như vậy . Vậy cho em hỏi , bản cập nhật thiết bị/hệ điều hành android smartphone của hãng đó do nhà cung cấp gởi qua smartphone mình để nâng cấp thiết bị/hệ điều hành đó phải ko ạ . Vậy bên ngoài có thể gởi bản cập nhật cho mình ko , như 1 trang web hay ứng dụng nâng cấp smartphone mình , mà bản nâng cấp đó ko phải do nhà sx cung cấp mà tự nó làm , liệu 1 trang web hay ứng dụng có thể nâng cấp smartphone mình ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.7442,
+         "id": "858282",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là e đang dùng iphone5s mua từ tgdd, và e đã nâng cấp lên ios10.2 . Và tự nhiên facebook của e không xuất hiện tính năng livestream nữa, mặc dù e đang dùng phiên bản fb mới nhất. Mong được ad giúp đỡ.Email. Minhhuymtp@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.728718,
+         "id": "812198",
+         "field_search": "question",
+         "question": "Cho hỏi mình mua iPhone 4s mới tháng 1, mình nâng cấp lên iOS 9.3 cho hỏi trước khi nâng cấp máy mình là hệ điều hành iOS 8. mấy nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.711243,
+         "id": "1151587",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy? Mà máy của mình không mua tại cửa hàng tgdd thì có thể lại của hàng nâng cấp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.685215,
+         "id": "811430",
+         "field_search": "question",
+         "question": "Em mới mua ĐT IPhone 4s phiên bản 8.3.bây giờ ĐT em có phiên bản 9.3.1 em có nên cập nhật phiên bản này không.có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.6608,
+         "id": "1154947",
+         "field_search": "question",
+         "question": "Mình có samsung note 8 phiên bản android 7.1.1 giờ muốn nâng lên 8 thì ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.633718,
+         "id": "768358",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5S hiện đang dùng iOS 9.0.2  theo bạn có nên nâng cấp lên 9.2 không.liệu nâng cấp lên 9.2 thì máy có bị lỗi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.624525,
+         "id": "742452",
+         "field_search": "question",
+         "question": " Máy em iPhone 5 xài iOS 6 giờ nâng cấp hệ điều hành lên iOS 7 hay iOS 8 có được không hay lên là lên bản cao nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

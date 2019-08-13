@@ -1,0 +1,801 @@
+{
+   "id_query": "770193",
+   "total": 35055,
+   "total_current": 100,
+   "max_score": 400.3996,
+   "origin_question": "Apple đang là thương hiệu đắt giá nhất thế giới, sản phẩm đang còn sản xuất hiện nay có giá thấp nhất là Iphone 4s cũng ngang bằng sản phẩm có giá tầm trung của những thương hiệu khác, Cách thức bán hàng của Apple cũng rất đặc biệt, bạn phải thanh toán tiền, bạn mới được phép khui hộp và Active sản phẩm. Nhưng hiện nay có nhiều cửa hàng đã \"treo đầu dê bán thịt chó\", lừa khách hàng bằng cách mua một máy dựng hoặc một máy đã qua sử dụng để đóng hộp lại y như máy mới. Bằng cách thức này họ có thể kiếm được lợi nhuận rất cao nhưng lại đem đến cho những khách hàng nhiều nguy cơ như hư hỏng cháy nổ vì không đảm bảo chất lượng.Vì để cho chúng ta được sử dụng một sản phẩm mới- chính hãng- an toàn- chất lượng, mình sẽ hướng dẫn các bạn các bước để kiểm tra máy của hãng Apple​Như vậy sau 5 bước chúng ta đã có thể xác định được máy của mình có an toàn - chất lượng hay không rồi. chúc các bạn mua được những sản phẩm chính hãng để sử dụng được yên tâm hơn.",
+   "hits": [
+      {
+         "score": 168.67708,
+         "id": "1005237",
+         "field_search": "question",
+         "question": "Cho mình hỏi về chất lượng của những sản phẩm đã sử dụng được bán lại trên TGDĐ như thế nào ạ. Có chất lượng không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 154.80132,
+         "id": "791100",
+         "field_search": "question",
+         "question": "Cho mình hỏi: trên thị trường hiện nay có các sản phẩm laptop mà người ta nâng cấp core như i3 lên i5,rồi nâng cấp ram rồi bán cho khách hàng như sản phẩm mới không?mình xem 1 số sản phẩm laptop của thegioididong.com và phongvu tên sản phẩm khá giống nhau nhưng core và ram cao hơn giá lại khá mền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 148.79738,
+         "id": "1013473",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi.em có mua 1 sản phẩm đã qua sử dụng tại thế giới di động huyện hòa bình tỉnh bạc liêu hiện tại em không thích sản phẩm đó nữa thì có được áp dụng hình thức đổi trả không sản chỉ mới mua 4 ngày thôi hóa đơn hộp phụ kiện của sản phẩm còn đầy đủ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 146.81421,
+         "id": "1143676",
+         "field_search": "question",
+         "question": "cho hỏi với sản phẩm vsmart joy 1 mình vừa nhận được phiếu mua hàng bồi thường do không có máy giao như lịch hẹn, phiếu có giá 200k. Có áp dụng đặt hàng online với các sản phẩm đang giam giá rồi hôm sau đến nhận hàng và trả bằng phiếu mua hàng được không được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 139.35243,
+         "id": "986554",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại nokia 130 ở TGDD, đã sử dụng được một tuần và cảm thấy không phu hợp, mình muốn đổi một sản phẩm khác có được không ạ, sản phẩm cao giá hơn mình đồng ý bù tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 139.24887,
+         "id": "1023762",
+         "field_search": "question",
+         "question": "Cho e hỏi câu này nghĩa là như thế nào? .\" Trường hợp sản phẩm đổi hết hàng, khách hàng có thể đổi sang sản phẩm khác cùng nhóm hàng có giá trị lớn hơn 50% giá trị sản phẩm lỗi \" .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 138.33336,
+         "id": "1011353",
+         "field_search": "question",
+         "question": "2 tuần trước em có mua một sản phẩm bên thế giới di động nhưng là sản phẩm đổi trả , nhân viên có nói là có thể đổi máy tương ứng với giá tiền của máy , vì máy sử dụng không được tốt cho lắm nên em có thể đổi máy khác với giá tương ứng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 134.22522,
+         "id": "762708",
+         "field_search": "question",
+         "question": "Em muốn mua sản phẩm iPhone 5S cũ. Cho em hỏi hệ thống cửa hàng tại Lào Cai có không ạ? Và mức giá như thế nào ạ? Dùng sp iPhone đã qua sử dụng có yên tâm về chất lượng không ạ? Có bảo hành không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 133.74052,
+         "id": "792034",
+         "field_search": "question",
+         "question": "Mình mới mua sản phẩm Apple iPhone 5s bên thegioididong.sử dụng được gần 1 tháng mình thấy pin của Apple iPhone 5s tụt rất nhanh.có khi sạc đầy chỉ sử dụng được tầm hơn 2h đồng hồ.vậy mình muốn hỏi sản phẩm có bị lỗi về pin hay không !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 133.14056,
+         "id": "993060",
+         "field_search": "question",
+         "question": "Cho mình hỏi ? Mình mua máy Sony Xperia XZs được 2 tháng rồi giờ muốn bán lại thì cách tính giá trị sản phẩm như thế nào ? Và bộ sản phẩm khuyến mại của hãng liệu bên TGDD có lấy lại hay không ?hay vẫn là của mình ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 132.53668,
+         "id": "858053",
+         "field_search": "question",
+         "question": "Ad cho em hỏi thegioididong.com có bán iPhone 5 mới 99% phải không vậy?Vậy chất lượng máy thế nào ? Máy mới 99% có phải khách hàng đã qua sử dụng một thời gian sau đó bán trả lại cửa hàng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 128.81686,
+         "id": "786102",
+         "field_search": "question",
+         "question": "Mẫu concept này cho thấy Iphone 7 có độ mỏng tuyệt vời, mỏng hơn rất nhiều so với Iphone 6,Đây là câu hỏi có khá nhiều người quan tâm. Hãng Apple có một thường ra mắt thế hệ iPhone mới vào tháng 9 - đây được coi như một thông lệ từ những phiên bản trước. Như vậy, nếu như Apple tiếp tục truyền thống của mình, chúng ta có thể trông đợi iPhone 7 được ra mắt vào tháng 9/2015.Đây là hình ảnh chiếc iPhone mà cộng đồng công nghệ đang truyền tay nhau. Với những đường nét khá giống với iPhone 6, iPhone hứa hẹn sẽ mang lại nhiều tính năng cũng như tiện ích vượt trội hơn so với người tiền nhiệm của mình.Cộng đồng mạng cũng bổ xung thêm những đồn đoán về mẫu Iphone 7 nàyKhông chỉ là đồ họa cho sản phẩm sắp lên kệ của Apple, nhà thiết kế Jermaine Smit còn mang đến cả một mô hình iPhone 7 khá ấn tượng với những đường nét tinh xảo. Chiếc iphone 7 concept này được thiết kế với không viền màn hình và tối ưu với màn hình rộng và bo xung quành bằng hợp kim nhôm. Cùng với các tính năng khác như công nghệ sạc pin nhanh, nút Home được tích hợp máy quét vân tay.Các thông tin chi tiết về phần cứng chưa được tiết lộ nhiều. Dự kiến iPhone 7 sẽ có một phiên bản màn hình 4.7 inch và một phiên bản màn hình to hơn. Sản phẩm được trang bị RAM 2GB, máy ảnh trước 4MP hỗ trợ nhiều tính năng trên nền tảng cùng iOS 9.Giá iPhone 7 bao nhiêu cũng là từ khóa hiện đang được tìm khá nhiều. Theo như một số thông tin chúng tôi tổng hợp được thì iPhone 7 được giới phân tích dự đoán là mẫu iPhone được cái tiến về phần cứng mạnh mẽ gấp 2,5 lần iPhone 6 với chip xử lí A9 siêu mạnh trên nền tản 64 bit. Việc này cũng có thể ảnh hưởng đén giá bán của iPhone 7. Như tờ Inquirer đã đưa tin thì giá của chiếc iPhone 7 vẫn chưa được công bố, nhưng có thể nó có giá tương đương với chiếc iPhone 6 hồi năm ngoái.Nếu Apple công bố iPhone 7 Plus với màn hình lớn hơn, giá của thiết bị công nghệ này dự đoán rơi vào khoảng 619 bảng Anh, 699 bảng Anh hoặc 789 bảng Anh, tương ứng với các phiên bản 16 GB, 64 GB và 128 GB.Là một trong đối tác lắp ráp sản phẩm lớn của Apple, Foxconn đang có kế hoạch đầu tư một nhà máy sapphire tại Đài Loan với giá trị ước tính vào khoảng 2,6 tỷ USD. Chính thông tin này khiến người ta đồn thổi các thông tin về iPhone 7 sẽ được trang bị màn hình kính sapphire.Daily Mail cho rằng ngày phát hành iPhone mới có thể còn phụ thuộc vào Apple Watch, sản phẩm sẽ xuất hiện trên thị trường vào đầu năm sau. Đây là sản phẩm then chốt của hãng và hứa hẹn mở ra kỷ nguyên mới về thiết bị đeo.Với một số hình ảnh và thông tin mới nhất về iPhone 7 mà chúng tôi đã tổng hợp trên đây, hi vọng sẽ thỏa mãn được phần nào những thông tin mà bạn đọc đang tìm kiếm. Cùng chiêm ngưỡng thêm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 128.45998,
+         "id": "758182",
+         "field_search": "question",
+         "question": " Các bạn xem giúp tôi máy này có là hàng của hãng không và năm sản xuất, nước sản suất?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 127.936226,
+         "id": "795893",
+         "field_search": "question",
+         "question": "hiện tại mình đang sử dụng sản phẩm Apple iPhone 5s của thegioididong..mình luôn thắc mắc về hiệu năng của pin...nên mình muốn hỏi iphone 5s có nên sử dụng các ứng dụng bảo vệ pin và các ứng dụng đó là những ứng dụng nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 125.552956,
+         "id": "1021437",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có sạc Lumia 730 chính hãng không và nếu có giá của sản phẩm là bao nhiêu? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 125.243484,
+         "id": "917870",
+         "field_search": "question",
+         "question": "mình mới mua sản phẩm dell 3452, nhưng khi sử dụng , khi mở các ứng dụng điều hiện lên hộp thoại hoài, không sử dụng được cái gì cả. vậy có nghĩa là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 125.15108,
+         "id": "1000220",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về laptop. Mình đang kiếm laptop asus gl553ve nhưng thấy bên cửa hàng ko có bán sản phẩm này. Cho mình hỏi là bên mình trong thời gian gần nhất có nhập dòng này về không và có thể cho mình thời gian chính xác được không? Thanks cửa hàng rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 125.14004,
+         "id": "1166798",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút, mình đang dùng sản phẩm note FE, ,àn hình vẫn sử dụng tốt, muốn thu cũ và mua mới sản phẩm galaxy a70, có được không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 124.405106,
+         "id": "994695",
+         "field_search": "question",
+         "question": "1. Nội dung: khách hàng mua sản phẩm iPhone và iPad chính hãng tại hệ thống Thegioididong.com bị lỗi kĩ thuật do nhà sản xuất, trong vòng 1 năm (12 tháng) kể từ ngày active (kích hoạt) được áp dụng chính sách 1 đổi 1 tại các điểm bảo hành của hãng Apple. Gửi dùm đến bộ phận chăm sóc khách hàng dùm . Cám ơn\r\nChính sách bảo hành 1 đổi 1 :",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 124.067245,
+         "id": "1020578",
+         "field_search": "question",
+         "question": "Hiện hệ thống cửa hàng mình có mua lại các sản phẩm của samsung không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 123.29557,
+         "id": "1012643",
+         "field_search": "question",
+         "question": "em có mua vài sản phẩm được bảo hành 1 năm nhưng hiện nay đã bị trục trặc, vậy liệu em có thể đem đến cửa hàng đổi mới được không ạ. thiết bị của em có 1 vài trầy xướt do sử dụng, rơi rớt thì vẫn được bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 123.26151,
+         "id": "837525",
+         "field_search": "question",
+         "question": "Cho e hỏi ngày mà hãng apple ngừng sảm xuất sản phẩm iphone 5s và máy mua ở thế giới di động vào ngày 31/05/2016 và được bóc hộp thì là máy mới hay máy dựng...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 122.73514,
+         "id": "995111",
+         "field_search": "question",
+         "question": "Mình có mua một laptop Asus tại cửa hàng thế giới di động cách đây khoảng 8 tháng. Theo như thông tin lúc mới mua thì sản phẩm được bảo hành trong 2 năm, nay mình muốn mang đến trung tâm bảo hành để nâng cấp Ram.Vì giấy tờ lúc mua mình không nhớ là để đâu rồi nên mình muốn hỏi nếu mang sản phẩm ra TGDĐ thì có thể nhờ các anh chị nhân viên kiểm tra chứng thực thông tin bảo hành giúp mình không ? ( Lúc mua mình có khai báo họ tên, số đt, CMND...) Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 122.613,
+         "id": "769762",
+         "field_search": "question",
+         "question": "Chào ad,Mình hiện có 1 laptop đã mua cách đây 4 năm, hiệu ACER của thegioididong, hiện mình muốn bán lại để đổi sang sở dụng sản phẩm khác. Cho mình hỏi chế độ chính sách thu lại như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 120.31748,
+         "id": "1161338",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao a10 lại có giá rẻ vậy, liệu chất lượng sản phẩm có tốt hay không? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 119.77675,
+         "id": "999705",
+         "field_search": "question",
+         "question": "Chào ad, mình vừa mua 1 con tab 7s 1tr690 tại thế giới di động hôm qua nhưng do nhu cầu công việc không cần nữa nên mình muốn trả sản phẩm lại. Mình tham khảo thấy giá trả sản phẩm sẽ còn lại 80% giá mua ban đầu. Sản phẩm mình đã mở hộp nhưng chưa cài đặt gì nhiều. Cho hỏi có đúng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 117.687935,
+         "id": "996998",
+         "field_search": "question",
+         "question": "Chào bạn ! Bạn cho mình hỏi, mình muốn mua 1 sản phẩm bên cửa hàng. Khi thanh toán mình có thể vừa chạc thẻ và vừa thanh toán thêm tiền mặt 1 lúc được không vậy ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 116.86539,
+         "id": "1150084",
+         "field_search": "question",
+         "question": "mình mua và dùng , nhiều sản phẩm của Samsung, mình đang định mua một cái Galaxy Watch 46mm , Samsung thiết bị chống nước 50m hoặc chống nước 5atm ...nhưng Samsung lại khuyến cáo khách hàng nên làm tay khô trước khi sử dụng sản phẩm là sao ?????? liệu sp sau khi mua và gặp lỗi hỏng vì nước dù chỉ tắm hoặc đi mưa thì sp có được bảo hành không.... samsung chơi kiểu mập mờ , tiêu chuẩn chống nước 5atm , nhưng phải dùng sp khi tay khô ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 116.29427,
+         "id": "765665",
+         "field_search": "question",
+         "question": "Chào TGDD, Mình hộ khẩu là Tỉnh Lâm Đồng, hiện tại mình muốn mua sản phẩm iPhone 6 đã qua sử dụng với hình thức là: CMND + GPLX, trả trước 50%. Vậy cho mình hỏi hình thức như vậy mình có mua trả góp được không. Mình mua sản phẩm tại Siêu Thị TGDD tại Bình Dương.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.89858,
+         "id": "842334",
+         "field_search": "question",
+         "question": "xin chào cửa hàng.hiện tại mình đang sử dụng sản phẩm Apple iPhone 5s mới mua được 4 tháng bên cửa hàng.nhưng trong quá trình sử dụng để lướt web hay chụp ảnh mình thấy máy có hiện tượng nóng ran máy.nhất là sau khoảng thời gian bật 3G hay thu sóng wifi là máy nóng ran.vậy mình muốn hỏi cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.71757,
+         "id": "1011774",
+         "field_search": "question",
+         "question": "Add ơi hm bữa e có mua sản phẩm của thế giới di động giờ e muốn đổi sản phẩm mới mà bị mất hộp có đổi được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.58782,
+         "id": "772909",
+         "field_search": "question",
+         "question": "Mình có mua sản phẩm iphone4s của cửa hàng. Tại một phần mình chưa dùng iphone bao giờ. Nhưng mình cảm thấy iphone hết pin rất nhanh. Mình dùng từ sáng đến tối là đã gần hết pin rồi(không phải là sử dụng liên tục bạn nhé). Còn sạc thì lên cũng nhanh. Mình cắm củ sạc thì chắc khoảng 1h30 là đươc 90% rồi. Vậy cho mình hỏi iphone của mình có bị chai pin hay hỏng gì không bạn. Mong bạn trả lời giúp mình. Cám ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.43841,
+         "id": "588145",
+         "field_search": "question",
+         "question": "Các bước thực hiện như sau:: Tiếp theo bạn chọn vào .: Nhập mật khẩu để khóa ứng dụng.: Một danh sách các ứng dụng hiện ra để bạn có thể khóa, ví dụ ở đây mình sẽ khóa ứng dụng App Store để không cho người được mượn cài đặt thêm ứng dụng mới và không cho phép gỡ bỏ ứng dụng thì mình sẽ chọn như hình.Nếu bạn muốn gỡ bỏ việc khóa ứng dụng thì bạn cũng thực hiện lại các bước tương tự và kích hoạt lại các ứng dụng mà bạn đã khóa.Chúc các bạn thành công!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.39133,
+         "id": "754909",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang định mua cái này iPhone 5S 16GB, có bạn này bán với giá rẻ, hàng xách tay SingaporeiPhone 5s 16gb. Xách tay nguyên bản phụ kiện fullbox, máy mới 100% bảo hành 12 tháng- bao đổi trong 1 tháng đầu nếu lỗi do nhà sản xuấtGía chỉ còn 3,500,000vndVậy giờ mình phải kiểm tra thế nào mới biết được đây phải hàng chính hãng, hàng tốt không, phải hàng dựng hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.26923,
+         "id": "1164274",
+         "field_search": "question",
+         "question": "Sản phẩm s10 hàng cũ thì khi mua có được áp dụng mã giảm giá của samsung tặng không nhỉ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.62246,
+         "id": "779246",
+         "field_search": "question",
+         "question": "Cho mình hỏi, tại sao iPhone 5S mình mua tại cửa hàng Thegioididong.com khi mình kiểm tra IMEI trên trang Apple thì không biết sản xuất ở nước nào vậy ban. Và mình kiểm tra bằng iTools 3 thì cũng k biết ? chỉ biết ngày active, vì mình thấy những máy của bạn mình đều có. bạn giải đáp giúp mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.60797,
+         "id": "1018322",
+         "field_search": "question",
+         "question": "ad cho em hỏi. E có 1 sản phẩm được mua bằng phiếu mua quà và đã bị hỏng thì có được đổi hàng không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.49724,
+         "id": "1024054",
+         "field_search": "question",
+         "question": "Cho tôi hỏi TGDĐ huyện Giồng Trôm. Sản phẩm mobiistar lai zumbo s lite(2017) đang có hàng tại TGDĐ mình phải ko vậy. Các bạn có thể làm video đánh giá được không. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.20819,
+         "id": "1142334",
+         "field_search": "question",
+         "question": "chào AD , cho mình hỏi chút về sản phẩm lapt acer E5 476 , mình vừa mua ngày 1/1/2019, qua 2 ngày sử dụng mình thấy một điệm khá bất thường , khi sử dụng sản phẩm, để ý nghe kỹ sẽ nghe được một hiện tượng bên trong máy có tiếng rè rẹt rẹt bên trong (ko phải quạt tản nhiệt) mà ở bộ phận khác. Cho hỏi đây là lỗi gì ở máy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 111.85761,
+         "id": "972768",
+         "field_search": "question",
+         "question": "MÌnh có mua sản phẩm iphone 5s hồi tháng 12-2016 fullbox, có tai nghe đi kèm, thì tai phải bị hạn chế nghe không bình thương không biết mình có sản phầm có bảo hàng không ? 352086079785146 imei của máy đó cửa hàng. kiểm tra giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 111.17106,
+         "id": "765815",
+         "field_search": "question",
+         "question": "Tôi mua máy iPhone 6 64G, vừa đúng hết thời gian bảo hành 1 tuần là xảy ra hiện tượng màn hình cảm ứng bị đơ, không thể tắt máy hay sử dụng các thao tác trên máy được. Tôi gửi hãng để kiểm tra, nhưng hãng tra lời hết bảo hành, không có chính sách sủa chữa, mà chỉ có chính sách đổi điện thoại mới phải trả tiền 7,5 triêu đồng.  Tôi thấy rất không thuận tiện cho khách hành khi sử dụng . Tôi cảm thấy như bị lừa. Các bạn có lời khuyên nào cho trường hợp này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 111.07898,
+         "id": "826331",
+         "field_search": "question",
+         "question": "Chào bạn! bạn có thể kiêm tra hộ mình xem imei đây: 013969004693470 là iphone hàng dựng hay hàng nguyên bản nhé! mình cũng kiểm tra qua trang http://iphoneimei.info/ thì có hiển thị được máy là Iphone 5s bản gold 32 Gb nhưng khi mình kiểm tra trên trang https://checkcoverage.apple.com/ trang chính hãng của apple lại không hiển thị và báo lỗi. Rất mong sớm được ý kiến phản hồi của bạn Thank...!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.995544,
+         "id": "1153968",
+         "field_search": "question",
+         "question": "Điện thoại mình OPPO CPH 1821 không thể tải liên quân Ứng dụng báo ; sản phẩm không tương thích với điện thoại của bạn Sản phẩm không có sẵn ở quốc gia của bạn Cho em hỏi là sau a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.894226,
+         "id": "1014331",
+         "field_search": "question",
+         "question": "TGĐ của mình có thanh toán điện thoại củ khi khách hàng có nhu cầu đổi sản phẩm k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.631035,
+         "id": "878198",
+         "field_search": "question",
+         "question": "Mình mua laptop HP Probook 4411S tại thegioididong. Hiện pin máy đã hỏng và mình cần thay. Bên bạn có sản phẩm pin cho máy này không và giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.62874,
+         "id": "807514",
+         "field_search": "question",
+         "question": "Hiện tại mình đang cần mua một laptop giá tầm 4 triệu, mình xem tại TGDD thì có sản phẩm Lenovo ideapad 100s có cấu hình tốt nhất trong tầm giá này. Nhưng hiện tại mình đang phân vân vài vấn đề.- Với cấu hình như thế thì mình có thể chơi được một số game như LOL hay không ?(trên mạng có review cấu hình này chơi ở low setting được)- Máy có được bán trả góp hay không ?- Chế độ bảo hành thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.37514,
+         "id": "1136834",
+         "field_search": "question",
+         "question": "Có cách nào kiểm tra máy xách tay Mỹ ví dụ như Samsung Galaxy S9+ Mỹ là hàng chính hãng Samsung, không phải hàng dựng, chất lượng tốt......nói chung là kiểm tra coi phải hàng thật được không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.35295,
+         "id": "1009971",
+         "field_search": "question",
+         "question": "Cho e hỏi tầm giá dưới 4 triệu hiện nay, e cần 1 sản phẩm cấu hình vừa phải, pin tốt thì sản phẩm nào là lựa chọn hàng đầu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.07028,
+         "id": "1003610",
+         "field_search": "question",
+         "question": "Là sao ạCó phải vậy kg a.   XẢ HÀNG TỒN KHO IPHONE 5-5S VỚI GIÁ 100.000VND - Chương trình khuyến mãi cho 10.000 khách hàng đầu tiên, áp dụng trên toàn quốc đến ngày 18/07/2017- Thế Giới Di Động cần thúc đẩy doanh số nên thế giới di động ra chương trình khuyến mãi xả kho iphone 5-5s với giá 100.000VND- Không mất nhiều thời gian tham gia chương trình khuyến mãi chỉ cần làm theo các bước sau đây để tham gia sự kiện mua iphone 5-5s với giá 100.000VND- Bước 1: LIKE/THÍCH trang thế giới di động - Bước 2: chia sẽ công khai bài viết này trên tường của bạn- Bước 3: comment màu điện thoại mà bạn muốn muaLƯU Ý: Chỉ những bạn đã like và chia sẽ công khai bài viết này mới được chúng tôi liện hệ hướng dẫn đặt hàng- Truy cập WEB: thegioididong.com để biết thêm chi tiết.- Kết quả chương trình sẽ công bố vào ngày 18/07/2017 tại WEB: thegioididong.com chúng tôi sẽ liên hệ qua Facebook để thông báo cho bạn.Cảm ơn các bạn đã tham gia chương trình của chúng tôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.86887,
+         "id": "744812",
+         "field_search": "question",
+         "question": "Xin chào các bạn hôm này mình sẽ làm 1 bài so sánh chip do 2 nhà sản xuất Samsung và TSMC, bộ vi xử lý A9 của Apple được trang bị trong iPhone thế hệ mới có hai kích thước khác nhau. Trong đó, Samsung A9 mang mã số APL0898 đạt 96 mm, nhỏ hơn 10% so với AAPL1022 của TSMC với cỡ 104,5 mm. Người sử dụng sẽ không phân biệt được thiết bị nào dùng chip gì khi mua, trừ khi tháo rời sản phẩm hoặc tải ứng dụng   để kiểm tra theo mãVấn đề được quan tâm là có chênh lệch gì khi cùng mẫu iPhone 6s nhưng dùng chip của hai nhà sản xuất khác nhau, với công nghệ khác nhau.Theo đó, smartphone của Apple dùng chip từ có thời lượng pin tốt hơn từ 5% đến 12% so với iPhone 6s dùng chip , song nó lại cho hiệu suất thấp hơn khi thử nghiệm xuất file với . Thiết bị dùng chip của  hoàn thành nhiệm vụ nhanh hơn khoảng 4 giây.Tuy nhiên, khi đo đạc bằng các phần mềm chấm điểm hiệu năng như  thì iPhone 6s dùng chip TSMC lại cho kết quả tốt hơn. Điều này có nghĩa là người dùng sẽ không nhận thấy khác biệt quá lớn về tốc độ trong điều kiện sử dụng thực tế. Với các tác vụ thông thường, mức chênh lệch được nhận xét là khoảng 1%.Về phía Apple, hãng tuyên bố rằng mức chênh lệch về pin giữa iPhone 6s và 6s Plus dùng hai loại chip khác nhau chỉ từ 2 đến 3%. Công ty công nghệ Mỹ nói rằng sai khác trên là chấp nhận được, kể cả với các chip của cùng một nhà sản xuất.Dù vậy, bài kiểm tra pin với phần mềm  cho thấy, iPhone 6s dùng TSMC A9 có thời lượng pin cao hơn khoảng 1 giờ so với mẫu dùng chip do Samsung sản xuất. Ngoài ra, nó cũng cho điểm hiệu năng nhỉnh hơn.Sau khi qua các bài kiểm tra, dung lượng pin thực tế trên chiếc dùng Samsung A9 còn lại là 71%, còn với iPhone 6s dùng chip của TSMC đạt 77%. Như vậy, mức chênh lệch là 6%, cao gấp đôi tuyên bố 3% mà Apple đưa ra.Phía trên mình đưa ra những sự khác nhau giữa 2 chip giữa 2 công ty, theo đó cách đây vài tuần mình đã hỏi  tại  thì được 1 câu trả lời đó là 2 chip TSMC và Samsung  và không có sự khác biết nhiều.: Đề nghị  trước khi mua máy sẽ  bởi tất cả các hệ thống bán lẻ, và phân phối của Apple, đây là sự ngẫu nhiên theo các đợt hàng.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.716194,
+         "id": "999022",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt hiện kinh doanh trên hệ thống TGDĐ thì sản phẩm nào có chất lượng camera sau tốt nhất?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.55805,
+         "id": "985821",
+         "field_search": "question",
+         "question": "Tôi tên là Võ Phúc Gia Linh, sinh năm 1998, hiện tại là sinh viên của trường Đại học Sư phạm Thành phố HCM, vốn dĩ tôi luôn mua sản phẩm tại cửa hàng thế giớ di động nhưng khi gặp rắc rối về vấn đề kỉ thuật tôi mới nhận ra rằng dịch vụ chăm sóc khách hàng của thế giới di động không tốt như tôi nghĩ. Vì tôi cũng không rành về kỉ thuật cho lắm nên tôi chỉ có thể giới thiệu tôi đang sử dụng máy Acer cùa hãng, hiện tại còn bảo hành, và tôi gặp một số rắc tối nhỏ là phần chuột chỗ cảm ứng không nhạy và không mở ổ đĩa đươc, tôi đến cửa hàng thế giới di động chi nhánh Nguyễn Tri Phương đễ bảo hành máy, tôi đã nói với nhân viên về các vấn đề của máy, họ nói với tôi là hõ sẽ gữi máy tới hãng đễ sữa chữa và bảo tôi chờ. Vài ngày sau đó, họ gọi tôi tới lấy máy, họ nói với tôi là \"máy của chị không có ổ đĩa\", tôi chấp nhận vì tôi không rành về máy tính, nhưng khi tôi kiểm tra máy, tôi thấy phần cảm ứng của chuột vẫn như cũ không được nhạy (cũng có thể nó là, nó thích thì nó chạy, nó không thích thì thôi, nhưng khi cắm chuột không dây vào thì vẫn bình thường), tôi đến lấy máy nhưng về cơ bản là họ chẳng sữa chữa gì cả, tôi phản ánh lại với họ, nhưng lúc đó, máy tính của tôi hết pin nên họ phải tìm cục sạc đễ sạc máy rồi mới tính tiếp, và trên thực tế. Tôi ngồi đó, đợi 1 tiếng đồng hồ và chẳng có 1 lời giải thích nào từ nhân viên, đến khi tôi đòi gặp quản lí thì mới có người tới, nói là họ phải gữi máy về hãng 1 LẦN NỮA đễ kiễm tra lại máy. Tôi đồng ý. Nhưng vài ngày sau, bên hãng gọi cho tôi và nói với tôi rằng, có thể ngày 6/6 máy của t mới sữa xong. Vì đang trong kì thi nên tôi không thể không có máy tính, tôi đề nghị họ gửi trã máy tính lại cho tôi. Thiết nghĩ, nếu như không có sự tắc trach của lần đầu tiên thì máy tính của tôi chắc hẳn đã được sửa xong. Hiện tại, máy của tôi vẫn còn bảo hành, nhưng tôi đã không còn lòng tin với thế giới di động nữa. Máy của tôi, bây giờ không những hư về phần cảm ứng, mà sau khi gữi hãng 2 lần thì nó còn chạy chậm, hư phần mềm, cả Word2010 cũng chạy không nỗi. Còn về thái độ phục vụ khách hàng bên chi nhánh TGDĐ Nguyễn Tri Phương thì quá là tệ. Có thể, người quản lí, làm cao, chức cao, có quyền lực nhưng thực chất người gần với khách hàng là nhân viên, người quản lí có giỏi đến thế nào thì người giữ chân khách hàng là nhân viên, không phải quản lí, và nhân viên co đối xữ tốt với khách hàng không thì chỉ có họ biết, khách hàng biết, khách hàng thất vọng, bỏ đi, cũng chẵng phản ánh với quản lý, tôi nghĩ có một phần khách hàng là như thế. Nếu như hỏi tôi, sau sự việc này, có muốn đến TGDĐ bảo hảnh nữa không, thì tôi không chắc là sẽ trả lời có, vì cả dịch vụ của nhân viên và cách làm việc của hãng tôi không hài lòng, Thôi thà sử dụng máy lag còn hơn đến bảo hảnh một nơi mà thái độ phục vụ khách hàng không có như vậy. Thân ái.- SĐT của tôi là 01867334XXX.- Số điện thoại bảo hành máy là 01867334XXX.- Gmail là gialinhXXX@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.52672,
+         "id": "1136697",
+         "field_search": "question",
+         "question": " tôi đặt sản phẩm đã một tuần rồi sau k thấy hàng vậy thế giới di động ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.36239,
+         "id": "1020435",
+         "field_search": "question",
+         "question": "Đang góp tiền ngân hàng có thể mua thêm sản phẩm khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.87385,
+         "id": "1154999",
+         "field_search": "question",
+         "question": "Xin hỏi nếu mình đặt chuyển sản phẩm cũ về cửa hàng gần mình thì mình thanh toán phí giao hàng trước đúng không? Thanh toán như thế nào? Nếu mình ra xem sản phẩm, không vừa ý có bắt buộc mua không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.83073,
+         "id": "997824",
+         "field_search": "question",
+         "question": "Em có bảo hành sản phẩm ở tgdđ ạ ! Đã trễ hẹn lấy sản phẩm 6 ngày rồi ạ ! Mong admin kiểm tra trạng thái sản phẩm giúp em được không ạ !!! Số điện thoại bảo hành của em là 01648639542 - sản phẩm bảo hành là Sony XA Ultra ( Trắng ) Cảm ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.48831,
+         "id": "1001527",
+         "field_search": "question",
+         "question": "Em có một coupon trị giá 100.000đ để mua hàng online lý do là em mua sản phẩm đổi trả nhưng không sữ dụng thì coupon này áp dụng cho mọi mặt hàng em mua online kể cả ốp lưng phải không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.11995,
+         "id": "806195",
+         "field_search": "question",
+         "question": " Khi nào thì TGDĐ điều chỉnh giá Iphone Ipad mới lại vây? Mình đang chờ điều chỉnh để mua sản phẩm Apple.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 107.73958,
+         "id": "998171",
+         "field_search": "question",
+         "question": "Tgdd cho hỏi.. tôi mua máy đổi trả với hình thức trả góp ..Nhưng tôi về sài mới có 2 ngày thấy hiện tượng bị lỗi.. Và nếu tôi đem ra tgdd kiểm tra nếu lỗi do nhà sản xuất thì vậy cho hỏi tôi đổi lại máy khác được ko và tôi có thể đổi qua những dòng sản phẩm khác được ko..và số tiền chênh lệch nhau như thế nào.. Tôi nhờ em tôi mua dùm vậy khi ra tgdd kiểm tra có cần em gái tôi đi theo ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 107.57355,
+         "id": "1147808",
+         "field_search": "question",
+         "question": "Nếu xiaomi 5 plus còn hàng thì giá sẽ là bnhieu ạ , và tgdd có mở bán lại sản phẩm này trong tương lai không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.83088,
+         "id": "956662",
+         "field_search": "question",
+         "question": "XẢ HÀNG TỒN KHO IPHONE 5S VỚI GIÁ 155.000VND - Chương trình khuyến mãi cho 55.000 khách hàng đầu tiên, áp dụng trên toàn quốc đến ngày 06/03/2017 - Vì cuối tháng cần thúc đẩy doanh số nên TGDĐ ra chương trình KM xả kho iphone 5s với giá 155.000VND - Để tham gia sự kiện mua iphone 5s với giá 155.000VND - Bước 1: LIKE/THÍCH trang \" Thế giới di động \" - Bước 2: Chia sẽ công khai bài viết này trên tường của bạn - Bước 3:Comment màu sắc mà bạn muốn mua LƯU Ý: Chỉ những bạn đã like và chia sẽ công khai bài viết này mới được chúng tôi liên hệ hướng dẫn đặt hàng - Truy cập WEB:  để biết thêm chi tiết. - Kết quả chương trình sẽ công bố vào ngày 7/3/2017 tại fanpage chúng tôi sẽ liên hệ qua Facebook để thông báo cho bạn. Cảm ơn các bạn đã tham gia chương trình của chúng tôi.\"Chương trình này có ko bạn?\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.31563,
+         "id": "966366",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi cửa hàng mình không bán iphone cũ 99 hay 95 ấyem thấy toàn sản phẩm mới ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.1543,
+         "id": "725803",
+         "field_search": "question",
+         "question": "Nếu bạn đang sở hữu một Smartphone của hãng  haycó  thì bạn có thể tải ngay ứng dụng  để biến chiếc điện thoại thành Remote Tivi cực đơn giản bạn nhé. Đầu tiên, bạn vào cửa hàng CH Play tải ứng dụng  .Sau khi đã tải ứng dụng, bạn chọn mở ứng dụng  .Khi đã vào ứng dụng bạn nhấn chọn Chọn mục Chọn Bạn thử kết nối với tivi bằng cách lựa chọn thay cácNếu Model nào đã kết nối được thì bạn chọn  là hoàn thành và bạn đã có thể sử dụng Smartphone để điều khiển Tivi nhé.một số dòng điện thoại Samsung có hỗ trợ hồng ngoại như  một số dòng điện thoại HTC như Chúc bạn thực hiện thành công!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.05353,
+         "id": "1010608",
+         "field_search": "question",
+         "question": "cho mình hỏi 1 vấn đề, mình mới mua 1 điện thoại samsung J5 primer hơn 1 tháng thì bị lỗi không nhận sim, không có sóng. mình đã mang ra TGDD bảo hành, nhưng minh biết, những sản phẩm mới mua đã bị lỗi như vậy thì có mang đi bảo hành đi chăng nữa thì 1 thời gian rất ngắn cũng sẽ bị lỗi. mình muốn được đổi mới 1 điện thoại khác không biết có được hay không.mua 1 chiếc điện thoại mới hơn 1 tháng mà bị lỗi mình thật sự không hài lòng cho lắm.  mình cũng từng nhiều lần giơi thiệu ban be tới TGDD mua hàng, nhưng lần này mình thật sự rất thất vọng về sản phẩm mình mới mua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.849686,
+         "id": "1142558",
+         "field_search": "question",
+         "question": "hi bạn, mình muốn mua cục phát wifi 4G, bên bạn có những sản phẩm nào bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.807274,
+         "id": "797265",
+         "field_search": "question",
+         "question": " E mua laptop dell này muốn trả sản phẩm mà cái hộp sản phẩm bị rách thì có được đổi trả được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.62503,
+         "id": "882696",
+         "field_search": "question",
+         "question": " Sao app không có hiện lên các sản phẩm đã mua ạ ?????????  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.89395,
+         "id": "1008970",
+         "field_search": "question",
+         "question": "ad ơi em muốn mua sản phẩm này nhưng mua hàng online để tiếc kiệm xong em lại chi nhánh gần nhà nhất để nhận hàng được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.871864,
+         "id": "827903",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cách phân biệt iPhone 5s chính hãng với ạ. Mua iphone ở TGDĐ có đảm bảo về mặt chất lượng ko.em đang định ra cửa hàng mình mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.72808,
+         "id": "1006978",
+         "field_search": "question",
+         "question": "muốn kiểm tra xem tôi đã mua những sản phẩm gì từ thế giới di động thì làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.50246,
+         "id": "1140144",
+         "field_search": "question",
+         "question": " Ủa sản phẩm vsmart joy1 khi nào mới có hàng ạ và giá là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.47324,
+         "id": "1168285",
+         "field_search": "question",
+         "question": "Cho mình hỏi đối vs lệnh cấm vận từ mỹ đối vs huawei có ảnh hưởng tới các sản phẩm hiện tại đang sử dụng của huawei ko, đặc biệt là vs huawei y6 prime mình đang dùng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.33357,
+         "id": "1015188",
+         "field_search": "question",
+         "question": "Tôi mới mua Samung j7 prime giá 5990k và có tặng phiếu mua hàng 400k, sau 2 ngày sử dụng bay h tôi muốn trả lại sản phẩm để mua điện thoại khác vì k hài lòng nhưng nhân viên trừ của tôi 20% còn 4330k và trừ hóa đơn 400k phụ kiện?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.13332,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.94894,
+         "id": "1165794",
+         "field_search": "question",
+         "question": "Xin chào, tôi vừa mua Galaxy A7 khoảng hơn một tháng, tuy nhiên khi kiểm tra thì thấy bộ nhớ ram bị chiếm khá nhiều (máy ram 4GB, tuy nhiên khi kiểm tra thì thấy đã sử dụng hơn 2GB). Như vậy để tăng dung lượng ram lên thì thực hiện như thề nào (khi kiểm tra thì thấy có rất nhiều chương trình mặc định của hãng samsung) không biết cần phải loại bỏ những ứng dụng nào Rất mong được sự hướng dẫn Kính chào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.61654,
+         "id": "1003922",
+         "field_search": "question",
+         "question": "dạ cho em hỏingoài các sản phẩm của samsung hiện trên trang chủ bên mình còn sản phẩm nào khác không ạ dòng sam sung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.59578,
+         "id": "1139672",
+         "field_search": "question",
+         "question": "Mình muốn mua sản phẩm iPhone 7 Plus bằng thẻ citibank, bên bạn tư vấn thủ tục cho mình được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.34352,
+         "id": "1024003",
+         "field_search": "question",
+         "question": "Tôi mới mua đồng hồ apple watch của thegioididong chưa được 1 tháng với phương thức trả góp ? Bây giờ tôi muốn trả lại sản phẩm thì nhận bao nhiêu tiền ? Và tôi vẫn phãi đóng tiền phải góp hàng tháng sau khi nhận được tiền hoàn lại 80% từ thegioididong đúng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.3274,
+         "id": "1004416",
+         "field_search": "question",
+         "question": "Tôi có đặt mua online 1 ĐTDĐ Lenovo A6600 Plus Black trị giá 2.290.000 đ và nhận hàng chiều ngày 12/7/2017. Sau khi sử dụng được 5 hôm thì máy có biểu hiện mờ và ố màn hình, tôi đem máy đến cửa hàng Điện Máy xanh của thegioididong (ngà 3 Yên Báy- Lê Duẩn- Số 7 Lê Duẩn- Đà Nẵng) báo nhân viên hỗ trợ kỹ thuật để được đổi như cam kết trong chương trình. Tuy nhiên qua xem máy thì nhân viên trả lời là máy do tác động bên ngoài (ý nói là do khách hàng làm hư) nên nói không thể đổi trả. Tôi có giải thích là từ lúc mua đến hôm nay 18/7/2017 tôi không tác động đến máy dưới bất cứ hình thức gì (ngoài việc mở vỏ lắp sim và cắm xạc) nhưng nhân viên không nghe và trả lời là để điện thoại lại khoảng 10 ngày để gửi sang hãng ĐT Lenovo kiểm tra, kiểm định; hoặc nếu không thì khách hàng đem điện thoại đến hãng ĐT Lenovo để kiểm tra. Tôi không đồng ý với việc trả lời như vậy nên đề nghị được gặp quản lý cửa hàng giải thích, nhưng khi gặp quản lý thì quản lý cũng trả lời như vậy. Thất vọng tôi ra về và đề nghị Công ty giải thích và trả lời tôi một cách thích đáng. Tôi thiết nghĩ, đt giá trị không lớn nhưng thái độ làm việc như thế, cung cách phục vụ như thế thì có trăm ngàn ông Đức Tài thì Công ty sẽ cũng sụp đổ. Mua danh 3 vạn- bán danh 3 đồng như người xưa đã nói.      Việc đem máy đi kiểm định, kiểm tra chắc chắn lỗi hư hỏng sẽ là do khách hàng, chứ không bao giờ hãng điện thoại hoặc đơn vị kinh doanh nhận lỗi và cuối cùng phần thiệt thòi là khách hàng gáng chịu. Và đây là kết quả cuối cùng. Thật Phẫn nộ./.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.175095,
+         "id": "790693",
+         "field_search": "question",
+         "question": " Em đang mua trả góp 1 chiếc ip6s bên cửa hàng khác thì em có mua trả góp được 1 sản phẩm của bên mình không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.83981,
+         "id": "799897",
+         "field_search": "question",
+         "question": " sản phẩm laptop có được bảo hành tận nhà không ạ, vì mình rất bận không có thời gian ra trung tâm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.45132,
+         "id": "989666",
+         "field_search": "question",
+         "question": "e muốn mua máy nhưng e muốn bên mình chuyển sản phẩm về cửa hàng ở linh xuân thủ đức có được không ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.24865,
+         "id": "1017732",
+         "field_search": "question",
+         "question": "A trai mình mua lại 1 chiếc điện thoại Samsung A9 kèm theo hóa đơn của thế giới di động. Khi kiểm tra IMEI trên điện thoại có gửi tin nhắn báo hạn bảo hành, vậy không biết là đã có thể xác định điện thạt chính hãng của TGDĐ hay không ạ? Và TGDĐ có lưu trữ thông tin khách hàng mua sản phẩm đó như tên, sđt gì không ạ?Cảm ơn AD đã đọc câu hỏi của mình và mong sẽ có câu trả lời chi tiết giải thích cho mình biết với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.23612,
+         "id": "1000138",
+         "field_search": "question",
+         "question": "hôm qua mình vừa mua 1 tai nghe nhét trong bên mình, hôm nay mình muốn đổi sang loại tai nghe chụp với sản phẩm bằng tiền hoặc đắt hơn có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.1717,
+         "id": "1015675",
+         "field_search": "question",
+         "question": "hello fen!Mình có mua cái Samsung J7 Prime online của TGDD cách đây tầm 1,5 tháng. Bây giờ mình muốn đổi trả sang sản phẩm khác tại cửa hàng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.09792,
+         "id": "1150663",
+         "field_search": "question",
+         "question": "Tôi vừa mới khôi phục lại cài đặt gốc cho điện thoại htc desire 628, nhưng khi vào cài đặt / Hiển thị và giao tiếp bằng cử chỉ lại xuất hiện Settings đã dừng không như mong muốn. Bạn có muốn gửi báo cáo lỗi cho HTC. Điều này sẽ giúp chúng tôi cải thiện chất lượng sản phẩm.GỬI BÁO CÁO     KHÔNG GỬI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.02677,
+         "id": "1020737",
+         "field_search": "question",
+         "question": "Thiết bị của bạn đang gặp rủi ro do đã hết hạn và thiếu các bản cập nhật chất lượng và bảo mật quan trọng. Hãy cập nhật để Windows có thể chạy an toàn hơn.Nó hiện cái này h phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.984825,
+         "id": "1138792",
+         "field_search": "question",
+         "question": " Cho mình hỏi sản phẩm Tai nghe bluetooth Plantronics ML15 có áp dụng giảm giá khi mua tại cửa hàng không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.57754,
+         "id": "792476",
+         "field_search": "question",
+         "question": " Cho hỏi iphone 4s TGDD dang ban 3.990.000d là máy mới hay máy đã qua sử dụng rồi chính hãng không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.56217,
+         "id": "1018867",
+         "field_search": "question",
+         "question": "E mua sản phẩm giảm giá online thì muốn lấy hàng thì phải đến cửa hàng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.46873,
+         "id": "1009425",
+         "field_search": "question",
+         "question": "mình mới dùng sản phẩm nokia 5 được 20 ngày thấy máy có lỗi loạn cảm ứng, bàn phím không mượt,lướt để nghe cuộc gọi bị đơ rất nhiều lần,trong lúc thao tác với menu cũng k mượt,mình muốn trả máy và phụ tiền lấy máy cao hơn được không admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.37759,
+         "id": "999836",
+         "field_search": "question",
+         "question": "e muốn hỏi e đợi ngày máy ra rồi mua trực tiếp tại cửa hàng thanh toán bằng tiền mặt thì sẽ được ưu đãi gì k vậy qtv sản phẩm samsung galaxy j7 pro ạ! thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.25312,
+         "id": "770323",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s có imei 358757053400449 máy ME352LL/A ,như vậy máy em có phải hàng chính hãng không  và sản xuất ở nước nào .Em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.54693,
+         "id": "811025",
+         "field_search": "question",
+         "question": " Thdd có thu lại iphone 5 khi không phải là sản phẩm của tgdd bán ra không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.420135,
+         "id": "749548",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi: Mình mua 1 ipad ( ipad mini 2 retina) đã qua sử dụng, người ta nói máy mới 99% (bị trầy 1 vết nhỏ trên màn hình), nhìn vào phần cài đặt thì ko có Tài khoản icloud nào cả, người ta cũng bảo là ko có TK icloud ẩn, mình hỏi reset lại máy dc ko , họ bảo cho reset máy thoải mái ko vấn đề gì, nhưng họ cũng bảo là resest máy rất mất thời gian nên mình ko reset máy nữa. Sau đó họ tạo ID apple và tài khoản icloud cho mình và đăng nhập trên ipad mini 2 retina đó, và mỗi lần mình có tải gì về hay có hành động gì , mình nhập pass icloud cũng đúng như họ đã tạo, mình cũng có có thư thông báo của apple vào gmail về mọi thứ, ví dụ như :\" ID Apple của bạn, ...... , vừa được sử dụng để tải Viber về từ App Store trên một máy tính hoặc thiết bị chưa từng được liên kết với ID Apple này của bạn. Bạn cũng có thể nhận email này nếu bạn cài đặt lại mật khẩu của mình từ lần mua hàng vừa qua.\"Cho mình hỏi : \"máy ipad chưa từng được liên kết với ID Apple này\" là sao ? Có phải máy Ipad này đã liên kết với 1 Tài khoản nào khác mà mình không biết không ?Và mình vừa phát hiện có 1 kiểu check icloud trên trang web máy tính, mình điền số imei của ipad mini 2 retina vào, nhập mã code như hình và enter thì ra kết quả : \"Kích hoạt khóa : On ( Mở)\" , Vậy có nghĩa là thế nào hả Admin ? bình thường là nó OFF mà !!Mình nghĩ Máy ipad của mình có nick icloud ẩn của chủ cũ và họ đã kích hoạt khóa, và đây là hàng ăn trộm đúng ko ? theo trường hợp này, nếu mình Nhấn reset máy thì máy sẽ hiện cái gì, ( máy đã JB), máy sẽ hỏi TK icloud cũ hay mình vẫn nhập cái Tk icloud của mình vẫn được.Trường hợp 2 : Không có gì lừa đảo ở đây cả, có phải mình tự tạo TK icloud và ID apple thì nó tự động kích hoạt khóa rồi ko ? ko phải là ai khác kích hoạt khóa , đó là do tk của chính mình hết đúng ko ?Mình không mua hàng ở TGDĐ nhưng có thể tư vấn cho mình được không ? Mình phải hỏi nhiều nơi khác trước khi mình hỏi chỗ mình mua , vì nếu họ lừa đảo thì họ vẫn giải thích sai cho mình. Bạn thông cảm cho mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.293915,
+         "id": "911117",
+         "field_search": "question",
+         "question": "Chào TGDĐ, lúc trước mình có mua lap ở TGDĐ, lúc đó đang có chương trình mua office 365 với giá 750k. MÌnh mua máy và mua luôn office, sau khi nhận máy thì office đã được cài sẵn. Sau này mình lỡ recovery lại máy nên mất toàn bộ office. Không biết mình có thể đến TGDĐ nhận lại key sản phẩm hoặc có cách nào phục hồi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.18908,
+         "id": "1160490",
+         "field_search": "question",
+         "question": "Cho mình hỏi tai nghe có micro mà giá rẻ nhất là sản phẩm nào ạ dành cho máy tính để bàn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.15149,
+         "id": "1019957",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua 1 sản phẩm ở thế giới di động, do nhu cầu sử dụng của mình, mình muốn đổi trả và lấy lại tiền có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.15018,
+         "id": "999997",
+         "field_search": "question",
+         "question": "Mình muốn mua Ip7, cho mình hỏi hiện tại sản phẩm này còn hàng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1016536",
+   "total": 28941,
+   "total_current": 100,
+   "max_score": 81.30815,
+   "origin_question": "Điện wiko rainbow jam của em chỉ gõ nhẹ sau nắp là bị tắt nguồn là sao ạ",
+   "hits": [
+      {
+         "score": 28.786633,
+         "id": "785360",
+         "field_search": "question",
+         "question": " Tại sao máy wiko rainbow jam sạc pin lâu vào thế tận 4 tiếng mới đầy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.472363,
+         "id": "937663",
+         "field_search": "question",
+         "question": "Cho em hỏi, mỗi khi live trực tiếp facebook bằng Wiko Rainbow Jam là nó hình ảnh với tiếng nó không khớp, giựt giựt. Khắc phục như nào thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.77906,
+         "id": "773667",
+         "field_search": "question",
+         "question": " Cho em hỏi cách đổi màn hình khóa của Wiko Rainbow lite? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.525646,
+         "id": "761174",
+         "field_search": "question",
+         "question": " Em gõ nhẹ vào bên trên đầu máy iPhone 5s có tiếng kêu lắc cắc. Như vậy là bị làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.107805,
+         "id": "788440",
+         "field_search": "question",
+         "question": "Em mới mua máy wiko rainbow jam, pin lúc đầu dùng rất bình thường, tới khoảng 20% là 9s xuống 1%, hết pin trong 2phút, từ 30% đã bắt đầu giảm mạnh. Ngoài ra cảm ứng đôi khi không hoạt động, hôm nay còn có tình trạng tự động tắt máy, sau đó máy tự mở ròi lại tắt nữa, liên tục cho đến khi em khởi động lại mới thôi. Máy em mới mua 5 6 ngày j đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.884106,
+         "id": "987540",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi điện thoại của mình là iphone 5s bị tắt nguồn mình mở nguồn lại nhưng chỉ hiện logo táo được 2s là lại tắt luôn ( mình cắm sạc khá lâu và mở lại nguồn nhưng vẫn chỉ hiện logo táo đc 2s là lại tắt ) trường hợp này là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.65993,
+         "id": "1024546",
+         "field_search": "question",
+         "question": "tình trạng tắt nguồn đột ngột của huawei y5 ii là sao ạ... không làm gì nó củng tắt có khi lỡ rơi nhẹ lên bàn hay cặp sách nó củq tắt nguồn... mong hỗ trợ giải đáp giúp e ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.462372,
+         "id": "1010006",
+         "field_search": "question",
+         "question": "Mik mua máy dc một thời gian,khi hơi gõ nhẹ vào phần trên của mặt sau điện thoại thấy nó kêu như bị rơi j trong đó y",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.31089,
+         "id": "764361",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình đang dùng iphone 4 thường nắp sau bị vỡ vậy có nắp sau của iphone 4 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.109337,
+         "id": "882429",
+         "field_search": "question",
+         "question": "Cho em hỏi sử dụng điện thoại iphone 5 có khi nào rơi nhẹ mà hư luôn không ạ? em nghe nói iphone 5 chống va đập cũng tốt nhưng em lỡ tay làm rơi, điện thoại tắt nguồn. Bấm nút nguồn thì điện thoại không lên. Khi cắm sạc thì nó chỉ hiện logo của apple rồi tắt, cứ hiện rồi tắt. Cho em hỏi bị như vậy thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.013918,
+         "id": "1010277",
+         "field_search": "question",
+         "question": "tôi có một chiếc wiko rainbow lite bị quên mật khẩu thỉ phải làm ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.626528,
+         "id": "1017407",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone của em sau khi đặt lại hoàn toàn máy thì khởi động k lên nữa chỉ lên quả táo rồi tắt luôn, vậy là bị sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.354118,
+         "id": "746541",
+         "field_search": "question",
+         "question": " Cho hỏi ốp lưng wiko jam có hàng không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.228401,
+         "id": "758664",
+         "field_search": "question",
+         "question": " Nắp kính sau iPhone 4s của em bị nứt em thay nắp kính sau thì nó có bị ảnh hưởng gì đến máy không mấy anh. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.86241,
+         "id": "1157861",
+         "field_search": "question",
+         "question": "Sau một đêm sạc điện thoại của em là realme c1 thì mở nguồn không lên. Cáp sạc vẫn tốt. Bị như này là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.762457,
+         "id": "1158118",
+         "field_search": "question",
+         "question": "Khi gọi cho điện thoại mà máy báo \"để lại lời nhắn sau tiếng bip\" là sao vậy ạ?, số máy đó bị tắt nguồn hay thẻ sim bị rút ra rồi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.721018,
+         "id": "883381",
+         "field_search": "question",
+         "question": "cho em hỏi là điện thoại iphone của em do va chạm nhẹ nên vỏ bị cong nhẹ, không biết có ảnh hưởng nhiều đến việc sử dụng máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.701044,
+         "id": "1142854",
+         "field_search": "question",
+         "question": "Điện thoại wiko upulse của tôi chỉ sạc được khi tắt nguồn, còn khi bật máy lên thì ko sạc được. Ngoài ra máy ko kết nối được với PC. Xin chỉ giúp cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.653576,
+         "id": "1146154",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là tiệm mình có bán nắp sau điện thoại samsung j2 pro không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.202038,
+         "id": "797488",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 4s của em tự nhiên bị tắt nguồn mở không lên là nó bị làm sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.170584,
+         "id": "1018782",
+         "field_search": "question",
+         "question": "Em xài iphone 4. Điện thoại e k bật nguồn lên được. Cắm sạc thì hiện logo của apple lúc hiện lúc tắt vậy là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.123037,
+         "id": "1134895",
+         "field_search": "question",
+         "question": "máy oppo của em chỉ khi cắm sạc là chạy được còn khi rút sạc 1 tí là tắt nguồn liền ai giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.092129,
+         "id": "755819",
+         "field_search": "question",
+         "question": " Máy tính em mới mua bị ngắt nguồn sau 1 tuần sử dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.09015,
+         "id": "1159953",
+         "field_search": "question",
+         "question": "điện thoại của em là sam sung j2 prime. từ hôm qua nó cứ bị tắt nguồn suốt thôi ạ. lúc e khởi động lại nó hiện màn hình như thế này là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.971087,
+         "id": "1007077",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoai của em là Samsung Grand Prime giờ không hiện được bàn phím ở tất cả các ứng dụng cần gõ kí tự ( trừ Gọi điện vẫn còn bấm số được) giờ em phải làm sao để khác phục ạ. Em đã tắt nguồn mở lại vẫn không được. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.941803,
+         "id": "1020499",
+         "field_search": "question",
+         "question": "Khi người khác gọi đến thì vẫn nghe đc nhạc chờ. Nhưng điện thoại em lại hiện thị \" Rất tiếc, Điện thoại đã dừng lại\" và em ko thể nhận đc cuộc gọi. Ko biết đang bị tình trạng gì ạ. Điện thoại wIKO rainbow lite.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.893305,
+         "id": "1020168",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi con wiko lenny 2 của e vào phần đặt lại điện thoại trên máy thì nó tắt nguồn và khởi động lại máy và vào phần recovery để factory reset cũng ko đc lun là nó bị j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.669048,
+         "id": "781779",
+         "field_search": "question",
+         "question": "Nắp sau iphone 5s của e ở phần trên gần camera ý. E thấy ko được phẳng như phần bên dưới là bị sao ạ. Phần trắng và vàng giáp nhau ý ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.666327,
+         "id": "1149362",
+         "field_search": "question",
+         "question": "cho em hỏi máy em cứ bị đơ xong sau đó là tiếng Siri cứ nhấn home là lại có tiếng siri. Màn hình mờ không cho tắt nguồn reset cũng không được. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.433416,
+         "id": "1158536",
+         "field_search": "question",
+         "question": "samsung galaxy của em hết pin bị tắt nguồn nhiều lần sau đó bật nguồn không lên nữa khi cắm sạc chỉ hiện thông báo đang sạc chứ k vào màn hình chính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.192276,
+         "id": "997181",
+         "field_search": "question",
+         "question": "Điện thoại sony xperia xa em đang sài tự nhiên hay tắt nguồn là sao vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.192078,
+         "id": "751971",
+         "field_search": "question",
+         "question": "    Cho em hỏi. sao em dùng ram 8gb mà chơi mấy game nhẹ nhẹ này nó vẫn báo thiếu ram là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13247,
+         "id": "781619",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao laptop của e lúc đầu thì bắt wifi được nhưng lúc sau thì hiện dấu x em tắt nguồn rồi bật lại vẫn bị như vậy.ad chỉ em cách khôi phục lại wifi với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.075657,
+         "id": "1163827",
+         "field_search": "question",
+         "question": "QTV cho em hỏi sao máy em cứ tắt màn hình là tự động tắt nguồn luôn là bị lỗi gì vậy ? Máy em samsung a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.04693,
+         "id": "793377",
+         "field_search": "question",
+         "question": "Anh chị ơi, em đang xài điện thoại iPhone 5s á. Mà dạo này nó hay tự nhiên bị xanh màn hình rồi tắt nguồn. Như vậy là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.03955,
+         "id": "1134992",
+         "field_search": "question",
+         "question": "Điện thoại của em bị vấn đề là nhấn mở nguồn vẫn lên logo samsung nhưng đc 3 giây rồi tắt ngúm. Vậy cần khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.920391,
+         "id": "800948",
+         "field_search": "question",
+         "question": " Sao laptop hp của em không gõ tiếng việt được ạ? QTV chỉ em với ,em cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.891792,
+         "id": "1150783",
+         "field_search": "question",
+         "question": "Samsung tap A6 của mình tự động tắt nguồn trong khi vẫn còn pin,sau đó mình mở nguồn đồng thời cắm sạc nhưng màng hình hiển thị như trên là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.849628,
+         "id": "815320",
+         "field_search": "question",
+         "question": " iphone 4S pin nhanh hết , còn khoảng 50 là tắt nguồn là bị làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.825974,
+         "id": "1013155",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi là. Sao e gõ nhẹ phần camera vào tay thì chổ camera có vật gì ở trong kêu ấy anh ip6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.724072,
+         "id": "1146722",
+         "field_search": "question",
+         "question": "các a cho e hỏi iphone 5s của em chơi còn khoảng 53 thì tự tắt nguồn là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.660406,
+         "id": "1158491",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại Oppo a3s sạc pin đến 97 thì bị tắt nguồn là bị gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.637651,
+         "id": "756854",
+         "field_search": "question",
+         "question": " Ad cho em hỏi cái laptop Hp của em sao gõ chữ trên web hay word là chữ nó hiện ra trên run là sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.627005,
+         "id": "798839",
+         "field_search": "question",
+         "question": "Cho em hỏi tai sao điện thoại iphone4s em tắt nguồn xong mở lên lại không được mà phải vừa bấm nút home với nút nguồn trong 10' tới 15' thì mới lên nguồn được là điện thoại em bị gì ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.612547,
+         "id": "1134212",
+         "field_search": "question",
+         "question": "Cho em hỏi là mỗi lần em chơi free fire cứ vào trận là lại sập nguồn là sao ạ? Em dùng đt samsung j3 pro. Đt không bị chai pin, mọi ứng dụng khác khi dùng không bị sập nguồn mà chỉ chơi game là sập nguồn với lag kinh hồn -.-",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.572866,
+         "id": "1154171",
+         "field_search": "question",
+         "question": "em sử dụng vmarts joy1plus, khi tắt nguồn máy hỏi mã pin, em đã nhập đúng rồi, nhưng máy yêu cầu ĐỂ MỞ KHÓA ĐIỆN THOẠI CỦA BẠN, HÃY TẮT RỒI BẬT ĐIỆN THOẠI là sao ạ, tư vấn giúp em với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.39388,
+         "id": "787372",
+         "field_search": "question",
+         "question": " Sao đt oppo r7 lite của tự tắt nguồn hiện mỗi oppo 1lúc là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.370945,
+         "id": "1011000",
+         "field_search": "question",
+         "question": "Tại sao khi gọi video điện thoại lại tự tắt màn hình và bấm nút nguồn lại ko lên hình máy của em là asus max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.358953,
+         "id": "896015",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em mua con ip5s đc 5 tháng rồi mà ko hiểu vì sao máy em k tắt nguồn đc . Ấn nút tắt ngồn độc bị tắt màn hình thôi . Các a các chị chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.358477,
+         "id": "1157977",
+         "field_search": "question",
+         "question": "Em mới mua máy Realme c1. 2 hôm nay dùng còn khoảng 20% thì em sạc máy. Lúc sau kiểm tra thì máy tự tắt nguồn là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.34056,
+         "id": "867474",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em sạc không vào điện, phải tắt nguồn mới sạc được. Dây sạc của em vẫn sài tốt. như vậy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.317276,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.305534,
+         "id": "1020857",
+         "field_search": "question",
+         "question": "Cho mình hỏi, SS J7 Pro mình gõ nhẹ vào phần đầu mặt lưng sau, gần camera thì có tiếng rẹt rẹt, như ỏ trong bị lỏng gì ấy. Vậy có bị gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30213,
+         "id": "1158683",
+         "field_search": "question",
+         "question": "Điện thoại OPPO A3S của e sạc quá đêm sáng dậy tự dưng bị sập nguồn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.272655,
+         "id": "820881",
+         "field_search": "question",
+         "question": " Ad cho em hỏi con iphone 4s của em sạc pin nó không vào nhưng tắt nguồn đi sạc nó lại vào là sao ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.218721,
+         "id": "1134246",
+         "field_search": "question",
+         "question": "Máy Sony của mình có hiện tượng tự nhiên bị tắt nguồn rồi có lại, bị liên tục là do sao Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.213757,
+         "id": "925289",
+         "field_search": "question",
+         "question": " Điện Thoại Iphone 6 của em dùng cứ đến 70  lại bị sập nguồn cho em hỏi là do lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.927559,
+         "id": "1144290",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng ip6plus  nhưng hôm nay đang sạt pin thì bị tắt nguồn ngang và tụt pin . em đã thử đỗi sạt khác nhưng vẫn bị tụt pin . mở nguồn lại thì khoảng 2-3p sau lại tắt ! Cho em hỏi là hư pin hay đt em hư ạ . Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.925914,
+         "id": "1138437",
+         "field_search": "question",
+         "question": " điện thoại đang dùng đột nhiên tự tắt nguồn là do vấn đề gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.906725,
+         "id": "797524",
+         "field_search": "question",
+         "question": " Cho e hỏi iPhone 4s của e tự nhiên bị tắt nguồn là nó bị gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.880304,
+         "id": "821298",
+         "field_search": "question",
+         "question": " Làm sao để biết máy iphone mình vừa mua nắp sim vào là của apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.868355,
+         "id": "852218",
+         "field_search": "question",
+         "question": "laptop win 10 của mình tắt nguồn rồi mà sao đèn nguồn vẫn sang, rồi mình mở lại máy nhưng nó không lên, đợi 5 phút sau nó mới mở được là tại sao? ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.833938,
+         "id": "800315",
+         "field_search": "question",
+         "question": " Cho em hỏi Laptop em Dell Insprion 5537 tắt máy mà đến nguồn vẫn sáng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.796063,
+         "id": "1135415",
+         "field_search": "question",
+         "question": "Đt e khi vào Google thì màn hình đen xì chỉ hiện mỗi bàn phím ,gõ thông tin thì vẫn nhận tìm vẫn ra kết quả.Vậy là bị l sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.792151,
+         "id": "752272",
+         "field_search": "question",
+         "question": "cho e hỏi với ad ơi, máy tính của em chỉ sắc được 99% pin mà k được 100% là sao, đèn mãi vẫn báo màu đỏ, mà pin thì dùng 22% thì bị sập nguồn rồi ạ, thế là bị sao ạ? máy tính e dùng là asus  x552c",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.735875,
+         "id": "1161031",
+         "field_search": "question",
+         "question": "điện thoại của mình chỉ bật nguồn lên tầm được 1p là nó lại từ từ tối màn hình lại rồi sậpnguồn, hiện máy e đang bị lỗi j ạ, các cao nhân chỉ e với ạ. Máy e là vivo, hđh android ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.62038,
+         "id": "1153249",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua laptop về em cài đặt các bảng mã unicode. Kiểu gõ telex rồi mà sao vào Word vẫn ko gõ đc tiếng việt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.616552,
+         "id": "1151044",
+         "field_search": "question",
+         "question": "Vsmart Joy 1 của mk tắt nguồn là ko sạc đc có phải bị lỗi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.583164,
+         "id": "843476",
+         "field_search": "question",
+         "question": "QTV cho em hỏi con iPhone 6s của em nó bị như thế này thì sửa hết bao nhiêu tiền ạ,cảm ứng bình thường chỉ bị đổ mực vs bung nắp như v thoi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.546598,
+         "id": "795825",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Điện thoại Samsung Galaxy Note 2 của mình bị hết pin sập nguồn, sau khi sạc và bật nguồn thì máy ko lên nguồn nữa. Màn hình chỉ lên mỗi chữ Samsung thôi. Cho mình hỏi làm thế nào để khắc phục tình trạng này? Là do máy hay do pin bị lỗi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.476152,
+         "id": "1013398",
+         "field_search": "question",
+         "question": "Em có mua điện thoại Wiko Sunset 2 Ram 512MB sau 1 năm sử dụng không biết vì lý do gì mà bây giờ chỉ còn 463,54 MB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.445938,
+         "id": "1153237",
+         "field_search": "question",
+         "question": "Sao Mobell tab 7c của em nó cứ khởi động nguồn tối ưu hoá ứng dụng rồi tắt bật miết là sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.424118,
+         "id": "1149835",
+         "field_search": "question",
+         "question": "Máy m dùng win 7 khi đặt mật khẩu mình đã gõ có dấu nhưng khi tắt máy lần sau mở lên thì gõ không có dấu được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.38471,
+         "id": "999080",
+         "field_search": "question",
+         "question": "cho e hỏi oppo A37 em mới mua thường hay tự động tắt nguồn rồi khởi động là là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.370457,
+         "id": "1022275",
+         "field_search": "question",
+         "question": "cho mình hỏi có loại pin nào vừa với máy wiko rainbow lite k? tại mình tìm mãi không mua được pin loại máy này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.360861,
+         "id": "1004880",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 của em sao đang sài mà bị  tắt nguồn rồi mở không lên dù pin điện thoại em đang đầy nó bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.293401,
+         "id": "1019959",
+         "field_search": "question",
+         "question": "cho em hỏi e đang dùng oppo Neo 7 đang dùng bình thường tự dưng sập nguồn sau đó không bật nguồn lên được nữa.cắm sạc vào thì thông báo điện thoại pin yếu không thể bật nguồn được là bị sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.23756,
+         "id": "1013377",
+         "field_search": "question",
+         "question": "em dùng htc m7 và khi ấn nút nguồn để tắt máy thì nó luôn tự động tắt nguồn sau đó chập chờn liên tục cho đến khi khởi động lại, nó cứ nháy sáng lên xong tự tắt tiếp ấy. Máy em bị sao thế ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.226711,
+         "id": "998716",
+         "field_search": "question",
+         "question": "em đang dùng oppo neo5, máy chỉ bị xước nhẹ cường lực với mặt ốp đằng sau, bây giờ muốn đổi sang iphone5 hoặc 5s thì giá cả như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.195925,
+         "id": "922755",
+         "field_search": "question",
+         "question": "Chào Ad, hiện tại cái ip 5s của mình gặp vấn đề là mỗi lần gõ văn bản là lại hiện ra giọng nói. vậy làm sao để tắt được nó ah xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.182181,
+         "id": "1149423",
+         "field_search": "question",
+         "question": "Máy mình sao khi tắt fastboot mode thì ko khởi động được nửa , nhấn giữ nút nguồn thì máy chỉ rung nhẹ chứ không khởi động lên , ai giúp mình với mình đang dùng lenovo tab4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.034418,
+         "id": "996773",
+         "field_search": "question",
+         "question": "Cánh khắc phục lỗi SMS . Điện thoại wIKO k-kool gửi SMS cho tổng đài Viettel 109 mà bị lỗi không gửi được chỉ em cách khắc phục lỗi đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.033929,
+         "id": "1009947",
+         "field_search": "question",
+         "question": "Em đặt hàng con bluboo s8, vậy điện chỉ gửi tới là thế giới di động hay là điện chỉ của em vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.033196,
+         "id": "1145061",
+         "field_search": "question",
+         "question": "Đt samsung s7 edge của em đang sài tự nhiên nó cứ hiện lên hình cái ổ khóa màu trắng xung quanh màu đen. Em cố thử tắt nguồn hay làm bất cứ cái gì nó cung chỉ như v thôi là bị sao v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.019777,
+         "id": "783241",
+         "field_search": "question",
+         "question": " Ad ơi ip5s của e tắt nguồn lên là k nhận vân tay? Là lỗi do máy phải k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.960396,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.869775,
+         "id": "996122",
+         "field_search": "question",
+         "question": "em bị lỗi như thế này là sao ạ điện thoại của em là htc 10 evo mới mua sáng nay  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.84255,
+         "id": "816275",
+         "field_search": "question",
+         "question": "Xin chào ! Mình đang dùng chiếc ip4s . Hôm qua mình có sử dụng ip hết pin và sập nguồn  Sau đó mình sạc pin , nhưng cứ khi mà rút sạc ra là máy bị tắt nguồn trong khi đó pin đầy và khi vẫn đang sạc mình bật máy lên chỉ hiện màn hình đc tầm 5s và sau đó lại bị tăt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8231325,
+         "id": "1001977",
+         "field_search": "question",
+         "question": "ae cho e hỏi máy e sau khi bị sập nguồn thì bây giờ e mở lên nó lại hiện mấy ứng dụng như máy ảnh, đèn pin,..trong một vòng tròn và e muốn mở tin nhắn thì nó báo \"hãy mở nắp và mở khóa màn hình bảo mật\" là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8138,
+         "id": "1007854",
+         "field_search": "question",
+         "question": "ho em hỏi điện thoại của em bị vào nước và bị hỏng main .điện thoại của em là lenovo a6600 plus.cho em hỏi giá của nó là bn tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.786167,
+         "id": "771216",
+         "field_search": "question",
+         "question": " Điện thoại Oppo R1001 sao tự tắt nguồn và mở lên thì nó hiện lên chữ Oppo rồi nó tắt lại ạ, sao bị hoài vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.782592,
+         "id": "1160116",
+         "field_search": "question",
+         "question": "Em sài j7 prime hết pin nó tắt nguồn mở không lên ngay cổng sạc có mùi khét là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.771582,
+         "id": "810680",
+         "field_search": "question",
+         "question": " Acer b1 723 bấm tắt nguồn không đươc. Là bị gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.770617,
+         "id": "845509",
+         "field_search": "question",
+         "question": "Cho em hỏi e có sài một iphone 5 sau một thời gian sử dụng thì máy có biểu hiện hay tự tắt nguồn khi mở nguồn thì lại hiện pin ảo sạc k lên % pin cho em hỏi là bị hư pin hay là lỗi máy á mà hiện tượng cúp nguồn sảy ra thường xuyên khoảng 3 phút một lần nếu cấm sạc thì k sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.76573,
+         "id": "1135130",
+         "field_search": "question",
+         "question": "Đt e là xiaomi mi3 điện thoại cắm sạc đồng thời bật nút nguồn nhưng máy không lên hình là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.753484,
+         "id": "1013985",
+         "field_search": "question",
+         "question": "cho mình hỏi về cái vụ tắt nguồn iphone, nếu như bình thường thì mình bấm nút nguồn đợi tới khi thanh \"slide to power off\", hiện ra sau đó trượt thì máy tắt nguồn, nhưng nếu khi thanh\"slide to power off\" hiện ra mà mình vẫn ấn giữ nút nguồn sau đó ấn giữ tiếp phím home thì vài giây sau vẫn tắt nguồn được, thì vậy là sao ad giải thích giùm mình cái. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.7466135,
+         "id": "1159218",
+         "field_search": "question",
+         "question": "Vì sao oppo a3s của em sac qua đem hôm sau dậy là máy bị chết luân không len được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.702184,
+         "id": "747676",
+         "field_search": "question",
+         "question": "Chào anh chị, em vào cài đặt xong vào ngôn ngữ và vùng iphone 5s. Em chọn vùng anh em tưởng đó là ngôn ngữ thế mà máy tắt nguồn khởi động lại không được là bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.699591,
+         "id": "1148368",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của em sạc qua đêm thì khi sáng em bật điện thoại lên chẳng được, như kiểu tắt nguồn mà lại mở nguồn lên không được :| nhưng trên điện thoại vẫn hiện đèn thông báo màu xám trắng cách mỗi 7 giây hiện 1 lần là sao ạEm dùng Sony Xperia XA",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

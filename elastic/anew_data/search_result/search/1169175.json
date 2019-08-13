@@ -1,0 +1,801 @@
+{
+   "id_query": "1169175",
+   "total": 34390,
+   "total_current": 100,
+   "max_score": 139.1148,
+   "origin_question": "Em muốn bán Huawei nova 2i (mua ngày 09/10/2018 và có đủ điều kiện bán lại cho cửa hàng chỉ thiếu tai nghe) và mua samsung a30 cũ. Với lại em chưa đủ 18 tuổi thì có thể mua bán điện thoại với siêu thị được không ạ.",
+   "hits": [
+      {
+         "score": 51.16897,
+         "id": "1133550",
+         "field_search": "question",
+         "question": "Mình muốn bán lại Samsung J5 Prime mua lại TGDD ngày 12/8/2018 còn đầy đủ phụ kiện trừ tai nghe, các chức năng đều ok thì giá tầm bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.037155,
+         "id": "1158944",
+         "field_search": "question",
+         "question": "Em có 2 triệu và muốn mua điện thoại coolpad mega 5 cũ. Thì không biết ở cửa hàng thegioididong có bán lại điện thoại cũ hay không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.024914,
+         "id": "1140009",
+         "field_search": "question",
+         "question": "E mới mua ĐT huwei Nova 3i ngày 10/11/2018. H e muốn bán lại có hộp mà kh có tại nghe với sạc thì giá thu lại là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.277542,
+         "id": "1168359",
+         "field_search": "question",
+         "question": "chào thegioididong hiện tôi đang có 1 máy huawei nova 2i lúc trước tôi mua tại thegioididong giờ tôi muốn bán lại cửa hàng có thu lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.28703,
+         "id": "1002627",
+         "field_search": "question",
+         "question": "m mới mua cái Mobile chưa đủ 1thang phụ kiện còn đây đủ .gio m muốn bán lại thế giới dd còn nữa lại kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.975697,
+         "id": "1158770",
+         "field_search": "question",
+         "question": "E mua đt huawei y7 2019 ngày 1322019 giờ muốn bán lại có được k và giá bán lại bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.813107,
+         "id": "1168257",
+         "field_search": "question",
+         "question": "Mình muốn bán lại điện thoại Huawei Nova 3i, điện thoại mua từ 04/08/2018 hiện vẫn còn bảo hành, xin hỏi là điện thoại sẽ được thu mua với giá là bao nhiêu? Xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.80215,
+         "id": "1168130",
+         "field_search": "question",
+         "question": "em mua huwei nova 2i ở thế giới di động. bây giờ em mang ra bán lại cho cửa hàng rồi thêm tiền để mua iphone được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.530327,
+         "id": "1146657",
+         "field_search": "question",
+         "question": "Chào ad có thể cho mình hỏi muốn mua điện thoại trả góp bên mình thì điều kiện cần và đủ là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.413643,
+         "id": "1154697",
+         "field_search": "question",
+         "question": "cho em hỏi laptop hp 15 da0058TU 4GB 1TB. 15,6'' i5 em mua vào 30/10/2018 còn đầy đủ phụ kiện, bán lại cho thế giới di động bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.81558,
+         "id": "1005054",
+         "field_search": "question",
+         "question": "Chào TGDD! Em muốn hỏi là với người chử đủ 18 tuổi muốn mua điện thoại trả tiền tại chỗ thì cần những giấy tờ thủ tục gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.73614,
+         "id": "1157857",
+         "field_search": "question",
+         "question": "Điện thoại huawei nova 3i của e mới mua được 4 tháng còn trả góp... E muốn bán lại và đổi sang hãng khác có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.234367,
+         "id": "770369",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua iPhone 6s trả góp 0%, nhưng mình chỉ có CMT và hợp đồng mua nhà tại khu đô thị Đặng Xá thì có đủ điều kiện mua được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.2204,
+         "id": "993326",
+         "field_search": "question",
+         "question": "A ơi e mua máy cũ ở siêu thị , h e muốn bán liệu liệu siêu thị có thu mua không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.110165,
+         "id": "1137769",
+         "field_search": "question",
+         "question": "cho hỏi mình mua iphone muốn đổi trả để sang note 9 máy mới mua cuối tháng 9 hộp còn cáp sạc và tai nghe ( chưa bóc tai nghe ) thiếu cái que chọc thẻ nhớ vs tấm decan iphone gì đó thì mình còn đủ điều kiện đổi trả k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.98583,
+         "id": "1006537",
+         "field_search": "question",
+         "question": "Em muốn mua Samsung galaxy j5(2016) nhưng tgdđ đã ngừng bán.  Vậy em đặt hàng tại siêu thị nhờ siêu thị lấy về được không!  Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.7121,
+         "id": "843767",
+         "field_search": "question",
+         "question": " em muốn mua 1 IP 5c thì cửa hàng mình có bán với giá 2tr7 k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.4125,
+         "id": "1020765",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp. Rồi bán lại cho cửa hàng là bao nhiu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.35342,
+         "id": "995075",
+         "field_search": "question",
+         "question": "mình cần bán điện thoại samsung a5 chưa qua sử dụng. vậy bên thegioididong có thể mua lại với giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.272255,
+         "id": "991409",
+         "field_search": "question",
+         "question": "Cho e hỏi trả góp cần bao nhiêu tuổi thì đủ điều kiện mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.049683,
+         "id": "1140772",
+         "field_search": "question",
+         "question": "AD cho em hỏi với. Hiện tại em ở phú quốc. Muốn mua trả góp nhưng chưa đủ 20 tuổi. Chỉ mới 19 thôi. Những người có thể đứng ra mua giùm em thì không có bên phú quốc ạ. Vậy em có thể làm gì để mua góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.836906,
+         "id": "993409",
+         "field_search": "question",
+         "question": "Em mua điện thoại oppo a39 chưa được 1 tháng,liệu em có thể bán lại cho tgdđ k  và giá chấp nhận là bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.60399,
+         "id": "1001398",
+         "field_search": "question",
+         "question": "Chào ad, tháng 4/2017 mình có mua tai nghe maxell bên TGDD ở Trường Chinh. Hiện nay tai nghe mình bị điếc 1 bên tai, nhưng mình không giữ vỏ hộp và hóa đơn(phụ kiện kèm theo vẫn đầy đủ), mình có thể đem ra cửa hàng và đổi lại tai nghe mới với chính sách 1 đổi 1 trong vòng 12 tháng như mình dc tư vấn ban đầu khi mua hàng dc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.47049,
+         "id": "1167889",
+         "field_search": "question",
+         "question": "Cho mình hỏi bây giờ mình muốn bán lại đt huawei nova 3i còn bảo hành tới 29/4/2020 mới mua đc 2 tuần bên mình mua lại bao nhiêu. Bao test cấn móp . đủ phụ kiện, chức năn hoàn toàn bth.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.38363,
+         "id": "1010161",
+         "field_search": "question",
+         "question": "Em mua Sony XA trả góp tại điện máy xanh và có hóa đơn Thegioididong. Vậy bây giờ em bán lại tại Thegioididong có được ko? Và giá bao nhiêu ạ? Em mua ngày 18/5/2017 Giá 4tr490",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.36066,
+         "id": "1167039",
+         "field_search": "question",
+         "question": "Em muốn hỗ trợ mua trả góp 2 chiếc xiaomi redmi note 7.Em có chứng minh thư đủ 20 tuổi hộ khẩu. Nhưng vấn đề thiếu tháng sinh thì bên mình có hỗ trợ cho em mua hàng không ạ. Mong được trả lời sớm từ cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.255573,
+         "id": "1008550",
+         "field_search": "question",
+         "question": "ad cho em hỏi oppo f1s của em mua khoảng 11 tháng trước còn bảo hành phụ kiện tai nghe sạc đầy đủ h muốn bán hoặc đổi trả thì giá trị còn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.993763,
+         "id": "1140601",
+         "field_search": "question",
+         "question": "em đủ 18 tuổi rồi,em có thể tham gia trả góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.93419,
+         "id": "1168338",
+         "field_search": "question",
+         "question": "Cho em hỏi huawei nova 3i thu lại được bao nhiêu vậy ạ.Em mua được khoảng 4 tháng (01/02/2019) Không bị hư gì hết, còn bảo hành, phụ kiện pin, tai nghe đầy đủ. Sdt 0938983587",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.87801,
+         "id": "929656",
+         "field_search": "question",
+         "question": " Em mua laptop tại cửa hàng giờ không có nhu cầu sử dụng nên muốn bán thù cửa hàng có thu mua lại không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.851646,
+         "id": "1013806",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có bán phụ kiện tai nghe cho điện thoại LeEco không ạ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.819073,
+         "id": "992738",
+         "field_search": "question",
+         "question": "Cho em hỏi, em  có mua j7 prime, còn bảo hành, hộp và phụ kiện đầy đủ thì bên tgdd có thu lại không với giá bao nhiêu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.72234,
+         "id": "1014156",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là e mua điện thoại sony Xperia XA chỉ có 7 tháng thôi máy còn mới hông trầy xước z hết nếu e bán lại thì được bao nhiêu ạ. Đầy đủ phụ kiện ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.688343,
+         "id": "1148286",
+         "field_search": "question",
+         "question": " Cho em hỏi là ngày mấy cửa hàng mới hoạt động lại ạ?Em sinh năm 1999 đã đủ tuổi mua trả góp ròi đúng ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.49452,
+         "id": "1011253",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài điện thoại zenfone 2 mua tại cửa hàng , bây giờ em muốn bán lại để đổi điện thoại mới có dc ko ( điện thoại em mua được 2 năm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.39837,
+         "id": "799328",
+         "field_search": "question",
+         "question": "Tôi mới mua máy iphone 5s tại thế giới di động nhưng chưa dùng tôi muốn bán lại thì cửa hàng có mua lại không?và bị trừ bao nhiêu phần trăm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.350185,
+         "id": "1009743",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua một máy ip5s trả góp. E góp còn khoảng 4 tháng nữa là hết. Bây giờ e muốn bán lại còn phụ kiện đầy đủ? Vậy e có được bán không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.199963,
+         "id": "1140855",
+         "field_search": "question",
+         "question": "cho em hỏi ở siêu thị có bán pin laptop cũ không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.97058,
+         "id": "848135",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em muốn bán iphone 5S 16G bạc bản quốc tế, mua tại Mỹ và dùng chưa đến 2 năm. Máy không bị trầy xước và chưa phải sửa chữa lần nào. Thì TGDD có thể thu mua lại với giá bao nhiêu ạ? Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.723503,
+         "id": "1153250",
+         "field_search": "question",
+         "question": "Điện thoại oppo f7 của em mua được tầm gần 4 tháng , sạc với dây nghe hộp còn đầy đủ nếu bây giờ bán được bao nhiêu ạ ? Và giữa oppo f7 và ip6plus 64gb thì nên xài nào ạ , mong được anh ( chị ) giải đáp giúp em ạ , em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.620506,
+         "id": "1161864",
+         "field_search": "question",
+         "question": "em chưa đủ 20 tuổi nên e nhờ bố e mua trả góp cho nhưng hiện tại bố em đang bị tai biến nằm liệt giường chưa đi lại được thủ tục mua e mang cmt với shk của lên đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.437134,
+         "id": "987975",
+         "field_search": "question",
+         "question": " Em có sổ hộ khẩu photo đủ 16 trang và CMND, e muốn mua điện thoại Huawei GR5 2017 Pro được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.28193,
+         "id": "1159689",
+         "field_search": "question",
+         "question": "Chưa đủ 18 với không có tk ngân hàng thì có thể ra tgdd nạp tiền vào momo không ạ ? Với cả không lk tk ngân hàng thì không thể ck cho tk ngân hàng của người khác đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.27702,
+         "id": "1141252",
+         "field_search": "question",
+         "question": "mình muốn trả góp điện thoại.....nhưng chưa đủ tuổi...mình có thể lấy cmnd của bố hoặc mẹ.....và sổ hộ khẩu gia đình đưa đến mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.18705,
+         "id": "795696",
+         "field_search": "question",
+         "question": "Mình có mua laptop samsung series 5 seri: hwbn91cc900022v, phụ kiện đầy đủ ở tgdd. Giờ mình muốn bán lại đổi laptop mới thì bên tgdd thì bên bạn hỗ trợ được bao nhiêu? Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.14787,
+         "id": "1019337",
+         "field_search": "question",
+         "question": "Thegioididong có bán máy nghe nhạc mp3 không ạ? Em tính ra cửa hàng mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.07492,
+         "id": "996291",
+         "field_search": "question",
+         "question": "Cửa hàng mình có bán tai nghe HTC degsire 820 k ăd..với cục sạc luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.069405,
+         "id": "781620",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở TGDĐ có bán iphone 5S cũ không? Mình mua lumia 730 được hơn 1 năm và muốn bán lại mua iphone 5s thì mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.9882,
+         "id": "895750",
+         "field_search": "question",
+         "question": "Mình mua Dell spiron 3558 ở tgdđ được 2 tháng,bây giờ muốn bán lại được không?mình còn đủ hộp những tờ hóa đơn mua hàng thì không tìm ra,vậy có bạn lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.882294,
+         "id": "1152475",
+         "field_search": "question",
+         "question": "Chị realme c1 còn hàng ko chị . Với lại em muốn bán điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.775654,
+         "id": "1016395",
+         "field_search": "question",
+         "question": "Mình định bán lại điện thoại Samsung Galaxy J5 Prime với giá khoản 5.000.000 được không hay ra ngoài cửa hàng định giá..?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.767715,
+         "id": "1012882",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại oppo F3 ngày 01082017. Em muốn bán lại.  Vậy cho em hỏi TGDĐ thu mua lại như thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.488277,
+         "id": "1167085",
+         "field_search": "question",
+         "question": "Em mới mua Ipad Huawei Mediapad T5 được tầm 3 tháng tại TGDD. Em muốn bán lại thì TGĐ có mua k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.46705,
+         "id": "1142865",
+         "field_search": "question",
+         "question": "Add oi Cho em hỏi.. nếu như em muốn mua đt trả góp ..18tuoi em có đủ điều kiện mua HK ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.4267,
+         "id": "990831",
+         "field_search": "question",
+         "question": "Cửa hàng cho mình hỏi . Mình muốn bán samsung a7 bản 2016 mà mình mua từ tháng 8 năm trước . Bây giờ bán lại được nhiều không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.374943,
+         "id": "792274",
+         "field_search": "question",
+         "question": "Em là sinh viên muốn mua 1 iphone 5s trả góp. Em chưa đủ 20 tuổi thì có mua được không và nếu được thì e có chứng minh nhân dân, 1 biên lai đóng tiền kì gần nhất, 1 sổ hộ khẩu phôtô công chứng và thẻ sinh viên thì có đủ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.29959,
+         "id": "786803",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại iphone 6s Plus 16gb,từ ngày 21-11-2015, nếu tôi muốn bán lại cho tgdd thì có được không?và chụi lỗ bao nhiêu %?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.2965,
+         "id": "1008971",
+         "field_search": "question",
+         "question": "Em có đặt mua tai nghe mà shop bảo có thể nhận hàng tại siêu thị từ 478 thì em có thể nhận sớm hơn k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.27169,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.15461,
+         "id": "1023779",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp máy 0% nhưng em chưa đủ tuổi em có thể mang Cmnd của mẹ và sổ hộ khẩu lên trả góp được không ? Ai sẽ là người ký ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.133347,
+         "id": "1011858",
+         "field_search": "question",
+         "question": "Qtv ơi mình có mua 1 chiếc oppo f3 màu đen tại tgdd ở thường lệ mê linh hà nội. Ngày 18-7-2017 mình không có nhu cầu sử dụng nữa muốn bán lại cho cửa hàng thì giờ được bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.129486,
+         "id": "1139988",
+         "field_search": "question",
+         "question": "Bán lại máy cũ mua của tgdd giá như thế nào vậy. Huawei nova 3i. Nứt màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.09652,
+         "id": "995173",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước có mua điện thoại bên thế giới di động, giờ em muốn bán lại thì bán đc bnhiu vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.047565,
+         "id": "991012",
+         "field_search": "question",
+         "question": "Mình mua máy mới j7 prime lúc cuối tháng 9 còn đầy đủ phụ kiện ở tgdd, giờ mình muốn bán lại được tầm bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.03561,
+         "id": "1142012",
+         "field_search": "question",
+         "question": "dưới 18 tuổi thì em có được mua điện thoại không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.948666,
+         "id": "1133499",
+         "field_search": "question",
+         "question": "mình có mua 1 samsung j4 2018 tai TGDD gio mình muốn bán để đổi lại diện thoai khác dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.893375,
+         "id": "757956",
+         "field_search": "question",
+         "question": " Em mua laptop trả góp tại cửa hàng của mình bây giờ em không thích xài laptop nữa em có thể nào bán lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.888626,
+         "id": "1163866",
+         "field_search": "question",
+         "question": "Mình mới mua samsung galaxy a7 hôm 18/3/2019. mình nhận thấy máy bị trễ cảm ứng, h mình muốn đổi lại thì có cần thêm phí gì k ạ( máy mình vẫn còn đầy đủ hộp và phụ kiện)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.86019,
+         "id": "1022972",
+         "field_search": "question",
+         "question": "em có mua chuột có dây bên mình, mặt hàng chỉ bán online, bây h em hủy mặt hàng cũ và mua mặt hàng mới thì phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.757954,
+         "id": "1019219",
+         "field_search": "question",
+         "question": "TGDD mình có thâu lại điện thoại cũ k ạ, lúc trước e có mua một con nhưng muốn bán lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.72253,
+         "id": "1165452",
+         "field_search": "question",
+         "question": "Điện thoại em mua đc 1 năm r bán cũ lại cho tgdđ đc k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.62353,
+         "id": "1154409",
+         "field_search": "question",
+         "question": "QTV ơi! Cho em hỏi là hiện tại cửa hàng mình có bán tai nghe ip6 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.582413,
+         "id": "1133539",
+         "field_search": "question",
+         "question": "Cho mình hỏi huawei nova 3i có hỗ trợ tính năng nào kết nỗi với tivi không, bên cửa hàng tgdd có bán cáp nào kết nối với tivi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.533215,
+         "id": "992336",
+         "field_search": "question",
+         "question": "Mua điện thoại trả tiền mặt đủ 100 có cần phải đủ tuổi mới mùa được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.520622,
+         "id": "1022865",
+         "field_search": "question",
+         "question": "chào mình cần mua máy chả góp . nhưng mình lại chỉ có cmtnd thôi . vậy thì có đủ điều kiện hay không ? mình định mua bphone 2017 . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.504917,
+         "id": "1168342",
+         "field_search": "question",
+         "question": "A chị cho em hỏi bên cửa hàng mình có bán điện thoại Redmi 7 không vậy ạ? Nếu có thì cho em xin giá luôn với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.470142,
+         "id": "1021887",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại cũ 5se có trả góp nhưng hiện tại em ở quảng nam mà điện thoại 5se bán ở tgdd Hà Giang vậy thì làm sao có thể mua được máy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.456326,
+         "id": "1166930",
+         "field_search": "question",
+         "question": "Em vừa đủ 18 tuổi vậy có được tham gia trả góp ko em muốn góp máy samsung galaxy A50 128g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.44904,
+         "id": "747932",
+         "field_search": "question",
+         "question": "  Cho em hỏi tại TGDĐ có bán iPhone cũ không anh, tính mua mà tìm không ra máy cũ anh chỉ giúp em với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.441948,
+         "id": "1014777",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi. Mình mới mua huawei gr5 2017 được 1 tháng. Mình muốn bán lại cho của hàng thì được hoàn tiền bao nhiêu ℅ vậy. Máy mình để lại phụ kiện dùng cho con mate 8 nên chỉ có máy trần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.43189,
+         "id": "1023715",
+         "field_search": "question",
+         "question": "Xin chào.Cho mình xin hỏi mình có mua 1 điện thoại samsung j7prime ở thế giới gì động. Đến nay đc 9 tháng. Giờ mình muốn bán lại cho cửa hàng thế giới di động. Có được không ạ.Ad trả lời nhanh cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.391827,
+         "id": "1163080",
+         "field_search": "question",
+         "question": "Nếu chưa đủ tuổi mà dùng hộ khẩu có thể trả góp điện thoại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.38304,
+         "id": "1024367",
+         "field_search": "question",
+         "question": "E mua điện thoại ở tgdd giờ e muốn bán lại cho tgdd có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.38041,
+         "id": "1135556",
+         "field_search": "question",
+         "question": "Chào TGDD, mình có mua Galaxy A6 2018 tại TGDD tháng 10 vừa rồi. Do không để ý, bây giờ mình mới check bảo hành điện tử của Samsung thì hạn bảo hành là từ 25/09/2017 - 24/09/2018. Tức là đã hết hạn bảo hành từ khi mình chưa mua. TGDD bán máy cũ cho mình à? Rõ ràng là mình mua hàng fullbox chính hãng cơ mà? Đề nghị TGDD giải đáp cho mình qua sdt 0898486897",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.366875,
+         "id": "845644",
+         "field_search": "question",
+         "question": " Tại sao lại k còn bán ss s6 vậy??? Nếu bán thì ở siêu thị nào bán ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.272865,
+         "id": "999052",
+         "field_search": "question",
+         "question": "Mẹ Mình mua góp dùm iphone 6 32GB giá 8.990k và trả góp 8 tháng dùm mình vì mình chưa đủ tuổi và đã trả được 1 tháng và ngày 8/7/2017 mình sẻ đóng là tháng thứ 2 và mình thấy iphone 6s plus 32GB lên kệ với giá là 14.990k ... mình muốn trả dồn hết 1 lần tiền góp iphone 6 trong vòng 7 tháng nữa được không ??? và mình có thể bán lại máy iphone 6 rồi bù tiền để lên iphone 6s plus không ? và cần đem những gì để trả góp hết 1 lần ?Máy được sử dụng vào ngày 13/5/2017 nếu bán lại TGDD thì mất bao nhiêu % ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.11448,
+         "id": "1021880",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có mua điện thoại bên Điện máy xanhnhưng giwof mình muốn đổi sang máy khác, mình muốn bán lại điện thaoij cho của hàng, rồi đổi sang mua máy khác tại cửa hàng có được k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.108276,
+         "id": "1147625",
+         "field_search": "question",
+         "question": "Ở cửa hàng có bán ốp điện thoại kyocera 503KC ko. Và nếu bán thì cho hỏi giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.072483,
+         "id": "989892",
+         "field_search": "question",
+         "question": " Dạ cho em hỏi bên mình có bán tai nghe Samsung không? Với cục sạc Oppo Neo 7? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.03026,
+         "id": "1168026",
+         "field_search": "question",
+         "question": "Em năm nay 18 tuổi đã đủ để đăng kí trả góp chưa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.944786,
+         "id": "1007031",
+         "field_search": "question",
+         "question": "Em mua trả góp điện thoại ở tgdd và giờ đã trả xong, samsung A5 (2017) của e đã sử dụng được 4 tháng, e muốn bán lại điện thoại được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.902454,
+         "id": "1143371",
+         "field_search": "question",
+         "question": "Em muốn mua cáp chuyển đổi tai nghe cho Iphone 7 plus thì bên mình có bán k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.864193,
+         "id": "998175",
+         "field_search": "question",
+         "question": " em muốn mua card 500k .cửa hàng tggd có bán ko ạ.hay là mua online ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.828648,
+         "id": "996766",
+         "field_search": "question",
+         "question": "Ad cho hỏi là e mới mua galaxy j2 prime giá 2690.000đ.tặng phiếu mua hàng 100.000đDo không có nhu cầu nữa e muốn trả lại thì em được hoàn lại bn tiền ạem mới mua 3 tuần và còn đày đủ phụ kiện,máy không xước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.826935,
+         "id": "1154289",
+         "field_search": "question",
+         "question": "Chào bạn!!!!!!!Cho mình hỏi điện thoại huawei nova 3i bây giờ của cửa hàng bán giá bao nhiêu vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.806206,
+         "id": "1013899",
+         "field_search": "question",
+         "question": "Iphone 5s mua còn mới mua về chưa dùng bán lại thì bên thegioididong mua lại với giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.718666,
+         "id": "1139944",
+         "field_search": "question",
+         "question": "E vừa đặt cái samsung j6+ nhưng năm sinh của em là 1999 nhưng e đăng ký 1998 để đủ điều kiện mua hàng ,cửa hàng giúp e làm hồ sơ giã để đăng ký được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.678352,
+         "id": "1156094",
+         "field_search": "question",
+         "question": "Em có mua Samsung A9 2018 trong khoảng ngày 16-20/2, đến bây giờ đã được 1 tháng hơn rồi ạ , em mua tổng là 10tr070, máy vẫn còn mới vì em giữ rất kĩ, không trầy hay có lỗi gì... em muốn đổi sang dùng iphone7plus giá 13tr9,,, thì bây giờ em phải bù thêm bao nhiêu để có thể mua được cái 7plus ạ ? Hộp và hoá đơn vẫn còn đầy đủ, tai nghe còn nguyên tem chưa tháo ra, chỉ mới sử dụng dây sạc thôi ạ , em muốn đổi qua thì bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.6497,
+         "id": "770309",
+         "field_search": "question",
+         "question": " Tôi mua iphone 6plus ở thế giới di động quãng bình,bây giờ vì điều kiện nên muốn bán lại thì shop có thu hồi không ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "773974",
+   "total": 32077,
+   "total_current": 100,
+   "max_score": 74.47705,
+   "origin_question": " Cho e hỏi iphone của em là thật hay giả vậy do mới mua mà sợ bị lừa nên hơi lo  ",
+   "hits": [
+      {
+         "score": 28.005045,
+         "id": "816831",
+         "field_search": "question",
+         "question": " Cho em hỏi cách nào để biết iphone thật hay giả vậy AD? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.070742,
+         "id": "747122",
+         "field_search": "question",
+         "question": " Em kiểm tra imei tren trang apple dùng là ip6 nhưng sao lại chạy hệ android . Cho e hỏi ip của e là giả hay thật ahah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.678959,
+         "id": "922159",
+         "field_search": "question",
+         "question": " Add coi giùm e coi e đt e 5s giả hay thật được không ạ..điện thoại e không biết giả hay thật  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.147442,
+         "id": "1157466",
+         "field_search": "question",
+         "question": "Em mới mua Iphone 7 plus được hơn 10 ngày thì tình trạng pin còn 99 thì có sao không ạ ? Mới mua nên em hơi lo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.757586,
+         "id": "743636",
+         "field_search": "question",
+         "question": "QTV TGDĐ ơi. Anh chị kiểm tra hộ em cái emei iphone 013554003288967 là bản lock hay bản quốc tế chính hãng với. Em mua máy qua sử dụng nên thấy hơi lo. Anh chị tư vấn cho e với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.038363,
+         "id": "1160604",
+         "field_search": "question",
+         "question": "E mới mua 1 con huawei p30 lite e sạc có cảm giác hơi nóng cho e hỏi là do dòng điện thoại hay sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.4305,
+         "id": "763460",
+         "field_search": "question",
+         "question": "Anh chị ơi. Kiểm tra cho em số IMEI 352005062528347 là máy lock hay bản quốc tế với. Em mua cũ mà không biết kiểm tra nên thấy lo lo. Anh chị giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.085394,
+         "id": "1168286",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi...e mới mua sam sung a30 nhưng xài thì gặp trường hợp bị đơ máy...vậy máy e do phần mềm hay do máy vậy ạ...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.892654,
+         "id": "777310",
+         "field_search": "question",
+         "question": " Lần đầu dùng chưa phân biệt đâu là thật giả anh giúp em  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.830748,
+         "id": "780867",
+         "field_search": "question",
+         "question": "Cho em hỏi đây là thông số máy của iPhone 4s hay iPhone 4 thường vậy Ad và máy là hàng thật hay dả và có xuất sứ từ đâu vậy aEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.82821,
+         "id": "1168494",
+         "field_search": "question",
+         "question": "cho mình hỏi, trên facebook có chương trình nhận quà tai nghe bluetooth từ thế giới di động là có thật hay lừa đải ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.661797,
+         "id": "823216",
+         "field_search": "question",
+         "question": "Xin chào. cho e hỏi e mới mua một con iPhone 5s 32 g máy củ số imei 358757055305562 e l biết kiểm tra máy xin các a giúp dùm e kg kiểm tra được gì cả vậy e xin các anh chi kiểm tra dùm thử máy thật hay máy giả. xin cảm oen ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.606913,
+         "id": "991749",
+         "field_search": "question",
+         "question": "cho hỏi làm sao tải game vương giả ving diệu trên ios vay em sợ tải trên safari bị dính viruts hay gì đó em mún tải tren appstore vạy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.53362,
+         "id": "1154554",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em cứ lúc nào sạc là bị nhoè theo kiểu màu bị mờ hơi hơi trắng.Có phải gần thiết bị gì đó nên màn hình bị như vậy không ạt.Em đang dùng IPhone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.097256,
+         "id": "1150825",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy bị như thế này là do lỗi của điện thoại hay tại e cài gì nên nó bị ạ.em đang dùng điện thoại vivo y85 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.662178,
+         "id": "804544",
+         "field_search": "question",
+         "question": "Laptop của em là Dell, mua cách đây chưa lâu.Hôm nay khởi động màn hình bị đen khoảng 20s rồi mới hiện desktop, em thử mấy lần đều bị, không biết là do lỗi hay do thời tiết ẩm ướt nên bị ad nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.596472,
+         "id": "1011861",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi Điện thoại Mobistar lại zumbo thường của em cấu hình máy có đủ mạnh để chơi game giả lập PSP không. Mà là do cài đặt hay là do máy. E thấy nhiều người khác họ chơi rất mượt mà e chơi thì thấy rất rật lag . Rất khó chơi mong anh thử nghiệm và chờ e câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.577644,
+         "id": "840730",
+         "field_search": "question",
+         "question": " Em mới mua iPhone 5s về sạc thấy máy hơi bị nóng vậy có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.577328,
+         "id": "766792",
+         "field_search": "question",
+         "question": "Em từ pháp mới về việt nam, cái iphone 6 xách tay từ bển về do lạnh quá nên có hơi nước trên màn hình. Giờ cắm sạc vô không được nữa, vậy máy bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57003,
+         "id": "1155834",
+         "field_search": "question",
+         "question": "Cho e hỏi Iphone X e xài nhanh bị nóng máy, là do dòng máy X như vậy hay tại lỗi máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.551952,
+         "id": "999080",
+         "field_search": "question",
+         "question": "cho e hỏi oppo A37 em mới mua thường hay tự động tắt nguồn rồi khởi động là là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.404911,
+         "id": "990110",
+         "field_search": "question",
+         "question": "để phân biệt iphone 6 giả va thật mình phân biệt sao thế giới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.207108,
+         "id": "868057",
+         "field_search": "question",
+         "question": " Em muốn nhận biết giữa iphone 5 thật với lai 5 giả như thế nào ạ ????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.173761,
+         "id": "774948",
+         "field_search": "question",
+         "question": "Máy iPhone 5 lúc nằm mà dùng máy nghiêng máy thì loa ngoài phát được, hơi nhỏ 1 tí, nhưng dùng bình thường như ngồi, đi lại thì loa ngoài không nghe được, chỉ có lúc nằm mới được ( hơi nhỏ) cái này là do lỏng chân loa hay là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.117966,
+         "id": "837894",
+         "field_search": "question",
+         "question": " Iphone mới mua sạc vào pin hơi nhanh ạ. Chưa đến 3 giờ. Vậy là có bị sao không ạ. Em đang xài 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.782072,
+         "id": "853954",
+         "field_search": "question",
+         "question": " Mình mua iPhone mà ngoại hình xấu thì nên để cho cửa hàng làm mới lại, hay bỏ mua cái khác vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.730154,
+         "id": "845494",
+         "field_search": "question",
+         "question": "cho em hỏi con ASUS tp301UA i5 6200U liệu có chơi được fifa 3, Liên minh,... được không ? tại thấy con này không có card màn hình rời nên em hơi lo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.647326,
+         "id": "896056",
+         "field_search": "question",
+         "question": " Cho em hỏi con iphone 5 của e là hàng rì.... Em mới mua lại mà k biết nó ntn 99  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.621525,
+         "id": "1009093",
+         "field_search": "question",
+         "question": "Cho em hỏi quay phim bằng J5 prime khi mình hát thì giọng của mình có bị lọc không, hay đó là giọng thật của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60524,
+         "id": "764118",
+         "field_search": "question",
+         "question": "Chào anh(chị)Em mới mua một chiếc iPhone 5s LOCK 32G. Em nghe bảo cần jaibreak mới fix được hết lỗi. Em cần một lời khuyên là em nên nâng cấp lên IOS mấy? 8.4.1 hay là bản 9. Bản iOS 9 nếu hết lỗi thì 5s có nên lên không vì em sợ máy chưa đủ độ như 6 hay 6sEm cảm ơn !!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.537113,
+         "id": "875873",
+         "field_search": "question",
+         "question": " e mới mua máy dell inspirion 15 3000 series mà chơi game lol có dấu hiệu hơi lag thì cho e hỏi nó bị làm sao ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.5304,
+         "id": "745493",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi vớimình mới mua ip 6s plushnay mới sạc lần đầu, mình thấy chân sạc hơi nóng, ko biết có phải là bt ko hay là bị lỗi ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.479275,
+         "id": "819217",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ. em dùng iphone 5s mà do mới đổi mật khẩu mà em không nhớ nên điện thoại em bị vô hiệu hóa. bên thegioididong có sữa chữa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.4362,
+         "id": "929028",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao pin của e vẫn tốt mà tụt pin hoài,không dùng cũng tụt. Hay do e mới cập nhật IOS 10.2 ạ. Điện thoại e là Ip 5s ạ. Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.172028,
+         "id": "852194",
+         "field_search": "question",
+         "question": "E mới mua lap acer aspire z1402 30ba i3 5005u/4gb/500gb dùng siêu nhanh hết pin, chỉ lướt web bt mà khoảng 50' là hết pin, e muốn hỏi nhanh hết pin như vậy là do pin chỉ là 3cell hay là có lý do khác ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.169912,
+         "id": "927271",
+         "field_search": "question",
+         "question": "cho e hỏi là e vừa mua cái ip5s từ bạn e. e muốn reset máy như mới cho dễ xài. Nên e hỏi các anh là có nên hay ko và nên làm như thế nào. tks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.145851,
+         "id": "1001337",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua ip 6s dc 2 ngày r mà khi gọi nghe đầu dây bên kia nc rất nhỏ. Đó là do máy hay mạng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.129837,
+         "id": "1168882",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu iPhone 6 mà cứ bị tụt pin mãi ( không dùng hay dùng gì cũng bị tụt rất nhanh so với ip khác )  là hư gì hay là do vốn dĩ ip bị v ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.023846,
+         "id": "998893",
+         "field_search": "question",
+         "question": " Máy OBI SJ1.5 làm thế nào để phân biệt thật giả ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.991362,
+         "id": "1012378",
+         "field_search": "question",
+         "question": "Cho e hỏi là ip4s của e pin còn 10 sao sập nguồn đc là do bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.983786,
+         "id": "894831",
+         "field_search": "question",
+         "question": "Điện thoại mình tự nhiên hiện lên cái thông báo này, Ad cho mình hỏi cái này có phải ben TGDD không hay là của bọn lừa đảo vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.948359,
+         "id": "991889",
+         "field_search": "question",
+         "question": "ip7 có nên dán cường lực ko ạ?? và do khi mới mua máy dùng dc vài ngày nhưng mình thấy ko nhạy lắm nên nếu dán cường lực sợ ko ăn luôn. nv bên tgdd từng tư vấn ko nên dán cường lực mà chỉ dán màn hình chống trầy thôi. cho mình hỏi mình nên làm gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.920559,
+         "id": "1150374",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có con pocophone F1 mà thỉnh thoảng nó bị out ứng dựng vậy lỗi này là do máy mặc định bị thế hay do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.870949,
+         "id": "834074",
+         "field_search": "question",
+         "question": "mình có tầm 6tr thì nên mua laptop chính hãng nào ạ . nhu cau của em là chơi game nhẹ ( kvtm , gunny ,... ) , chơi game giả lập android và game giả lap ps3 , xem phim và nghe nhạc thì nên mua máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.843887,
+         "id": "995499",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Đt em mới mua ở tgdd do bị lỗi kỹ thuật nên em cần sự hỗ trợ của của hàng tgdd mà em làm mất sổ bảo hành mà có giấy CMND đăng ký mua đt thôi có đc hỗ trợ nếu sản phẩm bảo hành không. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.822342,
+         "id": "820518",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên thegioididong có dịch vụ kiểm tra ip giả hay thật không? Nếu có thì chi phi dịch vụ bao nhiêu tiền? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.812601,
+         "id": "749010",
+         "field_search": "question",
+         "question": "cho em hỏi iPhone 6 không dùng để vậy cũng bị hao pin do phai lấy điện để nuôi nguồn phải không, hay là có lý do nào khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.81225,
+         "id": "998417",
+         "field_search": "question",
+         "question": "Mình có nên tải app diệt virus cho iPhone 6 ko, vì mình sợ có máy chậm hay j đó!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.788465,
+         "id": "1161079",
+         "field_search": "question",
+         "question": "Cho mình hỏi chu trình xả pin là gì, máy mình mới mua nhưng check phone info đã thấy chu trình xả pin hơn 70 và tình trạng pin là 94%. Liệu mình có bị lừa không và mình nên làm gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.734913,
+         "id": "895818",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi. Hiện tại iphone nâng cấp điều bị lỗi hả. Iphone của e 5s. Phiên bản 8.3 muốn nâng cấp lên 10.0 mà k biết có nên k. Tại ms đọc đc thông tin là nâg cấp bị lỗi nên e cũg đag k biết có nên nag cấp hay k. Mog ad cho câu trl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.52653,
+         "id": "1160523",
+         "field_search": "question",
+         "question": "Shop cho e hỏi sao e mua con samsung A30 mà chơi game nó cứ đứng đứng là do lí do máy bị sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.49164,
+         "id": "960603",
+         "field_search": "question",
+         "question": "AD cho em hỏi ip5 của em phần cảm ứng phía trên nút home khoảng 1cm của em bị liệt nên thanh công cụ không dùng được.cái này do lỗi màn hình hay do phân mềm ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.476255,
+         "id": "874538",
+         "field_search": "question",
+         "question": "Máy của em là iphone 4s mới lên ios 9.3.4 thì thấy hao pin..em ko biết là có phải do phiên bản ios này ko ? Hay là tại do pin của em có vấn đề ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.40944,
+         "id": "925237",
+         "field_search": "question",
+         "question": "iPad mini của em khi chơi game nó hay lag rồi giật giật rồi xog thoát ra màn hình chính luôn cho em hỏi là do ram bị yếu hay do cpu hay do 1 cái j khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.372227,
+         "id": "1023095",
+         "field_search": "question",
+         "question": "Mà cho em hỏi là em xài samsung galaxy j2 prime mà đt cứ hay chớp nhá phia trên màn hình và nó bị đứng nên minh không thể nt or dt hay sử dụng được gì hết khoảng một lúc sau thì nó mới hết, e đã thử tắt nguồn mở lại, cập nhật phần mềm nhưng nó vẫn cứ bị như vậy là sao ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.322186,
+         "id": "1013266",
+         "field_search": "question",
+         "question": "Cho e hỏi là tai nghe của nokia 3 bị lỗi nghe 1 bên to 1 bên nhỏ mà máy e mua mới vậy bây giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.317528,
+         "id": "754503",
+         "field_search": "question",
+         "question": " iPhone 5 có nên lên IOS 9 không ạ? Em muốn lên nhưng sợ bị lag máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.306774,
+         "id": "951373",
+         "field_search": "question",
+         "question": "E hơi dốt về ip các bác cho e hỏi bị thế này là bị thế nào ạVân tay của e không nhậy mấy hôm qa e có xoá bỏ vân tay cũ đi đặt lại vân tay mới nhưng mà k được đặt gần xong ùi thì nó cứ chạy lại từ đầu nên giờ e gí vào vân tay nó k chạy nữa là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.284744,
+         "id": "1145007",
+         "field_search": "question",
+         "question": "Cho mình hoi cong sạc nhanh có 2 lo.cam để sạc dthoai trên sạc dự phòng,vậy khi sdung sạc dự phòng mình cam lo nào phù hop và nó kia 5plus mình thấy lo có sở vôn nhỏ và lo sợ vôn cao hơn hay cam sạc lô có nào cũng OK k anh hưởng dt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.273464,
+         "id": "794634",
+         "field_search": "question",
+         "question": " Iphone 5s của em mới mua về là 1560 mAh mà xài gần 2 năm rồi mà nó còn 1400mAh vậy pin nó có bị chai không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.263851,
+         "id": "883381",
+         "field_search": "question",
+         "question": "cho em hỏi là điện thoại iphone của em do va chạm nhẹ nên vỏ bị cong nhẹ, không biết có ảnh hưởng nhiều đến việc sử dụng máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.21017,
+         "id": "923228",
+         "field_search": "question",
+         "question": " A ơi em lo có mk iCloud còn Apple và gmail của e bh đt đòi iCloud mà lo ko tìm đi bh e phải lm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.154963,
+         "id": "1153518",
+         "field_search": "question",
+         "question": "cho e hỏi e có sài đt itel ă. E vô fb của e để đăg ảnh mà ko đc nó cứ đề thử lại , còn sử dụng đt khác vô fb là đc , z cái đó là do đt của e hay là do fb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.132,
+         "id": "1011356",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoai cũ là  do người  ta sử dụng xong ban lại hay là người  ta đổi  hay máy bị lỗi vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.097105,
+         "id": "1160202",
+         "field_search": "question",
+         "question": "Em dùng 6plus do cập nhật io12.4  chiếm quá nhiều dung lượng đt nên đt có vẻ chậm và dùng ứng dụng hơi là . Vậy em có thể hạ ios xuống không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.08324,
+         "id": "1022473",
+         "field_search": "question",
+         "question": "ai cho e hỏi vs s đt meizum5s chơi liên quân khi bật voice chat toàn bị rè rè vậy ?? do mạng hay do loa của máy bị hỏng v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.069998,
+         "id": "1165205",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 7 32gb đôi lúc sóng yếu mạng hay chập chờn wifi cũng chậm lý do tại sao bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.0621,
+         "id": "1020620",
+         "field_search": "question",
+         "question": "Mấy sony xa của e, nó bị lỗi có cái vạch màu ở dưới thanh chức năng là do lỗi phần mềm hay do màn hình vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.920421,
+         "id": "1156554",
+         "field_search": "question",
+         "question": "Cho hỏi anh chị đội ngũ là Realme  C1 chơi pubg khi mà mạng wifi màu vàng hoặc đỏ em cảm thấy nó hơi chậm và hơi giảm cấu hình, lý do chắc là do mạng anh chị nhỉ? Tại em thấy máy này có đứa chơi ở wifi mạnh nó rất mượt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.914611,
+         "id": "745803",
+         "field_search": "question",
+         "question": " Ad ơi. cho em hỏi tý. ipad mini của em bị đơ là do đâu vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.896437,
+         "id": "870275",
+         "field_search": "question",
+         "question": " Hiện tại bây giờ em muốn mua 1 con ip 5s.. 16g.. Màu trắng.. Hàng 99 thì nên mua ở đâu.. Thì tránh bị lừa hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.892726,
+         "id": "802327",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s, còn nguyên hộp imei: 352004061923633. Kiểm tra thì đã hết hạn bảo hành, vậy máy em có phải hàng giả không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.875075,
+         "id": "1011543",
+         "field_search": "question",
+         "question": "cho mình hỏi là dữ liệu di động khi  sử dụng hết thì có sao không? nghe nói cước phí là rất cao nhưng mình sử dụng 2 ngày rồi mà tài khoản chính vẫn ko bị trừ tiền, có khi nào sau này mới bị trừ tiền một lần theo chu kì gì đó ko nhỉ, mình hơi lo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.866163,
+         "id": "834687",
+         "field_search": "question",
+         "question": "iPhone 6 Plus của mình cứ hễ di chuyển cái assivetouch thật nhanh ra giữa màn hình là tự nó về chỗ cũ. Cho hỏi là bị gì vậy ạ, di chuyển chậm thì ko sao. Của mình là 9.2.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.847093,
+         "id": "1164048",
+         "field_search": "question",
+         "question": "Gần đây đt e sạc pin hơi lâu đầy ạ. E sài đt oppo f1s có phải là do sài lâu r nên tuổi thọ pin giảm nên là sạc lâu vô k ạ. Nếu thay pin thì có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8274145,
+         "id": "941630",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài điện thoại iphone 5s 16GB nhưng điện thoại e thường xuyên bị tắt nguồn không hiểu lý do tại sao vậy nên làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.824912,
+         "id": "1152075",
+         "field_search": "question",
+         "question": "Cho e hỏi galaxy a7 e mới mua, khi quay video, không thể chuyển came từ came trk ra came sau và ngược lại, là do lỗi  máy hay do tính năng của quay video không thể chuyển được ạ.Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8124275,
+         "id": "990725",
+         "field_search": "question",
+         "question": "E đang sử dụng Ip5s, e mới cập nhật lên IOS 10.3.2 được gần 1 tháng. Lúc mới cập nhật thì điện thoại e sử dụng bình thường, có phần mượt hơn IOS 9 nhưng thời gian gần đây e thấy điện thoại ko còn mượt nữa, nhiều lúc rất lag và hay bị treo màn hình phải tắt màn hình đi xong bật lại mới được. Cho e hỏi là điện thoại e bị như vậy có phải do HĐH hay ko, và nếu là do HĐH thì có nên hạ HĐH xuống hay ko. Mong nhận được câu trả lời sớm nhất ạ, e xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.781338,
+         "id": "917319",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e là ip 5s nhưng tài khoản icloud của e bị khoá và k nhận đc thư để kích hoạt lại . Vậy e có thể nâng lên ios 10 không ? E sợ đến lúc đăng nhập nỏ hỏi tài khoản icloud và bị khoá lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.777639,
+         "id": "1162591",
+         "field_search": "question",
+         "question": "cho em hỏi là em có mua Iphone 6s plus lúc tháng 9, máy mới 100%, nhưng hiện tại máy xuống pin rất nhanh và dùng tầm 10 phút máy hơi bị nóng thì có đc bảo hành thay pin mới ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.704773,
+         "id": "1155580",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em cấu hình như vậy có chơi được giả lập pubg mobile không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6564665,
+         "id": "808953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi , có phần mềm diệt virus nào hiệu quả cho iphone không ạ? Em mới tậu một em iphone 5s, mà sợ hay lên mạng google máy mó này nọ, lại rước về nhà không biết bao nhiêu em virus thì đau khổ lắm !!!! help helppp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.628635,
+         "id": "1018406",
+         "field_search": "question",
+         "question": "Ac  cho em hỏi sao máy oppoa37 em mới mua mà thỉnh thoảng nó hay bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.620357,
+         "id": "1021990",
+         "field_search": "question",
+         "question": "Cho e hỏiE có mua online 1 điện thoại hiệu Obi của TGDĐ cách đây khoảng 2 tháng mà do bị rớt nên màn hình bị nứt nhiều và bị loạn cảm ứng. Vậy mình đem đến trung tâm sữa chữa của TGDĐ để sữa chữa và chịu phí được ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.599625,
+         "id": "1012522",
+         "field_search": "question",
+         "question": "ad ơi cho hỏitgdd có gọi đt báo trúng iphone là thật hay s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.595228,
+         "id": "775285",
+         "field_search": "question",
+         "question": "Thegioididong cho mình hỏi iphone của mình hay bị out wifi là bị lỗi gì? Có phải do phần cứng không vì mình đã chỉnh \"off\" định vị wifi và cập nhật phần mềm nhưng vẫn bị bắt wifi kém và hay bị out. Nhà có 2 cái iphone mà 1 cái bị chứ không phải cả 2. Cái bị out wifi là iphone 5s quốc tế đã cập nhật phần mềm mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.583983,
+         "id": "938039",
+         "field_search": "question",
+         "question": "máy iphone của em mới reset lại mà bây giờ em tải zalo về mà nó để là không thể tải vào lúc này là bị sao vậy xin ad cho em biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.566934,
+         "id": "1166396",
+         "field_search": "question",
+         "question": "Chào shop. Mình mới mua máy mastel 10. Nhưng mình thấy máy kết nối wifi quá yếu, hay bị ngắt. Cùng 1 vị trí thì ss j3 bắt khá tốt. Cho hỏi do máy như vậy hay là bị lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.553149,
+         "id": "838800",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 4 của em vào Facebook hay bị chậm và xem youtube thì xem bình thường mà nó bị đứng màn hình vậy là cần phải chạy lại phần mềm đúng không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.547925,
+         "id": "1144727",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ em muốn đem laptop của em ra tiệm cài đặt lại như lúc mới mua nhưng em đã hết bảo hành, vậy thì e tôn bn tiền để cài lại ạ. Sđt lúc e mua laptop là 0909261508 mà e bị mất số lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.536142,
+         "id": "773552",
+         "field_search": "question",
+         "question": "Iphone của e là iphone 6s mới mua hôm 5/1/2016!! Em bị pin ảo?? Vd em xài nhiều mà cứ vẫn 64% qài khi em tắt nguồn rồi bật lên lại nó giảm xuống còn 39%!! Như vậy em phải làm sao??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.476336,
+         "id": "829200",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone của em là lock hay quốc tế ạ thank you  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.44486,
+         "id": "774832",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. iPhone 5s của em. Sao tin nhắn cứ đến chậm. Ví dụ như tin nhắn e vừa gửi ngta trả lời liền nhưng khoảng 30 ' saou e mới nhận dc tn nhắn. Và ghi trên màn hình là 30' truoc. Lý do là sao. E cảm thấy hơi bất tiện. Ai biết cách khắc phục giúp e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.44146,
+         "id": "776811",
+         "field_search": "question",
+         "question": " Cho em hỏi em cần sài máy bền ích lỗi thỳ nên mua iphone 5s, oppo r7s hay là r7 plus ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.441068,
+         "id": "779274",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng iphone 5 lock Nhật mà máy em dạo này không gửi tin nhắn văn bản cho các loại máy khác được, em thử gửi cho máy iphone thì lại nhận được tin nhắn? Em không biết lý do vì sao lại như vậy hay là do hàng lock nên vậy anh chị tư vấn giúp em với...em cảm ơn anh chị ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.428413,
+         "id": "913672",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua máy hôm nay, mình thấy màn hình bị mờ chữ, chóa ánh sáng (không phải do bật độ sáng lớn) là do máy hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.406731,
+         "id": "1137115",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi đt của em bị rớt bể màn hình, cảm ứng vẫn xài bình thường, chỉ hơi bị lem và khi mở máy thì hơi chớp. em phải làm tehes nào ạ, đt của em là s8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.376999,
+         "id": "1150165",
+         "field_search": "question",
+         "question": "Em mới mua con A7 2018 vài hôm, khi ve xài rất mượt nhưg khi e vừa chơi game vừa nhắn tin tren zalo(ở chế độ mini chat) thì e lại bị mất kết nói với sever game mà e đag chơi...e mún hỏi là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.366836,
+         "id": "1018818",
+         "field_search": "question",
+         "question": "Tối hôm qua em có vào tgdd để mua thẻ gate , khi nv đem ra e không để ý , về đến nhà thì mới hay đó là thẻ vcoin của vtc , mà giờ đó đã quá 22h00 nên e không quay lại được tgdd , vậy hôm nay em có đổi lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

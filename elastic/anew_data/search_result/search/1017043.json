@@ -1,0 +1,801 @@
+{
+   "id_query": "1017043",
+   "total": 34386,
+   "total_current": 100,
+   "max_score": 153.92389,
+   "origin_question": "em có nhờ thế giới di động bên mình chuyển máy lên trung tâm bảo hành để sửa chữa, và anh ktra điện thoại em có nói là bên trung tâm bh sẽ thông báo mức phí vào số của em, vậy em có thể đổi số của e thành số của người khác được không ạ, vì hiện giờ e không có máy để gắn sim?",
+   "hits": [
+      {
+         "score": 68.93489,
+         "id": "1018031",
+         "field_search": "question",
+         "question": "điện thoại em bị bể màn hình, có gửi bên tgdd chuyển qua trung tâm bảo hành sửa chữa hồi chiều thứ 2, nhưng tới giờ em vẫn chưa nhận được thông báo phí sữa chữa để chấp nhận sửa dt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.35756,
+         "id": "1166412",
+         "field_search": "question",
+         "question": "Em dùng iphone 7. Khi update lên ios 12.2 thì bị lỗi mất sóng và mất imei. Em có đọc được thông tin là apple sẽ hổ trợ sửa lỗi này miễn phí. Vậy giờ bên mình có nhận chuyển điện điện lên trung tâm apple để sửa chữa không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.11851,
+         "id": "1011103",
+         "field_search": "question",
+         "question": "Cho mình hỏi có người gọi ở bên trung tâm viễn thông thông báo số điện thoại của a 0905412356 được mua 01 điện thoại samsung S7 với giá 15tr*50%- phiếu mua hàng 5tr=2,5tr. máy được bảo hành chính hãng tại thế giới di động. điều này có đúng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.154396,
+         "id": "1023775",
+         "field_search": "question",
+         "question": "Hiện tại e dùng số điện thoại 0938843139 để mua và đặt hàng rất nhiều bên thế giới di động ( bảo hành). Nay e chuyển qua dùng số 0898982209 và em muốn chuyển đổi từ số điện thoại cũ qua số điện thoại mới được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.80307,
+         "id": "1016742",
+         "field_search": "question",
+         "question": "em có mua 1 máy ở trung tâm ( máy cũ ), xài đc 3 này thì loa bị lỗi và đã đem trung tâm để bảo hành. trung tâm hẹn 10 ngày sẽ trả lại máy. Bây giờ em hoàn lại tiền để mua máy khác có đc không? vì máy vẫn trong thời gian đổi trả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.190083,
+         "id": "1134323",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.010975,
+         "id": "1003340",
+         "field_search": "question",
+         "question": "cho e hỏi trung tâm có sửa điện thoại không ạ . e có mua lenovo a6010 ở trung tâm điện máy xanh . bh hư có sửa đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.01095,
+         "id": "890880",
+         "field_search": "question",
+         "question": " hi tgdd,hiện tại laptop asus của em gõ chữ ra số, nhung em tắt không được, nhờ trung tâm giúp e vớimany thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.995804,
+         "id": "1017041",
+         "field_search": "question",
+         "question": "hồi chiều em có nhờ tgdd chuyển máy lên trung tâm bảo hành để sữa chữa, nhưng em làm mất giấy hẹn lấy máy, vậy có sao không ? Có cách nào lấy máy nhưng không cần giấy hẹn không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.502834,
+         "id": "1134321",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.793575,
+         "id": "1000653",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoại bảo hành có số điện thoại là 0987017986 đã xong chưa ạ ?. Hơn nữa số điện thoại liên hệ em đã đổi thành 01688687688 rồi ạ, Nhưng bên hệ thống lại gọi báo tin tới số 0987017986 làm e không nhận được thông tin máy ạ. Anh chị làm ơn gọi lại vào số 01688.687.688 giúp e ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.72206,
+         "id": "1001681",
+         "field_search": "question",
+         "question": "Em có mua 1 Lenovo A7000 plus giờ em muốn đổi sang điện thoại khác vậy trung tâm có thu hồi máy của em k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.513004,
+         "id": "790290",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua 1 laptop acer tại thế giới di động, giờ đã qua thời gian bảo hành, vậy tgdd có gửi sữa chữa giùm tại trung tâm acer không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.76502,
+         "id": "772447",
+         "field_search": "question",
+         "question": " Cho hỏi bên trung tâm của mình có nhận sửa điện thoại iPhone 5 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.820644,
+         "id": "1005018",
+         "field_search": "question",
+         "question": "Chào QTV! Em muốn hỏi là điện thoại J5 của em mua từ tháng 12 năm ngoái vậy bây giờ còn được bảo hành không ạ?Hiện tại điện thoại của em đang gặp lỗi camera sau bị mờ vậy em có thể mang đến cửa hàng của thế giới di động để bảo hành được không? Nếu hết bảo hành rồi thì chi phí sửa chữa như thế nào ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.71395,
+         "id": "883733",
+         "field_search": "question",
+         "question": "Cho em hỏi là, em mua laptop đăng kí số điện thoại bảo hành, giờ số đó bị khóa em không sử dụng dụng được nữa giờ em có thể đổi số điện thoại bảo hành lại số khác được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.55361,
+         "id": "1002964",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e mua điện thoại của thế giới di dộng.ở quảng ngãi .pây giờ e đang ở sài gòn .e có thể bảo tại trung tâm thế giới di dộng trong đó bảo hành được ko .e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.9454,
+         "id": "774519",
+         "field_search": "question",
+         "question": "Em chào anh ah, anh cho em hỏi máy IP của em ghi kiểu máy là MD298J/A nhưng lại có số IMEI như sau : 01341 400 9462746, theo em search trên mạng thì trong dãy số IMEI có 15 số thì 6 số đầu là Type Allocation code, 2 chữ số tiếp theo là Final Assembly Code, vậy máy của em có phải là máy trung quốc không ah? vì 00 là mã của Trung Quốc. Em xin chân thành cảm ơn ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.17528,
+         "id": "998449",
+         "field_search": "question",
+         "question": "Laptop của e còn trong thời gian bảo hành, hiện tại do máy chạy chậm và có một số phần mềm tiếng trung mà em không gỡ ra được. Vậy e có thể gửi máy đi bảo hành, cài lại chương trình Win được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.414993,
+         "id": "1008825",
+         "field_search": "question",
+         "question": "Dạ e chào qtv. Cho e hỏi về điện thoại j7 pro. E lở tay làm rơi nó bị nứt màn hình góc dưới trái. Cảm ứng vẫn tốt. Vậy lỗi này là do e. E mua ở dmx. Mấy a.c qtv bảo e có thể ra đó và cửa hàng sẽ gửi xuống hãng để thay và thông báo giá. Vậy e trực tiếp đem ra trung tâm bảo hành sam sung luôn được không ạh. Hay e phải lên đmx. Và e có được quyền lợi gì nếu để ở đmx để chuyển lên hãng trung tâm bảo hành không ạh. E mới mua tháng 7 này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.556602,
+         "id": "1140560",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop hết bảo hành thì trung tâm có nhận sửa có phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.484627,
+         "id": "1166560",
+         "field_search": "question",
+         "question": "ad cho em hỏi là điện thoại xiaomi redmi note 5 của em đang sử dụng tự nhiên bị liệt cảm ứng, bây giờ em không thể xem được số imei với điện thoại này là do em mua lại của người khác bây giờ không có số điện thoại của họ, nhưng lúc mua em có tra bảo hành bằng số imei của điện thoại, thấy còn bảo hành đến tháng 9/2019. Bây giờ em đem đi bảo hành làm sao ạ.Mong ad hồi đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.88318,
+         "id": "1004270",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi mấy e lg k410a có số imei là 356527071688933 bị treo logo máy và máy e còn bảo hành khi mang ra tgdd có đc sửa chữa miễn phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.785656,
+         "id": "825446",
+         "field_search": "question",
+         "question": " e ở đà nẵng cho e hỏi trung tâm bảo hành apple của thế giới di động nằm ở đâu tại đà nẵng vậy a,c ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.628326,
+         "id": "830881",
+         "field_search": "question",
+         "question": "Em và người thân đang xài cùng icloud nên h danh bạ của e có vài số điện thoại của người thân e, danh bạ của cho cùng 1 số nhưng lại hiện tên đc lưu trong một máy khác. Làm sao để k bị vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.554638,
+         "id": "1009573",
+         "field_search": "question",
+         "question": "Em có mang một chiếc laptop Asus đi bảo hành hôm 26/07 và nhận giấy hẹn là ngày 10/08 đến nhận máy. Hôm nay là đúng 1 tuần rồi em mới nhận được điện thoại từ trung tâm bảo hành và họ nói là mất 3 tuần để sữa chữa nữa??? Trong trường hợp này thì em có thể nhận được máy đúng hẹn không ạ? Vì em chuẩn bị đi học rồi và không thể ở nhà 3 tuần nữa để nhận máy được đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.4097,
+         "id": "1020263",
+         "field_search": "question",
+         "question": "Dạ, admin cho mình hỏi là điện thoại Samsung của mình (mua tại TGDĐ tại thị xã Cai Lậy, Tiền Giang, máy đã hết hạn bảo hành), hiện tại máy bị hư cảm ứng, mình muốn ra TGDĐ tại thị trấn Trà Ôn, Vĩnh Long để nhờ TGDĐ chuyển về Trung tâm sử chữa, bảo hành của Sámung thì TGDĐ tại Trà Ôn có nhận không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.136692,
+         "id": "1000882",
+         "field_search": "question",
+         "question": "Note 2 của mình không nhăn tin được, khÔng thay đôi được số trung tâm tin nhắnnhờ anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.034626,
+         "id": "1023198",
+         "field_search": "question",
+         "question": "qtv ơi bên thế giới di động có cho vay tiền mặt phải k ạ. cứ 1 2 ngày là có người gọi hỏi có muốn tham gia vay k. 2 hôm nay có số xxxx2888628 gọi e. cho e hỏi số này phải số của bên thế giới di động k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.022522,
+         "id": "1150541",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để người mà em muốn kết bạn zalo có số điện thoại của em trong danh bạ của họ, nhưng em kết bạn thì em muốn họ không thấy số điện thoại của em,và em không muốn trong danh bạ của người hiện sđt của e lên khi e gửi kết bạn và e không muốn cho họ biết đó là em? Thì phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.687237,
+         "id": "1011353",
+         "field_search": "question",
+         "question": "2 tuần trước em có mua một sản phẩm bên thế giới di động nhưng là sản phẩm đổi trả , nhân viên có nói là có thể đổi máy tương ứng với giá tiền của máy , vì máy sử dụng không được tốt cho lắm nên em có thể đổi máy khác với giá tương ứng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.528416,
+         "id": "768278",
+         "field_search": "question",
+         "question": "Máy iphone của e bị mất và có icloud của em trên đấy 3 phút trước em đã lên trang icloud.com để khóa máy và lúc vào chế độ mất, nó có kêu em nhập mật khẩu 6 chữ số để khóa máy 1 phút trước e nhập là 123456 , mật khẩu quá đơn giản nên người lấy máy em đã nhập và vào dc iphone 1 phút trước nhưng icloud thì vẫn còn vì người đó không có mật khẩu icloud 26 giây trước vậy, anh cho em hỏi: em có thể đổi mật khẩu khóa máy (123456) thành mật khẩu khác trên máy tính không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.271214,
+         "id": "1140663",
+         "field_search": "question",
+         "question": "quên ID của Mi cluod có thể mang ra trung tâm bảo hành được không. cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.199234,
+         "id": "1021301",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, máy của em là Samsung J7 2015, hiện giờ Pin có vấn đề nên không thể bật máy được. Em muốn mua pin chính hãng của Samsung để thay thì bên thế giới di động có không ạ. Và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.142975,
+         "id": "995111",
+         "field_search": "question",
+         "question": "Mình có mua một laptop Asus tại cửa hàng thế giới di động cách đây khoảng 8 tháng. Theo như thông tin lúc mới mua thì sản phẩm được bảo hành trong 2 năm, nay mình muốn mang đến trung tâm bảo hành để nâng cấp Ram.Vì giấy tờ lúc mua mình không nhớ là để đâu rồi nên mình muốn hỏi nếu mang sản phẩm ra TGDĐ thì có thể nhờ các anh chị nhân viên kiểm tra chứng thực thông tin bảo hành giúp mình không ? ( Lúc mua mình có khai báo họ tên, số đt, CMND...) Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.98013,
+         "id": "998411",
+         "field_search": "question",
+         "question": "em muốn gửi laptop đi bảo hành cảm biến vân tay máy dell, em có thể nhờ shop gửi qua trung tâm bảo hành nâng ram từ 4GB lên 8GB được không ạ, nếu không cho em xin địa chỉ bảo hành tại thành phố Hồ Chí Minh ạ . em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.940647,
+         "id": "752805",
+         "field_search": "question",
+         "question": "Em dùng ip5s, từ lúc lên ios 9.1, phần mềm facetime khi em gọi sang ipad vẫn ok, nhưng một số số điện thoại em gọi nó đổ chuông nhưng bên kia không hiện thông báo và bên đó gọi lại bên em cũng không hiện thông báo (đổ chuông 1 lúc báo là \"KHÔNG KHẢ DỤNG\"). Vậy cho em hỏi lý do là vì sao và làm thế nào để khắc phục ạ? (2 số đều nhắn tin cho nhau bình thường, chỉ là gọi facetime âm thanh lẫn facetime là không được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.451622,
+         "id": "1000984",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động. Em có mua 1 chiếc máy tính hiệu ASUS tại thế giới di động ở Tây Ninh. Hiện bàn phím của máy em đã bị hư một vài phím. Máy vẫn còn bảo hành, vậy nếu em muốn sửa chữa lại máy thì có mất phí hay không? Nếu mất thì có thể là bao nhiêu? Em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.325882,
+         "id": "802084",
+         "field_search": "question",
+         "question": "Iphone 5 của mình bị bung màng hình , thì tại trung tâm bảo hành có nhận sửa chửa không? Máy mình hết time bảo hành rồi...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.228897,
+         "id": "1007676",
+         "field_search": "question",
+         "question": "trong thời hạn bảo hành laptop mình muốn bảo hành bên  trung tâm hãng thì có mất chi phí ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.11566,
+         "id": "817147",
+         "field_search": "question",
+         "question": "admin cho em hỏi? có ai đó đã cố gắng thay đổi thông tin id apple của e không thành, và có thư gửi đến email tạo tk id apple của e thông báo vì điều đó, và bây giờ thì không hiểu sao id của em bị không tồn tại là sao? em có cách nào để khôi phục lại id apple của e k? e còn email tạo tk và số đt???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.852055,
+         "id": "1009361",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại samsung giờ còn bảo hành thì tôi muốn đi thẳng qua trung tâm bảo hành samsung để sửa máy thì tôi cần gi nhờ các bạn hướng dẩn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.638454,
+         "id": "1016133",
+         "field_search": "question",
+         "question": "Ad ơi điện thoại em giờ sạc rất chậm trung tâm thegiodidong mình có nhận sửa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.532597,
+         "id": "1022096",
+         "field_search": "question",
+         "question": "Chào shop!Mình có gửi bảo hành điện thoại bên của hàng của shop thì được báo là điện thoại mình bị vô nước nhưng mình đã bị từ chiều buổi hôm qua khi đang cầm dùng thì màn samsung j7 pro của mình bị đơ nhưng không biết sao mình nhấn nút nguồn một lúc thì nhấn vào nút khởi động lại được(reset máy) xong đến 8h sáng hôm sau mình bỏ điện thoại vô căp đi công việc thì đến nơi người ta gọi điện thoại cho mình không lướt màn hình nghe được thì mình mới chạy về đi lên trung tâm bảo hành trên đường mình đi không gặp mưa mà điện thoại lại bỏ trong cặp làm sao lại bị vô nước được. Bây giờ bên Trung tâm bảo hành gọi điện thoại bảo màn hình điện thoại mình bị vô nước. Vậy bây giờ là lỗi của mình để trong cặp vô nước hay do bên kĩ thuật báo sai ạ!Mong shop giải quyết dùm mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.371593,
+         "id": "1159781",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc vivo Y81  tại tgdd Nhưng cái sim mà em đăng kí mua điện thoại đó đã mất Giờ em muốn đổi số điện thoại khác được ko ạ Để tiện dán màn hình hay sửa chữa điện thoại chứ mất số điện thoại đó có vấn đề j nó khó cho em lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.213825,
+         "id": "762250",
+         "field_search": "question",
+         "question": "  Trung tâm có nhận sửa chữa iPhone 5  bị dinh iCloud không mấy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.17144,
+         "id": "766510",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, mình mua iPad air 2 của Thế giới di động nhưng giờ muốn bán thì người mua cứ hỏi sao không có số imei?Mình không rành, và không biết vì sao mình lại không kiếm được imei trên iPad air 2 wifi của mình.Vậy làm sao mình có thể check được bảo hành vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.167366,
+         "id": "1140334",
+         "field_search": "question",
+         "question": "Mình dùng ASUS zenphone 4 max ZC520KL (Android 8) và gặp hiện tượng đang dùng bình thường thì máy hiện thông báo pop-up sạc đảo ngược như hình và cắm sạc vào thì không thể nào sạc được nữa, chỉ có tắt hẳn máy đi thì mới sạc được còn lúc bật lên dùng thì không. Mình thử reset lại cài đặt gốc (factory reset) và vào chế độ safe mode để xem thử thì vẫn không hết cái thông báo này.Cái thông báo của System UI nên không thể disable nó được. Lỗi này mình search trên web thì đã rất nhiều người gặp. Có thể mang ra TGDD nhờ sửa chữa không hay phải mang qua trung tâm bảo hành của ASUS vậy?Mong được giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.162247,
+         "id": "759274",
+         "field_search": "question",
+         "question": " Iphone 3 bị treo itunes ,trung tâm thế giới di động có mở được không ạ.? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.955223,
+         "id": "766734",
+         "field_search": "question",
+         "question": "Chào thế giới di động, mình được một người anh trong nhà gửi lại cho mình 1 cây iphone 6 plus mua từ thế giới di động , mình nhờ thế giứoi di động kiểm tra giúp mình nhé. Trung Hiếu ( số imeis máy : 3592 44060 779775 ) May này đã đổi trả từ TGDĐ, 1 đổi 1, nhờ bên mình kiểm tra đã xử dụng được bao lâu vậy nhé ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.94868,
+         "id": "1021990",
+         "field_search": "question",
+         "question": "Cho e hỏiE có mua online 1 điện thoại hiệu Obi của TGDĐ cách đây khoảng 2 tháng mà do bị rớt nên màn hình bị nứt nhiều và bị loạn cảm ứng. Vậy mình đem đến trung tâm sữa chữa của TGDĐ để sữa chữa và chịu phí được ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.810493,
+         "id": "1155622",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em gọi cho thuê bao khác được mà thuê bao khác gọi cho em không được và để là người dùng bận, bên điện thoại của em ghi là Đã từ chối. Em có kiểm tra danh sách chặn - nhưng không có số nào chặn cả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.780933,
+         "id": "780572",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Samsung note 5 và có dán mặt kính chống vỡ có bảo hiểm rơi vỡ bảo hành 3 tháng. Khi điện thoại của mình bị loang màn hình. mình mang đến thế giới di động để bảo hành, thì được trung tâm bảo hành báo là bị vỡ màn hình phải thay mất phí và bảo mình phải trả tiền với giá 2900.000 nghìn. Nhưng gói bảo hiểm rơi vỡ vẫn còn hiệu lực. Mình được nhân viên chăm sóc khách hàng bảo là bảo hiểm chỉ bảo hiểm màn hình bên ngoài còn máy của mình bị vỡ màn hình bên trong nên không được bảo hiểm. Cho mình hỏi mình dán màn hình có bảo hiểm rơi vỡ màn hình như vậy và được nhân viên chăm sóc khách hàng trả lời chỉ bảo hiểm màn hình bên ngoài có đúng không? Vì sao thegioididong lại có bảo hiểm như vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.775837,
+         "id": "811906",
+         "field_search": "question",
+         "question": " Ở thế giới có sửa chữa máy tính không ạ.máy của e đang gặp chục chặc 1 số vấn đề ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.682026,
+         "id": "1168138",
+         "field_search": "question",
+         "question": "Em có một chiếc iphone 4 bị hỏng, không thể bật lên được. Cho em hỏi, em có thể đến các chi nhánh của Thế giới di động ở Thành phố Hòa Bình sửa chữa được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.648335,
+         "id": "796666",
+         "field_search": "question",
+         "question": "Cho em hỏi cái này ad ơi.em mới mua iphone5 bên trung tâm tgdd ở tp thanh hóa.mới mua được mấy hôm về làm quà mà chưa có sử dụng. Giờ em muốn đổi sang máy khác thì mang lên chỗ em mua có đổi được không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.509014,
+         "id": "810260",
+         "field_search": "question",
+         "question": "Chào anh!Laptop của em có lỗi 1 tí về window,e có thể đem lên anh cài đặt cho e được không ạ?có tính phí không?vì máy em bảo hành đến 2017!chào anh,chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.44848,
+         "id": "1019937",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua trả góp điện thoại Oppo F3 Plus, dùng được 3 tháng, mình làm rơi xuống nước và trung tâm bảo hành yêu cầu sửa hết 7 triệu, nên mình quyết định không sửa và muốn bán lại xác điện thoại này có được không, cửa hàng thế giới di động có mua lại được không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.430668,
+         "id": "1149267",
+         "field_search": "question",
+         "question": "E có mua bản quyền win 10 của thế giới di động, giờ e mua 1 máy khác của thế giới di động và lấy lại key trên máy cũ để cài lại vào máy mới được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.136673,
+         "id": "797824",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop của em không có bảo hành tại thế giới di động nhưng cần cài lại từ đầu phần mềm vì nó bị lỗi không thể decovery được, em có thể đem máy đến đó để cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.07315,
+         "id": "1004549",
+         "field_search": "question",
+         "question": "Cho m hỏi ở đông anh, hà nội có trung tâm bảo hành nào của samsung k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.05071,
+         "id": "841475",
+         "field_search": "question",
+         "question": "mình có đem máy ipad mình lên thế giới di động. ở. Đăk Lăkhọ bảo là gửi về hàng bảo hành ( Loạn Cảm Ứng ) hoạc hết hạn bảo hành họ báo giá sửa chửa máy mình gửi cũng cả tuần rồi không nghe gọi điện hay gì hết Mình Tên Là ( Nguyễn Kim Trúc ) ( Số Điện Thoại 0926611xxx) bên hãng bảo hành Mobell gì thì mình không biết số hay gọi là đã nhận máy hay bị gì chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.9739,
+         "id": "1021712",
+         "field_search": "question",
+         "question": "Mình mua laptop trên TGDD nhưng bây giờ Ofice 2016 của mình không còn sử dụng được và yêu cầu cần có tài khoản để sử dụng. Vậy bên trung tâm có tài khoản office 365 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.615536,
+         "id": "1153150",
+         "field_search": "question",
+         "question": "Làm thế nào để chỉnh sửa ứng dụng trong trung tâm kiểm soát của iphone5 được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.583477,
+         "id": "1151624",
+         "field_search": "question",
+         "question": "Tôi có một máy macbook mua ở thế giới di động hiện tại mất quyền Admin. Tôi có tham khảo một số cách trên các diễn đàn nhưng khi thực hiện đến bước Command + S thì không thực hiện được. Xin trung tâm vui lòng hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.57165,
+         "id": "996763",
+         "field_search": "question",
+         "question": "Điện thoại Q ViTaS của em bị rơi vào nước , em vẫn còn bảo hành thì có thể đem máy tới thegioididong để sữa chữa được không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.295494,
+         "id": "1006330",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước cô của em có mua hàng bên thế giới di động, hôm nay bên nhân viên có gọi cho cô em nói là cô em may mắn được bên công ty bốc thăm trúng thưởng 1 chiếc điện thoại samsung galaxy s7 được gửi từ bên hàn quốc về và cô em phải trả thuế để nhận được chiếc điện thoại đó. Vậy bên anh chị hiện giờ có phải tổ chức chương trình bốc thăm trúng thưởng không ạ! Mong anh chị cho em phản hồi sớm nhất có thể",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.27692,
+         "id": "1154730",
+         "field_search": "question",
+         "question": "Máy em bị lỗi gửi tin nhắn cho 191 không được ạ, gửi cho số di động người thân thì thành công, mong phản hồi khắc phục sớm của bên mình ạ, máy em là samsung galaxy A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.198574,
+         "id": "919285",
+         "field_search": "question",
+         "question": "AD cho mình hỏi là do em gái mình nghịch không biết vào phần nào mà các ứng dụng như facebook messen có thông báo nhưng bên ngoài ứng dụng k hiện số thông báo. ví dụ như có 10 thông báo ở biểu tượng fb sẽ hiện số 10 ở góc vậy nhưng giờ k hiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.97162,
+         "id": "1021588",
+         "field_search": "question",
+         "question": "Anh chị có thể kiểm tra giùm e số điện thoại này của máy SAMSUNG J7 0975215681 còn bảo hành ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.892788,
+         "id": "995449",
+         "field_search": "question",
+         "question": "Thưa anh . em tên là phi ngô bên anh có nhắn tin qua faebook của em tên là PL Phi Ngô. em thắc mắc về vấn đề mừng ngày thành lập 10 năm thế giới di động và trao giải có thật vậy không ạ. bên anh có gửi tn cho em bảo em lojy vào tóp 3. em ko tin cho máy có vào trang wed của anh kiểm tra có đúng sự thật ko em củng thấy . trong time lấy giấy tờ điền rỏ thông tin nhưng em chỉ thấy người dùng face book em, ko hiểu lắm thưa anh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.865223,
+         "id": "1023871",
+         "field_search": "question",
+         "question": "Xin hỏi làm sao để tra cứu lịch sử mua hàng tại thế giới di động, vì thông thường khi mua đều có số di động, nhưng khi tải appstore thế giới di động trên điện thoại nhập số vào để kiểm tra thì không thấy lịch sử mua sắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.852455,
+         "id": "1157534",
+         "field_search": "question",
+         "question": "Chào anh/chị! Hiện tại điện thoại của em bị hư chỗ tiếp nhận pin (iphone7). Cho em hỏi, bên anh/chị có nhận sửa không a! Nếu có cho em xin mức chi phí, và thời gian sửa bao lâu ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.80346,
+         "id": "1000347",
+         "field_search": "question",
+         "question": "Cho em hỏi. Laptop của em bị lỗi phần mềm sọc màn hình và loa bị rè. Em đem đến Thegioididong để được hổ trợ bảo hành. Kỹ thuật viên hẹn em 10-15 ngày sẽ xong, đến ngày thứ 13 bên Trung tâm bảo hành gọi và hẹn em thêm 10 ngày nữa. Cho em hỏi là sau 10 ngày đó em nhận lại máy hay phải đợi chuyển máy về nữa ạ. Thực sự một thiết bị bảo hành như vậy sau lại lâu quá vậy. Rất mong QTV giải thích hộ em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.68571,
+         "id": "1022492",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Mình có mua 1 J7 2015 năm ngoái. Mà máy còn ngon ko trầy xước này kia. Nhưng chỉ bị trầy viền bạc hông máy. Vậy trung tâm có sửa đc ko. Và mình cũng hết bảo hành có sửa ở trung tâm đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.646496,
+         "id": "749605",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy iphong 3g bị người ta Jailbreak giờ ko rest lại được vậy Thegioididong.com có thể rest lại như ban đầu được không hay cần ra trung tâm bảo hành?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.587067,
+         "id": "998799",
+         "field_search": "question",
+         "question": "chào ADMINcho e hỏi là màn hình galaxy j5 primer của e bị vỡ màn hình kính và máy đang còn bảo hành vậy e đưa đến trung tâm TGDD bảo hành thì có đc ưu đãi gì k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.560978,
+         "id": "991696",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là mình có dán bảo vệ với cường lực bên thế giới di động dán bảo hành...vậy bảo hành có áp dụng dc ở những cửa hàng của thế giới di động khác không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.33026,
+         "id": "782896",
+         "field_search": "question",
+         "question": " Máy tính của em không vào được facebook ở thế giới di động có sửa được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.320267,
+         "id": "1154242",
+         "field_search": "question",
+         "question": "Em vừa được cho một chiếc ipx và đã thoát icloud sạch sẽ. Nhưng khi em tạo 1 icloud mới thì máy thông báo là đã hết số lần đăng ký miễn phí, sau đó em có lên trên web tạo một tài khoản icloud mới và đã kích hoạt thành công nhưng khi em đang nhập icloud vào máy thì máy vẫn báo đã hết số lần tạo tài khoản miễn phí. Bây giờ có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.317707,
+         "id": "799897",
+         "field_search": "question",
+         "question": " sản phẩm laptop có được bảo hành tận nhà không ạ, vì mình rất bận không có thời gian ra trung tâm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.317383,
+         "id": "841876",
+         "field_search": "question",
+         "question": "em đăng ký zalo bằng số điện thoại cũ. Bây giờ số điện thoại ấy bị nhà mạng thu hồi và khả năng có người khác sử dụng rồi. em muốn chuyển tài khoản zalo ấy sang số điện thoại mới em đang dùng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.23564,
+         "id": "1144083",
+         "field_search": "question",
+         "question": "Điện thoại oppo a3s e mới mua hôm 29.12.2018 mà hổm rài gọi điện thoại nói chuyện với người khác lúc nghe lúc không em có thử gắn sim vào máy khác lại nói chuyện được bình thường.  Vậy điện thoại em có bị lỗi không dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.145103,
+         "id": "1148730",
+         "field_search": "question",
+         "question": "tôi mới mua 1 điện thoại sony xz2 tại thế giới di động ngã ba trị an. Nay điện thoại của tôi bị bootloop ko sử dụng dc. Tôi muốn đi bảo hành nhưng làm mất hóa đơn thanh toán. Số điện thoại của tôi là 0329188687( số trc đổi đầu số là 0129188687).Tôi tên là Đoàn Xuân Hùng.Vậy anh(chị) tôi có thể đi bảo hành tại tgdd dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.124134,
+         "id": "1020877",
+         "field_search": "question",
+         "question": "Cho em hỏi..lúc trước em mua máy thì dùng số cũ để bảo hành...mà giờ em mất sim đó rôi ( em còn nhớ số điện thoại cũ ) vậy phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.01025,
+         "id": "1138349",
+         "field_search": "question",
+         "question": "Em quên mật khẩu zalo của tài khoản 11 số.  Giờ bị chuyển đổi đầu số sang 10 số. Vậy nếu bij đăng xuất em phải làm sao để vào lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.00234,
+         "id": "1015520",
+         "field_search": "question",
+         "question": "Chào anh chị. Em có mua tai nghe ở một cửa hàng của Thế Giới Di Động. Nhưng giờ tai nghe của em có lỗi. Vậy em phải đem ra cửa hàng em đã mua hay một cửa hàng khác của hệ thống để được bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.97513,
+         "id": "1136922",
+         "field_search": "question",
+         "question": "thủ tục mua trả góp cần số điện thoại của 2-3 người thân để xác nhận thông tin. Nhưng trường hợp chỉ có 1 số điện thoại của người thân thôi thì có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.973522,
+         "id": "822671",
+         "field_search": "question",
+         "question": "Em mới mua ip 5s + khung viền cách đây 3 ngày . nhưng không hiểu sao khi đeo khung viền vào thì điện thoại em bắt wifi cực yếu . giờ em có thể tới trung tâm để đổi khung viền khác hoặc trả lại khung viền được hok ạ ? giá khug viền là 180k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.821728,
+         "id": "1006620",
+         "field_search": "question",
+         "question": "Điện thoại của mình là J5 Prime, mới mua được 1 tháng, sim thì đã thay mới nhưng sao thỉnh thoảng người khác không gọi được cho mình, thậm chí là cả chục cuộc. Mình ở trung tâm thành phố thì sóng đâu có yếu được. Giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.718166,
+         "id": "1014724",
+         "field_search": "question",
+         "question": "Tôi có sửa chữa điện thoại tại trung tâm bảo hành, nhưng do tính chất công việc tôi không lấy theo đúng thời hạn thì có ảnh hưởng gì không? Vì tôi đi công tác khá xa và thời gian dài. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.669815,
+         "id": "773615",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại của mình được bạn cho mượn tài khoản Apple để down 1 số chương trình, giờ mình đổi máy khi Backup vào iTunes thì những chương trình đó không Backup được vì khác ID Apple, có cách nào để chuyển được những chương trình đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.56006,
+         "id": "948444",
+         "field_search": "question",
+         "question": "em mua máy iphone 5s ở TGDD bây giờ tự nhiên không bật nguồn được nữa, em muốn bảo hành thì mang tới TGDD hay trung tâm bảo hành ở đâu ạ, thời gian bảo hành có lâu không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.53408,
+         "id": "941378",
+         "field_search": "question",
+         "question": "E có laptop dell inspiron 14 7000 chẳng may bị trẻ con nghịch reset mất hết những phần mềm mà trung tâm cài đặt cho .mà nhỡ không mang giấy bảo hành trên hà nội về thì e có thể lên trung tâm cài đặt lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.50035,
+         "id": "1019416",
+         "field_search": "question",
+         "question": "Bên thế giới di động còn chương trình đổi sim 4g của viettel miễn phí không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.37186,
+         "id": "1018760",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy ở thế giới Di Động nhưng hết bảo hành.. máy nova f7 .. giờ muốn thay loa với vỏ máy thì của hàng có sửa chữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.303944,
+         "id": "803150",
+         "field_search": "question",
+         "question": " Máy tính VOSTRO 2421 của em không gõ được phím số . Anh chị có thể giúp em được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.113598,
+         "id": "796800",
+         "field_search": "question",
+         "question": " Cho em hỏi e có mua laptop ở siêu thị điện máy, họ có nói là có thể bảo hành bên tgdd đúng không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.09621,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

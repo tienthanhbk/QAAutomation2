@@ -1,0 +1,801 @@
+{
+   "id_query": "997692",
+   "total": 30596,
+   "total_current": 100,
+   "max_score": 52.933365,
+   "origin_question": " Em dùng máy Galaxy V, em cài đặt Recovery thì làm cách nào để Reset được máy ạ. ",
+   "hits": [
+      {
+         "score": 23.734173,
+         "id": "795749",
+         "field_search": "question",
+         "question": " Mình muốn reset máy Sony Xperia V về cài đặt gốc bằng phím cứng thì như thế nào ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.597662,
+         "id": "1141789",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy xiaomi redmi 4x em khôi phục cài đặt gốc nhưng bị vướng ở khâu nhập tài khoản gmail đã đc đồng bộ hoá từ trc v em làm cách nào để qua khâu này v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904799,
+         "id": "838201",
+         "field_search": "question",
+         "question": "mình có cái laptop HP và đc mua ở TGDĐ, dùng đc 1 thời gian thì máy bị lỗi, mình \"reset this PC\" thì máy báo '' couldn't find recovery environment\" vậy còn cách nào khác để khôi phục máy như lúc đầu k??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.355692,
+         "id": "836264",
+         "field_search": "question",
+         "question": "Em có cái laptop HP chạy win 10 nhưng dùng được một thời gian thì vài ứng dụng trên win 10 bị lỗi không vào được chẳng hạn như Microsoft Edge, Groove Music. Search Windows không tìm kiếm được. Em thử đủ mọi cách sửa lỗi trên mạng nhưng chẳng ăn thu, reset lại máy thì máy báo couldn't find recovery environment. Anh/chị cho em hỏi còn cách nào reset lại máy như lúc mới mua không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.870594,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.757172,
+         "id": "758417",
+         "field_search": "question",
+         "question": " Cho em hỏi cách reset khôi phục cài đặt cho iphone 4s . Phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.594313,
+         "id": "1136654",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e bị tắt nguồn nhưng khi bật lại thì bị treo ở logo xperia rồi treo đến lúc hết pin lại bật lên vẫn treo thế nhưng dùng các cách để reset lại máy nhưng không hiện lên bảng  Recovery. để tiến hành cài lại. máy e là sony xa1. giờ e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.052774,
+         "id": "896991",
+         "field_search": "question",
+         "question": "Cho em hỏi Bộ phận kĩ thuật bên công ty mình có hỗ trợ reset lại máy tính windows không ạ? Máy em đang bị lỗi mà muốn reset lại thì em lại không biết phải cài đặt như thế nào a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.969526,
+         "id": "767239",
+         "field_search": "question",
+         "question": " Ad Ơi. CHO EM HỎI HIỆN EM ĐANG DÙNG MÁY IPHONE 4S CHẠY IOS 9.2 EM MUỐN jailbreak MÁY LẠI THÌ LÀM THẾ NÀO Ạ v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.958515,
+         "id": "753238",
+         "field_search": "question",
+         "question": "trước kia em mua máy dell có cài win 8.1 bản quyền . sau đó em ra tiệm cài lại win 7 . em còn cái đĩa recovery lại win 8.1 , vậy phải làm thế nào để trở lại win 8.1 bản quyền ạ . Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.929873,
+         "id": "998952",
+         "field_search": "question",
+         "question": "Ad ơi em đang dùng Asus Zenfone 5, máy em bị treo logo thì ngoài Hard Reset ra thỉ còn cách nào không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.915154,
+         "id": "1013655",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để bật chế độ ban đêm cho máy Samsung galaxy J3 2016 v ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.668344,
+         "id": "1017716",
+         "field_search": "question",
+         "question": "Mình dùng samsum galaxy j7 mất mật khẩu màn hình reset lại máy lại ko nhớ là dùng email nào thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.62643,
+         "id": "922132",
+         "field_search": "question",
+         "question": "Cho em hỏi sau khi chạy lại chương trình thì máy em mất cydia,có ai biết vì sao không ạ?làm thế nào cài đặt lại?(em dùng ip4s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.553864,
+         "id": "1017802",
+         "field_search": "question",
+         "question": "cho em hỏi là e dùng máy oppo f1 plus, sau khi khôi phục cài đặt gốc, cài lại apps thì có messenger bị lỗi load không được, có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.500483,
+         "id": "790441",
+         "field_search": "question",
+         "question": " làm cách nào để restore máy khi bị treo itune v ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.422695,
+         "id": "1140917",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em đang dùng mà nóng máy lên thì sẽ bị nhòe màu. Vậy làm cách nào để khắc phục ạ. Em dùng vivo y55s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.405499,
+         "id": "1165236",
+         "field_search": "question",
+         "question": "mình dùng nokia 3.1 nhưng không thể cài đặt nhạc chuông thì làm cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.38779,
+         "id": "769676",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6S muốn tìm máy nhưng máy em mới mua nên chưa cài đặt iCloud chỉ mới cài đặt màn hình khóa và ID Apple. Có cách nào để định vị lại máy được không ạk, mong anh chị giúp em tìm máy với ạk. Em cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.33104,
+         "id": "846705",
+         "field_search": "question",
+         "question": "cho em hỏi các anh chị câu hỏi là. laptop hp của em nó tại cái gae gì đấy về máy thì được nhưng mà cài đặt thì gặp vấn đề.cho em hỏi có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.320208,
+         "id": "1134414",
+         "field_search": "question",
+         "question": "Tại sao em không vào được app store dù em đã cài đặt giờ như các cách. Cài đặt lại máy vẫn không được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.297321,
+         "id": "1147619",
+         "field_search": "question",
+         "question": "Máy Samsung galaxy j7 plus,cài đặt khóa ứng dụng mà quên mật khẩu thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.236572,
+         "id": "846658",
+         "field_search": "question",
+         "question": "e dùng iphone 5 đã Jailbreak và cài Cydia . con e nó nghịch máy xóa cài đặt và h bị treo máy . h phải làm thế nào để khắc phục được lỗi này ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.204842,
+         "id": "763634",
+         "field_search": "question",
+         "question": "QTV cho em hỏi: em đang dùng con Lenovo A7000. vừa reset lại máy và thấy máy không thể bật Dolby Atmos được nữa. bây giờ em phải làm sao ạ.nếu chỉ em reset lại máy thì cũng ko cần thiết đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.174015,
+         "id": "1013680",
+         "field_search": "question",
+         "question": "Em quên mật khẩu máy samsung nên đã mo recovery ra em lỡ tay bấm vào dòng đầu của recovery ( em ko nho la dong gi nua vi luc day ban viec )  nên lúc sau đã ko vào được nữa vậy cho em hỏi gio phải làm sao để mo lại recovery bây gio để khôi phục lại máy hay là phải đem ra cửa hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1347,
+         "id": "1147094",
+         "field_search": "question",
+         "question": "Sau khi em ấn shutdown để tắt máy tính thì bây giờ mở nguồn không lên được. Em xài máy acer. Phải làm cách nào để máy tính lên nguồn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.001257,
+         "id": "1169176",
+         "field_search": "question",
+         "question": "Điện thoại em Samsung galaxy note 3 không cập nhật được phiên bản mới nhất của messages em gỡ cài đặt sau đó tải lại thì không tải lại được em đã thử tất cả mọi cách trên mạng như gỡ dữ liệu cache gỡ cài đặt cập nhật ch play rồi mà không tải được ạ máy em bị làm sao thế giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.92591,
+         "id": "1162484",
+         "field_search": "question",
+         "question": "Máy tính của em h kh dô được mạng? Thì làm sao ạ? Đem ra tịm cài lại có tốn tiền không v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.90768,
+         "id": "875327",
+         "field_search": "question",
+         "question": " ad cho em hỏi lỗi này là bị làm sao vậy . đã thử cài đặt lại mạng , reset máy và cục phát wifi nhưng vẫn ko được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.878437,
+         "id": "775722",
+         "field_search": "question",
+         "question": " Cách gỡ cài đặt của chương trình làm sao ạ ? máy Dell em mới mua i3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.812658,
+         "id": "1023363",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Dạo này insta của em vào xong toán bị out ra ý ạ. Mà nó bị out ra suốt mấy ngày dù em đã tắt nguồn rồi bật lại, reset cài đặt. Đến lúc mà em xoá đi ins r down lại thì lại dùng được. Nhưng chỉ dùng đc hơn 1 ngày là nó lại out ra liên tục ý ạ. Xong e cứ cách 1 ngày phải xoá 1 lần để dùng được. Mà mới vào ins được mấy giây là nó đã out ra r ý ạ chưa kịp làm gì ạ. Cho e hỏi làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.753965,
+         "id": "1140312",
+         "field_search": "question",
+         "question": "Mình dùng máy samsung J6. Mình lỡ đặt khóa màn hình bằng cách vẽ các hướng mà không nhớ. Bây giờ làm thế nào để mở lai máy được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.743053,
+         "id": "1017627",
+         "field_search": "question",
+         "question": "Em dùng htc m8...khi sử dụng nút nguồn không dùng được và bị loạn âm lượng..muốn reset lại máy lại bị dừng cài đặt..cho hỏi bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.733568,
+         "id": "812551",
+         "field_search": "question",
+         "question": " cách reset cài đặt gốc cho iphone 4s làm sao vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.69931,
+         "id": "935963",
+         "field_search": "question",
+         "question": "em có down window7backgroundchager vào năm ngoái để dùng khá tốt. nhưng năm nay khi em muốn thay đổi lại thì nó không dùng đc nữa và em đã uninstall app đi bằng program and feature. Nhưng khi em down lại app đấy và cài đặt thì app không cài được và báo 1 trong các phần mềm vẫn đang chạy sẵn, đúng là khi em bật máy thì cái ảnh em đặt từ năm ngoái vẫn giữ nguyên.. Vậy phải làm thế nào để cài lại app đấy ạ /?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.681889,
+         "id": "687700",
+         "field_search": "question",
+         "question": "Phần mềm tozaco tải về tới lúc cài đặt máy báo lỗi cài đặt ứng dụng .cho em hỏi làm sao để khắc phục ạ .máy zp5 android4.4_2 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.594471,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.564665,
+         "id": "751185",
+         "field_search": "question",
+         "question": " Làm thế nào cài đặt đồng hồ hiển thị trên màn hình chính máy galaxy j7? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.507967,
+         "id": "927652",
+         "field_search": "question",
+         "question": "Em sử dụng máy samsung galaxy tab 4.7 t231 vừa rồi em root được và dùng phần mềm root explorer để xóa các tệp không cần thiết của hệ thống để máy có bộ nhớ nhiều hơn nhưng em lại xóa nhầm tệp của hệ thống bây giờ mày hiện lên dòng chữ tiến trình com.android.systemui đã dưng và không vào được màn hình chính,em đã hard reset và vào đến phần cài đặt ngôn ngữ thì không vào được nữa,em đã thử cài lại rom qua odin nhưng máy không nhận cáp usb nên em đã cài rom qua thẻ nhớ ngoài những máy vẫn báo lỗi không cài được.vậy mong các pro nào biết chỉ giúp em với em xin chân thành cảm ơn.số điện thoại của em:0167436xxxx.gmail:parksoora88@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.507076,
+         "id": "993451",
+         "field_search": "question",
+         "question": "Em vừa reset lại máy tính hãng dell. Em phải cài đặt các phần mềm cần thiết cho máy tính như : word, vietkey, coccoc... Như thế nào? Mong giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.495005,
+         "id": "1143434",
+         "field_search": "question",
+         "question": "em xài nokia x7 làm thế nào để em viết được tiếng việt có dấu ạ. em kiếm cài đặt nhưng không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.435654,
+         "id": "796267",
+         "field_search": "question",
+         "question": " Khi mình reset lại con iphone thì làm mất hết phần trong cài đặt giờ làm thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.382643,
+         "id": "1155508",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng máy samsung j5 prime máy em bị rơi và bị hỏng phím giảm âm lượng rồi nó tự chuyển chế độ an toàn em dùng mọi cách mà ko làm gì được kể cả khôi phục cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.374357,
+         "id": "905538",
+         "field_search": "question",
+         "question": "máy em bị lổi không phát ra âm thanh và nó để: \"không có thiết bị đầu ra âm thanh nào được cài đặt\".chỉ em cách khắc phục.em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.357786,
+         "id": "759245",
+         "field_search": "question",
+         "question": "Nếu em mua lại iphone nhặt được mà bị khóa màn hình và icloud báo mất máy thì thay ổ cứng máy thì có dùng được không hay có cách nào khác để dùng được máy không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.355488,
+         "id": "1140633",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tải được tin nhắn MMS ạ? em tải về mấy lần rồi, chờ rất lâu nhưng cũng không nhận được ạ. Dòng máy của em là Samsung galaxy J2 ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.275774,
+         "id": "831274",
+         "field_search": "question",
+         "question": " cho em hỏi máy tính của em là lenovo làm thế nào để cài đặt ngôn ngữ của máy là tiếng việt và gõ tiếng việt trên word? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.132654,
+         "id": "1022338",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.126303,
+         "id": "747087",
+         "field_search": "question",
+         "question": "Cho em hỏi khi khôi phục cài đặt gốc nhưng em không sao lưu lai hình ảnh số điện thoại vào iCloud hoặc iTune trên máy tính thì làm thế nào để có thể lấy lại được. Máy của em là iPhone 6S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.098673,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.053202,
+         "id": "936650",
+         "field_search": "question",
+         "question": "Giúp em với! Em làm rơi máy tính nên giờ nó bắt dùng đĩa để khởi động thì giờ có cách nào làm nó khởi động hay bắt buộc phải mang ra quán dùng đĩa ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01433,
+         "id": "1141978",
+         "field_search": "question",
+         "question": " Cho em hỏi máy laptop dell vostro 5568 thì mình làm cách nào để cần làm gì để pin không bị chai ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.995792,
+         "id": "764936",
+         "field_search": "question",
+         "question": "Em đang xài Samsung Galaxy V. Không biết tại sao mà dt em mở nguồn lên không được, em chỉ thấy hiện lên dòng \"SAMSUNG GALAXY V\" và 1 dấu chấm thang màu đỏ ở trên góc trái màn hình. Đợi mãi mà không thấy lên nguồn. Làm cách nào để dt của em khởi động lại được. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.978813,
+         "id": "1020168",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi con wiko lenny 2 của e vào phần đặt lại điện thoại trên máy thì nó tắt nguồn và khởi động lại máy và vào phần recovery để factory reset cũng ko đc lun là nó bị j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.919657,
+         "id": "778873",
+         "field_search": "question",
+         "question": " Máy em có cài Windows 10 hỏi cài đặt Turbo Pacal thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.886444,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.8636,
+         "id": "1147923",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tắt tính năng tìm kiếm bằng giọng nói của google trên máy realme c1. Em đã vô cài đặt google đã bấm tạm dừng mà ko dc. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.828022,
+         "id": "1134100",
+         "field_search": "question",
+         "question": "Em sử dụng sam sung j3 pro. Hồi trước khi em đang sử dụng thì mày tắt hoài. Em có hỏi bên mình thì được bảo là reset lại máy. Em đã làm theo. Nhưng sau khi reset xong thì máy em ngốn pin rất nhiều. Em không biết làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.794216,
+         "id": "1023554",
+         "field_search": "question",
+         "question": "Làm thế nào để đặt mật khẩu thư viện ạ, em dùng mobiistar lai z1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.707592,
+         "id": "1150237",
+         "field_search": "question",
+         "question": "Em dùng thẻ nhớ 32G cho điện thoại sasung j2 nhưng không biết cài đặt thế nào để sử dụng thẻ nhớ. Em đã định dạng thẻ nhớ nhưng vẫn không chuyển file từ máy sang được. Máy đã gần dùng hết 8G nên không tải được một số ứng dụng trên CHplay. Vậy em phải làm thế nào để dữ liệu thẻ nhớ chuyển vào bộ nhớ trong để có thể sử dụng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.684973,
+         "id": "990657",
+         "field_search": "question",
+         "question": "cho hỏi em dùng iphone 4s nhưng không bật đc wifi ở chỗ trung tâm kiểm soát thì nút wifi lại bị biến thành màu xám em đã thử 1 số cách như reset cài đặt mạng reset toàn bộ máy nhưng điều không có hiệu quả mong admin và mod giúp em giải quyết vấn đề này em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.669268,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.599764,
+         "id": "795969",
+         "field_search": "question",
+         "question": "Help me!Anh/chị giúp em với ạ.Em đang dùng ip5. em vào phần cài đặt để Xóa và đặt lại. Lúc dthoai khởi động lại, đầu tiên là cài đặt ngôn ngữ. Em đang định tìm Tiếng Việt, nhưng trót chạm vào ngôn ngữ Tiếng Trung. Không hiểu gì hết. Em ấn loay hoay quay lại 1 hồi k đc. Giờ máy đơ, không kéo gạt sang để mở máy nữa rồi.Cứ ấn nút Home sáng, là điện thoại hiện lần lượt 1 loạt các ngôn ngữ mang ý nghĩa 'Xin chào' và âm thanh đi cùng. Nhưng em vẫn không mở được khóa.Giúp em với ạ, làm sao để cài lại được Tiếng anh or Tiếng Việt. Kiểu reset lại máy về như ban đầu ạ. Em cảm ơn!Help me!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.597708,
+         "id": "1155142",
+         "field_search": "question",
+         "question": "Em đang dùng máy mi note 4 thì gặp lỗiWifi bị ngắt kết nối mặc dù cục wifi để khá gầnVô cài đặt wifi thì nó hiện wifi đã lưu phải kết nối lạiCho em xin nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.497343,
+         "id": "802555",
+         "field_search": "question",
+         "question": "Add cho em hỏi: máy em là iPhone 5s nhưng em cứ sạc pin đầy mà không dùng pin cũng hết rất nhanh, mà khi sạc thì máy rất nóng. Trước thì máy em nếu không dùng thì vẫn để được sang ngày hôm sau. Vậy có cách nào khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.466879,
+         "id": "782812",
+         "field_search": "question",
+         "question": "Achi cho em hỏi, phần mềm mới nằm trong cài đặt máy của em nhưg em ko muốn căp nhật thì xoá bằng cách nào ạ, em đang sử dụng iPhone 5S ạ, achi giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42241,
+         "id": "768698",
+         "field_search": "question",
+         "question": " Em muốn vào chế độ  Recovery cho Sony m4 thì làm cach nào vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42069,
+         "id": "1018788",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, em dùng con Coolpad, bằng một cách nào đó em đã lỡ vô hiệu hoá Coolshow rồi. Em đã thử vào cài đặt -> ứng dụng -> tab vô hiệu hoá để xem có cách mở không, chỉ có nút \"buộc dừng\" và \"xoá dữ liệu\".  Em không biết cách nào để mở lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.395805,
+         "id": "1137971",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào để máy em nó hiển thị Mạng 4G thế ạ ... sim em đã cài 4G nhưng nó vẫn ko hiển thị ạ .. HĐH em là IOS ko bk có cách nào sửa ko ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.388878,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.383112,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.332941,
+         "id": "997920",
+         "field_search": "question",
+         "question": " làm thế nào để cài đặt tiếng việt cho điện thoại samsung galaxy S3 được vây? ai có thể cho mình biết đc ko?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.315521,
+         "id": "1161254",
+         "field_search": "question",
+         "question": "Ad ơi em dùng ip 7 ấy ạ, mà để lâu quá không dùng nên là quên hết mật khẩu với icloud luôn rồi, mà em cũng không có nhập dấu vân tay nữa, giờ có ad cách nào để em reset máy về nguyên hiện trạng ban đầu lúc mới mua không ạ ? Nếu có thì tốn bao nhiêu tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.290035,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.259233,
+         "id": "762231",
+         "field_search": "question",
+         "question": "Em có mua một ipad mini vào  khoảng 11 tháng trước, bây giờ máy đang bị đứng và không dùng được. Trước đó em có vào mục Settings->general->reset->reset all settings và kể từ đó máy bị đứng luôn. Có cách khắc phục náo không ạ vì em không bấm được nút nào hết? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.21963,
+         "id": "1152577",
+         "field_search": "question",
+         "question": "mình có a8+ bị mất mk màn hình giờ làm cách nào để mở khóa. Không tắt nguồn được nên không hard reset được. Lúc đầu mua máy cửa hàng cài nên k có ss account và tk google",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.2162,
+         "id": "1007818",
+         "field_search": "question",
+         "question": "Ah ơi cho em hỏi làm sao để kết nối điện thoại với máy tính khi điện thoại bị treo logo và không thể vào recovery được. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.200571,
+         "id": "990653",
+         "field_search": "question",
+         "question": "em dùng iphone 4s lúc trước thì còn bình thường nhưng do em dùng mạng 3G nhiều nên máy khá nóng nên đã bị hỏng wifi bây giờ nút wifi ở trung tâm kiểm soát đã bị biến thành màu xám trong cài đặt thì ko bật đc em đã thử 1 số cách như reset mạng reset toàn bộ máy nhưng đều không có hiệu quả vậy em mong admin và các mod giúp em khắc phục lỗi này em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.181946,
+         "id": "736549",
+         "field_search": "question",
+         "question": " em có con oppo r1001 bị treo logo khởi động admin cho em hỏi làm cách nào để khởi động được máy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.174679,
+         "id": "1023717",
+         "field_search": "question",
+         "question": "Adm ơi , em muốn hỏi vấn đề về latop của em ạ, cách đây vài ngày em thấy máy mình hơi lag giật lên em lên mạng tìm cách chống phân mảnh ở nhớ và xóa ứng dụng , có lẽ em nhỡ tay xóa ứng dụng gốc hay driver quan trọng nào của máy hay sao mà máy em càng lag hơn , thậm chí em định reset lại máy mà cũng bị lỗi không thể reset được , em dùng latop dell inspiron 15 3000 series win 10 mua của tgđ, mong AD góp ý xem em lên làm gì để khắc phục sự cố ạ , em cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.173294,
+         "id": "1139472",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình dùng máy oppo f3 thì làm thế nào để cắt chỉnh nhạc để đặt làm nhạc chuông hay là mình phải tải app mới làm đk ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.160494,
+         "id": "1007266",
+         "field_search": "question",
+         "question": "Em đang sử dụng Galaxy A5 2017, máy của em bị lỗi gửi tin nhắn (sim1 gửi được nhưng sim2 gửi không được). Em có tham khảo bài viết hướng dẫn cách khắc phục lỗi nhưng không thành công, nên em đã khôi phục cài đặt gốc. Nhưng sau khi khôi phục cài đặt gốc thì nó vẫn còn bị lỗi như vậy. Ai giúp em với ạ. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.10455,
+         "id": "904545",
+         "field_search": "question",
+         "question": "Các Admin giải đáp giúp em với ạ? 3 ngày gần đây bạn bè em gửi hình ảnh ở ứng dụng messenger trên ip 5s mà em không thế nào mở để xem được ạ? em đã thử các cách như khởi động lại máy và xóa ứng dụng để cài đặt lại vẫn không sửa lỗi đưa ạ? em cũng kiểm tra phần cài đặt quyền riêng tư vẫn ok ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.072227,
+         "id": "1007309",
+         "field_search": "question",
+         "question": "MOD cho em hỏi cách root máy samsung galaxy j7 mà không cần dùng máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.06026,
+         "id": "1142309",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Mình có đăng nhập icloud trên máy ip6s cho bố dùng. Ở nhà có lần nhờ cài app không biết nghịch thế nào mà bị khóa mất icloud. Mình có mua máy khác ip 6s+ và dùng đúng email cũ để đăng ký đúng id apple cũ thì vẫn được và hiện nay mình đang dùng bình thường. Xin hỏi id apple cũ trên máy ip6s làm sao để mình có thể xóa đi để reset máy được không ạ. Đã thử rất nhiều cách rồi nhưng không được ạ. Chân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.04415,
+         "id": "1002101",
+         "field_search": "question",
+         "question": "hi , hôm kia em có đặt online một cục sạc dự phòng , giờ em muốn hủy hàng được k ạ ? Nếu hủy được phải làm thế nào v ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036505,
+         "id": "1135140",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại em reset máy lại mà em quên cái mật khẩu google thì có cách nào lấy lại khồng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.029543,
+         "id": "779923",
+         "field_search": "question",
+         "question": " Mình có em Galaxy note 5 sơ tâm bị quên mật khẩu và email giờ có cách nào reset không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.009607,
+         "id": "772813",
+         "field_search": "question",
+         "question": " Mình dùng Oppo Neo 5, Messenger của mình bị dừng, reset lại máy nhưng vẫn không vào được, làm thế nào được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.998255,
+         "id": "992486",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có mua Laptop ở điện máy xanh nhưng về xài sao đánh văn bản bỏ dấu không được vậy ạ ? Em phải mang máy ra điện máy xanh để cài hay có cách nào không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.997448,
+         "id": "996794",
+         "field_search": "question",
+         "question": "Samsung galaxy Tab 3 tự khởi động lại liên tục, phải nhấn nút nguồn nhiều lần mới được. Đã thực hiện reset khôi phục lại cài đặt máy vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.980167,
+         "id": "1011870",
+         "field_search": "question",
+         "question": "em đang sử dụng Galaxy note 3 N9002 do vọc máy nên bây giờ máy đang bị treo logo nhưng vẫn vào được download mode và recovery mode nếu em mang ra cửa hàng thế giới di động để sửa thì cửa hàng có nhận sửa không ạ, và nếu có thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.974186,
+         "id": "1160161",
+         "field_search": "question",
+         "question": "Máy em cài đặt phần mềm Unikey bảng gõ tiếng việt nhưng phần mềm làm cho máy chậm và có nhiều lúc em gõ nó không theo chính tả mà nhảy chữ lum la. Em không gở cài đặt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.957788,
+         "id": "1014431",
+         "field_search": "question",
+         "question": "Làm cách nào để gỡ hoàn toản các ứng dụng của máy được cài sẵn mà khi khôi phục cài đặt gốc nó không bị cài lại nữa ạ! Vì mấy ứng dụng đó không cần thiết và nó chiến ram với bộ nhớ quá,bởi đó là dịch vụ của nhà sản suất cài thêm vào và có thể gỡ cài đặt vậy làm thế nào để nếu khổi phục cài đặt gốc mấy ứng dụng đó không còn suất hiện nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.948055,
+         "id": "1005088",
+         "field_search": "question",
+         "question": "Chào anh , chị kĩ thuật viên . Em dùng laptop Dell 3552 , window10 creator . Khi em reset lại máy thì nó vẫn chạy bình thường . Một lúc sau nó hiện ra cái bảng .Em bấm vào Close thì nó lại hiện ra như hình bên dưới . Lỗi reset như v phải sửa s ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.931631,
+         "id": "1006510",
+         "field_search": "question",
+         "question": "em muốn mua pin cho galaxy V, chỉ một mình pin thôi. có pin nào dành cho galaxy V k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.930347,
+         "id": "1154740",
+         "field_search": "question",
+         "question": "Em có cài đặt ứng dụng driver booster 6.3 sau đó cập nhật driver cho máy. Sau khi cập nhật xong thì máy em bị mất mạng, mất âm thanh, chuột không di chuyển được và em cũng không biết còn bao nhiêu lỗi nửa nhưng trước mắt có 3 lỗi nghiêm trọng như v. Dùng trình tự sửa lỗi của máy cũng không fix được. Trước khi cập nhật driver em không sao lưu driver nên không quay về bản cũ được giờ lại không có mạng nửa. Có cách gì để giúp em không ạ. Em cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.91686,
+         "id": "779122",
+         "field_search": "question",
+         "question": " Viva video cso cài được trên máy tính không ạ. Em cài mà không được, nếu được thì cài thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901815,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

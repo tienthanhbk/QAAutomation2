@@ -1,0 +1,801 @@
+{
+   "id_query": "788756",
+   "total": 32354,
+   "total_current": 100,
+   "max_score": 121.954834,
+   "origin_question": "Hiện mình đang dùng Iphone 5 phiên bản 6.0.Mình muốn cập nhật phiên bản cao hơn nhưng tích vào phần cập nhật phần mền lại không được.Cửa hàng có xử lý được lỗi này không ạ?",
+   "hits": [
+      {
+         "score": 54.33555,
+         "id": "839655",
+         "field_search": "question",
+         "question": "điện thoại iphone 4 của mình thấy đang ở phiên bản 6.1.2 mình muốn nâng cấp nên là 7.0 có được không? và làm cách nào? mình vào phần cập nhật phần mềm thì không cập nhật được, giúp m với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.755074,
+         "id": "779786",
+         "field_search": "question",
+         "question": " Mình đang dùng 4s với phiên bản 6.3.1 mình muốn cập nhật lên phần mềm 9.2.1 mà cứ báo bị lỗi tại sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.755512,
+         "id": "1141049",
+         "field_search": "question",
+         "question": "Mình mới cập nhật phiên bản mới trên samsung j7 mà máy bị lỗi, bây giờ muốn quay lại phiên bản trước đó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.83443,
+         "id": "1011908",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo F1 có bản cập nhật phiên bản 6.0 chưa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.75239,
+         "id": "989243",
+         "field_search": "question",
+         "question": "Cho em hỏi , em đang dùng 5se , em đang dùng phần mềm phiên bản 8.3 . Vậy em có nên cập nhật phần mềm để dùng máy tốt hơn hay dùng phần mềm cũ ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.386944,
+         "id": "811430",
+         "field_search": "question",
+         "question": "Em mới mua ĐT IPhone 4s phiên bản 8.3.bây giờ ĐT em có phiên bản 9.3.1 em có nên cập nhật phiên bản này không.có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.114628,
+         "id": "778611",
+         "field_search": "question",
+         "question": " ad cho hỏi mình đang dùng ip5s có nên cập nhật phiên bản 9.1.2 mới không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.4114,
+         "id": "827370",
+         "field_search": "question",
+         "question": "Em dung iphone 5s đua bạn nó không may cập nhật phiên bản 360 mới . Bây giờ e muốn cập nhật phiên bản cũ thi như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.35355,
+         "id": "758553",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5, đang ở phiên bản 7.1.2, hiện tại trong máy mình có bản cập nhật iOS 9.2, liệu nâng lên thì máy có bị làm sao không ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.04961,
+         "id": "1157775",
+         "field_search": "question",
+         "question": "Mình muốn cài Zalo trên máy tính nhưng cập nhật zalo phiên bản cũ được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.561665,
+         "id": "1155270",
+         "field_search": "question",
+         "question": "Cho mình hỏi MediaPad T1 8.0 của mình bây giờ mới ở phiên bản 4.3, nếu muốn nâng cấp lên nhưng máy không có bản cập nhật mới thì có thể tải bản cập nhật đó ở đâu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.478966,
+         "id": "1163057",
+         "field_search": "question",
+         "question": "Em muốn quay lại phiên bản cũ ColorOS 5..1 em xài realme 2 nhưng mà em cập nhật 5.2 em muốn quay lại phiên bản cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.812847,
+         "id": "792908",
+         "field_search": "question",
+         "question": " Em xài iPhone 6 sao không cập nhật được Facebook phiên bản mới mặc dù đã có phiên bản mới rồi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.189587,
+         "id": "771024",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5, mấy hôm trước em có cập nhật lên iOS 9.2 nhưng giờ em muốn quay lại phiên bản iOS cũ (7.1.4) thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.00653,
+         "id": "1144467",
+         "field_search": "question",
+         "question": "ad cho em hỏi: em muốn nâng cấp ios lên cao. nhưng em aan vào cập nhật phần mềm thì nó cứ hiện ra dòng chữ \"đang kiểm tra bản cập nhật\" mà nó mãi không hiện ra văn bản để cập nhất.e để cả 1 tiếng mà cũng không được. ad giuoa em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.803257,
+         "id": "1155793",
+         "field_search": "question",
+         "question": "Mình muốn gỡ phiên bản cập nhật mới của A7 có được k ạ? Vì sau khi cập nhật máy dùng rất nhanh hết pin và sạc thì lại rất lâu đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.588,
+         "id": "792920",
+         "field_search": "question",
+         "question": " Em sài iphone 6 sao không cập nhật đc fb phiên bản mới mặc dù đã có phiên bản mới rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.236572,
+         "id": "836697",
+         "field_search": "question",
+         "question": "em đã cập nhật phiên bản mới của Facebook nhưng nó hay bị lag nên em muốn quay trở lại phiên bản như thế này thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.662304,
+         "id": "753262",
+         "field_search": "question",
+         "question": "Cho em hỏi máy của em vào phần cập nhật nó không hiện bản IOS nào nó chỉ hiện đang kiểm tra cập nhật. Làm thế nào để cập nhật bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.27367,
+         "id": "1147865",
+         "field_search": "question",
+         "question": "Cho em hỏi: em mới mua hưawai y9 về máy bắt cập nhật phiên bản mới. Em có nên cập nhật không ạ? Nếu cập nhật xong thì máy có lỗi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.902058,
+         "id": "1138790",
+         "field_search": "question",
+         "question": "Chào shop ạ, e hiện tại đang dùng điện thoại iphone 5s. Bây giờ e muốn cập nhật lên phiên bản 10.2.1 có sợ bị giật không ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.880905,
+         "id": "778289",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iphone 5s mới mua em không cập nhật phần mề sao nó tự động tải phiên bản 9.2.1 ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.823547,
+         "id": "777980",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy iPhone 4s của mình đang chạy phiên bản phần mền 7.1.2 có thể chuyển xuống ios 6.1.3 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.673435,
+         "id": "875073",
+         "field_search": "question",
+         "question": "Chao ad..hôm truok mk có nhờ mẹ mua ip5s trắng tại tgdđ giá rai..có nhờ cửa hàng tải dùm một số phần mền vì ở nha k có wifi ..hẹn tại những phần mền đó cần cập nhật nhưng id ap cần mk của id tgddhp mà mk k có mật khẩu..ad hỏi giúp mk cái mật khẩu để mk có thể cập nhật những phiên bản mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.223602,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.200527,
+         "id": "1163921",
+         "field_search": "question",
+         "question": "Mình đang dùng j4, mình đã cập nhật phần mềm nhưng h lại có thông báo cập nhật tiếp. Vậy mình có nên cập nhật nữa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.151413,
+         "id": "1133298",
+         "field_search": "question",
+         "question": "Anh chị ơi. Em đang dùng ip 5s, chạy ios 9.3.2. Em đang muốn nâng lên ios cao hơn vì em chơi liên quân hay bị out game ra( đang load vào trận nó out game ra). Em có vào cài đặt rồi chọn mục cập nhật phần mềm nhưng nó load lâu quá mãi có bản cập nhật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.046658,
+         "id": "1001021",
+         "field_search": "question",
+         "question": " điện thoại honor đã được cập nhật lên phiên bản V100R001C636B190 vậy giờ có thể về lại phiên bản gốc được ko vậy à? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.001377,
+         "id": "918855",
+         "field_search": "question",
+         "question": "Iphone 5s có nên cập nhật phiên bản 10.1.1 k ạ.lên thì máy có nhanh hơn hay chậm đi ạ.và 5s có thể lên tối đa phiên bản bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.350502,
+         "id": "1138171",
+         "field_search": "question",
+         "question": "Mình đang xài oppo f1s trước h mình k thấy yêu cầu cập nhật phiên bản Android mới v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.20038,
+         "id": "801234",
+         "field_search": "question",
+         "question": " Mình đang muốn cập nhật ios7 cho iphone 4 nhưng ấn vào cập nhật phần mềm nó cứ download mãi mong đc giúp đỡ ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.08744,
+         "id": "779997",
+         "field_search": "question",
+         "question": "Ad ơi mình muốn hỏi mình dung iPhone 5s máy mình nhận được bản nang cấp phần mềm iOS 9.2.1. Liệu mình có thể cập nhật nó không? Khi cập nhật về có vấn đề gì với máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.70965,
+         "id": "774606",
+         "field_search": "question",
+         "question": " Samsung tab 3v t116 có cập nhật phần mền lên 5.0 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.668644,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.439617,
+         "id": "818422",
+         "field_search": "question",
+         "question": "Mình cập nhật phiên bản 9.3 cập nhật xong qua 1 loạt yeu cầu thì đến chỗ đòi nhập Sđt của mình vào và mình nhập lộn Sđt nv có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.410202,
+         "id": "801807",
+         "field_search": "question",
+         "question": " Tại sao chỉ ios cập nhật được các phiên bản mới nhất còn CH Play không có? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.374577,
+         "id": "767338",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 iOS 6.1.4 giờ em muốn lên bản cao hơn nhưng giữ lại bản 6.1.4 này sau mà dùng không thích có thể quay về được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.31756,
+         "id": "891542",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 5s mà mình đang muốn cập nhật len iOS 10 mà vào phần cập nhật đợi mãi mà nó chẳng hiện ra gì cả. Là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.293804,
+         "id": "1151218",
+         "field_search": "question",
+         "question": "Mình đang xài mady samsung galaxy j8 nó có bản cập nhật phần mềm mà mình lỡ ấn vào cái nó ghi hoãn cập nhật vậy thì máy nó có bị gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.19105,
+         "id": "1018002",
+         "field_search": "question",
+         "question": "Cho mình hỏi là có phải khi cập nhật lên phiên bản android 7.0 thì điện thoại samsung a7 2017 sạc pin lâu hơn phải không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.181206,
+         "id": "845464",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s phiên bản 9.2.1. Trong cài đặt phần mềm có phiên bản 9.3.2 mình muốn lên nhưng nghe nói phiên bản 9.3.2 lên máy chạy chậm. Mình đang phân vân ko biết có nên lên 9.3.2 hay Ko ! mong ad tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.17883,
+         "id": "1165935",
+         "field_search": "question",
+         "question": "Huawei nova 2i phiên bản rne_22 có cập nhật lên Android pie 9.0 bằng máy tính được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.105244,
+         "id": "1150196",
+         "field_search": "question",
+         "question": "em sài máy tính bản huawei mediapad T3 sử dụng hệ thống phiên bản KOB-L09C209B003 mà máy yêu cầu cập nhật phiên bản mới OTA-KOB-L09C209B254_B280Cho em hỏi là nếu cập nhật hệ thống phiên bản mới ó ưu nhược điểm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.092834,
+         "id": "1151341",
+         "field_search": "question",
+         "question": "Mình muốn cập nhật phiên bản mới cho máy asus zenfone max pro m1 thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.02705,
+         "id": "1161145",
+         "field_search": "question",
+         "question": "Mình đang dùng đt oppo f1s phiên bản Android là 5.1 thì có nên tải phiên bản 6.0 trên mạng xuống không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.008305,
+         "id": "1133936",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng xiaomi redmi 5 plus , mua tại tgdd vài tháng trước , nhưng bây giờ tình trạng máy như thế này ,Tôi không biết nhiều về điện thoại nên cứ thấy thông báo cập nhật phần mềm là tôi cập nhật đến phiên bản mới nhất , lúc trước mới mua máy về rất mượt , nhưng sau lần update phiên bản trước thì tôi thấy nó lỗi cảm ứng , đơ cảm ứng , loạn cảm ứng , nhất là khi chơi game , tôi rất khó chịu về tình trạng này , tôi không biết có phải lỗi phần mềm hay không nhưng tình trạng máy hiện tại của tôi rất khó chịu , mong nhận được phản hồi từ tgdd và hướng dẫn sửa chữa . phiên bản hiện tại của tôi là : MUIU Global 10.0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.85601,
+         "id": "805945",
+         "field_search": "question",
+         "question": "mình dùng máy iphone 5, vừa rồi có cập nhật bản ios mới. Khi kích hoạt lại máy đã nhập đúng mật khẩu icloud nhưng ko kích hoạt đc máy. Nhờ bạn cho hướng dẫn xử lý với.Mật khẩu icloud mình vẫn truy cập itunes bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.850853,
+         "id": "1022216",
+         "field_search": "question",
+         "question": "tgdd cho mình hỏi. bây giờ iphone 5s có cập nhật bản 10.2.1 được nữa không vậy. mình cập nhật mà lỗi 3194. thank admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.79905,
+         "id": "786387",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình mới mua ip 5s gần 1 tháng nay máy mình hay hiện bản cập nhật phần mềm 9.2.1 mình có nên cập nhật ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55861,
+         "id": "1008680",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng ios nó có Thông báo cập nhật phần mềm nhưng mình không muốn cập nhật vậy làm thế nào để tắt thông báo và không bao giờ thông báo cập nhật về máy nữa??? Mình xoá được cập nhật tự tải   Về máy đôi nhưng nó vẫn hiện Thoòng báo trong cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.401505,
+         "id": "1142642",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách để cập nhật phiên bản điện thoại của máy huawei y541",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.37668,
+         "id": "1156938",
+         "field_search": "question",
+         "question": "samsung a7 2018 au khi cập nhật bản mới nhất thì lại bị lỗi đang dùng wifi mà kết nối mạng 4g là mạng e, tắt nguồn khởi động lại mới lên 4G.bản trước cập nhật đã fix lỗi này nhưng bản mới lại bị lỗi này có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.36151,
+         "id": "1155833",
+         "field_search": "question",
+         "question": "Mình vô tình cập nhật youtobe phiên bản mới nhưng không được, máy báo không phù hợp với thiết bị của bạn. Và giờ mình không cài đặt được youtobe nữa. Mình dùng Oppo A37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.264297,
+         "id": "999634",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu mình cứ cập nhật phiên bản mới của iphone hay ipad thì có nặng máy hay tác hại khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.07965,
+         "id": "1014491",
+         "field_search": "question",
+         "question": "  Hiện tại máy s7 edge của mình bị vướng bản cập nhật này ko cập nhật được, ad cho hỏi mình nên làm sao được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.941643,
+         "id": "762972",
+         "field_search": "question",
+         "question": "Mình muốn cập nhập iPhone lên iOS 9.2 nhưng khi vào cập nhật phần mềm thì máy kiểm tra phần mềm rất lâu ko biết làm sao để cập nhật ad chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.870388,
+         "id": "1142736",
+         "field_search": "question",
+         "question": "Mình không cập nhật đc phiên bản mới.. Vs cả mấy hay bị out ra và hay bị sập nguồn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.687683,
+         "id": "748866",
+         "field_search": "question",
+         "question": " Sử dụng iphone 5 khi cập nhật phiên bản iOS 9 về thì có mất hình ảnh danh bạ hay một số ứng dụng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.532906,
+         "id": "1151020",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro có thông báo cập nhật phiên bản color mới. Vậy có nên cập nhật ko. Nếu cập nhật thì dữ liệu có bị mất ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.23363,
+         "id": "1021713",
+         "field_search": "question",
+         "question": "Mình không muốn lên 11 khi chưa có bản chính thức nhưng mình làm theo TGDD cách cài, mình vào trang web và hiện ra thế này, nhưng mình chưa muốn lên, mình muốn trở lại trạng thái \"ios 10.3.3 phần mềm của bạn đã được cập nhật\" TGDD hướng dẫn mình làm lại trạng thái đó đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.232426,
+         "id": "844728",
+         "field_search": "question",
+         "question": " mình muốn cập nhật phần mềm nó cứ hiện thế này thì làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.094986,
+         "id": "798525",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s phiên bản nhật có nhận các sim không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.091904,
+         "id": "1161814",
+         "field_search": "question",
+         "question": "( E dùng samsung j8 )Sau khi e ấn vào cập nhật phiên bản hay cập nhật android gì đó là phiên bản 9 có chữ P và mấy cái vòng tròn. Giao diện cũng khác đi.Cập nhật xong mấy ngày nay e chơi game nào nó cũng có hiện tượng giật lag mặc dù mạng rất ổn. Các a.c giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.043274,
+         "id": "1152592",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi. s mình vào game HayDay cứ để đang tải r tự thoát ra k vậy? k có phiên bản cập nhật mới. mình sài j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.9678,
+         "id": "1142683",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại samsung vào game Liên Quân mobile chọn chức năng nạp tiền bằng SMS thì hiện ra dòng chữ \"điện thoại của bạn hỗ trợ In app billing nhưng phiên bản đã cũ. xin hãy cập nhận lên phiên bản mới\" vậy thì làm sao để cập nhật ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.8343,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.820114,
+         "id": "1145615",
+         "field_search": "question",
+         "question": "Mình có 2 tài khoản facebook xài song song, đã cập nhật messenger bản mới nhất nhưng mình log in thì chỉ có 1 tài khoản đã cập nhật còn 1 tài khoản ở phiên bản cũ. Ai biết cho mình xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.726185,
+         "id": "908486",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng hệ điều hành IOS. Tôi có thắc mắc là vì sao điện thoại của tôi không thấy hiện thị thông báo có cập bản cập nhật mới (bình thường sẽ có xuất hiện số 1 ở mục cài đặt). Tuy nhiên, khi vào cài đặt/cài đặt chung/cập nhật phần mềm thì mới thấy có thông báo bản cập nhật mới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.66661,
+         "id": "911171",
+         "field_search": "question",
+         "question": "Chào quản trịMình đang sử dụng oppo r7s, mình có cập nhật phiên bản máy mới và ngày hôm qua 8/11/16, tất cả các phần mềm trong máy mình đều bình thường chỉ có phần mềm facebook của mình ko vào đc, đang đăng nhập thì bị thoát ra giữa chừng.mình đã xóa facebook và tải lại phiên bản mới nhưng cũng ko khắc phục đc, mong đc phản hồi từ quản trị cho mình cách khắc phục sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.612106,
+         "id": "911906",
+         "field_search": "question",
+         "question": " mình dùng iphone 5s, mình muốn xía bản cập nhật ioss 10 thì làm ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.459167,
+         "id": "795763",
+         "field_search": "question",
+         "question": "cho em hỏi, máy em iPhone 5, bị xóa mất icloud, giờ không tải được app, máy yêu cầu cập nhật phiên bản mới nhất, có cách nào để khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.3911,
+         "id": "1151038",
+         "field_search": "question",
+         "question": "Làm sao để realme 2 pro cập nhật lên phiên bản color mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.344494,
+         "id": "1160429",
+         "field_search": "question",
+         "question": "Sao máy huawei 3i của mình k cập nhật dk bản phần mềm emui 9 là bị sao. Cập nhật phần mềm máy báo emui 8 là mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.34239,
+         "id": "830824",
+         "field_search": "question",
+         "question": "theo như mình biết thì ipad không phân biệt bản World hay Lock, vậy QTV cho mình hỏi mình cập nhật phiên bản mới có được không? và có ảnh hưởng gì đến máy không vậy? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.252003,
+         "id": "1023424",
+         "field_search": "question",
+         "question": "Sao lenovo A319 của mình sao khi cập nhật phiên bản mới thì nó treo màn hình luon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.045986,
+         "id": "806264",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPad 2 phiên bản iOS 9.2.Sau khi cập nhật iOS 9.3 thi Không kích hoạt được nữa. Bây giờ phải làm gì? Giup Minh voi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.02489,
+         "id": "946156",
+         "field_search": "question",
+         "question": "Tại sao khi mình gọi ft mà bên kia k nghe được mình nói, mình đã tải lại và cập nhật phiên bản mới nhất của Messenger rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.92312,
+         "id": "834491",
+         "field_search": "question",
+         "question": "máy tính win 10 của e cần cập nhật phiên bản win 10 pro , và nói là \"phải liên hệ với quản trị hệ thống của bạn\" vậy e phải liên hệ bằng cách nào để cập nhật phiên bản mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.83386,
+         "id": "1158302",
+         "field_search": "question",
+         "question": "cho mk hỏi khi mới mua honor play về là hãng tự cập nhật hệ điều hành emui 9.0 sẳn rồi hay là phải tự cập nhật thủ công vậy?và khi cập nhật lên emui 9.0 rồi có xảy ra lỗi phần mền hay lỗi gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.824474,
+         "id": "1140773",
+         "field_search": "question",
+         "question": "Cách thay đổi màn hình khóa Xiaomi  khi cập nhật lên phiên bản mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.727787,
+         "id": "907773",
+         "field_search": "question",
+         "question": "Mình cập nhật facebook phiên bản 100.0.0.20.70 trên Điện thoại Samsung galaxy v nhưng khi vào Facebook thì Thấy 1 chữ F chờ rất lâu nhưng không vào được Mình đá gỡ ững dụng tải lại mà vấn vậy Tại DNS Cung không vào được luôn Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.707066,
+         "id": "1001085",
+         "field_search": "question",
+         "question": "Cho em hỏi bấm vào bản cập nhập phần mềm ios 10.3.2 xong chưa cập nhật xong em lỡ tay bấm thoát ra và bây giờ nó không hiện lên để cập nhật nữa thì phải làm sao ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.698273,
+         "id": "1167028",
+         "field_search": "question",
+         "question": "Mình có tải bản android 9 vào máy mà chưa chọn cập nhật, giờ không muốn cập nhật thì xóa bản android 9 ở chỗ nào trong điện thoại? Samsung A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.636456,
+         "id": "1024578",
+         "field_search": "question",
+         "question": "Em mới mua Samsung J7 prime mà nó cứ bắt cập nhật phần mềm mới. Cho e hỏi nếu cập nhật thì bản sau có gì thay đổi không. So với bản hiện tại nó có thay đổi nhiều không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.623333,
+         "id": "1135683",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em tý đc không ạ....em đag dùng dòng máy xiaomi...em cập nhật lại phiên bản MIUI 10 nhưng ko phù hợp giờ máy không chạy đc rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.613956,
+         "id": "1022879",
+         "field_search": "question",
+         "question": "Cho mình hỏi :\" Khi mới mua về mình sử dụng ứng dụng google map rất tốt, chỉ đường rất đúng. Nhưng từ khi cập nhật phiên bản mới thì định vị sai và chỉ đường thì lung tung cả. Mình đang dùng J7 Prime . Vậy lỗi do máy hay do phiên bản vậy. Xin cảm ơn\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.581547,
+         "id": "1149764",
+         "field_search": "question",
+         "question": "dạ cho e hỏi điện thoại s9 plus muốn cập nhật lại phiên bản cũ được ko ạnếu được phải thao tác thế nàoe cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.48325,
+         "id": "747961",
+         "field_search": "question",
+         "question": "Phiên bản wechat mới cập nhật máy tôi không gọi video được. Bằng cách nào hướng dẫn cho tôi trở về phiên bản cũ của wechat cho đt Android được ko, xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.43884,
+         "id": "767777",
+         "field_search": "question",
+         "question": " Cho em hỏi cập nhật phiên bản IOS 9.2 máy có hao pin hay bị đứng hk ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.410625,
+         "id": "752814",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện giờ em em đang dùng cái iPhone 4 mà em cập nhật phần mềm iOS có cách nào xóa bộ phận cập nhật này không vậy chỉ em với em cảm ơn nhiều?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.400715,
+         "id": "910885",
+         "field_search": "question",
+         "question": " Sao cập nhật Fb xog vào Fb không được, mà 2 tuần rồi Fb không có bản cập nhật mới vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.31407,
+         "id": "1157889",
+         "field_search": "question",
+         "question": "Gỡ cài đặt bản cập nhật phần mềm cho A6 plus sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.27818,
+         "id": "997097",
+         "field_search": "question",
+         "question": "điện thoại huawei gr5 2017 đã ra mắt cập nhật android 7 , nhưng điện thoại em không nâng lên được do trong phần cài đặt chưa có bản cập nhật, vậy em phải chờ đến khi máy em nhận được bản update phải không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.144577,
+         "id": "1145209",
+         "field_search": "question",
+         "question": "Messenger em hiện có 2 nick. 1 nick đã được cập nhật phiên bản mới, nick còn lại thì chưa. Em phải đợi một thời gian nữa hay sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.059864,
+         "id": "1157950",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a37 mới đây có bản cập nhật mới sao em cập nhập không được nó cứ bảo lỗi cập nhật ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.89875,
+         "id": "1134576",
+         "field_search": "question",
+         "question": "ipad air cập nhật ios 12.1 trên itunes quá lâu, 5 tiếng rồi mà itunes vẫn chỉ báo \"đang cập nhật\", ad cho hỏi cách xử lý ạ? cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.862743,
+         "id": "1023895",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6s plus hiện tại mình mới cập nhật lên ios 11 nhưng do gặp nhiều lỗi,máy thỉnh thoảng giật lag,thoát ứnng dụng đột ngộtVậy mình có thể up xuống bản ios 10.3.3 được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.844975,
+         "id": "1023355",
+         "field_search": "question",
+         "question": "Mình cập nhật ios11 trước ngày 19 thì phiên bản lúc đó so với bản sau ngày 19 hiện tại có phải là 1 ko ? vì mình check update ko thấy có thông báo nâng cấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.832478,
+         "id": "1146429",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop mình trước đây chơi game ok nhưng đột nhiên nay vào game không được và máy báo là game bị đóng vì không tìm thấy thiết bị hoặc gặp vấn đề với diver . vui lòng cập nhật driver mới nhất hoặc phiên bản driver ổn định nhất. Ad có thể chỉ mình cách cập nhật driver hay không ạ. Mình sử dụng laptop HP. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "808193",
+   "total": 33213,
+   "total_current": 100,
+   "max_score": 159.79166,
+   "origin_question": "Máy tính minh là window xp hiệu là dell, mấy bữa nay mình bấm phím ma viết toàn ra vừa có chữ vừa có số la sao... vd: bấm số 8 mà ra i8 ,bấm số 7 mà ra u7.. như thế là sao, có cách nào khắc phục không...",
+   "hits": [
+      {
+         "score": 58.963608,
+         "id": "806068",
+         "field_search": "question",
+         "question": " Cho em hỏi chị em vừa mua laptop ASUS sao bấm số mà ra chữ phải làm sao cho hết? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.89941,
+         "id": "1151946",
+         "field_search": "question",
+         "question": "Cho e cách khác phục với ạ, 1 số mà nó lưu ra nhiều vậy, bấm zo toàn  hiện Zalo, máy mi a1ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.527554,
+         "id": "921484",
+         "field_search": "question",
+         "question": " Cho mình hỏi bàn phím bên phải bấm không hiện số mà trở thành các lệnh như thế này thì phải làm sao ạ.lap dell, win 8  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.32861,
+         "id": "803998",
+         "field_search": "question",
+         "question": "Máy tính mình tự dưng phím số 9 tự động gõ chữ cho dù mình ko tác động tay vào.khi bật máy lên mở word ra là số 9 tự động chạy trên bản word.Cho mình hỏi lỗi đó là sao vậy add.?cách khắc phục như thế nào a.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.47409,
+         "id": "927687",
+         "field_search": "question",
+         "question": " ad cho em hỏi em bấm ra như thế này là sao ạ,bấm chữ a thành a,giống trong hình vậy là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.795456,
+         "id": "1008489",
+         "field_search": "question",
+         "question": "Cho mình hỏi mọi khi bấm *098# và gọi là nó hiện lên cái bảng này và bàn phím để bấm số mà sao giờ mất bàn phím rồi không nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.725338,
+         "id": "1024100",
+         "field_search": "question",
+         "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.61595,
+         "id": "806373",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop ASUS bấm số ra chứ làm sao cho hết? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.98229,
+         "id": "1150118",
+         "field_search": "question",
+         "question": "hàng phím số ngang của e bị lỗi gì á a bấm số k được. nó ra mấy kí tự k khó hỉu lắm . a có cách nào giúp e chỉnh lại đc k. e sài laptop asus A541U",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.488857,
+         "id": "842323",
+         "field_search": "question",
+         "question": "máy tính em bị lỗi gì mà bây giờ em bấm 1 kí tự thì nó laiij ra 2, 3 kí tự luôn vậy mn. vd: bấn q nó ra q1, bấm w nó ra W2...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.96825,
+         "id": "1020472",
+         "field_search": "question",
+         "question": "Em mới mua laptop Asus ở TGDĐ , về khởi động thì khung bấm số bấm mà nó không hiện số , phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.494553,
+         "id": "1014875",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em vừa mua laptop bên mình ạ. Lap em có thêm mấy số bên hông mà em bấm thì không lên ạ. Vậy em chỉnh sao ạ?  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.437134,
+         "id": "801585",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5 của em ấn phím chuyển sang viết số tại sao nó không chuyển sang dạng viết số. Liệu có phải do phần cảm ứng hỏng. Cách khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.560143,
+         "id": "1142198",
+         "field_search": "question",
+         "question": "mình mới mua một chiếc điện thoại IPHONE 4s bên bản quốc tế mấy hôm trước mình vẫn sài bình thường.lúc tối hôm qua mình cũng đem ra bấm vẫn còn 84% pin mình lại đem cất vào tủ sáng nay mình lại đem ra bấm thì màn hình không lên bấm nút nguồn cũng không được mình coi trên mạng có hướng dẫn là bấm giữ cả hai nút mở và nút nguồn cho tới khi hiện lên hình logo mà mình bấm giữ mấy phút cũng không thấy lên vậy cho mình hỏi máy mình bị lỗi gì có khắc phục được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.248608,
+         "id": "747805",
+         "field_search": "question",
+         "question": "Em mới mua cái dell vostro 3558,cho em hỏi có cách nào chỉ bấm hiện ra 1 dấu ngoặc đơn không tại vì em bấm shift+' ra 2 dấu \"\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55404,
+         "id": "826920",
+         "field_search": "question",
+         "question": "Ad cho e hỏi máy asus của e dùng phần mềm misa sao sử dụng gõ bàn phím như các phím có chữ và số e gõ n không ra chữ mà lại ra sốAd có cách gì k ạ giúp e với k mỗi lần e dùng đến các phím đó e đều phải dùng phím fn r mới gỗ đc chữ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.37266,
+         "id": "990511",
+         "field_search": "question",
+         "question": "Một số cách giải quyết lỗi không bấm được phím Delete trên laptop ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.35129,
+         "id": "766008",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 5s hôm nay chiều về bàn phím còn bình thường sau đó đến tối thì bàn phím không hoạt động bấm qua danh bạ hay mục ưa thích, gần đây,thư thoại điều không được, bấm số cũng không được, người khác gọi lại nhưng không hiện cuộc gọi nhỡ,  mình phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.279545,
+         "id": "864869",
+         "field_search": "question",
+         "question": "cho em hỏi sao máy tính của em chạy windows xp bình thường nhưng tự nhiên bây giờ em nhấn giữ 1 số phím nhưng nó chỉ ra có 1 chữ.vd em nhấn giữ nút A nhưng nó lại ra có 1 chữ à.giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.182915,
+         "id": "987015",
+         "field_search": "question",
+         "question": "Mình vừa đăng xuất icloud, mở danh bạ lên thấy toàn là số lạ. Tại sao lại như vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.584972,
+         "id": "986269",
+         "field_search": "question",
+         "question": "máy e là laptop vaio ở phía trên bàn phím đèn cứ hiện sáng mà không biết cách tắt nó khiến e đánh chữ hiện ra số, không phải do fn+num. còn cách nào để sửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.572533,
+         "id": "857400",
+         "field_search": "question",
+         "question": "Mọi người cho tớ hỏi. Tớ xài iP, IOS 9.3.2Không hiểu sao mà mình nghe nhạc mà nhạc cứ tự tắt. Đã vậy vừa bấm vào tạo Playlist riêng thì app tự động out ra. Cho mình hỏi làm thế nào để khắc phục hoặc là bạn nào cho mình hỏi làm sao để lưu trữ nhạc trong Zing để mình xoá app rồi tải lại :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.875767,
+         "id": "1009593",
+         "field_search": "question",
+         "question": "Tại sao tôi có đủ tiền trong tài khoản mà khi nhắn tin lại báo không nhắn được ? Điều này chỉ xảy ra với một số liên hệ , số còn lại thì bình thường. Nhắn không được nhưng gọi được thì tôi phải khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.533115,
+         "id": "834139",
+         "field_search": "question",
+         "question": "Tại sao khi vào cài đặt chung của iphon5s rồi vào trợ năng sau đó bấm chữ đậm sao nó ra như vầy nó cứ đứng như vậy miết là vì sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.443047,
+         "id": "993031",
+         "field_search": "question",
+         "question": "Tối qua sau khi dùng máy tính xong, e bấm tắt máy( máy em là windows 10 pro đã active) nó nó\" Cập nhật và tắt máy\" sau đó e bấm vào và đi ngủ, hôm nay bật máy lên, em nhập mật khẩu là 299299 ( 6 số ) và đó là mật khẩu đúng, nhưng không hiểu sao hôm nay nó chỉ cho nhập 4 số, và e đã nhập hoài không được. Mong nhận được sự trợ giúp. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.141212,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.113876,
+         "id": "842465",
+         "field_search": "question",
+         "question": "Xin cho em hỏi : Em đã bấm số mã kích hoạt zalo quá số lần. Giờ em muốn bấm số dể kích hoạt lại lần nữa thì phãi làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.75444,
+         "id": "1004930",
+         "field_search": "question",
+         "question": "Thiếi bị e đang sử dụng là samsung galaxy tab e sm-t561y , lâu lâu có hiện tượng bị lag máy , đơ màn hình , bấm ko ăn . Nguyên nhân là sao và cách khắc phục như thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.74584,
+         "id": "1012054",
+         "field_search": "question",
+         "question": "Chào admin. Minh có mua máy tính dell bên bạn nhưng đưa lên bảo hành thì bên bạn nối mình gọi qua dell. Đúng là gọi qua dell quá phức tạp bắt nhập mã bấm số quá lung tung luôn. nhưng khi nhập code thì nó báo ko có loại máy tính của mình. Bây giờ mình nên làm thế nào hả ad. ad hỗ trợ cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.38715,
+         "id": "1024428",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy của mình không biết bấm vào cái gì ra chế độ màn hình như thế này. Mình reset lại máy mà không dc .    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.332764,
+         "id": "1017778",
+         "field_search": "question",
+         "question": "hướng dẫn cách khắc phục lỗi facebook messenger báo đã xảy ra lỗi, vui lòng thử lại với ạ. em bấm vô cuộc trò chuyện là bị báo lỗi như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.25023,
+         "id": "917997",
+         "field_search": "question",
+         "question": "Mình có nhiều danh bạ không có số điện thoại, mình muốn lọc riêng ra để xóa, hoặc thêm số điện thoại thì làm như thế nào, trên iphone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.073296,
+         "id": "885345",
+         "field_search": "question",
+         "question": " QTV giúp em trả lời những câu hỏi thật lòng, em bị viết chữ ra số, sao em Ấn F11 sao không được vậy QTV?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.9941,
+         "id": "1010056",
+         "field_search": "question",
+         "question": "mình đang dùng sonyXA. sau khi nâng cấp lên androi 7.o thì một số chứ năng hoạt động không bình thường. ví dụ 1. bàn phím bấm số 1 hay phím /q/ không được. ví dụ 2: vô mail. mình chỉ đăng nhập được 1 mail, còn 1 mail khác không đăng nhập được, vậy là sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.85499,
+         "id": "1020139",
+         "field_search": "question",
+         "question": "Cho mình hỏi các dòng máy sam sung androi ngày trước từ s5  đảo lai đều goii video khi bấm số đee gọi bên cạnh nút gọi có phím gọi video ý gọi đc rất ngon. Mà giơg minh mua s6 sao ko goii được nửa nhỉ. Có 3g mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.69236,
+         "id": "885492",
+         "field_search": "question",
+         "question": "  Qtv giúp e trả lời những câu hỏi thật lòng...máy e bị viết chữ ra số, e ấn fn  f11 numlk,,, sao không đk vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.636852,
+         "id": "1000502",
+         "field_search": "question",
+         "question": "cái oppo a37 của eem sao khi đổi từ mật khẩu   mẩu hình sang mật khẩu số của cái an toàn  tập tin thì bấm mật khẩu không được nữa  như kiểu bàm phiếm liệt không bấm ăn nữa vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.55104,
+         "id": "894199",
+         "field_search": "question",
+         "question": " cho hỏi laptop i5asus nhấn số ra chữ thì phải nhấn tổ hợp phím gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.449066,
+         "id": "872499",
+         "field_search": "question",
+         "question": " Hôm nay e vừa mua con Dell Inspirion 3548 có số service tag là J9ZSWB2.các bác checkin hộ e với ạtks các bác nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.444115,
+         "id": "1155994",
+         "field_search": "question",
+         "question": "hello anh chị ! máy mình not 8 mua ở thế giới di động ko hiểu sao phím chữ P không bấm được ? nhờ anh chị trợ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.42744,
+         "id": "760769",
+         "field_search": "question",
+         "question": " Tại sao khi tạo id apple khi đến bước này mình bấm next thì máy hiện ra chữ màu đỏ vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.40039,
+         "id": "1134252",
+         "field_search": "question",
+         "question": "Em Có Một Chiếc honor 8 nhưng mà thỉnh thoảng nó tự khởi động r bị lỗi nó hiện ra cái gì đỏ có chữ bấm nút nguồn để rebot mong ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.393322,
+         "id": "1144897",
+         "field_search": "question",
+         "question": "Cho mình hỏi hôm bữa mình có mua hưawei y9 có tặng loa mà mấy nay mình bận ko ra lấy giờ ra lấy đc ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.251118,
+         "id": "830792",
+         "field_search": "question",
+         "question": "tại sao máy tính của tui không tải game , nhạc được vậy . tải cái gì cũng không được. mỗi lần bấm vào nút download là nó hiện ra cái này(ở trong hình) , khi bấm vào how to licence thì nó hiện ra trang này(http://soft247.vn/IDM-Order-Online.s247). phải làm sao đây , trả lời gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.224274,
+         "id": "770275",
+         "field_search": "question",
+         "question": " máy Samsung N5  chuyển từ viết số sang viết chữ như bình thường trong Viber phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.208927,
+         "id": "838857",
+         "field_search": "question",
+         "question": " Thế giới di động có bán đĩa cài window 7 không lỡ dại bấm xóa win rồi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.018627,
+         "id": "1015047",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em đang xài laptop Asus A541UA I3 7100U WIN 10. bên phải bàn phím em có những số giống như thanh ngang phía trên. Nhưng khi em bấm vào nó k lên số. Có những số thì di chuyển giống mũi tên. Em phải chỉnh lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.878223,
+         "id": "1156654",
+         "field_search": "question",
+         "question": "cho e hỏi e có đọc bài viết về test khả năng chống nước thông qua cách *#0*# bấm sensor và xem barometer sensor xem số có nhảy khi mình nhấn ngón tay vs lực vừa phải lên k nhưng sao máy e dg xài ( A7 2017) e k nhấn vào nó mà cái barometer nó cứ tự chạy từ 1007,53 -> 1007,59 trong khi e chưa nhấn vào nó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.812107,
+         "id": "989150",
+         "field_search": "question",
+         "question": "Mình mua sony xa1 xài mới hơn 1tháng mà bị lỗi cảm ứng ko bấm đc số 0 và chữ p.loa  có lúc ko nghe đc phải khởi động lại mới nghe đc.phím tăng giảm am lượng củng bị lỗi.đem ra thêgioididdong thì bảo vừa hết hạn đổi máy mới.mà đem về xài cũng ko đc.đem đi bảo hành thì xong chắc cũng đc vài bữa.vậy tgdd có thể đổi máy mới cho mình ko vi mới xài hơn 1tháng vừa hết hạn đổi máy mới.vi đây lài lỗi nhà sản xuất.bỏ tiền ra mua máy mà vậy mình ko hài lòng.mình ở tỉnh gia lai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.690136,
+         "id": "867423",
+         "field_search": "question",
+         "question": " Máy e đang lướt fb thì tự nhiên nó thoát ra màn hình chính mặc dù e không bấm thoát ? Là sao v anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.5997,
+         "id": "1158243",
+         "field_search": "question",
+         "question": "Samsung j5 có phần dấu vân tay nhưng khi bấm vào thì hiện đã xảy ra lỗi với cảm biến vân tay là sao ạ có vân tay mà ko xài đc mong giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.51793,
+         "id": "1004625",
+         "field_search": "question",
+         "question": " SNOW ấy saoo mình bấm vào những cái hình ví dụ như là đầu to thì nó lại không hiện ra vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.49509,
+         "id": "754749",
+         "field_search": "question",
+         "question": " Chỉ minh cách tắt âm thanh bàn phim số iPhone 5 với ah???? Bấm nghe tiếng khó chịu quá ạ????  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.43536,
+         "id": "756173",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iphone 3g mà sao chơi game ma thần hay bị văng ra là cách nào mới hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.37363,
+         "id": "795218",
+         "field_search": "question",
+         "question": "cho e hỏi e xài iPhone 6s .. e bấm vô phần cài đặt rồi không biết sao bấm vô cái gì mà giờ nó ra ntn .. giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.24153,
+         "id": "924805",
+         "field_search": "question",
+         "question": " Làm sao để tắt âm khi bấm số iPhone 7 ? Và cài đặt âm thanh cuộc gọi đến cho Zalo, Viber? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.01094,
+         "id": "776701",
+         "field_search": "question",
+         "question": "cho em hỏi, mình tăng hay giảm âm lượng trên laptop mà không cần dùng chuột thì bấm ra sao ạ.???????? trên laptop asusA540L.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.987556,
+         "id": "1157552",
+         "field_search": "question",
+         "question": "Mình mua máy Samsung A50 ngày 23/3, sau 1 tuần xài thì cảm nah65n máy cảm ứng không nhạy, phím bấm chữ bị nhảy lung tung, cảm biến vân tay chậm, hay báo lỗi không khớp. Nếu bây giờ mình muốn đổi máy khác có được không TGDĐ? Số đt mình là 0987775256",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.921253,
+         "id": "1139630",
+         "field_search": "question",
+         "question": "Sao khi em tải messager thì nó bấm vào không được và có dòng chữ : Yêu cầu xác thực. Bạn cần đăng nhập Tài khoản Google của mình . Mà trong khi đó em có tài khoản Google rồi ạ!Máy em là máy Oppo A57. Khắc phục giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.915905,
+         "id": "802226",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi laptop của em á hôm bữa bạn em mượn lở bấm làm sao mà hôm nay em kết nối wifi lại không như bình thường được giờ em phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.914032,
+         "id": "938959",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng nhập bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.898594,
+         "id": "1013045",
+         "field_search": "question",
+         "question": "Mìn đang dùng j7 prime mình quên mật khẩu mở khóa đt bạn mình bấm để reset máy thì màn hình hiển thị ra như vậy là bị sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.74807,
+         "id": "938962",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng xuất bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.51331,
+         "id": "1166439",
+         "field_search": "question",
+         "question": "sao mình cài đặt lại máy xiaomi redmi note 5 thì tới phần chọn quốc gia mình bấm chọn việt nam là máy lại bị reset ra ngoài vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.498577,
+         "id": "987536",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính acer win 7 và em muốn hỏi là khi em lên một số trang web và trong trang web có phần bình luận hay hỏi đáp thì em thấy một số tài khoản có ghi chữ đằng sau như admin, vip, mod, uploader,... màu vàng mà nick của em không có vậy không biết 2 chữ mod và uploader là chỉ gì vậy ạ ? vì chữ admin và vip thì em hiểu rồi mà thắc mắc không biết hai chữ còn lại là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.48792,
+         "id": "1009198",
+         "field_search": "question",
+         "question": "Mình vừa bấm nhầm chặn số liên lạc của người thân, giờ o nhận đc cuộc gọi hay tin nhắn, QTV chỉ mình mở lại nhé, Máy Samsung galaxy A3 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.48518,
+         "id": "1023383",
+         "field_search": "question",
+         "question": "sau khi cài thêm font chữ cho máy tính. thì một số trang web của e bị lỗi font chữ như trong hình. e phải khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.345222,
+         "id": "1164655",
+         "field_search": "question",
+         "question": "laptop e vừa mở lên bị màng hình xanh rồi ra như  này khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.250072,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.23952,
+         "id": "1006099",
+         "field_search": "question",
+         "question": "Cho mk muốn hỏi. vừa rồi máy mình còn bình thường, vừa lôi điện thoại từ túi quần ra thì nó lại ra như vậy *kèm ảnh*. cho hỏi là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.1642,
+         "id": "1019540",
+         "field_search": "question",
+         "question": "Mỗi khi mình muốn xoá ảnh trong album thì máy đều hiện ra là 'Không thể xoá. Vui lòng thử lại.' Vì sao lại như vậy và cách khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.020756,
+         "id": "1168197",
+         "field_search": "question",
+         "question": "Làm sao để xác minh icloud vậy? Hệ thống thông báo là đã gửi nhiều mã xác minh nhưng minh không nhận được cái nào!!!! Khi mình gửi số điện thoại đã đăng kí icloud rồi mà nói là số điện thoại này không đúng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.98742,
+         "id": "771335",
+         "field_search": "question",
+         "question": "Em đang dùng HTC Butterfly S, Máy e bây giờ tự dưng ko nghe gọi được. Mà bấm trả lời, hoặc gọi đi có lúc ko có chuông và ko nghe thấy gì. Bấm trả loi máy còn bị treo luôn. Giờ em muốn khắc phục lỗi này như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.977896,
+         "id": "922763",
+         "field_search": "question",
+         "question": "Danh bạ trên iphone của tôi bị ẩn toàn bộ. khi bấm số thì vẫn hiện tên, seach tại danh bạ vẫn có. những ko hiện toàn bộ danh bạ lên. vào danh bạ ghi là không có liên hệTôi đang dùng iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.914442,
+         "id": "1156033",
+         "field_search": "question",
+         "question": "Cách cài đặt danh ba galaxy a7 2018 vừa hiện thị tên và số như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.855658,
+         "id": "778783",
+         "field_search": "question",
+         "question": " Laptop asus x453ma của em có một số nút bấm không ăn không biết có TGDD có sửa được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.814741,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.662285,
+         "id": "893939",
+         "field_search": "question",
+         "question": "Cho mình hỏi, thế giới di động bên hỗ trợ kĩ thuật có cài window không ạ? Tại mình cài lại xuống window 7 từ window 8, win 8 khó sài, và mình hỏi một điều là cài window có phí bao nhiêu hay là cài bằng cách crack, tại mình sợ cài window bằng cách có rủi ro cho máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.61327,
+         "id": "1159740",
+         "field_search": "question",
+         "question": "Tôi đang xài J7+ , nguyên ngày hôm nay bị loạn cảm ứng như sau : - Đang duyệt web, face, zalo thì lúc hạ nhỏ lúc toàn màn hình ... - khi bấm zalo thì lại hiện ra tin nhắn của face  - Bấm face thì lại hiện lên zalo - Đang nhắn tin thì lại trở về màn hình chính  ( Máy không va đập , rơi rớt )  * Vậy xin hỏi cách khắc phục ?  Cảm ơn bạn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.579744,
+         "id": "1024515",
+         "field_search": "question",
+         "question": "Laptop của em bàn phím khi nhấn nó ra một số ký tự j đó đánh chữ nó lại ra x63....... mong mọi người giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.469902,
+         "id": "763717",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng iPhone 5 mấy ngày hôm nay tự dưng máy bị đơ lúc người khác gọi tới không gạt ngang để nghe được hoặc có lúc màn hình cảm ứng bấm vào không ăn bấm cứ như không bấm,lâu lâu bấm lại thì được nhưng khi dùng lại bị giật và cứ nhảy những app không dùng lên và một số phím ở bàn phím không dùng được như phím t, f, c.....em thử nâng cấp iOS mới và tắt nguồn khỏi dộng lại, tháo khe sim lắp lại nhưng không được ạ máy em lock Nhật sài sim ghép. mong mọi người chỉ cách sửa giúp em ạ. em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.447468,
+         "id": "1010779",
+         "field_search": "question",
+         "question": "Tại sao máy vừa dùng được tý là nóng lên và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.418242,
+         "id": "1113230",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop của mình, bên phím số nhấn không dc số mà h chỉ còn nhấn dc cái dấu +-,..., là nó bị sao vậy cho mình biết , xin cám ơn các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.377113,
+         "id": "746796",
+         "field_search": "question",
+         "question": " lỗi không bấm được phím số để gọi điện thoại và không vào được danh bạ và nhật ký cuộc gọi. máy iphone 4s ạ. ios9.0.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.34305,
+         "id": "1020732",
+         "field_search": "question",
+         "question": "chào bạn. mình vừa mua máy tính bảng hiệu mobell tab 8 pro được 8 ngày. máy hay bị thoát ra khỏi ứng dụng khi mình đang xài. hôm nay thì tắt nguồn luôn mở không lên nữa. cho mình hỏi mình có thể đổi máy khác không? và ở tại tgdd nào cũng được hả bạn????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.337643,
+         "id": "806582",
+         "field_search": "question",
+         "question": "Dạo này zalo bị lỗi vẫn thông báo có người gửi tin nhắn khi mà bấm vô cuộc trò chuyện thì trống rỗng thoát ra thì mất lun cuộc trò chuyện. Chỉ em cách khắc phục được không? Cám ơn rất nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.325737,
+         "id": "1009691",
+         "field_search": "question",
+         "question": "E đang dùng con Mastel N6 tự nhiên giờ ko tắt được bluetooth cứ vào bấm vào tắt là máy bị sập đi ad có cách nào khắc phục ko ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.29859,
+         "id": "1166668",
+         "field_search": "question",
+         "question": "Mấy oppo e mới mua khoãng 2 thang máy hết pin tắt nguồn rồi cắm xạc khoang 7 8 tiếng rút ra mở nguồn thì nó bị nhòa màn hình cảm ứng không bấm ko dc nữa . Máy e còn trong thời gian bảo hành . Trung tâm se giải quyết như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.240084,
+         "id": "745856",
+         "field_search": "question",
+         "question": " cho em hỏi làm thế nào để biết số điện thoại mình đang sử dụng cho viber là số mấy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.233675,
+         "id": "970478",
+         "field_search": "question",
+         "question": "THEGIOIDIDONG CÓ THAY PIN CHO IPHONE 5 KHÔNG Ạ . VỚI LẠI MÁY CỦA EM NÓ CỨ BỊ LỖI CẢM ỨNG BẤM CHỮ NÀY LẠI RA CHỮ KIA , LÀM SAO ĐỂ SỬA HẾT BỊ LỖI CẢM ỨNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.22509,
+         "id": "867462",
+         "field_search": "question",
+         "question": "Mỗi lần mình kết nối là máy lại hiện ra thế này, mấy hôm trước mình vừa lắp USB wifi vào máy vẫn dùng đc, đến hôm nay thì thế này là sao nhỉ? Với lại khi mình kiểm tra , máy còn thiếu 802.11n USB Wireless LAN Card, xin hỏi làm sao để có loại card này. Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.22336,
+         "id": "829226",
+         "field_search": "question",
+         "question": "Laptop của em hiệu Toshiba,Ngày hôm nay, em của em có vô tình làm nước đổ vào, lúc đó em cũng có lau rồi, nghĩ là không sao, nhưng tới sáng nay em có bật lap lên, em bấm không lên chữ, bàn phím lap cũng bị hư trước đó rồi mà em ngại chưa thay .Cho em hỏi, laptop em bị vô nước ( chút xíu ) là hư làm sao ạ, nếu sửa thì bao tiền vậy ? Với cả nếu thay bàn phím thì cũng hết bao tiền cả thảy ạ :(( giúp em với !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.198965,
+         "id": "1015470",
+         "field_search": "question",
+         "question": " Máy tính bị như vầy bấm không được thì phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.879068,
+         "id": "1000237",
+         "field_search": "question",
+         "question": "mình cài win 10 bấm vào window start không được phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.874529,
+         "id": "747144",
+         "field_search": "question",
+         "question": " Số imel của iPhone 5 chính hãng như thế nào và làm thế nào để biết máy của mình đã bị tháo ra hay chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.824266,
+         "id": "836204",
+         "field_search": "question",
+         "question": "em có một số ảnh trên điện thoại iphone và muốn cop sang máy tính nhưng khi kết nối với máy tính thì lại ko thấy hết ảnh mà chỉ được một số ít như vậy là bị sao ạ và em phải làm như nào để thấy được hết ảnh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.807743,
+         "id": "768060",
+         "field_search": "question",
+         "question": "iPhone 6S tự nhiên mấy bữa nay Safari khi vào 1 số trang như dantri thì hiện trạng lên xong vẫn load tiếp rùi hiện trắng lạ là sao admin lúc trước vẫn bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.804653,
+         "id": "1011605",
+         "field_search": "question",
+         "question": "Cho mình hỏi đơn hàng  online chuột máy tính của mình ngày mai là ra cửa hàng nhận được rồi phải không ạ?số điện thoại đặt hàng 0967971192",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.751968,
+         "id": "903791",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em cài đặt pass iphone của em là chữ, xong rồi em tắt máy mở lại để bấm pass thử xem sao thì lại không mở được. Em không biết em có bấm sai cái gì không, chứ pass chữ bấm lại tận 2 lần, em không nhớ tài khoản icoud thì giờ phải làm sao? Giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

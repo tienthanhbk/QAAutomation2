@@ -1,0 +1,801 @@
+{
+   "id_query": "1014003",
+   "total": 20415,
+   "total_current": 100,
+   "max_score": 71.87677,
+   "origin_question": "Oppo f1s 2017 cũ là bao nhiêu vậy ad và oppo f3 cũ là bao nhiêu vậy ad",
+   "hits": [
+      {
+         "score": 35.8647,
+         "id": "1023969",
+         "field_search": "question",
+         "question": "cho hỏi oppo f3 plus sài 4 tháng thu lại đươc bao nhiêu vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.53003,
+         "id": "1133407",
+         "field_search": "question",
+         "question": "Giá màn hình Oppo F5 hiện tại là bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.123463,
+         "id": "1138284",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi giá điện thoại oppo F1s bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81612,
+         "id": "1014063",
+         "field_search": "question",
+         "question": "thay màn hình oppo f1s hết bao nhiêu tiền vậy ạ .......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.72169,
+         "id": "996094",
+         "field_search": "question",
+         "question": "Em đang xài oppo F1S   , e muốn đổi con oppo F3 thì phải thêm bao nhiêu tiền ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.923807,
+         "id": "1016426",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em có một máy Oppo F1s cũ mua tháng 8 2016 tại tgdd luôn ạ , còn full hộp dây nghe sạc . Em muốn đổi Oppo F3 thì cần bù thêm bao nhiêu tiền ạ ? Mong sớm nhận được phản hồi ạ . Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.55649,
+         "id": "1000325",
+         "field_search": "question",
+         "question": "thay màn hình trong của đt oppo f1s hết bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.465042,
+         "id": "1016386",
+         "field_search": "question",
+         "question": "bán lại oppo f1s mới mua 3 tháng trước được bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.915855,
+         "id": "1134526",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện h con Samsung s8 cũ giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.85199,
+         "id": "999272",
+         "field_search": "question",
+         "question": "ad cho e hỏi, thay cảm ứng màn hình của oppo f1s giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.84221,
+         "id": "1022224",
+         "field_search": "question",
+         "question": "E muốn mua Oppo f3 trả góp Thì phải trả trước bao nhiêu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.783869,
+         "id": "993572",
+         "field_search": "question",
+         "question": "Miếng cảm ứng đt oppo f1s này giá bao nhiêu tiền vậy bạn ơi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.28012,
+         "id": "999416",
+         "field_search": "question",
+         "question": "Cho em hỏi là oppo f1s 2017 mua trả góp lãi xuất 0 thì 1 thán trả góp bao nhiêu tiền ạ trong vòng 12 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.056784,
+         "id": "1009362",
+         "field_search": "question",
+         "question": "Em muốn bán con oppo f1s 2017 mua dc 5 tháng vậy giờ bán dc nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.001926,
+         "id": "1019435",
+         "field_search": "question",
+         "question": "Cho em hoi Đt cũ oppo f1s cũ giờ thu lại tầm giá bao nhieu vậy ạ. Máy chỉ mới sài được 3 đến 4 tháng thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.979591,
+         "id": "1143788",
+         "field_search": "question",
+         "question": "Em có đt oppo f1s muốn đổi thành  đt oppo f9 cần phải đưa thêm bao nhiêu tiền vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.63022,
+         "id": "1146772",
+         "field_search": "question",
+         "question": "Thay pin cho Oppo A3s giá bao nhiêu vậy Ad.Điện máy xanh có hỗ trợ thay không, giá pin và tiền công thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.623718,
+         "id": "1151130",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt lipws bao phủ màn hình cho oppo f3 vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.602274,
+         "id": "1153468",
+         "field_search": "question",
+         "question": "Tgdd cho mình hỏi bộ sạc oppo f9 là bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.498783,
+         "id": "1155892",
+         "field_search": "question",
+         "question": "mình muốn mua OPPO F9 6GB CŨ. ở hưng yên còn máy không ạ và giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.124502,
+         "id": "1162038",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn thay màn hình Oppo a3s là bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.896019,
+         "id": "1010695",
+         "field_search": "question",
+         "question": "Máy tính bản ipad cũ hiện tại rẻ nhất là bao nhiêu. Iphone 5s giá hiện tới mới báo nhiêu cũ bao nhiêu cảm ơn ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.344076,
+         "id": "1004039",
+         "field_search": "question",
+         "question": "điện thoại oppo f3 em muốn trả góp lãi suất 0%, số tiền em có thể trả trước là 800.000 và muốn góp trong 9 tháng thì mỗi tháng góp bao nhiêu tiền hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.222294,
+         "id": "994943",
+         "field_search": "question",
+         "question": "cho tôi hỏi kính cường lực mặt trước oppo neo7 là bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.164186,
+         "id": "997288",
+         "field_search": "question",
+         "question": "các bạn cho mình hỏi là ip5 giá bao nhiêu ạ? mua cũ thì bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.971676,
+         "id": "1133726",
+         "field_search": "question",
+         "question": "thegioididong có thay pin điện thoại oppo R8001 không ạ? giá là bao nhiêu và thời gian thay trong bao lâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.92639,
+         "id": "1020313",
+         "field_search": "question",
+         "question": "điện thoại oppo f1 có ở  cần thơ không ad và giá bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.750639,
+         "id": "1156108",
+         "field_search": "question",
+         "question": "cho mình hỏi thay màng hình oppo f3 hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.408129,
+         "id": "1158991",
+         "field_search": "question",
+         "question": "ad cho em hỏi , em đang dùng oppo f9, lúc trước mua ở TGDD, nay em đổi oppo f11 pro thì phải bù thêm bao nhiêu vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.222828,
+         "id": "1165949",
+         "field_search": "question",
+         "question": "Ad cho hỏi pin j7 pro  màn hình là bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.212858,
+         "id": "1022428",
+         "field_search": "question",
+         "question": "Thông số cục sạc của oppo mirror 5 là bao nhiêu. Từ bao nhiêu V đến bao nhiêu V",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.103458,
+         "id": "998632",
+         "field_search": "question",
+         "question": "e chào anh chị ạ! cho e hỏi là giá hiện tại của oppo F3 Lite A57 là bao nhiêu ạ? màu này ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.036047,
+         "id": "1133759",
+         "field_search": "question",
+         "question": "Thay mang hinh oppo a3s là bao nhiêu vậy ạ và nếu điện thoại còn bảo hành v có tính phí không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.033628,
+         "id": "1009289",
+         "field_search": "question",
+         "question": "ad cho e hỏi cửa hàng mình còn iphone 6 plus cũ bán k và giá bán bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.945381,
+         "id": "992150",
+         "field_search": "question",
+         "question": "Em mua máy oppo f1s từ hồi 20102016. Nếu em muốn bán lại cho thegioididong thì giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.923954,
+         "id": "1004852",
+         "field_search": "question",
+         "question": "Giá của màn hình trong của máy a9 pao là bao nhiêu vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.90901,
+         "id": "999676",
+         "field_search": "question",
+         "question": "Xin chào ad TGDD.  Mình mới mua trả góp sản phẩm oppo f3 thường màu đen - mình đã  trả  trước  30%, không  biết  bây giờ mình muốn đổi sang oppo f3 plus có được không.!? Và nếu được thì phải trả thêm bao nhiêu ạ.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.90847,
+         "id": "1158262",
+         "field_search": "question",
+         "question": "Cho em hỏi Thay màn hình oppo f1s thì giá bao nhiêu ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.840693,
+         "id": "1019966",
+         "field_search": "question",
+         "question": "Mình muốn đổi oppo f1s 2017 sang ip 6plus thì mình phải trả thêm bao nhiêu? Máy mình mới mua đc 4th còn đầy đủ phụ kiện và bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.777979,
+         "id": "995764",
+         "field_search": "question",
+         "question": "em đang xài oppo a39 còn mới và còn bảo hành nếu muốn đổi sang oppo f1s thì cần bù bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.710392,
+         "id": "995390",
+         "field_search": "question",
+         "question": "Mình có mua trả góp cái Oppo f3 bây giờ còn bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.675367,
+         "id": "991120",
+         "field_search": "question",
+         "question": "em muốn mua oppo f1s có giấy cmnd và sổ hộ khẩu thì em phải trả trước bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.606651,
+         "id": "801497",
+         "field_search": "question",
+         "question": " Iphone 4 cũ còn cái nào ơ hà nam không? Giá bao nhiêu vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.596966,
+         "id": "1148014",
+         "field_search": "question",
+         "question": "Có bán pin điện thoại j5 của 2016 ko vậy ad và giá của nó là bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.595034,
+         "id": "994358",
+         "field_search": "question",
+         "question": "Có cmnd và hk. Nhưng mới 19t . Có thể trả góp dc k. Và mình muốn mua oppo f3 . Mức tối thiểu khi trả trước là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.483097,
+         "id": "1154392",
+         "field_search": "question",
+         "question": "chao shop oppo a3s bên mình còn không ạ ? và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.477106,
+         "id": "989419",
+         "field_search": "question",
+         "question": "e muốn mua Trả góp Oppo F3  theo Acs thì phải đóng trước bao nhiêu ạ? mỗi tháng trả góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.40832,
+         "id": "991822",
+         "field_search": "question",
+         "question": "giá của f1s 2017 đã giảm 1 triệu đê cho ra đời oppo f3 rồi mà sao tgdd lại k giảm vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.382866,
+         "id": "1164546",
+         "field_search": "question",
+         "question": "Trả góp tính  độ tuổi từ bao nhiêu đến bao nhiêu vậy AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.33979,
+         "id": "990900",
+         "field_search": "question",
+         "question": "Mua trả gop oppo neo9 cân thủ tục gì và trả trươc bao nhiêu vậy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.278934,
+         "id": "995969",
+         "field_search": "question",
+         "question": "ad ơi. thế giới di động bên lãnh binh thăng q11 có còn máy oppo f3 cũ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.203447,
+         "id": "1166364",
+         "field_search": "question",
+         "question": "Oppo f5 dùng loại thẻ nhớ nào và tối đa là bao nhiêu GB ? .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.173372,
+         "id": "768577",
+         "field_search": "question",
+         "question": " iPhone 5 mới và cũ bây giờ bao nhiêu ạ?                  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.084333,
+         "id": "998864",
+         "field_search": "question",
+         "question": "E hiện đang dùng samsung galaxy  j7 2015 giờ e muốn dùng máy này đổi lấy oppo F3 thì cần trao đổi s cụ thể là đổi lấy thì cần bao nhiêu tiền để lấy máy oppo F3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.076857,
+         "id": "1159008",
+         "field_search": "question",
+         "question": "em mua con oppo f9 ngày 26/8/2018. máy còn full hộp, nay em muốn đỗi con f11pro thì bù bao nhiêu vậy ad ? lúc mua mới là 7,690,000 đồng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.808275,
+         "id": "1144884",
+         "field_search": "question",
+         "question": "Iphone 6s cũ bao nhiêu ạ.....?....................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.708603,
+         "id": "1137827",
+         "field_search": "question",
+         "question": "anh oi con oppo f5 youth khônggiá cả  bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.69154,
+         "id": "801069",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ có bán iPhone 5S cũ không giá trong tầm bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.637661,
+         "id": "997056",
+         "field_search": "question",
+         "question": "ad ơi, cho em hỏi là điện thoại oppo f1 bị rớt xuống nước và không bật đc nguồn nữa thì sửa tầm bao nhiêu tiền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.512777,
+         "id": "1160080",
+         "field_search": "question",
+         "question": "Em chào ad! Hiện bên mình có thu lại điện thoại cũ không ạ? Nếu có thì em muốn đổi cái Oppo A3s để lấy Huawei Y6 Prim thì bù khoảng bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.328129,
+         "id": "1005878",
+         "field_search": "question",
+         "question": "Asus GL553VD i7 ram 8 GB có tốc độ bus ram là bao nhiêu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.231894,
+         "id": "1138780",
+         "field_search": "question",
+         "question": " Giá mặt kính sau điện thoại oppo f9 bao nhiêu vậy shop ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.164852,
+         "id": "1015902",
+         "field_search": "question",
+         "question": "Chị ơi. Hồi trước em có mua đt oppo f1s ở thế giới di động. Mà giờ em muốn bán thì với giá bao nhiêu vậy chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.125511,
+         "id": "1005498",
+         "field_search": "question",
+         "question": "admin ơi ! bạn có con Iphone 5s nào cũ ko.Nếu có thì khoảng bao nhiêu vậy bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.111254,
+         "id": "1159648",
+         "field_search": "question",
+         "question": "Tại sao oppo f1s của e nhanh hết pin ạ Nếu bình thường coi phim thì máy của e hết bao nhiêu phần trăm là bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.096836,
+         "id": "1166214",
+         "field_search": "question",
+         "question": "Ad ơi cường lực của điện thoại oppo a3s dán hết bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.071972,
+         "id": "1023729",
+         "field_search": "question",
+         "question": "mình mua cái Sony Xperia XA Ultra đã xài đc gần 1 năm, bây giờ mình muốn bán lại để mua chiếc Oppo F1s 2017 thì phải bù bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.907269,
+         "id": "997861",
+         "field_search": "question",
+         "question": "Thay màn hình huawei gr5 2017 bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.906883,
+         "id": "1162315",
+         "field_search": "question",
+         "question": "Hi ad, cho mình hỏi, lúc trước mình có mua đt Oppo F1S của TGDD, h bị chai pin vs hỏng màn hình, ad hỏi giúp mình thay pin và màn hình mới giá bao nhiêu vs nha. Many thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.894958,
+         "id": "1005760",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire SF514 ram 8 GB thì tốc độ Bus RAM là bao nhiêu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.894958,
+         "id": "1136573",
+         "field_search": "question",
+         "question": "Cho e hỏi thay màn hình trước của điện thoại nova 3e là bao nhiêu vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.827923,
+         "id": "993121",
+         "field_search": "question",
+         "question": "Chào TGDĐ mình mơi mua oppo f1s đc 5ngay,jo bán lại mất phí bao nhiêu hả bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.79364,
+         "id": "1005085",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại oppo f3 flus của e bi bể màng hình thay bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.772541,
+         "id": "1154934",
+         "field_search": "question",
+         "question": "Điện thoại Oppo F7 giá bao nhiêu tiền vậy thế giới duy động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.772541,
+         "id": "1014002",
+         "field_search": "question",
+         "question": "Anh chi cho em hỏi Màn hình oppo f1plus giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.68319,
+         "id": "1018264",
+         "field_search": "question",
+         "question": "Điều kiện mua sim vinabum data là gì? Mua đt cũ đc kô? Giá sim bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.670609,
+         "id": "992884",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại iphone 6 cũ góp thì 1 tháng góp bao nhiêu và khi mua mình cần ứng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60658,
+         "id": "998507",
+         "field_search": "question",
+         "question": "Đổi Oppo f1s lấy ip 6 32GB cần bù bao nhiêu ạ điện thoại mình bị bể màn hình nữa như vậy đổi có được không đổi vậy có nhiều tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.555016,
+         "id": "1141442",
+         "field_search": "question",
+         "question": "Oppo F3 bán và đổi qua oppo F9 thì hù bao nhieu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.552721,
+         "id": "1161868",
+         "field_search": "question",
+         "question": "Iphone X thay kính mặt trước và sau hết bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.539764,
+         "id": "1023747",
+         "field_search": "question",
+         "question": "Em muốn bán điện thoại F1s 2017 mua hồi tháng 3 ...giá được bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.53564,
+         "id": "997794",
+         "field_search": "question",
+         "question": "Cho mình hỏi IPad mini 2 A1490 cellular nếu mua máy cũ thì giá bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.409443,
+         "id": "1016963",
+         "field_search": "question",
+         "question": "Ocloud của oppo f1s 2017 nằm ở đâu trong máy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.402548,
+         "id": "1151960",
+         "field_search": "question",
+         "question": "chào ad .cho mình hỏi thay màn hình j6 bao nhiêu vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.388498,
+         "id": "1168146",
+         "field_search": "question",
+         "question": "Còn xiaomi redmi note 6 pro cũ không ạ và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.316595,
+         "id": "999675",
+         "field_search": "question",
+         "question": "Cho em hỏi thay pin của oppo r829 là bao nhiêu ạ. Khoảng bao lâu thì có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.312977,
+         "id": "1001694",
+         "field_search": "question",
+         "question": "Thay màn hinh  j7 prime hết bao nhiêu vậy ad?????????????????????????????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.269535,
+         "id": "1158578",
+         "field_search": "question",
+         "question": "Mình muốn đổi điện thoại cũ hưawei nova 3i, (sài gần 1 năm, sướt nhẹ mặt sơn đỏ ốp lưng) Đổi sang điện thoại hwp30 lite thì bù bao nhiêu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.242064,
+         "id": "1133588",
+         "field_search": "question",
+         "question": "màn hình điện thoại oppo f7 2018 giá bao nhiêu vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.176836,
+         "id": "1015272",
+         "field_search": "question",
+         "question": "anh cho em hỏi dt oppo f3 bi hư main thay main giá bao nhiêu do bị dính nước biển",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.137455,
+         "id": "991174",
+         "field_search": "question",
+         "question": " Em cần mua sạc điện thoại Oppo neo 7 giá bao nhiêu vậy a chị ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.124283,
+         "id": "1155421",
+         "field_search": "question",
+         "question": "Chạy lại trương trình máy f1w bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.071598,
+         "id": "799771",
+         "field_search": "question",
+         "question": " Nếu card màn hình của PC bị lỗi mang đến Siêu thị thì phí là bao nhiêu vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.028572,
+         "id": "999688",
+         "field_search": "question",
+         "question": "Chiếc oppo f1s của mình dùng dc 8 tháng mình muốn bán để mua máy mới thì được bao nhiêu??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.027302,
+         "id": "992172",
+         "field_search": "question",
+         "question": " Ad cho hỏi có pin điện thoại Samsung Galaxy 7102 không vậy ? Và giá bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.93656,
+         "id": "992899",
+         "field_search": "question",
+         "question": "Ad ơi ...em mới mua máy mobiistar zumbo s2 ngày hôm qua 14_06_2017 và bây giờ Em có thể đổi sang máy oppo F3 được không ạ...Hiếu được thì cần phụ thêm bao nhiêu Tiền ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.930426,
+         "id": "1006886",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi giá màn hình j7 prime thay bao nhiêu vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.91925,
+         "id": "1019633",
+         "field_search": "question",
+         "question": "pin zen 2 muốn thây là bao nhiêu tiền vậy shop, và mất bao lâu mới song",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.819002,
+         "id": "886112",
+         "field_search": "question",
+         "question": " Bao giờ iPhone 7 có hàng tai thegioididong vậy? và nếu có hàng giá của iPhone 7 là bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

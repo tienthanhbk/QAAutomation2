@@ -1,0 +1,801 @@
+{
+   "id_query": "1137253",
+   "total": 26654,
+   "total_current": 100,
+   "max_score": 87.315834,
+   "origin_question": "Chào bạn, mình đang dùng máy ip6 thường batn 64g, dạo này máy mình ko sao chép đc, mong bạn giải đáp",
+   "hits": [
+      {
+         "score": 36.352024,
+         "id": "1010938",
+         "field_search": "question",
+         "question": "Mình đang dùng máy samsung galaxy j2,dạo này mình không vào được mục file của bạn. Khi vào máy báo hiển thị là file của bạn đã dừng,mong kỹ thuật viên giải đáp giúp,xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.092236,
+         "id": "1022738",
+         "field_search": "question",
+         "question": "Chào QTV ! mình đang dùng Sony Xperia  thì bị lỗi ko nhắn tin được . Bạn giải đáp giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.371964,
+         "id": "743562",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng iPhone 5. Vừa qua mình lên bản iOS 9.1 giờ mình muốn xuống bản 9.0.2. Không biết bên bạn có hỗ trợ điều này không ạ ???Mong nhận được sự hồi đáp rõ ràng từ các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.852125,
+         "id": "823330",
+         "field_search": "question",
+         "question": " Chào các bạn qtv, cho mình hỏi laptop mới mua nên sạc trong bao lâu vậy. Mong được giải đáp. Thanks. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.106707,
+         "id": "1169061",
+         "field_search": "question",
+         "question": "Chào tgđ.mình mơi mua một máy samsung note9 .máy này lúc đầu mới ra là androi 8.1.nhưng giờ máy mình mua mới lại là bản androi9.liệu máy mình có phải máy mới k.mong bên bạn giải đáp giúp ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.691534,
+         "id": "1010153",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi, mình đang xài ip6, 2 ngày nay máy mình tự nóng ( ấm ấm ) nhưng mình không có sử dụng hay chạy chưởng trình nào ?, bạn có thể giải thích giúp mình được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.59269,
+         "id": "996711",
+         "field_search": "question",
+         "question": "chào bạn mình đang dùng máy mobistar bên mình có chính sách dổi trả máy cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.733252,
+         "id": "1015948",
+         "field_search": "question",
+         "question": "Mình đang dùng j7 prime... máy mình 2 ngày hôm nay bị hiện tượng cứ khoảng 5p rung 1 lần.. kiểm tra máy k có thông báo hay bất cứ cái gì.. bạn có thể giải đáp làm sao để tắt đi giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.037806,
+         "id": "747447",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi.. Khj mình đang ở bản 9.0.2 của máy ip6 thì cảm biến vân tay có bị lỗi ko.. Máy mình bị lỗi cảm biền vân tay.. Lúc đc lúc ko... Cảm ơn nếu ad giúp mình biết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.560041,
+         "id": "774400",
+         "field_search": "question",
+         "question": " Chào bạn!  Cho mình hỏi iPhone 4s của mình đang dùng iOS 6.1.3 có jaibreak được không bạn. thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.523088,
+         "id": "1145535",
+         "field_search": "question",
+         "question": "Mình có con xaomi noet 4 mà cứ mở mạng lên máy báo dòng chữ nhỏ ở dưới ( tìm kiếm thiết bị lưu trữ hư hỏng. Thiệt bị của bạn hiện ko an toàn) mình kiểm tra rồi ko thấy gì cả.. Mong ad giải đáp giúp mình . mình cảm on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.441969,
+         "id": "1001292",
+         "field_search": "question",
+         "question": "Chào bạn. Mình mới mua 1 máy galasy s8 bên viettel, bây giờ mình muốn bán lại dưới dạng máy cũ cho tgdd đc k bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.896301,
+         "id": "1024051",
+         "field_search": "question",
+         "question": "Có cuộc gọi đến, đt mình đổ chuông 10s là tắt, bắt máy ko kịp. Mình sửa cái này đc ko bạn. Tks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.752552,
+         "id": "1023679",
+         "field_search": "question",
+         "question": "Chào bạn,Mình đang dùng điện thoại Obi SF1, dạo gần đây mình thấy điện thoại có  tự restart máy, sau khi restart vẫn hoạt động bình thường. Tuy nhiên, hôm nay máy restart chưa xong và đứng màn hình luôn. Mình cố  nhấn và đè nút khởi động máy nhưng không có  gì thay đổi. Mình mua máy ở thegioididong chi nhánh đường lê văn thọ, gò vấp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.735405,
+         "id": "1139937",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi tại sao điện thoại của mình ko thể cài hình ảnh người gọi đến full screen đc ạ? Mình dùng sp ip xr ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.705994,
+         "id": "769194",
+         "field_search": "question",
+         "question": " Chi mình hỏi mình đang dùng 5s. Tại sao mình gọi đi hay gọi đến đều nghe rất bé. Bạn giải thích cho mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.685959,
+         "id": "820054",
+         "field_search": "question",
+         "question": "Mình vừa đọc bài \" hướng dẫn cách chép ảnh vào camera roll trên iphone \" mình làm bằng Itool . LÀm hết nhhững gì yêu cầu nhưng xem trên itool đã có hết hình ảnh rồi nhưng trong máy mình không có là sao ? Mong mọi người giải đáp . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.591866,
+         "id": "1014037",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi. Giờ mình muốn xóa hay chuyển 1 file bất kì trong QUẢN LÝ FILE  của máy thì phải làm như thế nào ah. Mình đang dùng máy A5 2017, mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.153254,
+         "id": "1163819",
+         "field_search": "question",
+         "question": "Check mã seri máy ip6s pluss Có ra đc sản phẩm ko bạn mình muốn mua máy mà ngta gửi cho mình seri này ko biết check ntn F2lyg2c5hfm4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14231,
+         "id": "813822",
+         "field_search": "question",
+         "question": "Chào bạn mình muốn mua 3 cái iphone 6s 64G cho công ty mình không biết có chiết khấu gì ko?nếu ko thì mình có thể mua hàng xách tay nhưng cần hóa đơn bên thế giới di độngvậy bên bạn có thể cung cấp được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.02712,
+         "id": "1163754",
+         "field_search": "question",
+         "question": "Mình mua 1 máy iphone xs max tại cửa hàng tgdđ dùng cũng được gần 2 tháng, trong thời gian dùng ko có va chạm hay gì ảnh hưởng đến máy mà có một số ứng dụng đang xem thì bị tắt nguồn đột ngột là bị làm sao? Mong cty giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.000095,
+         "id": "1004223",
+         "field_search": "question",
+         "question": "Bạn ơi màn hình máy tính của mình có ổ cắm màu xanh, kí hiệu tai nghe, nhưng sao mình cắm vào đó ko nghe đc, phải cắm xuống key, bạn xem giúp mình đc ko. Màn hình máy mình là màn hình EPSON.skype của mình: thuynguyenXX.kt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.966707,
+         "id": "996093",
+         "field_search": "question",
+         "question": "Chào adminMình đang dùng Ip6. Mama mình dùng Ip7. Bjo mình muốn đổi máy mà chuyển đổi dữ liệu 2 máy cho nhau thì làm thế nào. Thanks Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.955595,
+         "id": "940980",
+         "field_search": "question",
+         "question": " Con hp probook 4530s i5 chơi đc lmht ko ad .mong ad sớm giải đáp  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.930492,
+         "id": "811402",
+         "field_search": "question",
+         "question": "QTV giúp mình chút xíu.Iphone 5s của mình xài bình thường. Nhưng lúc mình gọi Video khoảng 5 tới 10 phút thì máy rất là nóng. Qtv giúp mình giải đáp thắc mắc này với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.921267,
+         "id": "929040",
+         "field_search": "question",
+         "question": "E đang dùng iphone 6s, máy rất ok. Không hiểu sao hôm nay e gọi cho bạn thì e vẫn nghe tiếng bạn nhưng em nói bạn ko nghe. Dù là facetime hay messenger hay gọi hình thường. Vậy là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.913229,
+         "id": "1023905",
+         "field_search": "question",
+         "question": "Mình là Khoa! mình có điện thoại Lumia-625, giờ mình muốn chép danh bạ từ máy này sang thẻ Sim (64k) rồi chép qua Iphone đc ko? hay có cách nào khác ko?số đt của mình: 0902363855",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.825588,
+         "id": "1158933",
+         "field_search": "question",
+         "question": "Chào bạn mình muốn mua M20 của Samsung nhưng thấy bảo điện thoại này đang bị lỗi loạn cảm ứng phải ko nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.789246,
+         "id": "800476",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng iphone 5s, khi máy báo cập nhật cài đặt nahf cung cấp, mình bấm vào đồng ý. Hiện tại máy k nghe gọi được và báo đang tìm kiếm trên cột mạng, có cách nào sửa k vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.703812,
+         "id": "909706",
+         "field_search": "question",
+         "question": "Cho mình hỏi 2 máy cùng dùng 1 TK iCloud muốn đọc đc tin nhắn của máy kia mà ko muốn đọc đc tin nhắn của máy mình thì làm ntn bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.646965,
+         "id": "975465",
+         "field_search": "question",
+         "question": " Bạn kiểm tra hộ mình máy này còn bảo hành ko .imei 358366064090429 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.569546,
+         "id": "993898",
+         "field_search": "question",
+         "question": "Cho mình hỏi có phải từ ios 9.3 trở lên mới dùng đc 4g phải ko ạ? Máy mình ip6 dùng 9.1 mà bật 4g ko đc. Điện hỏi tổng đài thì họ nói phải lên 9.3 trở lên mới bật đc 4g lte. Nhờ ad xác minh thông tin trên có đúng ko vì mình thây trên mạng nhiều bạn bảo dùng ios thấp hơn 9.3 vẫn dùng 4g bình thường. Mình thấy hoang mang quá ko biết máy có vấn đề hay sim có vấn đề nữa. Ps: sim mình đã chuyển sang sim 4g rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.556519,
+         "id": "1152154",
+         "field_search": "question",
+         "question": "Mình đang dùng Dell inspiron 5570. Máy khi chỉ mở 1 tab chroom là fb thì mình đo nhiệt độ của máy bằng phần mềm CPUID HWMonitor đc nhiệt độ khoảng 60 độ. Không biết nhiệt độ như vậy là bt hay máy có vấn đề về tản nhiệt ạ? Mong TGDD có thể giải đáp giúp mình. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.29827,
+         "id": "1165350",
+         "field_search": "question",
+         "question": "chào bạn! cho mình hỏi bên bạn có mở mạng máy zte z221 kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18139,
+         "id": "744673",
+         "field_search": "question",
+         "question": "bạn ơi mình dùng iphon4s đồng bộ hoá với iphon 6. bây giờ iphon 6 bị cướp giật mất, mình đã vô hiệu hoá máy ip6 và tìm trên định vị nhưng ko thấy, chắc nó đã tắt nguồn. Cho mình hỏi nếu chúng vào đc máy của mình và sử dụng được thì nó có thể đồng bộ hoá sang máy iphon 4s của mình đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.110243,
+         "id": "994787",
+         "field_search": "question",
+         "question": "QTV ơi cho e hỏi e đang dùng máy HTC one E9 dual dạo gần đây e có chơi game. Mở game lên thì thấy đèn Led đỏ nháy liên tục. E khởi động máy lại và chơi. Máy vẫn bị tình trạng như vậy. Mong QTV giải đáp giùm e. E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.060415,
+         "id": "801246",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ mình mới mua trả góp laptop Acer của TGDĐ hiện tại laptop của mình vào đọc báo hay 1 số ứng dụng khác thì máy thường xuyên bị treo máy hay nói cách khác là bị đơ máy trong 1 phút sau đó chạy bình thường. Vậy cho mình hỏi như vậy là bị sao mong các bạn hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.050327,
+         "id": "770965",
+         "field_search": "question",
+         "question": "Chào bạn, vui lòng xem hộ mình với. Mình đã kiểm tra IMEI này nhưng không thấy thể hiện thông tin bảo hành. Có thể cho mình biết tình trạng máy như vậy là sao không ạ? Cám ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.041555,
+         "id": "923234",
+         "field_search": "question",
+         "question": " chào bạn .mình đang sử dụng máy A556U máy của mình gần đây hay bị giật và đứng máy.chỉ cho mình cách khắc phục sự cố ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.019737,
+         "id": "1024038",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Nếu mình và bạn trai mình dùng chung một tài khoản icloud. Sau đó bạn trai mình đổi mật khẩu icloud. Thì ảnh, tin nhắn, cuộc gọi trong máy bạn trai mình có hiện trong máy mình nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.005112,
+         "id": "779246",
+         "field_search": "question",
+         "question": "Cho mình hỏi, tại sao iPhone 5S mình mua tại cửa hàng Thegioididong.com khi mình kiểm tra IMEI trên trang Apple thì không biết sản xuất ở nước nào vậy ban. Và mình kiểm tra bằng iTools 3 thì cũng k biết ? chỉ biết ngày active, vì mình thấy những máy của bạn mình đều có. bạn giải đáp giúp mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.980478,
+         "id": "935891",
+         "field_search": "question",
+         "question": "Chào bạn! Cho mình hỏi: Minh có Iphone 5S giờ máy báo: Máy bị ẩn Icloud cũ của tôi! Tôi nâng cấp phần mềm! Máy bạn dùng icloud ẩn của tôi. Cho mình hỏi giờ mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.96894,
+         "id": "994649",
+         "field_search": "question",
+         "question": "chào bạn, cho mình hỏi bên bạn có bán Pin Samsung A5 2016 ko bạn? giá thế nào bạn nhì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.929754,
+         "id": "1011589",
+         "field_search": "question",
+         "question": "Chào bạn. Bạn cho mình hỏi chút mình mới mua máy Sony L1 từ ngày 8/8/2017.nhưng giờ mình muốn đổi sang máy Samsung J2 thì đổi được không nhỉ bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.876266,
+         "id": "1133999",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.865128,
+         "id": "917858",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 5em không hiểu sao khi em gọi điện thì mic dùng được bình thường nhưng khi em dùng messenger để gọi hay phát trực tiếp trên facebook thì mic lại không dùng được mong anh chị giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.862986,
+         "id": "800754",
+         "field_search": "question",
+         "question": "Máy mình là iPad 2 , hôm trước mọi thứ vẫn bình thường, hôm nay vào youtube, zing mp3, ko phát được , những cái có sẵn thì vẫn xem được, đến wifi khác thì vào OK. Máy mình bị gì vậy, mình phải làm sao để máy sử dụng được wifi nhà đây?? Rất mong nhận được giải đáp thắc mắc, cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.85945,
+         "id": "1165905",
+         "field_search": "question",
+         "question": "Mình dùng samsung j3 pro, mình đã chuyển 1 ứng dụng sang thẻ sd, nhưng dung lượng trống của máy không thay đổi và trong phần thẻ sd không có, vì sao vậy? Mong được giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.809675,
+         "id": "755970",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là iPhone 5 của mình cứ bật 3g vào mạng khoảng 10-15 phút là nóng máy? có cách nào giúp mình khắc phục tình trạng này không? mong đươc giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73524,
+         "id": "805945",
+         "field_search": "question",
+         "question": "mình dùng máy iphone 5, vừa rồi có cập nhật bản ios mới. Khi kích hoạt lại máy đã nhập đúng mật khẩu icloud nhưng ko kích hoạt đc máy. Nhờ bạn cho hướng dẫn xử lý với.Mật khẩu icloud mình vẫn truy cập itunes bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.709286,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.679943,
+         "id": "1149965",
+         "field_search": "question",
+         "question": "mình dùng iphone 6 plus nhưng không tải được game tập kích. khi tải máy báo:\"bạn không thể tải được game vào lúc này\" mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.673887,
+         "id": "1133997",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.66066,
+         "id": "1020402",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình chặn tn của bạn. Nhưng khi hết chặn thì ngược lại bạn đó gửi tn cho mình nhưng mình gui lại ko đc.va zalo thông báo chặn tn của mình. Lúc này muốn đổi hình với bạn đó cũng ko đc vậy là sao. Minh cam on nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.659615,
+         "id": "1008515",
+         "field_search": "question",
+         "question": "Dạ chào ac, em hiện đang dùng dòng 7+ đc 1 tháng ah, nhưng trước đó đt ko hề có biểu hiện ngốn bin, từ khi nâng cấp lên 10.3.3 thì đt e ngốn bin nhiều hơn, tắt hết các ứng dụng chạy ngầm và ko dùng gì vẫn có thể tụt bin nhanh chóng... mong ac giải đáp giúp e trường hợp này do lỗi của hệ điều hành hay của máy ạ, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.653946,
+         "id": "876275",
+         "field_search": "question",
+         "question": "Cho mình hỏi: cả nhà mình bố mẹ và mình đều dùng chung 1 tk icloud, mỗi khi máy mình có cuộc gọi nhỡ của bạn mình gọi tới thì cả máy bố và mẹ mình đều hiện số của bạn mình và ngược lại. Cho hỏi làm sao để tắt chức năng này đc ạ? Cảm ơn ad và mọi người nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.643177,
+         "id": "865253",
+         "field_search": "question",
+         "question": " Chào bạnCửa hàng mình Có sửa ip5s ko bạn?.................................... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60794,
+         "id": "911960",
+         "field_search": "question",
+         "question": "Mình và bạn mình dùng chung một Icloud Mỗi khi bạn mình nhắn tin trên máy bạn đó thì máy mình lại nhận được. Vậy nên mình hỏi cách không chia sẻ tin nhắn giữa 2 máy khi dùng chung 1 Icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.600628,
+         "id": "1133998",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.43714,
+         "id": "1159904",
+         "field_search": "question",
+         "question": "Bạn ơi mình muốn mua máy vivo bu mình có máy dt iphone 6s để đổi máy vivo dk ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.423859,
+         "id": "1022076",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏ không biết bên bạn có nhân đổi máy cũ không mình đang có galaxy tab s3 á bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.364393,
+         "id": "883162",
+         "field_search": "question",
+         "question": "Minh đang dùng iphone 5 ...nhưng khi mình gọi Facetime hay messenger cho bạn mình, lúc mình nói tì bạn mình nghe nhỏ nhưng mình nói thì bên bạn mình lại nghe to và tốt...thế cho mình hỏi có phải máy mình bị hỏng loa ko ạ...nhưng nghe nhạc tì ok...nếu hỏng tì bên st có sửa ko à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.307539,
+         "id": "921974",
+         "field_search": "question",
+         "question": " Ad ơi, máy của bạn em như thế này mỗi khi thay desktop, ad fix cái này đc ko ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.297117,
+         "id": "823094",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao máy mình hồi sáng dùng rất ok. Nhưng từ khi chiều đến giờ lại ko vào được facebook còn những ứng dụng kia lại vào bình thường, messanger cũng bị lỗi ko vào được, mình đã tắt nguồn và cài lại cài đặt gốc nhưng ko hề được. Nó hiện lên như này khi mình đăng nhập vào facebook này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.272964,
+         "id": "781835",
+         "field_search": "question",
+         "question": " Chào các bạn, máy mình mua được 2 hôm rồi mà check vẫn active là sao ?DX3PME39FML6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.25025,
+         "id": "1007536",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi tgdd có thay đc màn hình máy tính bảng acer a1 841 ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.078674,
+         "id": "814003",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đang chơi game hay day nhưng mình ko đăng nhập facebook được để kết bạn với bạn bè trong facebook. cứ vào là thế này đây.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.049812,
+         "id": "784782",
+         "field_search": "question",
+         "question": "Chào bạn.mình mới mua máy iPhone 6. Mình có tra trên mạng nhưng không được máy mình hết bảo hành thi không tra được nữa hả bạn. Mình nhờ bạn kiểm tra giúpMinh số Imei này nhé. 35 837306 482368 4Trân trọng cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.023949,
+         "id": "874721",
+         "field_search": "question",
+         "question": " sao máy acer e5 573g i7 của em không có ổ D. mong anh chị giải đáp giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.021568,
+         "id": "1136746",
+         "field_search": "question",
+         "question": "cho mình hỏi phần mềm của mi8pro tốt hơn ko và mình nghe nói xiaomi chỉ về y học chứ ko về điện thoại còn huawei nova 3 thì mình ko bít mong các bạn chỉ mình và mình cần con máy dưới 12 triệu đáp ứng tất cả các tựa game nặng trên ch phay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00945,
+         "id": "881026",
+         "field_search": "question",
+         "question": "Chào bạn!Làm ơn cho mình hỏi, mình muốn sao file ghi âm (từ 15'-45') từ iphone5 ra máy tính thì phải làm thế nào?Xin cảm ơn bạn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.952858,
+         "id": "1143395",
+         "field_search": "question",
+         "question": "Chào bạn, mình quên mật khẩu Icloud, mail đăng kí cũng là mail Icloud. Ngày sinh mình nhớ mà nó bảo ko đúng. Còn cách nào khác để mở khoá máy không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.894136,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.835592,
+         "id": "1013202",
+         "field_search": "question",
+         "question": "QTV cho e hỏi cái ạ.e mới mua bên tgdd mình con samsung j7 pro mà e ko biết sao chép danh bạ về,vì khi e dùng cái điện thoại trước e đã sao chép đám mây rồi.sao qua máy này e ko tìm ra chổ tải danh bạ,sms về đc ạ.QTV biết chỉ giùm e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.79524,
+         "id": "814671",
+         "field_search": "question",
+         "question": "Chào thegioididong. Tôi đang dùng máy HP Probook 450 G2, sau khi tôi cài lại win10 pro và cài đủ driver kể cả hotkey nhưng phím fn+f9,f10(tăng giảm độ sáng màn hình) và fn+f8(recorder) vẫn không hoạt động. Lúc trước máy chạy win8.1 thì vẫn bình thường. Xin giải đáp giúp tôi vấn đề này. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.789173,
+         "id": "768330",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5S đợt giáng sinh giá 8,5 triệu mấy hôm nay thấy kết nối wifi rất kém. Kết nối báo 2 vạch sóng mà không vào được mạng, trong khi máy bên cạnh vẫn vào bình thường. Mình tắt Wifi đi bật 3g vẫn dùng bình thường. Tình trạng này bị mấy ngày hôm nay rồi, lúc thì có mạng lúc thì không vào đc trong khi máy vẫn báo 2 vạch sóng wifi.Cho mình hỏi như thế có phải lỗi phần cứng không? Hay do lỗi gì? Ông anh cũng đang định mua 1 iPhone 5S như mình nhưng thấy máy mình lỗi như thế lại lo, tiền rẻ thật nhưng chất lượng kém, lại nghi ngờ các bạn bán hàng kém chất lượng nên giá thấp. Mong sớm được giải đáp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.7245,
+         "id": "1139065",
+         "field_search": "question",
+         "question": "Chào bạn. Cho mình hỏi laptop Dell 5568 I5 7200U có hạ xuống Win7 được không?Dùng win 10 hay đơ máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.70611,
+         "id": "797130",
+         "field_search": "question",
+         "question": "mình đã ở đâu fix lỗi dc iphon 5 lock bạn 9.1 trưa mình wa fix dùng chán wa máy móc ko kiểm tra đc tài khoản khó chịu quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.69792,
+         "id": "788629",
+         "field_search": "question",
+         "question": "mình đang tìm mua 1 máy đổi trả - máy đã qua sử dụng là iphone 6s 64G màu gold !hoặc ip6 64Gb thường hoặc 6plus mình đang sinh sống ở Lạc Long quân Hà Nội ! shop có thể báo cho mình địa chỉ nào khu vực hà nội có máy ,tình trạng máy,tình trạng bảo hành,phụ kiện ....để mình qua lấy !sdt 099 3333 xxx-- email: minhtuanaudio2012@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.649525,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620108,
+         "id": "789748",
+         "field_search": "question",
+         "question": " AD ơi bạn có thể kiểm tra giúp mình imei này xem có phải máy dựng được ko bạn013069004728275 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.617239,
+         "id": "1005971",
+         "field_search": "question",
+         "question": "Mình dùng máy HTC 10 evo mà sao lắp thẻ nhớ vào thì không chuyển được file dữ liệu (ảnh, video, nhạc...) từ bộ nhớ máy sang thẻ nhớ đc? kết nối đt vs máy tính cũng không chuyển đc? Mình mới mua mays đc 2 tuần. nếu đây là lỗi của nhà sản xuất thì có đc đổi k?mojg đc giải đáp sớm!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.610756,
+         "id": "1015671",
+         "field_search": "question",
+         "question": "Chào ad. Mình đang dùng điện thoại oppo F3. Mình lên fb tải hình từ máy lên để làm ảnh bìa thì không được. Tick vào hình một cái là máy nhảy ra giao diện fb luôn chứ không tải lên được. Nhưng khi mình thử tải hình ngoài trang cá nhân và thử thay ảnh bìa bằng hình có sẵn trên fb thì lại được. Mong ad giải đáp giúp mình. Cám ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.589695,
+         "id": "866890",
+         "field_search": "question",
+         "question": " Mình dùng Lenovo ideapad 100s mới mua nhưng ko kết nối đc wifi là sao? Máy điện thoại vào bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.58867,
+         "id": "876186",
+         "field_search": "question",
+         "question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.584307,
+         "id": "836458",
+         "field_search": "question",
+         "question": "chào bạn! mình dùng iphone 6 nhưng thấy đt rất nhanh sụt pin bạn cho mình hỏi có cách nào khắc phục không vây!Mình cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.567373,
+         "id": "895675",
+         "field_search": "question",
+         "question": "Chào adm thegioididong.com các bạn cho mình hỏi , mình đang muốn tìm 1 chiếc lap top để chơi liên minh huyền thoại , vậy các bạn có thể tư vấn giúp mình đc không ạ mình chưa biết 1 chút gì về lap top",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.561903,
+         "id": "762079",
+         "field_search": "question",
+         "question": "Nhờ bạn giải quyết hộ mình trường hợp này: mình bị mất Iphone 4s, và đã dùng Find My Phone đăng nhập icloud để tìm, mình đã chọn \" Chế độ mất\" và tìm lại đc Ip, nhưng bây giờ ip của mình chỉ hiện thị lên dòng chữ lúc mình nhắn và số đt có thể gọi lại, làm thế nào để dùng ip lại bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.55066,
+         "id": "1154005",
+         "field_search": "question",
+         "question": "cho mình hỏi bên tgdd co mẫu laptop cụ thể nào pin trên 10 tiếng ko? của dell hoặc asus vì mình khá thích dùng hệ ddieu hanh cua win nhưng mak minh thây hâu hêt spham bên tgdd bán đêu pin 4 cell tưc 3-4h. minh ko thích dùng macbook vì ko quen nhưng pin dùng 2 ngày mới phải sạc. mong bạn giải đải san phâm nào cụ thể chứ mình co hỏi các bạn nhân viên tư vân mà mấy bạn í cũng ko hiểu rõ lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.521599,
+         "id": "831334",
+         "field_search": "question",
+         "question": " bạn ơi! cho mình hỏi, sao iphone se mình tải facebook, camera 360 về ko đc ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.496183,
+         "id": "752257",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn tìm lại mật khẩu icloud nhưng vào mail lại kooo đk trên máy báo là mail của mình là (n......ilcoud.com)mà mình koo có mail nào có chữ cái n là sao hả bạn mong giải thích giúp?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.48979,
+         "id": "1142244",
+         "field_search": "question",
+         "question": "Không xóa được faccboock trên samsung A8 là sao mong giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.485283,
+         "id": "1139352",
+         "field_search": "question",
+         "question": "Chào bạn, Máy Nokia 3 mình mua hôm 17/11. Hôm nay mình có cuộc gọi đến mà nói bên kia không nghe được. Bạn xem giúp mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.472658,
+         "id": "780683",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang sử dung iphone 4 không hiểu sao khi dùng dây cáp để kết nối với máy tính thì điện thoại cứ hiện lên là “phụ kiện không hỗ trợ” và mình không thể nào kết nối được với máy tính. Cho hỏi có cách nào để khắc phục không....mong sớm nhận được câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.456306,
+         "id": "884132",
+         "field_search": "question",
+         "question": " Ipad của mình bấm giữ nguyên mà ko xoá đc. Mình fai làm sao nè các bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.429422,
+         "id": "1011634",
+         "field_search": "question",
+         "question": "Dạ cho mình hỏi bên bạn có thu mua laptop và tablet cũ ko ạ , máy này ko phải mua ở thegioididong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.426342,
+         "id": "911171",
+         "field_search": "question",
+         "question": "Chào quản trịMình đang sử dụng oppo r7s, mình có cập nhật phiên bản máy mới và ngày hôm qua 8/11/16, tất cả các phần mềm trong máy mình đều bình thường chỉ có phần mềm facebook của mình ko vào đc, đang đăng nhập thì bị thoát ra giữa chừng.mình đã xóa facebook và tải lại phiên bản mới nhưng cũng ko khắc phục đc, mong đc phản hồi từ quản trị cho mình cách khắc phục sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.422375,
+         "id": "1139987",
+         "field_search": "question",
+         "question": "chào bạn mình đang dùng máy  dell-inspiron-14-3452 và mình muốn cài hệ điều hành remix OS lên máy nhưng sau khi cài vào phần boot chọn remix OS thì không lên màn hình là sao ạ mặc dù chuột vẫn báo sáng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37981,
+         "id": "1146346",
+         "field_search": "question",
+         "question": " Chào bạn, cho mình hỏi ở shop thế giới di động ở quy nhơn có bán chiếc máy realme 2 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

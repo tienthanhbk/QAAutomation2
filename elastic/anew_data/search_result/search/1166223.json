@@ -1,0 +1,801 @@
+{
+   "id_query": "1166223",
+   "total": 31218,
+   "total_current": 100,
+   "max_score": 49.25039,
+   "origin_question": "cho mình hỏi ở thế giới di động có chuyển tiền tận nhà k ạ",
+   "hits": [
+      {
+         "score": 34.43404,
+         "id": "1012929",
+         "field_search": "question",
+         "question": "Cho hỏi thế giới di động có dịch vụ giao hàng tận nhà k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.867838,
+         "id": "1016817",
+         "field_search": "question",
+         "question": "cho mình hỏi ở thế giới di động có sửa iphone 6s k nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.765127,
+         "id": "995282",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi thế giới di động ở Đồng Nai có thu tiền điện không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.704617,
+         "id": "1166211",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là bên thế giới di động có nhận chuyển tiền vào tài khoản ngân hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.009228,
+         "id": "859393",
+         "field_search": "question",
+         "question": " Dạ a ơi. Cho e hỏi. Ở thế giới di động có jailbreak ios9.3.2 k ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.685997,
+         "id": "1020099",
+         "field_search": "question",
+         "question": "cho mình hỏi ở Thế giới di động có bán Nokia 1280 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.324976,
+         "id": "1002592",
+         "field_search": "question",
+         "question": "cho mình hỏi ở thế giới di động có bán tấm bảo vệ bàn phím máy tính k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.21546,
+         "id": "921606",
+         "field_search": "question",
+         "question": " Thế giới di động cho hỏi.Iphone 5s của mình là iphone Lock.nhưng sao k kiểm tra được nhà mạng vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.14627,
+         "id": "1162482",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thế giới di động có thay pin cho iphone 7 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.120695,
+         "id": "1019957",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua 1 sản phẩm ở thế giới di động, do nhu cầu sử dụng của mình, mình muốn đổi trả và lấy lại tiền có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.077248,
+         "id": "1144247",
+         "field_search": "question",
+         "question": "mình mua hàng có giao tận nhà ko shop .tận nơi mình ở á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.03273,
+         "id": "986104",
+         "field_search": "question",
+         "question": "cho mình hỏi  thế giới di động  có dịch vụ chuyển sim 3g lên sim  4g viettel không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.95405,
+         "id": "770527",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi ở thế giới di động có jailbreak iPhone 5s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.914383,
+         "id": "1023198",
+         "field_search": "question",
+         "question": "qtv ơi bên thế giới di động có cho vay tiền mặt phải k ạ. cứ 1 2 ngày là có người gọi hỏi có muốn tham gia vay k. 2 hôm nay có số xxxx2888628 gọi e. cho e hỏi số này phải số của bên thế giới di động k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.71062,
+         "id": "1013917",
+         "field_search": "question",
+         "question": "nếu mua máy cũ từ thế giới di động này chuyển về thế giới di động khác có đc chuyển về ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.683216,
+         "id": "1168093",
+         "field_search": "question",
+         "question": "cho mình hỏi đồng hồ mình mua ở thế giới di động mình ko dùng nữa mình tới thế giới di động bán lại được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.640087,
+         "id": "1139204",
+         "field_search": "question",
+         "question": " cho em hỏi em mua sim ở thế giới di động có đc đăng kí chính chủ k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.600134,
+         "id": "1147324",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động tân phước có bán usb mạng k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.549757,
+         "id": "1152950",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thế giới di động có pin j7 2015 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.511349,
+         "id": "940627",
+         "field_search": "question",
+         "question": " Thế giới di động co nhận jaibreak iphone không ạ? Mình dùng ip7 ios10.1.1. Jaibreak thử ở nhà mà không được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.502264,
+         "id": "994749",
+         "field_search": "question",
+         "question": "cho e hỏi mua máy mobistar lai yuna ở thế giới di động thì bao nhiêu tiền ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.440584,
+         "id": "791238",
+         "field_search": "question",
+         "question": " Cho mình hỏi ở thế giới di động có bán miếng dán màn hình cảm ứng của laptop k vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.232208,
+         "id": "1002271",
+         "field_search": "question",
+         "question": "Cho hỏi ở thế giới di động mình có  bán cục 3 chấu sạc này k ạ, cho em giá với nhé. Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.18912,
+         "id": "1133549",
+         "field_search": "question",
+         "question": "cho em hỏi oppo a7 ở Thế giới di động ở  Long Xuyên có chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.132116,
+         "id": "1019722",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động thu tiền điện vậy có thu tiền nước không vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.046043,
+         "id": "1013106",
+         "field_search": "question",
+         "question": "Em mua laptop ở thế giới di động..vậy thế giới di động có bảo dưỡng.vệ sinh laptop không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.027252,
+         "id": "846617",
+         "field_search": "question",
+         "question": "dạ QTV cho mình hỏi là máy mình là iphone 4s mua ở thế giới di động là 4900000 còn bào hành đến hết 31/12/2016 vậy giờ mình muốn bán lại máy cho thế giới di động thì máy mình còn lại dc bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.023443,
+         "id": "993190",
+         "field_search": "question",
+         "question": "mình mua hàng ở cửa hàng thế giới di động bên TP.HCM và giờ hàng bị lỗi mình bảo hành ở bất kì cửa hàng thế giới di động nào trên toàn quốc được đúng k ạ ? mình hiện đang ở Biên Hòa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.909986,
+         "id": "988930",
+         "field_search": "question",
+         "question": "cho hỏi trong lúc mua iphone hoặc ipad ở thế giới di động mình có được check imei tai cửa hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.888975,
+         "id": "998490",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn vay tiền bên thế giới di động được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.827671,
+         "id": "1141577",
+         "field_search": "question",
+         "question": "Thay pin iPhone 6 ở thế giới di động thì dao động trong khoảng bao nhiêu tiền vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.75496,
+         "id": "1008181",
+         "field_search": "question",
+         "question": "Xin hỏi ở thế giới di động tuần giáo có bán samsung j2 pro k. Nếu có cho xin giá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.747002,
+         "id": "1012712",
+         "field_search": "question",
+         "question": "Ad cho hỏi ở thế giới Di Động có kính cường lực cho điện thoại Lenovo vibe k5 k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.714901,
+         "id": "1142000",
+         "field_search": "question",
+         "question": "Cho e hỏi ở thế giới di động có bán bộ sạc oppo không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.607225,
+         "id": "818179",
+         "field_search": "question",
+         "question": "Mình có mua tại thế giới di động laptop lenovo v460 năm 2010,năm 2013 mình có cho bạn mượn khi đó máy bị chết ổ cứng,bạn ấy đã đi thay ở bên ngoài,nay máy tính mình có hiện tượng lỗi ổ cứng tiếp,giờ mình có thể mang đến thế giới di động sửa đc không.và phải mang đến tận nơi đã mua hay chỉ cần mang ra chi nhanh thế giới di động là đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.543144,
+         "id": "1006374",
+         "field_search": "question",
+         "question": "Mình mới mua máy được 2 hôm tại thế giới di động muốn trả lại thế giới di động mua k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.418222,
+         "id": "1153220",
+         "field_search": "question",
+         "question": "Thế giới di động ở cai lậy tiền giang có bán thẻ game garena không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.392405,
+         "id": "1153451",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động có bán máy điện thoại sharp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.368944,
+         "id": "1146346",
+         "field_search": "question",
+         "question": " Chào bạn, cho mình hỏi ở shop thế giới di động ở quy nhơn có bán chiếc máy realme 2 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.313105,
+         "id": "988854",
+         "field_search": "question",
+         "question": " Thế giới di động có thu mua dt lenovo lại ko Mình mua ở thế giới di động giờ Mình bán lại có đc ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.238562,
+         "id": "990683",
+         "field_search": "question",
+         "question": "chào thế giới di động cho em hỏi điện thoại samsung j5prime đổi lại Samsung j7prime phải bù thêm bao nhiêu tiền vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.222069,
+         "id": "1144062",
+         "field_search": "question",
+         "question": "cho em hỏi ở thế giới di động huyện kế sách có vivo y91 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.222069,
+         "id": "1005063",
+         "field_search": "question",
+         "question": "cho em hỏi ở thế giới di động có cài đặt Bkav bản quyền ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.216135,
+         "id": "1018807",
+         "field_search": "question",
+         "question": "Cho e hỏi, mk mua điện thoại ở thế giới di động nầy mà qua quán thế giới di động khác bảo hành đc ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.159786,
+         "id": "802285",
+         "field_search": "question",
+         "question": "Xin hỏi , thế giới di động có bán iphone 6 của nhật bản phải không , anh mình cũng có mua 1 cái như vậy ở thế giới di động , giá chỉ khoảng 3 triệu mấy à , thế giới di động có bán không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.07526,
+         "id": "1138631",
+         "field_search": "question",
+         "question": " Giá bán lại vivo y71 ở thế giới di động bao nhiêu tiền vậy anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.07117,
+         "id": "1149029",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên thế giới di động ở yên lập mình hiện nay có laptop này k ạ :-  DELL XPS 15- 9550/ Core i7 6700HQ/ Ram 8gb/ SSD 256GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.056366,
+         "id": "1003654",
+         "field_search": "question",
+         "question": "Cho e hỏi ở thế giới di động có pin mobiistar touch bean 402c ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.046328,
+         "id": "1140325",
+         "field_search": "question",
+         "question": "mua 7 plus mới chính hãng ở thế giới di động có phải hàng VNA k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.996435,
+         "id": "1168130",
+         "field_search": "question",
+         "question": "em mua huwei nova 2i ở thế giới di động. bây giờ em mang ra bán lại cho cửa hàng rồi thêm tiền để mua iphone được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.832817,
+         "id": "1161588",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có xóa icloud được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.81123,
+         "id": "766215",
+         "field_search": "question",
+         "question": " Cho hỏi thế giới di động có dịch vụ ghép sim hay unlock điện thoại iPhone 6s Plus lock nhà mạng docomo không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.648354,
+         "id": "844193",
+         "field_search": "question",
+         "question": " tạo tài khoản trên iphone có mất tiền không ạ thế giới di động? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.603262,
+         "id": "997335",
+         "field_search": "question",
+         "question": "Điện thoại đã mua ở thế giới di động được 2 ngày thì có thể đổi hoàn trả tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.566177,
+         "id": "991696",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là mình có dán bảo vệ với cường lực bên thế giới di động dán bảo hành...vậy bảo hành có áp dụng dc ở những cửa hàng của thế giới di động khác không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.54916,
+         "id": "1162957",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện e đang trả góp ở 1 cửa hàng khác và đi đống tiền trả góp ở cửa hàng the giới di động khác được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.528301,
+         "id": "1023667",
+         "field_search": "question",
+         "question": "cho e hỏi thế giới di động có bán kính cường lực lag j7 prime k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.520832,
+         "id": "1006757",
+         "field_search": "question",
+         "question": "Chào QTV, cho em hỏi ở Thế giới di động có bán máy nghe nhạc mp3 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48399,
+         "id": "756825",
+         "field_search": "question",
+         "question": " Ở thế giới di động có tải game Pokemon X and Y trên PC không. Nếu có tải phải mất bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.474794,
+         "id": "1154030",
+         "field_search": "question",
+         "question": "Thế giới di động mình có hỗ trợ chạy chương trình của laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.372568,
+         "id": "1007049",
+         "field_search": "question",
+         "question": "Cho mình hỏi mua điện thoại ở fpt giờ mình đóng trả góp ở thế giới di động được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.343555,
+         "id": "994138",
+         "field_search": "question",
+         "question": "cho em hỏi ở thế giới di động có  bán đầu đọc thẻ nhớ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.293772,
+         "id": "1001702",
+         "field_search": "question",
+         "question": "cho em hỏi là ở thế giới di động có dán skin màn hình dum khách hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.282711,
+         "id": "765223",
+         "field_search": "question",
+         "question": " Thế giới di động cài cydia có tính tiền như những chỗ khác không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.268723,
+         "id": "1160445",
+         "field_search": "question",
+         "question": "Giờ e muốn bán lại cái sony e mới mua ở thế giới di động được 5 có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.21886,
+         "id": "872937",
+         "field_search": "question",
+         "question": " Ở các thế giới di động có nhận sửa máy tính không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.185545,
+         "id": "766788",
+         "field_search": "question",
+         "question": " Ở thế giới di động có thay pin cho điện thoại iphone 4s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.163687,
+         "id": "763286",
+         "field_search": "question",
+         "question": " Cho em hỏi ở siêu thị Thế giới di động có cài windows không Ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.147127,
+         "id": "1021289",
+         "field_search": "question",
+         "question": "cho em hỏi ..em mua mấy mobiistar zumbo j2 ở thế giới di động được hơn 2 tháng..nếu bây giờ e mún bán lại cho bên thế giới di động có được không vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.099161,
+         "id": "996167",
+         "field_search": "question",
+         "question": "Em múôn hỏi là.  Em mua máy ở thế giới di động gìơ em muốn bán lại máy lại cho thế giới di động.  Điện thoại em còn bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.040363,
+         "id": "1020391",
+         "field_search": "question",
+         "question": "thế giới di động cho mình hỏi ở hà nam còn bán SASMUNG GALAXY A5 2016  không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.019604,
+         "id": "994204",
+         "field_search": "question",
+         "question": "Cho em hỏi ở Thế giới di động có còn bán điện thoại Iphone 6s Plus 32GB không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.990065,
+         "id": "1157580",
+         "field_search": "question",
+         "question": "Thế giới di động có nạp tiền vào ví VTC pay  không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.976942,
+         "id": "998895",
+         "field_search": "question",
+         "question": "Thế giới di động có thay kính cường lực cho samsung galaxy j7 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.940168,
+         "id": "996141",
+         "field_search": "question",
+         "question": "Thế giới di động có chuyển sim 3g qua sim 4g mạng vinaphone ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.937126,
+         "id": "1138532",
+         "field_search": "question",
+         "question": " realmeC1 hiện đang có ở tất cả thế giới di động không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.90909,
+         "id": "1013965",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có bán điện thoại bản lock không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.867098,
+         "id": "997064",
+         "field_search": "question",
+         "question": "Mình cần hỏi ở thế giới di động có thay màn hình ngoài k ạĐiên thoại one e8 bị bể màn hình ạThay màn hình giá khoảng bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.856796,
+         "id": "1023616",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động co bán cái để làm mát laptop dell k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753199,
+         "id": "1163418",
+         "field_search": "question",
+         "question": "Cho mình hỏi , hồi sáng mình có ra thế giới đi động mua thẻ garena 100k về nhà nạp vào không được , sao thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.751095,
+         "id": "986297",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là Oppo F1s bản RAM 3G còn bán máy mới tại thế giới di động k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.732231,
+         "id": "995517",
+         "field_search": "question",
+         "question": "minh mua điện thoại trả góp ở thế giới di động ,nhưng giườcần tiền gấp mình bán lại máy cho siêu thị thì tính phí thế nào nhỉ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.726269,
+         "id": "966077",
+         "field_search": "question",
+         "question": " Cho mình hỏi thế giới di động cài win giúp phải không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.720491,
+         "id": "1022531",
+         "field_search": "question",
+         "question": "shop cho hỏi thế giới di động Lê Duẩn 2 địa chỉ chính xác ở đâu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70996,
+         "id": "1015927",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có thu mua lại đt cũ không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70663,
+         "id": "1157365",
+         "field_search": "question",
+         "question": "Xiaomi Redmi Note 7 có hàng RAM3GB ROM32GB k ạ Thế Giới Di Động                ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.696337,
+         "id": "772523",
+         "field_search": "question",
+         "question": " Cho hỏi thế giới di động ở Tuy Hoà Phú Yên có bán iphone 5 cũ trả góp không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.681767,
+         "id": "1135407",
+         "field_search": "question",
+         "question": "  cho e hỏi là màn hình  của máy Asus ZenFone 4 ZE554KL bên thế giới di động có k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.674377,
+         "id": "926773",
+         "field_search": "question",
+         "question": "cho em hỏi là máy laptop em hiện đang chạy win 10 và em muốn hạ cấp nó xuống cỡ win 7 hoặc 8.1 có được ko ạ?? nếu được thì em đem ra thế giới di động cài thì có tốn tiền ko ạ?? ( máy laptop này em mua ở thế giới di động luôn ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.656971,
+         "id": "1143240",
+         "field_search": "question",
+         "question": "Xin chàomình ở khu vực Cát quế hoài Đức, cho mình hỏi ở thế giới di động cát quế có vinsmart joy 1 khôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.653978,
+         "id": "1015347",
+         "field_search": "question",
+         "question": "cho e hỏi ở thế giới di dộng  mình có cài Office 2010 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.650753,
+         "id": "1163409",
+         "field_search": "question",
+         "question": "cho e hỏi đồng hồ vòng tay mi band 3 có bán ở thế giới di động bình sơn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642185,
+         "id": "1140759",
+         "field_search": "question",
+         "question": "thế giới di động ở hóc môn có bán thẻ vcoin không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642185,
+         "id": "1137023",
+         "field_search": "question",
+         "question": " Ở thế giới di động có thay pin samsung note 5 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.641008,
+         "id": "1014541",
+         "field_search": "question",
+         "question": "cho em hỏi ở thế giới di động có thay pin lap top elitebook 8440pnếu có thì giá khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.587986,
+         "id": "988652",
+         "field_search": "question",
+         "question": "Ở thế giới di động Xuân Khanh có dán cường lực cho iphone 6 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.5735,
+         "id": "1014262",
+         "field_search": "question",
+         "question": "Em Đổi iphone 5s lấy iphone se đc k ??  mua ở thế giới di động ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.56541,
+         "id": "1151171",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động mình có ip6 cũ nào giá rẻ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.541998,
+         "id": "1151367",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động Dây Cáp mhl Giá bán  bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

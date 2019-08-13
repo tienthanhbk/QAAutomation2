@@ -1,0 +1,801 @@
+{
+   "id_query": "1146479",
+   "total": 27345,
+   "total_current": 100,
+   "max_score": 58.489727,
+   "origin_question": " Cho hỏi muốn xoá quảng cáo lúc mở điện thoại phai lam s ạ ",
+   "hits": [
+      {
+         "score": 22.997938,
+         "id": "941282",
+         "field_search": "question",
+         "question": " May tinh minh mở lên ma ni hien len chữ Hibernating phai lam s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.193806,
+         "id": "913174",
+         "field_search": "question",
+         "question": " lam sao de chan cac ung dung quảng cáo nay????????????????????????  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.12771,
+         "id": "802462",
+         "field_search": "question",
+         "question": "Laptop của em khi mở chrome hay firefox đều bị dính mấy trang quảng cáo , cứ mở lên là hiện nùi trang quảng cáo. làm sao để tắt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.679758,
+         "id": "1144630",
+         "field_search": "question",
+         "question": " Sao điênh thoại e ưa bị quảng cáo này quá v. Ở màng hình chính vẫn quảng cáo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.521744,
+         "id": "1163506",
+         "field_search": "question",
+         "question": "Làm như nào để tắt quảng cáo toàn màn hình trên điện thoại samsung galaxy m20 vậy . Mong ad chỉ cho cách khắc phục , bực mình mấy ngày nay dồi . Nhiều lúc muốn đập điện thoại luôn ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.519682,
+         "id": "1145876",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung GALAXY J6 sao cứ quảng cáo hoài thế ạ . Chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.680826,
+         "id": "1002260",
+         "field_search": "question",
+         "question": "Cho e hỏi là muốn xoá nhạc chuông trên ip6 làm s v ạ? Tại lúc đầu e có tải cái garageband về mà e xoá ứng dụng đi nhạc chuông kh có bị mất giờ e muốn xoá đi làm s v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.5184,
+         "id": "1002263",
+         "field_search": "question",
+         "question": "Cho hỏi là muốn xoá nhạc chuông đt làm s v ạ? Lúc đầu e cài ứng dụng garageband mà e lỡ xoá cái ứng dụng đi mà bây giờ nhạc chuông kh xoá đc ạ? Mình làm s v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.300617,
+         "id": "836019",
+         "field_search": "question",
+         "question": "Chặn quảng cáo trên điện thoại Samsung A7 2016 làm như thế nào? mình có tham khảo \"Cách loại bỏ các quảng cáo \"rác\" trên smartphone đơn giản\" nhưng vẫn không hiểu cách làm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.014206,
+         "id": "1165592",
+         "field_search": "question",
+         "question": "J7 pro tắt quảng cáo làm sao  quảng cáo miết bực mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.802933,
+         "id": "1009973",
+         "field_search": "question",
+         "question": "mình xài grand prime. điện thoại cứ hay hiện lên quảng cáo với hình ảnh đồi trụy là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.762722,
+         "id": "1157904",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để chặn quảng cáo trên youtube cho ip ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.697302,
+         "id": "807706",
+         "field_search": "question",
+         "question": "laptop của e mấy cái trình duyệt hay có quảng cáo. microolf edge thì tự động mở mấy trag liền toàn quảng cáo. mn có thể chỉ e cách khắc phục được ko ạ? e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.58655,
+         "id": "1009819",
+         "field_search": "question",
+         "question": " Điện thoại em hay hiện quảng cáo giống như vậy nè. Mà cả khi em ko sử dụng điện thoại vẫn hiện lên   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.323542,
+         "id": "1134883",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Sao điện thoại samsung j7 mà mình không tải theme được nó cứ báo là qua đoạn quảng cáo  mà cứ quay hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.23139,
+         "id": "1013683",
+         "field_search": "question",
+         "question": "Mọi người cho hỏi WPS office khi mở hay xuất hiện quảng cáo, có cách nào để chặn không? Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.039879,
+         "id": "992803",
+         "field_search": "question",
+         "question": "Admin cho hỏi cách chặn quảng cáo iOS như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.955637,
+         "id": "1160106",
+         "field_search": "question",
+         "question": "xin chào!Mình mới mua máy samsung A50, được 1 tuần. Máy chạy ok, mà bị chạy cái quảng cáo dưới màn hình của google quảng cáo...Kỳ lạ là ko có ứng dụng nào quảng cáo kiểu đó, cho dù tắt màn hình tối thui thì khoảng 1 -2 phút nó lại chạy quảng cáo full màn hình. Hỏi kỹ thuật bên Lê Văn Quới thì trả lời:\" do cài android 8.0 nên bị lỗi quảng cáo\"Vậy là chịu thấy quảng cáo mỗi ngày, mỗi ngày tầm 100 lần..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.610123,
+         "id": "763965",
+         "field_search": "question",
+         "question": "Ad cho em hỏi điện thoại iPhone 4 báo bị 6 virus làm hư hỏng pin và em chót làm theo quảng cáo nhập số điện thoại và gửi tin nhắn rồi giờ phải làm sao ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.124107,
+         "id": "1159684",
+         "field_search": "question",
+         "question": "AD cho mình hỏi về mục quảng cáo của điện thoại SamSung Galaxy M20.Mình mua cũng được hơn 1 tháng nay, xài vẫn thấy bình thường. Nhưng kể từ ngày hôm qua 8/4/2019 mình thấy trên màn hình tự động hiển thị QUẢNG CÁO.Cho mình hỏi lý do tại sao có Quảng cáo đó và có thể tắt hẳn quảng cáo đi không.? Nó rất là phiền cho mình khi sử dụng.Mong có câu trả lời sớm nhất từ AD. Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.942755,
+         "id": "1141210",
+         "field_search": "question",
+         "question": "Điên thoại nova 2i của em sao cứ bị quảng cáo hoài vậy. Làm sao tắt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.798466,
+         "id": "1133310",
+         "field_search": "question",
+         "question": "Các chuyên gia cho em hỏi em đang dùng Xiaomi MiA1 dùng hđh Android 8.1.0, mua tại TGDD được khoảng hơn 3 tháng.Dạo gần đây em thấy có hiện tượng quảng cáo không rõ nguồn gốc tự động hiện lên màn hình chính của em, hay cả lúc em sử dụng app trên điện thoại. Các chuyên gia có cách nào giúp em loại bỏ quảng cáo đó ko ạ, và cho hỏi đt em đang bị sao, liệu có dính viruss ko? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.674652,
+         "id": "1167708",
+         "field_search": "question",
+         "question": "Điện thoại A5 2017 của tôi ngày nào cũng bị xuất hiện quảng cáo như thế này, tôi phải làm gì để quảng cáo đó không xuất hiện nữa. Tôi không cài bất cứ ứng dụng nào liên quan đến Thế giới di động cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.548298,
+         "id": "1013670",
+         "field_search": "question",
+         "question": "làm thế nào để tắt giới hạn quảng cáo khi bật mạng nó ẩn đi không vào được đặt lại giới hạn quảng cáo vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.479946,
+         "id": "1003948",
+         "field_search": "question",
+         "question": "Toi tang iPhone 6 s cho con Trai va se Mua iPhone 7 , cho hoi phai Lam gi truoc Khi tang d/t Lam gi Khi Mua d/t moi  cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.408041,
+         "id": "1143133",
+         "field_search": "question",
+         "question": "Gần đây mỗi khi điện thoại mình có mạng là hay xuất hiện các quảng cáo trên CHPLAY xuất hiện, add cho hỏi có cách nào khắc phục triệt để vấn đề này ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.324617,
+         "id": "1166469",
+         "field_search": "question",
+         "question": "Cho e hoi giờ muốn mua thêm dung luong icoud thi pai lam s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.13191,
+         "id": "1152233",
+         "field_search": "question",
+         "question": "em dùng xiaomi mi8 lite và đang dùng có hiện tượng nổi quảng cáo ở bất cứ lúc nào, mở màn hình hiện QC , lướt fb hiện QC và đang nhắn tin cũng hiện QC, cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.865929,
+         "id": "1168377",
+         "field_search": "question",
+         "question": "Cho hỏi có cách nào chặn  quảng cáo trên Youtube hoặc có thể tải app nào chặn đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.701869,
+         "id": "1002778",
+         "field_search": "question",
+         "question": "Máy zenphone 5 của em lúc sạc qua đêm đến Sang lúc mở máy phai mở nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.502775,
+         "id": "1159266",
+         "field_search": "question",
+         "question": "E đang dùng ss j7 prime cho e hỏi làm sao để tắt quảng cáo của game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.467722,
+         "id": "1007828",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao tắt quảng cáo google play trên màn hình chính của oppo A37 . xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.385472,
+         "id": "1017682",
+         "field_search": "question",
+         "question": "tại sao khi tôi nhấn vào mua điện thoại online thì có quảng cáo che toàn bộ trang và không làm làm thế nào để tắt nó được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.348631,
+         "id": "842172",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng, thế máy em có bị sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.316423,
+         "id": "1161848",
+         "field_search": "question",
+         "question": "Add cho mình hỏi là mình vừa mua máy Nokia 6.1 plus ở hệ thống của mình. Giờ máy cứ chạy quảng cáo rất bất tiện và tốn pin. Làm cách nào để có thể tắt quảng cáo đó.Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.278566,
+         "id": "1142549",
+         "field_search": "question",
+         "question": "Lỗi ko tải đc theme samsung bị load mục quảng cáo quá lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2064085,
+         "id": "1157364",
+         "field_search": "question",
+         "question": "Chào anh/chị cho em hỏi một chút ạĐiện thoại của em đang dùng là samsung j7 prime hay bị hiện quoảng cáo thì anh/chị có thể hỗ trợ e lsao để không hiện quảng cáo lên nữa với ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.181326,
+         "id": "1143836",
+         "field_search": "question",
+         "question": "Em sài máy masstel juno s6. Thỉnh thoảng trên màn hình lại xuất hiện 1 chấm trong trắng và khi kích vào nó thì thấy 1 trang quảng cáo. Làm sao để tắt nó đi ạ? Và cho em hỏi là có phải vì nó mà máy thường phát sinh các quảng cáo từ google không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.144161,
+         "id": "920255",
+         "field_search": "question",
+         "question": " tôi bị hack zalo toi muốn huy nick thi phai lam sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.078096,
+         "id": "992810",
+         "field_search": "question",
+         "question": " Cách loại bỏ các quảng cáo rác trên  smartphone  như thế nào vậy admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.078096,
+         "id": "1146999",
+         "field_search": "question",
+         "question": "laptop của mình tự bật trình duyệt và xuất hiện các trang quảng cáo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.077348,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.051522,
+         "id": "1155696",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại SS s7e. gần đây máy liên tục xuất hiện quảng cáo khi đang online, đang nghe gọi điện thoại và ngay cả khi màn hình đã khóa.Mình đã yêu cầu nhà mạng hủy gói quảng cáo, đã xóa tất cả những App tải gần đây, nhưng vẫn xuất hiện QC kể cả ban đêmCó cách nào giải quyết vấn đề này khôngCảm ơn nhiều.Dưới đây là 1 trong những QC xuất hiện nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.03337,
+         "id": "1010885",
+         "field_search": "question",
+         "question": "e muốn hỏi .hộ khẩu chứng minh giấy tờ ng hải phòng .muốn sang bên quảng yên mua trả góp điện thoại có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.009424,
+         "id": "1138405",
+         "field_search": "question",
+         "question": "Đt mobell p2 hay hiện mấy quảng cáo rác làm sao để hết bị ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.900493,
+         "id": "1146845",
+         "field_search": "question",
+         "question": "Dạ chị ơi cho em hỏi máy SAMSUNG GALAXY J6+ em mới mua mấy tháng từ lúc về đến giờ đt nó cứ quảng cáo liên tục kể cả nó sử dụng . Chỉ em cách khăc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8142605,
+         "id": "1154741",
+         "field_search": "question",
+         "question": "Sao k thay bán s10 màu xanh và mau trang nhu wed ss quảng cáo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.692116,
+         "id": "1154079",
+         "field_search": "question",
+         "question": "alocho hỏi khi màn hình s10 đang khóa thì hiện lên quảng cáo làm thế nào để tắt đi đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.680001,
+         "id": "1154023",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại vivo v5s em muốn thay đổi những câu hỏi khi quên mật khẩu của điện thoại và muốn khoi phục điện thoại như lúc mới mua về làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.672657,
+         "id": "1167287",
+         "field_search": "question",
+         "question": "Hi!  Samsung A70 bán dưới 800.000 VND à? Tôi thấy quảng cáo trên internet!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.662672,
+         "id": "1159292",
+         "field_search": "question",
+         "question": "Ad cho em hỏi Máy Sam Sung M20 cứ quảng cáo sáng màng hình liên tục phải làm sao vậy ad. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.647065,
+         "id": "1158498",
+         "field_search": "question",
+         "question": "Cho minh hỏi là goi fecebook minh kg nhận được mả đăng nhập thì phai lam sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.604738,
+         "id": "1166924",
+         "field_search": "question",
+         "question": "muốn tai game dt vivo Y83 phai lam sao moi tai we dược vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.601716,
+         "id": "1157225",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt quảng cáo trên Youtube và trang web",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.575468,
+         "id": "1151336",
+         "field_search": "question",
+         "question": "Cho e hỏi giờ muốn mở đa nhiệm mà không cần ấn núp home trên ip8 plus s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.560615,
+         "id": "1008171",
+         "field_search": "question",
+         "question": "e giùng mobel nova s2 sao máy thi thoảng đang xem youtober nó cứ hiện quảng cáo linh tinh với bắt cài đặt ứng giụng là sao vậy ạ không phải quảng cáo của youtobe mà lúc nt hay nghe nhạc nó cũng hiện với hay tự tải file linh tinh giù đã tắt tự động tải với cập nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.507076,
+         "id": "1146330",
+         "field_search": "question",
+         "question": " Cho e hoi . E quen tai khoan ID Apple ai . E muốn xoa lam ID Apple moi . Phai lam cách nao vay ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.484584,
+         "id": "1153013",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsum a5 2017 tự nhiên xuất hiện quảng cáo khi đang ở màn hình chính. Hiện tượng đó là bị gì vậy ạ. Mình cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.450309,
+         "id": "887164",
+         "field_search": "question",
+         "question": " Cho e hoi Facebook vs messenger isnt responding.mih phai lam sao ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.313353,
+         "id": "909730",
+         "field_search": "question",
+         "question": " laptop em xuất hiện mục quảng cáo cứ hiện suốt, bây giờ tắt làm sao anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2414875,
+         "id": "860778",
+         "field_search": "question",
+         "question": " Máy tính em bị dính mấy cái toolbar quảng cáo và spyware giờ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2414875,
+         "id": "1146388",
+         "field_search": "question",
+         "question": " máy e bật chế độ an toàn mà vẫn hiển thị quảng cáo. Chặn ntn z ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.188679,
+         "id": "842567",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng và sử dụng lại có tiếng bình thường, thế máy em có bị vấn đề về loa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.130944,
+         "id": "1141567",
+         "field_search": "question",
+         "question": "Cho e hỏi Facebook em bị báo là vô hiệu hóa gì đấy.... FB ko kinh doanh bán hàng quảng cáo gì hết ạ ... vậy e có lấy lại đc fb ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.09849,
+         "id": "957177",
+         "field_search": "question",
+         "question": " Cho e hoi la bây gio e muốn lưu hinh tư fb ve ma no không cho bây e phai lam sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095397,
+         "id": "806481",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn xóa mật khẩu mở máy trên điện thoại vivo x5 thì làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.07539,
+         "id": "1158528",
+         "field_search": "question",
+         "question": "Làm cách nào để xóa ứng dụng maxx sim trên đt j7 ? Nó cứ báo quảng cáo hoài? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.922654,
+         "id": "777275",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi máy tính mình mua mua của Asus TP550l được hơn năm. lúc đầu chạy vẫn bình thường, thời gian gần đây máy liên tục bị đứng máy, cốc cốc chạy các tab quảng cáo mình tắt còn không kịp, mặc dù cốc cốc trước kia mình dùng không hề bị vậy, chorme thì bị đứng, lúc nào cũng hiện ngừng pulin, adbloe gì đó, mih đã thử quét vi rút, cài phần mềm chặn quảng cáo nhưng vô ích, giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.913425,
+         "id": "1159449",
+         "field_search": "question",
+         "question": "anh mới mua apple watch S4, nhưng tìm mãi chẳng thấy chức năng ĐO ĐIỆN TÂM ĐỒ EGC như tư vấn và quảng cáo của Thegioididong.phiên bản WatchOS 5.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.819262,
+         "id": "1145127",
+         "field_search": "question",
+         "question": "điện thoại của em gần đây cứ bị hiện quảng cáo liên tục, kể cả lúc em ko bật wifi , và đang tắt máy. thỉnh thoảng máy lại bị treo. máy em chỉ mới mua hồi tháng 9 thôi, em nghĩ nó bị nhiễm virus hay gì rồi, làm cách nào để khắc phục ạ, thực sự là rất phiền luôn. em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.803911,
+         "id": "1140156",
+         "field_search": "question",
+         "question": "cho minh hoi sac pin laptop hp pin khong day phai lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.77401,
+         "id": "1168176",
+         "field_search": "question",
+         "question": "dịch vụ vay online hãng quảng cáo là gì vậy mình thấy để trên bàn của quầy thanh toán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.757517,
+         "id": "856659",
+         "field_search": "question",
+         "question": "Tại sao lúc mình tải messenger ve hay bat cu cai nao thi no cu hien len \" loi...ban chua dang nhap google talk\" la s? v canh de dang nhap vao thi phai lm s?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.634835,
+         "id": "1169116",
+         "field_search": "question",
+         "question": "điện thoại vsmart active 1 của em sao lại ,có chuyện mở âm thanh mà k nghe j ,khi reset lại thì hết là s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.633512,
+         "id": "997909",
+         "field_search": "question",
+         "question": " Tôi muốn chuyển game sang thẻ sd phai lam sao vay tgdd? Toi dang dung asus zenpad c7.0  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.623387,
+         "id": "1010661",
+         "field_search": "question",
+         "question": "Em đang xài Q vita S lúc trước điện thoại e sạc khoảng 3h là đầy pin nhưng giờ sạc rất lâu mới đầy em muốn hỏi lý do và cách khắc phục vấn đề này ạ!  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.570627,
+         "id": "1020862",
+         "field_search": "question",
+         "question": "Xem mat khau ch play cua minh thi phai lam sao. Xem mat khau cua minh thi lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.543184,
+         "id": "1166925",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu xoá dữ liệu của google play thì có ảnh hưởng gì không ạ?? Bởi vì mình muốn tăng dung lượng bộ nhớ cho điện thoại Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.441484,
+         "id": "1022522",
+         "field_search": "question",
+         "question": "Menustart tren win 10 khong hoat dong phai lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.430102,
+         "id": "1003940",
+         "field_search": "question",
+         "question": "Cho hỏi. Đt tôi cứ hiện lên cái này là sao ạ ? Đt tôi cứ mỗi làn màn hình tắt là nó chạy hiện quảng cáo của sony là vì sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.365738,
+         "id": "1000243",
+         "field_search": "question",
+         "question": "cho e hỏi là ss j5 prime, sạc được 43% thì rút sạc ra. sau đó k mở điện thoại được. tình trạng này là s và phải khắc phục ntn ạ? e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.351699,
+         "id": "927053",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có cái điện thoại chú mới cho mà lúc chú cho chú không mở kích hoạt icloud giờ chú đi nước ngoài rồi không liên lạc dc. có thể khôi phục lại điện thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.311367,
+         "id": "1147515",
+         "field_search": "question",
+         "question": "xin hỏi? Trước đây không có, sao dạo này máy m bị xen quảng cáo quá nhiều, ngay khi mở khóa màn hình, đang dùng wifi hay 3g bị rớt hay chập chờn mạng?Máy m là ss gt7102?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.310093,
+         "id": "780868",
+         "field_search": "question",
+         "question": "iPhone 6 plus mình vào xem fim thì hiện ra trang cảnh báo điện thoại bị nhiễm virus Vậy mình phải làm sao. Có khi đang xem fim lại hiện liên tục phát hiện virus. Hiện lần đầu đề là cảnh báo phát hiện iPhone nhiễm virus 7 con. Lần sao lại phát hiện 19 con virus. Và hiện yêu cầu diệt virus có kể cả thời gian nữa. Lúc trước có lên hỏi mà trả lời là quảng cáo không có thật. Mã điện thoại cụ phát hiện virus cần lúc cần nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.2738495,
+         "id": "1134437",
+         "field_search": "question",
+         "question": "Mình muốn chặn quảng cáo ứng dụng trên galaxy a7 2018 thì phải làm thế nào? Rất khó chịu khi xem phim, lướt web, hay thậm chí chơi game mà vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.251472,
+         "id": "1021887",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại cũ 5se có trả góp nhưng hiện tại em ở quảng nam mà điện thoại 5se bán ở tgdd Hà Giang vậy thì làm sao có thể mua được máy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.202808,
+         "id": "1145594",
+         "field_search": "question",
+         "question": "Mình hỏi một chút về 2 camera sau của điện thoại nokia 6.1 plus. Theo quảng cáo là đằng sau có 2 camera nhưng thực tế vào phần chụp ảnh rồi lấy tay che 1 trong 2 camera đi thì thấy chỉ có 1 camera hoạt động là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.190371,
+         "id": "1158883",
+         "field_search": "question",
+         "question": "Reset may ma quen mat khau Google gio phai lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.163828,
+         "id": "1149962",
+         "field_search": "question",
+         "question": "Cho Minh hoi. Điện thoại minh sasmung s7e lúc rài bị tình trạng lõi apps dã dừng . Hiện lien luc . Minh phai làm sao de hết đây AK .thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.15268,
+         "id": "1157388",
+         "field_search": "question",
+         "question": "Anh chị xem jup em zing bị như  thế này phai lam sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.128571,
+         "id": "1156008",
+         "field_search": "question",
+         "question": "Màn hình chờ của dt Samsung A7 2018 cứ hiện sáng và xuất hiện quảng cáo. Làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.103745,
+         "id": "913027",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi ạ. Sáng nay em có mua điện thoại ip 5s, và em có sao lưu ảnh từ ip 4s sang máy mới. Bây giờ em muốn xoá ảnh trong máy mới thì có xoá được không ạ. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.096351,
+         "id": "1008681",
+         "field_search": "question",
+         "question": "cho e hoi ty bay gio mun mua dien thoai cha gop phai lam sao the",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.081486,
+         "id": "1134024",
+         "field_search": "question",
+         "question": "Bh e muốn xoá tất cả các đanh bạn trên máy điện thoại iPhone 6 có sẵn nhưng ko xoá các đanh bạ của sim thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.021887,
+         "id": "996749",
+         "field_search": "question",
+         "question": "Tình hình em có cái dt mobell s39  lâu lâu hay bị hiện lên quảng cáo như vậy không biết làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.961337,
+         "id": "1148882",
+         "field_search": "question",
+         "question": "Samsung A5 2017 khoảng 1 2phut la bị quảng cáo làm tắt hrt cac ung dụng dang sử dụng. Mong ac chỉ e cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.954401,
+         "id": "1000924",
+         "field_search": "question",
+         "question": "ad cho e hỏi em có đặt 1 cái điện thoại ở thế giới gi đông và người ta hẹn em là thứ mùng 9 đến lấy nhưng hum đấy  e có việc bận nên k đi dc  em muôn hoán dến hum sao thi phai lam sa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.918328,
+         "id": "1134349",
+         "field_search": "question",
+         "question": "QTV cho e hỏi làm s để làm mất mấy dấu  trên màn hình điện thoại samsung j7 plus ạ. Cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.908662,
+         "id": "997745",
+         "field_search": "question",
+         "question": "sim cua em dang sai tomato nhung em muon doi sim 4g phai lam sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

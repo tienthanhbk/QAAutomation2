@@ -1,0 +1,801 @@
+{
+   "id_query": "1022008",
+   "total": 32381,
+   "total_current": 100,
+   "max_score": 68.935776,
+   "origin_question": "cho e hỏi với anh chị ơi.bên mình có dịch vụ chuyển tiền vào thẻ ngân hàng phải ko ạ",
+   "hits": [
+      {
+         "score": 31.936207,
+         "id": "1166807",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd có chuyển tiền trực tiếp vô tk thẻ ngân hàng ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.708431,
+         "id": "1142297",
+         "field_search": "question",
+         "question": "Dịch vụ trả góp của TGDD có áp dụng cho thẻ của ngân hàng Vietinbank không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.73099,
+         "id": "1139058",
+         "field_search": "question",
+         "question": "Tgdd cho e hỏi:E xài zalopay mà em ko liên kết với thẻ ngân hàng. Vậy em có thể đến tgdd nạp tiền vào zalopay ko ạ...và em có thể xài zalopay bình thường ma ko cần liên kết thẻ ngân hàng ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.053967,
+         "id": "1003843",
+         "field_search": "question",
+         "question": "bên chỗ anh chị có dịch vụ nạp tiếng việt cho samsung a5 2017 ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.486647,
+         "id": "1156298",
+         "field_search": "question",
+         "question": "Ngân hàng của em đang sử dụng không có danh sách trong liên kết ngân hàng bên zalo pay cho em hỏi bên tgdđ có chuyển tiền giúp ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.232231,
+         "id": "835757",
+         "field_search": "question",
+         "question": "Anh ơi,em muốn mua 1 app trên appstore nhưng k có thể master,với cả làm thẻ nhiều thủ tục chứng minh thu nhập e k có,e muốn hỏi bên tgdd có dịch vụ mua app hộ ,rồi bên khách hàng trả tiền cho tgdd k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.357935,
+         "id": "1166211",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là bên thế giới di động có nhận chuyển tiền vào tài khoản ngân hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.302153,
+         "id": "1159689",
+         "field_search": "question",
+         "question": "Chưa đủ 18 với không có tk ngân hàng thì có thể ra tgdd nạp tiền vào momo không ạ ? Với cả không lk tk ngân hàng thì không thể ck cho tk ngân hàng của người khác đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.678673,
+         "id": "1164523",
+         "field_search": "question",
+         "question": "cho em hỏi là khi em muốn trả góp một chiếc điện thoại thì khi em muốn đóng tiền em sẽ đến cửa hàng đóng hay sẽ chuyển tiền qua thẻ ngân hàng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.983072,
+         "id": "847295",
+         "field_search": "question",
+         "question": " Admin ơi cho mình hỏi cách mua ứng dụng trên appstore mà không có thẻ ngân hàng với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.951914,
+         "id": "1151007",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoạt realme 2 chuyển game như liên quân hay pubg sang thẻ nhớ kiểu gì với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.696957,
+         "id": "1016997",
+         "field_search": "question",
+         "question": "cho e hỏi bên mình có thanh toán bằng thẻ ngân hàng agribank k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.420954,
+         "id": "1007007",
+         "field_search": "question",
+         "question": "cho mình hỏi bên hệ thống bạn có dịch vụ đổi điện cũ rồi bù tiền  lấy điện thoại mới ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.254763,
+         "id": "820518",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên thegioididong có dịch vụ kiểm tra ip giả hay thật không? Nếu có thì chi phi dịch vụ bao nhiêu tiền? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05985,
+         "id": "986104",
+         "field_search": "question",
+         "question": "cho mình hỏi  thế giới di động  có dịch vụ chuyển sim 3g lên sim  4g viettel không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.92505,
+         "id": "1017553",
+         "field_search": "question",
+         "question": "cho e hỏi e dc ngân hàng fe credic cho vai thẻ atm 7triêu e muốn mua j7 pro thì mỗi tháng e phải góp lại bao nhiu cho ngân hàng z adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.88267,
+         "id": "998182",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình đang xài sim viettel và cài dịch vụ mimax 3G. Giờ mình định đổi sang sim 4G viettel thì có bị mất dịch vụ mimax và phải bỏ tiền đăng ký lại cho sim 4G k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.726578,
+         "id": "862186",
+         "field_search": "question",
+         "question": " thegioididong cho em các cửa hàng của thegioididong có dịch vụ sửa chửa laptop ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.703344,
+         "id": "1157932",
+         "field_search": "question",
+         "question": "Trong danh sách liên kết ngân hàng của zalo pay không có ngân hàng mà em đang sẽ dụng không biết bên tgdđ có chuyển tiền qua zalopay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.430296,
+         "id": "1006673",
+         "field_search": "question",
+         "question": "Cho e hỏi bên a có thu tiền góp bên ngân hàng thịnh vượng hok ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.362211,
+         "id": "995938",
+         "field_search": "question",
+         "question": "cho e hỏi dịch vụ trả góp bên cửa hàng như thế nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.29854,
+         "id": "1143085",
+         "field_search": "question",
+         "question": "iphone 6 quốc tế e mua sim về gắn vào thì nó hiện lên 1 cục sóng có lúc không có dịch vụ.. dạ cho e hỏi: mình mua sim ghép vào dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.056726,
+         "id": "1120264",
+         "field_search": "question",
+         "question": " Cho hỏi là ở đây có dịch vụ vô hiệu hoá hộ cái ipad mà ko bị mất data ko ạ. Nếu có thì bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.985178,
+         "id": "1166219",
+         "field_search": "question",
+         "question": "cho em hỏi là mang tiền mặt lên tgdd có chuyển tiền vào thẻ atm cho em đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.86414,
+         "id": "1020718",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại có chủ dịch vụ định vị bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.829826,
+         "id": "824785",
+         "field_search": "question",
+         "question": " cho em hỏi cửa hàng có dịch vụ vệ sinh laptop không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.665033,
+         "id": "1012929",
+         "field_search": "question",
+         "question": "Cho hỏi thế giới di động có dịch vụ giao hàng tận nhà k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.598494,
+         "id": "1160441",
+         "field_search": "question",
+         "question": "Cho e hỏi mua quà thẻ ngân hàng cần hs gì ạ mong phần hơi từ a chi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.576694,
+         "id": "994321",
+         "field_search": "question",
+         "question": "ben mình có liên kết với ngân hàng nào để trả góp băng hình thức cà thẻ visa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.490396,
+         "id": "833552",
+         "field_search": "question",
+         "question": " cho mình hỏi là thế giới di động có dịch vụ vệ sinh laptop ko ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.209423,
+         "id": "1002980",
+         "field_search": "question",
+         "question": "bên mình có dịch vụ gởi tiền viettel không. hay momo không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.094107,
+         "id": "1005010",
+         "field_search": "question",
+         "question": "Cửa hàng mình có dịch vụ thay pin cho điện thoại iphone 5s không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.047192,
+         "id": "1151643",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd có làm dịch vụ cài win, quét virut cho laptop ko ạ. Máy mình bị dính virut với lỗi mở máy shutting down rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.974705,
+         "id": "1008119",
+         "field_search": "question",
+         "question": "bên mình cho e số tài khoản ngân hàng agribank của FE CREDIT để e đóng tiền trả góp đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.706953,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.449776,
+         "id": "1013902",
+         "field_search": "question",
+         "question": "Máy e bị cập nhật dịch vụ google thì phải làm sao ạ.e không vào đc ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.427992,
+         "id": "1015443",
+         "field_search": "question",
+         "question": "mình vay tiền ngân hàng qua mạng đến khi nhập mã captcha sao ko nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.34499,
+         "id": "995090",
+         "field_search": "question",
+         "question": "Dịch vụ đặt máy trả góp xét duyêt qua điện thoại  mình thấy rất tiện lợi cho khách hàng. Nhưng khi thực hiện dịch vụ mà tỉ lệ thành công thấp, dường như là 0%, sẽ gây mất thời gian cho khách hàng và sự phiền lòng. Sẽ ko bao giờ sử dụng dịch vụ trả góp của tgdd nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.338486,
+         "id": "998354",
+         "field_search": "question",
+         "question": "cho mình hỏi khi mua mua samsung j7 prime cũ thì công ty có dịch vụ ship hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.189915,
+         "id": "995045",
+         "field_search": "question",
+         "question": "TGDĐ ơi, cho mình hỏi có dịch vụ dán màn hình chất liệu nhám cho laptop 15,6 inch ko ạ? cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.18979,
+         "id": "1156351",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, bên mình có dịch vụ thay pin ip6s không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157566,
+         "id": "1008313",
+         "field_search": "question",
+         "question": "Nếu e mua trả góp thì có thể trả tiền qua ngân hàng địch không hay phải đến tận nơi để trả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1277,
+         "id": "1134749",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn thay pin điện thoại iphone 5, cửa hàng bên các bạn có dịch vụ này không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.948195,
+         "id": "1151817",
+         "field_search": "question",
+         "question": "e dùng j2 prime anh chị cho e hỏi lí do vì sao e đã lắp thẻ nhớ 8G vào r mà nó lại nói là chưa gắn thẻ SD ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.91207,
+         "id": "1159486",
+         "field_search": "question",
+         "question": "Xin chào Shop. Hiện mình muốn mua samsung note 8 mới. Mình thấy có chương trình trả góp 0% qua thẻ ngân hàng, thời hạn trong 12 tháng. Mình muốn biết số tiền cần trả trước là bao nhiêu, hàng tháng góp bao nhiêu và số tiền góp hàng tháng thông qua thẻ hay tiền mặt. Mong được phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.777082,
+         "id": "1020592",
+         "field_search": "question",
+         "question": "shop cho mình hỏi, mình đang muốn mua note 8 bằng hình thức trả góp 0% thông qua thẻ tín dụng, không biết là TGDD liên kết với thẻ của các ngân hàng nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76643,
+         "id": "1020532",
+         "field_search": "question",
+         "question": "alo mình vừa mua cái thẻ gate ở tgdd nhưng khi hỏi nhân viên tgdd là nếu cung cấp cho họ 10 mã số thẻ và 5 số cuối số seri thỳ có sợ họ lấy dc thẻ không ạ? thỳ anh nhân viên nói là không lấy dc đâu nhé. rồi em đưa cho họ như vậy để em giao dịch nhưng đợi 1 lúc em vào doithe247.com để nạp vào tk ngân hàng thỳ nó báo là the sai là sao ạ mong admin giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.748966,
+         "id": "1143110",
+         "field_search": "question",
+         "question": "cho mình hỏi? mình đang sử dụng thẻ masterCard ngân hàng Agribank thì có mua điện thoại trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6957,
+         "id": "1012006",
+         "field_search": "question",
+         "question": "anh chị QTV cho e hỏi bên TGDĐ có dán màn hình với decal laptop ko ạ? và cho e xin giá với ạ. e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.550205,
+         "id": "1139261",
+         "field_search": "question",
+         "question": " cho em hỏi..em muốn mua điện thoại trả góp và đang dùng thẻ agribank vậy có thể sử dụng dịch vụ này được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.499533,
+         "id": "765561",
+         "field_search": "question",
+         "question": " Làm thế nào để có mã thẻ quà tặng itunes ạ anh chị nào biếtt thì có thể chỉ cho e với được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.4802,
+         "id": "1167439",
+         "field_search": "question",
+         "question": "Mình mua trả góp qua thẻ ngân hàng thì làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.335829,
+         "id": "808278",
+         "field_search": "question",
+         "question": " Cho em hỏi, ở cửa hàng có dịch vụ vệ sinh laptop không ạ? do cái laptop em nó kêu to quá trời. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.303316,
+         "id": "1144417",
+         "field_search": "question",
+         "question": "Mình mua laptop tại TGDD, không biết TGDD có dịch vụ vệ sinh laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.271114,
+         "id": "1000091",
+         "field_search": "question",
+         "question": "tại sao em đóng tiền trả góp trừ vào ngân hàng dong a rồi , nhưng sau vô xem ngân hàng fe credit chưa trừ là sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.238113,
+         "id": "1136532",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình thanh toán bằng thẻ vp bank để mua dt thì mình phải thanh toán hết ở bên trong thẻ luôn hay sao ạ tại thẻ e mới đăng kí nên có thể nào thanh toán bằng tiền mặc nhưng dc hưởng ưu đải khi có thẻ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.216505,
+         "id": "759676",
+         "field_search": "question",
+         "question": " Ac cho em hỏi, ở siêu thị của mình có dịch vụ sữa chữa laptop không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.194191,
+         "id": "1141137",
+         "field_search": "question",
+         "question": "Cho e hỏi nokia 5 may cái app có thể chuyển qua thẻ nhớ đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.139633,
+         "id": "1166413",
+         "field_search": "question",
+         "question": "ở hãng có hỗ trợ dịch vụ cài win vào laptop k ? win bản lậu ấy và nếu có thì phí dịch vụ là bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.102392,
+         "id": "787841",
+         "field_search": "question",
+         "question": "Ad cho em hỏi :Lúc em mới vừa mua 1 cái ipad air 2 cellular 16GB vào ngày ( 17-01-2016 ) và em cũng đã đăng kí sim mobifone tại thế giới di động với dịch vụ 3G . Nhân viên thế giới di động nói là '' dịch vụ 3G tháng này được sử dụng miễn phí , tháng sau em mới cần nạp 50.000 đồng vào tài khoản của mình để được gia hạn tiếp gói dịch vụ nhé'' .Đến ngày ( 16-02-2016 ) do em không biết cách nạp tiền bằng ipad nên em đã rút thẻ sim ra và bỏ sim vào 1 máy khác em nạp thẻ cào 50.000 đồng vào tài khoản. Nhưng đến giờ máy của em vẫn chưa có mạng 3G.Mong Ad hổ trợ giúp em đến bây giờ em máy em vẫn chưa có mạng 3G.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.090591,
+         "id": "1004609",
+         "field_search": "question",
+         "question": "Chuyển dữ liệu asus zenpad c7.0 sang thẻ nhớ 16G . Mình có mua 1 cái thẻ nhớ , sau đó gắn vào cái zenpad nhưng ko biết cách chuyển dữ liệu , ai giúp mình với . Trên mạng có máy cách nhưng mình làm ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.02602,
+         "id": "1154620",
+         "field_search": "question",
+         "question": "Tới cửa hàng quét virus cho máy tính, giá dịch vụ là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.017097,
+         "id": "1141666",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi là e mua điện thoại bên a chị giờ e muốn dán kính cường lực thì có mất tiền k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.009096,
+         "id": "1166745",
+         "field_search": "question",
+         "question": "Cho mình hỏi.tài khoản ví momo của mình ko có liên kết ngân hàng được mà giờ trong tài khoãn có tiền mà mình muốn nạp tiền vô tài khoản điện thoại mà ko được thì phải làm sao.mình đang ở ngoài đảo nên ko đi tới chỗ nào được mà giờ làm sao.số zalo mình 0912233640",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.980078,
+         "id": "997749",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi xíu. Em muốn mua galaxy book loại 12icnh bên mình có hàng không ạ? Nếu có hàng báo giúp em với ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.97381,
+         "id": "839785",
+         "field_search": "question",
+         "question": " ad ơi cho e hỏi sao máy iphone4 e lắp sim vô thì không có dịch vụ ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.960148,
+         "id": "1006870",
+         "field_search": "question",
+         "question": "Mình muốn thay bàn phim laptop HP Pavilion g series. Bên cửa hàng mình có dịch vụ thay không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825508,
+         "id": "842916",
+         "field_search": "question",
+         "question": " cho hỏi gói dịch vụ diệt virus cho laptop xài mạnh mượt ko nặng máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.823956,
+         "id": "757328",
+         "field_search": "question",
+         "question": " Cửa hàng ở đây có dịch vụ mở khóa iCluod iPhone 4s không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.801477,
+         "id": "1020435",
+         "field_search": "question",
+         "question": "Đang góp tiền ngân hàng có thể mua thêm sản phẩm khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.772861,
+         "id": "800690",
+         "field_search": "question",
+         "question": "Cho hỏi, mình có mua trả góp 1 cái iPhone 6S bên công ty tài chính là VP-Bank. Giờ mình đóng tiền trả góp trực tiếp tại ngân hàng mà ko cần phải tới TGDD or Điện máy xanh có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.76635,
+         "id": "1143873",
+         "field_search": "question",
+         "question": "Alô ạ. ĐT cua e là sony X. Nhưng hiện tại lắp sim vào thì máy cứ báo KHông có dịch vụ. E lắp di lap lại mà ko DC. Sim lap sang máy khác thì lại dùng OK. Liệu máy của e giờ gửi lên tgdd thi sửa lâu ko. Mất nhiều tiền ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.757849,
+         "id": "804493",
+         "field_search": "question",
+         "question": " TGDĐ có dịch vụ vệ sinh laptop không ạ  nếu có thì giá dịch vụ bao nhiêu ? . xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.742586,
+         "id": "797302",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên tgdd có dịch vụ thay pin iPhone 5s không. Cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.735538,
+         "id": "753723",
+         "field_search": "question",
+         "question": " Cho mình hỏi ở Thegioididong có dịch vụ nâng cấp win 7 lên win 10 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.722616,
+         "id": "991764",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng có bán thẻ megacard ko ạ ? Làm thế nào để tìm được những cửa hàng bán thẻ này ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.469889,
+         "id": "997399",
+         "field_search": "question",
+         "question": "Cho Hỏi Đóng Tiền Trể Bị Phạt Vẫn Đóng Đoàng Hoàng Bên Ngân Hàng FEcerditVậy Có Thể Làm Hô Sơ Mua dt Vậy Có Được Duyệt ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.445219,
+         "id": "1149767",
+         "field_search": "question",
+         "question": "b ơi cho mình hỏi khi bảo hành laptop ở đây có dịch vụ vệ sinh laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.405687,
+         "id": "818762",
+         "field_search": "question",
+         "question": " Cho mình hỏi thegioididong hiện nay có dịch vụ thay pin iPhone 6 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.396164,
+         "id": "749340",
+         "field_search": "question",
+         "question": "Anh cho em hỏi ? Trước đây em có đứng tên để mua cho 1 người quen chiếc điện thoại trả góp ,trong thời gian trả góp đó ,bạn của em đã đóng chậm ngân hàng 2,3 tháng và đến nay cũng đã hoàn tất xong xuôi cho ngân hàng và ngân hàng cho em vào danh sách nợ xấu . Vậy bây giờ muốn mua 1 chiếc iPhone 6s ở bên mình ,ở bên mình có hỗ trợ giúp em mua được máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.369703,
+         "id": "1000413",
+         "field_search": "question",
+         "question": "chào tgdd, mình hỏi giờ mình muốn đặt cọc máy này nhưng giờ không ra cửa hàng trực tiếp được. vậy có hỗ trợ chuyển khoản qua ngân hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.349583,
+         "id": "766102",
+         "field_search": "question",
+         "question": " Cho mình hỏi dịch vụ thay vỏ iPhone 6 plus ở TGDĐ như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.345442,
+         "id": "827866",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em có 1 con IPhone 6 nhưng lại bị dính icloud có cách nào khắc phục ko ạ e có thể đung dịch vụ bẻ khoá icloud được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.344511,
+         "id": "1136762",
+         "field_search": "question",
+         "question": " cho mình hỏi các chi nhánh của thế giới di động có nhận dịch vụ vệ sinh laptop không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.33458,
+         "id": "1003903",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là Đợt trước e có đóng tiền hàng tháng . Nhưng em nộp chậm mất một tháng lên bị phạtThế nên giờ e có thể mua trả góp được nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.290283,
+         "id": "1022259",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, em muốn bán lại thẻ cào cho thế giới di động thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.208908,
+         "id": "1135019",
+         "field_search": "question",
+         "question": "Cho mình hỏi nokia 5.1 plus có hỗ trợ chuyển ứng dụng vào thẻ SD không ạ? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.19645,
+         "id": "1158286",
+         "field_search": "question",
+         "question": "Cho em hỏi là bên mình có dịch vụ đổi iphone xs lên xs max không nhỉ . Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.187046,
+         "id": "1012013",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi imei 355673073893732 có phải điện thoại bên anh chị không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.15747,
+         "id": "831772",
+         "field_search": "question",
+         "question": " Ở mình có sửa laptop Gateway LT27 không? Có dịch vụ dán laptop với vệ sinh laptop không ạ? giá khoảng bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.153051,
+         "id": "1161897",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi iphone 6 sóng chập chờn sửa được không ạ? Hết bao nhiều tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.12676,
+         "id": "1004975",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. E đang xài samsung galaxy j7 prime. Bên mình có dịch vụ bảo trì để phát hiện các lỗi và vi rút trong máy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.11793,
+         "id": "1014730",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, nếu em mua hàng trả góp thì hàng tháng em đến tận nơi để trả tiền mặt ạ ? (vì em chưa có tài khoản ngân hàng)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.115198,
+         "id": "1000989",
+         "field_search": "question",
+         "question": "toi dang sinh song o nuoc ngoaitôi muốn mua hàng teim của anh chị ...nhưng mà khi thanh toán tiền qua thẻ master carte thì ko được ...hay là không thu thế nước ngoài hà ....?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.09139,
+         "id": "1166506",
+         "field_search": "question",
+         "question": "Cho em hỏi ơn đây có dịch vụ Up rom tiếng Việt cho Xiaomi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.077744,
+         "id": "1139274",
+         "field_search": "question",
+         "question": "cho em hỏi..em muốn mua trả góp điện thoại oppo f7 youth và đang dùng thẻ agribank ( success) vậy có thể sử dụng dịch vụ này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.009243,
+         "id": "1136273",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone x bị báo mất (icloud) có unlock được không? TGDĐ có làm dịch vụ này không. Nếu không thì mình phải làm ở đâu. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.99465,
+         "id": "1018215",
+         "field_search": "question",
+         "question": " giup e với e không biết phải làm thế nào anh chị giúp em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.981043,
+         "id": "944931",
+         "field_search": "question",
+         "question": " Anh chị cho e hỏi? là mình có hạ được hệ điều hành của iphone 4s không ạ? và nếu hạ đc thì mất bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

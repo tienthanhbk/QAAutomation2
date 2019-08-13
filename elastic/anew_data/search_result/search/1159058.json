@@ -1,0 +1,801 @@
+{
+   "id_query": "1159058",
+   "total": 32631,
+   "total_current": 100,
+   "max_score": 232.59601,
+   "origin_question": "Facebook của em bị xác minh danh tính nhận diện 5 bạn bè.  Bị 7 lần rồi.  Nếu lần sau bị nữa mà em k nhớ dẫn đến vô hiệu hóa. Em lập nick mới thì em lập trên điện thoại mà bị xác minh danh tính 7 lần đó đc k.  Hay em phải lập trên điện thoại khác rồi lại đăng nhập trên đt bị 7 lần kia để dùng? Mục đích để k bị xác minh danh tính nữa.  Xin ad tư vấn.",
+   "hits": [
+      {
+         "score": 171.06711,
+         "id": "1155126",
+         "field_search": "question",
+         "question": "Em bị xác minh danh tính facebook tới 7 lần.  Và lần này k vượt qua được,.  Nếu em lập nick facebook mới ngay bằng điện thoại của nick facebook mới bị khóa do xác minh danh tính đó,  thì tương lai có bị xác minh danh tính nữa k.  Thấy nhiều bạn nói lập lại bị,  rồi lập nữa lại bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 169.10257,
+         "id": "1156339",
+         "field_search": "question",
+         "question": "Facebook em bị xác minh danh tính 7 lần rồi.  Nếu lần sau k lấy lại được em lập nick mới có bị checkpoint xác minh danh tính nữa k.  Nghe thấy bảo lập lại bị lập nữa lại bị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.88798,
+         "id": "1145546",
+         "field_search": "question",
+         "question": "Sao facebook của em đăng kí bằng gmail,  bị xác minh danh tính và khóa tạm thời vậy.  3 lần rồi huhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.11966,
+         "id": "1146582",
+         "field_search": "question",
+         "question": "Em rất hay bị facebook xác minh danh tính,  em sợ sẽ bị nữa,  giờ em phải làm sao đây ạ,  huhu,  em k muốn mất nick",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.22149,
+         "id": "1136973",
+         "field_search": "question",
+         "question": "Cho em hỏi, số đt cũ bị mất, em muốn thêm số đang dùng, thêm cả gmail. Vậy facebook có bắt checkpoint xác minh danh tính k. Nếu xác minh danh tính thì mệt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.85004,
+         "id": "1162464",
+         "field_search": "question",
+         "question": "Tài khoản facebook của em bị tạm khoá để xác minh danh tính.Em bấm tiếp tục để xác minh thì nó hiển thị \" Chúng tôi hiện không thể xác minh danh tính của bạn, Vui lòng thử lại sau\" em chờ mấy ngày rồi mà vẫn như thế.Các bác help me với ạ.Em xin hậu tạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.5953,
+         "id": "1147352",
+         "field_search": "question",
+         "question": "Hiện tại facebook bắt buộc mình phải xác nhận danh tínhTrong khi số điện thoại trong fb mình đã bị hưBạn có cách nào để mình xác minh danh tính ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.84494,
+         "id": "1162405",
+         "field_search": "question",
+         "question": "Em đăng nhập vào web lạ và bị hacker đổi email và sdt, hiện tại tài khoản bị khóa để xác minh danh tính. E bị đổi email và sdt nên k có cách nào lấy dc mật khẩu vào xác minh danh tính nhưng khi vào hộp thư gmail xem tin nhắn cảnh báo đăng nhập thì vẫn có thể vào dc xác minh dc mà k cần đăng nhập. Nhưng nó lại hiện như thế này, giờ e phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.63692,
+         "id": "1140867",
+         "field_search": "question",
+         "question": "đổi mật khẩu facebook không đượcsau khi bị hack báo lên bên hỗ trợ bắt xác minh danh tính, xác minh danh tính thành công thifcho chèn mail mới vào facebook mai cũ bị hack nó xóa mất, nhập mã xác nhận gần tuần nay để đổi mật khẩu thì bị lỗi. help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.90744,
+         "id": "999948",
+         "field_search": "question",
+         "question": "Cho e hỏi, sao dạo này lập facebook. khoảng lâu nhất là 1 ngày, nhanh nhất là 15 phút sau khi lập facebook, cứ yêu cầu tải ảnh lên để xác nhận danh tính. Rồi facebook đó bị mất lun. Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.94,
+         "id": "1145559",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu có người biết gmail em đk facebook mà k biết mật khẩu của em.  Mà họ sẽ cố đăng nhập vào facebook của em bằng cách gõ mật khẩu lung tung.  Vậy tài khoản của em có bị khóa tạm thời và xác minh danh tính k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.803696,
+         "id": "1164297",
+         "field_search": "question",
+         "question": "Cứ đăng nhập nick Facebook khác vào máy là bị đòi xác minh danh tính bằng ảnh( nick mới thì 30p, nick cũ thì 1-2 ngày), sau 2-3 ngày sau nick bị khóa. Bác nào biết nguyên nhân và cách khắc phục chỉ e với, ức chế lắm rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.1364,
+         "id": "919318",
+         "field_search": "question",
+         "question": "ad ơi em lập tài khoản dk 1 tháng rồi bây h mới vào xác minh thì ko dk nữa ạ . làm sao để apple gửi lại tin nhắn xác minh nữa ạ cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.86642,
+         "id": "1163321",
+         "field_search": "question",
+         "question": "facebook em liên tục bị xác nhận danh tính, tạo tài khoản sử dụng chưa đầy năm phút lại bị xác nhận danh tính, facebook trước đây của em sử dụng hơn 1 năm không biết bên thế giới di động có hỗ trợ vấn đề này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.796074,
+         "id": "830379",
+         "field_search": "question",
+         "question": "Mình lập nick facebook bằng số điện thoại, xài một thời gian thì facebook vô hiệu hóa tài khoản vì mình lập 3 nick facebook bằng 01 chứng minh nhân dân. Có cách nào lấy lại tài khoản bị vô hiệu hóa không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.609245,
+         "id": "1147426",
+         "field_search": "question",
+         "question": "Làm sao để chuyển số điện thoại này sang số điện thoại kia khi facebook bắt buộc xác nhận danh tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.41749,
+         "id": "768881",
+         "field_search": "question",
+         "question": "Nếu em dùng 1 tài khoản icloud đăng nhập trên iphone thì sẽ bị gì điện thoại đăng nhập lần cuối thì bị gì,điện thoại đăng nhập lần đầu thì sẻ bị gì hả admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.1491,
+         "id": "1168144",
+         "field_search": "question",
+         "question": "ko vào được facebook dù nick vẫn hoạt động bình thường và ko do bị chặnko xác minh danh tính được  dù facebook yêu cầu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.8486,
+         "id": "1155815",
+         "field_search": "question",
+         "question": "Hi!Cho e hỏi face book của em bị yêu cầu xác nhận danh tính, khi e bấm vô thì nó ra màn hình  vui lòng phê duyệt đăng nhập này trên điện thoại hoặc máy tính bạn đã sử dụng trước đó nhưng khi cọn thì báo ko đc, em sd nhận trợ giúp từ bạn bè và nhập đúng mã bạn gửi lại vẫn báo sai,vui lòng hỗ trợ e với ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.33692,
+         "id": "1015721",
+         "field_search": "question",
+         "question": "Anh ơi em đung iPhone 5 mà em từ trước giờ em ko có tài khoản id nay em lập tài khoản mà phải xác minh nhưng em lo bít xác minh ở đau và vào đâu để xác minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.30207,
+         "id": "1159087",
+         "field_search": "question",
+         "question": "fb em đột nhiên bị khóa, nó bắt xác minh danh tính bằng cách gửi mã về sđt. nhưng sđt của em lại không hợp lệ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.03908,
+         "id": "1162493",
+         "field_search": "question",
+         "question": "Chào ad ! Điện thoại iphone của em bị mất . Em đã dùng icloud để khóa máy từ xa . Giờ tìm được máy lại rồi nhưng máy yêu cầu mật khẩu khi em vô hiệu hóa . Giờ em muốn gỡ bỏ mật khẩu đó để lần sau mở máy điện thoại không yêu cầu nhập nữa thì phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.88223,
+         "id": "1146584",
+         "field_search": "question",
+         "question": "Em có cài 3 liên hệ tin cậy vào facebook thì khi em bị tạm khóa facebook bắt xác minh danh tính,  thì nó có cho mở bằng liên hệ tin cậy k ạ.  Hay nó bất kì cho cách ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.71726,
+         "id": "1004966",
+         "field_search": "question",
+         "question": "Cho em hỏi e lập id apple mà tới chỗ xác minh email lại k được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.52902,
+         "id": "1135263",
+         "field_search": "question",
+         "question": "Điện thoại bị thay đổi số xuống 10 số,  em đkis facebook bằng 11 số lâu rồi. Nếu em cứ để vậy, cũng k kết nối gmail. Khi bị hư đthoai, hay bị out nick ra khỏi đt thì nhập phần đăng nhập số nào,  có mất nick k vì số đt bị khác mà k sửa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.33576,
+         "id": "1139821",
+         "field_search": "question",
+         "question": "facebook của e e quên mật khẩu mà số điện thoại xác minh thì số đó e bị mất, gmail thì em dùng yahoo mà k nhớ mật khẩu nên k lấy lại được. bây giờ làm sao để lấy lại mk ạ??? giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.11432,
+         "id": "1160262",
+         "field_search": "question",
+         "question": "mình bị hack fb , sdt và gmail mình dùng lập fb đó đều k còn sử dụng nữa nên mình đã thử nhờ bạn bè tin cậy để dùng facebook recover , nhưng bị báo lỗi thử quá nhiều lần... giờ phải làm thế nào ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.654625,
+         "id": "1009445",
+         "field_search": "question",
+         "question": "Mn cho e hỏi là tại sao nick fb nó cứ yêu cầu là xác nhận ảnh xong rồi khoá luôn nick lại. E bị 2 lần rồi. Mỗi nick chỉ dùng đc khoảng mấy ngày là bị. Hay do điện thoại bị ls ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.03314,
+         "id": "1147702",
+         "field_search": "question",
+         "question": "Làm sao để xác nhận danh tính khi mất cả mail và số điện thoại trong facebook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.47564,
+         "id": "832928",
+         "field_search": "question",
+         "question": "Em bị như thế này phải làm sao bây giờ ad,em thử đổi mật khẩu,rồi nó gửi về điện thoại em 1 mã 6 số,em nhập vô thì Facebook nhập mật khẩu mới mà bạn muốn đổi,em nhập mật khẩu mới nhưng Facebook không chấp nhận bắt em chọn mật khẩu khác,em nhập mấy lần thì bị lỗi ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.34422,
+         "id": "804734",
+         "field_search": "question",
+         "question": "Mình vừa jeablack ios 9.1.2 xong. Để cài ảnh đại diện video facebook, mà lấy mấy nick của người khác đăng nhập trên đt mình thì đổi dc video đại diện, còn mỗi nick fb mình thì không hiện, nó chỉ hiện sắp có video đại diện như là chưa jeablack đó. Mình mò miết mà k hiểu sao mặc dù xóa cookies trên điện thoại rồi mà vẫn k dc. giờ lập nick fb mới thì tiếc quá, tại nick cũ xài mấy năm rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.19162,
+         "id": "1020017",
+         "field_search": "question",
+         "question": "Tài khoản facebook của mình đã gửi xác minh danh tính bằng cmnd thì phải đợi bao lâu mới lấy lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.57959,
+         "id": "945249",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng nhập nhanh trên facebook ạ. Em thấy là phải đăng nhập tài khoản ấy lần đầu tiên mới lưu đc nhưng mà em đã đăng nhập nhiều lần rồi thì có cách nào khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.436806,
+         "id": "1137970",
+         "field_search": "question",
+         "question": "Tại sao đổi số điện thoại trên ID rồi mà khi đăng nhập vẫn gởi mã xác minh đến số cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.15019,
+         "id": "758615",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em lập mail trên vi tính rồi! Và sau khi nhập mail trên iPhone thì không được thư đến em phải làm sao! Em làm đi làm lại mà vẫn không dùng được mail trên iPhone của em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.73871,
+         "id": "817646",
+         "field_search": "question",
+         "question": "Em có nhắn tin cho 1 tài khoản zalo bị khóa! Mà số điện thoại lập tài khoản ấy h đã đk dùng để lập tk zalo khác! Thì liệu nd tn e gửu cho tk bị khóa kia, tài khoản mới có đọc đk k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.54431,
+         "id": "1154582",
+         "field_search": "question",
+         "question": "dạ đt iphone em nahajp mk sai 5 lần giờ bị vô hiệu hóa không biết là có thể mở khóa đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.53074,
+         "id": "1161737",
+         "field_search": "question",
+         "question": "Khi tôi đăng nhập tài khoản Facebook trên điện thoại ,( được đăng ký bằng số điện thoại, và tôi chưa sử dụng tài khoản này trên bất cứ điện thoại nào khác ) thì hệ thống thông báo rằng :\" Chưa xác thực danh tính . Chúng tôi không thể xác thực danh tính của bạn. Vui lòng thử lại sau.\" Sự việc xuất hiện bất ngờ sau 1 ngày oi bức. Tôi chẳng thể làm gì tiếp theo, để có thể sử dụng tài khoản. Trong khi đó, tài khoản đăng ký bằng số sim của tôi . Vậy tôi phải làm gì ở trường hợp nay? Hi vọng nhận được sự hỗ trợ của các bạn. Chân thành cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.492577,
+         "id": "1153750",
+         "field_search": "question",
+         "question": "Tôi có mua sam sung j4+  ở tgdd . sau bị mất mật khẩu google . bây giờ reset lại máy thì máy đòi xác minh danh tính tài khoản google. nhưng tôi không nhớ mật khẩu google cũ đó nữa thì bây giờ phải lsao . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.088276,
+         "id": "1013295",
+         "field_search": "question",
+         "question": "Tgdd ơi cho em hỏi nếu điện thoại mà bị chai pin ( pin em để không cũng mau hết nữa ) thì có được bảo hành k ạ ? Tại em mua đt mới chưa được tháng nữa  mà bị chai pin rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.06282,
+         "id": "1160147",
+         "field_search": "question",
+         "question": "cho em hỏi ạ facebook của em đăng nhập trên điện thoại di động thì được còn đăng nhập tại các thiết bị khác như máy điện thoại khác hoặc máy tính thì lại không được là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.821716,
+         "id": "931231",
+         "field_search": "question",
+         "question": " Nit icloud bị khóa do nhập trên wes nhìu lần thì co thể đăng nhập vô máy bị activate lock để vô dao diện đc ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.81398,
+         "id": "1139718",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi , mình bị mất mk Fb xong mình xác nhận email mới bằng  xác minh danh tính đăng CMTND , có mail fb gửi về rồi mình lấy cái mã fb gửi về copy vào nó cứ  báo \"B ạn đã thử quá nhiều lần.Vui lòng thử lại sau\" giờ sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.78268,
+         "id": "1138446",
+         "field_search": "question",
+         "question": "Facebook của em bị người khác đổi mật khẩu. Em đã thao tác đổi lại mật khẩu, nhưng khi nhập mã xác nhận 6 số thì báo là bạn đã thay đổi quá nhiều lần, vui lòng thử lại sau. Đã 3 ngày rồi. XIn vui lòng giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.512466,
+         "id": "778782",
+         "field_search": "question",
+         "question": "Các anh ơi giúp em với : em bị mất iPhone và chuộc lại được lúc mất em có sử dụng tìm iPhone và để chế độ bị mất, bây giờ vào iCloud thì bị thông báo lấy mã xác minh có 6 số yêu cầu nhập mã xác minh này trên thiết bị khác để hoàn tất đang nhập, cảm ơn anh chị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.34986,
+         "id": "815568",
+         "field_search": "question",
+         "question": "Ad ơi lúc trước anh mình đăng kí icloud nhưng gõ nhầm yahoo.com thành yahoo.v nên giờ điện thoại bị vô hiệu hóa thì làm sai mở hả ad, ảnh cũng không nhớ chính xác câu trả lời bí mật nữa.Có cách nào để mở icloud k xin hướng dẫn giúp minh. Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.119297,
+         "id": "1006029",
+         "field_search": "question",
+         "question": "   Em đăng kí tài khoản id để đăng nhập appstore nhưng cứ đến bước xác minh email thì lại bị ntnVậy phải làm ntn bh ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.87069,
+         "id": "674147",
+         "field_search": "question",
+         "question": "Tài khoản facebook bị khóa nó kêu xác minh danh tính bằng cách sử dụng giấy tùy thân như CNND,...v..v.. Nhưng e hog biết làm theo cách này h phải làm sao. Có người nói chụp gữi cho nó chờ xác minh hơn 10 ngày rồi mà nó ko thông báo tài khoản cũng không mở khóa. Tính sao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.76928,
+         "id": "1023077",
+         "field_search": "question",
+         "question": "Mọi người ơi cho em hỏi máy em không hiểu làm sao camara sau thì bị vô hiệu hóa k dùng đc. Còn camara trước thì bị ngược trên dưới, mặc dù e đã đặt lại cài đặt rất nhiều lần nhưng vẫn k đc. Em k hiểu là làm sao mong mọi người giúp e với ạ!!!   :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.55152,
+         "id": "1162541",
+         "field_search": "question",
+         "question": "Nick facebook của e bị vô hiệu hóa nhưng khi e đang nhập bằng nick mới bằng sđt đấy thì hệ thống thông báo là :\" gần đây sđt bạn đang cố gắng xcs minh đã được sd để xác minh 1 tk khác . Vui lòng thử số khác \" làm sao h gt giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.33436,
+         "id": "756285",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em vào trang icloud.com để tìm iPhone thử xem có hiệu quả hay không nhưng ấn nhầm eraser iphone rồi xác minh cái gì nữa ấy, rồi máy cứ lên 30s rồi lại bị treo cái loading.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.014385,
+         "id": "1004967",
+         "field_search": "question",
+         "question": " Cho em hỏi sao em lập id apple mà tới chỗ xác minh email mà không được vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.625526,
+         "id": "902458",
+         "field_search": "question",
+         "question": "Khi đăng nhập Instagram yêu cầu xác minh tài khoản, xác minh xong nó ra BAD REQUEST 400 không vào được , cả điện thoại lẫn laptop  😭Trong khi tài khoản IG trên vẫn hoạt động bình thường , không bị ẩn cũng không bị khóa trên các trang mạng Mọi người giúp em với ạ !!!Mọi😱",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.25235,
+         "id": "873506",
+         "field_search": "question",
+         "question": "tôi không vào được icloud do không nhớ mật khẩu, sau khi không nhớ tôi ấn mấy lần mật khẩu nhưng không đúng, máy báo tài khoản của tôi bị khóa. sau đó tôi vào máy tính đặt lại mật khẩu gmail và vào lại. nhung máy chỉ xác nhận là tên ID Apple đúng mà không vào được icloud, máy chủ bảo đang xác lập lại, có cách gi bảo tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.156055,
+         "id": "1153816",
+         "field_search": "question",
+         "question": "Tài khoản facebook bị khóa nó kêu xác minh danh tính bằng cách sử dụng giấy tùy thân như hinh anh ko bit xac minh sai jgo lam sao day Nhưng e hog biết làm theo cách này h phải làm sao. Có người nói chụp gữi cho nó chờ xác minh hơn 10 ngày rồi mà nó ko thông báo tài khoản cũng không mở khóa. Tính sao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.136047,
+         "id": "1147446",
+         "field_search": "question",
+         "question": " Làm sao để chuyển số di động khi facebook bắt buộc xác nhận danh tính ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.847515,
+         "id": "816316",
+         "field_search": "question",
+         "question": " Cho em hỏi em dùng 1 số điện thoại lắp 2 Gmail để lập 2 fb được không ạ em làm rồi mà sợ nó bị gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.773533,
+         "id": "862335",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em bị mất mk giới hạn mà em vào 11 lần không được có cách nào lấy lại mã giới hạn mà k cần dùng tới máy tính k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.680054,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.521008,
+         "id": "1002651",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi tại sao mình đăng nhập hết rồi mà đến lúc cuối mã xác minh lại bị thế nà.trả lời giúp mìh  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.515163,
+         "id": "1166852",
+         "field_search": "question",
+         "question": "Cho e hỏi fb e bị như này. Và e xác minh bằng sđt và k hề nhận đc tn gửi mã xác minh về đt   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.24867,
+         "id": "822738",
+         "field_search": "question",
+         "question": "Em mua điện thoại Mobell nova i6 dùng được 2 tháng mà điện thoai em bị mất danh bạ rồi tự có lại phần mềm facebook, với messages cũng k vào được là sao ạ . Mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.181366,
+         "id": "1160255",
+         "field_search": "question",
+         "question": "Em chào các anh chị nhé. Hôm qua em có reset lại điện thoại của em. Sau bước nhập tài khoản icloud. Có yêu cầu mã xác thực hai yếu tố. Em không nhận được mã này. Sau đó ấn gửi lại qua sms. Cũng không được. Nhấn mấy lần. Rồi chuyển qua gọi điện. củng ko nhận đc cuộc gọi nào.  Giờ em phải làm ntn để đăng nhập lại ạ. Sdt của mọi người em để hết trên icloud. Giờ ko lấy ra được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.179016,
+         "id": "943046",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính laptop win 7 và em muốn hỏi là trong file explore của máy tính khi kick chuột phải vào file thì thấy có chức năng send to để chuyển nhanh tập tin đến file nào đó nhưng em không biết là làm sao để thêm 1 thư mục mà em hay chuyển tệp đến thư mục đó vào trong danh sách của chức năng send to ạ , em đã làm theo nhiều cách hướng dẫn trên google nhưng đều không được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.02436,
+         "id": "1009589",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Tối hqua e có đặt onl 1 thẻ nhớ 16g. Tổng đài TGDĐ cũng đã gửi mã xác nhận và e cũng đã nhập vào khung r. Và TGDĐ trả lời là sẽ có nhân viên gọi điện hoặc có tin nhắn gửi lại để xác nhận 1 lần nữa. Nhưng hôm qua giờ k thấy gì. Tại e tính làm sớm để thứ 7 tuần này lại lấy cho tiện. Mong qtv giải đáp giùm e ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.01851,
+         "id": "871331",
+         "field_search": "question",
+         "question": "ad cho em hỏi là cứ mỗi lần đăng nhập icloud hay app thì \" không thể xác minh \" -------- \" Đã có lỗi khi kết nối vối máy chủ ID Apple \" chỉ giúp em vì mới biết sử dụng IP mặc dù e đã lên yahoo hay apple xác minh nhưng vẫn khộng hiệu quả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.515236,
+         "id": "828970",
+         "field_search": "question",
+         "question": "Hôm qua Em xác minh tài khoản của em roi email xác minh đã được dang ki rồi nhưng họ yêu cầu là vào đường liên kết trong Email xác minh để kết thúc việc tạo ID Apple của bạn em gửi lại email xác nhận rồi nhưng họ lại ghi là email xác minh của bạn sẽ được gửi lạinhưng không được co the giúp em duoc khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.47471,
+         "id": "871809",
+         "field_search": "question",
+         "question": "Em gửi giấy tờ tùy thân cho fb để xác nhận mà đợi hoài không thấy trả lời mail.e làm đi làm lại cỡ 7 lần rồi.tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.16411,
+         "id": "939234",
+         "field_search": "question",
+         "question": "khi lập tài khoản ở iphone tôi đã ghi một gmail để xác minh nhưng tôi lại ghi sai.vậy tôi muốn thay đổi gmail khác để xác minh lại thì làm ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.105705,
+         "id": "808375",
+         "field_search": "question",
+         "question": "Em đăng nhập facebook bằng máy tính thì phải nhập mật khẩu 2 lần mới vào được, còn trên điện thoại thì báo lỗi không thể đăng nhập, nhưng đăng nhập bằng ních khác thì vẫn vào bình thường. Em đã thử xóa ứng dụng và tải lại rồi vẫn không được. Cho em hỏi làm thế nào để khôi phục lại bình thường ạ. Em cảm ơnđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.098984,
+         "id": "1135210",
+         "field_search": "question",
+         "question": "Mình dùng Sony Vaio, có 1 lần máy tính mình màu nó chuyển chỗ xanh chỗ đỏ, mình khởi động lại 2-3 lần thì nó hết, sau đó mình nâng lên win 10 xài đc 1 tháng nó lại bị tình trạng trên, mình khởi động lại nhiều lần nhưng nó vẫn bị vậy, mình mới quay lại win 7 nhưng vẫn ko hết. Mình phải làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.060715,
+         "id": "840123",
+         "field_search": "question",
+         "question": "Làm ơn cho mình hỏi mình mua may ở cửa hàng họ lập cho một tài khoản iclou nhưng bị lộ mk mình có lập một tài khoản mới nhưng cứ có Thông bao tư chưa dã xác nhận phải vào chỗ nào để xác nhận an mà cái tk mới đăng ký hoàn toàn mới ạ cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.047653,
+         "id": "1003073",
+         "field_search": "question",
+         "question": " Nhập mã xác minh vào thì thế này . Đã thử lại nhìn lần nhưng không đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.606373,
+         "id": "780944",
+         "field_search": "question",
+         "question": "Khi tôi cài đặt ios 9.2.1 trong khi trả lời câu hỏi xác minh id apple thì sai hai lần lúc đó tôi huỷ xác minh, làm thế có bị hư gì không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.31693,
+         "id": "1166808",
+         "field_search": "question",
+         "question": "Xin hỏi điện thoại em mới mua IPhone 6s Plus Sau khi sạc pin lần đầu lần sau cắm sạc 10% cắm lên 11% rồi 12% tuột xuống 11% rồi tăng lại có sao không ạ ! Có cần đến Trung tâm để bảo hành diện thoại không hay do nguồn điện !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.209095,
+         "id": "767381",
+         "field_search": "question",
+         "question": "Chào Admin mình lập ID Apple iPhone nhưng nhập lầm gmail của một người khác. giờ Apple đòi xác minh trong gmail mới được dùng nhưng gmail đó không phải của mình nên giờ không xác minh được. ad có thể giúp mình để thay bằng gmail khác có được không. cảm ơn admin nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.054543,
+         "id": "1137092",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone 6 em có icloud nhưng khi nhập và nhập mã xác nhận 6 số từ điện thoại vẫn không được.Sau khi làm đủ các bước xác nhận số đt thì nó lại trả lại bước đầu và làm nhiều lần vẫn bị như vậy.Vậy có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.873062,
+         "id": "1168197",
+         "field_search": "question",
+         "question": "Làm sao để xác minh icloud vậy? Hệ thống thông báo là đã gửi nhiều mã xác minh nhưng minh không nhận được cái nào!!!! Khi mình gửi số điện thoại đã đăng kí icloud rồi mà nói là số điện thoại này không đúng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.8469,
+         "id": "915430",
+         "field_search": "question",
+         "question": "em lập tài khoản gmail 1 tháng trước làm id apple song rùi nhưng bây giờ mới xác nhận ko dk ad à . nó hiện lên Không Thể Xác Minh Địa Chỉ Chúng tôi rất tiếc là đã không thể xác minh liên kết bạn đang sử dụng để truy cập trang này. --> bây h em phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.630974,
+         "id": "1138529",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em có một gmail trên thiết bị android này và có đồng bộ hóa danh bạ với thiết bị này và e đã lỡ đăng nhập gmail của chính nó lên một thiết bị android khác và 2 điện thoại này có chung tài khoản gmail và cùng chung danh bạ vậy em xóa tài khoản thoát gmail của đt này đt kia có bị mất tin nhắn hay liên hệ gần đây cũng như danh bạ ko ạ. Tài vì khi e bất vào phần xóa tài khoản thì nó hiện ra mục lưu ý nếu xóa sẽ bị mất liên hệ danh bạ tin nhắn hình ảnh. Mông giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.533066,
+         "id": "838237",
+         "field_search": "question",
+         "question": "zalo trên điện thoại mình báo có một máy tính khác đang đăng nhập vào tk zalo này của mình mà mình k hiểu vì sao, trong khi đt chỉ mình mình sử dụng, mà cũng k nhận được tin nhắn báo mật khẩu để sử dụng trên máy tính. Thế là sao? Mình muốn hỏi thêm là chưa bao giờ mình đăng nhập zalo trên máy tính, vậy lần đăng nhập đầu tiên trên máy tính của người đó liệu có xem được toàn bộ các cuộc trò chuyện của mình trước đó không? Mình đang rất lo, vì toàn những thông tin quan trọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.518257,
+         "id": "1162247",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Hiện tại facebook của mình chỉ đăng nhập được trên ipad mà không đăng nhập được trên các thiết bị khác. Khi đăng nhập vào các thiết bị khác facebook yêu cầu mã xác nhận 2 yếu tố nhưng mình không nhận được mã đó. Cho mình xin hướng giải quyết với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.480114,
+         "id": "1020264",
+         "field_search": "question",
+         "question": "Máy của em là Ss galaxy J1 mini, tối hôm qua em có reset máy. Đến lúc mở lên thì phải qua bước xác minh tài khoản Google đã đồng bộ hóa trước đó, em đã nhập tài khoản vào rồi nhưng vẫn k đc (e đã nhập các tài khoản khác của e nhưng nó vẫn quay về bước xác minh). Máy này bố em mua về cho em và đến lúc đưa cho em thì máy đã sử dụng đc. Liệu có phải là nhập tài khoản của bố em mới được hay vì lí do nào khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.444283,
+         "id": "1144479",
+         "field_search": "question",
+         "question": "Fb e bị báo cáo mạo danh và họ yêu cầu đưa giấy tờ để xác nhận nhầm lẫn nhưng giờ vẫn ko lấy lại đc mà nick báo cáo lại là một nick khác của e nhưng e đâu báo cáo đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.31417,
+         "id": "756171",
+         "field_search": "question",
+         "question": "Anh cho em hỏi là tại sao em nhập mật khẩu vao ilcoud rồi mà vẫn không được. Có phải là do em nhập sai nhiều lần nên bị vô hiệu hóa không ạ. Nếu vậy thì em phải làm sao ạ. Cảm ơn anh nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.18941,
+         "id": "1007963",
+         "field_search": "question",
+         "question": "Em đang dùng wiko ridge fab 4g xem video trên youtube hay nhaccuatui đều bị lỗi tiếng trước hình sau, em khởi động lại máy 2,3 lần rồi nhưng vẫn vậy mọi người tư vấn giúp em với!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.17145,
+         "id": "1169099",
+         "field_search": "question",
+         "question": "xin hỗ trợ mình dùng điện thoại samsung galaxy J6+ mà quên mật khẩu mở khóa màn hình mình đã mở khôi phục cài đặt gốc nhưng bắt buột xác nhận danh tính thì minh không có mật khẩu và tài khoản google đăng nhập. máy mình mua lại nên k biết. giờ mong dc hỗ trợ cách mở khóa hoặc phần mềm mở khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.09581,
+         "id": "1141852",
+         "field_search": "question",
+         "question": "mình quên mk fb nhưng yêu cầu mã xác nhận nhiều lần giờ không vào đc nữa, vào nó hiện yêu cầu mã nhiều lần, admin giúp minh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.080822,
+         "id": "1022995",
+         "field_search": "question",
+         "question": "Em dùng samsung j2 khi sạc qua đêm thì thấy điện thoại sập nguồn bật ko lên phải tháo pin bật lại mới được.em bị 2 lần như vậy rồi xin giup em cách khác phụn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.97737,
+         "id": "990716",
+         "field_search": "question",
+         "question": "ad cho em hỏi, lúc đầu mới đăng nhập zalo trên máy tính thì điện thoại sẽ nhận thông báo, nếu em ko đăng xuất zalo trên máy tính qua 1 thời gian khởi động máy tính thì đt có nhận lại thông báo ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.943268,
+         "id": "1139985",
+         "field_search": "question",
+         "question": "Em bị mất một cái đt oppo a37 mà em không đăng nhập tài khoản gmail trên điện thoại :((( thì làm cách nào định vị được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.891224,
+         "id": "1158751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình sài s6 android 7.0 mà nay coppy danh bạ từ máy sang sim để đưa vào 1 máy window phone khác ko đc, chỉ có 2 mục \"nhập file vcar từ bộ nhớ thiết bị\" và \"xuất danh bạ từ danh bạ trên thiết bị của bạn sang bộ nhớ thiết bị vcar\", đã thử 2 mục này và vẫn ko có chỗ nào để nhập vào sim. Toàn lưu vào đt hoặc mail. Mong add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.764606,
+         "id": "830836",
+         "field_search": "question",
+         "question": "ad cho em hỏi em tải game trên máy tính asus . vì em mới mua máy . máy của nhật . em tải game đột kích về rồi nhưng khi tải xong thì vào k đc . xóa đi tải lại 2 lần mà vẫn vậy ạ . ad cho em hỏi có cách gì khắc phục k ạ , hay là máy k thể tải đc game ram4G bộ nhớ 500G win10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.69004,
+         "id": "898308",
+         "field_search": "question",
+         "question": "xin chào em đang dùng máy tính win 7 và em mới tải giả lập ios ipadian về để chơi pokemon go nhưng không biết làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.61597,
+         "id": "807709",
+         "field_search": "question",
+         "question": "cho em hỏi máy dell em bị tắt đột ngột sau đó khởi động lại thì bị tắt ngay lập tức. mấy ngày hôm nay thì không bị thế nữa nhưng lại xuất hiện một vấn đề là khi cắm sạc dùng trực tiếp thì mà hình hay bị nhấp và nhanh chuyển vào chế độ ngủ. có 1 lần máy chuyển vào chế độ ngủ em bật lại thì màn hình vẫn lên nhưng bị tối lại( không tối hẳn) thế là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.60402,
+         "id": "1164159",
+         "field_search": "question",
+         "question": "Điện thoại em tải game pubg mobile về mà chơi được lần đầu còn lần sau vào lại không được là bị gì vậy..em đang dùng oppo f11",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.57749,
+         "id": "881238",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với, fb của em vô thì rất bình thường nhưng chỉ có vô mess thì k đc, tin nhắn k nhận đc với k thấy và k gửi đc tin nhắn kể cả trên máy tính hay điện thoại, còn em vô 1 cái nick fb phụ của em thì vẫn bình thường ạ v là sao mong ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.51278,
+         "id": "922676",
+         "field_search": "question",
+         "question": "Tại sao không thể đăng nhập zalo, facebook trên điện thoại của em. Trong khi đó có thể đăng nhập trên một thiết bị khác ạ. Xin giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.488155,
+         "id": "1168541",
+         "field_search": "question",
+         "question": "Em có một vấn đề với việc nhận mã đăng nhập Facebook ạ , em nhấn gửi mã để xác thực bằng 2 yếu tố trên Facebook nhưng lại không nhận được mã xác nhận , ad có thể giúp em không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

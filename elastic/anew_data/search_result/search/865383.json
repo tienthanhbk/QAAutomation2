@@ -1,0 +1,801 @@
+{
+   "id_query": "865383",
+   "total": 32736,
+   "total_current": 100,
+   "max_score": 130.26251,
+   "origin_question": "restore ip4 fw 7.1.2 sau khi chạy. máy khởi động lại và hiện vạch trắng dưới logo apple. những vạch trắng chạy quá lâu. giờ em phải làm sao. có nên rút cap không",
+   "hits": [
+      {
+         "score": 41.596806,
+         "id": "759851",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là máy iPhone 4 iOS 8.1.3 em restore trực tiếp trên máy, thì máy hiện quả táo và có vạch trắng ỡ dưới? Ad cho em hỏi có phải máy bị treo và cách khắc phục ra sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.163944,
+         "id": "753581",
+         "field_search": "question",
+         "question": "Cho em hỏi là em làm rơi iPhone xuống đất nhặt lên khởi dộng lại nhưng máy chỉ hiện vạch màu trắng như kiểu bị nhiễu màn hình vậy ạ . Cho em hỏi là máy bị hỏng cáp màn hình hay sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.253109,
+         "id": "771658",
+         "field_search": "question",
+         "question": " Ad cho em hỏi với ạ, em dùng iPhone chạy iOS 7.1.2 bây giờ em muốn Restore thì có còn chạy 7.1.2 nữa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.223085,
+         "id": "1004862",
+         "field_search": "question",
+         "question": "CHo em hỏi. Em dùng oppo F1s mới mua được 2 tháng. Nhưng gần 1 tuần nay nó hay tự khởi động lại.và đôi khi có vạch màu xanh chạy giữ màn hình sau đó 2 sim đều mất mạng và có mạng lại sau đó vài giây...lõi này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.859701,
+         "id": "871543",
+         "field_search": "question",
+         "question": "cho em hỏi: khi em cập nhật phần mềm thì messenger nó không hoạt động nữa...click vào nó thì hiện lên cái màn hình trắng và lâu lâu thì nháy 1 cái nhưng sau đó ại trở lại như ban đầu thì e phải làm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.88379,
+         "id": "761837",
+         "field_search": "question",
+         "question": " Tại sao máy Sony M4 khởi động lại rất lâu mà không lên nó cứ chạy màn hình khởi động. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.505306,
+         "id": "1005486",
+         "field_search": "question",
+         "question": "Điện thoại của em đang dùng thì máy báo Hệ thống đã dừng lại nên em tắt nguồn rồi khởi động lại. Nhưng khi khởi động thì máy đứng yên ở chữ ASUS đang chạy chứ không load tiếp, em phải làm sao ạ? Em hiện đang sử dụng zenfone c ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.480171,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.112972,
+         "id": "1153003",
+         "field_search": "question",
+         "question": "Cho e hỏi em xài iphone 5s sau khi đặt lại máy thì không thể khởi động lại máy được. Đăng nhập id apple toàn hiện không thể đăng nhập.giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.10019,
+         "id": "744710",
+         "field_search": "question",
+         "question": "laptop em sao tắt và khởi động lâu..khi khởi động nó để we couldn't complete the updates.undoing changes.don't turn off your compurter và chạy phần trăm hoài mà không lên thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.93888,
+         "id": "1009712",
+         "field_search": "question",
+         "question": "ad cho e hỏi vs ạ... e dùng máy sony xperia xa ultra lên androi 7.0 thì nó xuất hiện vạch đỏ phía bên phải màn hình... tắt máy khởi động lại thì nó mất đi... xog rồi một thời gian hiện lại.... vậy làm thế nào để tắt cái vạch màu đỏ đó đi ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.678974,
+         "id": "807151",
+         "field_search": "question",
+         "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.668715,
+         "id": "988586",
+         "field_search": "question",
+         "question": "wifi trên iphone 6 đang vào bình thường, tự nhiên lại bị mờ không xem được và cũng không vào được mục cài đặt, sau đó máy bị sập nguồn, có lúc hiện màu xanh, có lúc hiện màn hình màu trắng có hình ảnh táo khuyết, lại phải khởi động lại máy. Như thế máy bị làm sao và có cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.414774,
+         "id": "889924",
+         "field_search": "question",
+         "question": " laptop em khởi động lên cứ chạy Restart hoài không mở máy được phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.3911,
+         "id": "755321",
+         "field_search": "question",
+         "question": "Laptop của em sau khi nhấn nút power thì hiện biểu tượng của hãng sản suất rồi không chạy khởi động nữa không vào được màn hình chính. Vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.246746,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.054434,
+         "id": "1138576",
+         "field_search": "question",
+         "question": "Mình muốn hỏi máy mình oppo a3s trc xem phim bật toàn màn hình xem phim nó k có cái thanh trắng bên dưới h xem phim bật toàn màn hình quay ngang sang nó cứ hiện cái thanh trắng bên dưới cài lại làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.033918,
+         "id": "1002023",
+         "field_search": "question",
+         "question": "e đang xài zenfone go, sau khi cập nhật hệ thống thì máy cứ khởi động lại đến khi thấy logo asus thì lại tắt và khởi động lại mãi như vậy là bị j và làm sao khắc phục vậy mấy ac ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.909885,
+         "id": "1143284",
+         "field_search": "question",
+         "question": "Mình có máy ipad air 2 và đang chạy ios 11.3 đã jailbrek máy. Hôm quá có xoá nhầm các tweak gì đó và sau khi respring lại máy thì nó hiện ở màn hình xin chào. Không thể nào vào được bên trong. Khi restore bằng itunes thì báo phải tắt find my iphone. Và mình đã xoá bỏ hết bằng máy tính: icloud.com/#findXin mọi ngưởi giúp đở làm sao restore lại ipad mà vẫn ở ios cũ với. Link quay lại video:",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.785172,
+         "id": "828749",
+         "field_search": "question",
+         "question": "Chào ad ad, Mình cài đặt lại iphone, đã hơn 24 tiếng đồng hồ mà đăng nhập ID và Ap store thì nó chạy lâu và kết quả nó báo : Không thể xác minh, lỗi kết nối với máy chủ ID Apple, giờ phải làm sao vậy ad. Mình cũng xem lại múi giờ, và còn tắt máy khởi động rất nhiều lần. Ad có thể hướng dẫn giúp mình được không. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.779623,
+         "id": "926002",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.76901,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.768337,
+         "id": "749588",
+         "field_search": "question",
+         "question": " Mình đang xài iOS 7.1.2, nhưng máy chạy chậm quá, giờ muốn hạ xuống iOS 6.1 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.746552,
+         "id": "1137730",
+         "field_search": "question",
+         "question": "Máy e samsung J7, khi tắt máy thì nó tự động tắt nguồn và phải khởi động lâu mới lên, em phải làm sao !?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.586164,
+         "id": "1153789",
+         "field_search": "question",
+         "question": "Laptop hiện ra màn hình xanh nhưng chạy hết 100 thì khởi động lại máy và chạy bình thường là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.460354,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.43506,
+         "id": "1155786",
+         "field_search": "question",
+         "question": "Laptop Asus chạy restarting mà k khởi động máy tính lên thì phải làm sao???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.138779,
+         "id": "780660",
+         "field_search": "question",
+         "question": " Laptop của em hiện đang bị virus nên em muốn chạy chương trình lại cho máy thi phải làm sao ạ máy hp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.777899,
+         "id": "956221",
+         "field_search": "question",
+         "question": "laptop chạy 100% có hại cho máy ko? lâu lâu tôi phải chạy chương trình làm video khoảng 10-15 phút thôi nhưng khi chạy thì lúc nào cpu cũng 100%, chạy vậy có hại máy ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.717314,
+         "id": "999679",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi điện thoại mobiistar lai 504c khi chạy ứng dụng play trò chơi chỉ hiện nền trắng vậy admin!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.686375,
+         "id": "1021427",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em sau khi chạy lại win giờ dao vẫn không đánh chữ có dấu được ạ? Êm có cài đặt unikey rồi những vẫn k đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.344643,
+         "id": "928434",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ restore lại máy không ạ ? , hay chỉ bảo hành máy mua ở đây thôi ạ. máy ip 5 của em sau khi tải phần mềm B612 vveef thì xuất hiện 1 hàng ngang ô vuông trắng, nên màn hình chỗ đõ bị liệt cảm ứng, còn các chỗ khác vẫn dùng bt ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.248127,
+         "id": "814078",
+         "field_search": "question",
+         "question": "Tôi dùng di động Asus khi vào zalo đọc báo cứ bị thông báo dọa máy của bạn chạy chậm và bắt cài theo hướng dẫn tắt đi khởi động lại nó lại xuất hiện .đành phải bỏ zalo tôi rất bức sức vậy hướng dẫn cho biết phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.218884,
+         "id": "1001373",
+         "field_search": "question",
+         "question": "Máy của mình Arbuts mình tự tắt nguồn xong mình khởi động thì màn hình trắng và có chữ Arbuts",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.216974,
+         "id": "871242",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, ứng dụng facebook và messages của em đang xài mà bỗng dưng thoát ra ngoài rồi em vào lại mãi không được, nó trắng bóc à, em đợi miết cũng không được, gỡ đi cài lại mấy lần cũng không được, chạy lại chương trình xoá hết cũng không được luôn, giờ em phải làm sao đây ạ ??? hichic",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.0601,
+         "id": "1155057",
+         "field_search": "question",
+         "question": "Máy Sony Xperia Z3 của mình tự nhiên khởi động lại rồi cứ hiện logo là lại reset tiếp là vì sao và có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.058144,
+         "id": "745025",
+         "field_search": "question",
+         "question": "Admin cho hỏi e chạy lại hết chương trình máy (iphone 5) mà sao chạy gần 3 tiếng.. Giở điện thoại thấy màn hình trắng với quả táo đen ở giữa. Là sao ad ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.967701,
+         "id": "789212",
+         "field_search": "question",
+         "question": "Hiện máy iphone 6 của mình bị đơ, mình đã đặt lại cài đặt nhưng giờ nó chỉ hiện lên màn hình trắng khởi động với trái táo suốt. Vậy máy mình đang bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.86969,
+         "id": "808101",
+         "field_search": "question",
+         "question": "laptop em mới cài win 10, em thấy máy chạy chậm em muốn chạy lại chuong trình rồi mới cai lại win 10 dc ko?sau khi chạy lại máy chạy có nhanh hơn không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.786535,
+         "id": "1153165",
+         "field_search": "question",
+         "question": "laptop của em bị vạch ngang như này trong messenger thì có phải do lỗi của máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.775085,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.767866,
+         "id": "784346",
+         "field_search": "question",
+         "question": "cho mình hỏi là sao ip6s của mình khi sạc đến 98% thì đợi mãi mà không đầy 100%.sau đó vì chờ lâu quá mình rút sạc ra thì pin lại hiện 100%.máy mình mới mua nên không thể pin hỏng nhanh vậy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.74171,
+         "id": "778086",
+         "field_search": "question",
+         "question": "Máy tính windows 8 khi khởi động hiện lên updating your system rất lâu không xong thì phải làm sao ạ?cứ hiện lên 1%,có cách nào làm mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.72444,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.718985,
+         "id": "768669",
+         "field_search": "question",
+         "question": "Sau khi mình reset lại máy thì iPhone không không kết nối được mạng ( trong wifi không hiện lên SSID tên wifi ) mình đã chạy lại fimrware, restore lại máy resetting lại máy nhưng vẫn không được , mình cũng reset lại network đến giờ vào không thấy SSID và không kết nối được wifi, mong ad giúp .Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.65319,
+         "id": "814038",
+         "field_search": "question",
+         "question": "iPad em đang dùng bỗng dưng tắt nguồn,sau đó em đè thử nút Home với Lock,máy hiện logo apple rồi tắt rồi lại hiện rồi tắt,chừng 10' thì máy tắt nguồn hẳn,không mở lên được,em phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.542206,
+         "id": "1013602",
+         "field_search": "question",
+         "question": "Mình đang sử dụng đt oppo joy 3 ( màu trắng) máy vẫn còn chạy tốt nhưng do bộ nhớ trong có 2GB yeu quá mình sử dụng không được. Mình muốn đổi máy khác có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.515999,
+         "id": "831477",
+         "field_search": "question",
+         "question": "em xài iPhone 4 lâu lâu có hiện tượng bị sập nguồn, mở lên lại thì không bắt được wifi nữa phải khởi động lại mới bình thường được, cho em hỏi hiện tượng đó là gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.434984,
+         "id": "790271",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em bị treo táo nhưng khi restore lại máy được 70% thì nó thông báo lỗi 3194, vậy giờ em phải làm sao để restore lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.402544,
+         "id": "913851",
+         "field_search": "question",
+         "question": "Hiện tại e đang dùng máy iPhone 5 32g . Máy đang chạy IOS 7.1.2 và đã jailbreak .vì lý do ios quá thấp không tải được một số ứng dụng trên app store nên e muốn lên ios 10 ạ. Anh,chị cho e hỏi e nên làm như thế nào cho hợp lý ạ? Và nếu làm thì phải làm như thế nào ạ? E xin chân thành cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.384895,
+         "id": "1007715",
+         "field_search": "question",
+         "question": "Điện thoại bi sọc trắng ,để lâu có sao không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.082506,
+         "id": "790838",
+         "field_search": "question",
+         "question": " Bên thế giới đi động có hỗ trợ chạy lại chương trình cho ip4 ko vậy ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.041649,
+         "id": "998729",
+         "field_search": "question",
+         "question": "Em đang dùng sámung j5 2016 máy bị đơ và tự khởi động khi cắm tai nghe sau khi rút tai nghe ra vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.97941,
+         "id": "792688",
+         "field_search": "question",
+         "question": "Em xài ios 9.2.1 nhưng sao em tải appcola nó chỉ hiện lên trang màu trắng th chứ ko tải về được bây giờ em phải làm s??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.971022,
+         "id": "918047",
+         "field_search": "question",
+         "question": "Xin chao thegioididong!!!em sài iPhone 4 (7.1.2) em muốn hạ xuống IOS 6x nhưng không lưu được shsh cho fw ios 6x.thegioididong có thể up cho em xin shsh ios 6x cho ip4 không ạ.Thanks!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.636696,
+         "id": "767697",
+         "field_search": "question",
+         "question": " iPhone 5s lock máy ko khởi động được có icloud. Giờ phải làm thế nào để đăng xuất và khởi động lại máy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.60231,
+         "id": "939772",
+         "field_search": "question",
+         "question": "Anh mình mua lại 1 chiếc iphone 7 plus nhưng sau khi mua thì chủ cũ đã restore và ko có apple ID thì mình phải làm sao bạn mình liên lạc lại thì chũ cũ không giúp anh mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.564997,
+         "id": "845702",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi là máy em chạy win 8.1 mua tại thegioididong em cài phần mềm shadow defen để đóng băng. Hôm qua em gỡ đóng băng khởi động máy lại thì thấy nó chạy rất nhanh khoảng 18 giây là vào được màn hình lock screen (từ lúc mua tới giờ là khoảng 1 phút hơn) sau khi nhập pass xong thì nó hiện đã khoá (tại em cài tiếng việt) em nhập lại pass rồi nó đứng khựng luôn ở màn hình welcome không thao tác gì được em phải tắt nóng bằng nút power khởi động lại thì bình thường. Vậy lỗi của em là sao ạ? có ảnh hưởng gì máy không? tại máy em cài nhiều chương trình phải mua nên không thể cài lại win được nên mong ad chỉ cho em cách fix ạ em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.50668,
+         "id": "1007829",
+         "field_search": "question",
+         "question": "xin chào các QTV cho em là máy em lenovo A6000 máy đang sài bình thường thì bị tắt nguồn và tự khởi động lại thì bị treo logo không thể vào màn  hình chính được.Vậy em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.499096,
+         "id": "738818",
+         "field_search": "question",
+         "question": "Cho em hỏi..,e dùng máy ip4 mà thời gian gần đây máy hay bị đơ..e có nên chạy lại chương trình cho máy hôg ạ...e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.423811,
+         "id": "1146461",
+         "field_search": "question",
+         "question": "Mình mới mua Asus s510 ở TGDD nhưng khi về lại có hiện tượng bắt update win 10 liên tục và rất lâu, máy có hiện tượng khởi động lâu và giật lag",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.404015,
+         "id": "992688",
+         "field_search": "question",
+         "question": "Em đang dùng đt iphon5s... màn hinh may e xuất hiện điểm trắng và khi đang chơi tự động sập nguôn khi pin còn 50.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.342278,
+         "id": "1000171",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy Tab A6. Nó bị chạy chế độ ngủ đông do ứng dụng CM Lite tự khởi động. Giờ máy em bị đơ luôn, tắt nguồn cũng không được. Em nên làm gì đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.33766,
+         "id": "886436",
+         "field_search": "question",
+         "question": " Thế dưới 12 triệu không có laptop nào màu trắng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.314089,
+         "id": "778549",
+         "field_search": "question",
+         "question": "Cho em hỏi, hiện em đang dùng Asus Transformer Book T100 do lỗi Windows nên dùng không được, bây giờ em chạy lại Widows thì nên dùng Windows gì, và bản quyền ra sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.289198,
+         "id": "922132",
+         "field_search": "question",
+         "question": "Cho em hỏi sau khi chạy lại chương trình thì máy em mất cydia,có ai biết vì sao không ạ?làm thế nào cài đặt lại?(em dùng ip4s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.25165,
+         "id": "1162168",
+         "field_search": "question",
+         "question": "Em xài điện thoại j7 plus ạ. Sau khi cập nhật lên phiên bản mới nhất cho điện thoại là điện thoại hay tự khởi động lại thất thường, và hay bị dừng ứng dụng. Em đã thử nhiều cách như khôi phục cài đặt gốc, chạy lại chương trình từ trung tâm bảo hành nhưng vẫn bị. Cho em hỏi giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.226591,
+         "id": "1011957",
+         "field_search": "question",
+         "question": "hết thời gian bảo hành đưa máy đến thegioididong sua tính phi như thế nào ạ? minh có máy sony bi hỏng khởi động không lên chỉ hiện logo phải làm sao ạ`",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.219809,
+         "id": "771020",
+         "field_search": "question",
+         "question": "Em dùng Asus K55A cài win7. Máy của em có hiện tượng là khi không bật máy mà cắm sạc là máy tính cứ khởi động đi khởi động lại mãi cho tới khi rút sạc ( Chưa vào được win đâu ạ). Em rất mong được sự tư vấn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.20506,
+         "id": "1141951",
+         "field_search": "question",
+         "question": "Sau khi tôi chạy lại chương trình của điện thoại , thì khi tải Instagram thì lại là thiểt bị không tương thích , vậy giờ tôi phải làm sao để tải app về máy thế shop ? ( Tôi dùng dòng Android )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.194115,
+         "id": "1157916",
+         "field_search": "question",
+         "question": "Cho e hỏi, đt oppo f5 của em thường phần % pin của đt còn nhiều thi màu xanh, còn dưới 20% thì màu đỏ, nhưng giờ hiển thị % pin là màu trắng, e làm sau để cai đặt lại như cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.177406,
+         "id": "1153010",
+         "field_search": "question",
+         "question": "Ip 5s của em sau khi đặt lại máy ko thể khởi động lại máy được toàn hiện không thể đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.164047,
+         "id": "1005993",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại samsung galaxy note4 cách đây ko lâu đt bị vào nước sau khi sấy khô sử dụng đc vài bữa thì nó bị đơ hay đứng máy và tự khởi động lại cho e hỏi giờ phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.120985,
+         "id": "1014692",
+         "field_search": "question",
+         "question": "khi nâng cấp anderoid của oppo neo 7 thì máy mình chạy hoài không được nó cứ hiện  lên logo của oppo làm thế nào để làm nó bình thường lại được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.111217,
+         "id": "779833",
+         "field_search": "question",
+         "question": "Điện thoại iphone 5 của mình đi mang ra quán chạy lại phầm mềm chạy xong giờ mình quên tài khoản ID giờ phải làm như thế nào? Nếu sửa có phải động vào phần cứng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.094961,
+         "id": "1022228",
+         "field_search": "question",
+         "question": "Admin ơi, vì máy chậm nên em có xem hướng dẫn là reboot system gì đó để máy về lúc mới như sản xuất. Máy s3 của e cũng cũ nên chạy chậm. E làm như trong bài có chỉ thì bây h nó lại hiện cái thôg tin che màn hình  và khi tắt màn hình bật lại thì nó chạy vô màn hình chính =>> màn hình khóa không hoạt động. Làm ơn giúp em với huhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.08713,
+         "id": "916051",
+         "field_search": "question",
+         "question": " Máy tính t bây giờ chạy chậm quá , mà còn hay lag nữa làm sao đây ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05898,
+         "id": "1156614",
+         "field_search": "question",
+         "question": "Anh cho em hỏi , tại sao chụp  ảnh bằng Camera sau S8 vào ban đêm lại xuất hiện Chấm sáng trắng ạ , cái có cái không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.944157,
+         "id": "765544",
+         "field_search": "question",
+         "question": " Tại sao mình cập nhật phần mềm mà máy cứ trắng màn hình ý. Đợi bao nhiu lâu cũng không hiện cái gì hết?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.907953,
+         "id": "1162401",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy j6 của e đang dùng mới lên UI được hơn 1 tuần.dến nay e thấy cảm biến vân tay chậm và giật .xong vạch pin không hiển thị với cả vạch sóng vạch wifi rồi tên nhà mạng cũng không hiển thị nữa..như thế là bị lsao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.871017,
+         "id": "1143836",
+         "field_search": "question",
+         "question": "Em sài máy masstel juno s6. Thỉnh thoảng trên màn hình lại xuất hiện 1 chấm trong trắng và khi kích vào nó thì thấy 1 trang quảng cáo. Làm sao để tắt nó đi ạ? Và cho em hỏi là có phải vì nó mà máy thường phát sinh các quảng cáo từ google không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.839895,
+         "id": "1159769",
+         "field_search": "question",
+         "question": "Các mod ơi cho em hỏi chút: máy ip4 của em lâu ko dùng h lôi ra nghịch và em có update lên ios 7.1.2 . Khi update xong hết ko hiểu sao máy nó hiện lên hình dây cáp sạc cắm vào hình nốt nhạc là sao ạ. Mong các mod giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.837576,
+         "id": "917040",
+         "field_search": "question",
+         "question": "Làm cách nào để hiện thanh chạy nhạc trong Groove music vậy ạ? Máy em sau một lần auto update (máy em win10 ạ) mất luôn cái thanh đó luôn ạ. giờ em không thể theo dõi nhạc chạy tới đâu và muốn tua khúc cần nghe phải tua từ đầu. helppp me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.82883,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.81435,
+         "id": "988725",
+         "field_search": "question",
+         "question": "máy tính mình mới mua được 5 tháng ở TGDĐ hôm qua đi chạy lại máy giờ nó còn đơ hơn trước di chuột còn không chạy. cho mình hỏi giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.669577,
+         "id": "736549",
+         "field_search": "question",
+         "question": " em có con oppo r1001 bị treo logo khởi động admin cho em hỏi làm cách nào để khởi động được máy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.654663,
+         "id": "839355",
+         "field_search": "question",
+         "question": " tại sao khi update len win10 thi laptop lai khởi động logo dell 2 lần? sau khi update tai thegioididong dell i5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.620518,
+         "id": "816253",
+         "field_search": "question",
+         "question": "Sao máy tính của e nó đang chạy bình thường mà tự nhiên nó lại chạy ra cái màn hình ngang là sao???với lại em khởi động máy lại nó cũng ko dk. màn hình nó tối thui à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.617397,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.562513,
+         "id": "921188",
+         "field_search": "question",
+         "question": " iPhone 4s của em vẫn hiện wifi 4 vạch mà không vào intermet duoc . làm cách nào để vô mạng đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.486216,
+         "id": "921573",
+         "field_search": "question",
+         "question": " Ad ơi tại sao sau khi khởi động lmhtnos lại hiện ra dòng này vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.46939,
+         "id": "1005088",
+         "field_search": "question",
+         "question": "Chào anh , chị kĩ thuật viên . Em dùng laptop Dell 3552 , window10 creator . Khi em reset lại máy thì nó vẫn chạy bình thường . Một lúc sau nó hiện ra cái bảng .Em bấm vào Close thì nó lại hiện ra như hình bên dưới . Lỗi reset như v phải sửa s ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.468882,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463646,
+         "id": "1134011",
+         "field_search": "question",
+         "question": "mình mua laptop được hơn 1 năm máy của mình chạy win 10 nhưng máy dạo này có hiện tượng lag chạy chậm v giờ mình có thế ra cửa hàng chạy lại win 10 không? và có mất phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.440552,
+         "id": "936650",
+         "field_search": "question",
+         "question": "Giúp em với! Em làm rơi máy tính nên giờ nó bắt dùng đĩa để khởi động thì giờ có cách nào làm nó khởi động hay bắt buộc phải mang ra quán dùng đĩa ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.43032,
+         "id": "760146",
+         "field_search": "question",
+         "question": " Em có con iphone 5 cứ hiện hình quả táo mà màn hình trắng thì phải làm sao ak.mong cửa hàng tư vấn giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.418705,
+         "id": "924595",
+         "field_search": "question",
+         "question": "Em xin hỏi cô em mới cho em một cái điện thoại iphone cũ, ID Apple cũ của cô chuyển sang máy mới rồi nên máy cũ bị vô hiệu hoá. Mà mail cô đặt lâu quá rồi nên không nhớ nó thế nào nữa để đặt lại ID Apple khác, trường hợp này em phải làm sao để sử dụng máy bình thường đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.340221,
+         "id": "1165305",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng đt Oppo F7 128 Gb. Hôm trước em có chỉnh, tắt ứng dụng chạy ngầm khi tắt màn hình. Tuy nhiên giờ em muốn bật lại, thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.31275,
+         "id": "1137135",
+         "field_search": "question",
+         "question": "ad ơi em xài j7 sau khi muốn resert nó khoomh hiện bảng như mấy lần khác nó hiện a custom OS can cause critical problemsnó có khởi động lại thôi sau khi tiếp tục thì nó cứ dow h phải làm sao để resert tại nhà",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

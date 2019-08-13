@@ -1,0 +1,801 @@
+{
+   "id_query": "901385",
+   "total": 32696,
+   "total_current": 100,
+   "max_score": 149.32019,
+   "origin_question": "Đt em là iphone 4s , sao em k nghe đc âm thanh điện thoại trong khi chuông thì vẫn nghe bình thường ạ ? Em điều chỉnh âm lượng ở màng hình chính thì đc , còn vào các apps điều chỉnh k đc ạ , nghe nhạc cũng k nghe đc luôn",
+   "hits": [
+      {
+         "score": 69.584076,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.0121,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.016037,
+         "id": "932181",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4 CDMA, nhưng âm thanh lại bị mất, chỉnh bằng nút âm lượng thì không hiện lên thanh âm lượng, vào cài đặt âm lượng thì thấy vẫn để âm lượng mức to nhất, nhưng khi chơi game, nghe nhạc thì chả nghe được gì. Loa thì cũng kiểm tra không hư hỏng gì (khi khóa màn hình rồi mở lại thì vẫn nghe được nhạc nền trong game, được tí thì lại tắt). Vậy thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.159195,
+         "id": "1011875",
+         "field_search": "question",
+         "question": "cho em hỏi e mới mua máy J7 Pro đc 2 ngày. hôm nay vào xem youtobe thì lại ko nghe đc âm thanh mặc dù em đã mở âm lượng to rồi ạ. loa trong loa ngoài vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.231895,
+         "id": "997324",
+         "field_search": "question",
+         "question": "Mình vừa mua J7 Prime đc 1 tuần, cắm tai nghe trong box J7 Prime thì chỉ nghe đc âm thanh của nhạc, còn âm thanh thông báo thì lại không phát qua tai nghe, âm thanh phát trực tiếp bằng loa ngoài. Mong nhận đc sự giúp đỡ của TGDD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.19556,
+         "id": "798815",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4s của em khi cắm tai nghe thì có thanh điều chỉnh âm lương và rút ra thì không có? Cho e cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.808025,
+         "id": "1141450",
+         "field_search": "question",
+         "question": "Em mua hua Wei y6 prim sau 3 ngày thì phần tại nghe của em n cắm vào máy thì k nghe thấy gì mặc dù e đã tăng âm lượng lên max e nghĩ do tại nghe nhưng cắm vào máy khác n vẫn nghe đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.112267,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.55367,
+         "id": "1140981",
+         "field_search": "question",
+         "question": "Sao máy Oppo A3s của em,dùng tai nghe mà không nghe được âm thanh trái phải của tai nghe ạ(Máy oppo a3s khác thì nghe đc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.28014,
+         "id": "1136700",
+         "field_search": "question",
+         "question": " Cho e hỏi ! có video gửi qua mess cho e nhưng e k nghe đc âm thanh thì phải alfm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.97843,
+         "id": "1159017",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng con samsung j4 lúc cắm tai nghe vào vẫn nghe bình thường nhưng mic nói thì k nói đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.779716,
+         "id": "776510",
+         "field_search": "question",
+         "question": " Em sài iphone 4s khi chỉnh âm lượng nó nói cái chuông lên không nỗi phím âm thanh là bị gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.5836,
+         "id": "1160535",
+         "field_search": "question",
+         "question": "cho hỏi sao iphone 7 plus mình chạy ios 10 . khi quay video camera trước không có âm thanh mà chỉ nghe đc xoè xoè . khi dùng app khác quay video camera trước lại nhận âm thanh bình thường . mình đã test 3 mic trên đt nghe gọi và ghi âm bình thường , và đã reset như mới mà vãn z / k biết đay là lỗi gì ạ . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.542965,
+         "id": "1152414",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi .. điện thoại của e đang dùng ss j7+ tự nhiên đang nghe nhạc thì mất âm thanh.. tự chuyển sang chế độ nghe trong tai nghe ... nên ko phát nhạc loa ngoài được.. cuộc gọi đến cũng ko nghe được .. e đã tắt khởi động lại vẫn ko đc ạ ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.478073,
+         "id": "877699",
+         "field_search": "question",
+         "question": "Mới mua iphone 5s về 2tuần bị liệt nút giảm âm trên đt ,nút tăng giảm âm trên tai nghe cũng bị liệt luôn, có đổi máy mới đc k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.274162,
+         "id": "895685",
+         "field_search": "question",
+         "question": "iphone 6s không nghe được chuông cuộc gọi đến và mở youtube cũng k chạy. Vô cài đặt âm thanh tăng giảm âm lượng cũng không nghe tiếng nhạc. Nếu tắt mở nguồn lại thì lại nghe được. Nhưng sử dụng 1 2 ngày thì bị lại. Cho mình hỏi là bị j vậy ạ! Mình vừa nâng lên ios10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.10949,
+         "id": "770594",
+         "field_search": "question",
+         "question": "Máy tính em đang hoạt động tốt, nhưng không hiểu tại sao âm thanh khi nghe bằng tai nghe lại nhỏ hơn bình thường rất nhiều dù em đã bật 100% âm lượng (em dùng usb sound nhưng vấn nghe bình thường không hiểu tại sao lại bị như vậy), khi nghe bằng loa vẫn bình thường? Cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.808018,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.630768,
+         "id": "1161783",
+         "field_search": "question",
+         "question": "cho hỏi máy vmasrt joy 1+ mới mua đc 1 tháng lúc trk cuộc gọi đến nhạc chuông lớn bt, tự nhiên h nhỏ xíu chỉnh full âm luong vẫn z, nghe nhạc nge điện thoại vẫn lớn bt có mỗi cuộc gọi đến báo chuông là bị nhỏ là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.22955,
+         "id": "1169116",
+         "field_search": "question",
+         "question": "điện thoại vsmart active 1 của em sao lại ,có chuyện mở âm thanh mà k nghe j ,khi reset lại thì hết là s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.888184,
+         "id": "883129",
+         "field_search": "question",
+         "question": "Em sài ip4s. Dạo này khi nghe nhạc offline trên mp3 thì đc 1 bài chạy hết nhảy qua bài khác thì lại không phát nhạc. Phải mở lại máy để điều chỉnh. Khoá máy lại như vậy. Cho em hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.766987,
+         "id": "1137732",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại e sao trong cuoc gọi e nghe đc nta nói mà sao họ k nghe đc mình nói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.652683,
+         "id": "1151982",
+         "field_search": "question",
+         "question": "realme c1 của e sao e gắn tai phone vào không nghe đc âm thanh ở tai phone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.59241,
+         "id": "760149",
+         "field_search": "question",
+         "question": "Ad ơi iphone4 của e bị mất âm thanh của nhạc và game khi ở loa ngoài .Nhưng khi cắm tai nghe thì vẫn nghe nhạc với cả tiếng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.35121,
+         "id": "1011438",
+         "field_search": "question",
+         "question": "Điện thoại em khi cắm tai nghe nghe nhạc và khi tăng âm lượng thì máy báo UI hệ thống đã dừng là sao ạ? Điện thoại em là xong xperia c4 dual, à chỉ cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.33022,
+         "id": "825206",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại của em là IPhone 6s. Khi nghe nhạc em quay sang chụp ảnh thì lập tức nhạc tắt. Như vậy em phải vào đâu để chỉnh lại vừa nghe nhạc vừa chụp ảnh được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.158062,
+         "id": "1011314",
+         "field_search": "question",
+         "question": "QTV cho e hỏi, dây phone của Em bây giờ nghe cứ chập chờn bên nùa nghe đc nhưng bên kia lại k nghe đc vậy có đc đổi lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.804626,
+         "id": "1014011",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao loa ngoài của zumbo s bé thế ạ,bật âm nhỏ nhất xem video youtube thì phải áp tai vào ms nghe đc,còn max âm media thì nghe chỉ bằng nửa các máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.492424,
+         "id": "1136367",
+         "field_search": "question",
+         "question": "E mới sài con ss j8 đc 4 tháng, bây giờ e đt cho ng khác thì ng ta nói e nghe nhưng e nói ng ta k nghe đc, nhưng cắm tai phone vào thì e nói chuyện ngta nghe bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.375748,
+         "id": "1003910",
+         "field_search": "question",
+         "question": "Máy j7p của mình hôm nay sau khi sử dụng xong tai nghe khi rút ra máy lúc nào cũng trong chế độ tai nghe. Cám tai nghe vào thì nghe đc còn rút ra là k nghe thấy gì nữa.... cho mình hỏi máy bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.203373,
+         "id": "765993",
+         "field_search": "question",
+         "question": " Em nghe nhạc trên Zing Mp3 nhưng rất nhỏ, em đã tăng âm lượng hết rồi nhưng nghe vẫn nhỏ, điện thoại J5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.073277,
+         "id": "894953",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi: em kết nối điện thoại vs máy tính acer E5-573G-554 qua bluetooth và dùng media của đt qua máy tính nhưng khi nghe nhạc thì âm thanh của đt lẫn lap đều k nghe được gì? coi video thì k có cả hình ảnh, nhờ anh chị giải đáp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.05752,
+         "id": "918123",
+         "field_search": "question",
+         "question": "cho e hỏi .. máy em 4s , có khi nghe dc có khi không ( nhac+ video ) cắm tai nghe thì đôi khi tự tắt .... còn nghe gọi, chuông vẫn bình thường ... nguyên nhân và cách giải quyết sao ạ ...?\\",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.644634,
+         "id": "1163072",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Ip 7plus . Tại sao em đàm thoại trên fb thì người đầu dây bên kia nghe nhỏ , k rõ và bị giật . Em thử dùng ghi âm của  Thì ghi âm lại nghe rõ ạ. Vấn đề mạng thì vẫn hoạt động bình thưong . Cho em hỏi đt em có bị gặp ván đề gì k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.508537,
+         "id": "1155999",
+         "field_search": "question",
+         "question": "Em mới mua Xiaomi redmi note 6 pro tại TGDD chi nhánh Âu cơ. Cho em hỏi sao em gắn tai nghe AKG Samsung note 8 vào nhưng không điều chỉnh nút tăng giảm âm lượng được vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.49145,
+         "id": "1006284",
+         "field_search": "question",
+         "question": "mình dùng điện thoại saamsung galaxy s6, khi có cuộc gọi tới hay khi nghe nhạc... thì âm thanh ko có, nhưng vẫn nhận cuộc gọi bình thương. mong banj chỉ mình cách chỉnh lại. mình đã tắt chế độ tắt mọi âm thanh nhưng ko dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.462048,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.44311,
+         "id": "997781",
+         "field_search": "question",
+         "question": "Điện thoại f1s của em mới bị khi nghe đt thấy rất nhỏ thậm chí ko nghe đc.  Giờ sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.43206,
+         "id": "1017654",
+         "field_search": "question",
+         "question": "e.mới mua tai nghe bluetood mà bây giờ k nghe đc. vậy có đổi đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.163578,
+         "id": "1019779",
+         "field_search": "question",
+         "question": "Cho em hỏi . Em mở nhạc to và live tream nhưng live xong mở nghe lại thì nó chỉ nghe rõ nhạc lúc đầu thôi còn về sau nó bé xíu à chỉ nghe rõ Nói chuyện thôi còn nhạc k rõ . Ai chỉ e khắc phục đc k . Em dùng J7 Pirme",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.008427,
+         "id": "1162510",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng Nokia 3.1 mọi khi e vẫn nge nhạc đc từ thẻ nhớ mà giờ e k thể nghe đc là sao ah.và làm ntn để nghe nhạc từ trong thẻ nhớ vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.972355,
+         "id": "1141787",
+         "field_search": "question",
+         "question": "Em vừa mua tai nghe bên tdgd mình. Em đã thử device manager, sound, restart nhưng vẫn ko dùng đc trên laptop. Tai nghe vẫn nghe được trên điện thoại bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.625107,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.624287,
+         "id": "753446",
+         "field_search": "question",
+         "question": "Mọi nhười cho em hỏi iPhone 4 của em nghe nhạc bằng tai nghe khi giảm âm lượng xuống 50% thì âm bị rè.tăng lên 90% nghe được nhưng không cân giữa 2 tai nghe.cho em hỏi vậy iPhone của em bị làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.271397,
+         "id": "1013831",
+         "field_search": "question",
+         "question": "Nếu tai nghe có sẵn trong lúc em mới mua điện thoại mà giờ mới sáng cở 1 tháng mà bị liệt 1 bên k nghe đc . Thì có đổi trả hay k v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.164356,
+         "id": "996072",
+         "field_search": "question",
+         "question": "Khoảng 3triệu thì đt thoại nào xem phim với nghe nhạc đc nhất ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.148727,
+         "id": "992472",
+         "field_search": "question",
+         "question": "mình đang nghe file ghi âm trên ip 4, lỡ tay ấn vào phần chỉnh sửa, sau đó file ghi âm dừng lại k nghe được nữa. Bây giờ thời lượng file trở về 0. Có cách nào khôi phục lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.95889,
+         "id": "1021052",
+         "field_search": "question",
+         "question": "tại sao khi gọi qua messenger bằng đt thì có thể nc bình thường còn gọi bằng laptop thì người ta nói mình nghe đc nhưng mình nói người ta lại ko nghe đc. mình dùng lenovo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.896175,
+         "id": "837818",
+         "field_search": "question",
+         "question": " iPhone SE của e lỗi k vào đc face vào web khác thì vẫn bình thường dùng 3g cũng k đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.889706,
+         "id": "785968",
+         "field_search": "question",
+         "question": "Tôi có mua 1 Iphone 5s phiên bản quốc tế có kèm theo tai nghe, nhưng tai nghe lại không điều chỉnh được âm lượng cho tôi hỏi có phải tai nghe bị hư hay đặc tính này trên iphone 5s không có?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.887318,
+         "id": "849451",
+         "field_search": "question",
+         "question": "Em dùng iphone4 ạ! Dạo gần đây em nghe nhạc bật loa ko thấy tiếng dù em đã cố chỉnh âm và bật loa đều không được nhưng có cuộc gọi đến thì vẫn kêu bình thường! Khác phục lỗi này sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.844822,
+         "id": "1163313",
+         "field_search": "question",
+         "question": "mình mua con realme 2 xài hơn 5 tháng ko bị lỗi gì ko hiểu sao từ trưa hôm nay tới giờ mình bị lỗi âm thanh tắt khi coi youtube mặc dù mình để max âm lượng. cuộc gọi tới cũng ko nghe dc tiếng âm thanh chỉ có alo trả lời thì dc chỉ khi hết lỗi là nghe đc âm thanh cuộc gọi tới ko hiểu nó lỗi android hay lỗi điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.71811,
+         "id": "1002051",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang sài j2 prime Sao tự nhiên e k bật đc media E mở âm lượng nó chỉ hiện âm lượng cuộc gọi  e nghe nhạc hay xem phim đều nhỏ xíu Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.583824,
+         "id": "1138942",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài dt A5 2017 đt e hay bị tắt đen màn hình nhưng khi có ai gọi thì vẫn nghe đổ chuông nhưng k bấm nghe đc vì màn hình bị tắt đen e có bấm đồng thời phim giảm âm lương +phim nguồn để mở lên nhưng 1 lát vẫn bị tiếp có cách nào để khắc phục cho nó k bị nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.513832,
+         "id": "881238",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với, fb của em vô thì rất bình thường nhưng chỉ có vô mess thì k đc, tin nhắn k nhận đc với k thấy và k gửi đc tin nhắn kể cả trên máy tính hay điện thoại, còn em vô 1 cái nick fb phụ của em thì vẫn bình thường ạ v là sao mong ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.462437,
+         "id": "1148158",
+         "field_search": "question",
+         "question": "Mình mới mua con hưawei y9 2019, đt mình ko có chế độ ghi màn hình, vào chỉnh sửa bản điều khiển cũng ko đc, nhấn và giữ nút nguồn và nút tăng âm lượnh cũng ko đc. Giờ mình fai làm Sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.398872,
+         "id": "994225",
+         "field_search": "question",
+         "question": "Điện thoại Iphone thường bị giảm âm thanh nghe nhạc để ưu tiên chuông báo tin nhắn, zalo, viber. Làm sao khắc phục tình trạng này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.34133,
+         "id": "1162478",
+         "field_search": "question",
+         "question": "Laptop tự nhiên đang sử dụng ( ví dụ như đang xem video hay nghe nhạc ) thì bỗng màn hình tối đen tuy vẫn nghe đc âm thanh vẫn thao tác đc nhưng màn hình vẫn đen thui. Chỉ có cách tắt màn hình r mở lại thì laptop sẽ bthuong, thỉnh thoảng e hay bị lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.26145,
+         "id": "798564",
+         "field_search": "question",
+         "question": "Em mua iPhone 5s được hai tháng. Mà giờ loa ngoài tự nhiên không nghe đc. Muốn nghe em phải cắm phone mới nghe đc. Loa điện thoại em bị sao vậy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.02729,
+         "id": "1001453",
+         "field_search": "question",
+         "question": "e mới mua đt cũ ss j7 prime màu hồng hôm quatest đt thì ok nhưng có điều về nghe thì thấy loa o biết có đc bảo hành k v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.826885,
+         "id": "1155981",
+         "field_search": "question",
+         "question": "Mìh dùng trang youtubepp.com để tải 1 số mp3 từ video trên youtube. Lúc mìh mới tải mp3 về máy nghe trên play âm nhạc vẫn nghe đc hết bài nhưg 1 thời gian sau thì nghe chỉ đc 2/3 bài, có bài chỉ đc 1/2 bài thì tự nhiên dừg. Ktra lại file mp3 thì thấy file có 1 số bài còn 1/2 hay 1 số còn 2/3 dung lượng file. Thế là phải xóa đi tải lại, nghe đc đầy đủ nhưg sau 1 thời gian lại bị như trước là bị lm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.580456,
+         "id": "1162269",
+         "field_search": "question",
+         "question": "Em xem video hoặc story trên fb , ins thì chữ luôn bị cắt đi k xem đc thì chỉnh sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.341164,
+         "id": "775339",
+         "field_search": "question",
+         "question": " cái laptop asus cắm tai nghe thì không nghe đc cài driver rồi cũng không nghe đc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.229706,
+         "id": "1020045",
+         "field_search": "question",
+         "question": "cho e hỏi là lúc e cài nhạc chuông mặc định của sony thì vẫn nghe bình thường nhưng khi đổi nhạc chuông là bài hát khác thì ai gọi đến lại không nghe được nữa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.10495,
+         "id": "907038",
+         "field_search": "question",
+         "question": " ad ơi sao lại k chụp bằng âm lượng đc . em đã thử rồi mãi ko đc   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.07903,
+         "id": "1165511",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình mới mua samsung A30 tại sao ghi âm cuộc gọi xả lại ko nghe đc âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.478542,
+         "id": "1003561",
+         "field_search": "question",
+         "question": "cho em hỏi lap top e khi e tải clip trên utube về rồi thì không mở được là vì sao ạ ? e tải thử 1 bài hát trên mp3 xuống nghe thử mà cũng k đc luôn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.41401,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.32422,
+         "id": "766644",
+         "field_search": "question",
+         "question": "Mình sử dụng máy iPhone 5s và sử dụng zalo,mình muốn ghi âm bài hát mình nghe ở phần mềm nghe nhạc nhưg khi ăn vào ghi âm trên zalo để chia sẻ nhưng ko đc vì mỗi lần ăn ghi âm là nhạc tự tắt ko hay nữa,bạn cho mình hỏi phải làm sao để ghi âm đc.xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.277367,
+         "id": "923364",
+         "field_search": "question",
+         "question": "Tại sao khi em gọi messenger bật video lên e nói bên kia k nghe thấy nghe thấy gì nhưng e vẫn nghe họ nói bình thương ( tắt video tjif gọi bình thường ạ ) e dùng iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.231762,
+         "id": "996581",
+         "field_search": "question",
+         "question": "Em dùng điện thoại samsung galaxy tab 4. đang nghe tai nghe bình thường tự nhiên nó nhỏ đi? em có đổi tai nghe khác mà vẫn không nghe lớn như bình thường được? em có gắn cái tai nghe đó sang điện thoại khác tai nghe đó vẫn nghe bình thường? em muốn hỏi cách khác phục ạ. cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.206352,
+         "id": "1133704",
+         "field_search": "question",
+         "question": "Xin chào à. Em dùng ip6+ hêt thời hạn bão hành rồi ạ! Nhưng em không làm rớt gì mạnh nhưng khoảng thời gian gần đây nó bị dựt dựt: nghĩa là em k điều chỉnh nút    Âm lượng mà đt no vãn tự chỉnh từ chế độ rung sang có chuông và ngược lại nhiều lần! Đt em đang bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.145695,
+         "id": "1021620",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi chút ạ.Đt e đang dùng là ip6. Bt e nghe gọi vẫn bt nhưng gọi video qua mesenger(gọi bt vẫn nghe đc nhưng gọi video lại k nge) thì người bên kia k nghe e nói gì. E đã kiểm tra trong cài đặt micro e đã mở rồi nhưng vẫn k được. Cho hỏi đt e bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.040478,
+         "id": "1160665",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi note 6 pro đc 2 tháng. Giờ m mới để khi nghe nhạc thì 1 bên loa ko có âm thanh. Điện thoại chưa hề rơi vỡ hay bị và đập mạnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.988052,
+         "id": "949203",
+         "field_search": "question",
+         "question": " Cho e hỏi cái này ạ đt e là ip5s , khi nghe nhạc e nghe taig tai nghe của đt oppo thì có ảnh hưởng j tới ip k ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.761223,
+         "id": "991387",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone 4 không nghe được nhạc hay vào youtobe xem không nghe được tiếng nhưng chuông gọi đến vẫn đổ và kêu bình thường thì bị lỗi gì và cách khác phục em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.713623,
+         "id": "1152368",
+         "field_search": "question",
+         "question": "Cho r hỏi. Máy iphone của e mua đc 5 ngày, nhưng ko bt tại s hôm nay zalo ô nhận được tin nhắn thoại (đeo tai nghe vào thì nghe đc. Ko đeo thì ko nghe) là do lỗi đt hay lỗi app ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.650715,
+         "id": "996995",
+         "field_search": "question",
+         "question": "e đang sài oppo f3, e vẫn để chế độ chuông bình thường, k bật chế độ im lặng nhưng khi có cuộc gọi đến lại k nghe nhạc chuông reo ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.582947,
+         "id": "1157772",
+         "field_search": "question",
+         "question": "E mới mua máy a7_2018 đc gần 4th. Mấy ngày gần đây máy e bị tình trạng cắm tai phone vào thì k nghe đc j hết tháo ra mới nghe đc . như vậy là máy bị j lm sao khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.475235,
+         "id": "842386",
+         "field_search": "question",
+         "question": "Mọi người cho e hỏi, laptop asus của e khi xem video trên youtube thường hay bị đơ màn hình trong khi âm thanh vẫn nghe bình thường thì khắc phục thế nào ạ! (voducthuan0903)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.33871,
+         "id": "792355",
+         "field_search": "question",
+         "question": "Cho em hỏi , tai nge của em . em cấm vào máy khác thì qua bài , chỉnh âm lượng bằng nút của tai nge đều được hết , nhưng sao em cấm vô iphone 5 . thì chỉ nge được thôi, còn thao tác chỉnh âm lượng hoặc qua bài bằng nút của tai nge thì k làm được , mong mấy anh giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.973377,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.92961,
+         "id": "995609",
+         "field_search": "question",
+         "question": "Cho em hỏi, em xài iphone 4 tự nhiên bây giờ khi chỉnh âm lượng hiện ra một cái bảng ghi chuông nhưng nó không hiện ra số vạch âm lượng. Ai biết cách xử lí k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.6163,
+         "id": "1141566",
+         "field_search": "question",
+         "question": "có ứng dụng hoặc cách nào để ghi âm màn hình mà có cả âm thanh khi đeo tai nghe trên samsung j7 prime không ạ? Em xài DU recorder nhưng đeo tai nghe thì khi ghi lại video đang phát lại không có âm thanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.606358,
+         "id": "1020499",
+         "field_search": "question",
+         "question": "Khi người khác gọi đến thì vẫn nghe đc nhạc chờ. Nhưng điện thoại em lại hiện thị \" Rất tiếc, Điện thoại đã dừng lại\" và em ko thể nhận đc cuộc gọi. Ko biết đang bị tình trạng gì ạ. Điện thoại wIKO rainbow lite.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.575817,
+         "id": "936376",
+         "field_search": "question",
+         "question": "Hiện mình đang dùng 5s all âm thanh đều bình thường nhưng khi gọi đi thì ko nhận được âm thanh bên kia, nc thì bên kia nghe bt, còn bên mình ko nghe, lúc bị như vậy lúc thì bt , chi hỏi admin máy bị sao vậy ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.417103,
+         "id": "1018755",
+         "field_search": "question",
+         "question": "Cho e hỏi asus zenphone 2 bị lỗi android thì phải làm sao ạ?đt thì vẫn sự dụng bình thường nhưng k khôi phục cài đặt lại máy đc,bấm vô thì nó hiện ứng dụng cài đặt đã ngưng hoạt động,tắt nguồn nhấn giữ phím nguồn và âm lượng khi chuẩn bị cài đặt lại thì thiết bị báo lỗi cũng k cài lại đc,ngoài cách mang ra tiệm chạy lại chương trình mình còn cách nào khách phục đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.345894,
+         "id": "873363",
+         "field_search": "question",
+         "question": "Điện thoại samsung J1 6 của em lúc trước khi đeo tai nghe vẫn nghe được tin nhắn thoại trên messenger . Nhưng 2 ngày nay em có lỡ xóa rồi tải lại messenger và khi đeo tai nghe , tin nhắn thoại không phát vào tai nghe mà phát ra loa ngoài . Trong khi call messenger , zalo , skype , mp3 nghe vào tai nghe vẫn bình thường . Vậy em phải sửa thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.22613,
+         "id": "1006307",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Ip6 của e loa nghe nhạc điều bình thường , điện bằng zalo và messenger thì bên nào cũng nghe rất rõ , chỉ có gọi bằng sim thì bên kia không nghe e nói nhưng e nghe bên kia nói rất rõ.. cho e biết là do bị gì vậy ? Tại sim hay tại máy ?? E cám ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.17338,
+         "id": "997356",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi tai nghe nhét tai và tai nghe trùm đầu cái nào dùng để nghe nhạc và xem phim có chất luợg âm thanh tốt hơn ạ, dùng cho dt ấy và ko cần cách âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.07683,
+         "id": "761732",
+         "field_search": "question",
+         "question": "Mình có mua 1 iPad mini ở TGDĐ tự nhiên loa ngoài của mình không nghe đc nhưng khi cấm tai nghe vào thù nghe bình thường. Cho hỏi máy mình bị gì vậy? Làm sao để trở lại bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.95511,
+         "id": "826528",
+         "field_search": "question",
+         "question": " laptop ủa mình khi cắm tai nghe vào chỉ nghe đc một bên thì phải làm thế nào ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.899036,
+         "id": "756649",
+         "field_search": "question",
+         "question": " Em xài iphone4 sao gọi thấy hình Ko nghe đc tiếng ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.70463,
+         "id": "815251",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo f1, máy của mình khi gọi zalo và fb thì đầu dây bên kia k nghe đc (điện thoại vẫn nghe gọi bt nhé), đã gỡ đi , cài lại vẫn bị tình trạng như cũ, mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.630722,
+         "id": "896404",
+         "field_search": "question",
+         "question": "Anh cho em hỏi tại sao, sau khi gọi video trên mesenger xong (trên đt ss glx j3) thì âm lượng nó cứ như vậy, khi nghe nhạc, xem phim... nó đều phát âm thanh bằng loa đàm thoại chứ không phải loa ngoài. Nó bị gì vậy ạ? Và cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.622314,
+         "id": "1153021",
+         "field_search": "question",
+         "question": "Oppo a3s ts thỉnh thoảng có người gọi đến thì lại bị đen mà và ấn nguồn mở sáng lại thì k thể nghe đc mặc dù vẫn có chuông ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.613274,
+         "id": "1149746",
+         "field_search": "question",
+         "question": "Đt mình đang sử dụng tự nhiên đứng máy tắt nguồn. Lúc máy mở lại thì không nghe được âm (chuông báo, cuộc gọi, nhạc v.v..)  gì nữa. Cắm tai nghe vào thì nghe được. Cho mình hỏi máy bị gì ạ? Máy mình là ss A5 2017 ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.54498,
+         "id": "999389",
+         "field_search": "question",
+         "question": "Cho tôi hỏi điện thoại oppo a37 của tôi mọi khi rỗi vẫn nghe nhạc và xem phim bình thường nhưng hôm nay không hiểu sao tiếng rất nhỏ không thể nghe được ,cho tôi hỏi tôi phải làm như thế nào để cài đặt lại âm lượng  với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.283607,
+         "id": "1161329",
+         "field_search": "question",
+         "question": "Vừa mua máy oppo f11 pro nhưng sao lúc em vào chơi game cấm tai nghe vào thì âm lượng lúc lên lúc xuống vậy ạ ??có cách nào để âm lượng cố định k lên k xuống không ?? Chứ đang chơi mic nhỏ lại r lại lớn lên rất khó chịu",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

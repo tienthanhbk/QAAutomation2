@@ -1,0 +1,801 @@
+{
+   "id_query": "832815",
+   "total": 34100,
+   "total_current": 100,
+   "max_score": 266.72913,
+   "origin_question": "Chào QTV, 2 ngày trước trong nhóm chat messenger do đùa nên thoát qua lại rồi mời vào lại nhóm nhưng hiện tại em bị kẹt lại, không thoát ra khỏi nhóm được, cũng không ai thêm vào được, ở trong nhóm như ở ngoài, không xem được tin nhắn nhưng vẫn hiện thông báo, vào thì không hiện gì, không nhắn tin được, không có nút rợ khỏi nhóm, người khác mời mình ra khỏi nhóm thì hiện \"không thể thực hiện hành động đã yêu cầu. Đã xảy ra lỗi\", có cách nào khắc phục không ạ?",
+   "hits": [
+      {
+         "score": 105.102516,
+         "id": "959972",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể xem được các tin nhắn trong nhóm zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.69552,
+         "id": "1152915",
+         "field_search": "question",
+         "question": "viber của mình sử dụng đã lâu, có nhiều nhóm nhưng mấy ngày gần đây có 1 nhóm bị chặn, trong khi các nhóm khác vẫn bình thường.khi mình vào thì máy báo bạn ko thể gửi tin nhắn trong cộng đồng này vì bạn đã bị chặn. cho mình hỏi như vậy mình phải làm sao ạ. TT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.155685,
+         "id": "1138471",
+         "field_search": "question",
+         "question": "Nếu tôi đăng một bài viết trong một nhóm công khai thì bài viết đó có bị người ngoài nhóm đang theo dõi tôi nhìn thấy không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.64017,
+         "id": "919409",
+         "field_search": "question",
+         "question": "Cho em hỏi sao điện thoại lumia 535 đã cập nhật facebook mới rồi , vào nhóm nhưng chỉ xem được 1 -2 bài viết thôi. Add chỉ em cách khắc phục với ( đã cập nhật điện thoại rồi ) vẫn không được. Vào internet truy cập Facebook thì comment cũng không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.68509,
+         "id": "1143283",
+         "field_search": "question",
+         "question": "Ad cho e hỏi cách khắc phục lỗi messenger không gọi được với ạ... gọi nhóm vẫn bình thường mà gọi 2 người bt thì không được... e đang dùng 7 plus ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.0369,
+         "id": "1147368",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. Em đang dùng fb và đang vô 1 nhóm,nhóm để chế độ công khai nên em đăng j trong nhóm bạn bè của e đều xem đc. Có cách nào khắc phục ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.884514,
+         "id": "973311",
+         "field_search": "question",
+         "question": "mình có mua 5s ở TGDD đươc 5 tháng rồi. mua dùng được hơn tháng là thấy hiện tượng xanh màn hình và khởi động lại. mấy ngày hôm nay máy có hiện tượng như vậy rất nhiều và bị rung màn hình. vậy mình khác phục hiện tượng đó thế nào? Và mang ra siêu thị TGDD bảo hành được ko ạ? Nếu có thể liên hệ giúp m vào số 0165354xxxx . cảm ơn nhóm hỗ trợ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.67399,
+         "id": "1017943",
+         "field_search": "question",
+         "question": "khi một thành viên tắt thông báo zalo nhóm thì quản trị viên có biết được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.24568,
+         "id": "777197",
+         "field_search": "question",
+         "question": "Mình xài hai số đt viber. Khi mình thay đổi và trở lại thì các thông tin hay các nhóm bị mất. Phải nhờ add lại. Vậy có cách nào để giữ lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.80151,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.90575,
+         "id": "827121",
+         "field_search": "question",
+         "question": " Tại sao chat nhóm zalo lại tự động bị xoá trên zalo pc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.34335,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.98965,
+         "id": "1168600",
+         "field_search": "question",
+         "question": "cho em hỏi: em xóa tên đã lưu vào danh bạ. khi bấm số đó thì vẫn hiện tên trước đó đã lưu (như hình bên dưới), hoặc nhắn tin vẫn hiện tên \" có thể: tên người đã lưu\". mặc dù em đã xóa ra khỏi danh bạ. làm sao để xóa hết không còn hiện như vậy nữa ạ.em dùng iphone 7 ios12.2 em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.92253,
+         "id": "1000372",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn SMS thì xuất hiện lỗi: Hiện tại không gửi được tin nhắn. Sẽ gửi khi có dịch vụ. Em vẫn có thể gọi được nhưng không nhắn tin được. Em xài Samsung A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.90656,
+         "id": "1009593",
+         "field_search": "question",
+         "question": "Tại sao tôi có đủ tiền trong tài khoản mà khi nhắn tin lại báo không nhắn được ? Điều này chỉ xảy ra với một số liên hệ , số còn lại thì bình thường. Nhắn không được nhưng gọi được thì tôi phải khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.42676,
+         "id": "1157293",
+         "field_search": "question",
+         "question": "Anh cho em hỏi là khi bạn bạn của mình chặn Line. Nhưng cùng ở trong một nhóm nói chuyện line thì có nhìn thấy coment của đối phương không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.153404,
+         "id": "915601",
+         "field_search": "question",
+         "question": " A, c cho e hỏi thăm cách tạo nhóm và chương nhóm trong danh bạ đt Samsung j7 prime. Cảm ơn anh chị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.52458,
+         "id": "924756",
+         "field_search": "question",
+         "question": " windows trên dt không nhận thông báo nhóm trên facebook .ad hướng dẫn chỉ với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.86254,
+         "id": "758134",
+         "field_search": "question",
+         "question": "Chào ad . Em đang dùng ứng dụng line . Đang nhắn tin bình thường thì tự dưng không gửi được tin nhắn mặc dù wifi và 3g nét căng . Mình thoát ra vào lại thì ứng dụng thông báo không đăng nhập được và yêu cầu kiểm tra kết nối mạng . Nhờ ad chỉ giúp cho ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.31608,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.864075,
+         "id": "753085",
+         "field_search": "question",
+         "question": "Cho hỏi vì sao tôi không thể thay đổi phần âm thanh trong tin nhắn, email, thư đã gửi ... Trên iPhone 5s. Tôi chọn thay đổi thì bị thoát ra lại màn hình chính, tôi đã thoát icloud và reset lại máy nhưng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.67429,
+         "id": "997766",
+         "field_search": "question",
+         "question": "mình mới mua Iphone 7 plus lúc đầu đăng nhập tk apple vào không sao hết nhưng sau khi mình khỏi động lại thì máy yêu cầu nhập tk apple. mình nhập đúng nhưng vẫn không vào được trên ip7 ( đã đăng nhập thành công trên máy tính và ip khác) ad cho hỏi có cách nào khắc phục không ạ . ID apple đúng máy rồi nhưng sao không vào được , có phải ip yêu cầu @icloud.com hay không , do mình xài ID apple là @gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.37844,
+         "id": "1145354",
+         "field_search": "question",
+         "question": "cho em hõi a7 2018 của em có phải bị lỗi bàn phím không : khi comment trên youtube máy không hiện ra dòng chữ mình đang nhập, trên instagram cũng không thể thấy phần tin nhắn mình đang nhập cũng như trong story,... đã thử xóa và cài đặt, khởi động máy lại nhưng vẫn không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.332275,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.18751,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.8357,
+         "id": "1016237",
+         "field_search": "question",
+         "question": "Câu hỏi lần trước mình hỏi là tại sao chuông thông báo tin nhắn cứ tự động tăng âm lượng, và giờ mình phát hiện ra là chỉ khi nhận được tin nhắn rác thì chuông lại to hết cỡ. Hơn nữa tính năng chặn tin nhắn rác hoạt động rất phiền hà. Vẫn nhận tin nhắn bình thường với chữ Spam và tự động lưu luôn số đó vào danh bạ. Đã không chặn được lại còn thông báo to hơn, rõ ràng hơn nữa chứ. Nhiều lúc ức chế với cái J5 Prime này cực kỳ luôn. Mình muốn hỏi xem có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.54043,
+         "id": "911919",
+         "field_search": "question",
+         "question": "Facebook em bị lỗi nên em xoá và tải lại , vào appstore thì facebook hiện chữ ''mở'' và không tải lại được , em đã tắt nguồn ,đặt lại, tắt hay bật giới hạn , vào dung lượng để xoá app nhưng vẫn không được , anh chị giúp em :( , giờ cứ như nó còn kẹt đâu đấy nên hiện chữ ''mở'' không tải lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.390175,
+         "id": "999394",
+         "field_search": "question",
+         "question": "Hiện em đang dùng sony  Zultra. Cho em hỏi là từ khi em cập nhật Facebook cách đây 2 ngày  . Ngày đầu tiên thì bình thường nhưng đến ngày thứ 2 là bị lỗi không thể vào được và điện thoại báo không thể khởi động Facebook. Nếu muốn vào Facebook thì phải vào phần cài đặt ứng dụng và xoá hết bộ nhớ cache và dữ liệu đi thì mới vào được. Nhưng cũng chỉ vào được 1 lần nếu thoát ra thì lại không vào được. Cho em hỏi thế là bị làm sao ạ..Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.168335,
+         "id": "1157088",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùg Oppo a71 và hiện tại e không xem được ảnh bấm vào thì toàn hiện ra màn hình Trắg đã thử tắt nguồn và bật lại nhưg vẫn vậy. Nhưg gửi hình ảnh qua mess thì vẫn được đồng thời các ứng dụng chỉng ảnh cũng không vào được load lâu .Làm thế nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.39191,
+         "id": "1002475",
+         "field_search": "question",
+         "question": "tôi bị liệt vào nhóm nợ xấu liệu bây giờ tôi còn có thể mua trả góp dc nữa không ạ,mong nhận được tư vấn của các bạn,tôi xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.08145,
+         "id": "817073",
+         "field_search": "question",
+         "question": "Lỗi Messenger của facebook , trên hệ điều hành AndroidMessenger của mình đã là ver mới nhất rồi nhưng khi thực hiện cuộc gọi video với bất cứ ai nó đều cho 1 cái thông báo như vầyRất tiếc bạn không thể thực hiện cuộc gọi :Họ không thể thực hiện cuộc gọi ngay bây giờVà người khác gọi đến mình cũng chẳng có thông báo , ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.643585,
+         "id": "802576",
+         "field_search": "question",
+         "question": "Cho e hỏi, ứng dụng line trên ios 9.2.1 ờ ngoài màn hình chủ có thông báo có tin nhắn ( góc icon hiện số 5) nhưng khi em vào thì ko xem được tin nhắn, cứ như không có mạng, e vào web thì bình thường, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.48964,
+         "id": "806582",
+         "field_search": "question",
+         "question": "Dạo này zalo bị lỗi vẫn thông báo có người gửi tin nhắn khi mà bấm vô cuộc trò chuyện thì trống rỗng thoát ra thì mất lun cuộc trò chuyện. Chỉ em cách khắc phục được không? Cám ơn rất nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.38031,
+         "id": "1142684",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại sam sung s8+. Vào phần mềm có sẵn facebook trên máy không loát được các bài đăng cũ trên trang chủ, hội nhóm vậy ak. Mà vào google trên điện thoại thì loding đc ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.27067,
+         "id": "1154519",
+         "field_search": "question",
+         "question": "Mình đang dùng Vsmart Joy 1+. Điện thoại 2 sim, hiện 2 cột sóng, nhưng gần đây hay bị lỗi chỉ hiện 1 cột sóng, và khi nó hiện như vậy không thể sử dụng 4G được, khỏi động lại máy 2 cột sóng lại hiện ra và sử dụng 4G như bình thường. Cho hỏi hiện tượng này là sao vậy ạ? Do thường xuyên phải khởi động lại máy rất bất tiện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.24369,
+         "id": "859439",
+         "field_search": "question",
+         "question": " Zalo trên điện thoại không hiển thị nhóm nhưng trên pc của mình vẫn hiển thị giúp mình với minh cảm ơn nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.1716,
+         "id": "1013705",
+         "field_search": "question",
+         "question": "Cho mình hỏi: khi mình lắp sim vào sony verizon D6708 thì nó lại báo thẻ sim không từ verizon và khi click vào thì nó hiện ra như hình...vay có thể chỉ mình cách khắc phục được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.07528,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.96039,
+         "id": "746046",
+         "field_search": "question",
+         "question": "Chào bạn.mình hiện tại đang xài ip6.khi xài phát hiện dt khi thoát ứng dụng thì có bóng mờ của ứng dụng cũ trên màn hình vd khi nhắn tin lâu thoát ra thì xuất hiện bóng mờ của bàn phím xin hỏi đây là lỗi phần cứng hay phần mền và mình mang ra tgdd có dc hỗ trợ không máy mình vẫn còn trong thời gian bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.88459,
+         "id": "1156976",
+         "field_search": "question",
+         "question": "E không đăng nhập được vào app fb của IP X, đã xóa đi tài lại ứng dụng vẫn không được. Facebook báo \" lỗi đăng nhập, đã xảy ra lỗi không mong muốn. Vui lòng đăng nhập lại sau\". Em đăng nhập nik vào máy khác thì vẫn được. Mong add chỉ e cách khắc phục ak, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.85131,
+         "id": "1135558",
+         "field_search": "question",
+         "question": "ad cho hỏi.Máy mình là oppo f3 plus hiện tại đang bị treo logo, mình dùng mọi cách nhưng không tắt được nguồn để vào chế độ recovery Ad có cách nào khắc phục được không? Hiện tại mình đang ở bên nước ngoài nên không có linh kiện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.79998,
+         "id": "793742",
+         "field_search": "question",
+         "question": "Cho hỏi : hiện bây giờ mình đang có một ip6s plus mà đang bị đơ cảm ứng . ra tiệm hỏi thì người ta đã reset lại nhưng vẫn không khỏi dc . thì cửa hàng thế giới di động có chính sách bảo hành đối với điện thoại của mình không . điện thoại của mình chính hãng , nhưng mua tại úc . mới active được 2 tuần . cám ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.77494,
+         "id": "1155161",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tin nhắn trên zl .. làm sao khôi phục lại được ạ ... tôi đã vào mục khôi phục tin nhắn khôi phục nhiều lần nhưng không thấy tin nhắn được khôi phục ... còn cách nào khôi phục tin nhắn zl không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.67495,
+         "id": "1136212",
+         "field_search": "question",
+         "question": "Em có dùng điện  F5 cả tháng nay điện thoại em không nhận được cuộc gọi hay tin nhắn nào.  Em nghĩ do sim nên tháo ra thì gọi bình thường nhưng khoảng 1 2 tiếng sau, người khác gọi thì báo không liên lạc được. Mà điện thoại vẫn mở nguồng và có hiện sóng sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.40524,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.355774,
+         "id": "833530",
+         "field_search": "question",
+         "question": "Hiện tại mình đàn dùn iphone4 lúc trước tin nhắn có hiện lên bong bóng nhưng sau này khi có messenger thì bong bóng không hiện lên màng hình nữa,và thường xuyên messenger tự động cập nhật mới.Vậy bạn có thể giúp mình tìm ra cách nào để bong bóng hiện lên koong ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.35416,
+         "id": "873363",
+         "field_search": "question",
+         "question": "Điện thoại samsung J1 6 của em lúc trước khi đeo tai nghe vẫn nghe được tin nhắn thoại trên messenger . Nhưng 2 ngày nay em có lỡ xóa rồi tải lại messenger và khi đeo tai nghe , tin nhắn thoại không phát vào tai nghe mà phát ra loa ngoài . Trong khi call messenger , zalo , skype , mp3 nghe vào tai nghe vẫn bình thường . Vậy em phải sửa thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.306,
+         "id": "989277",
+         "field_search": "question",
+         "question": "Máy em hiện giờ không đăng nhập được vào icloud, vào thì nó hiện ra như thế này ạ, em mong mọi người giải đáp hộ em lỗi này phải khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.947014,
+         "id": "1020732",
+         "field_search": "question",
+         "question": "chào bạn. mình vừa mua máy tính bảng hiệu mobell tab 8 pro được 8 ngày. máy hay bị thoát ra khỏi ứng dụng khi mình đang xài. hôm nay thì tắt nguồn luôn mở không lên nữa. cho mình hỏi mình có thể đổi máy khác không? và ở tại tgdd nào cũng được hả bạn????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.898556,
+         "id": "1154572",
+         "field_search": "question",
+         "question": "Chào bạn.Mình đang dùng Note 9, mình thử dùng Samsung Pay, khi yêu cầu mình quét móng mắt và dùng mã pin mình làm theo. Nhưng khi thoát khỏi phầm Samsung pay thì khi khóa màn hình và mở lại nó yêu cầu nhập mã pin. Mình nhập đúng 4 số mà không được. Mình không hiểu lắm, đã khởi động lại rồi mà không mở được? ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.574135,
+         "id": "1153353",
+         "field_search": "question",
+         "question": "Tôi mới mua điện thoại Samsung A7 cỡ 1 tháng trước. Nhưng bây giờ trong máy lại hiện thông tin \"Thẻ sim không được chấp nhận\" và không thể gọi điện hay nhắn tin cho ai. Giờ tôi phải giải quyết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.557205,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.430576,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.429726,
+         "id": "1009537",
+         "field_search": "question",
+         "question": "Tôi dùng ĐT Sony  xperia z3, Tôi đã lưu tên vào danh bạ, khi có người nhắn tin đến thì điện thoại hiện số +84xxxxxxxxxx mà không hiện tên, khi nhắn tin trả lời lại thì không gửi được. Giúp tôi với, ĐT Sony phiền phức quá....chán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.32559,
+         "id": "1159078",
+         "field_search": "question",
+         "question": "OPPO F9 em mới mua được khoảng 1 tháng rưỡi nhưng sao hôm nay Khi mở máy lên rồi vào Zalo thì tin nhắn mới hiện lên chứ nó khoonv thông báo ở ngoài màn hình chính hay thành thông báo, cho Em hỏi máy có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.115795,
+         "id": "1004995",
+         "field_search": "question",
+         "question": "Mình đang dùng ss a5 2016. Messenger của mình không thông báo tin nhắn đến. Mà phải vào ứng dụng đợi kết nối xong mới thấy hiện tin nhắn. Khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.914368,
+         "id": "863457",
+         "field_search": "question",
+         "question": "Máy tính em đang dùng windows 8.1pro dùng được 1 thời gian không hiểu tại sao vào các app như: thời tiết, thể thao,..... khi vào lại bị tự đẩy ra ngoài không hiện ra cái gì cả... mong ad giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.902843,
+         "id": "830792",
+         "field_search": "question",
+         "question": "tại sao máy tính của tui không tải game , nhạc được vậy . tải cái gì cũng không được. mỗi lần bấm vào nút download là nó hiện ra cái này(ở trong hình) , khi bấm vào how to licence thì nó hiện ra trang này(http://soft247.vn/IDM-Order-Online.s247). phải làm sao đây , trả lời gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.59653,
+         "id": "763979",
+         "field_search": "question",
+         "question": "Mình mời vừa mua điện thoại Samsung Galaxy J5 hôm qua. Nhưng có lúc mở máy ảnh không được hệ thống báo là không thể mở máy ảnh trong cuộc gọi. Nhưng hiện tại lúc đó mình không có cuộc gọi nào. Máy bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.59584,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.584396,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.56804,
+         "id": "1166868",
+         "field_search": "question",
+         "question": "     máy của em hiện lên vầy là sao ạ. em đã thử tải lại  và khỏi động lại máy rồi nhưng vẫn ko khắc phục đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.47291,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.3279,
+         "id": "1007425",
+         "field_search": "question",
+         "question": "Cháo AD,Hiện tại tôi đang dùng đt Samsung galaxy J5 Prime. Sau khi tôi khởi động lại máy thì hệ thống báo lổi yêu cầu cài đặt lại. Sau khi cài đặt lại thì dử liệu trong thẻ nhớ SD không thể mở được nữa.Tôi đã mã hoá mà vẩn không được.AD xem có cách nào khắc phục được khôngCám ơn AD trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.25917,
+         "id": "1016330",
+         "field_search": "question",
+         "question": "điện thoại em đang sử dụng là sony xperia XA, bây giờ có hiện tượng đang sử dụng thì bị \"tự động quay lại\". Em vào cài đặt-->ứng dụng thì hiện ra trang \"ứng dụng\" xong tự động thoát ra lại trang \"cài đặt\".Lướt facebook thì kéo xuống rồi điện thoại tự động lên lại đầu trang.... và nhiều hiện tượng khác tương tự việc điện thoại tự động back lại,tự động trượt.Bây giờ thì màn hình không thể mở khóa do  không trượt hết được. Quét virus thì không thấy,màn hình vẫn còn mới không bị trầy xướt. Tắt nguồn,khởi động lại vẫn có hiện tượng đó.Không biết điện thoại đang có vấn đề gì ạ,em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.229336,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.089935,
+         "id": "828417",
+         "field_search": "question",
+         "question": "mình xài điện thoại SONY XPERIA C2305 sao m ình không vào được album ảnh ,vào zalo và face book là bị đá ra .màn hình luôn hiện \" có lỗi xảy ra, vui lòng thử lại sau \" ,vào phần google+ cũng ko được ,mình đã đem ra tiệm chạy lại chương trình vẫn ko hết .xin cho lời giải đáp :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.95766,
+         "id": "786792",
+         "field_search": "question",
+         "question": "Mình đang muốn đổi icon thành một nhóm nhạc mình thích trên iPhone 4s mà không biết cách làm sao . Chỉ giúp mình với ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.766758,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.6726,
+         "id": "1144181",
+         "field_search": "question",
+         "question": "Tình hình là máy Laptop HP. Hôm qua tôi đã đặt lại pc, buổi tối tôi bật máy lên thì hiện cửa sở choose an option. Không biết tôi ấn phải cái gì mà mấy tiếng sau tôi bật máy thì chưa được 1s thì tự động tắt. Nó bị liên tục, có cách nào khắc phục không ạ. Với lại làm sao để thoát khỏi chế độ choose an option ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.59438,
+         "id": "1014733",
+         "field_search": "question",
+         "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.51728,
+         "id": "1136127",
+         "field_search": "question",
+         "question": "em có mua 1 máy xiaomi redmi note 5 ở tgdd nhưng hiện tại sử dụng thì phát hiện ra lỗi bóng mờ thì có được bảo hành không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.41904,
+         "id": "1019904",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng đt Samsung Galaxy J2, hiện máy của em bị lỗi gì đó mà em mới chụp ảnh xong mở ảnh ra xem lại thì không mở được và hiện thông báo \"Không có mục nào trong bộ sưu tập\".Em mở bộ sưu tập và cả thẻ nhớ ra xem cũng không thấy có ảnh mới chụp? Em muốn hỏi làm thế nào để sửa được ạ? Cám ơn anh/chị nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.406506,
+         "id": "811494",
+         "field_search": "question",
+         "question": "QTV ơi cho mình hỏi. Mình đã đăng nhập vào appstore rồi, nhưng khi vào tải game thì lại hiện ra một tài khoản khác. Bạn chỉ mình cách khắc phục nha. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.391903,
+         "id": "858162",
+         "field_search": "question",
+         "question": "Cho em hòi. Cái laptop của em mới mua chưa được 3 tuần thì đã có hiện tượng pin hết nhanh rồi mặc dù sạc đầy 100%. Việc này xảy ra sau khi em ra tiệm nhờ người ta phá pass máy nên họ đã cài lại chương trình. Có cách gì khắc phục không mọi người. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.369484,
+         "id": "863461",
+         "field_search": "question",
+         "question": "Em đang dùng máy asus win 8.1pro dùng được khoảng 2 tháng thì tự nhiên không vào được app như: thời tiết, thể thao,.... lúc vào app thì thường bị đẩy ra ngoài và không hiện ra gì cả.. mong ad giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.299156,
+         "id": "777166",
+         "field_search": "question",
+         "question": "Mình xài Sony Xperia z5, bị lỗi nhắn tin bị lặp lại khi nhận tin nhắn của người khác, khi lấy sim ra đổi máy khác không bị. Vậy không phải lỗi của sim, vậy có phải lỗi do máy, chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.17681,
+         "id": "996632",
+         "field_search": "question",
+         "question": "Chào các bạn hỗ trợ kỹ thuật,Cho mình hỏi 1 vấn đề:Mình dùng mua iphone 6splus ở thế giới di động được khoảng 2 tháng rồi. Mấy hôm nay máy mình có hiện tượng là gọi điện thoại đi lần đầu thì không nghe thấy gì, tắt đi gọi lại thì được; tương tự cắm tai nghe vào lần đầu cũng không được, rút ra cắm lại vào thì được.Các bạn có biết lỗi này là gì và khắc phục được không?Mong sớm nhận được phản hồi từ các bạn.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.078484,
+         "id": "921218",
+         "field_search": "question",
+         "question": "Cho mình hỏi là lúc trước mình đang xài trang fanpage bình thường ( mình bán hàng online) rồi tự nhiên hơn tháng nay ko vào fp được nữa, khi click xem tin nhắn thì lại yêu cầu xem trong messenger, vô mess coi thì ko có tin nhắn nào hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.054634,
+         "id": "875835",
+         "field_search": "question",
+         "question": "Tại sao em bấm vào ứng dụng Messenger thì nó lại đá em trở ra màn hình chính. Bấm lại lần nữa thì mới hiện ra. Còn gửi tin nhắn thì lại vô cùng chậm. Cảm ơn vì đã tư vấn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.99675,
+         "id": "761323",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi Redmi Note 3, tải Messenger Facebook về thì không có phần bong bóng chat, mình vào ứng dụng Facebook thì nó không có hiện biểu tượng tin nhắn, chỉ có kết bạn và thông báo thôi, cho mình hỏi để chỉnh lại thì phải làm như thế nào ạ?? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.979244,
+         "id": "1136592",
+         "field_search": "question",
+         "question": "Hiện tại 1 tháng rồi mình không thể vào được Viber. Đã xóa và tải lại nhiều lần vẫn không vào được. Mặc dù lúc trước vẫn sài bình thường. Cứ vô là hiện như thế này ạ. Mong AD hỗ trợ giúp với ạ. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.965393,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.96372,
+         "id": "899159",
+         "field_search": "question",
+         "question": "laptop của mình mỗi lần vào mạng thì k sử dụng chuột di chuyển nhưng các tab mở ra cứ tự động chạy xuống trang cuối, lúc này mình điều khiển chuột lên đầu trang cũng tự động chạy xuống lại. hiện tượng này 2-3h xảy ra 1 lần, nó k liên tục nên mình khó mang ra trung tâm vì sợ khi đến đó hiện tượng này chưa xảy ra thì phải đợi lâu ? k biết là do bị kẹt phím nào đấy hay do lỗi Win ạ ? vì khi mình mở máy nhấp chuột vào 1 file nào đó trên destop thì lại k đc mở file đó mà tự động vào 1 file mình k hề nhấp vào ? 2 hiện tượng đó của máy mình phải khắc phục ra sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.852848,
+         "id": "1140334",
+         "field_search": "question",
+         "question": "Mình dùng ASUS zenphone 4 max ZC520KL (Android 8) và gặp hiện tượng đang dùng bình thường thì máy hiện thông báo pop-up sạc đảo ngược như hình và cắm sạc vào thì không thể nào sạc được nữa, chỉ có tắt hẳn máy đi thì mới sạc được còn lúc bật lên dùng thì không. Mình thử reset lại cài đặt gốc (factory reset) và vào chế độ safe mode để xem thử thì vẫn không hết cái thông báo này.Cái thông báo của System UI nên không thể disable nó được. Lỗi này mình search trên web thì đã rất nhiều người gặp. Có thể mang ra TGDD nhờ sửa chữa không hay phải mang qua trung tâm bảo hành của ASUS vậy?Mong được giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.819016,
+         "id": "756938",
+         "field_search": "question",
+         "question": "AD ơi máy mình dạo này bị lỗi này, giúp mình với. khi khởi động của sổ search result luôn hiện ra (hình 1), tắt mãi mới được, thỉnh thoảng lại hiện lại. còn trong trinh duyệt web mỗi khi đánh chữ thì được mấy kí tự thì nó nhảy đến hiện trong hộp thoại mình khoanh vòng đỏ trong hình 12. Mình cài lại win cũng vẫn bị, cài win khác (win xp) vẫn bị, vào mini win xp hộp thoại vẫn hiện ra, hiện tại mình đang dùng win 7. Nếu mình tắt tính năng windows search thì khởi động xong máy báo lỗi windows search và máy không cho làm việc (kích chuột không được). nếu các bạn biết lỗi gì chỉ mình với, cảm ơn AD nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.53807,
+         "id": "1135141",
+         "field_search": "question",
+         "question": "E dùng ip5s ios7, messenger yêu cầu cập nhật thì e xoá tải lại nhưng vô nó vẫn yêu cầu cập nhật, bấm vô appstore thì mess không có chỗ cập nhật mà chỉ có chữ open để mở ứng dụng thôi ạ, giờ e không thể vào xem tin nhắn được vì nó cứ yêu cầu cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.455612,
+         "id": "904924",
+         "field_search": "question",
+         "question": "Mình bị cướp điện thoại IP6, hiện tài khoản icloud của mình bị vô hiệu hóa, mình reset lại nhưng không cho option reset qua mail mà gởi mã qua số điện thoại của mình. mình điền mã vào thì nó thông báo khi nào tài khoản sẵn sàng khôi phục thì sẽ nhắn tin đến số điện thoại của bạn,quá trình khôi phục sẽ mất vài ngày. tuy nhiên mình chờ vẫn không thấy tin nhắn. cho mình hỏi còn cách nào khác để lấy lại tài khoản này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.42742,
+         "id": "779766",
+         "field_search": "question",
+         "question": "Messenger không thể gửi tin nhắn thoại (Voice message) là tại vì sao ạ ? tin nhắn load rất lâu nhưng tin nhắn thoại chỉ có 5s thôi và cuối cùng Messenger báo lỗi ko gửi đc. Mình đã thử nhiều cách như update, tắt nguồn máy, xóa Mess và cài lại những vẫn không dùng được !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.41663,
+         "id": "944820",
+         "field_search": "question",
+         "question": "E có cái laptop asus bị lỗi không vào được Store, bảng thông báo là Element not foud, máy bị gì và làm sao khắc phục được? hiện đã hết bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.37895,
+         "id": "1145203",
+         "field_search": "question",
+         "question": "Em reset lại chiếc HP Win 10 sau khi reset lại được thì em mở máy tính lên rồi nó bảo là chọn ngôn ngữ em chọn tiếng Việt xong sau đó là nó bảo Chọn khu vực em chọn khu vực Việt Nam và chọn bàn phím và em chọn bàn phím Việt nhưng sau khi em nhắn tiếp theo thì nó lại để là đang đã xảy ra lỗi và em nhấn nút thử lại liên tiếp nhưng không được Cứ thấy hoài máy tính em không thể thoát khỏi chỗ này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.33874,
+         "id": "871595",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi vào facebook trên smarthphone thì có hiện thông báo là phải tạo một mã khóa mới. Nhưng khi tạo thì lại bảo là xảy ra lỗi như hình dưới đây. Có bạn nào biết thì chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.22969,
+         "id": "770360",
+         "field_search": "question",
+         "question": "Iphone 5s mua ở TGDD được 2 ngày appstore khi vào thì màn hình trắng không hiện ra gì. Ngày đầu tiên mở Appstore bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.177753,
+         "id": "818973",
+         "field_search": "question",
+         "question": " Bây giờ đã jailbreak được ios 9.2.1 chưa ad e thấy mấy nhóm hacker họ bảo đã bẻ khoá đc ios 9.2.1 rồi mà ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.106873,
+         "id": "1142329",
+         "field_search": "question",
+         "question": "Em dùng oppo a11w. Đang dùng tự nhiên nó hiện lên cái gì cũng rất tiếc đã dừng lại, vào cái gì cũng ko được, vào cài đặt cũng không được luôn. thử tắt nguồn rồi bật lại nhưng nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.03031,
+         "id": "761045",
+         "field_search": "question",
+         "question": "Cho em hỏi. Một ngày đẹp trời thì bỗng dưng ipad của em trở chứng không vào được hệ điều hành. Chỉ hiện thị logo quả táo rồi đơ. Em đã kết nối  Itunes và cài lại hệ điều hành nhưng vẫn không được và báo lỗi 4005 và lỗi 4013. Cho em hỏi có cách nào có thể reset lại máy không ạ? Em đang dùng ios 9.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.013126,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.734215,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.58609,
+         "id": "1157413",
+         "field_search": "question",
+         "question": "Mk dùng Oppo f9 dạo này vào youtobe xem thì xem video chính ở dưới lại không hiện các video khác mà xuống thằng phần comment luôn đã xoá đi tải lại vẫn không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

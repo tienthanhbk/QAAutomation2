@@ -1,0 +1,801 @@
+{
+   "id_query": "1000745",
+   "total": 29959,
+   "total_current": 100,
+   "max_score": 65.50943,
+   "origin_question": "Tại sao iphone của em là tiếng việc  mà vào safari lại ra thành tiếng trung quốc ạ  ",
+   "hits": [
+      {
+         "score": 31.727818,
+         "id": "786709",
+         "field_search": "question",
+         "question": " HhSafari của em hiện toàn tiếng trung quốc là sao a   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.57231,
+         "id": "857623",
+         "field_search": "question",
+         "question": " Đt em lâu ngày ko vào app store hôm nay em mở ra thì toàn là tiếng trung quốc em phải làm thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.84236,
+         "id": "1134146",
+         "field_search": "question",
+         "question": "em mới mua xiaomi reb mi note 5 pro mà mở ra toàn Tiếng Trung làm sao để cài đặt lại vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.224598,
+         "id": "783837",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi cách đổi ngôn ngữ của appstore cua apple thành tiếng việt ai hiện tại thì nó đang là tiếng mĩ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.816254,
+         "id": "1020758",
+         "field_search": "question",
+         "question": "Anh oi em cái máy tình bảng mà nó bị treo logo máy h e hard seset máy lại là nó nỏi tiếng anh hay tiếng trung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.46428,
+         "id": "876483",
+         "field_search": "question",
+         "question": "Tại sao viber trên lumia 1520 không có tiếng việt? Xóa rồi tải lại cũng vậy . Ngôn ngữ máy của e là tiếng việt mà. Nó toàn hiện tiếng pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.567392,
+         "id": "1158902",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi, điện thoại oppo f1s của đang ở chế độ tiếng trung mình muốn thành tiếng việt làm như thế nào ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12922,
+         "id": "1158041",
+         "field_search": "question",
+         "question": "Làm sao có thể tắt tiếng camera khi chụpCủa iphone X của hàn quốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.636042,
+         "id": "1153830",
+         "field_search": "question",
+         "question": "Em tên là thành ạ! Em có một chiếc Xiaomi redmi note 3 mà khi em cắm tai nghe vào thì k nghe thấy gì mà khi mở loa ngoài cx k nghe thấy tiếng lại còn có tiếng nổ nhỏ đẹt đẹt nữa ạ! Cảm ơn ace đã tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.305481,
+         "id": "783747",
+         "field_search": "question",
+         "question": "Làm sao để đổi ngôn ngữ của appstore iphone vậy ad em lỡ đổi thành tiếng mĩ để tìm ứng dụng thegioididong rồi mà không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.246569,
+         "id": "992860",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 7 plus, mình cài ngôn ngữ tiếng Việt nhưng ở lịch k hiện ngôn ngữ tiếng Việt mà là ngôn ngữ khác giống tiếng Trung. Do cài đặt hay do máy ah. Ngôn ngữ nó thế này đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.244904,
+         "id": "760234",
+         "field_search": "question",
+         "question": "  Cho em hỏi em mua cái iPhone Trung Quốc reset máy lại cái bị đứng luôn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.97802,
+         "id": "854198",
+         "field_search": "question",
+         "question": " iphone minh phát ra tiếng xoi nơi loa, tiếng ra bễ. Minh hỏi vì xao lại bị như vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.853132,
+         "id": "804506",
+         "field_search": "question",
+         "question": " Tại sao điện thoai em Zalo đăng nhập được vài tiếng lại bị kích ra và phải đăng nhập lại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.738113,
+         "id": "998449",
+         "field_search": "question",
+         "question": "Laptop của e còn trong thời gian bảo hành, hiện tại do máy chạy chậm và có một số phần mềm tiếng trung mà em không gỡ ra được. Vậy e có thể gửi máy đi bảo hành, cài lại chương trình Win được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.592384,
+         "id": "995326",
+         "field_search": "question",
+         "question": "Tại sao xem video trên iPhone 6 mà không nghe được tiếng.,?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.425365,
+         "id": "771369",
+         "field_search": "question",
+         "question": " Cho em hỏi  Sạc iphone 4s 8 tiếng mà không đầy pin là bị sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.279331,
+         "id": "745110",
+         "field_search": "question",
+         "question": " Sao iPhone 5S của em lại là Unknown mà em đã mua bản quốc tế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.255487,
+         "id": "1138073",
+         "field_search": "question",
+         "question": "vui lòng cho em hỏi, em muốn đổi ngôn ngữ khi soạn văn bản từ tiếng việt sang tiếng trung thì chuyển làm sao trên  galaxy a7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.145529,
+         "id": "781701",
+         "field_search": "question",
+         "question": " Tôi vừa mua iphone 6s tải ứng dụng camera 360 về sao lại có chữ trung quốc. giao diện chữ trung quốc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.000774,
+         "id": "749518",
+         "field_search": "question",
+         "question": "  Tại sao máy iphone 6 tôi mới mua lại bị mất tiếng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.965631,
+         "id": "780493",
+         "field_search": "question",
+         "question": " Sao ipad air của em chơi game không có tiếng mà xem phim nghe nhạc có tiếng binh thường ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.937262,
+         "id": "990743",
+         "field_search": "question",
+         "question": "cho em hỏi: củ sạc iphone 5 của em gần đây có phát ra tiếng kêu xì xì khi cắm vào ổ cắm, dù chưa cắm cáp thiết bị. Hiện tượng này là sao vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.39003,
+         "id": "1167551",
+         "field_search": "question",
+         "question": "ad ơi   Amazfit Bip của mình có ngon ngữ tiếng trung, mình muốn qua tiếng việt phải làm như thế nào ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.329231,
+         "id": "796950",
+         "field_search": "question",
+         "question": " Cho hỏi điện thoại iPhone của mình sao Youtube mà không có tiếng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.289274,
+         "id": "752304",
+         "field_search": "question",
+         "question": " Ad giúp cài lại tiếng việt cho lg g2 F320. Lúc nãy khôi phục cài đặt gốc mất hết tiếng việt giờ toàn tiếng hàn quốc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.288015,
+         "id": "778542",
+         "field_search": "question",
+         "question": " anh ơi điện thoại iPhone 17 pin mà sạc hơn 3 tiếng chưa đầy thì việc gì không máy mới mua. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.104172,
+         "id": "761174",
+         "field_search": "question",
+         "question": " Em gõ nhẹ vào bên trên đầu máy iPhone 5s có tiếng kêu lắc cắc. Như vậy là bị làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.074982,
+         "id": "1138886",
+         "field_search": "question",
+         "question": "Trước máy ss j5 2k15 của em sạc 2-3 tiếng là đầy, bây giờ phải sạc đến 8 tiếng . Sạc 2-3 tiếng chỉ được có 20% là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.033918,
+         "id": "825799",
+         "field_search": "question",
+         "question": "ad cho e hỏi tại sao latop của em mấy hôm nay cứ bật máy lên là quạt nó quay mạnh kêu thành tiếng rât to mặc dù chỉ mới mở máy lên thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.888847,
+         "id": "748566",
+         "field_search": "question",
+         "question": "Muốn cài đặt ngôn ngữ hiển thị là tiếng Đức cho máy Samsung G530 thì phải làm sao? Em có vào phần ngôn ngữ mà không có tiếng Đức, anh chị chỉ cho em giờ phải làm sao với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.86568,
+         "id": "1150268",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao khi em quay màn hình xong thì sau khi xem lại em ko nghe tiếng ạ?Hiện tại em đang sài Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.706722,
+         "id": "1001927",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao YouTube em đang xem bình thường xong em thoát ra vào lại thì YouTube  vấn chạy bình thường  nhưng lại không có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.644398,
+         "id": "1166040",
+         "field_search": "question",
+         "question": "máy của em từ khi đổi ngôn ngữ qua tiếng hàn và sau đó đổi lại tiếng việt thì vẫn có vài app khi em tải về bị dính ngôn ngữ tiếng hàn, em phải làm sao để khắc phục ạ?máy em là ip 6s+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.644241,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.490467,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.410244,
+         "id": "756313",
+         "field_search": "question",
+         "question": " Máy iPhone của em  tự nhiên không có tiếng là sao ? Ấn nút âm lượng cũng không được.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.343716,
+         "id": "1147404",
+         "field_search": "question",
+         "question": "Tại sao iphone 6s gọi trên mess không nghe tiếng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.278898,
+         "id": "1008958",
+         "field_search": "question",
+         "question": "Điện thoại của mình khi bật nhạc nên thì luôn có tiếng bài sau chèn vào tiếng bài này, làm sao khắc phục bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.245892,
+         "id": "1010789",
+         "field_search": "question",
+         "question": "Cho hỏi sao j7 của em lúc ms mua thì sạc đầy là 2 tiếng mấy mà sao bây h đc cỡ một tháng là sạc hơn 3 tiếng ms đầy. Với lại sao dùng 5 _6 phút là nó giảm 1% pin vậy ad pin có bị sao không . Ak vs lại 27.0 Mb là bao nhiêu Gb vậy ạ Rep nhanh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.200357,
+         "id": "1148162",
+         "field_search": "question",
+         "question": "Tại sao vừa tải Liên quân về thì chơi được,nhưng sau đó 2-3 tiếng vào lại game thì chỉ hiện thị một màu đen thui là sao?? Máy em là samsubg a7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.11115,
+         "id": "844573",
+         "field_search": "question",
+         "question": "Cho em hỏi vì sao khi nạp pin IPad sau 1 tiếng em cầm len mà IPad nóng như lửa đốt mà trong khoảng 1 tiếng đó là em đang ngủ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99711,
+         "id": "795969",
+         "field_search": "question",
+         "question": "Help me!Anh/chị giúp em với ạ.Em đang dùng ip5. em vào phần cài đặt để Xóa và đặt lại. Lúc dthoai khởi động lại, đầu tiên là cài đặt ngôn ngữ. Em đang định tìm Tiếng Việt, nhưng trót chạm vào ngôn ngữ Tiếng Trung. Không hiểu gì hết. Em ấn loay hoay quay lại 1 hồi k đc. Giờ máy đơ, không kéo gạt sang để mở máy nữa rồi.Cứ ấn nút Home sáng, là điện thoại hiện lần lượt 1 loạt các ngôn ngữ mang ý nghĩa 'Xin chào' và âm thanh đi cùng. Nhưng em vẫn không mở được khóa.Giúp em với ạ, làm sao để cài lại được Tiếng anh or Tiếng Việt. Kiểu reset lại máy về như ban đầu ạ. Em cảm ơn!Help me!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.906902,
+         "id": "1138566",
+         "field_search": "question",
+         "question": "cho em hỏi là máy của em là ip6 bộ nhớ 16GB nhưng file ghi âm của em lại không mở đươc. File ghi âm của em gần 2 tiếng, bây giờ em có bấm play ra sao nó cũng không chạy. Làm sao để em có thể mở được file ghi âm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.897314,
+         "id": "1003560",
+         "field_search": "question",
+         "question": "- shop ơi cho em hỏi là hiện tại cái ipad của em đã bị hư tiếng và kh phát ra âm thanh được nữa nếu như sửa tại tgdd là tầm khoảng bn tiền ạ mong shop trả lời <3>3>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.85564,
+         "id": "919259",
+         "field_search": "question",
+         "question": "Cho em hỏi ID của em là ở Việt Nam nhưng tại sao bây giờ em tải app là chuyển qua tiếng Nhật. Có cách gì giúp em được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.846468,
+         "id": "841896",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 5s của e nhấn vào 2 góc màng hình trên thì bên trái nhịp hơi nhẹ còn bên phải phát ra tiếng kêu luôn thì có sao kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.835482,
+         "id": "1150267",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao đt oppo A3s khi quay màn hình lại không có tiếng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.829533,
+         "id": "775354",
+         "field_search": "question",
+         "question": "Cho e hỏi là e cắm sạc con iphone 5 của e mà e quên và cắm nó sạc 10 tiếng, có bị gì không ạ, e rút ra xài thấy pin xuống mau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80476,
+         "id": "1158118",
+         "field_search": "question",
+         "question": "Khi gọi cho điện thoại mà máy báo \"để lại lời nhắn sau tiếng bip\" là sao vậy ạ?, số máy đó bị tắt nguồn hay thẻ sim bị rút ra rồi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.709837,
+         "id": "769103",
+         "field_search": "question",
+         "question": "  Iphone 6 cấu hình nó nhảy giống máy trung quốc em vô ứng dụng thoát ra nó ra chứ không phải như mấy máy iphone khác ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.692081,
+         "id": "773154",
+         "field_search": "question",
+         "question": "anh mình mua máy dianji bên trung quốc. làm thế nào để cài tiếng việt được. đã thủ các phần mềm nhưng không được. nếu đi cài lại win thì có driver cho máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.687645,
+         "id": "895767",
+         "field_search": "question",
+         "question": "máy tính của em khi gọi facebook hay skype em nghe được tiếng của người ta nhưng người nghe không nghe được tiếng của em. em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.674316,
+         "id": "1016394",
+         "field_search": "question",
+         "question": "QTV cho em hỏi hiện tại em đang muốn mua 1 thiết bị hỗ trợ cho việc học ( chủ yếu về học phát âm tiếng anh tại trung tâm ) , em đang phân vân giữa 3 thiết bị : điện thoại , ipad hay laptop , thì theo QTV em nên xài loại nào là phù hợp nhất hiện tại em đang học lớp 10 . giá khoảng 10tr trở xuống ạ . thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.63554,
+         "id": "839331",
+         "field_search": "question",
+         "question": "iPad của em nó bị tắt nguồn còn phát ra những tiếng nói khi chạm vào màn hình.khi mở nguồn tầm 3 giây lại bị tắt tắt. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.599928,
+         "id": "774519",
+         "field_search": "question",
+         "question": "Em chào anh ah, anh cho em hỏi máy IP của em ghi kiểu máy là MD298J/A nhưng lại có số IMEI như sau : 01341 400 9462746, theo em search trên mạng thì trong dãy số IMEI có 15 số thì 6 số đầu là Type Allocation code, 2 chữ số tiếp theo là Final Assembly Code, vậy máy của em có phải là máy trung quốc không ah? vì 00 là mã của Trung Quốc. Em xin chân thành cảm ơn ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.486244,
+         "id": "878550",
+         "field_search": "question",
+         "question": "em nạp iphone khoảng 5 tiếng ,khi rút sạc ra máy báo cần để nguội iphone trước khi bạn sử dụng và em để suốt mười tám tiếng nhưng nó vẫn báo máy cần để nguội hiccc vậy e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.470337,
+         "id": "755634",
+         "field_search": "question",
+         "question": "  Kiểm tra giúp em Ad ơi, có phải iPhone Trung Quốc không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.449127,
+         "id": "813379",
+         "field_search": "question",
+         "question": " Em đang sử dụng laptop hp450 đã nầg cấp lên window 8.1 khi em vào word tại sao không gõ tiếng việt được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.421993,
+         "id": "999662",
+         "field_search": "question",
+         "question": "khi em vào youtube xem video thì chỉ nghe tiếng mà không thấy được hình. cho em hỏi làm sao để xem được hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.408363,
+         "id": "1153249",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua laptop về em cài đặt các bảng mã unicode. Kiểu gõ telex rồi mà sao vào Word vẫn ko gõ đc tiếng việt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.38181,
+         "id": "990222",
+         "field_search": "question",
+         "question": "Em cần tìm một cái điện thoại tầm 2 triệu mà chiến tốt pokemon go với lại bền tại vì em hay làm rớt. Hãng đth uy tín không phải của Trung Quốc :D. Em cảm ơn ~",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.373425,
+         "id": "1151057",
+         "field_search": "question",
+         "question": "Ad cho e hỏi iphone model “MKU92KH/A “ là của nước nào vậy ạ? Và sao e chụp ảnh đã cài nút silent nó vẫn lên tiếng ạ. E mún tắt tiếng thì như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.282545,
+         "id": "958833",
+         "field_search": "question",
+         "question": " IPhone của em là bản quốc tế . Em kiểm tra imei sao máy lại hiện là  kiểm tra sim lock ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.277714,
+         "id": "1149362",
+         "field_search": "question",
+         "question": "cho em hỏi máy em cứ bị đơ xong sau đó là tiếng Siri cứ nhấn home là lại có tiếng siri. Màn hình mờ không cho tắt nguồn reset cũng không được. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.254223,
+         "id": "785360",
+         "field_search": "question",
+         "question": " Tại sao máy wiko rainbow jam sạc pin lâu vào thế tận 4 tiếng mới đầy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.233494,
+         "id": "1017344",
+         "field_search": "question",
+         "question": "em đang dùng ss j5 prime mà mới mua được 6 tháng ,à giờ sạc pin vào rất chậm 5 hay 6 tiếng mới đầy pin là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.137707,
+         "id": "799427",
+         "field_search": "question",
+         "question": "Máy của em là iphone 5s. em vào xem phim có cảnh báo là máy đã nhiễm virus. Mở Safari ra ở phần thường xuyên truy cập lại có cảnh báo. Ấn vào cảnh báo máy báo có virus và yêu cầu làm theo thao tác diệt virus. em muốn bỏ chỗ cảnh báo đó đi thì phải làm sao? (Em đã cài đặt lại iphone rồi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13435,
+         "id": "831274",
+         "field_search": "question",
+         "question": " cho em hỏi máy tính của em là lenovo làm thế nào để cài đặt ngôn ngữ của máy là tiếng việt và gõ tiếng việt trên word? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.046818,
+         "id": "1136195",
+         "field_search": "question",
+         "question": "E dùng Nokia x6 xách tay trung Quốc e nâng cấp lên Android 9 họ quá e lỡ reset máy giờ không cài được tiếng việt giờ e có thể xuống Android 8.1 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.044949,
+         "id": "1021927",
+         "field_search": "question",
+         "question": "Ad oi cho em hỏi máy iphone em bản LL/A sao chụp hình có tiếng v ạ lúc trước k có bị v ạ. Có cách nào khắc phục k ạ máy e bản quốc tế ạ Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.960108,
+         "id": "842172",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng, thế máy em có bị sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.880136,
+         "id": "777450",
+         "field_search": "question",
+         "question": " iPad em sạc vẫn vào điện nhưng pin không tăng  Giờ phải làm sao ạ? Sạc 2 tiếng rồi mà không lên được 10? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.855885,
+         "id": "756020",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào để tắt tiếng tút khi gửi tin nhắn thành công trên iPhone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.850485,
+         "id": "1138567",
+         "field_search": "question",
+         "question": "cho em hỏi là làm sao để sử dụng tính năng không gian trò chơi trên colorS 5.1 ạ em đang dùng oppo a3s mà không biết làm sao để sử dụng cái tính năng đó hiệu quá nhất  mỗi khi vào game là em phải vào đó trước rồi chọn chế độ làm việc thì chế độ đó mới có tác dụng phải không ạ ?hay là em chọn chế độ làm việc xong rồi để đó, out ra tắt máy rồi vào lại game thì chế độ làm việc đó còn tác dụng không ạ ?hay là em phải vào lại không gian trò chơi chọn lại chế độ đó rồi vào game mới có tác dụng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.849104,
+         "id": "1003319",
+         "field_search": "question",
+         "question": "Máy tính bảng của mình là Samsung Galaxy Tab 2 7.0, mình ko hiểu sao trưa nay máy tự tắt nguồn, mình bật không lên được mà máy còn phát ra tiếng kêu \"ping ping ping ping...\" mãi, cho dù đã cả mấy tiếng đồng hồ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.847233,
+         "id": "922780",
+         "field_search": "question",
+         "question": " Mình cần mua laptop tầm 8 tr phục vụ cho việc học tiếng anh của em gái. Không biết mình nên chọn loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.745686,
+         "id": "791535",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5, mình thử chuyển bàn phím sang tiếng hàn cho vui, nhưng khi vào siri thì toàn thấy tiếng hàn dù mình đã xoá tiếng hàn ở cài đặt bàn phím rồi, làm sao để trở lại như cũ đc, giúp vs!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.744173,
+         "id": "842567",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng và sử dụng lại có tiếng bình thường, thế máy em có bị vấn đề về loa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.695274,
+         "id": "1020944",
+         "field_search": "question",
+         "question": "Phần mềm battery life kiểm tra pin có chính xác hk ạ.  Iphone đnag sạc 98% rút ra có việc r cắm vào lại nhảy lên 100% là do pin chai hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.671398,
+         "id": "1151321",
+         "field_search": "question",
+         "question": "cho em hỏi. đt ip7 của em được mua tại nhật là Phiên bản Quốc Tế sao về Việt Nam thì lại ko nhận sim ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.656807,
+         "id": "780040",
+         "field_search": "question",
+         "question": "iPhone 4 của mình không biết nghịch vào đâu mà giờ khởi động lên thì màn hình chỉ sáng được mấy giây là tối đen và ấn vào màn hình thì toàn nói tiếng anh thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.56958,
+         "id": "1009124",
+         "field_search": "question",
+         "question": "Camera sau của sony xa bị mờ và phát ra tiếng rè khi chụp là lỗi gì a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.555176,
+         "id": "1145933",
+         "field_search": "question",
+         "question": "Cho em hỏi em có sài sim thái. Em đã tháo sim ra và sai sim việt nam mà yahoo mail thông báo facebook toàn tiếng thái. Lam sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.535843,
+         "id": "1019977",
+         "field_search": "question",
+         "question": "em dùng ss j7 pr được mấy tháng. trước đây sạc khoảng hơn 2 tiếng là đầy pin. Bây giờ em sạc hơn 3 tiếng nhưng chỉ đến 92%. Cho em hỏi là đt của em có bị sao không ạ? Khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47218,
+         "id": "1024608",
+         "field_search": "question",
+         "question": "tgdd cho e hỏi laptop của em mới mua về sao cửa hàng store không phải là tiếng việt, muốn chỉnh lại thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.460127,
+         "id": "825656",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy em iphone 5 quốc tế...sao em không tắt tiếng chụp ảnh được ạ..dù đã gạt cái công tắt ở bên rồi..chụp vẫn kiêu ad ơi..chi em hỏi có cách nào để tắt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.431385,
+         "id": "826834",
+         "field_search": "question",
+         "question": " Tại sao quay video... nghe tiếng nhạc nó nhỏ vây ạ.. có thể giúp làm thế tăng tiếng cao hơn ko ạ... dù đã max volume ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.387056,
+         "id": "1150890",
+         "field_search": "question",
+         "question": "Em lỡ sạc lần đầu của nova 3i 8 tiếng rồi thì có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.37983,
+         "id": "780316",
+         "field_search": "question",
+         "question": "Tôi mới mua máy iPhone 6S Plus ở Thế giới di động. Trưa nay đi cài đặt app và nhạc chuông thì trên máy xuất hiện app white noise. Tôi đã xoá app trên máy, nhưng vào mục safari vẫn thấy xuất hiện biểu tượng của app này với chữ Trung Quốc ở trên màn hình chính của safari. Vậy cho tôi hỏi app này có tác dụng gì và nếu muốn loại bỉ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.249262,
+         "id": "756988",
+         "field_search": "question",
+         "question": " Mọi người cho em hỏi là iphone 5 của em dùng đc 5 tiếng đồng hồ  thì có phải do hỏng pin hay không ạ. Em cám ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.223747,
+         "id": "800948",
+         "field_search": "question",
+         "question": " Sao laptop hp của em không gõ tiếng việt được ạ? QTV chỉ em với ,em cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.209059,
+         "id": "1142695",
+         "field_search": "question",
+         "question": "Em sài s9 phiên bản hàn quốc làm sao để chuyển thành 4g ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.203777,
+         "id": "776559",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu iPhone 6s mà sạc pin thì chắc chắn mấy tiếng sẽ đầy pin ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.19821,
+         "id": "777859",
+         "field_search": "question",
+         "question": "Chào a.c cho em hỏi em dùng iPhone 6 chạy 9.2 thì sạc pin chỉ hơn 2 tiếng đầy. Em vừa nâng lên 9.2.1 mà sạc hơn 3 tiếng nó mới đầy ah. Sạc em là sạc chính hãng . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.180307,
+         "id": "1156880",
+         "field_search": "question",
+         "question": "Dạ máy em( huawei y7 pro 2018) nó bất em cập nhật sao khi em cập nhật máy nó mất tiếng hết ạ đeo tay nghe vào vẫn ko nghe tiếng Giúp em đc ko a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.177004,
+         "id": "1019893",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi biểu tượng hình tròn gạch chéo này là sao ạ, máy em giờ gọi đến ,gọi đi hay nghe nhạc đều ko phát ra tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.172384,
+         "id": "1164585",
+         "field_search": "question",
+         "question": "Chào bạn cho tui hỏi. Sao đt tui a6 sạc 1 lần gần 5 6 tiếng mà vẫn ko đầy pin đc.là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.128454,
+         "id": "948455",
+         "field_search": "question",
+         "question": "E mới mua macbook air, lúc ở chỗ mua nhân viên có nói là mac sạc những 8 tiếng mới đầy nhưng e sạc (lần 2) thì thấy chỉ mất 2 tiếng là đầy nhưng em vẫn để tới 9-10 tiếng, cho em hỏi như vậy máy có bth k ạ?Với lại phần dung lượng điện sạc đầy em vô coi lúc đầu là 7050 1 tiếng sau e coi lại thì còn có 7038 vậy là sao ạ?Xin lỗi em hỏi hơi nhiều vì lần đầu e sử dụng mac nên không rõ ToT",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

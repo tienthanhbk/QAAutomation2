@@ -1,0 +1,801 @@
+{
+   "id_query": "1000715",
+   "total": 29075,
+   "total_current": 100,
+   "max_score": 88.68487,
+   "origin_question": "Sao nút gạt rung iphon7 hơi bị lỏng lẻo vậy bạn.Những máy khác có bị ko ban",
+   "hits": [
+      {
+         "score": 22.26966,
+         "id": "758130",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi máy iPhone 5s của em nút nguồn nó bị lỏng lỏng bấp bênh thì có sao không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.09399,
+         "id": "801696",
+         "field_search": "question",
+         "question": " Tại sao máy iphone 5s em mới mua nút âm lượng bị lỏng zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.794662,
+         "id": "787781",
+         "field_search": "question",
+         "question": " sao iphone 6s khi nó rung, cảm nó giống như bị lỏng vậy, dt thì rung khi cầm lên thi nghe tựt tựt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064928,
+         "id": "808086",
+         "field_search": "question",
+         "question": "Cho mình hỏi nút bật gạt chuyển đổi từ chế độ rung sang chuông của iPhone bây giờ bị hỏng thì có thay được không bây giờ điện thoại mình không chuông được mà cứ rung mãi bất tiện lắm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.455948,
+         "id": "1157886",
+         "field_search": "question",
+         "question": "Mình dùng   iPhone 4S máy không bị treo nhưng bỗng mk gạt trung tâm thông báo xuống thì giờ ko gạt lên đc  với lại nút nguồn của mình bị liệt mình phải làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35743,
+         "id": "988902",
+         "field_search": "question",
+         "question": "Trước khi mua về thì em k có kiếm những mục này và tgdd bóc hàng còn nguyên con nhưng khi về em thấy vậy và khe sim k có số imei nút nguồn hơi lỏng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.186842,
+         "id": "1014641",
+         "field_search": "question",
+         "question": "Xin chào,cho mình hỏi camera sau ip6+ của mình khi bật lên có tiếng kêu rè rè (như bị đứng) màn hình hơi rung rung,không biết là bị gì nữa bên mình có hỗ trợ sửa chữa không ạ? ( mình mua ở nơi khác )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.987432,
+         "id": "1010687",
+         "field_search": "question",
+         "question": "Máy oppo f1s của e bị hơi nước vô camera có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.598791,
+         "id": "1152002",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Mình mới mua Nokia 8.1 trong chưa tới một tuần nhưng bị lỗi. Mình có ra TGDĐ để đổi thì được một máy khác. Nhưng về thì máy này lại bị lỗi là nút bấm tăng giảm âm lượng bị lỏng có dấu hiệu khác thường so với các máy có cùng dòng và trên cảm nhận so với máy trước. Vậy thì trong trường hợp này mình có được tiếp tục đổi mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.89479,
+         "id": "773464",
+         "field_search": "question",
+         "question": "Ad giúp mình với. Minh vừa mua con iPhone 6s plus. Hiện tại mình cài cùng 1 chế độ nhưng khi có cuộc gọi đến thì có khi nó đổ chuông, có khi lại ko, mình gạt nút chỉnh chế độ xuống rồi gạt lên thì nó đổ chuông lại bình thường. Nghi ngờ do lỗi hệ điều hành, nhưng mình đã update từ ios 9.1 lên ios 9.2 nhưng ko khắc phục được. Như vậy là bị máy bị lỗi gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.784718,
+         "id": "840730",
+         "field_search": "question",
+         "question": " Em mới mua iPhone 5s về sạc thấy máy hơi bị nóng vậy có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.327147,
+         "id": "1160175",
+         "field_search": "question",
+         "question": "Mình dùng con oppo A37fw chế độ Rung mình cai đặt ko chạy dc.do máy bị hư hay là ĐT ko có hổ trợ rung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.14423,
+         "id": "1163970",
+         "field_search": "question",
+         "question": "Xin chào. Mình mới mua nokia 5.1 plus hôm chủ nhật, nhưng về nhà sử dụng thì thấy ko hiển thị thông báo khi có cuộc gọi, vẫn có rung và chuông. Vào cài đặt - thống báo - điện thoại thì không gạt được nút điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.034376,
+         "id": "774948",
+         "field_search": "question",
+         "question": "Máy iPhone 5 lúc nằm mà dùng máy nghiêng máy thì loa ngoài phát được, hơi nhỏ 1 tí, nhưng dùng bình thường như ngồi, đi lại thì loa ngoài không nghe được, chỉ có lúc nằm mới được ( hơi nhỏ) cái này là do lỏng chân loa hay là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.995489,
+         "id": "1163115",
+         "field_search": "question",
+         "question": "Mình đang xài máy samsung j7 pro...bây giờ nó bị hư rung...các tính năng khác đều ok...cho mình hỏi nếu sữa rung thì giá bao nhiêu vậy shop???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.577556,
+         "id": "876514",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là: em dùng iphone 5 ý. Tự nhiên hôm qua màn hình bị tối. Kiểu bị cháy màn hình ý ạ. Nhưng người khác gọi thì mình vẫn có thể gạt nghe máy được. Vậy cho em hỏi là giờ phải làm sao để khắc phục đuoejc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.539257,
+         "id": "800947",
+         "field_search": "question",
+         "question": "Mình dùng ip6. mấy hôm nay máy mình chạy hơi chậm so với ban đầu, tại mình kích vào link xem phim rạp trên Facebook có khả năng máy bị virut khồng vậy ạ????? cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.352917,
+         "id": "1150724",
+         "field_search": "question",
+         "question": "cho mình hỏi một chút. Mình mới mua iphone 7p mới, từ ngày 3/2/2019. mình không biết vì sao tiếng chuông báo của mình sau mỗi ngày nó tự động chuyển sang chế độ rung, khi có người gọi đến nó chỉ rung mà thôi. Sau đó mình lại phải gạt nút bật tắt âm thanh ở bên mép trái của đt thì nó mới phát ra tiếng. trong khi đó ngày hôm trước mình không thao tác gì trên nút gạt đó cả.xin cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.277588,
+         "id": "1002578",
+         "field_search": "question",
+         "question": "nút trở lại máy điện thoại Galaxy j5 cài sao cho nó rung Adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.063905,
+         "id": "742003",
+         "field_search": "question",
+         "question": " iPhone 6S lúc có cuộc gọi đến nó rung giống như bị lõng là sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9236145,
+         "id": "752511",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy Samsung Galaxy J7 của mình khi có cuộc gọi đến thì không rung mà chỉ có chuông thôi. Mình cài đi cài lại, bật chế độ rung cũng không được. Như vậy là bị gì vậy Ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.832549,
+         "id": "1139078",
+         "field_search": "question",
+         "question": "Máy e oppo f9 có cuộc gọi không đổ chuông không rung khi đã bật âm lượng lớn và bật rung. Máy e bị lỗi gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.646697,
+         "id": "988894",
+         "field_search": "question",
+         "question": "cho em hỏi chiếc ip se mới mua nhưng em k hiễu s trong app store tiềm kiếm lại có mấy cái mục ai đã tìm mà k phải em vs em thây nút nguồn hơi lỏng và khe sim không có số imei",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.607077,
+         "id": "1154554",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em cứ lúc nào sạc là bị nhoè theo kiểu màu bị mờ hơi hơi trắng.Có phải gần thiết bị gì đó nên màn hình bị như vậy không ạt.Em đang dùng IPhone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.606272,
+         "id": "775134",
+         "field_search": "question",
+         "question": "Màn hình laptop bị rung và hình ảnh cứ giật giật như bị nhiễu sóng là bị làm sao vậy ad? máy mình chạy win 10 nhé hỗ trợ giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.374466,
+         "id": "773670",
+         "field_search": "question",
+         "question": "Ad giúp mình với. Minh vừa mua con iPhone 6s Plus. Hiện tại mình cài cùng 1 chế độ nhưng khi có cuộc gọi đến thì có khi nó đổ chuông, có khi lại không, mình gạt nút chỉnh chế độ xuống rồi gạt lên thì nó đổ chuông lại bình thường. Nghi ngờ do lỗi hệ điều hành, nhưng mình đã update từ iOS 9.1 lên iOS 9.2 nhưng không khắc phục được. Như vậy là bị máy bị lỗi gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.246806,
+         "id": "1003344",
+         "field_search": "question",
+         "question": "Cho e hỏi sony xz có triệu chứg hơi bị lag là bị sao v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.152471,
+         "id": "881413",
+         "field_search": "question",
+         "question": " sao có mạng mạnh lại vào appstore bị chậm có lúc ko vào để tải được và chụp anh màn hình hơi nhiễu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.04232,
+         "id": "991586",
+         "field_search": "question",
+         "question": "phải làm sao khi nút nguồn của iphone bị hỏng có lúc bật đc có lúc ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.021378,
+         "id": "899273",
+         "field_search": "question",
+         "question": "Mình dùng iphone6 thi thoảng mình ấn vào các đường link rồi n hiện ra nhiều cửa sổ khác mình thấy hơi lo lắng liệu có bị dính virut ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.016315,
+         "id": "1003892",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e xài ip 5s ios 10.3.1 ! Thi thoảng máy bị lỗi có người gọi đến ko đổ chuông mà chỉ rung ! Tắt nguồn đi được vài ngày là lại bị như thế ! Vậy có phải do lỗi phần mềm hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.988652,
+         "id": "1023997",
+         "field_search": "question",
+         "question": "Em đang Sài iPhone 6 plus nhưng máy bị rung yếu đôi khi thì rung mạnh nhưng chỉ 1-2 giây cho em hổi cách khắc phục vs có nhận sửa ko máy này em ko mua ở tgdd vs nó là máy look",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.964956,
+         "id": "1160178",
+         "field_search": "question",
+         "question": "Mình dùng con oppo a37fw chế độ rung ko chỉnh dc là do máy hư chế độ rung hay máy ko hổ trợ vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.934583,
+         "id": "1164909",
+         "field_search": "question",
+         "question": "Tại sao xs max của e vừa mới mua ở tgdd e phát hiện máy gọi k rung e thử nhiều cách mà nó k rung là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.894368,
+         "id": "1011325",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy galaxy j7 pro của mình có khi bị mất rung, vào cài đặt cũng không có rung. Làm thế nào khắc phục được ạ??? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.83928,
+         "id": "786920",
+         "field_search": "question",
+         "question": "Máy Sony xperia m2 mình đang dùng bị rung liên tục không biết bị làm sao.Lúc đầu nó làm đơ màn hình mình tắt bật máy không được, sau đó thì cảm ứng màn hình bình thường lại nhưng hơi chậm, còn máy thì vẫn tiếp tục rung kể cả khi đã tắt nguồn.Có ai biết lỗi do đâu và sửa ntn thì chỉ e với ạ T.T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.835065,
+         "id": "883035",
+         "field_search": "question",
+         "question": "tôi vừa mới mua một máy dell giá 13 triệu 300, thời gian khoảng 1 tuần, nhưng mà máy có đoi lúc dùng hơi bị đơ, vậy tôi có thể mang ra đổi được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.710324,
+         "id": "1149423",
+         "field_search": "question",
+         "question": "Máy mình sao khi tắt fastboot mode thì ko khởi động được nửa , nhấn giữ nút nguồn thì máy chỉ rung nhẹ chứ không khởi động lên , ai giúp mình với mình đang dùng lenovo tab4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.690822,
+         "id": "775946",
+         "field_search": "question",
+         "question": "Mình mới mua con Iphone 6s, khi có cuộc gọi đến, máy rung có kèm theo tiếng pực pực như kiểu cái gì đó trong máy bị va vào nhau. Hỏi nhân viên cho xem máy khác cũng như vậy và bảo là dòng 6S nó thế. Ko yên tâm lắm, ad giải thích giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.550894,
+         "id": "1140619",
+         "field_search": "question",
+         "question": "bên mình có thay vỏ samsung galaxy j8 k vậy ,điện thoại vỏ sau hơi bị trầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.533353,
+         "id": "919850",
+         "field_search": "question",
+         "question": "Máy ip 6pl của mình bị lỗi màn hình lúc mới bật thì nó lag ko ấn nút được có khi ấn nút này nó nhảy sang nút khác vào chơi game nặng là màn đứng luôn xong ấn nút tắt nguồn r vào lại vài lần thì nó lại bt và ko lỗi nữa ad cho hỏi đấy là do lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.499504,
+         "id": "775948",
+         "field_search": "question",
+         "question": "Mình mới mua con Iphone 6s, khi có cuộc gọi đến, máy rung có kèm theo tiếng pực pực như kiểu cái gì đó trong máy bị va vào nhau. Hỏi nhân viên cho xem máy khác cũng như vậy và bảo là dòng 6S nó thế. Ko yên tâm lắm, ad giải thích giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.481168,
+         "id": "837894",
+         "field_search": "question",
+         "question": " Iphone mới mua sạc vào pin hơi nhanh ạ. Chưa đến 3 giờ. Vậy là có bị sao không ạ. Em đang xài 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.474296,
+         "id": "1001999",
+         "field_search": "question",
+         "question": "Điện thoại của e bị lỏng khay sim có bảo hành dc hok ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.469609,
+         "id": "1020857",
+         "field_search": "question",
+         "question": "Cho mình hỏi, SS J7 Pro mình gõ nhẹ vào phần đầu mặt lưng sau, gần camera thì có tiếng rẹt rẹt, như ỏ trong bị lỏng gì ấy. Vậy có bị gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.465805,
+         "id": "1147637",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em bị người khác cài định vị, vậy làm sao để không bị nữa ạ? Gmail em cũng đã xoá khỏi máy rồi mà vẫn bị vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.399962,
+         "id": "1136170",
+         "field_search": "question",
+         "question": "Máy mình bị lún nút nguồn và nút âm lượng  thì phải làm sao máy mình là sony XA Ultra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.378867,
+         "id": "786466",
+         "field_search": "question",
+         "question": " Mjnh mua 5s đổi trả ở tgdd chưa được 1 tháng, giờ máy bị lỗi là mật khẩu wifi ko đúng, vậy có đc đổi máy khác ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.369828,
+         "id": "1017627",
+         "field_search": "question",
+         "question": "Em dùng htc m8...khi sử dụng nút nguồn không dùng được và bị loạn âm lượng..muốn reset lại máy lại bị dừng cài đặt..cho hỏi bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.357178,
+         "id": "1147728",
+         "field_search": "question",
+         "question": "E ơi cho a hỏi máy itel ko có rung hả e. A gọi thử chỉ nghe nhạc chứ ko rung.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.345523,
+         "id": "1147396",
+         "field_search": "question",
+         "question": "em dùng oppo joy 1 , nút nguồn bị hư nên không thể dùng nút nguồn , ấn không được nút nguồi Vậy làm cách nào để bật nguồn khi máy đang bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.271066,
+         "id": "1135270",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi,mình đang sd máy SS J7 Prime,mới đầu về máy sd tương đối ổn định nhưng sau khoảng 6 tháng thì máy có hiện tượng khi rung khi không,mới đầu thì ít nhưng càng sd thấy hiện tượng này càng nhiều,có thời gian k rung luôn nhưng giờ trở lại tình trạng khi rung khi không,như vậy máy mình bị gì,có khi nào bị chọi phần mềm k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.194347,
+         "id": "820136",
+         "field_search": "question",
+         "question": "iPhone 4 của e bị rớt, nứt màn hình, nút nguồn lún xuống, mở không lên, khi cắmsạc thì khoảng 5' sau đt rung và có tiếng kêu, e phải làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.18843,
+         "id": "1162896",
+         "field_search": "question",
+         "question": "Làm sao để tắt hiệu ứng rung khi nhấn vào nút back trên sấmung j4 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.120306,
+         "id": "784554",
+         "field_search": "question",
+         "question": "Em có 1 chiếc iphone 4s , em em nghịch đang bình thường thì tự nhiên máy bị lag và đen màn hình em tưởng máy sập nguồn và bật nút nguồn máy không lên em cắm sạc vào máy vẫn rung . cho hỏi máy em bị làm sao và có thể sửa không ạ . em không bỏ được vì có nhiều giữ liệu trong máy . em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.037133,
+         "id": "1154077",
+         "field_search": "question",
+         "question": "Laptop e bị dính nút xuống. Thỉnh thoảng nó cứ tự cuộn xuống cuối trang là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.956702,
+         "id": "821907",
+         "field_search": "question",
+         "question": "ad cho em hỏi điện thoại iphone 5s của em sao sạc khoảng 80% là rung liên tục + với nháy liên tục ở chỗ hiển thị pin vậy là máy bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.936324,
+         "id": "790977",
+         "field_search": "question",
+         "question": " 4s của mình ko bắt đc wifi nút wifi bị xám. cho e hỏi là nó bị gì và có cách khắc phục ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.880473,
+         "id": "753333",
+         "field_search": "question",
+         "question": " Máy Masstel M421 bị treo logo rồi. Làm sao đây? Máy tàu có khác. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.874402,
+         "id": "1004375",
+         "field_search": "question",
+         "question": "Điện thoại mới mua mà sao mau hết pin có phải bị pin ko ??? Có thể diện thoại khác ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.821718,
+         "id": "899244",
+         "field_search": "question",
+         "question": " Máy 5s của mình gọi được nhưng người khác không nghe gì từ mình. Vậy là bị sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.761841,
+         "id": "1142285",
+         "field_search": "question",
+         "question": "su dung may samsung che do khong rung la bi gi vay ban",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.758309,
+         "id": "769524",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị mất chế độ rung thì phải làm sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.754332,
+         "id": "1135130",
+         "field_search": "question",
+         "question": "Đt e là xiaomi mi3 điện thoại cắm sạc đồng thời bật nút nguồn nhưng máy không lên hình là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.743055,
+         "id": "749605",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy iphong 3g bị người ta Jailbreak giờ ko rest lại được vậy Thegioididong.com có thể rest lại như ban đầu được không hay cần ra trung tâm bảo hành?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.740487,
+         "id": "1153397",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đt oppof7 của mình có tin nhắn zalo sao máy ko báo chuông mà chỉ rung thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.730059,
+         "id": "927885",
+         "field_search": "question",
+         "question": "Em có đang dùng iphone 6s .máy thỉnh thoảng loa bị dè.k nghe được.nói ng khác cũng k nghe được..cho em hỏi nó bị làm sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.611706,
+         "id": "988864",
+         "field_search": "question",
+         "question": "Em có con 5s nút home hơi liêt, lúc dùng bình thường, lúc phải nhấn mạnh mới ăn, vân tay vẫn ok, cho hỏi có sửa dc ko, vì em nghe ns sửa nút home sẽ mất chức năng vân tay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.611322,
+         "id": "1016377",
+         "field_search": "question",
+         "question": "Mình có tai nghe over ear nhưng bị lỏng ở phần khung nên nó không ôm sát đầu và tai được, vậy bên bạn có bí quyết hay cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.59702,
+         "id": "1024499",
+         "field_search": "question",
+         "question": "Alo qtv tôi có samsung a7 2017 tự dưng máy báo phát hiện hơi ẩm ở cổng sạt và usb tôi phơi nắng 2 giờ cũng không hết. Mà tắt máy mở lại thì hết là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.592566,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.582745,
+         "id": "875873",
+         "field_search": "question",
+         "question": " e mới mua máy dell inspirion 15 3000 series mà chơi game lol có dấu hiệu hơi lag thì cho e hỏi nó bị làm sao ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.48795,
+         "id": "1145694",
+         "field_search": "question",
+         "question": "cho mình hỏi sao máy mình J7+ bị màn hình như vầy khi chơi game . còn tất cả các ứng dụng khác thì ko lại bị . cho mình biết có khắc phục dc ko hay là phải đem máy ra tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.483786,
+         "id": "820145",
+         "field_search": "question",
+         "question": "iphone 4 của e bị rớt, nứt màn hình, nút nguồn lún xuống, mở không lên, khi cắm sạc thì khoảng 5\" sau đt rung và có tiếng kêu, e phải làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.462004,
+         "id": "875134",
+         "field_search": "question",
+         "question": " Em xài ip4s. Nhưng bị mất nút bật tắt wifi? là bị gì vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.456087,
+         "id": "1002317",
+         "field_search": "question",
+         "question": "Xiaomi redmi note4 bị lỏng sạc, sạc chậm, tự ngắt sạcXin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.446729,
+         "id": "1142162",
+         "field_search": "question",
+         "question": "Chào ad.Bên mình có sửa dk Samsung J7 prime bị mất chức năng rung ko nhỉ.mình mua dt tgdd. nhưng đã hết BH",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.4463215,
+         "id": "777166",
+         "field_search": "question",
+         "question": "Mình xài Sony Xperia z5, bị lỗi nhắn tin bị lặp lại khi nhận tin nhắn của người khác, khi lấy sim ra đổi máy khác không bị. Vậy không phải lỗi của sim, vậy có phải lỗi do máy, chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.443082,
+         "id": "787903",
+         "field_search": "question",
+         "question": " Lap acer aspire i74GVGA2G của em khởi động win 10 hơi lâu thì có bị gì ko ? Hay windows 10 khởi động lâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.410814,
+         "id": "877699",
+         "field_search": "question",
+         "question": "Mới mua iphone 5s về 2tuần bị liệt nút giảm âm trên đt ,nút tăng giảm âm trên tai nghe cũng bị liệt luôn, có đổi máy mới đc k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.3783655,
+         "id": "1165093",
+         "field_search": "question",
+         "question": "Điện thoại huawei nova 3i em mua ở tgdd được 3 tháng. Tối nay e đang  sử dụng thì đột nhiên bị treo đen xì màn hình. bấm nút nguồn + tăng giảm âm để tắt nguồn rồi bật lại thì chỉ thấy màn hơi sáng 1 chút nhưng vẫn bị treo xì đen màn hình. e cắm sạc 30p nhưng vẫn ko có gì thay đổi. cho e hỏi nguyên nhân là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.365685,
+         "id": "830197",
+         "field_search": "question",
+         "question": "Cho hỏi sao mình dùng galaxy j7 2016 nghe nhạc bằng tai nghe vào facebook bấm nút bình luận là nhạc đang nghe bị ngắt quãng ai có bị giống mình ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.244005,
+         "id": "796846",
+         "field_search": "question",
+         "question": "Cho em hỏi cảm ứng máy rồi dạo gần đây cảm ứng hơi bị loạn. Em đã restore rồi nhưng lâu lâu vẫn bị là sao ạ? Hay phải thay màn hình ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.240103,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.240103,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.16658,
+         "id": "1010897",
+         "field_search": "question",
+         "question": "Tại sao máy mk lúc gọi điện cho người khác thì màn hình luôn bị tắt và ko bật lên được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.162136,
+         "id": "1144077",
+         "field_search": "question",
+         "question": "laptop của em khi kích vô cái j nó cũng tạo trang mới hết ạ.em nghĩ là nó bị kẹt nút. vậy thì nó bị kẹt nút nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.151308,
+         "id": "855514",
+         "field_search": "question",
+         "question": "Máy mình bị như vậy là sao hả ad. Chỉ mình cách khắc phục với. Lúc bị lúc ko   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.145344,
+         "id": "755436",
+         "field_search": "question",
+         "question": " Máy của em bị hỏng nút nguồn giờ thay mất bao nhiêu vậy ạ, iPhone 5 em cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.090629,
+         "id": "1161916",
+         "field_search": "question",
+         "question": "Nếu tôi mất hoá đơn giao hàng mà điện thoại tôi bị lỗi kĩ thuật bên trong đt mới mua thì có đổi đc máy khác ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.07961,
+         "id": "1011362",
+         "field_search": "question",
+         "question": "Ipad 3 bị hỏng nút home thì bật nguồn kiểu gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.059328,
+         "id": "1001712",
+         "field_search": "question",
+         "question": "Mình có mua laptop asus K401 tại tgdd bị hở viền màn hình, đổi cái khác trong CH cũng bị, ban đầu ít, từ từ thấy nhiều, rất dễ bị nước và bụi lọt vào, QTV kiểm tra giúp cửa hàng Điện máy xanh ngay mũi tàu quận 6 máy có bị không, nếu không bị cho mình đổi, vì mình mới mua trong hôm nay. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.059078,
+         "id": "1148079",
+         "field_search": "question",
+         "question": "Sao xiaomi redmi a2 lite phát wifi các thiết bị bin khác tìm ko thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.05789,
+         "id": "989234",
+         "field_search": "question",
+         "question": "Nút home của em để túi bị trày hoài làm cho nút cảm nhận vân tay ít ăn .vậy Cho hỏi có bán miến dán nút home j 7 prime không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.054515,
+         "id": "956354",
+         "field_search": "question",
+         "question": " Ac cho e hỏi laptop của e bị vậy là bị làm sao vs cách khác phục ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.024627,
+         "id": "771844",
+         "field_search": "question",
+         "question": " Ban ơi iphone 5s cua mình bị  khóa tai khoản icloud bên bạn có mở đk ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.99984,
+         "id": "1133351",
+         "field_search": "question",
+         "question": "iPhone X bị không rung dù đã cài đặt lại máy thì làm như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.995849,
+         "id": "1009820",
+         "field_search": "question",
+         "question": "Điện thoại samsung j5 prime của em mua khoảng được 1 tháng mà bây giờ cáp sạc khi cắm vào điện thoại nó bị lỏng vậy làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.989388,
+         "id": "1154877",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng đt Xiaomi redmi note 6 pro bị lộ khi em chơi game liên quân thuở bị đứng nút duy chuyển đó là bị sao vậy ad có cách khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

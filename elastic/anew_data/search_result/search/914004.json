@@ -1,0 +1,801 @@
+{
+   "id_query": "914004",
+   "total": 33846,
+   "total_current": 100,
+   "max_score": 67.081055,
+   "origin_question": " cho em hỏi sao lap top em chỉ sạc được 89 là không thể sạc vào nữa, cho em hỏi vậy là bị như nào ạ? ",
+   "hits": [
+      {
+         "score": 31.718933,
+         "id": "1138880",
+         "field_search": "question",
+         "question": "cho em hỏi dt e sạc pin không vào được  bị như tnn là sao ạ. Em dang dùng galaxy j6 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.845802,
+         "id": "1148779",
+         "field_search": "question",
+         "question": "Điện Thoại samsung j8 của em sạc sao tới 86% là nó đứng sạc hoài ko vào nữa vẫn hiện biểu tượng sạc là sao vậy mong mấy anh kỹ thuật chỉ cho em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.620619,
+         "id": "755111",
+         "field_search": "question",
+         "question": "Laptop của em chỉ sạc pin được khoảng 1 phút sau đó thì sạc không vào nữa, cắm sạc lại củng chỉ sac được 1 phút thôi ạ, cho em hỏi laptop em bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.44402,
+         "id": "992911",
+         "field_search": "question",
+         "question": "Chào các mod và qtv của tgdđ.Em đang dùng con ipad air 2, em muốn hỏi là sao cứ sạc pin chỉ khoảng 2phút là đầu sạc nối vào ổ cắm và đầu nối vào máy rất nóng??? Đây là do sạc hay do máy của em.  Nó nóng như vậy có bị hỏng sạc,chảy dây sạc hay hỏng máy không? Có cách nào làm cho nó không nóng khi sạc pin được không. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.333897,
+         "id": "867474",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em sạc không vào điện, phải tắt nguồn mới sạc được. Dây sạc của em vẫn sài tốt. như vậy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.764956,
+         "id": "1161161",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua sạc xiaomi 10000mAh về đã sạc đầy pin nhưng khi sạc cho oppo f3 chỉ được 96% là đã ngắt không sạc nữa dù vẫn còn 3 vạch pin. Cho mình hỏi vậy là bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.265802,
+         "id": "1019977",
+         "field_search": "question",
+         "question": "em dùng ss j7 pr được mấy tháng. trước đây sạc khoảng hơn 2 tiếng là đầy pin. Bây giờ em sạc hơn 3 tiếng nhưng chỉ đến 92%. Cho em hỏi là đt của em có bị sao không ạ? Khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.840313,
+         "id": "1001743",
+         "field_search": "question",
+         "question": "QTV cho em hỏi máy em samsung j7 2016 chơi còn 0% sạc lên 85% xog em sạc thêm 30p nữa lên đc 86% cho hỏi bị gì vậy qtv nếu em chơi còn 20% trở lên sạc đến 100% bình thường nhưng còn 0% thì sạc 86% là đứng yên .. vậy là bị gì vậy ạ mong qtv trả lời ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.705898,
+         "id": "1011017",
+         "field_search": "question",
+         "question": "cho em hỏi là chô m có bán phin máy tính lap top asus không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.69976,
+         "id": "820881",
+         "field_search": "question",
+         "question": " Ad cho em hỏi con iphone 4s của em sạc pin nó không vào nhưng tắt nguồn đi sạc nó lại vào là sao ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.24892,
+         "id": "804256",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi điên thoai em sạc nó báo như này là bị sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.19182,
+         "id": "774647",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy em mới lên 9.2, xài được 1 ngày thì hôm nay sạc pin vẫn báo đang sạc, nhưng sạc mãi không thấy phần trăm phin tăng lên chút nào cả, là máy bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.090729,
+         "id": "940987",
+         "field_search": "question",
+         "question": " Cho em hỏi là ipad bị tắt nguồng mà không thể mở được mà trong khi sạc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.072273,
+         "id": "1149433",
+         "field_search": "question",
+         "question": "cho em hỏi là hiện tại em bị mất sạc macbook... em đã đặt hàng sạc mới rồi... trong thời gian chờ đợi sạc mới về em có thể lại tgdd nhờ sạc dùm pin để em làm việc được k vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.000683,
+         "id": "745423",
+         "field_search": "question",
+         "question": "Iphone4s của em thi thoảng cắm sạc nó sạc vẫn vào nhưng đến một lúc nào đó tự dưng không sạc nữa mà phải rút ra cắm lại mới sạc được là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.947334,
+         "id": "1023838",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em pin sạc thì có hiển thị đã sạc mà sao nó lên dc 1% rút sạc ra lại bị hao pin ạ? Em sạc từ nãy đến giờ chả lên được % pin nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.803173,
+         "id": "1021919",
+         "field_search": "question",
+         "question": "nếu như cục sạc  lap top asus bi đứt thi phải lam sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.65276,
+         "id": "770224",
+         "field_search": "question",
+         "question": "hiện em đang sử dụng lap levono. cho em hỏi là máy cắm sạc thường xuyên thì pin có ảnh hưởng gì không ạ. nếu như pin thường xuyên cắm sạc qua đêm hoặc cắm sạc khi pin đang đầy để sử dụng thì có sao không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.612225,
+         "id": "756244",
+         "field_search": "question",
+         "question": "Cho em hỏi em đã đăng kí icloud và bị lỗi không vào được em đăng kí lại thì hiện lên là thiết bị này không thể tạo thêm tài khoản nào nữa em muốn tạo cái làm cách nào ai biết chỉ giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.459951,
+         "id": "874912",
+         "field_search": "question",
+         "question": " Cho em hỏi khi sạc iphone 6s củ sạc bị nóng là bị sao ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.45494,
+         "id": "1137731",
+         "field_search": "question",
+         "question": "Dạ ipad acer của em bật ko lên nguồn và sạc ko vào em ko hiểu sao nữa cho thể cho em bt nó bị j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.390217,
+         "id": "1161893",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại sạc pin nó vẫn vô pin mà em để cả 3 tiếng nó vẫn không lên % pin nào cả vẫn cứ như lúc mới cắm sạc vậy là bị lỗi gì em xài máy samsung galaxy j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.385654,
+         "id": "1010867",
+         "field_search": "question",
+         "question": "cho em hỏi add. Sạc laptop nhà em bị gãy ổ cắm vậy có thể thay ổ cắm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.292944,
+         "id": "809379",
+         "field_search": "question",
+         "question": "cục sạc Ipad của em mua khoảng 5->6 tháng..rồi không sạc được nữa, em thử dây sạc khác thì được.chắc là phần cắm sạc 220V bị hư.có sửa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.261093,
+         "id": "799766",
+         "field_search": "question",
+         "question": " Anh ad cho em hỏi máy laptop của em cứ cắm sạc vào là đèn sạc cứ nhấp nháy do là sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.2081,
+         "id": "798566",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ em đem lap top ra tgdđ có được cài win 10 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.092081,
+         "id": "1007553",
+         "field_search": "question",
+         "question": "Cho em hỏi là đt A7 2017 em mua lúc mới ra mà bây giờ khi để sạc qua đêm thì nó chỉ sạc đến 97% thì dừng lại vậy có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.072886,
+         "id": "919129",
+         "field_search": "question",
+         "question": "ad cho em hỏi là tháng trước em có mua laptop hiệu asus tại thegioididong. Nhưng ngày hôm nay cắm sạc vào ổ điện thì nó nổ cục sạc, không bị gì máy cả. Vậy em có được bảo hành đổi lại cục sạc được không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.013668,
+         "id": "771369",
+         "field_search": "question",
+         "question": " Cho em hỏi  Sạc iphone 4s 8 tiếng mà không đầy pin là bị sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.010645,
+         "id": "1139555",
+         "field_search": "question",
+         "question": "Em sài con vivo 53. Em bị mất sạc kèm theo máy rồi ạ.  Cho em hỏi là nếu sạc 20 phút mà pin lên đc 10% vậy bộ sạc tốt ko.  Nếu em mua bộ sạc zin theo máy hoặc bộ sạc nào sạc tốt cho vivo y53 tư vấn giùm em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.845903,
+         "id": "780396",
+         "field_search": "question",
+         "question": "Cho em hỏi, em dùng iphone 4, bị rơi xuống nước mang đi sấy dùng lại được rồi nhưng đến mấy ngày hôm sau sạc pin vào rất châm và cuối cùng pin nó không vào nữa, điện thoại tắt nguồn sạc cũng không vào. Dùng sạc khác nó cũng vẫn vậy. Hiện tại điên thoại em đang bị tắt nguồn không sạc được pin, cắm sạc để 1 lúc nó tự bất nguồn, rung rồi lại tự tắt... Cho em hỏi pin của em có sao không vậy, hu hu..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.751225,
+         "id": "1159581",
+         "field_search": "question",
+         "question": "Cho em hỏi là loptop em sao cắm sạc thì lúc vừa cắm thì có lên đèn khoảng 12s rồi tắt không sạc được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.72861,
+         "id": "772631",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em mới thay pin 1 tháng, sạc thì điện thoại hiển thị đang sạc nhưng không vào pin, rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy. Với wifi bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi bị gì ạ? Và sửa phải mất bao nhiêu tiền?Em xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.702133,
+         "id": "827582",
+         "field_search": "question",
+         "question": "Em mua laptop acer aspire v13 tại thegioididong, bình thuờng lap vào mạng được nhưng khi cắm sạc lại tự động bị ngắt mạng wifi, cho em hỏi lap e bị gì và cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.701223,
+         "id": "1160527",
+         "field_search": "question",
+         "question": "cho em hỏi em sạc pin điện thoại vẫn hiện thông báo sạc nhưng ko lên phần trăm là do bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.655579,
+         "id": "777661",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 6s của em sạc hơn 3 tiếng mới đầy 100% pin...gần đây thì máy em có dấu hiệu sạc không được đầy 100% nó chỉ đến 70% cho dù e đã tặt nguồn để khởi động lại,như vậy là may em bị sao ko ạ và thời gian sạc 3 tiếng như vay có lâu quá không?em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.648705,
+         "id": "876004",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.478474,
+         "id": "1002921",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi sạc nhanh trong đt samung galaxy gì đó là như thế nào vậy anh , anh có thể giải thích cụ thể cho e hiểu hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.470371,
+         "id": "754451",
+         "field_search": "question",
+         "question": "Anh chi ơi cho em hỏi em đang dùng iPhone 5 mà sạc pin thì máy báo là phụ kiện không được hỗ trợ là do củ sạc hay là cáp ạ.xin mọi người chỉ dùm để em khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.433706,
+         "id": "949823",
+         "field_search": "question",
+         "question": " Cho e hỏi. Iphone 7 plus của e chỉ sạc đến 98 là báo đã sạc. Tức sạc đầy rồi là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.341982,
+         "id": "775912",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.325104,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.297905,
+         "id": "869683",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, em đang dùng ĐT SS galaxy a5, em vào YouTube, CH-PLAY, Gmail, Nhaccuatui.. bình thường. Nhưng vào tango, Facebook, messenger thì không được, vào Web thì thì có trang vào được có trang không. Admin có thể cho em hỏi ĐT em bị như như vậy là bị lỗi gì ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.294397,
+         "id": "790624",
+         "field_search": "question",
+         "question": " cho em hỏi ở thế giới có cài đặt win trên lap top không vậy ? có tính phí không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.290909,
+         "id": "777871",
+         "field_search": "question",
+         "question": "Em sạc đầy pin iPhone 5S nhưng vào mạng chỉ hơn 3 tiếng thôi ạ. Vậy cho em hỏi dung lượng pin như thế này có ổn định không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.244238,
+         "id": "1144990",
+         "field_search": "question",
+         "question": "cho em hỏi , em mua máy xiaomi redmi 6 được tầm 6 tháng , giờ sạc pin vào hơi chậm là bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.190388,
+         "id": "985988",
+         "field_search": "question",
+         "question": "mấy admin ơi cho em hỏi sạc đa năng xài sao vậy sau em sạc nó không vào em đã để ngay ngắn rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.188246,
+         "id": "1157861",
+         "field_search": "question",
+         "question": "Sau một đêm sạc điện thoại của em là realme c1 thì mở nguồn không lên. Cáp sạc vẫn tốt. Bị như này là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.065214,
+         "id": "816751",
+         "field_search": "question",
+         "question": "laptop của em lúc thì sạc vào lúc thì không, sạc được 1 phút nó lại không vào sạc. ad có thể chỉ giúp em cách khắc phục dc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.018232,
+         "id": "1161645",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là xiaomi redmi 6 , dạo gần đây sạc pin vô rất lâu , từ tối tới sáng chỉ được 50 là bị gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.005064,
+         "id": "876027",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.999237,
+         "id": "1167967",
+         "field_search": "question",
+         "question": "cho em hỏi là: em dùng samsung j1 sài đến dưới 50% là nó tự sập nguồn nếu không cắm sạc thì nó cứ tắt rồi hiện lên chữ \"samsung\" xong nó tắt và liên tục hiện rồi tắt như vậy nhưng khi cắm sạc vào rồi thì nó mới vào giao diện chính là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.98377,
+         "id": "1001601",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi là cục sạc của em khi cắm vào ổ điện thì kêu rè rè, rút ra thì kêu khoảng vài giây nữa thì hết. Em đã có đổi ổ điện khác nhưng vẫn vậy. Như vậy có gây nguy hiểm cho điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.983763,
+         "id": "776070",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.937681,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.912764,
+         "id": "1154554",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em cứ lúc nào sạc là bị nhoè theo kiểu màu bị mờ hơi hơi trắng.Có phải gần thiết bị gì đó nên màn hình bị như vậy không ạt.Em đang dùng IPhone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.893806,
+         "id": "992159",
+         "field_search": "question",
+         "question": "Máy của em là lap top dell inprision 15 core intel i5. Em lỡ xóa cái driver màn hình. Và driver âm thanh bây giờ cài lại làm sao cho em link nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.88746,
+         "id": "1008774",
+         "field_search": "question",
+         "question": "Cho em hỏi em đag xài samsung galaxy gt-i9000 máy em bị hỏng nút nguồn. Nhìu lúc máy tắt nguồn em cắm sạc vào máy hiển thị đang sạc pin, đc 100% em rút ra cắm lại nhưng máy không lên nguồn mà vẫn hiện logo đang sạc pin là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.869564,
+         "id": "1002583",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng lenovo a7000. Trước đây e vừa sạc bin vừa xem phim vẫn vô bin như bình thường. Nhưng bây giờ em vừa sạc vừa xem phim thì bin vô rất yếu rồi tuột bin như không cắm sạc. Vậy có phải do bin em bị chai rồi không ạ, hay là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.824272,
+         "id": "752768",
+         "field_search": "question",
+         "question": " Cho em hỏi có nên sạc pin iphone qua đêm không vậy ạ....nếu không thì nguyên nhân là sao vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.765623,
+         "id": "1139993",
+         "field_search": "question",
+         "question": "ad cho em hỏi là laptop lenovo g5070 khs lắp pin vào sạc tới 100 thì có tự ngắt sạc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.758224,
+         "id": "809244",
+         "field_search": "question",
+         "question": "em từng mua lap top vajo cua sony ở đây cho em hỏi máy em xài window10 em quên mật khẩu nên vào máy không được giup em voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.634903,
+         "id": "819407",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi chiếc iphone của em chả biết tại sao 2 hôm nay em cứ bật 3G lên là tự sập nguồn mà vừa cắm sạc vừa bật 3G thì không bị sao nếu tắt 3G mà không sạc thì vẫn dùng bình thường ad cho em hỏi máy em bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.63145,
+         "id": "1159750",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng Oppo f1s không sao hôm nay em sạc pin mà lâu vào pin quá Ad cho em hỏi điện thoại em nó bị làm sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.611826,
+         "id": "1136494",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy redmi6 cách đây 1 tháng giờ sạc của em không vào nữa thì có được đổi sạc mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.604223,
+         "id": "997454",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao máy em sạc hay bị nóng vậy ? Với ở đây có bán sạc Sony Z1 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.584326,
+         "id": "792329",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy iPhone 4S của em cứ tầm 30 40 phần trăm pin là bị sập nguồn bật nguồn lên không được phải cắm sạc vào mới lên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.56465,
+         "id": "1024249",
+         "field_search": "question",
+         "question": "AC cho em hỏi với ạ samsung j5 prime em đang dùng bt nhưng em sạc đt bằng dây cáp qua cổng USB mà giờ bật nguồn không lên là sao ạ? lại còn nổi đèn led báo sạc nữa ạ :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.562664,
+         "id": "963535",
+         "field_search": "question",
+         "question": "cục sạc ip của em bị hỏng do chưa có điều kiện mua sạc chính hãng và em luôn sạc bằng cục pin dự phòng vậy ad cho em hỏi là sạc ip bằng sạc dự phòng có ảnh hưởng gì đến máy không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.545567,
+         "id": "1023366",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng ss A3, mà khi sạc thì bị sụt pin. Nhưng tắt nguồn mở lên sạc vẫn bị như vậy. Chỉ có khi tắt nguồn luôn cắm sạc mới vô pin nhưng vô rất chậm. Vậy máy e bị gì ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.514158,
+         "id": "848880",
+         "field_search": "question",
+         "question": " cho em hỏi là iphone 5 32G mà sạc bằng cục sạc Samsung thì có sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.463501,
+         "id": "1005287",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là em mua 1 pin sạc dự phòng e.Saver 10000 mAh được hơn 1 tháng rồi, h em sạc pin từ Pin DP vào điện thoại được 1-2p là nó tự động tắt, nó bị s v ạ?? Nếu sửa là mất bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.420713,
+         "id": "1004784",
+         "field_search": "question",
+         "question": "cho em hỏi pin sạc dự phòng sạc một lần 3500mha còn sạc 2 lần dưới 1500mha là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.388454,
+         "id": "744651",
+         "field_search": "question",
+         "question": "cho em hỏi. em xài iPhone 5 khi sạt không vô pin. điện thoại đề \" phụ kiện có thể không phù hợp... \" như vậy là lỗi do máy hay do cục sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.33894,
+         "id": "1019959",
+         "field_search": "question",
+         "question": "cho em hỏi e đang dùng oppo Neo 7 đang dùng bình thường tự dưng sập nguồn sau đó không bật nguồn lên được nữa.cắm sạc vào thì thông báo điện thoại pin yếu không thể bật nguồn được là bị sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.334366,
+         "id": "759437",
+         "field_search": "question",
+         "question": " Cho em hỏi em mua dây sạc iPhone 4 và sạc dự phòng mà về sạc điện thoại cứ báo phụ kiện không hổ trợ là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.325695,
+         "id": "995064",
+         "field_search": "question",
+         "question": "em ms mua lap top hãng dell . mới đầu về dùng pin như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.285295,
+         "id": "792402",
+         "field_search": "question",
+         "question": "Cho em hỏi, lap em mới cài win8 lại, khi em mở lap thì nó hiện lên tên là Dell, trong khi lap của em là asus, nó bị j vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.252466,
+         "id": "1138886",
+         "field_search": "question",
+         "question": "Trước máy ss j5 2k15 của em sạc 2-3 tiếng là đầy, bây giờ phải sạc đến 8 tiếng . Sạc 2-3 tiếng chỉ được có 20% là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.145176,
+         "id": "1002641",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em ko biết bị gì nữa mà sạc nó ko vô bin em cúp nguồn sạc thì nó mới vô còn mở nguồn sạc thì nó ko vô toàn báo bin yếu rồi sập nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.136253,
+         "id": "812538",
+         "field_search": "question",
+         "question": "em mới mua máy tính nhưng khi em sạc pin được một thời gian chưa đầy thì đèn sạc pin tắt đưa chuột tới hình sạc pin trên màn hình thì hiện lên chữ \"plugged in , not charging \" không vào pin nữa. chỉ có rút sạc ra cắm lại thì mới được.cho em hỏi máy bị lỗi gì vậy ạ.nếu mà cứ rút ra cắm vào mãi chắc máy sẽ nhanh chai pin mất. cách sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.110126,
+         "id": "1163454",
+         "field_search": "question",
+         "question": "thế giới di động cho em hỏi bên TGDD có thu mua lại lap top ko z lúc em mua là tháng  5 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.087984,
+         "id": "988277",
+         "field_search": "question",
+         "question": "cho em hoi máy iphone 5 của em chỉ sạc bin lên 40 thôi mà sạc cả ngày hk lên pin luôn a cho e hỏi máy e bị sao vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.07222,
+         "id": "755271",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone sạc vào điện pin không lên là bị làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.035168,
+         "id": "919842",
+         "field_search": "question",
+         "question": "cho em hỏi laptop em sạc thì vẫn vào pin, nhưng khi đang cắm sạc thì không có biểu tượng đang sạc vào pin mà lại có biểu tưởng của sạc laptop không pin, khi không cắm sạc thì biểu tượng pin có dấu \"x\" chớp liên tục và báo là \"consider replacing your battery\", thế là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.996647,
+         "id": "822257",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Em xài ip5s lúc vào safari nó cứ hiện thông báo là ip của bạn bị nhiễm virus. Như vậy có bị sao không ad. Nếu vậy phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.995123,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.981894,
+         "id": "1152835",
+         "field_search": "question",
+         "question": "Cho em hỏi : latop của em cắm sạc vào thì đèn báo sạc vẫn sáng, vẫn có biểu tượng cái phích cắm ở biểu tượng pin sạc dưới góc phải màn hình, có chữ Plugged   in Charging  nhưng pin ko lên % nào thì là bị làm sao, và làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.968735,
+         "id": "1134777",
+         "field_search": "question",
+         "question": "Em có máy a9pro em muốn hỏi anh chị là nên dùng các sạc hãng nào cho khỏi lỏng chân sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.884619,
+         "id": "997416",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao máy em sạc hay bị nóng vậy ? Với ở đây có bán sạc Sony Z1 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.773603,
+         "id": "1007631",
+         "field_search": "question",
+         "question": " Màn hình em nút khoá như vậy chỉ cần trượt lên là mở thì không bảo mật được nữa em muốn tắt thì làm thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.749884,
+         "id": "1165111",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iphone 7plus 32G vào ngày 28/4, sau khi dùng em thấy pin có vấn đề, sạc đầy tận 3 - 4 tiếng và hết pin rất nhanh ( dù đêm không dùng thì từ 89% còn 30%). Cho em hỏi vấn đề này có thể đổi điện thoại mới được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.740715,
+         "id": "1163373",
+         "field_search": "question",
+         "question": "Cho em hỏi icloud em bị như này là sao ạ. Em đăng nhập là bị thoát. Vào facetime hay imess đều bị lỗi ạ. E c.ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.727499,
+         "id": "1158576",
+         "field_search": "question",
+         "question": "Cho Em hỏi điện thoại em đang dùng là 6 plus khi em sạc pin thì cắm máy vẫn nhận nhưng sạc mãi vẫn pin yếu lúc 1 % lúc 6% ạ cho em biết máy bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.703547,
+         "id": "837894",
+         "field_search": "question",
+         "question": " Iphone mới mua sạc vào pin hơi nhanh ạ. Chưa đến 3 giờ. Vậy là có bị sao không ạ. Em đang xài 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.652536,
+         "id": "1015727",
+         "field_search": "question",
+         "question": "Hi , cho em hỏi bên TGDD có dịch vụ cài win đối vs lap top không được mua tại TGDD không? , và nếu có thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.636873,
+         "id": "1017407",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone của em sau khi đặt lại hoàn toàn máy thì khởi động k lên nữa chỉ lên quả táo rồi tắt luôn, vậy là bị sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.541452,
+         "id": "875517",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi máy của em là dell inspiron 5458 mà khi em cắm sạc vào dùng thì loa bị dè và vào mạng rất chậm. Anh chị cho em hỏi máy em bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.539528,
+         "id": "1137263",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi điện thoại ss j7 prime sạc pin lên liên tục nhưng lúc khởi động lại nó chỉ còn 5% pin . Em đã thử cục sạc khác nhưng vẫn bị như vậy . Nó bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

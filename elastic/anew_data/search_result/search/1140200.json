@@ -1,0 +1,801 @@
+{
+   "id_query": "1140200",
+   "total": 29737,
+   "total_current": 100,
+   "max_score": 109.77112,
+   "origin_question": "Mua điện thoại giá online và mua giá thường khác nhau ở chỗ nào ạ .khi mịn đến tận cửa hàng mua thì sẽ là mua giá online hay giá thường ạ",
+   "hits": [
+      {
+         "score": 60.873726,
+         "id": "1006527",
+         "field_search": "question",
+         "question": "cho mình hỏi mua giá thường vs giá online khác nhau thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.92336,
+         "id": "1146814",
+         "field_search": "question",
+         "question": "cho mình hỏi j4 mua tại shop và mua online thì giá như thế nào ạ có khác nhau k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.121536,
+         "id": "1002585",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là giá tiền khi mua online và khi mua tại cửa tiệm tgdđ có khác không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.429314,
+         "id": "1016801",
+         "field_search": "question",
+         "question": "e hổ là mua sam sung galaxy j5 prime giá online với giá thường là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.155464,
+         "id": "1018867",
+         "field_search": "question",
+         "question": "E mua sản phẩm giảm giá online thì muốn lấy hàng thì phải đến cửa hàng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.759037,
+         "id": "1141552",
+         "field_search": "question",
+         "question": "chào TGDĐmình muốn mua ĐT SAMSUNG J6 cho mình hỏi giá mua online và giá tại TGDĐ có khác nhau không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.41278,
+         "id": "994708",
+         "field_search": "question",
+         "question": "Mua online và mua tại cửa hàng khác nhau như thế nào. Tại sao mua online lại rẻ hơn là mua tại cửa hàng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.44982,
+         "id": "1012721",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi đặt mua hàng online thì coupon giảm giá sẽ được sử dụng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.321907,
+         "id": "1133453",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi điện thoại heuwei nova 3e chỉ giảm giá black friday khi mua online thôi hay vẫn giảm giá khi mình tới cửa hàng để xem và mua hàng vậy ad. Cảm ơn ad đã dành thời gian đọc và trả lời câu hỏi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.307762,
+         "id": "997583",
+         "field_search": "question",
+         "question": "T thấy bên cửa hàng đang bán giảm giá tai nghe khi mua online. V giờ t đặt hàng online rồi trực tiếp đến cửa hàng nhận có dk k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.04596,
+         "id": "997778",
+         "field_search": "question",
+         "question": "Cho hỏi ví dụ bây giờ em  mua điện thoại giá là 7tr thì có bị tính thêm khoản tiền nào khác không ạ  em mua online nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.75353,
+         "id": "1020791",
+         "field_search": "question",
+         "question": "Mua điện thoại trả góp có được tính giá mua online không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.643764,
+         "id": "1137199",
+         "field_search": "question",
+         "question": "cho mình hỏi giá của gear s3 mua online đang giảm giá trong khi mình đang đợi hàng chuyển về tới cửa hàng gần nhất thì có được tính giảm không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.836773,
+         "id": "1136739",
+         "field_search": "question",
+         "question": "em mới đặt samsung A6 online, nhưng không được giá mua online, vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.18587,
+         "id": "1143316",
+         "field_search": "question",
+         "question": "shop ơi cho em hỏi 1 chút là em muốn mua điện thoại vsmart joy 1 thì em đến mua trực tiếp ở cửa hàng luôn hay phải đặt online ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.107346,
+         "id": "1139769",
+         "field_search": "question",
+         "question": " Muốn mua online giá sốc nokia6.1ma chỗ tui hết hang roi phải lam sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.08649,
+         "id": "779749",
+         "field_search": "question",
+         "question": " Em muốn mua 5 thường giá bao nhiêu vậy 5 thường là hàng nhập hay hàng dựng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.0592,
+         "id": "1139850",
+         "field_search": "question",
+         "question": "Mình vừa mua máy xong nhưng do chồng mua nên ko đúng ý mình. Giờ mình muốn đổi lại máy khác thì có được hưởng những khuyến mãi mua online giá rẻ hiện tại không. Và phải bù bao nhiêu % giá trị máy. Ví dụ mình mua ss j4+ giá 3490k mình muốn đổi ss j6 giá khuyến mãi online 3290k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.916584,
+         "id": "1136707",
+         "field_search": "question",
+         "question": " đặt mua điện thoại Xiaomi Redmi 6 online có giao đến sóc trăng với giá 2 triệu 490k không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.20785,
+         "id": "1016384",
+         "field_search": "question",
+         "question": "QTV cho em hỏi nếu ở gần tgdd có được đặt điện thoại với giá online sau đó trực tiếp đến cửa hàng lấy không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.86149,
+         "id": "1140913",
+         "field_search": "question",
+         "question": "Ban ơi mình muốn mua nokia 6.1 plus, nhưng sàn phẩm có giá 5990000 đ kia mua online, nếu mình mua trực tiếp tại siêu thị thì giá thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.599346,
+         "id": "1006288",
+         "field_search": "question",
+         "question": "em muốn mua lenovo a6600 giá online ở Phan Thiết Bình Thuận thì sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.57098,
+         "id": "1143676",
+         "field_search": "question",
+         "question": "cho hỏi với sản phẩm vsmart joy 1 mình vừa nhận được phiếu mua hàng bồi thường do không có máy giao như lịch hẹn, phiếu có giá 200k. Có áp dụng đặt hàng online với các sản phẩm đang giam giá rồi hôm sau đến nhận hàng và trả bằng phiếu mua hàng được không được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.564713,
+         "id": "1140289",
+         "field_search": "question",
+         "question": "xin chào? tại sao mình ko nhập được mã giảm giá khi mua hàng online ss A9?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.86542,
+         "id": "1004291",
+         "field_search": "question",
+         "question": "Khi là khách hàng thân thiết vậy mua điện thoại tại cửa hàng có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.640606,
+         "id": "1023283",
+         "field_search": "question",
+         "question": "mình đặt online ở một chỗ không có hàng, phải chờ lấy từ 2-5 hôm, nhưng lại báo giá(trên web) là 100knhững nơi hết sản phẩm có mua được với giá khuyến mãi không ạ?( Tai nghe nhét trong Xmobile EP-04 A)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.14424,
+         "id": "1156125",
+         "field_search": "question",
+         "question": "Con huawei y9 2019 mua trực tiếp nó có giảm giá online hông ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.054897,
+         "id": "1137042",
+         "field_search": "question",
+         "question": "Mình hỏi mua Online giảm giá 500 máy redmi note 6 pro 4.990.000d là giá đã giảm 500k chưa ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.829075,
+         "id": "1019047",
+         "field_search": "question",
+         "question": "mình đặt mua  Laptop Lenovo IdeaPad 110 14ISK i5 6200U/4GB/500GB/Win10/(80UC0029VN) trước khi có chương trình khuyến mãi mua online giảm giá . mak hiện nay máy chưa về . vậy thì mình phải trả giá cũ hay giá mới vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.195473,
+         "id": "1004212",
+         "field_search": "question",
+         "question": "Ví dụ như hàng mua online thì mình đến thẳng cửa hàng mua được không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.157356,
+         "id": "1144748",
+         "field_search": "question",
+         "question": " Làm sao để biết điện thoại mình đặt mua online khi nào đến. Hay đang trên đường đến ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.568108,
+         "id": "1023584",
+         "field_search": "question",
+         "question": "Em muốn hỏi chương trình mua online l, mình đặt mua nhận ở cửa hàng. Vậy em có được xem và lựa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.421677,
+         "id": "1001527",
+         "field_search": "question",
+         "question": "Em có một coupon trị giá 100.000đ để mua hàng online lý do là em mua sản phẩm đổi trả nhưng không sữ dụng thì coupon này áp dụng cho mọi mặt hàng em mua online kể cả ốp lưng phải không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.16932,
+         "id": "1007233",
+         "field_search": "question",
+         "question": "bữa em có mua cái j7 pro và được tặng phiêu mua hàng samsung trị giá 300k cho em hỏi là mua gì trong cửa hàng cũng được hay là chỉ mua hàng của samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.11866,
+         "id": "1147071",
+         "field_search": "question",
+         "question": " Iphone 7 plus không khuyến mãi mua giá online nữa hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.022343,
+         "id": "1146717",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 6 pro giá mua ở cửa hàng tgdt là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.002113,
+         "id": "1157433",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại OPPO F7 em mua giá rẻ online là 4.990.000 4GB/64GB em mua hôm 9/3 thì em đổi sang Xiaomi redmi note 7 4GB/64GB thì em cần bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97564,
+         "id": "1007126",
+         "field_search": "question",
+         "question": "bữa em có mua cái j7 pro và được tặng phiêu mua hàng  samsung trị giá 300k cho em hỏi là mua gì trong cửa hàng cũng được hay là chỉ mua hàng của samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.966087,
+         "id": "1015754",
+         "field_search": "question",
+         "question": "mình đặt mua online 1  cuc pin sạc dự phòng giá 250k cho mình hoi khi giao hàng có tính phí ship k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.888714,
+         "id": "1163358",
+         "field_search": "question",
+         "question": "hi TGDD,Tôi sử dụng mã giảm giá được gửi về số điện thoại di động để mua hàng online thì ko được. Vui lòng kiểm tra như hình ảnh: Tên: TuấnSDT: 0935 625 644Mã giảm giá: 977 459 89 391",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.694878,
+         "id": "1139695",
+         "field_search": "question",
+         "question": "Mình đặt mua Nokia 5 trong chương trình giảm giá sốc khi mua hàng online từ 22-25/12/2018. Tuy nhiên, hiện tại tất cả các cửa hàng ở Tiền Giang đều hết hàng và báo chờ từ 2-7 ngày, như vậy khi hàng về thì đã quá hạn chương trình, thế thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.65063,
+         "id": "1148617",
+         "field_search": "question",
+         "question": "Chương trình mua online sale 25 còn không ạ? Mình muốn đặt 1 nokia 5.1 plus thì giá hiện tại là bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.461277,
+         "id": "1015018",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua Galaxy S7 Edge màu Blue Coral giá Online 12tr990k, mà theo tìm hiểu thì TGDD ở TP.HCM đã hết hàng thì phải làm thế nào!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.052822,
+         "id": "1144911",
+         "field_search": "question",
+         "question": "với giá khoảng 3tr5tr5 thì mua điện thoại nào của samsung là ổn nhất vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.8529,
+         "id": "1152806",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 laptop chơi fifa online mượt giá tầm 1014 tr nhờ tư vấn giùm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.74289,
+         "id": "1151845",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đã từng mua hàng ở TGDD vậy thì khi mua cả 2 chiếc điện thoại: Điện thoại Huawei Nova 3i, Điện thoại Huawei Y9 (2019) giảm giá được bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.72666,
+         "id": "1165444",
+         "field_search": "question",
+         "question": "Cho em hỏi  giá  a8 star hiện  bây  giờ  là  bao nhiêu  vậy và  em muốn đặc hàng online thì  có  được  giảm  giá  không??  Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.570305,
+         "id": "1133862",
+         "field_search": "question",
+         "question": "online friend _ mình định hỏi giá của 1 chiếc điện thoại samsung a9 là bao nhiêu tiền vậy ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.380077,
+         "id": "808899",
+         "field_search": "question",
+         "question": "Cửa hàng có bài viết giảm giá ip 5s xuống còn 250$. Vậy nếu muốn mua mình ra các cửa hàng của tgdđ có được mua ip với giá đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.346565,
+         "id": "1007831",
+         "field_search": "question",
+         "question": "mình muốn hỏi cửa hàng có thu mua máy điện thoại nokia 220 không, máy còn mới 9095 thì thu ở mức giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.2303,
+         "id": "1152807",
+         "field_search": "question",
+         "question": "với giá 3tr thì mua điện thoại nào liên quân oke ạ cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.124977,
+         "id": "1024283",
+         "field_search": "question",
+         "question": "mình đặt mua online sản phẩm oppo f1s 17 vào ngày 30092017 thì có được giảm giá không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.971214,
+         "id": "1138314",
+         "field_search": "question",
+         "question": "Iphone 7plus 32gb giá trên hệ thống là 13tr9,giá có áp dụng cho mua trực tiêp hay phải đặt hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.822357,
+         "id": "1006515",
+         "field_search": "question",
+         "question": "Ad cho hỏi, mua online thanh toán bằng Visa có được giảm giá như Master card ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.688847,
+         "id": "1147219",
+         "field_search": "question",
+         "question": " Em can mua pin sạc dự phòng 7500mAp sao giá khác nhau nên em cần mua nhẫn hiệu nào là bềnh  thêm em sd j7pro ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.599945,
+         "id": "1133781",
+         "field_search": "question",
+         "question": "Bây giờ Em đặt mua ipX online thì khi nào ra lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.535755,
+         "id": "1016005",
+         "field_search": "question",
+         "question": "mua máy rẻ online là may như thế nào vậy ad ? giả sử e đặt hàng online theo sđt nhưng e lại ra trực tiếp cửa hàng để mua máy theo đơn hàng onlinethì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.41428,
+         "id": "843767",
+         "field_search": "question",
+         "question": " em muốn mua 1 IP 5c thì cửa hàng mình có bán với giá 2tr7 k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.380936,
+         "id": "1017412",
+         "field_search": "question",
+         "question": "tôi muốn đặt mua điện thoại nokia 3310 màu xám khi nào mới có hàng và giá thành bao nhiêu vậy Shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.34242,
+         "id": "1001212",
+         "field_search": "question",
+         "question": "cho hỏi giá từ 4 đến 5 tr thì nên mua đt nào ạ ,.............................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.225964,
+         "id": "1022301",
+         "field_search": "question",
+         "question": "Huawei gr5 mini giá bn ạ. Mk xem lệch giá hm trc mua. Hay bjo giá tăng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.060257,
+         "id": "1162968",
+         "field_search": "question",
+         "question": "htc u12 life có cho đặt hàng online ở hà nội với giá 4.540.000 VNĐ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.033268,
+         "id": "997937",
+         "field_search": "question",
+         "question": "nếu mua hàng online thì mấy tiếng là nhận đc hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.993658,
+         "id": "998645",
+         "field_search": "question",
+         "question": "5 thường vs giá bao nhiêu mình muốn mua bạn ạ.5 thường nó bao gồm những phụ kiện j",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.942297,
+         "id": "1150550",
+         "field_search": "question",
+         "question": "Em có chiếc điện thoại Sony M4 Aqua hiện tại bị sập nguồn và đã hết bảo hành. Không biết là đem ra cửa hàng thì cửa hàng có sửa chữa không ạ vì em mua ở hệ thống thế giới di động nhà mình? Và nếu em gửi cho nhân viên kỹ thuật xem xét qua trước và báo giá trước thì em mới có chấp nhận sửa hay không thì được không ạ? Hay là sửa xong hết rồi mới báo giá ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.867523,
+         "id": "1140461",
+         "field_search": "question",
+         "question": "cho mình hỏi ,mình muốn mua realme c1 thì phải gọi điện và nhận hàng tận nhà ạ? hay mình có thể đặt trước và đến cửa hàng lấy được ko ạ?. mình cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.86198,
+         "id": "743314",
+         "field_search": "question",
+         "question": " Tôi muốn mua điện thoại iPhone 6S thì cần những thủ tục gì để mua hàng giảm giá thế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.776138,
+         "id": "1150065",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi cửa hàng tgdd ở Bồng Sơn-hoài Nhơn- Bình Định có bán sẵn pin của điện thoại Lenovo a7000 không ạ. Nêu không có thì có đặt mua được không ạ, và Giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.706861,
+         "id": "998175",
+         "field_search": "question",
+         "question": " em muốn mua card 500k .cửa hàng tggd có bán ko ạ.hay là mua online ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.697182,
+         "id": "1147427",
+         "field_search": "question",
+         "question": "E muôn mua đt huawei nova3i hiện tại đag có giá 6400 và km xg còn 5900 thì e ra cửa hàng tgđ có đc áp dụng giá như vậy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.640327,
+         "id": "1155866",
+         "field_search": "question",
+         "question": "em muốn mua 90 điện thoại sam sung s8 thì giá sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.510168,
+         "id": "1152211",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại  tầm giá 7 triệu thì mua máy nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.493227,
+         "id": "1159184",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại xiaomi redmi note 7 giá 4tr990.000d  khi mua vào ngày chủ nhật có giảm giá không ạ nếu có thì giảm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.480179,
+         "id": "1008170",
+         "field_search": "question",
+         "question": "Mình mới mua máy mobistar zoro giá 1590000d ngày 28/7/2017. Kèm thẻ nhớ,dán 2 mặt điện thoại và miếng đế (được giảm giá còn 360000d ). Giờ mình muốn trả lại sản phẩm này thì mình bị trừ bao nhiêu phần trăm ạ? Và những phụ kiện mình mua sẽ tính thế nào ạ? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.472534,
+         "id": "1147625",
+         "field_search": "question",
+         "question": "Ở cửa hàng có bán ốp điện thoại kyocera 503KC ko. Và nếu bán thì cho hỏi giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.46661,
+         "id": "1158142",
+         "field_search": "question",
+         "question": "cho mình hỏi Huawei Mate 20 Pro, mình thấy báo đặt hàng online thì được giảm 3tr, trừ vào giá SP, vậy giá SP là bao nhiu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.264484,
+         "id": "993204",
+         "field_search": "question",
+         "question": "Cho em hỏi e vừa mua galaxy j7 prime đc khoảng 1,5 tháng(mua tại tgdd).. nếu em bán j7 prime và mua 1 đt khác vậy thì giá của j7 prime khi bán lại đc giữ nguyên giá lúc đầu hay sao ạ?. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.206198,
+         "id": "1004961",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua thẻ nhớ 16gb tại cửa hàng tgdđ có đc mua với giá 150k kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.19226,
+         "id": "763714",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy iPhone 4s 8g màu trắng cách đây 2 tháng thì bây giờ giá cửa hàng thu lại là bao nhiêu? ý em là nói giá chung chung lúc mua là 4t990. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.151398,
+         "id": "742550",
+         "field_search": "question",
+         "question": " Tôi đang cần mua điện thoại iphone 5s. Xin hỏi giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.118387,
+         "id": "1135392",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại cũ Huawei Nova 3 giá 7.290.000 đồng ở cửa hàng có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.063816,
+         "id": "996531",
+         "field_search": "question",
+         "question": "Ad cho mk hỏi là nếu mua đt tầm giá dưới 3tr thì nên mua Nokia 3 hay các đt trung quốc giá rẻ hơn ạ, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.005537,
+         "id": "1157457",
+         "field_search": "question",
+         "question": "HP Pavilion 15 cs1044TX ,, mua laptop này được tặng phiếu mua hàng hàng trị giá 400k ,, có được trừ thẳng vào giá không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.870502,
+         "id": "1160196",
+         "field_search": "question",
+         "question": "Mua trả góp Huawei Y7 Pro 2019 có được giảm giá và sự dụng mã mua hàng giảm giá không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.848595,
+         "id": "1017860",
+         "field_search": "question",
+         "question": "Mình tham gia chương trình mua hàng online được giảm giá của thẻ nhớ 16Gb nhưng mình lỡ tay xóa tin nhắn xác nhận rồi giờ phải làm sao để nhận được hàng. Tin nhắn báo là ngày 1 có thể đến cửa hàng nhận thẻ nhớ. Ad tư vấn giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.756475,
+         "id": "1016395",
+         "field_search": "question",
+         "question": "Mình định bán lại điện thoại Samsung Galaxy J5 Prime với giá khoản 5.000.000 được không hay ra ngoài cửa hàng định giá..?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.695251,
+         "id": "1138792",
+         "field_search": "question",
+         "question": " Cho mình hỏi sản phẩm Tai nghe bluetooth Plantronics ML15 có áp dụng giảm giá khi mua tại cửa hàng không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.583862,
+         "id": "1141284",
+         "field_search": "question",
+         "question": "em là học sinh muốn mua điện thoại mới xài tết tầm giá 23tr có tai thỏ và chơi game mượt thì nên chọn máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.582035,
+         "id": "1006424",
+         "field_search": "question",
+         "question": "Chờ tôi hỏi chương trình mua online giá sốc có áp dụng cùng với chương trình combo phụ kiện không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.568605,
+         "id": "1137008",
+         "field_search": "question",
+         "question": "e muốn mua redmi note 6 pro mà đc ưu đãi giảm giá 600k thì nhận tại cửa hàng điện máy xanh đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.521519,
+         "id": "1000222",
+         "field_search": "question",
+         "question": "TGDD không có chương trình tra điểm thi THPTQG 2017 trúng phiếu mua hàng hay mã giảm giá mua hàng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.378662,
+         "id": "1011152",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy ở tgdd thì muốn đổi máy mới có phải giá trị điện thoại giảm 10% rồi bù tiền vào máy khác đúng không ạ ?? Điện thoại em còn bh . Mua dc khoảng 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.34448,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.332972,
+         "id": "1141478",
+         "field_search": "question",
+         "question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.304506,
+         "id": "1134092",
+         "field_search": "question",
+         "question": "cho em hỏi realme c1 có bán trên cửa hàng thế giới di động ko ạ... hay chỉ mua online thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.21805,
+         "id": "995186",
+         "field_search": "question",
+         "question": "Mình à khách hàng thân thiết vậy mua điện thoại có dc giảm giá ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.197514,
+         "id": "1006803",
+         "field_search": "question",
+         "question": "TGDD cho hỏi đt galaxy j5 prime giờ đang bán tại các cửa hàng của tgdd là bao nhiêu tiền?có đc giảm giá như ở viettell store là 3.790.000 ko?muốn mua hàng ở tgdd nhưng giá mác quácảm ơn tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.146143,
+         "id": "994611",
+         "field_search": "question",
+         "question": "ủa cho mình hỏi hôm wa mình có đặt mua 1 đt J7 Prime , mình vừa đặt online xong thì thấy báo là nhận đc phiếu mua hàng giảm giá tại vuivui mà sao bên vuivui kiem tra nói ko có vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.131866,
+         "id": "1011744",
+         "field_search": "question",
+         "question": "mình mua galaxy A9 pro vào 7/9/2016 giá 11.990.000đ.Bên thegioididong sẽ thu lại máy này với giá bao nhiêu ạ? máy còn hộp và phụ kiện",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

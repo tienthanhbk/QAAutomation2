@@ -1,0 +1,801 @@
+{
+   "id_query": "1167899",
+   "total": 30885,
+   "total_current": 100,
+   "max_score": 105.71668,
+   "origin_question": "Máy samsung note5 có cuộc gọi đến nhưng không thông báo mà chỉ hiển thị cuộc gọi bị từ chối trong danh mục điện thoại. Bạn chỉ giúp cách khắc phục lỗi này",
+   "hits": [
+      {
+         "score": 87.61669,
+         "id": "1167878",
+         "field_search": "question",
+         "question": "Máy samsung note 5 có cuộc gọi đến nhưng không thông báo cuộc gọi mà chỉ hiển thị cuộc gọi bị từ chối. Bạn chỉ giúp cách khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.19741,
+         "id": "1020535",
+         "field_search": "question",
+         "question": "Điện thoại ko nhận đc cuộc gọi từ số khác. Khi có cuộc gọi đến chỉ hiển thị rất tiếc, điện thoại đã bị dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.9702,
+         "id": "758055",
+         "field_search": "question",
+         "question": " iPhone 5 cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ, cách khắc phục như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.901314,
+         "id": "1163804",
+         "field_search": "question",
+         "question": "Mình dùng Samsung S8 Plus.  Mặc dù đã lưu tên trong danh bạ nhưng khi gọi đến không hiển thị tên người gọi.  Tuy nhiên,  trong list cuộc gọi đến/đi lại hiển thị tên sau khi cuộc gọi kết thúc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.717617,
+         "id": "809354",
+         "field_search": "question",
+         "question": "điện thoại của mình là Lenovo A7010, cho mình hỏi khi có cuộc gọi wechat đến mà màn hình đang ở trạng thái tắt thì không biết được thông báó có cuộc gọi đến, vì thế ít khi mình nhận được cuộc gọi từ wechat..ai biết cách nào cài khi màn hình tắt nhưng vẫn có thông báo như cuộc gọi thông thường thì chỉ dùm mình với...cảm ơn các bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.107265,
+         "id": "1000719",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung J7 prime. giờ máy mình tự nhiên nhật ký điện thoại không hiển thị các cuộc gọi nhỡ hay gọi đến và đi trong ngày nữa. Và số mình liên lạc nhiều nhất lưu trong danh bạ không hiển thị, trừ khi gõ hẳn tên trong mục tìm kiếm mới hiển thị. Giờ khắc phục tn m.n hướng dẫn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.236954,
+         "id": "1166371",
+         "field_search": "question",
+         "question": "Tôi có cuộc gọi đến, đã bắt máy nhưng chỉ nghe thấy đầu dây bên kia chứ không thể trả lời cuộc gọi được, làm sao để khắc phục điều này? Điện thoại xiaomi note 4.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.09051,
+         "id": "1164681",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi hiện tại mình đang xài Samsung J3, khi mình gọi vào điện thoại của em mình thì bên điện thoại em mình hiển thị cuộc gọi nhỡ từ mình và tự động tắt.. mình xem thì thấy biểu tượng chặn ở đt em mình nhưng mình đã xem lại thì sdt mình k có trong danh sách chặn cuộc gọi, cũng đã thử tắt chế độ chuyển tiếp cuộc gọi nhưng vẫn không được. Chỉ có em mình gọi lại được cho mình còn mình thì chỉ không gọi được cho sdt của em mình thôi. Cả 2 đt đều là Samsung J3 ạ. Mọi người ai biết cách khắc phục xin chỉ giùm mình với. Mình cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.0238,
+         "id": "1158443",
+         "field_search": "question",
+         "question": "con c5 của tôi cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.60517,
+         "id": "1021293",
+         "field_search": "question",
+         "question": " Giúp mình sim bị lổi cách khắc phục sim bị lổi như thế này chỉ nhận được cuộc gọi mà không liên lạc được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.09528,
+         "id": "1162341",
+         "field_search": "question",
+         "question": "em đang xài điện thoại huawei y6 II .Khi có người gọi đến ,nhấn nghe máy thì không nghe được mà nó hiển thị mạng điện thoại trễ đang thực hiện cuộc gọi .Cho em hỏi có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.99703,
+         "id": "812845",
+         "field_search": "question",
+         "question": "Thi thoảng con 6s của mình có cuộc gọi đến nhưng k hiển thị người gọi điện mở màn cũng vậyTại sao lại như vậy và có cách nào khắc phục ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.970104,
+         "id": "1021286",
+         "field_search": "question",
+         "question": "Tôi dụng ip6 , ios 10.2.1. Từ đầu tháng này khi có cuộc gọi đến màn hình khoá thì có chuông nhưng chỉ hiện thị một thông báo có tên ai đó đang gọi phải mở khoá mới trả lời được, còn khi đang dùng thì có cuộc gọi có chuông ,nhưng không báo trên màn hình phải kéo thanh tbao từ trên xuống mới thấy, ad giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.482555,
+         "id": "777101",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5S trả góp hôm 05/01/2016máy hay bị có cuộc gọi đến có chuông có dung mà không hiển thị ai gọi, không tắt không nghe được hết chuông thì báo cuộc gọi nhỡ và nhiều lúc có cuộc gọi không thể gạt nghe được, lại còn bị thế này nữa, em gửi ảnh không biết có phải lỗi nặng không, em mang ra Thế giới di động họ chỉ nâng cấp lên 9.2.1 song trả lại không biết thế nào, ad xem hướng khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.464924,
+         "id": "1014733",
+         "field_search": "question",
+         "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.107033,
+         "id": "1021290",
+         "field_search": "question",
+         "question": "Tôi dụng ip6 , ios 10.2.1. Từ đầu tháng này khi có cuộc gọi đến màn hình khoá thì có chuông nhưng chỉ hiện thị một thông báo có tên ai đó đang gọi phải mở khoá mới trả lời được, còn khi đang dùng thì có cuộc gọi có chuông ,nhưng không báo trên màn hình phải kéo thanh tbao từ trên xuống mới thấy, ad giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.9496,
+         "id": "1014647",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, điện thoại e khi nhận đc cuộc gọi đến chỉ đổ chuông nhưng không hiện lên giao diện cuộc gọi, đến khi cuộc gọi kết thúc thì ms hiện lên cuộc gọi nhỡ. Ad cho e hỏi nguyên nhân và cách xử lý!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.2409,
+         "id": "1161004",
+         "field_search": "question",
+         "question": "dạ Ad cho e hoi chút ạ!e dùng Samsung galaxy Note 8. Cuộc gọi đến từ zalo vẫn hiện thông báo trên màn hình khóa nhưng không cho phép nghe khi chưa mở khóa điện thoại. điều này có cách khắc phục k ạ!em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.188457,
+         "id": "1149441",
+         "field_search": "question",
+         "question": "Tgdd chỉ giúp tôi cách bỏ chặn cuộc gọi trên sam sung a7 2018, họ gọi đến cho mình mà không gọi được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.08344,
+         "id": "1155329",
+         "field_search": "question",
+         "question": "Máy điện thoại tôi có nhạc cuộc gọi đến nhưng lại không có cuộc gọi nào, internet cũng không bật, chỉ có restart máy thì mới ok. Điện thoại tôi là Nokia 3. Nhờ ad giúp đỡ chứ thế nầy mệt lắm ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.888393,
+         "id": "1157360",
+         "field_search": "question",
+         "question": "MÌNH DÙNG NOKIA 5.1 PLUS. KHI CÓ CUỘC GỌI ĐẾN KHÔNG HIỆN MÀN HÌNH CUỘC GỌI MÀ CHỈ CÓ CHUÔNG VÀ RUNG. ĐÃ KHỞI ĐỘNG LẠI MÁY VẪN KHÔNG ĐƯỢC. BẠN TƯ VẤN GIÚP MÌNH",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.61597,
+         "id": "1024475",
+         "field_search": "question",
+         "question": "Hi Ad, Samsung A5 2017 của mình không hiện thị hết được tên danh bạ dài khi có cuộc gọi đến. Nó chỉ hiện vài ký tự đầu thôi.VD: Tên danh bạ: ABCDEFGH, khi có cuộc gọi đến nó chỉ hiện thị ''ABCD...\" vậy thôi. Lúc trước mình xài Iphone thì nó tên danh bạ nó sẽ chạy hàng ngang hoặc thu nhỏ tên để hiện thị hết tên theo danh bạ.Ad có biết cách tuỳ chỉnh như vậy không? Giúp với.Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.38676,
+         "id": "1134955",
+         "field_search": "question",
+         "question": "Mình gọi điện thoại nhưng cuộc gọi chỉ đổ chuông 1 lần rồi tự động tắt. Cho hỏi có phải mình bị chặn số không? Máy chả người mình gọi đến dùng là samsung note 5.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.220253,
+         "id": "1011418",
+         "field_search": "question",
+         "question": "Bạn chỉ giúp cách chặn cuộc gọi trên phillips S616 nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.769,
+         "id": "1150632",
+         "field_search": "question",
+         "question": "Cho hỏi ĐT ASUS của tôi cách đây vài tháng sau khi cập nhật hệ thống thì các cuộc gọi đến chỉ hiện thị tên mà không hiển thị số điện thoại, vì có nhưng tên tôi lưu nhiều số (ví dụ 1 công ty khách hàng tôi lưu nhiều người) nên nhìn không biết là ai gọi. Có ai biết cách khắc phục không ạ, xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.42409,
+         "id": "1147644",
+         "field_search": "question",
+         "question": "Tại Sao zalo ng gọi đến báo có cuộc gọi khác trong khi máy e k có 1 cuộc gọi nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.982975,
+         "id": "846358",
+         "field_search": "question",
+         "question": " Hi admin!Cho mình hỏi, có thể cài đặt chỉ nhận cuộc gọi trong danh bạ điện thoại trên iphone không?Xin cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.82289,
+         "id": "829898",
+         "field_search": "question",
+         "question": "Mình mới dung iphone nhưng không biết sao khi man hình khóa mà có cuộc gọi line messenge vv thì đều phải mở khóa máy rồi mới bắt cuộc gọi đến được? Xin giải đáp giúp và có cách nào khắc phục không ah? Trước đây dùng samsung thì đâu có bị như vậy? Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.597504,
+         "id": "806582",
+         "field_search": "question",
+         "question": "Dạo này zalo bị lỗi vẫn thông báo có người gửi tin nhắn khi mà bấm vô cuộc trò chuyện thì trống rỗng thoát ra thì mất lun cuộc trò chuyện. Chỉ em cách khắc phục được không? Cám ơn rất nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.50705,
+         "id": "809259",
+         "field_search": "question",
+         "question": " Không hiện thông báo có tin nhắn từ zalo và âm cuộc gọi đến k co ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.41517,
+         "id": "1009400",
+         "field_search": "question",
+         "question": "Mình xài điện thoại Sony XA. Mình muốn hỏi khi có cuộc gọi quốc tế gọi đến mà mình muốn điện thoại hiển thị quốc gia nào đang gọi tới thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.128376,
+         "id": "770555",
+         "field_search": "question",
+         "question": "Tôi đang dùng Iphone 5s khi gọi nếu đầu bên kia từ chối cuộc gọi thì máy của tôi xuất hiện Từ chối và gọi lại. trước đó không có hiện tượng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.003613,
+         "id": "817073",
+         "field_search": "question",
+         "question": "Lỗi Messenger của facebook , trên hệ điều hành AndroidMessenger của mình đã là ver mới nhất rồi nhưng khi thực hiện cuộc gọi video với bất cứ ai nó đều cho 1 cái thông báo như vầyRất tiếc bạn không thể thực hiện cuộc gọi :Họ không thể thực hiện cuộc gọi ngay bây giờVà người khác gọi đến mình cũng chẳng có thông báo , ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.881905,
+         "id": "844391",
+         "field_search": "question",
+         "question": "Adm cho e hỏi iphone 5s của em không hiển thị chi tiết cuộc gọi. A chị chỉ giúp em phần cài lại ở mục nào với ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.69911,
+         "id": "1020008",
+         "field_search": "question",
+         "question": "Ad cho minh hỏi, Mình cài wechat nhưng khi gọi chỉ người gọi nghe đc tiếng, còn người nhận cuộc gọi từ máy mình không nghe được triếng cả khi gọi hình và goi tiếng. trong khi đó người nhận cuộc gọi vẫn nhận dược hình và tin nhắn.Làm ơn trợ giúp mình với. Cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.36887,
+         "id": "1159279",
+         "field_search": "question",
+         "question": "Dt e cứ báo chặn cuộc gọi từ 1 số nhưng e xem trong danh bạ lại k có thông báo chặn thì lm như nào để số bên kia gọi đk ạk. E đang dùng a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.356266,
+         "id": "1153867",
+         "field_search": "question",
+         "question": "chào bạn ! Mình mới mua Nokia 8.1, nhưng ko biết cách hiển thị danh bạ từ sim cũ, nhờ bạn chỉ giúp nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.247803,
+         "id": "763979",
+         "field_search": "question",
+         "question": "Mình mời vừa mua điện thoại Samsung Galaxy J5 hôm qua. Nhưng có lúc mở máy ảnh không được hệ thống báo là không thể mở máy ảnh trong cuộc gọi. Nhưng hiện tại lúc đó mình không có cuộc gọi nào. Máy bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.204117,
+         "id": "767931",
+         "field_search": "question",
+         "question": "Mình muốn cái chuyển cuộc gọi sang số máy khác từ iphone 5 mà không thực hiện được.Mình đã vào phần cài đặt --> điện thoại --> chuyển cuộc gọi --> nhập số... thực hiện như hướng dẫn, xong thoát ra thì nó vẫn báo tắt phần \"chuyển cuộc gọi\".Nhờ bạn giúp mình cài đặt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.944664,
+         "id": "1157002",
+         "field_search": "question",
+         "question": "Điện thoại tôi là oppo A33W cứ điện là để mẹo bạn không thể gọi đi khi hạn chế cuộc gọi được bật mà tôi không biết tắc mong mn chỉ giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.66676,
+         "id": "756669",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 khi nhận cuộc gọi thì máy hiển thị những ký tự lạ trước rồi mới hiển thị người gọi tới. Khi màn hình mở thì những ký tự này sẽ tự mất còn khi màn hình khoá thì nó nằm im luôn và không thoát được luôn chỉ có tắt nguồn và khởi động lại máy. Chỉ khi nhận cuộc gọi thôi. Ai biết cách cứu tôi gấp. Cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.647057,
+         "id": "1145478",
+         "field_search": "question",
+         "question": "iPhone 7 của mình khi khoá màn hình lại mà có cuộc gọi đến thì nó không nhận được cuộc gọi...  chỉ khi bấm vào nút nguồn hoặc cầm lên sáng màn hình nó mới nhận được cuộc gọi.... z nó bị lỗi gì mong ad hồ trợ sớm giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.2701,
+         "id": "1020771",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi hiện mình đang dùng 7plus, thường mình thấy Samsung có mục ghi âm cuộc gọi trên cuộc gọi thoại. Thì admin cho mình hỏi bên iphone có mục ghi âm cuộc gọi thoại như samsung ko, hay mình có cần down 1 app nào về ròi kết nối vào cuộc gọi thoại ko admin. Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.21157,
+         "id": "1136077",
+         "field_search": "question",
+         "question": "1/Tôi mua mới mua điện thoại samsung A7 được vài ngày nhưng nó không hiển thị cuộc gọi nhỡ. Khi tôi khôi phục lại cài đặt gốc thì nó đã hiện thị cuộc gọi nhỡ. Như vậy là máy bị lỗi hhay sao?2/ khi đang dùng điện thoại với mức độ sáng mà tôi chỉnh tự dưng màn hình nó tối lai. Vậy là chế độ của điện thoại là vậy. Hay do máy bị lỗi.Như vậy tôi có thể đổi điên thoại mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.12483,
+         "id": "1159579",
+         "field_search": "question",
+         "question": "Mình sử dụng 2 sim tren máy mobistar. 1 sim mobi và 1 sim vina. Có cài chế độ chờ. Nhưng nếu gọi sim mobi mà có cuộc gọi là mobi gọi đến thì có báo. Còn sim vina gọi đến thì tút..tút..Ngược lại sim vina đang gọi mà có cuộc gọi vina đến thì báo có cuộc gọi đến, còn sim mobi gọi đến thì tút..tút. Nhờ nv kĩ thuật hướng dẫn dùm minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.123905,
+         "id": "931706",
+         "field_search": "question",
+         "question": "Chào ad,tôi đang dùng ip 5s cho tôi hỏi có cách nào để tắt tính năng thông báo cuộc gọi đến không ạ.Mỗi lần có cuộc gọi đến là lại có giọng nói gì đó ý???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.056046,
+         "id": "864915",
+         "field_search": "question",
+         "question": " Mình dùng Sony C3 gọi line, cuộc gọi video có hình ảnh nhưng không nghe âm thanh từ người bạn gọi. Admin giúp vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.02868,
+         "id": "1012779",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em j7 2016. Máy lắp 2 sim viettel và vina. Nhưng báo chỉ sim có vina. Sim viettel không có thẻ sim, nhưng vẫn nhận được cuộc gọi đến sim viettel. Tháo sim viettel ra khỏi máy nhưng vẫn nhận được cuộc gọi đến sim viettel, em lắp vào máy thêm 1 sim vina nhưng vẫn gọi đến sim viettel vẫn nhận được trên máy. Tức là máy chỉ lắp 2 sim nhưng  3 sim nghe được cuộc gọi đến. Sim viettel được tháo ra lắp vào máy khác vẫn báo không có thẻ sim.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.862892,
+         "id": "1143084",
+         "field_search": "question",
+         "question": "Điện thoại samsung j7 prime của mình gọi điện báo lỗi ( Không được kết nối vào mạng ) , máy không gọi đi , gọi đến được . Add cho hỏi có cách nào khác phục được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.70213,
+         "id": "1001413",
+         "field_search": "question",
+         "question": "Mình dùng oppo f1s mình gọi cho sdt bạn mình. Bạn mình xài Samsung s7 . Nó hiển ĐÃ CHUYỂN CUỘC GỌI và sau đó thông báo là thuê bao hiện không liên lạc được. Là do bạn minh tắt máy hay sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.56972,
+         "id": "1158204",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi a2 hai ngày nay có người gọi đến điện thoại đổ chuông nhung không hiển thị thấy ai gọi. Một lúc sau mới thấy cuộc gọi nhỡ. Mong ad gúp mình. Chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.55566,
+         "id": "929350",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng máy tính win 7 mà máy em nó không báo cuộc gọi đến mà toàn báo cuộc gọi nhỡ nhưng goi đi vẫn được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.539085,
+         "id": "1163970",
+         "field_search": "question",
+         "question": "Xin chào. Mình mới mua nokia 5.1 plus hôm chủ nhật, nhưng về nhà sử dụng thì thấy ko hiển thị thông báo khi có cuộc gọi, vẫn có rung và chuông. Vào cài đặt - thống báo - điện thoại thì không gạt được nút điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.525608,
+         "id": "651264",
+         "field_search": "question",
+         "question": " em có tải phần mềm wechat về máy nhưng chỉ nhận được cuộc gọi đến còn e gọi đi không được là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.490116,
+         "id": "887573",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mình gọi zalo cho một và người bn thì không được mà họ gọi mình cũng không báo là đang gọi luôn, chỉ thấy toàn là cuộc gọi nhỡ không hà...còn đại đa số những người khác thì mình gọi được...các bạn có cách nào chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.390408,
+         "id": "1009641",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 prime có cuộc gọi nhưng không hiện ra gọi đến sim nào.muốn chỉnh sửa cuộc gọi đến sim 1 hay sim 2 thì cài đặt sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.26885,
+         "id": "1155961",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi trê S9 Plus, còn hỗ trợ chức năng nhấn 1 lần để nhận cuộc gọi thay vì vuốt màn hình k ạ? Máy e bị tình trạng cuộc gọi nhỡ và thông báo trên Viber không hiện thị trên màn hình, phải vô ứng dụng mới biết. Có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.19362,
+         "id": "1018326",
+         "field_search": "question",
+         "question": "Cách bỏ chặn cuộc gọi  đến trên điện thoại xiaomi 4a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.17062,
+         "id": "769085",
+         "field_search": "question",
+         "question": "Mình mới mua Iphone 5s ở thegioididong được 1 tuần,  khi có cuộc gọi đến, nếu mình không bắt máy ngay mà để 1 lát chắc khoảng 20 30s thì màn hình sẽ tắt, chuông vẫn kêu máy vẫn rung bt, mình mở máy để kéo trả lời thì màn hình nhận cuộc gọi không xuất hiện, bấm vô các mục trong Cuộc gọi hay kéo thanh thông báo xuất cũng chả thấy gì, mà máy vẫn rung vẫn kêu nên chả biết làm sao để trả lời cuộc gọi, đành chờ người ta ngắt rồi gọi lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.06597,
+         "id": "1159410",
+         "field_search": "question",
+         "question": "chào ad cho em hỏi tí . samsung j7 + đang sử dụng bỗng đen màn hình nhưng vẫn còn hoạt động và cuộc gọi tới đt vẫn không sáng lên  không đổ chuông nhưng người gọi vẫn gọi cho em được ad có cách khắc phục chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.99062,
+         "id": "759125",
+         "field_search": "question",
+         "question": "Em sử dụng máy Samsung J5. Nhưng khi cắm tai nghe và có cuộc gọi đến (gọi điện, zalo, messenger, skype,...) thì vừa có chuông phát trong tai nghe và vừa có chuông phát ngoài loa. Khi nhận cuộc gọi thì không bị như vậy nữa.Cho em hỏi đây là do lỗi hay là do máy cài đặt như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.868942,
+         "id": "746796",
+         "field_search": "question",
+         "question": " lỗi không bấm được phím số để gọi điện thoại và không vào được danh bạ và nhật ký cuộc gọi. máy iphone 4s ạ. ios9.0.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.85446,
+         "id": "587305",
+         "field_search": "question",
+         "question": "Tại sao mình lại không nhận được cuộc gọi zalo khi tắt màn hình mặc dù mình đã vào mục tiết kiệm pin và bật chế độ ON. Chỉ mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84262,
+         "id": "1020388",
+         "field_search": "question",
+         "question": "Mình đang xài điện thoại samsung note 5. Nhưng dạo gần đây điện thoại hay hiện các ID hoặc các kiểu tên mà không phải mình lưu. Bạn cho mình hỏi làm cách nào để tắt đi vì trước đây xài mình không bị vậy bao giờ. Mình cũng đã thử tắt ID cuộc gọi từ cài đặt cuộc gọi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.831158,
+         "id": "1154827",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại Nokia 6.1 Plus nhưng có một vài số điện thoại có trong danh bạ nhưng khi gọi đến mình không hiện tên. Nhờ bạn tư vấn cách khắc phụp dùm nhé. Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.729126,
+         "id": "1004245",
+         "field_search": "question",
+         "question": "Xin chỉ giúp cách làm hiển thị trên màn hình chờ của NOKIA 3 như: Ngày tháng, giờ, cuộc gọi nhỡ, tin nhắn... giống như thời NOKIA E71; E72.Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.664604,
+         "id": "1165127",
+         "field_search": "question",
+         "question": "Cài hiển thị log cuộc gọi cho a7 2018 thế nào...........................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.632244,
+         "id": "911405",
+         "field_search": "question",
+         "question": "Máy tôi đang chạy iOS 8.4 . Mình muốn chặn các số ngoài danh bạ nên vào Cài Đặt -> Không Làm Phiền -> Cho phép cuộc gọi từ -> tôi chọn Tất cả danh bạ . Xong . Mình lấy số khác ngoài danh bạ mà tôi lưu trên iphone để gọi , thì ... gọi được tuốt ! Không biết tại sao vậy ? Mong cao thủ chỉ giùm . Nếu ko thì có app nào cho iPhone CHƯA JAILBREAK dùng để chặn cuộc gọi NGOÀI DANH BẠ , KO PHẢI LOẠI CHẶN TỪNG SỐ ko ? Mong mọi người chỉ giúp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.596645,
+         "id": "840577",
+         "field_search": "question",
+         "question": "Ai cho minh hỏi minh đang dùng iPhone 4s nhưng khi có người gọi đến thì điện thoại không báo có cuộc gọi trong khi đầu dây ben kia vẫn nghe chuông đổ.giò mình phai làm thế nào?ai chỉ dùm mình với.cảm ơn mọi người trước ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.57212,
+         "id": "1141487",
+         "field_search": "question",
+         "question": "Các anh chị giúp em với ạ. Điện thoại j6 plus của e khi đang nghe cuộc gọi bình thường, thì người khác gọi điện qua messenger không báo gì hết ạ? Với khi đang nói chuyện messenger thì có cuộc gọi bình thường đến, mình nghe hay không thì cuộc gọi messenger lại không nghe được bên kia nói gì? Mong anh chị giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.502632,
+         "id": "762909",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 5s. khi thực hiện cuộc gọi  facebook messenger thì không được. máy báo carrier or country doesn't support calling. có bạn nào biết cách fix lỗi này không giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.466568,
+         "id": "1164622",
+         "field_search": "question",
+         "question": "Điện thoại Samsung Galaxy A705 có chế độ một trạm để nhận cuộc gọi điện thoại đến không ạ ? cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.38553,
+         "id": "776347",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone 5S trả góp. Thấy thỉnh thoảng có hiện tượng cuộc gọi đến chỉ rung và đổ chuông nhưng màn hình không hiện gj cả. Không hiện tên người gọi và cho để nhận cuộc gọi. Bật màn hình thì hiện ra màn hình khóa trong khi máy vẫn rung và đổ chuông. Máy em bị lỗi gì vậy? Có được đổi máy mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.17252,
+         "id": "1133572",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang sài sam sung j6. Khi mà em có cuộc gọi. Trong lúc nghe điện thoại. Màn hình không sáng. Giờ khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.143406,
+         "id": "930540",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao máy mình khi gọi đi lại không hiển thị thời gian cuộc gọi . Gọi đã bắt máy rồi .mà khi người khác gọi tới lại có ,mình dùng iphone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.9684,
+         "id": "765526",
+         "field_search": "question",
+         "question": "iPhone 5S cập nhật lên phiên bản 9.1 hoặc 9.2 khi có người gọi tới chưa nghe kịp mà màn hình tắt khi mở lên có chuông mà không biết ai gọi không nghe được, phải kết thúc cuộc gọi kiểm tra nhật ký cuộc gọi mới biết. Xin hỏi khắc phục lỗi này thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.920017,
+         "id": "922150",
+         "field_search": "question",
+         "question": "chào bạn mình sài điện thoại iphone4 tại sao khi có tin nhắn hông có đổ chuông chỉ rung thôi và khi có cuộc gọi điện thoại đến thì đổ chuông mình cũng hông biết nó bị gì nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.815979,
+         "id": "902185",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại mình bị tình trạng tự động gọi điện thoại cho người khác mà mình k bít (kể cả lúc điện thoại hết tiền). VD: lúc chiều này đang ăn cơm với bạn thì đt bạn mình có cuộc gọi của mình, xem lại dt mình bình thường k có hiện cuộc gọi. dt mình mới mua vào tháng 9 ip6s. ai giúp mình với !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.808199,
+         "id": "1163887",
+         "field_search": "question",
+         "question": "AC HỔ TRỢ GIÚP E VỚI. Danh bạ của e bị mất sđt, số điện thoại chỉ có trong zalo. Nên giờ k gọi dc và ng khác gọi đến cũng k hiện tên. AC nào biết cách lấy lại xin chỉ giúp e với ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.758745,
+         "id": "845375",
+         "field_search": "question",
+         "question": " Điện thoại tôi cuộc gọi đến màn hình không sáng. không biết ai gọi. Tôi dùng Oppo J5. Mod hướng dẫn giúp cái? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.729708,
+         "id": "1154425",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi cuộc gọi đến hoặc gọi đi bằng sim điện thoại, mà lại báo vào tin nhắn zalo. làm sao bỏ chế độ này. Điện thoại mình sam sung J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.687435,
+         "id": "1019513",
+         "field_search": "question",
+         "question": "Cho em hỏiE dùng Sony M5Khoảng 1 tuần nay khi cuộc gọi đếnThì xuất hiện 1 thông báo . Trong đó hiện tên danh bạ khác với danh bạ e đã lưuNhư vậy là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.666208,
+         "id": "796169",
+         "field_search": "question",
+         "question": " Xin hướng dẫn ẩn số điện thoại trong danh bạ, chỉ hiển thị tên cho máy ip4 viettel ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.612587,
+         "id": "819193",
+         "field_search": "question",
+         "question": "Hiện zalo của mình không hiển thị thông báo các họat động của bạn bè, bạn bè có đăng ảnh hay cập nhật cảm nghĩ mới vẫn không có thông báo như trước. Nhờ bên liên quan chỉ cách khắc phục. Cám ơn nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.59851,
+         "id": "809617",
+         "field_search": "question",
+         "question": "Nâng cấp lên ios 9.2.1 iphone 5 16gb cua e bị mất âm cuộc gọi đến là sao vậy.người ta gọi đến giờ máy e chỉ rung mà 0 đổ chuông.giờ em phải làm sao.xin ad giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.404383,
+         "id": "1152761",
+         "field_search": "question",
+         "question": "Sao Oppo f9 của mình vuốt thanh thông minh ra lại không có tính năng từ chối cuộc trong đó vậy, mong ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.39943,
+         "id": "1022282",
+         "field_search": "question",
+         "question": "samsung j2 prime của mình bị làm sao mà loa trong k nghe đượccòn loa ngoài thì chỉ có cuộc gọi đến hoặc có tin nhắn đến mới kêu còn nghe nhạc hay xem youtube lại k có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.362677,
+         "id": "1018246",
+         "field_search": "question",
+         "question": "Làm sao để điện thoại GR5 mini báo chuông ở zalo và messenger khi màn hình đã khóa nhưng vẫn đang bật wifi liên tục? Chỉ nhận được thông báo có cuộc gọi nhỡ. Tuy nhiên đã  bật thông báo trên zalo và messenger.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.277615,
+         "id": "1006284",
+         "field_search": "question",
+         "question": "mình dùng điện thoại saamsung galaxy s6, khi có cuộc gọi tới hay khi nghe nhạc... thì âm thanh ko có, nhưng vẫn nhận cuộc gọi bình thương. mong banj chỉ mình cách chỉnh lại. mình đã tắt chế độ tắt mọi âm thanh nhưng ko dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.265533,
+         "id": "1020669",
+         "field_search": "question",
+         "question": "Xin chào ạ! Em vừa mua điện thoại samsung a7 2017. Nhưng không hiểu sao loa nghe từ bên kia nói rất nhỏ ạ mặc dù đã tăng max âm lượng cuộc gọi đến rồi (không phải nhạc chuông). Nhờ ad giúp đỡ khắc phục ạ. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.257046,
+         "id": "1005983",
+         "field_search": "question",
+         "question": "Tại sao máy em không hiển thị nội dung cuộc gọi đến ạ. Có người gọi đến là màn hình tối om ạ. Em phải nhấn nút home mở khóa màn hình rồi vuốt màn hình xuống mới biết được ai gọi rồi mới trả lời cuộ gọi được ạ. Ai biết chỉ giúp em với. Em cám ơn ạ.Em xài XA Ultra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.108683,
+         "id": "1023299",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ? điện thoại của e là mi4 khi gọi đi, hay bắt máy nghe cuộc gọi, màn hình của e nó bị đen ko nhìn thấy cuộc gọi như khi mình để gần tai nghe nó bị cảm biến ấy ạ, có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.066584,
+         "id": "1133513",
+         "field_search": "question",
+         "question": "Xin ad giúp điện thoại em sài samsung j7pro mấy hôm nay nó bị lỗi rung khi không có thông báo mấy a/c chỉ em cám khắc phục ạ em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.052338,
+         "id": "772431",
+         "field_search": "question",
+         "question": "Mình bị iPhone 4s chặn số điện thoại nhưng khi mình gọi đến người đó vẫn biet mình gọi và bên máy mình thì hiện cuộc gọi bận. Vậy tin nhắn mình gửi đến người đó có đọc được hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.004646,
+         "id": "1019124",
+         "field_search": "question",
+         "question": "Chào ad, Em dùng Samsung C9 Pro. Từ trước giờ em dùng ghi âm bình thường nhưng hôm nay lại ghi âm lại báo lỗi ghi âm khi đang gọi. Trong khi em không có thực hiện cuộc gọi nào cả? Ad hỗ trợ giúp em nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.967852,
+         "id": "886197",
+         "field_search": "question",
+         "question": " Tại sao camera không cho hiển thị cuộc gọi video với messenger hay viber? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.813671,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.633217,
+         "id": "948243",
+         "field_search": "question",
+         "question": " cho e hỏi sao fb của e người khác gọi đến thì k báo cuộc gọi mà toàn thành gọi nhỡ nhưng mình gọi đi thì vẫn được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.616636,
+         "id": "1168779",
+         "field_search": "question",
+         "question": "E sài vivo y55 mà danh sách hiển thị danh bạ bên máy e ẩn rồi anh chị chỉ e cách hiển thị đi ạ danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

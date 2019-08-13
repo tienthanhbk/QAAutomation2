@@ -1,0 +1,801 @@
+{
+   "id_query": "990623",
+   "total": 34668,
+   "total_current": 100,
+   "max_score": 163.71777,
+   "origin_question": "Mình có dùng ip5. Vào kiểm tra dung lượng máy thì thấy phần tin nhắn chiếm 1,1G bộ nhớ. Vào xem thì nó ghi là tin nhắn đã lưu, không thấy xoá được. Mặc dù mình đã xoá tất cả tin nhắn trên máy nhưng nó vẫn còn. Vậy phải làm sao để xoá được phàn cho. Xin ad giải thích",
+   "hits": [
+      {
+         "score": 60.584366,
+         "id": "700409",
+         "field_search": "question",
+         "question": " Khi mình xoá tài khoản zalo vĩnh viễn thì những tin nhắn đã nhắn trên máy của bạn bè còn tồn tại không ? Cảm ơn bạn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.40057,
+         "id": "1155161",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tin nhắn trên zl .. làm sao khôi phục lại được ạ ... tôi đã vào mục khôi phục tin nhắn khôi phục nhiều lần nhưng không thấy tin nhắn được khôi phục ... còn cách nào khôi phục tin nhắn zl không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.811626,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.475292,
+         "id": "1147911",
+         "field_search": "question",
+         "question": "Em có cái ip se 32GB .E xoá hết hình ứng dụng rồi mà nó vẫn báo đầy bộ nhớ . Kiểm tra thì hệ thống nó chiếm hết toàn bộ dung lượng máy . Giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.816586,
+         "id": "1147962",
+         "field_search": "question",
+         "question": "Em có cái ip se 32GB .E xoá hết hình ứng dụng rồi mà nó vẫn báo đầy bộ nhớ . Kiểm tra thì hệ thống nó chiếm hết toàn bộ dung lượng máy . Giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.62709,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.58319,
+         "id": "1150817",
+         "field_search": "question",
+         "question": "Cho mình hỏi tin nhắn trên zalo mình đã thu hồi rồi, nhưng khi thu hồi xong thì mình xóa. Cho mình hỏi là nếu như vậy thì bên được gửi còn thấy tin nhắn của mình ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.42545,
+         "id": "1150257",
+         "field_search": "question",
+         "question": "Làm cách nào nào lấy lại tin nhắn đã xoá trên wechat",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.332935,
+         "id": "847001",
+         "field_search": "question",
+         "question": "Cần gấp :Mình xài iphone , nhưng gửi tin nhắn sms không được , mặc dù đã tắt imessager đi rồi nhưng vẫn không gửi được tin nhắn , nó báo là \" CHƯA GỬI ĐƯỢC \" . Gíup mình với , cảm ơn ạ ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.04368,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.38574,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.690464,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.560986,
+         "id": "824763",
+         "field_search": "question",
+         "question": "Em đang xài iphone5. Em xoá hết ảnh rồi mà kiểm tra bộ nhớ vẫn báo ảnh chiếm 7,2Gb bộ nhớ! E xoá cả mục đã xoá rồi mà máy vẫn báo thế! Cho em hỏi sửa lỗi này ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.49451,
+         "id": "861030",
+         "field_search": "question",
+         "question": "Cho mình hoi máy của mình dang nhắn tin SMS cho bạn mình thì máy chuyển sang nhắn tin FaceTime nhưng tin nhắn không tới bạn mình mà lại tới số lạ khác và mình kiểm tra chi tiết tin nhăn gửi cho bạn trên may mình vân có còn bạn mình thì FaceTime khổng kích hoạt ma tin nhắn vẫn đến số lạ là bị làm sao vậy mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.389557,
+         "id": "1166662",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em đang dùng con xiaomi redmi note 7 mỗi lần em vào trong bộ nhớ máy xem có tệp tin nào dư thừa thì em xoá bỏ có những tấm hình em đã xoá hết trong thư viện rồi mà sao khi em vào trong bộ nhớ máy thì số MB vẫn còn ạ, mong anh chị giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.06,
+         "id": "1157185",
+         "field_search": "question",
+         "question": "Cho em hỏi với. Icloud của em đang dùng hiện tại. Đăng nhập vào một máy khác thì các tin nhắn imess trứowc đây em đã xoá có hiện lên khi đăng nhập không? Em xoá thì khi đăng nhập lại có thấy không ạ. Mong phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.93899,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.81969,
+         "id": "1147968",
+         "field_search": "question",
+         "question": "E có ip se 32gb . Máy báo hết dung lượng . E xoá sạch ứng dụng . Hình . Chạy lại chương trình . Máy vẫn báo . Kiểm tra thì hệ thống chiếm toàn bộ dung lượng của máy . Cho e 1 lời giải thích",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.71335,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.640213,
+         "id": "868281",
+         "field_search": "question",
+         "question": "cho mình hỏi sao ip của mình bay h khi có tin nhắn máy chỉ báo ở màng hình khóa . còn vào mục tin nhắn thì ko thấy hiện thị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.61869,
+         "id": "953463",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có khôi phục lại được tin nhắn bị xoá trên iphone không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.482635,
+         "id": "1003964",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao zalo máy tính của mình không hiển thị tin nhắn mới, mỗi lần xem tin nhắn phải vào đt để xem ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.40488,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.297874,
+         "id": "758199",
+         "field_search": "question",
+         "question": "Chào ad. Máy em đang dùng ứng dụng LINE. Đang nhắn tin thì bây giờ lại không nhắn tin được . Em xoá đi tải lại . Khi đăng nhập thì có thông báo là kiểm tra kết nối giữa LINE với mạng . Trong khi cả wifi và 3g vẫn căng đét . Thế là bị làm sao ạ . Mong add tư vấn giúp e . Thanhks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.228825,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.194515,
+         "id": "1142768",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi. M lỡ khôi phục tin nhắn cũ zalo trên đt nhưng quên ko sao lưu trc đó nên bị mất tin nhắn gần nhất. Nhưng trên máy tính thì vẫn còn. Vậy ad chỉ mình cách đồng bộ lại tin nhắn đó từ máy tính sang điện thoại đc ko? Tks ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.170223,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.042145,
+         "id": "830086",
+         "field_search": "question",
+         "question": "nếu mình đăng nhập song song tk zalo cùng 1 lúc trên máy tính và đt thì khi có tin nhắn báo đến mình xoá trên đt đi thì máy tính có còn lưu tin đó nữa k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.794174,
+         "id": "922175",
+         "field_search": "question",
+         "question": "Tôi sao lưu tin nhắn trên viber vào google drive rồi, một thời gian sao tôi lại sao lưu tiếp 1 lần nữa , nhưng khi tôi vào khôi phục tin nhắn thì chỉ hiện tin nhắn của lần sao lưu sau, tôi muốn khôi phục tin nhắn của lần sao lưu trước thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.73323,
+         "id": "920516",
+         "field_search": "question",
+         "question": "Mọi người giúp mình nhé.Mình đồng bộ tin nhắn zalo từ điện thoại qua máy tính, nhưng máy tính không đồng bộ hết tất cả tin nhắn đã chat, có đoạn nó đồng bộ, có đoạn thì không đồng bộ, mọi người có cách khắc phục không ạ.Mình cảm ơn nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.534435,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.120945,
+         "id": "767406",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình dùng điện thoại iPhone 4s và 5S,giờ mình xoá tin nhắn rồi lằm sao có thể tìm lại được nó, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.09379,
+         "id": "924487",
+         "field_search": "question",
+         "question": "có một số tin nhắn bạn tôi đã gửi trước đó 5 tiếng nhưng tôi mở viber không thấy tin nhắn nhưng tôi khởi động lại máy thì mới thấy tin nhắn đã gửi cách đó 5 giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.011932,
+         "id": "997307",
+         "field_search": "question",
+         "question": "Chào quản trị viênHiện mình đang sử dụng điện thoại sony XA, mình có gửi tin nhắn xong thì mình xóa tin nhắn đi, những một lúc sau thì nó báo tin nhắn không được gửi đi lúc đó mình lở xóa đi, cho mình hỏi là không biết khi tin nhắn hiện lên như vậy thì nội dung tin nhắn còn không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.83083,
+         "id": "776490",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5 tại sao những tin nhắn và hình ảnh trong zalo của mình lại ko lưu được hết nó cứ bị xoá dần theo thời gian",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.531868,
+         "id": "769941",
+         "field_search": "question",
+         "question": " Tại sao mình thấy viber chặn cuộc gọi mà tin nhắn vẫn gọi được để đã chuyển? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.43372,
+         "id": "958936",
+         "field_search": "question",
+         "question": " Mình đã đăng ký tài khoản Apple nhưng không thấy có tin nhắn xác minh tài khoản vào email vậy mình phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.39736,
+         "id": "1162456",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, e đang dùng 6s 16gb , ảnh của em chỉ có 155 cái nhưng dung lượng lại chiếm hết hơn 600mb, e đã xoá tất cả ảnh ở mục “Đã xoá gần đây” nhưng vẫn ko giảm mb ạ. Và tại sao em thấy chị em dùng ip7plus có hơn 1000 ảnh nhưng lại chỉ chiếm có hơn 400mb ạ :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.38696,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.925396,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.668068,
+         "id": "1151074",
+         "field_search": "question",
+         "question": "Sao zalo của mình tin nhắn ko báo vào máy. Mà bên kia tin nhắn họ gửi báo đã xem. Trong khi mình ko biết tin nhắn tới. Và mình cũng chưa xem.mong ad giúp đỡ. Cảm ơn ad nhìu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.639687,
+         "id": "839881",
+         "field_search": "question",
+         "question": " Cho mình hỏi đã tìm đc cách khôi phục lại tin nhắn line mà đã xoá ứng dụng line chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.520607,
+         "id": "1152968",
+         "field_search": "question",
+         "question": "Cho em hỏi khi xoá 1 tin nhắn gần nhất của messeger thi no vẫn còn hiện thời gian lần cuối cùng mình nhắn phải không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.494034,
+         "id": "1152780",
+         "field_search": "question",
+         "question": "khi mở máy và vào biểu tượng messenger là nó hiện ra tất cả các click mà mình đã nhắn tin. vì vậy mình cần đặt mật khẩu mỗi khi vào messenger trên đt oppo thì phải làm sao? các anh chị chỉ cho em với. cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.439857,
+         "id": "1141880",
+         "field_search": "question",
+         "question": "Ad cho hỏi, mình bị mất tin nhắn zalo trên điện thoại nhưng vẫn còn tin nhắn trên máy tính. Có cách nào để copy từ máy tính sang điện thoại để tiện xem lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.420185,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.35985,
+         "id": "995466",
+         "field_search": "question",
+         "question": "Ad ơi! Đây là Facebook người này ko phải chặn em, mà em ko nhắn tin được, khi nhắn thì nó hiện thế này. Em dùng nick khác nhắn lại được. em thử mess nó vẫn vậy. Cho hỏi người này đã làm gì em trên Facebook vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.340523,
+         "id": "1135138",
+         "field_search": "question",
+         "question": "em đã cài zalo trên điện thoại và cả pc , nhưng khi xóa tin nhắn bằng điện thoại thì tin nhắn trên pc cũng biến mất , giờ phải làm sao để khi xóa tin nhắn trên điện thoại mà pc lại không bị mất ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.31378,
+         "id": "922293",
+         "field_search": "question",
+         "question": "Khi đã xóa bộ nhớ đệm trong máy, có tải lại được tin nhắn trên kakaotalk được không nếu được thì làm cách nào ạ? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.182583,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.127106,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.048817,
+         "id": "786953",
+         "field_search": "question",
+         "question": "Bạn ơi, máy mình là iphone 5, mình muốn hỏi mình nhắn tin cho 1 số đt thì máy báo tin nhắn gửi thành công, mình gọi thì vẫn có chuông báo 1 hồi rồi mới thôi, nhưng 1 thời gian rồi mà ko thấy họ phản hồi gì cả, có phải số mình đã bị chặn???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.970306,
+         "id": "1008332",
+         "field_search": "question",
+         "question": "Chào các ad. Máy em iphone 5s. Em dùng messenger facebook sao em vuốt sang trái để xoá tin nhắn hết được rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.6129,
+         "id": "1005961",
+         "field_search": "question",
+         "question": "Game nói em nhắn tin để lấy lại mật khẩu nhưng phải tốn tiền máy em lát nên em đã lỡ bấm vào không bao giờ nên em không gửi tin nhắn được nữa giờ em phải làm sao để nhắn lại được ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.357544,
+         "id": "814080",
+         "field_search": "question",
+         "question": "A oi giúp e với , bạn bè gởi tin nhắn trên zalo cho e thì nó báo \" xin lỗi , tạm thời chúng tôi ..... \" , nhưng e nhắn tin lại thì bạn bè e nhận được , bạn e hỏi e có chặn tin nhắn không thì e dzo xem không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.33901,
+         "id": "1160008",
+         "field_search": "question",
+         "question": "Máy e là iphone 5s chạy ios 11.4.1 phiên bản 16GB,gần đây e có kiểm tra trong phần dung lượng iphone thì thấy phần “khác” chiếm tới 6,88GB mà e có tham khảo trên mạng thì thấy thường phần này chỉ chiếm vài trăm mb.Cho e hỏi có cách nào để xoá bớt dung lượng mà phần này sử dụng mà không cần resert lại máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.226856,
+         "id": "758134",
+         "field_search": "question",
+         "question": "Chào ad . Em đang dùng ứng dụng line . Đang nhắn tin bình thường thì tự dưng không gửi được tin nhắn mặc dù wifi và 3g nét căng . Mình thoát ra vào lại thì ứng dụng thông báo không đăng nhập được và yêu cầu kiểm tra kết nối mạng . Nhờ ad chỉ giúp cho ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.21344,
+         "id": "1140807",
+         "field_search": "question",
+         "question": "sao zalo của mình không mở được tin nhắn vậy?nó chỉ hiện một khung màu trắng bên cạnh như vậy. ấn chuột vào tin nhắn mà không mở được thì làm thế nào ?mong ad chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.946064,
+         "id": "772596",
+         "field_search": "question",
+         "question": "Cho mình hỏi, khi xoá tin nhắn mình ấn thêm rồi, chọn được rồi nhưng không xuất hiện biểu tượng thùng rác thì làm thế nào?(iphone 6 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.897816,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.87753,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.69421,
+         "id": "1134039",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để tắt thông báo liên tục của cái tin nhắn của máy và messenger khi tin nhắn tới  lần mà mình k đọc cũng 1 tin nhắn đó mà cứ báo đi báo lại nhiều lần khi mua về k có bị sao nhưng khi cập nhật phần mềm thì nó lại bị như vậy nó rất khó chịu xin ad chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.690876,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.35511,
+         "id": "791643",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4s 16g gần đây máy báo dung lượng đầy . Em đã xoá hết dư liệu mà xem trong phần sử dụng vẫn báo dung lượng chiếm phần đó vẫn còn. Các bác giúp em với thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.24887,
+         "id": "1017990",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình xóa tài khoản zalo thì những tin nhắn mà mình đã nhắn cho mọi người từ trước đó nó có còn lưu trong zalo trên thiết bị của họ hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.154854,
+         "id": "792375",
+         "field_search": "question",
+         "question": "Tại sạo dù đã cài đặt lại máy iphone của mình lên ios 9.2.1 rồi mà khi vào phần tin nhắn vẫn hiện lên địa chỉ dạnh bạ số điện thoại đã đồng bộ lưu từ trước đó? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.145073,
+         "id": "838902",
+         "field_search": "question",
+         "question": "Tại sao IPhone 5s của tôi lại không gửi ti nhắn được, mặc dù tôi đã làm đủ mọi cách giống như trên mạng, nhưng vẫn không được, giờ phải làm sao để nhắn tin đc đây? Tôi cần nhắn gấp trong 1 ngày nữa nên hãy trả lời nhanh nhé! Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.04361,
+         "id": "794134",
+         "field_search": "question",
+         "question": " Cho m hỏi như vậy thì mình phải làm như thế nào ?? Minh f chả thấy có tin nhắn nào đến cả ??   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.040386,
+         "id": "998714",
+         "field_search": "question",
+         "question": "Em xài ipad mini4(ios10.2.1), khi em quay màn hình và lưu vào máy thì khi vào THƯ VIỆN ẢNH trên máy không thấy. Nhưng vào CÀI ĐẶT CHUNG-DUNG LƯỢNG SỬ DỤNG thì thấy có chứa dung lượng của video đấy chiếm đến 3gb( nghĩa là lúc đầu máy em có 44 ảnh và 2video chỉ 6 giây chiếm khoảng 100 mb mà khi lưu video trên vào nó tăng lên 3,52gb trong khi ở THƯ VIỆN ẢNH thì không thấy video đấy) xin cho em lời giải đáp vì chiếm 3gb là rất nhiều. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.036213,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.016953,
+         "id": "1168600",
+         "field_search": "question",
+         "question": "cho em hỏi: em xóa tên đã lưu vào danh bạ. khi bấm số đó thì vẫn hiện tên trước đó đã lưu (như hình bên dưới), hoặc nhắn tin vẫn hiện tên \" có thể: tên người đã lưu\". mặc dù em đã xóa ra khỏi danh bạ. làm sao để xóa hết không còn hiện như vậy nữa ạ.em dùng iphone 7 ios12.2 em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.982475,
+         "id": "848001",
+         "field_search": "question",
+         "question": "Có người gửi tin nhắn zalo cho mình nhưng mình chưa kịp đọc thì người đó đã thu hồi vậy có cách nào đọc được tin nhắn đã thu hồi không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.938942,
+         "id": "1135141",
+         "field_search": "question",
+         "question": "E dùng ip5s ios7, messenger yêu cầu cập nhật thì e xoá tải lại nhưng vô nó vẫn yêu cầu cập nhật, bấm vô appstore thì mess không có chỗ cập nhật mà chỉ có chữ open để mở ứng dụng thôi ạ, giờ e không thể vào xem tin nhắn được vì nó cứ yêu cầu cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.850872,
+         "id": "957069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi tí ạ . Sao máy mình nhắn tin cho 1 số khác mà số khác đấy k nhận đc tin nhắn mà tin nhắn đó nó lại nhắn về máy mình vậy . Ad giúp mình với . Lúc trước icloud của mình có dùng 2 máy nhưng bây giờ có 1 máy thôi mọi người giúp mình với mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.828396,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.697937,
+         "id": "831457",
+         "field_search": "question",
+         "question": " Sao em xem tin nhắn trên zalo không được. Nó cứ báo là không có sóng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.611946,
+         "id": "1159112",
+         "field_search": "question",
+         "question": "zalo của mình báo có tin nhắn chưa gửi được do lỗi mạng, nhưng khi mình click vào thì ko thấy gì? vì sao lại vậy và làm sao để khắc phục a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.566647,
+         "id": "833271",
+         "field_search": "question",
+         "question": "Ad cho minh hỏi.tại sao máy mình ghi là ảnh và video chiếm 8,5g nhưng minh tim lại lo thấy cái ảnh nào để xoá cả.minh dùng iphone 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.440956,
+         "id": "825444",
+         "field_search": "question",
+         "question": "iPad của tôi được báo sắp hết dung lượng .Nếu tôi xoá bớt nội dung đã lưu thì phần dung lượng còn lại có tăng trở lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.41251,
+         "id": "1150939",
+         "field_search": "question",
+         "question": "Cách xoá tệp khác trên xiaomi redmi 5a kiểu gì vậy ạ? Mình đã dọn rác, xoá bộ nhớ đệm rồi vẫn không được và nó càng ngày càng tăng. Mong ad giúp mình, mình cần gấp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.293934,
+         "id": "861023",
+         "field_search": "question",
+         "question": "Máy mình là ip4s. Tại sao khi minh nhắn tin trên fb nó lại không hiện bong bóng vậy ạ. Dù mình đã tải message r. Giup mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.272972,
+         "id": "997246",
+         "field_search": "question",
+         "question": "Tại sao nhắn tin mặc định của máy galaxy J2 prime không gửi tin nhắn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.109177,
+         "id": "848770",
+         "field_search": "question",
+         "question": " Ad cho e hỏi iPhone của e tại sao vào tin nhắn với điện lại bị đơ tin nhắn ko thấy j ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.076923,
+         "id": "992308",
+         "field_search": "question",
+         "question": "Iphone 6s thỉnh thoảng lại bị mất tiếng(tiếng bàn phím, khóa màn hình và cuộc gọi đến, tin nhắn...) mặc dù mình kiểm tra âm lượn đã bật lớn, gạt khóa âm lượng, không bật các chế độ không làm phiền, nguồn điện thấp. Rồi mình gạt qua gạt lại khóa âm lượn thì lại được. Vì cứ thỉnh thoảng nó lại bị nên mình không lường được cuộc gọi tin nhắn nên toàn bị nhỡ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.037544,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.967487,
+         "id": "1019627",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi một chút về Zalo ạ . Zalo điện thoại em từ hôm cập nhật thì mất hết tất cả tn cũ , em vào phần sao lưu phục hồi lại được tin nhắn cũ nhưng lại bị mất hết tin nhắn hiện tại luôn :((((( Cho em hỏi có cách nào để khôi phục lại các tin nhắn đó không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.91857,
+         "id": "1161516",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình xài note 8. Đã cài đặt mở tất cả âm thanh thông báo nhưng tin nhắn đến thì không có âm, không rung, không hiển thị tin nhắn mới. Cái này khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.816998,
+         "id": "803780",
+         "field_search": "question",
+         "question": " Làm sao để đăng nhập messneger? mình có thể vào messenger để xem tin nhắn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.797417,
+         "id": "835894",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi xíu. Tại sao khi mình nhắn tin bằng điện thoại cho bạn mình, thì nó lại hiện trên cả tin nhắn và zalo luôn. Ad giúp monhf với. Thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.721527,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.605694,
+         "id": "1163893",
+         "field_search": "question",
+         "question": "làm sao để xem được nội dung tin nhắn ở ngoài màn hình khóa trên samsung A50 giống như trên iphone vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.54534,
+         "id": "1163375",
+         "field_search": "question",
+         "question": "Máy samsung J3 pro của em bị lỗi, bấm vào tin nhắn, thì hiện bảng, \" tin nhắn đã dừng \" mong có phản hồi để sửa lỗi ạ, cảm ơn mấy anh/chị đã xem giùm em,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.50111,
+         "id": "1162333",
+         "field_search": "question",
+         "question": "Iphone 7 plus bị lỗi sắp xếp tin nhắnTin nhắn đã lâu ngày nhưng khi bấm vào xem nó sẽ nhảy lên vị trí đầu tiên trong danh sách tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.40199,
+         "id": "1010691",
+         "field_search": "question",
+         "question": "Mình dùng cái Sony Xperia XA, hôm qua thấy bộ nhớ máy đầy trên 70%, mình đã vào phần lưu trữ bộ nhớ và nhấn vào \"nhấn để biết thêm chi tiết, sau đó mình chọn vào \"bộ nhớ trong dùng chung\" và xoá hết 745MB trong \"dữ liệu khác\". Sau đó tự game mình tải về chơi không đc mà bắt tải lại, gỡ bỏ game xong thì máy tự khoá màn hình và bên hình ảnh thì bị thay đỗi cái phần sắp xếp... Mình phảo làm sao ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.269836,
+         "id": "828394",
+         "field_search": "question",
+         "question": "mình dùng dữ liệu thì vẫn vào được n dùng wifi thì ko kết nối facebook đc lại ko thể nhắn tin trên messenger.Mình đã thử mấy mạng wifi khác nhau nhưng vẫn ko được,giứp mình đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.24594,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.18778,
+         "id": "1164351",
+         "field_search": "question",
+         "question": "Mình dùng samsung galaxy j8. Điện thoại mình dùng 2 sim. Sim 1 là 4g viettel, sim kia dùng để nghe gọi. Mình để mặc định tin nhắn là sim 2. Nhưng khi nhắn tin, đôi khi mình đăng kí 4g vẫn phải dùng sim 1 để nhắn, và mỗi lần như vậy điện thoại sẽ hiển thị có chắc chắn muốn nhắn bằng sim 1 không. Hôm bữa trong lúc đăng kí 4g, mình dùng sim 1 nhắn, nó cũng hiện ra tương tự nhưng mình lỡ tay bấm không cho phép nhắn bằng sim 1 (chế độ vĩnh viễn). Giờ phải làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.161858,
+         "id": "802067",
+         "field_search": "question",
+         "question": "Ad ơi, cho mình hỏi, Zalo mình đã chặn một người xem nhật kí rồiNhưng sao mỗi lần mình đăng stt thì nó báo vô phần tin nhắn chat với người đó.Nhưng khi người đó vô tường mình xem thì không thấy do mình đã chặn xem nhật kíGiờ mình muốn khi mình đăng stt gì thì đừng báo vô phần chat của người đó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.15105,
+         "id": "1142331",
+         "field_search": "question",
+         "question": "cho em.hỏi e sử dụng vivo y53 mà máy không nhận được tin nhắn tới. gđt tổng đài thì sim vẫn bình thuờng, bộ nhớ máy vẫn đủ. vậy giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

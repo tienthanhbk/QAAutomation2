@@ -1,0 +1,801 @@
+{
+   "id_query": "993912",
+   "total": 29831,
+   "total_current": 100,
+   "max_score": 77.46558,
+   "origin_question": "điện thoại obi sf1 ram 3g có tại chi nhánh đà nẵng không ạ và giá bao nhiêu ạ",
+   "hits": [
+      {
+         "score": 36.417545,
+         "id": "1007618",
+         "field_search": "question",
+         "question": "Chi nhánh TTDĐ ở Đà Nẵng có kính cường lực cho điện thoại Huawei Y5 2017 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.768774,
+         "id": "1016516",
+         "field_search": "question",
+         "question": "em mới mua samsung j7 pro đc 1 tháng mà điện thoại hình như đi mưa bị nước vô làm màn hình không cảm ứng được dù màn hình vẫn sáng bth . mai em đem lên bảo hành được không ạ . em mua ở dưới chi nhánh thanh khê đà nẵng nhưng em lên bảo hành ở chi nhánh liên chiểu đà nẵng được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.082073,
+         "id": "1023400",
+         "field_search": "question",
+         "question": "Có chi nhánh nào của TGDĐ ở Đà Nẵng còn bán iPhone5s 32G không? Bên mình có định nhập đt ấy về kinh doanh nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.816027,
+         "id": "995615",
+         "field_search": "question",
+         "question": " Điện thoại Obi Worldphone MV1 2GB Cyanogen bán ở chi nhánh nào tphcm vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.792326,
+         "id": "991035",
+         "field_search": "question",
+         "question": "Khi nào điện thoại obi sf1 mới về An Giang vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.886105,
+         "id": "1017293",
+         "field_search": "question",
+         "question": "tại đây có thay màn hình đt obi worldphone SF1 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.771862,
+         "id": "753930",
+         "field_search": "question",
+         "question": "Hiện tại thegioididong chi nhánh quận Bình Thạnh, TP. HCM còn hàng iPhone 5s 16GB Gold không ạ, giá khoảng bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.537277,
+         "id": "999743",
+         "field_search": "question",
+         "question": "Bên mình có bán tai nghe của máy htc m10 evo k ạ? Và nếu có thì giá bn ạ? E ở Đà Nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.389887,
+         "id": "1011686",
+         "field_search": "question",
+         "question": "Ac cho e hỏi phần mềm ổn định nhất cho obi sf1 là bao nhiêu để bớt giật lác với nóng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.370922,
+         "id": "1020647",
+         "field_search": "question",
+         "question": "Tại sao cảm biến gia tốc của obi Sf1 bị lỗi và cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.280146,
+         "id": "1134126",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo realme c1 có sẵn tại cửa hàng nào tại đà nẵng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.180908,
+         "id": "1004226",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi hãng có thay màng hình điện thoại obi SJ 1.5 không. Có thì giá bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.145927,
+         "id": "1156066",
+         "field_search": "question",
+         "question": "Điện thoại nokia 3.1 bộ RAM 3gb, bộ nhớ trong 32gb giá hiện tại bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.095633,
+         "id": "1148052",
+         "field_search": "question",
+         "question": "Cho em hỏi oppof7 cơ sở đường nguyễn lương bằng đà nẵng còn hàng kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.994518,
+         "id": "1167216",
+         "field_search": "question",
+         "question": "Cho e hỏi dòng điện thoại này có mặt tại chi nhánh bến tre chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.96291,
+         "id": "1157680",
+         "field_search": "question",
+         "question": "Xiaomi redmi not 7 phiên bản 3G ram và 32G rom giá bao nhiêu ạCó hổ trợ sạc nhanh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.690851,
+         "id": "1166367",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá pin của iphone 6 bao nhiêu ạ. Ở tgdd chi nhánh chợ lầu, bắc bình, bình thuận có k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.513758,
+         "id": "1023679",
+         "field_search": "question",
+         "question": "Chào bạn,Mình đang dùng điện thoại Obi SF1, dạo gần đây mình thấy điện thoại có  tự restart máy, sau khi restart vẫn hoạt động bình thường. Tuy nhiên, hôm nay máy restart chưa xong và đứng màn hình luôn. Mình cố  nhấn và đè nút khởi động máy nhưng không có  gì thay đổi. Mình mua máy ở thegioididong chi nhánh đường lê văn thọ, gò vấp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.459219,
+         "id": "999321",
+         "field_search": "question",
+         "question": "Em muốn sửa kẹt khe sim máy obi sf1 thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.427954,
+         "id": "1017349",
+         "field_search": "question",
+         "question": "Điện thoại meizu m5s còn hàng ở những chi nhánh nào ở tphcm z? Khi nào điện thoại này mới về thêm màu? Nếu hết khuyến mãi thì giá điện thoại là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.28043,
+         "id": "1022252",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdđ có bán ốp với cường lực cho obi world phone sf1 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.216228,
+         "id": "1022438",
+         "field_search": "question",
+         "question": "Cho mình hỏi Điện thoại OBI Sf1 có chức năng chạm hai lần sáng  màn hình không. Nếu có thì làm như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.434713,
+         "id": "997660",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd chi nhánh Huế có bán bộ sạc nhanh cho samsubg galaxy s6 edge plus không? giá cả bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.383331,
+         "id": "825446",
+         "field_search": "question",
+         "question": " e ở đà nẵng cho e hỏi trung tâm bảo hành apple của thế giới di động nằm ở đâu tại đà nẵng vậy a,c ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.246735,
+         "id": "995693",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mình mua Laptop mới và mún gắn thêm ram thì TGDD có hổ trợ không ạ??Và giá Ram 4GB khoảng bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.557308,
+         "id": "1149698",
+         "field_search": "question",
+         "question": "Realme c1 còn ở thành phố ĐÀ NẴNG ko vậy ạ ????.....................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.498888,
+         "id": "1133726",
+         "field_search": "question",
+         "question": "thegioididong có thay pin điện thoại oppo R8001 không ạ? giá là bao nhiêu và thời gian thay trong bao lâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.37415,
+         "id": "1021819",
+         "field_search": "question",
+         "question": "Chào các qtv,em có con mobell nova i7 bị rơi vào nước giờ muốn đem ra sửa thì mất bao nhiêu tiền ạ?Em ở khu vực hàm nghi-đà nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.316374,
+         "id": "992490",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa obi và j2 priem thì cái nào tốt và xài bền.Sao obi Ram 2G còn j2 priem Ram 1.5G ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.158741,
+         "id": "1023222",
+         "field_search": "question",
+         "question": " Obi sf1 mật khẩu không sửa lại cách vuốt được. Có cách gì sửa được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.071165,
+         "id": "1134844",
+         "field_search": "question",
+         "question": "Cho e hỏi chi nhánh ở Hà Tĩnh có ốp điện thoại Huawei chcu01 ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.995646,
+         "id": "1008989",
+         "field_search": "question",
+         "question": "Mình mua oopo A57 chưa Được Một tháng tại thegiodidong chi nhánh ở Bích động. Giờ nếu mình muốn bán Lại thì Được bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.926844,
+         "id": "1161184",
+         "field_search": "question",
+         "question": "Hi ad check giúp mình Dell Vostro 3578 giá cũng như ct khuyến mãiMình ở Đà Nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.898497,
+         "id": "986012",
+         "field_search": "question",
+         "question": "Cho hỏi .  TGDD có bán sim 3G MoBi không giới hạn dung lượng 1 năm k .  Và Giá là bao nhiêu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.878227,
+         "id": "1158183",
+         "field_search": "question",
+         "question": "Bên bạn có chi nhánh nào bán tai nghe zin của iphone 7plus ko? Nếu có giá tầm bao nhiêu?.Mình ở quận 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87787,
+         "id": "1020313",
+         "field_search": "question",
+         "question": "điện thoại oppo f1 có ở  cần thơ không ad và giá bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.856876,
+         "id": "1018801",
+         "field_search": "question",
+         "question": "Cho hỏi chi nhánh Tgdđ ở Phố Ga Thường Tín còn ốp điện thoại này không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.690184,
+         "id": "1143306",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại asus zenfone max pro m2 đã có tại các siêu thị tgdd ở Đà nẵng chưa?Nếu có thì cho em xin địa chỉ siêu thị đó.Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.616766,
+         "id": "1162987",
+         "field_search": "question",
+         "question": "Đăng Dương  mình mua SS A50. 64G giá 6990k. ngày 27.3.2019. chi hỏi tgdd có mua lai k ạ và giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.589502,
+         "id": "1006680",
+         "field_search": "question",
+         "question": "anh cho em hoi điện thoại oppo a37 e mua giá 3tr690 được 4 tháng e có thể đổi a39 được không ạ đổi được cần phai thêm chi phí bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.387169,
+         "id": "1144387",
+         "field_search": "question",
+         "question": "Dạ em có mua điện thoại MEIZU M5 bên mình, em muốn thay pin của điện thoại thì giá bao nhiêu vậy ạ ? Và tầm bao lâu thì em lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.236057,
+         "id": "1010058",
+         "field_search": "question",
+         "question": "Ad kem đang dùng con obi sf1 mà sao em gọi điện máy vẫn cứ sáng không tắt màn phải làm sao đc ad . chỉ giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.193842,
+         "id": "992172",
+         "field_search": "question",
+         "question": " Ad cho hỏi có pin điện thoại Samsung Galaxy 7102 không vậy ? Và giá bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.191904,
+         "id": "1140850",
+         "field_search": "question",
+         "question": "xin cho hỏi điệ thoại cảm ứng xiaomi 6 ram 3g bộ nhớ trong 32g còn bán không vậy ạ,, còn bán giá bao nhiêu,, tôi ở sông cầu tỉnh phú yên,tên : phạm tấn đang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.189194,
+         "id": "994253",
+         "field_search": "question",
+         "question": "Mong ad trả lời giúp e. Em có con j5 prime mua hồi tháng 2 tại tgdd đà nẵng,bây giờ lại muốn đổi lên con j7 prime tại tgdd luôn thì bù tầm bao nhiêu, cảm ơn ad đã đọc tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.119991,
+         "id": "1168204",
+         "field_search": "question",
+         "question": "Cho hỏi là có thể thay màn hình điện thoại Samsung J5 Prime ngay trực tiếp tại cửa hàng TGDĐ hay không và nếu không thì thời gian mất bao lâu? Hiện tại ở chi nhánh Bắc Sơn - Lạng Sơn có thể thay luôn màn hình trong ngày không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.091372,
+         "id": "1022974",
+         "field_search": "question",
+         "question": "Tại sao điện thoại obi mv1 tải facebook về không được điện thoại android đang khởi động và mở máy lên không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.979753,
+         "id": "762737",
+         "field_search": "question",
+         "question": " iPhone 5 và 5s hiện tại giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.887709,
+         "id": "800291",
+         "field_search": "question",
+         "question": " laptop acer e5573g544a giá bán bao nhiêu ạ và thông tin cấu hình chi tiết của sản phẩm ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.856003,
+         "id": "854114",
+         "field_search": "question",
+         "question": "E sử dụng iPhone 5 hôm nay e có đổi mật khẩuNhưng lại bị quên mất mật khẩuNếu bây giờ r đem điện thoại ra chi nhánh tgdđ thì anh / chị có sửa giúp e k ? Nếu có tốn bao nhiêu tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.771126,
+         "id": "1022108",
+         "field_search": "question",
+         "question": "thay mặt kính sony xa ultra giá bao nhiêu ạ xin cho biết chi tiết về giá và địa chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.760525,
+         "id": "1144958",
+         "field_search": "question",
+         "question": "AnhChị cho Em hỏi bên mình có điện thoại  SHARP 507SH AQUOS ANDROID ONE không ạ và giá bao nhiêu thế ạ.Em cảm ơn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.760275,
+         "id": "1017465",
+         "field_search": "question",
+         "question": "khu vực Bà Điểm, Hóc Môn có chi nhánh nào còn điện thoại meizu m5s không z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.749073,
+         "id": "785357",
+         "field_search": "question",
+         "question": "Anh ơi chỗ mình có thay mặt gương iphone 6 plus không vậy. Và điện thoại của em đang trong thời gian bảo hành vậy chi phí thay mình có tính không. Nếu tính thì giá bao nhiêu vậy ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.720846,
+         "id": "1138654",
+         "field_search": "question",
+         "question": " cho tôi hỏi chi nhánh tại cà mau còn cáp sạc iphone 4s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.666695,
+         "id": "854112",
+         "field_search": "question",
+         "question": "E sử dụng iPhone 5 hôm nay e có đổi mật khẩuNhưng lại bị quên mất mật khẩuNếu bây giờ r đem điện thoại ra chi nhánh tgdđ thì anh / chị có sửa giúp e k ? Nếu có tốn bao nhiêu tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620811,
+         "id": "1165410",
+         "field_search": "question",
+         "question": "Điện thoại 2GB RAM cài được bao nhiêu app vậy ?????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.594545,
+         "id": "1021992",
+         "field_search": "question",
+         "question": "Điện thoại Obi ở TGDĐ mình có phụ kiện để thay và sữa chữa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.570488,
+         "id": "785529",
+         "field_search": "question",
+         "question": " điện thoại iphone 4s bị dính icloud có sửa được không và giá bao nhiêu vậy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.569668,
+         "id": "1138380",
+         "field_search": "question",
+         "question": "Thay camera sau điện thoại vivo v7 giá bao nhiêu vậy  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.553288,
+         "id": "1000810",
+         "field_search": "question",
+         "question": "Qtv cho hỏi chi nhánh tại nghệ an đã có bán j7 pro chưa ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.4029,
+         "id": "1004821",
+         "field_search": "question",
+         "question": "Giá bán điện thoại iphone 7 hiện nay tại việt nam là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.385649,
+         "id": "987916",
+         "field_search": "question",
+         "question": "ad cho em hỏi ở chi nhánh của mình tại quỳnh côi-quỳnh phụ-thái bình và hưng hà_thái bình có smatphone nào ngon tầm 2triệu trở lại k ạ ram 2gb rom 16gb ạ và cho em hỏi là tgdd có bán xiaomi redmi 4a bản 16gb ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369484,
+         "id": "1150026",
+         "field_search": "question",
+         "question": "chi nhánh ở văn giang Hưng Yên còn điện thoại realmi C1 không shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.307821,
+         "id": "1134660",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi bên mình còn điện thoại oppo A83 Ram 3G k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.275782,
+         "id": "1153656",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 7 pro 32gb 3 ram giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.217659,
+         "id": "1155640",
+         "field_search": "question",
+         "question": "E muốn mua vivo v91c, cho e hỏi cửa hàng ở nào ở Nguyễn Hữu Thọ Đà Nẵng có bán ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.160011,
+         "id": "1134422",
+         "field_search": "question",
+         "question": "Giá màn hình điện thoại xiaomi redmi note5 pro bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.029217,
+         "id": "1166803",
+         "field_search": "question",
+         "question": "em dùng laptop HP core i7. với cấu hình Ram DDR4 (4GB). giờ em muốn gắn thêm 1 thanh RAM DDR4 (8GB) nữa dc hk ạ. và giá Ram là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01651,
+         "id": "816594",
+         "field_search": "question",
+         "question": " Có 1 loại iPad Air 2 3G 16GB không shop, giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.957924,
+         "id": "1140324",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán sạn điện thoại huawei 3i không? và giá bao nhiêu vậy .cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.914846,
+         "id": "785603",
+         "field_search": "question",
+         "question": " điện thoại iphone 4s bị dính icloud có sửa được không và giá khoang bao nhiêu vậy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.876553,
+         "id": "816224",
+         "field_search": "question",
+         "question": " em muốn thay cây ram 8g cho laptop giá bao nhiêu anh chị ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.871319,
+         "id": "1133644",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình điện thoại Xiaomi Redmi 4X ko ạ? Nếu có thì giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.793407,
+         "id": "766247",
+         "field_search": "question",
+         "question": " iPhone 5 new còn hàng không , giá bao nhiêu ạ. có trả góp và lãi xuất bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.76046,
+         "id": "1159184",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại xiaomi redmi note 7 giá 4tr990.000d  khi mua vào ngày chủ nhật có giảm giá không ạ nếu có thì giảm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.755733,
+         "id": "1010161",
+         "field_search": "question",
+         "question": "Em mua Sony XA trả góp tại điện máy xanh và có hóa đơn Thegioididong. Vậy bây giờ em bán lại tại Thegioididong có được ko? Và giá bao nhiêu ạ? Em mua ngày 18/5/2017 Giá 4tr490",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.725403,
+         "id": "1158275",
+         "field_search": "question",
+         "question": "E muốn đătm hàng xiaomi redmi note 7 chính hãng 32G màu hồng ở Đà nẵng phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.683655,
+         "id": "1142620",
+         "field_search": "question",
+         "question": "shop cho mình hỏi ở chi nhánh thegioididong ở Cai Lậy có còn điện thoại mi 8 lite không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.652258,
+         "id": "1142296",
+         "field_search": "question",
+         "question": "Cho mình hỏi chi nhánh 32 nào có dán cường lực cho xiaomi mi A2 lite vậy? giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.644024,
+         "id": "1160994",
+         "field_search": "question",
+         "question": ".cho em hỏi màn hình điện thoại của Oppo a3s giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.594372,
+         "id": "742550",
+         "field_search": "question",
+         "question": " Tôi đang cần mua điện thoại iphone 5s. Xin hỏi giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.579988,
+         "id": "1144297",
+         "field_search": "question",
+         "question": "nếu như mua xiaomi mi 8 lite tại thế giới di động chi nhánh nào đó mà không có thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.547436,
+         "id": "827601",
+         "field_search": "question",
+         "question": " Điện thoại ip5 của em bị phình pin rồi ad. Ở tgdd có bán pin iphone chính hãng ko ạ và giá cả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.546545,
+         "id": "1138594",
+         "field_search": "question",
+         "question": "Bên mình có điện thoại Lenovo z5 không nếu có thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.461153,
+         "id": "1155562",
+         "field_search": "question",
+         "question": "huawei nova 31 giá hiện tại là bao nhiêu v ạ có khuyến mãi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.375158,
+         "id": "1162689",
+         "field_search": "question",
+         "question": "nếu bây giờ đi tháo khóa iphone mà không có icloud tại thegioididong hì mất chi phí bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.362417,
+         "id": "1145329",
+         "field_search": "question",
+         "question": "Điện thoại Redmi Note 7 đã vể Việt Nam chưa ?Nếu đã về rồi thì giá là bao nhiêu  3gb Ram  32gb Rom  ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.297268,
+         "id": "1150065",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi cửa hàng tgdd ở Bồng Sơn-hoài Nhơn- Bình Định có bán sẵn pin của điện thoại Lenovo a7000 không ạ. Nêu không có thì có đặt mua được không ạ, và Giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.291649,
+         "id": "1011799",
+         "field_search": "question",
+         "question": "cho em hỏi dán decal mặt sau điện thoại nokia lumia 525 giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.280798,
+         "id": "1003558",
+         "field_search": "question",
+         "question": "E muốn thay kính sau và mặt kính trước của điện thoại galaxy s7 edge thì hỏi giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.195276,
+         "id": "1154689",
+         "field_search": "question",
+         "question": "Cho em hỏi hay cường lực điện thoại oppo F9 giá khoảng bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.183651,
+         "id": "1148014",
+         "field_search": "question",
+         "question": "Có bán pin điện thoại j5 của 2016 ko vậy ad và giá của nó là bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.181318,
+         "id": "1138556",
+         "field_search": "question",
+         "question": "em có thể mua trả góp đt Vsmart Active 1 trực tiếp tại Kon Tum không ạ ? Chi nhánh Kon Tum hiện không có máy này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.14198,
+         "id": "1021942",
+         "field_search": "question",
+         "question": "Dạ chào achị.Thay mặt sau của điện thoại J5 prime thì chi phí là bao nhiêu ạ . E cãm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.138351,
+         "id": "1015727",
+         "field_search": "question",
+         "question": "Hi , cho em hỏi bên TGDD có dịch vụ cài win đối vs lap top không được mua tại TGDD không? , và nếu có thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13215,
+         "id": "1139387",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5s bị chai pin, giờ thay mới được không ạ? giá thay pin là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.110777,
+         "id": "781600",
+         "field_search": "question",
+         "question": " TGDD chi nhánh Khánh Hòa có thay pin iphone 4 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.102362,
+         "id": "1141437",
+         "field_search": "question",
+         "question": "điện thoại nào rẻ nhất của hãng xiomi vậy anh và giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

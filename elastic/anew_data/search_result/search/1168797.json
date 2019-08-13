@@ -1,0 +1,801 @@
+{
+   "id_query": "1168797",
+   "total": 32180,
+   "total_current": 100,
+   "max_score": 90.63124,
+   "origin_question": "Cho em hỏi mã pin của Nokia 5.1 plus này là gì ạ? Em chưa đặt mã pin mà sao nó bảo sai mã pin. Giúp em với ạ ",
+   "hits": [
+      {
+         "score": 44.89904,
+         "id": "1159962",
+         "field_search": "question",
+         "question": "Cho mình hỏi mã pin của máy Nokia 3.1 với ạ. Hiện tại máy chỉ mở được khi có mã pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.35121,
+         "id": "1013531",
+         "field_search": "question",
+         "question": "dạ cho em xin mã pin điện thoại lenovo a700 plus với ạ. Em muốn chuyển ứng dụng vào thẻ nhớ thì máy yêu cầu mã pin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.656708,
+         "id": "1134197",
+         "field_search": "question",
+         "question": "Con nokia 6.1 plus sao e đặt khoá bằng mã Pin + vân tay nhưng khi mở khoá bằng vân tay thì k còn lưu khoá bằng mã Pin.Còn mã Pin chỉ dùng đc 1 lần tới lần sau mở máy chỉ cần vuốt lên mà k phải nhập mã PIN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.654198,
+         "id": "1140836",
+         "field_search": "question",
+         "question": "Em vừa mới mua 1 máy Oppo A3s. Cho em hỏi là máy này có thể khóa bằng dấu vân tay và mã pin hay không? Nếu có cho em xin cách hướng dẫn cài đặt bảo mật khóa vân tay và mã pin luôn ạ. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.633213,
+         "id": "1154796",
+         "field_search": "question",
+         "question": "Làm sao để nhập mã pin điện thoại itel s12 va mã pin là gì??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.059093,
+         "id": "883407",
+         "field_search": "question",
+         "question": "e nhập sai mã pin nhiều lần của laptop win 10 thì giờ làm sao để đăng nhập lại đc,e nhớ đc mã pin của rồi mà nó ko hiện chỗ nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.927784,
+         "id": "1158242",
+         "field_search": "question",
+         "question": "Chị ơi cho em hỏi là em đang dùng Nokia 107 ,em nhập đúng mã bảo mật em hay nhập mà nó báo sai mk. Mà không có ai thay đổi mật khẩu cả. Mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.710747,
+         "id": "781401",
+         "field_search": "question",
+         "question": " Mã pin khôi phục cài đặt Mobiistar Touch Bean là gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.356773,
+         "id": "1009259",
+         "field_search": "question",
+         "question": "Cho em  hỏi em đăng ký zalo nhưng nhập sai mã bên họ bảo là số lần gửi mã quá quy định em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.20647,
+         "id": "996454",
+         "field_search": "question",
+         "question": "Cho e hỏi mã pin của samsung galaxy tab a6 là gì ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.22616,
+         "id": "1010392",
+         "field_search": "question",
+         "question": "a ơi cho em hỏi e mới mua con htc 626g mã càng sai thì thời gian sải pin càng ít là sao vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.64286,
+         "id": "998015",
+         "field_search": "question",
+         "question": "Em đăng nhập id apple vào ip5 nó kêu xác minh r gửi mã về ip6s của em.Dù ip6s em nó hiện mã rồi mà bên ip5 nó kco chỗ nhập mã :(( Anh chị giúp em với :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.587833,
+         "id": "838795",
+         "field_search": "question",
+         "question": " Cho em hỏi làm cách nào để lấy mã pin của oppo neo 5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.87303,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.498745,
+         "id": "1121650",
+         "field_search": "question",
+         "question": " Máy em bị như vậy em đã thử xóa hết dữ liệu nó vẫn như vậy, nó đòi mật khẩu khi ấn vào nó nói mã PIN sai   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.205353,
+         "id": "1158796",
+         "field_search": "question",
+         "question": "Vui lòng cho em hỏiEm muốn sử dụng cảm ứng vân tay để mở không dùng mã pin luôn dc kg? Vì có lúc sử dụng vân tay dc, nhưng có lúc bắt buộc phải dùng mã pin là sao? Có thể ưu tiên dùng vân tay trước mã pin kg? Em dùng samsung A30.Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.826637,
+         "id": "1149323",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt mã pin mở khóa màn hình trên huawei nova 3i đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.4652,
+         "id": "800249",
+         "field_search": "question",
+         "question": " Tại sao không khôi phục cài đặt gốc được, máy đòi hỏi mã pin ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.23533,
+         "id": "1154171",
+         "field_search": "question",
+         "question": "em sử dụng vmarts joy1plus, khi tắt nguồn máy hỏi mã pin, em đã nhập đúng rồi, nhưng máy yêu cầu ĐỂ MỞ KHÓA ĐIỆN THOẠI CỦA BẠN, HÃY TẮT RỒI BẬT ĐIỆN THOẠI là sao ạ, tư vấn giúp em với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.19803,
+         "id": "1023598",
+         "field_search": "question",
+         "question": "nokia 5 đòi nhập mã pin khi tắt nguồn khởi động lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.87052,
+         "id": "1165600",
+         "field_search": "question",
+         "question": "tôi quên mật khẩu facebook yêu cầu gửi mã về sdt nhưng khi mã gửi về nhập vào thì nó bảo mã đã được nhập quá nhiều vui lòng thử lại sau là sao ạ . giúp tôi với 😣",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.186726,
+         "id": "1140026",
+         "field_search": "question",
+         "question": ".Anh cho em hỏi là fb cuả e đăng nhập bằng email .sau 1 khoảng thoi gian em đăng xuất ra rồi em ..đăng nhập lại em nhập mk emal cuả em nó báo là sai mk rồi em ấn vào quên mk nó bảo gửi mã về email e .xong e vô email em xem mã chẳng thấy mã đâu..mà cái email nó gửi bị che nên cx ko bt phải email cuả mk ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.025055,
+         "id": "1147652",
+         "field_search": "question",
+         "question": "Cho mình hỏi mã Pin của samsung j3 6 là j vậy?  Mình đang cần gấp!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.93365,
+         "id": "1160157",
+         "field_search": "question",
+         "question": "Mình mới lấy máy Nokia 210 cho mình mã bảo vệ của máy với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.672493,
+         "id": "930647",
+         "field_search": "question",
+         "question": " Đặt mã khi tạo ID trên apple là gì vậy? Anh chị chỉ em với. Nó không có mục lựa chọn không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.314512,
+         "id": "961987",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi ở trường hợp này mã thư tín của e là j ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.312374,
+         "id": "804595",
+         "field_search": "question",
+         "question": " Cho mình hỏi mã pin của điện thoại asus zenfone 2. Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.293163,
+         "id": "1158814",
+         "field_search": "question",
+         "question": "Cách gỡ mã PIN  mật khẩu  của Huawei, quên mật khẩu rồi ai chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.11312,
+         "id": "1020280",
+         "field_search": "question",
+         "question": "Giúp em vs ạ em quên mật khẩu face nên em bấm hoài sau khi nhòa lại thì nó bảo phải có mã đăng nhập nhưng ko thấy gửi mã em bama nhiều lần nên nó bảo \"bạn yêu cầu quá nhiều vui lòng thử lại sau\" cho em hỏi làm cách nào vì 3 ngày rồi em chưa lên dc face 😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.08371,
+         "id": "817676",
+         "field_search": "question",
+         "question": " Em muốn mua phim nhưg nó cứ hỏi mã thư tín quài à, em không biết phải nhập cái gì nữa? Ad giúp em với....  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.054483,
+         "id": "866312",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao zalo gửi mã xác nhận cho mình mà lúc bấm vô lại bảo sai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.925825,
+         "id": "1023915",
+         "field_search": "question",
+         "question": "dạ cho em hỏi ạ máy của em là máy iphone 5 ạ em đang dùng phần mềm baterylife để kiểm tra độ chai pin lúc nó bảo pin hoàn hảo lúc thì nó bảo rất tốt là 3 phần trăm độ chai pin ạ các bác tư vẫn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.831146,
+         "id": "1143881",
+         "field_search": "question",
+         "question": "cho em hỏi là sao em ko đăng nhập được vào tài khoản facebook với ạ , có gủi mã các kiểu mà vẫn ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.821278,
+         "id": "1161762",
+         "field_search": "question",
+         "question": "Vài tháng trước em có mua con asus max pro m2 mã nó là ZB632KL dán trên vỏ hộp mà em tra trên trang mình là ZB631KL không biết có sai sót gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.479004,
+         "id": "777208",
+         "field_search": "question",
+         "question": "Tại sao em lập được tài khoản iCloud rùi mà muốn tải cái gì nó lại có bước này và em không hiểu cái mã mí cái thư tín là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.378567,
+         "id": "938583",
+         "field_search": "question",
+         "question": " Mình cài đặt mã mở khoá zalo,tự nhiên nhập mã vào mà ko đc là sao?trc mình vẫn dùng mã khoá bt  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.264297,
+         "id": "1140340",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại huawei Y9 yêu cầu nhập mã pin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.130894,
+         "id": "1015189",
+         "field_search": "question",
+         "question": "Điện thoại android của em nó hiện ở thanh pin là đang sạc pin mặc dù em không làm, vào xem pin thì nó bảo đang sạc usb là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.082878,
+         "id": "1153833",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đăng nhập vào icloud nhưng icloud bắt nhập mã để xác thực 2 yếu tố mà em chờ mãi k thấy gửi mã đến thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.075018,
+         "id": "1143056",
+         "field_search": "question",
+         "question": "ad cho hỏi mã chặn cuộc gọi của máy nokia 105 là j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.054813,
+         "id": "1024055",
+         "field_search": "question",
+         "question": "Cho e hỏi..máy e là máy LG G6 bị khoá mã pin giờ có cách nào mở đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.888412,
+         "id": "1004258",
+         "field_search": "question",
+         "question": "cho e hỏi em vừa thi đại học xong. được mã giảm giá 20% nhưng do vấn đề gia đình mà em chưa mua được máy ạ. vậy làm sao để mã ko hết hạn vậy ạ?? chứ ko e tiếc quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.79829,
+         "id": "880368",
+         "field_search": "question",
+         "question": "Em mua lại máy tính của một người quen thông qua cậu em, nhưng bây giờ em muốn xem mã pin thì phải làm thế nào ạ??? e đang cần để ghép đối với bluetooth trên đt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.63134,
+         "id": "1168541",
+         "field_search": "question",
+         "question": "Em có một vấn đề với việc nhận mã đăng nhập Facebook ạ , em nhấn gửi mã để xác thực bằng 2 yếu tố trên Facebook nhưng lại không nhận được mã xác nhận , ad có thể giúp em không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.62101,
+         "id": "887532",
+         "field_search": "question",
+         "question": "Các bạn bên kĩ thuật cho hỏi máy tính laptop Acer E5 - 571 - 52UA của mình khi update một số ứng dụng, khi khởi động lại thì máy yêu cầu mã pin để đăng nhập vào màn hình nhưng mình nhập tất cả các mã pin đã từng thiết lập trong máy nhưng không được?? Các bạn có cách nào để lấy lại mã pin đúng hoặc xóa khóa màn hình mà không cần mã pin đc không?? Tất cả tài liệu chính mình lại để ở destop...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.584011,
+         "id": "1153249",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua laptop về em cài đặt các bảng mã unicode. Kiểu gõ telex rồi mà sao vào Word vẫn ko gõ đc tiếng việt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.526657,
+         "id": "1144940",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn lấy đc mã thì phải làm sao ạ Ních facebook của em nó bị như vậy ạ   Warning \"Bạn đã thử nhập quá nhiều mã. Vui lòng thử lại sau.\" giờ em phải làm như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.478134,
+         "id": "1012453",
+         "field_search": "question",
+         "question": "adm ơi máy nokia c300 của e bị khóa mã bảo vệ giờ e quên mã e muốn lại lại thì phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.387562,
+         "id": "1164290",
+         "field_search": "question",
+         "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.249699,
+         "id": "1168618",
+         "field_search": "question",
+         "question": "ad cho em hỏi là thay pin iphone 6 plus thì bn tiền và là loại pin gì đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.177736,
+         "id": "1000371",
+         "field_search": "question",
+         "question": "Cho em hỏi em tạo id apple.mà cứ đòi mã itunes là sao vậy. Trong khi chọ thanh toán em đã chọn không rồi. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.985119,
+         "id": "1169102",
+         "field_search": "question",
+         "question": "Làm sao để nhập mã pin màn hình khoá mà k cần nhấn ok vậy ad. Galaxy a20",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.922504,
+         "id": "847204",
+         "field_search": "question",
+         "question": " Mình muốn biết mã pin của đt mình, dòng sản phẩm Mobiistar Lai Zoro ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.710007,
+         "id": "1131690",
+         "field_search": "question",
+         "question": "Ae cao nhân cho mình hỏi mình đang dùng androi 8.1 thấy người ta mở khóa màn hình bằng mã pin nhưng không cần nhấn ok mà sao máy mình sao khi nhập mã phải ok mới mở vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.704498,
+         "id": "778019",
+         "field_search": "question",
+         "question": " Quên mã pin 2 Sony Xperia Z3 phải làm sao lấy lại vậy Admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.695097,
+         "id": "1138896",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để chụp xóa phông trên nokia 5.1 plus ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.617294,
+         "id": "1160075",
+         "field_search": "question",
+         "question": "Sao samsung a20 cua tui mới mua mà sao   mo khóa  vân tay với khuôn mặt k được nhạy. Lúc nao cug kiu nhập mã pin???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.546988,
+         "id": "1009626",
+         "field_search": "question",
+         "question": "cho em hỏi sao em gõ đúng mã product key mà vẫn không thể cài được active windows 10 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.511354,
+         "id": "1020256",
+         "field_search": "question",
+         "question": "  Giúp em vs ạ em quên mật khẩu em bấm gửi mã nhiều lần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.464909,
+         "id": "781207",
+         "field_search": "question",
+         "question": " Ad cho em hỏi với ạ iPhone 5s của em khi để không , không sử dụng mà pin cũng sụt là sao ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.454704,
+         "id": "1141079",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc mình vào chức năng ID vân tay/quản lý vân tay/ có yêu cầu mã pin 6 kí tự bây giờ mình muốn đổi mã pin đó thì phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.448303,
+         "id": "1009340",
+         "field_search": "question",
+         "question": "máy mobell mova s2 của mình bị khóa, bắt nhập bằng mã pin. Ad có cách nào mở k ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.444033,
+         "id": "1167126",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao em dùng bảo mật 2 lớp trên Facebook, khi yêu cầu mã đăng nhập thì Facebook không gửi mã về số điện thoại em đã đăng kí, em dùng mạng Viettel ạ, khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.35779,
+         "id": "766949",
+         "field_search": "question",
+         "question": " Mã Thẻ Quà tặng iTunes và Quà tặng iTunes là gì? Trả lời dùm em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.281345,
+         "id": "1163199",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi điện thoại samsung A8 Star cảm biến vân tay có rung không? Vì hiện tại đt e ko có rung. Và mã pin bằng mật khẩu khi nhập sai ko báo rung ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.183224,
+         "id": "767488",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại ở chế độ rãnh là cái gì mà nó hao pin quá vậy, em xài Lenovo P1M mới mua được 1 tuần, mới sạc đầy100% pin, chơi game có 10 phút còn có 80% pin, điện thoại này pin trâu mà sao kì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.00579,
+         "id": "1141877",
+         "field_search": "question",
+         "question": " cho em hỏi mã giảm giá 4 có áp dụng cho điện thoại đã đặt rồi không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.99893,
+         "id": "756010",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 5s mã MF354PAA là của nước nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.986156,
+         "id": "1134190",
+         "field_search": "question",
+         "question": "Sam sung j8 của e mới mua mà hay bị tình trạng bắt nhập mã pin chứa ko cho dùng vân tay vì chính sách bảo mật j ấy h e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.948345,
+         "id": "1024125",
+         "field_search": "question",
+         "question": "hình là em vừa đặt lại toàn bộ cho iphone. lúc làm xác thực 2 yếu tố nó ghi mã được gửi về số điện thoại của em rồi, mà em chả thấy nó gửi tại vì đã vào được bên trong đâu mà xem được mục tin nhắn huhu. bây giờ bị chết cứng ở đoạn này. làm sao bây h, các bác giúp em với. hoang mang quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.944048,
+         "id": "1001715",
+         "field_search": "question",
+         "question": "Chào ạ!!! Như đã nói lúc chiều thì thông tin mã quà tặng nó đã bỏ yêu cầu bắt buộc đó rồi nhưng bây giờ lại yêu cầu mã điện thoại như này, em đã nhập sđt vào nhưng nó kh chấp nhận vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.914803,
+         "id": "1166709",
+         "field_search": "question",
+         "question": "Điện thoại em bị không hiển thị sóng là sao vậy ạ Với lại yêu cầu nhập mã ME là sao ạ Em nhập xong nó nói là khe cắm sim đã bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.865461,
+         "id": "1013295",
+         "field_search": "question",
+         "question": "Tgdd ơi cho em hỏi nếu điện thoại mà bị chai pin ( pin em để không cũng mau hết nữa ) thì có được bảo hành k ạ ? Tại em mua đt mới chưa được tháng nữa  mà bị chai pin rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.831884,
+         "id": "1160230",
+         "field_search": "question",
+         "question": "Sao đt samsung a20 cua tôi mới mua mà sao mở khóa bàng khuông mặt với vân tay k đc nhạy như oppo. Đe lên mà bắt nhap mã pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.822298,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.758629,
+         "id": "862883",
+         "field_search": "question",
+         "question": " em muốn mua iphone 6s plus 16gp mã số là 3447444 mua trả góp cho em thông tin. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.728962,
+         "id": "999092",
+         "field_search": "question",
+         "question": "Nếu em tạo tài khoản id cloud mới thì mã thư tín là gì ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.708307,
+         "id": "815461",
+         "field_search": "question",
+         "question": " Máy iphone 5s của em quên mã khoá màn hình, quên luôn mã icloud thì sửa được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.657139,
+         "id": "1164440",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mua máy huawei y7 pro 2018 (máy mới) hồi tháng 7 năm trước(chưa đầy 1 năm) . Giờ sài em thấy nó hao pin mà sạc chậm vô nữa lúc trước là 2 tiếng có thể đầy giờ thì 2 tiếng nó lên khoảng 10 đến 20% pin tình trạng này là sao ạ. E để hết pin (khoảng 20%) thì em mới cắm sạc trường hợp bào gấp lắm em mới vừa sạc vừa sài cho em hỏi với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.648836,
+         "id": "1138679",
+         "field_search": "question",
+         "question": " Cho em hỏi em mới vừa mua nokia 5.1 plus mà sao e gọi zalo với messenger nhấn nút giảm âm lượng không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.593456,
+         "id": "945567",
+         "field_search": "question",
+         "question": " Cho em hỏi mã vùng trên app lúc đang nhập và xem xét ID điền là cái gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.592686,
+         "id": "1022467",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua laptop tại siêu thị mình...hết bảo hành rồi em vẫn muốn đặt pin của laptop được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.515146,
+         "id": "773766",
+         "field_search": "question",
+         "question": " Tại vì sao anh khi em không nhập mã quà tặng iTunes thì nó hiện thế này?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.42593,
+         "id": "848526",
+         "field_search": "question",
+         "question": " Mình đang cài đặt viber nhưng cứ nhập mã code vào là lại hiện lên thông báo đó là sao? Mình nhập mã đúng mà  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.323803,
+         "id": "991508",
+         "field_search": "question",
+         "question": "dạ .ad giúp em vs. em bị nỗi j ý ạ . nội dung là thế này :  em có vô phần: cài đặt > touch ID & mật mã > mở khoá ip . và nó hiện nội dung \" Thật Bại . không thể hoàn thành thiết lập . vui lòng quay lại và thử lại \"  Giúp em vs ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.216438,
+         "id": "1162910",
+         "field_search": "question",
+         "question": "Em xác thực Instgram bằng 2 yếu tố, em xoá instgram đi tải lại để dùng thì khi đăng nhập yêu cầu mã xác nhận SMS, nhưng giờ em yêu cầu gửi mã mãi mà không thấy mã về, em cũng không biết cách nhập mã khôi phục insta cho trong quá trình các thực 2 yếu tố ở đâu, vậy em nên làm gì để truy cập vào tài khoản ínta của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.18387,
+         "id": "986128",
+         "field_search": "question",
+         "question": "Cho e hỏi là em không làm gì nhưng apple lại gửi mã xác minh về điện thoại thì có phải là đang có người cố vào icloud của em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.168228,
+         "id": "844541",
+         "field_search": "question",
+         "question": "-Cho em hỏi...e đang dùng iphone 5 tại sao pin e cắm sạc nó báo đã sạc nhưng pin vẫn đưng yên...được lúc sau e khởi động mới đúng pin thực của nó...nhưng lúc dùng nó không giảm gì mà nó tự dưng sập nguồn ạ...tư vấn giúp e được không ạ...cảm ơn adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.103228,
+         "id": "1143127",
+         "field_search": "question",
+         "question": "Em đang sử dụng Nokia 5.1 plus. Em vừa mới cập nhật Android 9 Pie thì không vào được Sound Settings. Ai giúp em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.069962,
+         "id": "811685",
+         "field_search": "question",
+         "question": " Em mới mua ipad air 2 cellular ở tgdd mà sao em xem mã imei lại không phải của apple là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.903757,
+         "id": "1010175",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có cục pin BL 5C của Nokia bị chai mà vứt bên ngoài sợ gây ô nhiễm môi trường, không biết minh Thegioididong hay chỗ nào có dịch vụ thu gom pin điện thoại cũ không ạ? Em chưa dám vứt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.851023,
+         "id": "822505",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone của em em tắt màn hình để không sử dụng mà sao nó vẫn tụt pin vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.790863,
+         "id": "1139469",
+         "field_search": "question",
+         "question": " Cho em hỏi sản phẩm mã 16785777 trước đây bị lỗi gì vậy ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.779686,
+         "id": "799201",
+         "field_search": "question",
+         "question": "Em đang dùng ip6s+ nhưng nó bị lỗi báo pin sai khi e hack ngày để chơi Candy.cho em hỏi lỗi này là do của riêng máy em hay là lỗi chung ạk?😔",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.734486,
+         "id": "1000045",
+         "field_search": "question",
+         "question": "Shop có bán loại pin đt vega kh ạ.Đtem sài 3 năm mà em thấy hình như nó muốn chai. Shop có bán loại pin đó thì có gì cho em đặt 1 cái ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.72125,
+         "id": "882679",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao laptop hp của em lại có 2 pin như hình ạ. Đó là lỗi hay gì? Nếu k lỗi thì chức năg của pin 1 là gì? Sao lại k khả dụg? Bật tắt nó ở đâu ạ? Còn lỗi thì khắc phục làm sao? Em Mong có câu trả lời sớm !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.67538,
+         "id": "1016563",
+         "field_search": "question",
+         "question": "Em hiện dùng j2 prime máy em khi kết nối cùng 1 wifi máy khác đều kết nối đc nhưng máy em tuy nhập mật khẩu đúng nhưng máy báo là mật mã sai. Cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.650661,
+         "id": "1161893",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại sạc pin nó vẫn vô pin mà em để cả 3 tiếng nó vẫn không lên % pin nào cả vẫn cứ như lúc mới cắm sạc vậy là bị lỗi gì em xài máy samsung galaxy j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.615696,
+         "id": "925519",
+         "field_search": "question",
+         "question": " Em lên ios 10.1 e quên gửi mã xác nhận sang nước đức mà h e gửi lại mã thì nó kêu gửi quá nhiều lần thì phải làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

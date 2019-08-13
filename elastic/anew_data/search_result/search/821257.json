@@ -1,0 +1,801 @@
+{
+   "id_query": "821257",
+   "total": 28822,
+   "total_current": 100,
+   "max_score": 76.87366,
+   "origin_question": " reset lại toàn bộ iphone có làm nó trở về phiên bản đúng phiên bản ios ban đầu không ",
+   "hits": [
+      {
+         "score": 32.59827,
+         "id": "1154268",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 plus hiện tại đang chạy phiên bản 12.1.4 mà mình muốn cài đặt lại như ban đầu thì nó sẽ chạy ios bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.869461,
+         "id": "836697",
+         "field_search": "question",
+         "question": "em đã cập nhật phiên bản mới của Facebook nhưng nó hay bị lag nên em muốn quay trở lại phiên bản như thế này thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.486877,
+         "id": "855734",
+         "field_search": "question",
+         "question": "các bác chỉ e cách reset mấy iphone 5c trở về phiên bản gốc với vì e backup lại máy lúc kích hoạt máy thì nó cần id icloud nhưng e lại quên mất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.903502,
+         "id": "835793",
+         "field_search": "question",
+         "question": " iPhone 5 Quốc Tế 16GB...ios 9.3.2 xuống 9.3 trở xuống được không...ios 9.3.2 có phiên bản jb chưa ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.536352,
+         "id": "872058",
+         "field_search": "question",
+         "question": " Em muốn hạ phiên bản ios 9.3.3 về ios 9.0.1 trên iphone 4s dược không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.753887,
+         "id": "895871",
+         "field_search": "question",
+         "question": "A ơi cho hỏi, máy iphone cua tgdđ có phải hoàn toàn là máy phiên bản quốc tế ko? Theo e dc bt thì có cả phiên bản lock đúng ko? E kiểm tra bằng imei thì simlock báo là unlocknouw, nếu như thế thì nó là ko phải bản qt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.543516,
+         "id": "999150",
+         "field_search": "question",
+         "question": "iphone 4s chạy ios 9.3.5 muốn tải facebook phiên bản cũ thì làm sao ad?facebook hiện đang dùng là phiên bản mới nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.1544,
+         "id": "834360",
+         "field_search": "question",
+         "question": " M muốn trở về phiên bản cũ của máy iphone 4s thì phải lm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.696949,
+         "id": "744807",
+         "field_search": "question",
+         "question": " Có thể làm cách nào để trở lại win bản quyền ban đầu khi cài win khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.306618,
+         "id": "833715",
+         "field_search": "question",
+         "question": " E phieen bản của đang ở phiên bản 9.1.2 e muốn về phiên bản cũ được ko anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.886158,
+         "id": "805162",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 5 từ lúc lên phiên bản 9.2.1 máy kết nối wifi toàn không đúng mật khẩu hoặc không thể kết nối là sao vậy add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.872519,
+         "id": "842875",
+         "field_search": "question",
+         "question": " iPhone của e là phiên bản lock ngưng e đã unlock bằng phần cứng rồi giờ e reset máy nó có bị lock lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.822365,
+         "id": "747961",
+         "field_search": "question",
+         "question": "Phiên bản wechat mới cập nhật máy tôi không gọi video được. Bằng cách nào hướng dẫn cho tôi trở về phiên bản cũ của wechat cho đt Android được ko, xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.775146,
+         "id": "1001021",
+         "field_search": "question",
+         "question": " điện thoại honor đã được cập nhật lên phiên bản V100R001C636B190 vậy giờ có thể về lại phiên bản gốc được ko vậy à? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.739119,
+         "id": "996485",
+         "field_search": "question",
+         "question": "A cho e hởi là iphone 6s chạy phiên bản ios 10.3.2 mới nhất có lag ko ạ. Có nên hạ xuống phiên bản 10.2 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.501339,
+         "id": "784644",
+         "field_search": "question",
+         "question": " Cho mình hỏi hiện tại có thể Jailbreak iPhone 6 phiên bản iOS 8.4 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.497663,
+         "id": "834562",
+         "field_search": "question",
+         "question": " Cho em hỏi cố thể hạ phiên bản ios trên iphone không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.37563,
+         "id": "811430",
+         "field_search": "question",
+         "question": "Em mới mua ĐT IPhone 4s phiên bản 8.3.bây giờ ĐT em có phiên bản 9.3.1 em có nên cập nhật phiên bản này không.có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.315468,
+         "id": "875969",
+         "field_search": "question",
+         "question": " cách xóa phiên bản ios vừa tải về thì vào đâu ad ơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.197077,
+         "id": "908535",
+         "field_search": "question",
+         "question": " Làm thế nào để nâng cấp từ phiên bản 8.1 lên phiên bản 10.0 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.69751,
+         "id": "792920",
+         "field_search": "question",
+         "question": " Em sài iphone 6 sao không cập nhật đc fb phiên bản mới mặc dù đã có phiên bản mới rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.62321,
+         "id": "1148662",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi tôi mua điện thoại tại thế giới di động phiên bản của tôi đang làios 12.1.3 tôi muốn quay lại phiên bản thấp hơn là ios 11.4 có dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.593596,
+         "id": "1133540",
+         "field_search": "question",
+         "question": "Iphone 6 có lên phiên bản 12 được ko bạn mình muốn lên phiên bản mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.492104,
+         "id": "843252",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình vừa update lên ios 10 beta mà giờ mình muốn restore máy vậy có trở về phiên bản ios cũ ko?nhờ ad tl vào gửi vào mail:giabaole442@gmail.com nhéThank nhìu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.427404,
+         "id": "776971",
+         "field_search": "question",
+         "question": " Anh cho em hỏi có nên cài đặt phiên bản ios 9.2.1 cho iPhone 5 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.372768,
+         "id": "1165862",
+         "field_search": "question",
+         "question": "hiện tại phiên bản gốc dịch vụ google play của em là 15.0.90. có cách nào để cài nó xuống phiên bản 12.6.85 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.34041,
+         "id": "792908",
+         "field_search": "question",
+         "question": " Em xài iPhone 6 sao không cập nhật được Facebook phiên bản mới mặc dù đã có phiên bản mới rồi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.29558,
+         "id": "827370",
+         "field_search": "question",
+         "question": "Em dung iphone 5s đua bạn nó không may cập nhật phiên bản 360 mới . Bây giờ e muốn cập nhật phiên bản cũ thi như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.133066,
+         "id": "748866",
+         "field_search": "question",
+         "question": " Sử dụng iphone 5 khi cập nhật phiên bản iOS 9 về thì có mất hình ảnh danh bạ hay một số ứng dụng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.128443,
+         "id": "795906",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 4 thường nâng cấp phiên bản ios 8.0 đc không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.007233,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.981356,
+         "id": "795504",
+         "field_search": "question",
+         "question": " Em dùng iPhone 5s phiên bản iOS 9.2.1 thi thoảng nó bị như vầy hôm nay bị 2 lần rồi ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.951838,
+         "id": "834684",
+         "field_search": "question",
+         "question": " iPhone 6s 16 gb có nên nâng cấp lên phiên bản iOS 9.3.2 kg? Vì sao. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.922707,
+         "id": "774136",
+         "field_search": "question",
+         "question": " Bạn ơi xem dùm mình cấu hình anfy có đúng chính hãng iPhone 5 phiên bản quốc tế không cảm ơn nhiều?      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.83916,
+         "id": "1023410",
+         "field_search": "question",
+         "question": "Cách tải ứng dụng, Facebook phiên bản cũ cho iOS thấp hoặc Iphone 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.66992,
+         "id": "1162332",
+         "field_search": "question",
+         "question": "Điện thoại HTC phiên bản của Android 4.4.2 nâng cấp phiên bản lên được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.406317,
+         "id": "758553",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5, đang ở phiên bản 7.1.2, hiện tại trong máy mình có bản cập nhật iOS 9.2, liệu nâng lên thì máy có bị làm sao không ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.253578,
+         "id": "896885",
+         "field_search": "question",
+         "question": " Cho hỏi iphone 4s đang xài phiên bản 9.3.5 có bị làm sao không ạ !!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.15828,
+         "id": "1162335",
+         "field_search": "question",
+         "question": "Điện thoại HTC phiên bản 4.4.2 nâng cấp lên phiên bản mới nhất được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.10073,
+         "id": "1166468",
+         "field_search": "question",
+         "question": "Nic facebook của tôi tự nhiên báo phiên bản hết hạn .đa đăng nhập lại đúng mật khẩu vẫn không đươc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.034042,
+         "id": "771024",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5, mấy hôm trước em có cập nhật lên iOS 9.2 nhưng giờ em muốn quay lại phiên bản iOS cũ (7.1.4) thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.836039,
+         "id": "807776",
+         "field_search": "question",
+         "question": "Chào QTV !Cho e hỏi IOS 9.3 nếu cập nhật về iphone 6plus thì có bị lỗi như những dòng iphone 5 trở về trước ko vậy QTVE chưa cập nhật phiên bản IOS 9.3 cho may iphone 6 lus của mik. mong QTV trả lời sớm giúp e. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.821218,
+         "id": "883140",
+         "field_search": "question",
+         "question": " E mua iphone 4s có dung lượng là 12.6 GB vậy nó là phiên bản 16GB phải không ạ...?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.707788,
+         "id": "871281",
+         "field_search": "question",
+         "question": " iPhone 4 phiên bản 7.1.2 muốn đc jailbreak thì phải làm kiểu gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.608925,
+         "id": "1141049",
+         "field_search": "question",
+         "question": "Mình mới cập nhật phiên bản mới trên samsung j7 mà máy bị lỗi, bây giờ muốn quay lại phiên bản trước đó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.511505,
+         "id": "781686",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ khách hàng nâng cấp phiên bản ios 9.2.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.501963,
+         "id": "788756",
+         "field_search": "question",
+         "question": "Hiện mình đang dùng Iphone 5 phiên bản 6.0.Mình muốn cập nhật phiên bản cao hơn nhưng tích vào phần cập nhật phần mền lại không được.Cửa hàng có xử lý được lỗi này không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.442799,
+         "id": "801807",
+         "field_search": "question",
+         "question": " Tại sao chỉ ios cập nhật được các phiên bản mới nhất còn CH Play không có? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.393145,
+         "id": "1000632",
+         "field_search": "question",
+         "question": "ad cho mình hỏi!!!!mình sd đt sony experia Xa mà mình lỡ nâng cấp phiên bản android lên 7.0. Sau khi nâng cấp xong thì điện thoại mình thường bị đơ đơ ko biết làm cách nào để trở về như ban đầu hoặc là e có nên khôi phục cài đặt gốc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.38938,
+         "id": "1161145",
+         "field_search": "question",
+         "question": "Mình đang dùng đt oppo f1s phiên bản Android là 5.1 thì có nên tải phiên bản 6.0 trên mạng xuống không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.36663,
+         "id": "777980",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy iPhone 4s của mình đang chạy phiên bản phần mền 7.1.2 có thể chuyển xuống ios 6.1.3 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.35774,
+         "id": "864137",
+         "field_search": "question",
+         "question": " Làm sao để trở về màn hình dạng icon ban đầu. chỉ cách trở về giùm cái  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.350351,
+         "id": "1147257",
+         "field_search": "question",
+         "question": "Hiện tại có cách nào giúp hạ messenger về phiên bản cũ hơn được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.284895,
+         "id": "794574",
+         "field_search": "question",
+         "question": " IMEI là 990002772306039 đây là phiên bản lock hay phiên bản quốc tế hả anh chị...... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.250942,
+         "id": "798525",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s phiên bản nhật có nhận các sim không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.1113,
+         "id": "905778",
+         "field_search": "question",
+         "question": "Em có nhờ thế giới di động chạy lại phần mềm Iphone 5S, nhưng không biết sao khi mang máy ra cửa hàng là máy phiên bản quốc tế, khi cửa hàng trả lại thành máy phiên bản lock. Đây là lỗi hoàn toàn ở phía cửa hàng. Vậy TGDĐ sẽ giải quyết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.078423,
+         "id": "783748",
+         "field_search": "question",
+         "question": "QTV cho em hỏi khi máy cập nhật lên phiên bản mới như ios 7 thì máy có bị mất dữ liệu như app hay phim nhạc không ạ? Vì máy em sài phiên bản cũ rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.068716,
+         "id": "832464",
+         "field_search": "question",
+         "question": " Cho e hỏi 4s đang phiên bản 7.1. Giờ là phiên bản 9. Mà e chỉ muốn lên 8. Thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.021698,
+         "id": "794570",
+         "field_search": "question",
+         "question": " IMEI là990002772306039 cho em hỏi là phiên bản lock hay phiên bản quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.934593,
+         "id": "752004",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi iphone 6 của tôi đang ở ios 9.1, hiện tôi muốn hạ phiên bản có được không, và hạ được xuống ios nào, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.73026,
+         "id": "845464",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s phiên bản 9.2.1. Trong cài đặt phần mềm có phiên bản 9.3.2 mình muốn lên nhưng nghe nói phiên bản 9.3.2 lên máy chạy chậm. Mình đang phân vân ko biết có nên lên 9.3.2 hay Ko ! mong ad tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.713135,
+         "id": "753176",
+         "field_search": "question",
+         "question": " Mình restore iPhone 5 phiên bản quốc tế v9.1 được 99 lại bị lỗi 52? Làm thế nào có thể khắc phục. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.696974,
+         "id": "993181",
+         "field_search": "question",
+         "question": "Cho em hỏi, cái Ip 6 plus có nâng cấp lên phiên bản ios 11 đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.682743,
+         "id": "1158070",
+         "field_search": "question",
+         "question": "cho em hỏi có thể tải viber phiên bản cũ cho điện thoại android không ? em tìm trên chplay chỉ thấy phiên bản mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.682272,
+         "id": "1163057",
+         "field_search": "question",
+         "question": "Em muốn quay lại phiên bản cũ ColorOS 5..1 em xài realme 2 nhưng mà em cập nhật 5.2 em muốn quay lại phiên bản cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.623428,
+         "id": "819619",
+         "field_search": "question",
+         "question": " ad biết cách cài cydia không vậy iphone 5 phiên bản 9.3.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.581223,
+         "id": "1003269",
+         "field_search": "question",
+         "question": "không nạp card vinaphone dc cho iphone 5s phiên bản 10.3.2  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.542358,
+         "id": "895778",
+         "field_search": "question",
+         "question": " iPhone 6s nâng Lên iOS 10 giờ Mình có thể trở lại nguyên bản được không qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.539907,
+         "id": "866849",
+         "field_search": "question",
+         "question": " máy tính bảng asus fonedpad phiên bản 4.3 tải fb không đc e phải phiên bản nào cho thích hợp ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.515106,
+         "id": "754514",
+         "field_search": "question",
+         "question": " Phiên bản ios cao nhất ipad 2 nâng cấp được là bao nhiêu vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.504948,
+         "id": "918855",
+         "field_search": "question",
+         "question": "Iphone 5s có nên cập nhật phiên bản 10.1.1 k ạ.lên thì máy có nhanh hơn hay chậm đi ạ.và 5s có thể lên tối đa phiên bản bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.503044,
+         "id": "1156374",
+         "field_search": "question",
+         "question": "Em muốn đổi phiên bản samsung galaxy a7 2018 lên phiên bản 6ram 128 g cần bù bnhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500795,
+         "id": "795505",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s phiên bản iOS 9.2.1 thi thoảng nó bị như vầy hôm nay bị 2 lần r ak, em khong muốn khởi động lại máy liên tục đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.472216,
+         "id": "1135891",
+         "field_search": "question",
+         "question": "Máy của mình là máy Ip5s phiên bản 8.4.1 có nâng cấp được lên IOS 12 không shop. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.362026,
+         "id": "759955",
+         "field_search": "question",
+         "question": "Ad cho em hỏi iPhone 5S 32gb iOS 9.2 phiên bản quốc tế tại Nhật nhưng về việt nam không có 3G chỉ (E) lúc sài được lúc sài không được. Mong Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.321253,
+         "id": "1157387",
+         "field_search": "question",
+         "question": "Mình dùng oppo A37, máy báo nâng cấp lên phiên bản mới. Theo mọi người có nên nâng cấp không ạ?  Phiên bản mới có bị lag không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.294592,
+         "id": "1020207",
+         "field_search": "question",
+         "question": "M.n cho em hỏi là làm thế nào để tải  ứng dụng phiên bản cũ vì Hipstore bây giờ cấu hình hết hạn rồi :( mình muốn tải B612 phiên bản cũ cho iphone 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.22673,
+         "id": "757610",
+         "field_search": "question",
+         "question": "Chào anh chị ạ. Máy của em là iPhone 5. Giờ em chót lên phiên bản 9.1, giờ e muốn máy em xuống phiên bản 8.4.1 được không ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.220303,
+         "id": "767511",
+         "field_search": "question",
+         "question": " iPhone 4s của em đang ở phiên bản 9.0.2 có thể hạ xuốg 8.4.1 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.18902,
+         "id": "805028",
+         "field_search": "question",
+         "question": "Mình đang xài hệ điều hành iOS. Do mình lỡ tay cập nhật lên iOS 9 nên máy đôi khi cũng khá giật (máy mình ban đầu là iOS 8). Mình thấy trong cài đặt có nút \"đặt lại\". Mình tìm hiểu kỹ thì chung quy là nó sẽ reset máy về trạng thái ban đầu. Cho mình hỏi nếu ấn nút \"đặt lại\" thì máy có trở lại iOS 8 không hay vẫn giữ hđh iOS 9?P/s: Dữ liệu và hình ảnh thì mình không lo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.13741,
+         "id": "767916",
+         "field_search": "question",
+         "question": "Tôi sử dụng ios6.1.6 trước kia nói bản cập nhật ios 9 windows 8.1 sau khi đặt lại trở về bản gốc 6.1.6 vậy nay tôi có thể đặt lại như trước không (ios 9.windows8.1)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.05942,
+         "id": "808214",
+         "field_search": "question",
+         "question": "Mọi người ơi máy e đã jaiback rất hay bị đơ . giờ e muốn up phiên bản mới nhất 9.3 nhung trong kai đặt lại k có phiên bản cập nhập e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.029825,
+         "id": "772549",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi đã có iphone phiên bản cydia 9.2 chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.991177,
+         "id": "895520",
+         "field_search": "question",
+         "question": " Em đang dùng 5s phiên bản 10 nhưng em muốn hạ xuống phiên bản 9 đc k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.820782,
+         "id": "1166404",
+         "field_search": "question",
+         "question": "Giá của iPhone 7 plus phiên bản 32gb là bao nhiêu ? Liệu có thấy đổi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.818096,
+         "id": "926033",
+         "field_search": "question",
+         "question": " 5s của e đang ios10.1,khi tải fb lại yêu cầu nâng cấp phiên bản mới,giờ e phải nâng cấp phiên bản bao nhiêu và ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.741188,
+         "id": "882990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. em lỡ update Iphone 5s của em lên phiên bản IOS 9.3.5 giờ nó hao pin nhanh quá em muốn hạ xuống IOS 9.3 thấp hơn hoặc 9.2 có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.72513,
+         "id": "981733",
+         "field_search": "question",
+         "question": "Hiện giờ apple đã có phiên bản ios 10.3.1 ...em đang ở ios 8.4.1 thì e có thể up lên ios 9.3.5không? Tại vì ios 10 nhìn nó rối quá..e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.638912,
+         "id": "767777",
+         "field_search": "question",
+         "question": " Cho em hỏi cập nhật phiên bản IOS 9.2 máy có hao pin hay bị đứng hk ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6089,
+         "id": "773716",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách nhận biết iPhone phiên bản quốc tế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.602455,
+         "id": "794559",
+         "field_search": "question",
+         "question": " Cho mình hỏi hiện tại cửa hàng còn iphone 6 phiên bản 128GB không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.577917,
+         "id": "875992",
+         "field_search": "question",
+         "question": " Mình xài iPad air đã jaibreak 9.3.3 , cho mình hỏi có thể cài len phiên bản iOS cao hơn được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.573322,
+         "id": "786484",
+         "field_search": "question",
+         "question": " Mình đang sài iPhone 4s và dùng iOS phiên bản 9.2.1 có tốt ko máy dùng nóng nhanh lắm ko biết có sao ko ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.570938,
+         "id": "835194",
+         "field_search": "question",
+         "question": " Em có con iphone 3gs đang ở phiên bản 4.1, muốn nâng cấp lên thì phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.481514,
+         "id": "1150196",
+         "field_search": "question",
+         "question": "em sài máy tính bản huawei mediapad T3 sử dụng hệ thống phiên bản KOB-L09C209B003 mà máy yêu cầu cập nhật phiên bản mới OTA-KOB-L09C209B254_B280Cho em hỏi là nếu cập nhật hệ thống phiên bản mới ó ưu nhược điểm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.418991,
+         "id": "1023822",
+         "field_search": "question",
+         "question": "Em xài mp3 phiên bản 3.7.6 vì em hk xài dc phiên bản mới mà khi đăng nhập vào phiên bản cũ thì nó kêu là hk kết nối tới máy chủ em đã thử nhiều lần đổi wifi các kiểu mà vẫn không được mà khi đó wifi nó full rất mạnh mong ad giúp em nhanh dc hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35203,
+         "id": "806264",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPad 2 phiên bản iOS 9.2.Sau khi cập nhật iOS 9.3 thi Không kích hoạt được nữa. Bây giờ phải làm gì? Giup Minh voi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.298096,
+         "id": "902434",
+         "field_search": "question",
+         "question": "Em dùng máy 5s. vừa rồi cập nhật phiên bản mới IOS 10.0.2 tự dưng cái tiếng chuông khóa màn hình bị thay đổi, em tìm mọi cách để đổi kiểu chuông mặc định ban đầu mà ko được, có ai biết giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.27469,
+         "id": "871965",
+         "field_search": "question",
+         "question": " Cho e hỏi cách làm sao để khắc phục ảnh bi zoom trên iphone 5s phiên bản 9.3.3 vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

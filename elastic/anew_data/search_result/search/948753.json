@@ -1,0 +1,801 @@
+{
+   "id_query": "948753",
+   "total": 32771,
+   "total_current": 100,
+   "max_score": 98.420395,
+   "origin_question": " dell 3468 có 1 ổ đĩa C thôi gần 1000G cho em hỏi nếu cài lại win thì tất cả dữ liệu sẽ mất hết hay sao ",
+   "hits": [
+      {
+         "score": 33.13829,
+         "id": "827127",
+         "field_search": "question",
+         "question": " Cho em hỏi thay ổ đĩa cứng cho laptop thì hết bao nhiêu tiền ạ? Và khi thay thì có bị mất hết dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.98885,
+         "id": "942212",
+         "field_search": "question",
+         "question": " cho mình hỏi là cài win theo chuẩn uefi có mất dữ liệu các ổ đĩa k, win cũ của máy mình đã theo chuẩn gpt rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.51938,
+         "id": "808597",
+         "field_search": "question",
+         "question": "- Cho em hỏi sao cài Win 10 trong ổ đĩa chỉ có ổ C thôi ạ? Và sau khi cài em bị mất Microsoft Office, bây giờ em đem laptop đến bảo hành thì có tốn phí không ạ? ví dụ như cài lại máy bao gồm các ứng dụng cần thiết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.498775,
+         "id": "787797",
+         "field_search": "question",
+         "question": "Cho em hỏi trường hợp máy tính bị lỗi win mà em phục hồi lại được như lúc cái win mà sau toàn bộ dữ liệu ổ cứng mất hết. Vậy mình có cứu dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.554365,
+         "id": "573535",
+         "field_search": "question",
+         "question": " Cách chia ổ đĩa phân vùng trên Win không làm mất dữ liệu bằng Acronis Disk Director Suite 10 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.440392,
+         "id": "1137884",
+         "field_search": "question",
+         "question": "ad ơi cho mik khi nhấn sao lưu iphone thì tất cả dữ liệu sẽ đc lưu lại phải ko ạr ồi đăt lại iphone xong chỉ cần nhập icloud vào thì tất cả dữ liệu trở lại như ban đầu phải ko ạMong phản hồi sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.532196,
+         "id": "924997",
+         "field_search": "question",
+         "question": " Chờ em hỏi là giờ em khôi phục cài đặt gốc Windows 10 là chỉ mất dữ liệu ổ C chứ không ảnh hưởng đến ổ D phải không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.306568,
+         "id": "790253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài win máy xách tay lại thì có bị mất dữ liệu máy không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.198948,
+         "id": "937913",
+         "field_search": "question",
+         "question": "Tôi mới mua máy asus x555u, máy cài win 10 bản quyền, nhưng sao tự nhiên nay thông báo chưa active, vậy phải làm sao để ko mất dữ liệu ổ C. Lỗi: 0xC004F074",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.108429,
+         "id": "755485",
+         "field_search": "question",
+         "question": "Tự nhiên ổ đĩa C tự nhiên có đầy, sau đó dù đã dùng CCleaner, disk cleanup, %tempt%,... Nhưng sau đó ổ đĩa C lại đầy lại. Vậy có cách nào làm ổ đĩa C hết đầy ảo nữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.091724,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.86998,
+         "id": "776869",
+         "field_search": "question",
+         "question": "  e lỡ cài ubuntu xog nó gộp hết ổ đĩa vào h làm sao để cài lại win ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.584234,
+         "id": "1008904",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi là nếu mình tháo một ổ cứng từ máy tính cũ lắp sang máy mới (máy mới đã có ổ C) thì máy mới có nhận đó làm ổ đĩa C mới không hay sẽ nhận nó là ổ lưu trữ như ổ D / E???Mình muốn tăng bộ nhớ cho máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.47002,
+         "id": "882702",
+         "field_search": "question",
+         "question": "Mình vừa cài win 8.1 xong, không biết trong quá trình cài mình có xóa nhấm không mà bây giờ trong Computer chỉ còn 2 ổ đĩa là C và D. Lúc ở win 7 có C, D và E. Dell vostro 5460.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.463377,
+         "id": "806484",
+         "field_search": "question",
+         "question": " Cho em hỏi máy em là ipad air 1 nếu cập nhật đến ios 9.3 thì có vấn đề gì về treo máy hay mất hết dữ liệu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.278889,
+         "id": "773907",
+         "field_search": "question",
+         "question": "a chị cho em hỏi là khi em đăng xuất tài khoản iCloud thỳ trên máy báo bạn mướn xóa tất cả dữ liệu trên ip hay là vẫn còn luwu trên ip... em muốn xóa tất cả trên ip này nhưng em qua đt khác em đăng nhập tài khoản icoul này có mất tất cả dữ liệu ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.647434,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.580265,
+         "id": "951051",
+         "field_search": "question",
+         "question": " Em đang xài windows 7, nếu bây giờ em cài lại win thì các dữ liệu có lưu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.550745,
+         "id": "1135343",
+         "field_search": "question",
+         "question": "làm seo để cho ổ đĩa d hết đầy ạ... ổ đĩa c ws f là 415 GB là ổ d 15 GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3957,
+         "id": "750863",
+         "field_search": "question",
+         "question": "Anh cho em hỏi cài windows 10 mất dữ liệu trên ổ đĩa nào vậy anh và có mất ứng dụng trên máy không. hiện tại em đang dùng laptop asus hệ điều hành windows 7 ultimate không bản quyền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.481348,
+         "id": "1147934",
+         "field_search": "question",
+         "question": "chào admin hiện em đang dùng lapp dell lúc trước nó dùng rất mượt tại sao gần đây rất giật lag.Vậy cho em hỏi có phải là do em chưa nâng win 10 nên nó bị vậy hay ko,nếu như nâng win em sẽ mất bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.395174,
+         "id": "1135034",
+         "field_search": "question",
+         "question": "ad ơi nếu điện thoại mà đặt lại cài đặt gốc thì các dữ liệu sẽ mất đi.. như vậy những phần update androi có mất theo không hay vẫn bình thường giống như lúc mới cập nhật androi vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.00055,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.97798,
+         "id": "760451",
+         "field_search": "question",
+         "question": "Nếu đăng xuất tài khoản iCloud dữ liệu sẽ bị xóa vậy thì khi đăng nhập lại tài khoản đó thì dữ liệu có còn không hay đã bị xóa vĩnh viễn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.695498,
+         "id": "797553",
+         "field_search": "question",
+         "question": " tại sao laptop em mua hãng dell lại không có ổ đĩa DVD ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.030712,
+         "id": "810136",
+         "field_search": "question",
+         "question": "Chào admin , máy tính win 7 của em xài gần 3 tháng , do em tải nhiều thứ quá rồi xoá đi nên máy có hơi lad , em có nên sử dụng phần mềm cclean để xoá toàn bộ dữ liệu trên ổ C không ạ ? Nếu làm vậy có gây ra lỗi gì không ??? em chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.755196,
+         "id": "994587",
+         "field_search": "question",
+         "question": "vì sao laptop của tôi không có ổ đĩa d  và e. Nó chỉ có ổ đĩa cvà f thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.684017,
+         "id": "877852",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình mới mua một lap lenovo, cả ổ đĩa là 27,8 gb, mình chia thành 2 ổ, một ổ c và một ổ d, trong quá trình sử dụng, chủ yếu là lướt web,nghe nhạc, xem phim trên trình duyệt cốc cốc không chơi game, không tải gì hết, nhưng dung lượng free của ổ c lại bị giảm đi, mình đã xóa lịch sử truy cập, file tạm, disk cleanup ổ đĩa, thậm chí xóa system restore nhưng vẫn không lấy lại được hết dung lượng, mà chỉ lấy được một phần.. lúc đầu trong ổ c có 8,31gb free, giờ chỉ còn 7,78gb free. mình muốn hỏi là do đâu mà lại như vậy? tại sao lap người khác không bị hiện tượng mất dung lượng khi lướt web mà máy mình lại bị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.650167,
+         "id": "1162626",
+         "field_search": "question",
+         "question": "Ở thegioididong có cài lại win cho laptop không ạ, nếu có thì 1 lần cài hết bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.567387,
+         "id": "923365",
+         "field_search": "question",
+         "question": "Xin chào. Tôi đang sử dụng macbook pro 2008. Tôi bị hư ổ đĩa dvd và tôi muốn sử dụng ổ đĩa rời để đưa đĩa vào cài win cho macbook có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.450836,
+         "id": "872979",
+         "field_search": "question",
+         "question": " em khôi phục laptop của em. tất cả app mặc định mất hết cả camera,store....đều mất hết. có cách nào lấy lại không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.448423,
+         "id": "762580",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi iCloud đăng xuất ra tồi đăng nhập lại có bị mất hết dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.322483,
+         "id": "1160811",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu đăng xuất icloud thì dữ liệu trong máy có bị mất không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.07438,
+         "id": "930916",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi vào chỗ nào để chia ổ cứg laptop thành ổ D, ổ E, ổ C vậy máy e mới mua chỉ thấy có 1 ổ D thôi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.032892,
+         "id": "996074",
+         "field_search": "question",
+         "question": "Cho em hỏi có dòng Dell nào mà không có ổ đĩa CD không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.726059,
+         "id": "1133809",
+         "field_search": "question",
+         "question": "Cho em hỏi là em cài lại Win ở Thegioididong về thì mở This PC ra nó có Ổ đĩa D bị khóa như này là sau ạ. Có cách nào mở khóa không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.681608,
+         "id": "927789",
+         "field_search": "question",
+         "question": " cho mình hỏi ổ đĩa c bị đầy phải làm sao mình làm mọi cách mà 0 được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.630789,
+         "id": "1015409",
+         "field_search": "question",
+         "question": "Cho em hỏi, Gần đây em có mua 1 laptop Dell. Sao tự nhiên lại mất word,excel, powerpoint ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.572891,
+         "id": "764714",
+         "field_search": "question",
+         "question": " Cho e hỏi. Em mua laptop asus người ta cho 1 đĩa. Cái đĩa đấy có cài đc win ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.550304,
+         "id": "915615",
+         "field_search": "question",
+         "question": "mình bị mất trộm điện thoại ip5. Mình không bật \"Tìm iphone\" trên thiết bị. mình có sử dụng mật khẩu cho điện thoại và có tài khoản icloud.Mình cũng xác định là mất điện thoại. Cho mình hỏi người lấy điện thoại của mình liệu có bẻ được khóa màn hình và đọc hết các dữ liệu trong đt của mình được không? Hay sau khi bẻ được khóa dữ liệu sẽ mất hết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.51971,
+         "id": "1135497",
+         "field_search": "question",
+         "question": "em lỡ tay khôi phục lại điện thoại như lúc ban đầu nên đã bị xóa hết tất cả các dữ liệu đã có trong điện thoại, cho em hỏi là không biết có cách nào khôi phục lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.23491,
+         "id": "1018486",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu cập nhật thì dữ liệu trên điện thoại có bị mất k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.216742,
+         "id": "1143423",
+         "field_search": "question",
+         "question": "Cho e hỏi là đt e đã có icloud rồi mà giờ e muốn sài chung với chị e vậy khi e đăng xuất icloud của e thì có bị mất tất cả dữ liệu trong đt e k ạ hay vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.06239,
+         "id": "872327",
+         "field_search": "question",
+         "question": "mình mới bị mất cái ip6. giờ về nhà đăng nhập tk icloud k được, mình nghi bị hack rồi. tất cả các dữ liệu dđã bị mất hết.giờ có cách nào khôi phục lai cái tk icloud dể lấy lại danh bạ và các dữ liệu. thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.97565,
+         "id": "746211",
+         "field_search": "question",
+         "question": " tôi cài lại win 7 cho laptop dell vostro 5560 nhưng mất hết Driver. mong được giúp đỡ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.97469,
+         "id": "909498",
+         "field_search": "question",
+         "question": "Gộp ổ đĩa C và DSau khi em bỏ Page File của ổ D và xóa đi, nó trở thành phân vùng trống màu đen. Tiếp đến em click phải vào ổ C nhưng chữ Extend... không hiện lên, vậy làm sao để có thể gộp ổ D vào ổ C ạ? Máy em Windows 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.960253,
+         "id": "1146487",
+         "field_search": "question",
+         "question": "Mình đăng xuất IC cũ đăng nhập vào IC mới. Sau này nếu mình đăng nhập lại vào IC cũ thì tất cả dữ liệu, hình ảnh, v.v... còn nguyên vẹn không và ngược lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.925285,
+         "id": "1004743",
+         "field_search": "question",
+         "question": "Chào Anh/ Chị! Em đang dùng laptop Dell LATITUDE 3540 / i5 và đang dùng windows 10Pro 64bits. Không biết máy hay do win bị lỗi gì sau khi cài lại một thời gian , máy của em không hiện ổ C/D/E . Em cũng bị một lần mất ổ E/D sau khi cài lại được một thời gian lại sảy ra hiện tượng lỗi như trong hình .Mong Anh/ Chị tư vấn giúp em. Cám ơn Anh/ Chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.898495,
+         "id": "753238",
+         "field_search": "question",
+         "question": "trước kia em mua máy dell có cài win 8.1 bản quyền . sau đó em ra tiệm cài lại win 7 . em còn cái đĩa recovery lại win 8.1 , vậy phải làm thế nào để trở lại win 8.1 bản quyền ạ . Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.866518,
+         "id": "774234",
+         "field_search": "question",
+         "question": "TGDĐ vui lòng chỉ mình cách cài win 8.1 máy asus X454L, mình cài Win 8.1 hay win10 nó đều dừng ở 0% bước đầu tiên, chia ổ đĩa bình thường, nó dừng mãi ở 0%, source cài win đó mình cài máy khác bình thường không lỗi gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.843609,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.797117,
+         "id": "803445",
+         "field_search": "question",
+         "question": " Ad giúp em cài win laptop dell e5500 được không ạ...em không biết cài...em có đĩa cd win7 62bit rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.76041,
+         "id": "1157166",
+         "field_search": "question",
+         "question": "Nếu e bị kẻ gian lấy đt uy hiếp, e muốn xoá tất cả dữ liệu trong đó thì làm thế nào ạ? Đt e là ss j7 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.733852,
+         "id": "951701",
+         "field_search": "question",
+         "question": " Cho em hỏi máy Dell Vostro 3468 i3 7100U4GB1TBWin10 có cài được Adobe Photoshop không ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.721954,
+         "id": "1024134",
+         "field_search": "question",
+         "question": "Nhờ tgdd chuyển GB của ổ D sang C.chuyển thế nào mà bảo là '\"win bị lỗi dữ liệu phần mềm trong máy mất hết\" . Bảo cài lại như cũ . Mấy hôm sau lên lấy máy . Về nhà vào thì k đăg nhập user dc. K thể tự chỉnh máy dc. Vào game liên minh thì muốn bỏ máy .lúc trước chơi liên minh cấu hình trung bình là ngon cơm mà bây h vào chỉnh mức thấp ping có 24 mà đi màng hình giật giật . K xài dc. Em chỉ yêu cầu nâng gb ổ C lên thôi mà hậu quả như thế :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.67945,
+         "id": "1021694",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy em mới mua nhân viên cài win10 cho em mà máy chạy chậm quá e muốn cài  xuống win7 nhưng khi cài có bị mất hết dữ liệu trong máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.676348,
+         "id": "1161527",
+         "field_search": "question",
+         "question": "Hi ad, cho mình hỏi két an toàn trên máy vivo là gì? Nếu mình cài đặt lại máy về trạng thái ban đầu thì dữ liệu (ảnh, tài liệu pdf...) trong két an toàn có bị mất k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.58445,
+         "id": "773142",
+         "field_search": "question",
+         "question": " Cho mình hỏi. Ở đây có bán đĩa win không? Mình đang cần cài lại win ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.523867,
+         "id": "1000454",
+         "field_search": "question",
+         "question": "giúp mình với bạn sài Sony X mình bị gửi tin nhắn tổng đài không được. Minh bấm cài lại dữ liệu nhà SX. giờ mình mất hết dữ liệu trong máy giờ mình muốn khôi phục lại làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.519863,
+         "id": "774301",
+         "field_search": "question",
+         "question": "Mình chơi hay day nhưng máy mình mới cài lại mất hết dữ liệu nén khi mình tải về đăng nhập fb nó bắt mình nhập mã gì đó. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.48159,
+         "id": "927536",
+         "field_search": "question",
+         "question": " nếu làm theo thì có mất dữ liệu không? ko mở được pass sao tắt tìm iphone được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23395,
+         "id": "1015434",
+         "field_search": "question",
+         "question": "mình vô ổ đĩa C thấy đầy quá mình bấm xóa rồi lỡ xó hết mấy phần mềm quợt, excel, với mấy game rồi sao lấy file lại được qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.196697,
+         "id": "1151368",
+         "field_search": "question",
+         "question": "cho hỏi có cài win 10 bản quyền không ạ và có thì giá bao nhiêu và dữ liệu cũ trong máy co thể lưu lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.137722,
+         "id": "1012348",
+         "field_search": "question",
+         "question": "Em mua laptop ux410 ở tgdd được cài win thì có bản quyền không. Và tgdd có nâng cấp ổ ssd không. Nếu không thì em nâng cấp chỗ khác và lại tgdd có bảo hành cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08285,
+         "id": "828744",
+         "field_search": "question",
+         "question": "ad ơi nếu em nâng cấp win7 lên win10 máy có bị mất dữ liệu hay các ứng dụng j ko, rồi sau khi nâng cấp xong mình có cần pải cài đặt lại mạng của máy hay cái j khác không Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.073172,
+         "id": "780424",
+         "field_search": "question",
+         "question": " Cho em hỏi khi xoá jailbreak ipad thì ipad có mất dữ liệu không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.00317,
+         "id": "1015498",
+         "field_search": "question",
+         "question": "Hiện e đag dùng J7 prime, e bị mất mật khẩu samsung account nên phải đặt lại mật khẩu, cho e hỏi nếu đặt lại mật khẩu thì mk có bị mất dữ liệu thiết bị ko ạ? Nếu mất thì làm sao để lấy lại ạ? E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.85029,
+         "id": "927778",
+         "field_search": "question",
+         "question": " Làm sao để mở ổ đĩa của dell inpiron 15 3000 series ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.636526,
+         "id": "797074",
+         "field_search": "question",
+         "question": " Cho mình hỏi laptop bị gì mà tải dữ liệu trên mạng về mà bị lỗi không tải được vậy ? tất cả luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.516993,
+         "id": "1161327",
+         "field_search": "question",
+         "question": "cho em hỏi máy Xaomi redmi 5 Miui 10 xóa hết dữ liệu đăng nhập lại yêu cầu nhập tài khoản google cũ mới vô cài đặt máy được thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.460983,
+         "id": "1168374",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em sd iphone 5S, bây giờ máy em sắp hết dung lượng, vậy nên em đã sao lưu và đồng bộ dữ liệu ảnh, .... vào icloud rồi, vậy em có thể hỏi là nếu em xóa hết hình bên app ảnh của iphone thì bên icloud có mất luôn không ạ? Em cảm ơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.378695,
+         "id": "887170",
+         "field_search": "question",
+         "question": "tôi mua máy tính laptop X550C bên điện máy xanh năm 2013giờ máy bị lỗi win, tôi muốn qua bên thế giới di động cài lại win 7. tôi có được cài miễn phí hay không? và nếu mất phí thì hết bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.287266,
+         "id": "754388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Trước em dùng iphone4 có tài khoản icloud. Bây giờ em dùng sang ip5 e chuyển dữ liệu icloud từ ip4 sang ip5. Bây giờ hiện tại thì máy em đang có 2 bản sao lưu 1 của máy cũ và 1 của máy mới em đang dùng. Mà em muốn xoá dữ liệu của bản sao lưu trước đây vì khi chuyển sang máy mới  em muốn sao lưu lại các dữ liệu mới thì ko được vì bản sao lưu của ip cũ đầy rồi. Vậy ad cho me hỏi em xoá bản sao lưu cũ đi liệu có mất danh bạ ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.254131,
+         "id": "1011878",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo f1 ms chạy lại phần mềm mất hết dữ liệu r đag nhập vào tài khoản Google mà ko nhớ mật khẩu thì lm sao ạ. Thak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.246325,
+         "id": "922694",
+         "field_search": "question",
+         "question": "Cho em hỏi . E xài ip6s plus sau khi cập nhật IOS 10.1.1 xong . Thì máy em bị mất hết tất cả danh bạ . Khi em lưu lại danh bạ mới thì tiếp tục lại bị mất . E không biết làm sao ? Xin tl sớm giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.192272,
+         "id": "1138904",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao zalo em lại thông báo có người khác đăng nhập trên thiết bị khác và bị đổi tên vậy ạ? Đổi tên em thành tên người đó và khi e đăng nhập lại thì bị mất hết dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.11015,
+         "id": "797567",
+         "field_search": "question",
+         "question": "Các anh cho em hỏi ạ ! E dung ip4s ios 7.1.2 nếu em restore máy thì các cài đặt và ứng dụng đã cài sẽ bị xoá chỉ còn những ứng dụng mặc định thôi đúng không ạ ! Kể cả cydia cũng bị xoá chứ ạ !Và restore lại máy xong tải game về chơi vẫn đăng nhập gamecenter cũ kia như bình thường để sử dụng níck game cũ chứ ạ ! Hay là bị xoá hết dữ liệu không thể vào được níck cũ đang chơi ạ !Em đang chơi Clash of clan nên không muốn bỏ !Mong các anh giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.07099,
+         "id": "909832",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy em lỡ cài bản win 10 enterprise giờ hết hạn thì cài lại win 10 bản quyền hết bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.048191,
+         "id": "1006285",
+         "field_search": "question",
+         "question": "Mình mua điện thoại mobistar được vài tháng thôi . Nhưng sài chỉ được gần 1 tháng điện thoại ko nhận được sim 1 nữa thì mình ra thế giới di động bên kỹ thuật hỏi thì nói là gửi lên bảo hành sẽ bị mất phí , vậy tại sao bói bào hành máy cho mình 1 năm , mình ko làm gì hết tự nó nhận sim không được thì tại sao mình lại bị mất phí .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.045273,
+         "id": "1135405",
+         "field_search": "question",
+         "question": "Em đang sài laptop asus ổ cứng SSD 24G+ HHD 1TB nếu cài win lên ổ ssd thì khi ổ HHD hư máy tính có khởi động được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.020784,
+         "id": "1006289",
+         "field_search": "question",
+         "question": "Mình mua điện thoại mobistar được vài tháng thôi . Nhưng sài chỉ được gần 1 tháng điện thoại ko nhận được sim 1 nữa thì mình ra thế giới di động bên kỹ thuật hỏi thì nói là gửi lên bảo hành sẽ bị mất phí , vậy tại sao nói bảo hành máy cho mình 1 năm , mình ko làm gì hết tự nó nhận sim không được thì tại sao mình lại bị mất phí .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.004467,
+         "id": "748687",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là khôi phục cài đặt gốc cho laptop Asus TP550L có bị mất dữ liệu phần mềm không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.959,
+         "id": "851073",
+         "field_search": "question",
+         "question": " e mới cập nhật lại phần mềm iphone bị mất hết dữ liệu có cách nào lấy lại đc k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.889713,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87435,
+         "id": "1022368",
+         "field_search": "question",
+         "question": "Em chào ad ạ . Hôm nay em có nâng cấp ipad Lên IOS 10.3 mới nhất ạ . Em đã sao lưu dữ liệu vào ICloud . Nhưng do em cài ở hàng , họ không sao lưu dữ liệu lại cho em . Giờ em muốn dữ liệu được phục hồi thì làm như nào ạ ? Em cảm ơn ad rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.84932,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.692463,
+         "id": "1015471",
+         "field_search": "question",
+         "question": "laptop mình là dell win 10 sau khi reset thì ổ đĩa nó bị như thế này. và mình đã Turn Bitlocker on và nó không được giờ phải làm sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.688742,
+         "id": "1134367",
+         "field_search": "question",
+         "question": "Cho e hỏi cách sao lưu dữ liệu sam sung tab 4 ạ dữ liệu cài đặt nhé và e vô tình quên pass wifi của m và giờ muốn xem lại thì có cách k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.664797,
+         "id": "1159778",
+         "field_search": "question",
+         "question": "Cho hỏi. Nếu reset máy thì có phải cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.652405,
+         "id": "1012595",
+         "field_search": "question",
+         "question": "cho em hỏi sim viettel 7gb (không nghe gọi được) khi hết 7gb hạ băng thông không tính phí là gì khi trong sim vẫn còn dữ liệu mà em nạp thêm 20k thì có thể thêm vao dữ liệu được không nếu được thì em nhập cú pháp nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.637634,
+         "id": "844293",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi mất key win bản quyền có cài lại win lại được k ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.62993,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.588886,
+         "id": "1143204",
+         "field_search": "question",
+         "question": "Oppo khôi phục cài đặt gốc có bị mất dữ liệu hình ảnh âm nhạc hay những app đã tải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.487867,
+         "id": "1019627",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi một chút về Zalo ạ . Zalo điện thoại em từ hôm cập nhật thì mất hết tất cả tn cũ , em vào phần sao lưu phục hồi lại được tin nhắn cũ nhưng lại bị mất hết tin nhắn hiện tại luôn :((((( Cho em hỏi có cách nào để khôi phục lại các tin nhắn đó không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44351,
+         "id": "1140284",
+         "field_search": "question",
+         "question": "dt realme c1 có hỗ trợ 4g không mà nếu có hỗ trợ thì hỗ trợ tất cả các sim luôn hay sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.435942,
+         "id": "769828",
+         "field_search": "question",
+         "question": " Cho tôi hỏi là khi cài lại win thì các phần mềm như word, powerpoint và excel có mất đi hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.433132,
+         "id": "1169176",
+         "field_search": "question",
+         "question": "Điện thoại em Samsung galaxy note 3 không cập nhật được phiên bản mới nhất của messages em gỡ cài đặt sau đó tải lại thì không tải lại được em đã thử tất cả mọi cách trên mạng như gỡ dữ liệu cache gỡ cài đặt cập nhật ch play rồi mà không tải được ạ máy em bị làm sao thế giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.300014,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.212894,
+         "id": "949562",
+         "field_search": "question",
+         "question": " Ad cho e hỏi, máy em đang sử dụng win 10 bản quyền 1 năm, giờ em muốn cài lại win có phải mất phí không ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "801692",
+   "total": 32777,
+   "total_current": 100,
+   "max_score": 110.55831,
+   "origin_question": "Laptop tôi khi cài lên win 10 thì máy bắt mạng chập chờn hoặc chạy không nổi dù các máy khác bắt mạng vẫn bình thường. Cho tôi xin cách giải quyết ạ",
+   "hits": [
+      {
+         "score": 45.392254,
+         "id": "1157627",
+         "field_search": "question",
+         "question": "máy tính bắt wifi chập chờn cứ hiện hình tam giác màu vàng là do đâu ạ. trong khi các máy khác đều bắt wifi được bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.258106,
+         "id": "897678",
+         "field_search": "question",
+         "question": "Tôi sài laptop lenovo yoga 500 mà wifi máy bắt lúc nào cũng có dấu tam giác màu vàng có dấu thăng bên trong và đề là k có internet nhưng tôi truy cập mạng vẫn dc nhưng yếu.. các máy laptop xung quanh tôi hoặc đt đều kết nối cùng 1 wifi đó mạnh và bình thường.. cách khắc phục là ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.683582,
+         "id": "1017935",
+         "field_search": "question",
+         "question": "Mình mới mua con j7pro dc 1 tuần nhưng wifi chập chờn lắm, các máy khác thì sài bình thường nhưng j7pro cứ hiện ở cột wifi dấu ! Lúc bắt được lúc không, ad giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.217873,
+         "id": "996611",
+         "field_search": "question",
+         "question": "mh có con iphone 5s bắt đc wifi nhưng lại không có mạng,trong khi đó máy tính + đt samsung của em mh thì lại bắt đc và có mạng,mh đem điện thoại đi bắt thử wifi nhà khác thì điện thoại 5s của mh vẫn dùng mạng bình thường??? bạn nào giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97952,
+         "id": "1134662",
+         "field_search": "question",
+         "question": "Hiện em đang dùng laptop ASUS X555U, gần đây màn hình máy tính của em thường xuyên xuất hiện tình trạng bị nhiễu, chập chờn. Cho em hỏi máy bị làm sao và cách giải quyết như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.649628,
+         "id": "1144144",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ,Tôi mua máy HP Pavilion x360 Convertible 14-cd0xxx được 2 tháng, tháng đầu kết nối wifi rất tốt, các mày khác rớt mạng nhưng máy tôi vẫn chạy tốt. Tuy nhiên thời gian gần đây máy thường kết nối không ổn định, thường xuyên rớt mạng nhưng các máy khác vẫn ổn định.Xin hỏi máy tôi gặp vấn đề gì và cần phải làm thế nào?Trân trọng cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.644764,
+         "id": "746557",
+         "field_search": "question",
+         "question": "Laptop mình chạy win 10 không vào Store được là sao vậy m.n, win này là cài sẵn của máy rồi?Trong khi máy tự nâng cấp lên thì vẫn vào Store bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.63773,
+         "id": "1133721",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình bỏ thánh sim vô điện thoại Sony Z3 thì máy vô mạng bình thường nhưng khi mình dùng Z3 làm wifi hostpot thì các máy khác dù đa kết nối được mạng Z3 phát ra nhưng vẫn không vô mạng được riêng Z3 thì dùng bình thường, cho hỏi là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.501617,
+         "id": "1149496",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, e sài samsung j3pro, mạng sim 4g vẫn chạy bình thường nhưng khoảng 1 tuần nay thì mạng đột nhiên kh vào dc các ứng dụng như fb, tiktok, zalo thì chỉ gửi được tin nhắn thường kh gửi được hình ảnh nhưng khi lắp sim vào máy khác thì mạng vẫn chạy nhanh bình thường. Chỉ e cách khắc phục với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.755592,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.00366,
+         "id": "1157894",
+         "field_search": "question",
+         "question": "tôi đang sử dụng laptop HP, tên labtop là LAPTOP-70LPT1H9, processor là intel core i7-8550U. tuy nhiên trong quá trình sử dụng, lên internet máy rất chậm, không như câc máy khác chạy rất mượt dù chỉ là i5. máy tôi chạy HDD nhưng tôi chỉ dùng lên mạng và các ứng dụng office. tôi có thể hỏi nguyên nhân và cách khắc phục? tôi đã mang ra tgdd 2 lần để khắc phục nhưng chứng nào vẫn tật nấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.727478,
+         "id": "1008676",
+         "field_search": "question",
+         "question": "Hiện tôi đang sử dụng lap Hp. Vài ngày nay lap tôi có hiện tượng đứng khi mới mở máy lên sd được một lúc và không bắt được wifi mặc dù mạng rất mạnh. Cho hỏi máy tôi bị vấn đề gì và phải tốn khoảng bn tiền để sửa máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.92357,
+         "id": "1163611",
+         "field_search": "question",
+         "question": "Điện thoại a9 của mình xài wiffi chập chờn quá. Mặc dù đã làm mọi cách. Có khi mất wiffi luôn..ttong khi các đt khác xài bình thường. Mình có thể đem ra bảo hành kh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.883352,
+         "id": "1019117",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi, trên điện thoại android của em thường xuyên không nhận được mạng wifi nào, trong khi máy tính hoặc các thiết bị khác đều sử dụng mạng wifi đó bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.220371,
+         "id": "999564",
+         "field_search": "question",
+         "question": "Hồi trc tôi vẫn vào trag web này bình thường nhưng gần đây tôi vào thì nó bảo vầy cho dù tôi xài các trình duyệt khác cũng k đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.123865,
+         "id": "814671",
+         "field_search": "question",
+         "question": "Chào thegioididong. Tôi đang dùng máy HP Probook 450 G2, sau khi tôi cài lại win10 pro và cài đủ driver kể cả hotkey nhưng phím fn+f9,f10(tăng giảm độ sáng màn hình) và fn+f8(recorder) vẫn không hoạt động. Lúc trước máy chạy win8.1 thì vẫn bình thường. Xin giải đáp giúp tôi vấn đề này. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.873672,
+         "id": "778647",
+         "field_search": "question",
+         "question": "Cục model wifi hư thay cục model wifi khác lúc đầu thì laptop win 10 bắt sóng được. Nhưng mấy tiếng sau mở máy lên thì không bắt được sóng vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.80372,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.788948,
+         "id": "1134222",
+         "field_search": "question",
+         "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.787798,
+         "id": "891100",
+         "field_search": "question",
+         "question": " Laptop của em tự nhiên không bắt mạng được mặc dù có bật wifi. Em đã làm đủ mọi cách nhưng không được. Xin giúp đỡ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.42455,
+         "id": "1163477",
+         "field_search": "question",
+         "question": "Em mua Xiaomi mi 8 lite, khi máy còn chạy android 8.1 thì chơi game bình thường, nhưng từ lúc cập nhật lên android 9 khi đang chơi liên quân thì nhiều lúc cứ bị mất mạng dù wifi có mỗi máy em dùng, còn chơi các trò khác thì cứ hay văng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.047188,
+         "id": "831529",
+         "field_search": "question",
+         "question": " Mess cứ hiện Đang chờ mạng khi mạng vẫn chạy bình thường và wifi vẫn khá mạnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.00649,
+         "id": "1146666",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer aspire v5-471G win 10 và em muôn hỏi là mấy bữa nay mạng wifi dùng có cứ bị chập chập lúc thì vô được lúc thì không vô được và firefox nó báo là Server not found, hôm nay thì tự nhiên máy tính nó hiện lên thông báo nói là có máy tính khác trong mạng trùng địa chỉ ip gì đó, trên điện thoại cũng không vô  mạng được luôn, không biết phải sửa sao đây ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.898108,
+         "id": "1004278",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi  tại sao máy ip5 của e lại o bắt dc sóng 4g ạ còn 3g thì hay chập chờn lắm ạ mặc dù e dung sim 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.544268,
+         "id": "817618",
+         "field_search": "question",
+         "question": "Có phải English stydu pro 2012 không cài được trên win 10 không thegioididong. Tôi cài trên 02 laptop Dell chạy win 10 nhưng khi không thê nào cài được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.532066,
+         "id": "919327",
+         "field_search": "question",
+         "question": "ad ơi, e xài laptop win 10, con lumia 525 của e skype tới máy đó thì không bắt máy được, cụ thể khi e bắt máy thì nó ra như này, không bắt dc tín hiệu. Nếu gọi từ laptop qua lumia thì dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.265903,
+         "id": "828386",
+         "field_search": "question",
+         "question": " Tại sao fb của mình lại không vào được từ hôm qa đen h, dù mạng vẫn chạy bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.196537,
+         "id": "809534",
+         "field_search": "question",
+         "question": "trước kia e sài win 7 sau khi e cài lại win thì wifi kết nối rất yếu e đã thữ nhìu cách như vẫn ko được .muốn bắt được mạng thì phải xách con acer đến gần modern wifi thì mới bắt được . mong qtv tư vấn giúp e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.126068,
+         "id": "863271",
+         "field_search": "question",
+         "question": "Xin chào!Tôi cài zallo trên máy tính hdh win 10,dù đã ghi nhớ đăng nhập nhưng mổi làn mở máy zalo đều đòi đăng nhập,xin chỉ cho cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.09879,
+         "id": "747623",
+         "field_search": "question",
+         "question": "anh chị cho tôi hỏi: tôi dùng laptop asus 360 cài đặt kingsoft, khi tải các file word trên mạng về thì không mở được, làm sao để mở a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.096046,
+         "id": "1166440",
+         "field_search": "question",
+         "question": "em dg xài chiếc nokia 8.1, mấy hôm nay ko piết sao khi xài wifi thì vào mang đc tầm 2 giờ thì máy ngưng kết nối vào báo mạng không có internet dù các máy khác xài vẫn bình thường,em đã thử nhiều cách khắc phục nhưng máy vẫn như vậy, mong ltv có thể giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.92832,
+         "id": "916569",
+         "field_search": "question",
+         "question": " tôi có mua laptop tại thế giới di động, hiện máy tôi đang chạy win10, tôi muốn cài lại win 7 có đượ không?xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.886751,
+         "id": "1134370",
+         "field_search": "question",
+         "question": "cho mình hỏi với, mình đang dùng ip6 bản mỹ ios 11.1.1, hiện tại máy mình không bắt được wifi mặc dù đang ở trong phòng có wifi, thỉnh thoảng thì bắt được thì được 1 vạch sóng mà yếu không thể lướt fb hay lên mạng được, cho mình biết máy mình đang bị lỗi j và cách khắc phục với ạ, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.79381,
+         "id": "770596",
+         "field_search": "question",
+         "question": "Tôi đã cài Windows 10 cho Laptop Acer Aspire 15 , nhưng không thấy hình \"màn hình khoá\" như các màn hình khoá của Windows 10 ( như trên mạng)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.791132,
+         "id": "792687",
+         "field_search": "question",
+         "question": "royal revolt 2 e chơi gần một tháng nhưng h vào nó bảo là vui lòng kiểm tra internet.nhưng các ứng dụng khác mạng vẫn hoạt động bình thường......e đã kiểm tra rồi...mạng hoạt động bình thường.e xài laptop win 8.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.661213,
+         "id": "1149415",
+         "field_search": "question",
+         "question": "Mình đang sử dụng samsung galaxy A8 Star ( mua máy ngày m4 tết), máy có hiện tượng bắt wifi kém, wifi chập chờn, ko bắt được wifi, biểu tượng wifi thường xuyên có dấu \"!\", (các điện thoại bên cạnh đều bắt đc wifi tốt) nhưng máy mình wifi lại ko ổn định, lúc có lúc không. Nhờ admin hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.552717,
+         "id": "807758",
+         "field_search": "question",
+         "question": " Tôi dùng viber sao khi tôi gọi cả 2 bên nghe rất nhỏ, các phần mềm khác tôi gọi vẫn nghe bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.443737,
+         "id": "784784",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng con iPhone 4S mà bắt mạng 3G nó vẫn hiện mạng E mà em cài Mimax rồi mà vẫn mạng E? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.411165,
+         "id": "1156254",
+         "field_search": "question",
+         "question": "Tôi mới mua con note 9 được 10 ngày khi dùng sao mà nó nóng máy quá. Khi bắt trở về nó  bị treo máy rất nhiều. Tôi đổi lại máy khác được không. Tôi mua ở tgdd huyện Châu Thành Tiền Giang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.052551,
+         "id": "1158693",
+         "field_search": "question",
+         "question": "A50 mình bật mạng dữ liệu lên cứ bị chập chờn lúc được lúc không là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.980545,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.96499,
+         "id": "808783",
+         "field_search": "question",
+         "question": "da anh chị cho e hoi, máy tínhcủa em hiệu acer thường không thể vô mạng bình thường, thường mất mạng hoặc ngắt kết nối khi sử dung wifi, e đã thử với mạng dây cáp thì lâu lâu cũng bị ngắt. thế máy em có khắc phục được không. máy của e mua vào 12-2015, e xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.929016,
+         "id": "1156072",
+         "field_search": "question",
+         "question": "Mình vẫn có thể xem youtube, lướt fb bình thường nhưng ko thể duyệt web. Mình phát hiện địa chỉ IP ở máy mình khác với các máy khác cùng bắt 1 wifi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.922483,
+         "id": "808944",
+         "field_search": "question",
+         "question": "Cho em hỏi ..cách khắc phục khi máy iphone 4s không bắt sóng được wifi hoặc có khi bắt được nhưng rồi lại mất hoặc có khi nút wifi bị xám không bật lên được? nếu sửa thì mất khoảng bao nhiêu tiền ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.744534,
+         "id": "1155135",
+         "field_search": "question",
+         "question": "Mi8 lite bắt wifi kém quá có cách nào khắc phục không qtv. Nhưg máy khác kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.742744,
+         "id": "1010017",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo F3 Khi tôi muốn tai video trên các trang mạng hoặc tai ảnh thì trên màn hình hiện ra chữ lưu nhưng bấm vào chữ lưu thì điện thoại vẫn không lưu đã Sao lưu và cài đặt lại thì nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.654564,
+         "id": "1155238",
+         "field_search": "question",
+         "question": "Tại sao đt Vivo V11i lại bắt 3g kém thế ạ, trong khi đó điện thoại cũ thì bắt 3g vẫn bình thường ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.654146,
+         "id": "1133481",
+         "field_search": "question",
+         "question": "Máy em ip6 16gb 10.2.1. Sao bắt wifi rất là kém ạ. 5m trở đi là k bắt nổi. Mà ở phạm vi bắt đc thì  k căng bằng máy khác ạ. Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.606222,
+         "id": "1158048",
+         "field_search": "question",
+         "question": "Mình mua laptop lenovo chạy win 10.xài word bắt mua bản quyền.Mình có cài word nào xài miễn phí ko v???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.57772,
+         "id": "918123",
+         "field_search": "question",
+         "question": "cho e hỏi .. máy em 4s , có khi nghe dc có khi không ( nhac+ video ) cắm tai nghe thì đôi khi tự tắt .... còn nghe gọi, chuông vẫn bình thường ... nguyên nhân và cách giải quyết sao ạ ...?\\",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.382792,
+         "id": "1004555",
+         "field_search": "question",
+         "question": "Máy của em khi vào mạng wifi thì có dấu chấm than là sao vậy ạ vào wifi khác vẫn đc và bố mẹ em vào wifi vẫn bình thường nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.362495,
+         "id": "1158651",
+         "field_search": "question",
+         "question": "Tại sao facebook của tôi lại không có mục xem video( facebook watch) ma tài khoản khác đăng nhập vào lại có mục đấy. Cho tôi xin cách giải quyết ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.278198,
+         "id": "899947",
+         "field_search": "question",
+         "question": "chào ad.... có thể giúp m giải quyết vấn đề này không ạ...m đang dùng dt lumia chia sẻ kết nối internet qua wifi để bắt vào laptop.... mọi ngày vẫn bình thường... nhưng giờ nó bị thế này....khi bật chia sẻ ở đt thì máy tính và dt đều nhận kết nối.. nhưng trên máy tính nó hiện như hình dưới....m làm mọi cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.183228,
+         "id": "879947",
+         "field_search": "question",
+         "question": " Không tải được theme của Samsung galaxy note5 ạ, máy cứ lên lỗi mạng mà wifi vẫn bình thường. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.143696,
+         "id": "869459",
+         "field_search": "question",
+         "question": "sao máy tôi lên youtibe coi phim dk một lúc thì hình ảnh đứng trong khi âm thanh vẫn bình thường ...có phải máy tôi bị lỗi gì không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.05564,
+         "id": "886559",
+         "field_search": "question",
+         "question": " Khi vào facebook messenger thì hay báo là do lỗi mạng nhưng trong khi đómáy khác vẫn vào bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.903572,
+         "id": "832655",
+         "field_search": "question",
+         "question": "Tôi có gửi đi bảo hành điện thoại iphone 5s 16gb gold. Lúc cửa hàng nhận mái vẫn mở nguồn, màng hình bình thương,.. nhưng khi trả máy thì báo là máy không nguồn, không màng hình, máy hở viền năng.., nên tôi đã nhiều lần khiếu nại nhưng, chưa giải quyết, về trường hợp nay, mong qtv giải quyết rõ giup khách hàng chúng tôi, cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.81429,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.803972,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.777155,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.707579,
+         "id": "943823",
+         "field_search": "question",
+         "question": "Tôi dùng windown phone mà sao vào messger nó cứ để đang đợi mạng mà mạng wifi vẫn bình thường chỉ có messger là không thể kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.633142,
+         "id": "1000257",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang sử dụng thiết bị Samsung galaxy j5 prime. Mặc dù tôi đã tắt hết các ứng dụng trong điện thoại, kể cả những ứng dụng chạy ngầm trên máy, nhưng nó vẫn bị hao pin, để qua đêm thì ít nhất máy bị hao đến 15% pin.Tôi mới mua chiếc điện thoại này được 1 tháng. Anh chị có thể tìm cách giải quyết giúp tôi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.624094,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.497969,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.490454,
+         "id": "894964",
+         "field_search": "question",
+         "question": "Chào Thế giới di động! Cho tôi hỏi tí, có thể nâng cấp card wifi máy tính laptop đuợc không? Dell 3420, hoặc cách nào làm tăng độ bắt sóng wifi cho laptop. Rất cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.474968,
+         "id": "845724",
+         "field_search": "question",
+         "question": "Máy em dùng wifiđang dùng thì. Em tắt mạng tạm thời giờ nhấn fn cộng f2 để bật wifi mà ko đuocnó nhu chuyển qua mạng cáp gắn vào máy moi dcmong các anh chỉ Cách bắt lại wifi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400892,
+         "id": "753325",
+         "field_search": "question",
+         "question": "Tôi đang sưTôi đang sử dụng laptop Asus Windows 8.1 nhưng sau khi nâng lên Windows 10 thì tôi không thể sử dụng Ezcom 3g được nữa, tôi nghĩ là do bản win không phù hợp nên đã thử hạ xuống nhưng vẫn không được. Tôi có cắm 3g vào máy, 3g có hiện đèn xanh đã kết nối nhưng lại không thấy xuất hiện biểu tượng trên máy tính. Tôi không biết do Ezcom hay do máy của tôi. Xin ad cho tôi xin ý kiến về trường hợp của tôi. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.283455,
+         "id": "1012399",
+         "field_search": "question",
+         "question": "Tôi đã cung cấp thông tin và cũng chỉ nhận được lại thông báo từ nhân viên ik như cũ không có hướng giải quyết nào ngoài việc xị lỗi.Hiểu là hiểu thế nào, hiểu cảm giác khó chịu của khách khi phải chờ mỏi cái điện thoại, mà k có cách xử lí.Báo bên hãng giải quyết ngay cho tôi về điện thoại ,đúng ngày 14 phải có để tôi nhận.Không gọi điện báo giá cả tình hình,mà dám ghi trên thông tin \"gọi nhiều lần không bắt máy\" ,quá quắt. Xử lí ngay trong tuần ,đúng ngày 14 tôi nhận đt.TGDd phải giải quyết ngay cho tôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.99585,
+         "id": "1134569",
+         "field_search": "question",
+         "question": "ad cho mình hỏi là mình đang dùng thằng Zenfone max pro, điện thoại mình không bắt được wifi trong nhà nhưng vẫn nhận được các mạng wifi xung quanh. trong khi những người khác trong nhà thì vẫn bắt được wifi trong nhà. Trường hợp này là bị gì hả ad? Cám ơn ad trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.95936,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.926207,
+         "id": "897075",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus, wifi đang sử dụng thì tự động mất kêt nối, khi khởi động lại máy thì bắt wifi bình thường ạ. mỗi lần như vậy là em restart lại máy. xin giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.925392,
+         "id": "808101",
+         "field_search": "question",
+         "question": "laptop em mới cài win 10, em thấy máy chạy chậm em muốn chạy lại chuong trình rồi mới cai lại win 10 dc ko?sau khi chạy lại máy chạy có nhanh hơn không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.853815,
+         "id": "907438",
+         "field_search": "question",
+         "question": "Tôi mua máy Lenovo Vibe P1 cách đây 7 tháng, trước đây máy vào Facebook và Phát video trực tiếp bình thường, nhưng cách đây nữa tháng thì khi tôi phát video trực tiếp trên Facebook thì sau 3 giây đếm ngược xong là Camera bị treo, lúc đầu tôi thử Cập nhật phiên bản Facebook về nhưng vẫn bị treo, tôi gỡ Ứng dụng ra và cài lại vẫn bị như vậy, tôi tiến hành phục hồi cài đặt gốc nhưng vẫn không phát được. Cuối cùng tôi đã Factory Reset lại máy nhưng kết quả vẫn như không!Tôi đăng câu hỏi này kính mong QTV hổ trợ phục hồi cho tôi. (*) Khi vào phát trực tiếp video trên Ứng dụng Bigo live thì máy hoạt động bình thường ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.7895,
+         "id": "838963",
+         "field_search": "question",
+         "question": "latop dell n4050. sau khi cài lại win máy không thể cài winrar được. tải drive thông qua máy tính khác thì máy báo lỗi.hiện giờ máy không vào được mạng vì cắm dây internet không nhận. cài dirver wifi báo lỗi. cài winrar báo lỗi nên không thể giải nén phần mềm tự tìm dirver. xin giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.78939,
+         "id": "1153146",
+         "field_search": "question",
+         "question": "máy tính của tôi không có bluotooth .khác phục ra sao ???máy win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.628605,
+         "id": "1147515",
+         "field_search": "question",
+         "question": "xin hỏi? Trước đây không có, sao dạo này máy m bị xen quảng cáo quá nhiều, ngay khi mở khóa màn hình, đang dùng wifi hay 3g bị rớt hay chập chờn mạng?Máy m là ss gt7102?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.604912,
+         "id": "828370",
+         "field_search": "question",
+         "question": "mọi người cho mình hỏi htc 620g của mình sao không vào được fb hay messenger vậy trong khi mạng vẫn chạy bình thường...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.503864,
+         "id": "1024275",
+         "field_search": "question",
+         "question": "mình dùng máy tính dell vostro i3 sau khi tắt máy mở lại thì ngày giờ bị trở lại năm 2010 nếu không cài đặt ngày giờ lại thì không thể bắt wifi là sử dụng mạng đc cho hỏi máy mình bị sao và cách khắc phục nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.49467,
+         "id": "755030",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone 5 của em đang dùng. Khi em vào bật 3g và bấm quay lại thì máy quay lại rất chậm, còn em bật hoặc tắt các ứng dụng khác khi quay ra vẫn bình thường. chỉ mỗi 3g bật tắt lúc thoát ra hơi chậm thôi. xin được giải đáp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.49358,
+         "id": "1012388",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lenovo A90 của tôi bị mất âm khi có cuộc gọi đến, mặc dù khi tôi gọi đi thì vẫn nói chuyện bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.451365,
+         "id": "1158667",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao máy oppo f1s của em phiên bản cũ thì không sao nhưng vừa cập nhật phiên bản mới nhất thì máy nóng cực và tụt pin không phanh. Mong ad cho em xin cách khắc phục, em đã thử tắt hết ứng dụng chạy ngầm nhưng khi bật mạng hay wifi là máy bắt đầu nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.432056,
+         "id": "798809",
+         "field_search": "question",
+         "question": "Cho em hỏi lí do nào khi cập nhật win 10 thì các video được lưu trong PC màu sắc trở nên đỏ hơn bình thường, cách khác vấn đề đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.378712,
+         "id": "896847",
+         "field_search": "question",
+         "question": "Chào TGDĐ, tôi muốn hỏi khi mua laptop tại các hệ thống cửa hàng của bạn thì laptop của tôi sẽ có win 10 bản quyền sẵn và không cần phải trả thêm phí cho việc mua/sử dụng win phải không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.364193,
+         "id": "912052",
+         "field_search": "question",
+         "question": " QTv cho em hỏi ! Laptop của em kết nối mạng vẫn bình thường nhưng khi truy cập trình duyệt vào không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.350925,
+         "id": "1164641",
+         "field_search": "question",
+         "question": "Sao samsung bắt wiffi vs 4g chập chờn chơi liên quân lúc xanh lúc đỏ hòa bậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.341742,
+         "id": "1152717",
+         "field_search": "question",
+         "question": "Máy tính bảng mobell tap 8pro của tôi mua trước Tết âm lịch khoảng 1 tuần. Hôm nay bị mất mạng 3g,2g. Dù đã thay sim và khôi phục cài đặt gốc. Vậy tôi có được đổi máy khác không? Vui lòng trợ giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.330374,
+         "id": "885711",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Asus tp301 .Làm sao dùng word, exel trên win 10 vậy. phải bắt buộc thêm tiền để kích hoạt mới dùng được sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.3171,
+         "id": "1133535",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sau khi mình bỏ sim thánh sim vô điện thoại sony Z3 để phát wifi, Sony Z3 thì vô mạng bình thường nhưng các máy kết nối từ mạng Sony Z3 phát ra thì lại không vô được mạng vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.301046,
+         "id": "779252",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Sau khi restore lại iphone 4 thì có bắt buộc phải cập nhật lên ios 9 không ? Mà bắt buộc thì update lên thì máy sẽ bị giật,lag thì có cách nào khác không admin ? Tại máy em bây giờ đang bị vô hiệu hóa :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.269304,
+         "id": "1150545",
+         "field_search": "question",
+         "question": "Anh ơi em Hỏi  IOS bắt sóng mạng di động tốt hơn hay ANDROID bắt sóng mạng di động tốt hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.268173,
+         "id": "1022093",
+         "field_search": "question",
+         "question": "Chờ tôi link bản rom gốc VN với.Tôi tìm trên mạng không thấy bản VN free nào. Toàn bắt mua mới sợ chứ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.213663,
+         "id": "896054",
+         "field_search": "question",
+         "question": " Tại sao máy tính của em bắt được wifi nhưng vào mạng lại không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.126223,
+         "id": "797717",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s về chưa được 15 ngày nhưng lên mạng máy chạy rất chậm lúc chạy được lúc không được , thử dùng nhiều wifi các chỗ nhưng vẫn như thế vậy thì e có thể xuống đổi máy khác được k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.102312,
+         "id": "1144367",
+         "field_search": "question",
+         "question": "ipad của mình vừa bị đổ nước vào nút bật máy và máy bị chập chờn, đang chơi game mà cứ bị out ra màn hình khóa hoặc tự bật nút tắt nguồn, bây giờ thì màn hình cứ sáng lên và có hình quả táo, làm cách nào để máy trở lại bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.045452,
+         "id": "830491",
+         "field_search": "question",
+         "question": " Cho e hỏi sao máy e mới cài win 7 mà không bắt được wiffi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.04361,
+         "id": "1167272",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua galaxy a50 khi sử dụng mạng 3g không giới hạn lưu lượng của vietnammobi lúc đầu sử dung mạng bình thường, nhưng khi đổi sim chế độ BOMSIM Vietnammobie thì mình vô mạng không được, Tắt máy khởi động lại vẫn không vào đượ.vậy có phải máy bị lỗi phầm mềm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.0286,
+         "id": "801246",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ mình mới mua trả góp laptop Acer của TGDĐ hiện tại laptop của mình vào đọc báo hay 1 số ứng dụng khác thì máy thường xuyên bị treo máy hay nói cách khác là bị đơ máy trong 1 phút sau đó chạy bình thường. Vậy cho mình hỏi như vậy là bị sao mong các bạn hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.99464,
+         "id": "1161342",
+         "field_search": "question",
+         "question": "Tôi mua đt oppo f7 cũng được vài tháng. Nay máy có hiện tương là: khi tôi sử dụng galaxy tap A6 để phát wifi cho f7 sử dụng thì máy f7 thường xuyên k có mạng (máy f7 còn biểu tượng wifi, máy tap A6 vẫn còn kết nối thiết bị; máy f7 tự out mạng wifi). Nhờ ad chỉ giúp. Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.986717,
+         "id": "1151248",
+         "field_search": "question",
+         "question": "cho mình hỏi là trên pc Win 10, mình cài ứng dụng Bluestack, Coc Coc, và một số phần mềm khác dưới quyền Admin, nhưng khi chuyển sang tài khoản User khác thì không thấy ứng dụng đó nữa, làm cách nào để mình có thể chạy các ứng dụng đó trong tài khoản User khác mà không phải cài thêm cho nặng máy không? xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

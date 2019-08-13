@@ -1,0 +1,801 @@
+{
+   "id_query": "877852",
+   "total": 35267,
+   "total_current": 100,
+   "max_score": 322.7295,
+   "origin_question": "cho mình hỏi, mình mới mua một lap lenovo, cả ổ đĩa là 27,8 gb, mình chia thành 2 ổ, một ổ c và một ổ d, trong quá trình sử dụng, chủ yếu là lướt web,nghe nhạc, xem phim trên trình duyệt cốc cốc không chơi game, không tải gì hết, nhưng dung lượng free của ổ c lại bị giảm đi, mình đã xóa lịch sử truy cập, file tạm, disk cleanup ổ đĩa, thậm chí xóa system restore nhưng vẫn không lấy lại được hết dung lượng, mà chỉ lấy được một phần.. lúc đầu trong ổ c có 8,31gb free, giờ chỉ còn 7,78gb free. mình muốn hỏi là do đâu mà lại như vậy? tại sao lap người khác không bị hiện tượng mất dung lượng khi lướt web mà máy mình lại bị?",
+   "hits": [
+      {
+         "score": 145.01123,
+         "id": "758767",
+         "field_search": "question",
+         "question": "Chào Thế giới di độngTGDĐ cho mình hỏi tại sau ổ cứng của mình không chia được 2-8 (60G - 240G trong đó mình muốn ổ C = 60G và D=240G), nhưng hệ thống chỉ cho chia 5 - 5 (150- 150G), ổ cứng mình có dung lượng 300G ổ đĩa mình ở dạng GTP.Mình chia ổ cứng bằng Disk Management của hệ thống.Mong được TGDĐ chỉ phương pháp chia ổ đĩa 60 -240G.​​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 131.0751,
+         "id": "882702",
+         "field_search": "question",
+         "question": "Mình vừa cài win 8.1 xong, không biết trong quá trình cài mình có xóa nhấm không mà bây giờ trong Computer chỉ còn 2 ổ đĩa là C và D. Lúc ở win 7 có C, D và E. Dell vostro 5460.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 125.962326,
+         "id": "755485",
+         "field_search": "question",
+         "question": "Tự nhiên ổ đĩa C tự nhiên có đầy, sau đó dù đã dùng CCleaner, disk cleanup, %tempt%,... Nhưng sau đó ổ đĩa C lại đầy lại. Vậy có cách nào làm ổ đĩa C hết đầy ảo nữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 124.400635,
+         "id": "1135343",
+         "field_search": "question",
+         "question": "làm seo để cho ổ đĩa d hết đầy ạ... ổ đĩa c ws f là 415 GB là ổ d 15 GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 122.945175,
+         "id": "1008904",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi là nếu mình tháo một ổ cứng từ máy tính cũ lắp sang máy mới (máy mới đã có ổ C) thì máy mới có nhận đó làm ổ đĩa C mới không hay sẽ nhận nó là ổ lưu trữ như ổ D / E???Mình muốn tăng bộ nhớ cho máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 121.65547,
+         "id": "909498",
+         "field_search": "question",
+         "question": "Gộp ổ đĩa C và DSau khi em bỏ Page File của ổ D và xóa đi, nó trở thành phân vùng trống màu đen. Tiếp đến em click phải vào ổ C nhưng chữ Extend... không hiện lên, vậy làm sao để có thể gộp ổ D vào ổ C ạ? Máy em Windows 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 118.034615,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 116.73439,
+         "id": "1015434",
+         "field_search": "question",
+         "question": "mình vô ổ đĩa C thấy đầy quá mình bấm xóa rồi lỡ xó hết mấy phần mềm quợt, excel, với mấy game rồi sao lấy file lại được qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.78112,
+         "id": "936728",
+         "field_search": "question",
+         "question": "cho mình hỏi khi mình mua laptop dell inspiron 14 3000 series thông tin máy ghi là bộ nhớ trong của máy là 500GB nhưng khi mình xài thì mày chỉ hiện lên mỗi ổ (C) nhưng ổ (C) chỉ có 113GB thôi.Vậy phần bộ nhớ còn lại ở đâu? Làm sao để sử dụng phần bộ nhớ ấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.50004,
+         "id": "930916",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi vào chỗ nào để chia ổ cứg laptop thành ổ D, ổ E, ổ C vậy máy e mới mua chỉ thấy có 1 ổ D thôi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.79292,
+         "id": "927789",
+         "field_search": "question",
+         "question": " cho mình hỏi ổ đĩa c bị đầy phải làm sao mình làm mọi cách mà 0 được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.924034,
+         "id": "1004743",
+         "field_search": "question",
+         "question": "Chào Anh/ Chị! Em đang dùng laptop Dell LATITUDE 3540 / i5 và đang dùng windows 10Pro 64bits. Không biết máy hay do win bị lỗi gì sau khi cài lại một thời gian , máy của em không hiện ổ C/D/E . Em cũng bị một lần mất ổ E/D sau khi cài lại được một thời gian lại sảy ra hiện tượng lỗi như trong hình .Mong Anh/ Chị tư vấn giúp em. Cám ơn Anh/ Chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.684265,
+         "id": "970122",
+         "field_search": "question",
+         "question": "Laptop em mới mua trước tết em thấy máy chỉ có 1 ổ đĩa nên em đã xem có một ổ bị khóa nên không mở được.giờ em đi mở có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.588425,
+         "id": "750782",
+         "field_search": "question",
+         "question": "Máy mình là Asus S56C ổ lai mình vào bios thì không thấy ổ SSD đâu cả cho mình hỏi có phải con ổ đó đã bị chết không thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.86837,
+         "id": "994587",
+         "field_search": "question",
+         "question": "vì sao laptop của tôi không có ổ đĩa d  và e. Nó chỉ có ổ đĩa cvà f thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.40929,
+         "id": "1144265",
+         "field_search": "question",
+         "question": "Cho mình hỏi là những biểu hiện nào cho thấy ổ đĩa disk có vấn đề hoặc bị hỏng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.40346,
+         "id": "924997",
+         "field_search": "question",
+         "question": " Chờ em hỏi là giờ em khôi phục cài đặt gốc Windows 10 là chỉ mất dữ liệu ổ C chứ không ảnh hưởng đến ổ D phải không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.95245,
+         "id": "923365",
+         "field_search": "question",
+         "question": "Xin chào. Tôi đang sử dụng macbook pro 2008. Tôi bị hư ổ đĩa dvd và tôi muốn sử dụng ổ đĩa rời để đưa đĩa vào cài win cho macbook có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.58452,
+         "id": "808597",
+         "field_search": "question",
+         "question": "- Cho em hỏi sao cài Win 10 trong ổ đĩa chỉ có ổ C thôi ạ? Và sau khi cài em bị mất Microsoft Office, bây giờ em đem laptop đến bảo hành thì có tốn phí không ạ? ví dụ như cài lại máy bao gồm các ứng dụng cần thiết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.54318,
+         "id": "948753",
+         "field_search": "question",
+         "question": " dell 3468 có 1 ổ đĩa C thôi gần 1000G cho em hỏi nếu cài lại win thì tất cả dữ liệu sẽ mất hết hay sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.70601,
+         "id": "800725",
+         "field_search": "question",
+         "question": " Có cách nào sử dụng đĩa quang trên laptop mà không có ổ đĩa không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.8069,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.78783,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.56395,
+         "id": "1167723",
+         "field_search": "question",
+         "question": "A/C cho em hỏi:- IPhone 6 64GBĐã nâng cấp icloud 50GB- Hiện tại dung lương trong máy sử dụng khoảng 25GB, còn trống rất nhiều nhưng khi mình quay video thì báo hết dung lượng là do đâu?Nhờ A/C hỗ trợ giải đáp giúp mình.Cảm ơn A/C nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.82064,
+         "id": "1024134",
+         "field_search": "question",
+         "question": "Nhờ tgdd chuyển GB của ổ D sang C.chuyển thế nào mà bảo là '\"win bị lỗi dữ liệu phần mềm trong máy mất hết\" . Bảo cài lại như cũ . Mấy hôm sau lên lấy máy . Về nhà vào thì k đăg nhập user dc. K thể tự chỉnh máy dc. Vào game liên minh thì muốn bỏ máy .lúc trước chơi liên minh cấu hình trung bình là ngon cơm mà bây h vào chỉnh mức thấp ping có 24 mà đi màng hình giật giật . K xài dc. Em chỉ yêu cầu nâng gb ổ C lên thôi mà hậu quả như thế :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.73555,
+         "id": "1156985",
+         "field_search": "question",
+         "question": "A c cho e hỏi. Đt oppo f5 e có tải file game apk về. Nhưng sau đó xóa đi. Tại sao vẫn không khôi phục lại dung lượng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.38375,
+         "id": "994396",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi mình lấy ảnh từ Ip6splus của mình lên máy tính vào các ổ đều bị như trong ảnh?TGDD cho hỏi nhưu vậy là bị lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.17447,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.35203,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.19788,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.475006,
+         "id": "961139",
+         "field_search": "question",
+         "question": " Máy tính của e là windown xp khi kết nối vs PC thì máy chỉ sạc pin không thấy ổ đĩa đâu hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.16958,
+         "id": "573535",
+         "field_search": "question",
+         "question": " Cách chia ổ đĩa phân vùng trên Win không làm mất dữ liệu bằng Acronis Disk Director Suite 10 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.034035,
+         "id": "1004288",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên bạn có bán ổ cứng di động cho iphone không bạn?, nếu có thì dung lượng khoảng bao nhiêu GB, Nếu được cho mình cái link sản phẩm nhé!!!Thanks!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.927795,
+         "id": "933710",
+         "field_search": "question",
+         "question": " Khi e đang download phim thì bỗng dưng bị lỗi đĩa đầy.. phải làm sao ạ? ổ c của e cũng bỗng dưng bị đầy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.86979,
+         "id": "787797",
+         "field_search": "question",
+         "question": "Cho em hỏi trường hợp máy tính bị lỗi win mà em phục hồi lại được như lúc cái win mà sau toàn bộ dữ liệu ổ cứng mất hết. Vậy mình có cứu dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.57255,
+         "id": "845774",
+         "field_search": "question",
+         "question": "Máy tính của mẹ em hiện thế này là sao ạ? Mẹ em chuyển thư mục Program Files từ ổ C sang ổ D nó cứ báo lỗi như thế này là sao ạ? Ai chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.38415,
+         "id": "1015471",
+         "field_search": "question",
+         "question": "laptop mình là dell win 10 sau khi reset thì ổ đĩa nó bị như thế này. và mình đã Turn Bitlocker on và nó không được giờ phải làm sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.258255,
+         "id": "1017076",
+         "field_search": "question",
+         "question": "Cho em hỏi, có nên mua lap top không có ổ đĩa quang DVD không? em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.24715,
+         "id": "836207",
+         "field_search": "question",
+         "question": "Mình có một cái Laptop, tên HP Pavilions 14. Mình nâng cấp Windows 10 tháng 7, năm 2015. Thấy máy chậm hôm nay mình tạo một USB cài Windows 10 từ Media Creaton Tool. Mình cài lại Windows 10 từ đầu vì mình gộp ổ Recorvery vô ổ G: rồi. Mình vô Wifi, Windows 10 trước khi cài lại bắt được 5 Wifi, sau khi cài lại còn 1 Wifi gần nhất, mà lại của hàng xóm, không phải của mình. Có thể giúp mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.22148,
+         "id": "1168209",
+         "field_search": "question",
+         "question": "Mình mua máy tính lenovo ideapad 330 cách đây 3 tháng, và mình mới mua thêm 1 ổ cứng và mình muốn thay ổ cứng. Giờ mình có thể lên trực tiếp hãng lenovo để thay được không ạ? Và nếu được, thì cho mình xin địa chỉ của hãng lenovo, và khi đi mình có cần mang theo giấy tờ gì khoong ạ ? MÌnh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.2023,
+         "id": "797553",
+         "field_search": "question",
+         "question": " tại sao laptop em mua hãng dell lại không có ổ đĩa DVD ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.16126,
+         "id": "796356",
+         "field_search": "question",
+         "question": "Mình thấy trong cài đặt => quản lý dung lượng => có cái ứng dụng khác chứa một con androi chiếm > 200Mb...nếu mình xóa nó đi điện thoại m có bị sao không....lenovo a7000....thân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.07777,
+         "id": "1137715",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi ổ cứng HDD SATA3 và SSD SATA3 có khác nhau tốc độ không?? Và máy không ghi hỗ trợ ổ SSD M2 PCIE thì mình có thể thay hẳn ổ HDD bằng ổ SSD M2 PCIE để dùng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.81798,
+         "id": "1154370",
+         "field_search": "question",
+         "question": "laptop lenovo ideapad 320 có ổ đĩa không....và cách mở ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.583405,
+         "id": "1141133",
+         "field_search": "question",
+         "question": "Em đang có dự định mua máy tính tại thế giới di động, cụ thể là laptop asus nhưng laptop này lại dùng ổ cứng hdd, Em muốn hỏi là ngay khi lúc mua em muốn lắp ngay ổ cứng ssd vào thì có bị mất bảo hành của máy không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.23888,
+         "id": "993323",
+         "field_search": "question",
+         "question": "máy tính của em bị hư ổ đĩa vừa mới sửa xong, về để đĩa vào thì lại tiếp tục không nhận được, vậy thì rốt cuộc máy bị gì thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.734276,
+         "id": "767107",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là mình mới mua iPhone 5S mà kết nối wifi yếu lắm nghe nhạc mà bị đứt khúc mình tưởng là wifi yếu nhưg khi lấy thêm chiếc iPhone 5S hai chiếc cũng mở một bài hát trên mạng mà máy mình bị còn máy kia không bị gió mình hỏi QTV có được đổi máy khác không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.39995,
+         "id": "931306",
+         "field_search": "question",
+         "question": "Mình mới mua laptop ở TGDĐ nhưng chưa chia ra các ổ cứng. Mn bày mình cách chia ổ cứng laptop đơn giản nhất với. Tại ngại đem ra tiệm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.31204,
+         "id": "1144485",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop có thể sử dụng chung hai ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.172676,
+         "id": "819267",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động. Em tên Dương. Xin cho em hỏi: em đang có một chiếc laptop asus tp501ua, máy có ổ cứng là 500GB nhưng mà em muốn gắn thêm 1 ổ cứng ssd nữa có được không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.88155,
+         "id": "1144561",
+         "field_search": "question",
+         "question": "Cho mình hỏi là máy Acer Aspire E15 E5 576G 52YG có thể sử dụng chung 2 ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.74812,
+         "id": "924251",
+         "field_search": "question",
+         "question": " Chị ơi máy tính em là loại acer trên máy tính có ổ đĩa nhưng e không mở được,phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.72867,
+         "id": "1000616",
+         "field_search": "question",
+         "question": "Mình dùng ip5s trong phần cài đặt-> dung lượng& sử dụng icloud -> quản lý dung lượng. báo ảnh & camera 10,0 GB mà mình tìm mãi không biết dữ liệu đó nó nằm ở đâu. Trước đó mình kết nối iphon với máy tính và copy tất cả dữ liệu ảnh và video ra ngoài sau đó xóa hết đi rồi. Mình muốn xóa đi để nâng cao bộ nhớ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.5431,
+         "id": "1013663",
+         "field_search": "question",
+         "question": "e mới mua điện thoại oppo a37 được 3 ngày. e có cắm phone nghe nhạc thử thì ổ cắm khá là lỏng, lúc vô lúc lại không vô. nghe nhạc thì nhỏ mà e chỉ nghe được một bên loa, e thử lấy tai phone khác cắm vào cũng y như vậy. cắm phone oppo vô điện thoại khác thì e nghe nhạc bình thường. vậy e có thể đổi điện thoại khác được chứ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.31254,
+         "id": "1005898",
+         "field_search": "question",
+         "question": " Laptop Asus GL553VE i7 7700HQ ổ cứng có dung lượng bao nhiêu vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.326744,
+         "id": "996074",
+         "field_search": "question",
+         "question": "Cho em hỏi có dòng Dell nào mà không có ổ đĩa CD không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.32077,
+         "id": "942212",
+         "field_search": "question",
+         "question": " cho mình hỏi là cài win theo chuẩn uefi có mất dữ liệu các ổ đĩa k, win cũ của máy mình đã theo chuẩn gpt rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.30337,
+         "id": "827127",
+         "field_search": "question",
+         "question": " Cho em hỏi thay ổ đĩa cứng cho laptop thì hết bao nhiêu tiền ạ? Và khi thay thì có bị mất hết dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.88213,
+         "id": "1134437",
+         "field_search": "question",
+         "question": "Mình muốn chặn quảng cáo ứng dụng trên galaxy a7 2018 thì phải làm thế nào? Rất khó chịu khi xem phim, lướt web, hay thậm chí chơi game mà vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.8364,
+         "id": "1133809",
+         "field_search": "question",
+         "question": "Cho em hỏi là em cài lại Win ở Thegioididong về thì mở This PC ra nó có Ổ đĩa D bị khóa như này là sau ạ. Có cách nào mở khóa không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.7899,
+         "id": "781267",
+         "field_search": "question",
+         "question": "MÁY LAPTOP VAIO EM MUA CÁCH ĐÂY 2 NĂM CÓ BẢN QUYỀN, VỪA RÙI Ổ CỨN BỊ HỎNG E PHẢI MUA LẠI Ổ CỨNG MỚI. CHO E HỎI LÀM SAO MÌNH CÀI ĐẶT LẠI WIN BẢN QUYỀN?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.55309,
+         "id": "1020743",
+         "field_search": "question",
+         "question": "cho mình hỏi sao samsung j2 prime của mình ở đây ghi ứng dụng 5,58gb nhưng mình vào xem rồi cộng dung lượng lại chỉ gần 2gb ( một số ứng dụng mình đã chuyển sang thẻ nhớ). Kiểm tra chỗ bảo trì thiết bị máy chỉ còn dư 500mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.90488,
+         "id": "806798",
+         "field_search": "question",
+         "question": "minh xài iPhone 6s plus giờ mình muốn tải video phim về máy mà phần mềm free video và một số phần mềm đã bị xóa trên appstore!giờ mình mún tải thì phải làm sao ạ?????????????? minh đã thử rất nhìu phần mềm nhưng không có chỗ để tải về???????mong phản hồi sớm ạ????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.75235,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.72173,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.704796,
+         "id": "1005720",
+         "field_search": "question",
+         "question": "Laptop Asus UX360UA i5 7200U ổ cứng có dung lượng bao nhiêu vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.65778,
+         "id": "765046",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình dùng công cụ savior trên cốc cốc để tải video về, có một số video tải được, một số video khi tải thì máy thông báo \" không thành công - bị cấm \" dù cùng một nghệ sĩ. Vậy là sao ạ? có thể cho mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.63518,
+         "id": "769574",
+         "field_search": "question",
+         "question": " Cho em hỏi là  ổ đĩa của laptop Asus E402MA N2840 ở đâu ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.47252,
+         "id": "1153375",
+         "field_search": "question",
+         "question": "Mình chơi game trên ipad 3 một lúc game tự out , một số ứng dụng khác như youtube , facebook cũng hay bị thế Xóa tải lại , reset toàn bộ r mà vẫn còn bị mong các mod giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.32755,
+         "id": "877678",
+         "field_search": "question",
+         "question": "cho em hỏi trong ổ cứng windows 10 xuất hiện các file ẩn không xóa được tại vì có quyền admin. vậy các file này có cần thiết không? cách nào để xóa nó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.19314,
+         "id": "1016875",
+         "field_search": "question",
+         "question": "cho e hỏi chân sac laptop của e có 3 chân còn ổ cắm nhà e chỉ có 2 chân vậy e phải mua ổ cắm khác hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.89517,
+         "id": "1001601",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi là cục sạc của em khi cắm vào ổ điện thì kêu rè rè, rút ra thì kêu khoảng vài giây nữa thì hết. Em đã có đổi ổ điện khác nhưng vẫn vậy. Như vậy có gây nguy hiểm cho điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.650986,
+         "id": "768884",
+         "field_search": "question",
+         "question": "Mình mới cài win 10 tại tgdd,về game online thì chơi được nhưng lên wed bằng trình duyệt coc coc hoặc chữ em có sẵn trong máy thì không được,vào trang wed thì cứ đẩy về trang chủ hoài ak,khi đẩy về xong là một trình duyệt màu trắng, vào trang nào cũng vậy, vậy nguyên nhân vì sao ? Xin qtv hỗ trợ với! Hình dưới là trang chủ cốc cốc không giống như lúc trước, nhập địa chỉ nào nó cũng về màn hình y như vậy đó ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.274284,
+         "id": "1010664",
+         "field_search": "question",
+         "question": "Cứ mỗi lần vô trình duyệt web nh ư google chrome hay cốc cốc là nó cứ xuất hiện thêm 1 tab mới ntn và làm mình rất khó chịu, đợt trc' mình có format máy thì ko còn bị nữa mà bây giờ lại bị lại thì phải làm ntn vậy..??!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.16346,
+         "id": "1160975",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại asus zenfone 4 max sạc rất lâu zô  pin nên thay cáp sạc khác nhưng vẫn v 1 lát nó không zô pin nữa này do hệ thống Android hay do củ sạc vây ad củ sạc thì 2 cái chân ghim zô ổ sạc nó k đều bị cong một chút một phần nhỏ ổ sạc nó cứng qua nên đưa qua đưa lại ms zô nên chân của củ sạc bị cong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.156685,
+         "id": "1157721",
+         "field_search": "question",
+         "question": "Dung lượng khác trong bộ nhớ của máy Pantech V950 nhiều quá, xin hỏi làm sao để xóa bớt dung lượng này, xóa đi có ảnh hưởng gì không ? thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.123886,
+         "id": "820038",
+         "field_search": "question",
+         "question": " Xin hỏi, TGDĐ mình có nhận sữa iphone bị hư ổ sim không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.9664,
+         "id": "1149912",
+         "field_search": "question",
+         "question": "ad ơi em mới mua một con laptop bên mình ngày hôm qua nhưng mà hôm nay em test lại dung lượng pin thì đã bị chai mất 16% rồi ạ. trường hợp này thì em có được bảo hành không ạ hay đây là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.74314,
+         "id": "758112",
+         "field_search": "question",
+         "question": "Mình có mua iPad mini ở Thế giới di động, mình có lên hỏi nói là bị hư ổ cứng , mà máy vừa hết thời gian bảo hành vài ngày nếu đi bảo hành là bao nhiêu tiền vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.71846,
+         "id": "1163222",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng samsung J8, mình đã xóa lịch sử wifi bằng cách nhấn vào \"wifi đã lưu\" ấn \"quên\", nhưng không hiểu sao đi sửa máy về mở lịch sử ra lại thấy địa chỉ wifi mình đã xóa này. Sau đó mình thử xóa tương tự với một địa chỉ khác, nhưng nếu đăng nhập thì mình mới thấy lưu, còn không đăng nhập thì nó cũng ko lưu như trường hợp trên. Cho mình hỏi lý do với ạ, mình rất cần, Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.70296,
+         "id": "742238",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 5s 16GB, bình thường sử dụng nghe gọi lướt web thì từ sáng đến khoảng 10h đêm là hết pin. Hôm qua mình sử dụng để gọi điện trên Line bằng 3G thì chỉ được 2 tiếng là pin giảm từ 99% xuống còn 18%, như vậy có phải là pin của mình bị hư rồi không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.623825,
+         "id": "996384",
+         "field_search": "question",
+         "question": "Zalo hay bị đơ một 2 ngày lại bị mình đã làm các thao tác gỡ đi cài lại mà zalo vẫn bị đơ chắc do máy mình muốn đôi máy khác máy mình mới mua đc gần một tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.46801,
+         "id": "799826",
+         "field_search": "question",
+         "question": "mình đang sử dụng asus a540l. mới mua tại tgdd chưa được 2 tháng thì máy phát ra tiếng kêu từ ổ cứng. từ khi mở máy đến khi tắt máy. nó kêu như tiếng thiết bị gì quay, không phải quạt gió. phát ra từ ổ cứng ạ..mong qtv tư vấn sửa chữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.45525,
+         "id": "908557",
+         "field_search": "question",
+         "question": "máy lap top mới mua, nhưng trong ổ cứng khi chạy kêu kẹt kẹt vậy là bi gi?cho mình hỏi sđt anh hiếu làm kỹ thuật viên ở thế giới di dộng bên huế, bữa ảnh tư vấn cho mình, giờ mình muốn hỏi anh, về máy laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.37553,
+         "id": "1161538",
+         "field_search": "question",
+         "question": "Mình mới mua latop ở shop và muốn lắp thêm ổ SSD nhưng theo thông tin mình tìm hiểu thì thế giới di động không hỗ trợ lắp đặt. Vậy mình nên lắp ổ SSD ở đâu Hà Nội ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.26795,
+         "id": "919555",
+         "field_search": "question",
+         "question": " Tại sao mình lại không vào được cốc cốc trên lap vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.25111,
+         "id": "1167272",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua galaxy a50 khi sử dụng mạng 3g không giới hạn lưu lượng của vietnammobi lúc đầu sử dung mạng bình thường, nhưng khi đổi sim chế độ BOMSIM Vietnammobie thì mình vô mạng không được, Tắt máy khởi động lại vẫn không vào đượ.vậy có phải máy bị lỗi phầm mềm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.236534,
+         "id": "1141420",
+         "field_search": "question",
+         "question": "cho em hỏi sao bảo ổ cứng hư mà giờ ổ cứng xài được thì thế nào, bệnh vẫn hoàn bệnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.20967,
+         "id": "996411",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đang dùng con lap dell vt v3568.......giờ mình muốn thêm 1 ổ ssd với 1 thanh ram 4gb nửa thì mất khoản nhiu tiền ạ?//",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.15725,
+         "id": "771820",
+         "field_search": "question",
+         "question": "Thời gian đầu mình vẫn sài được cốc cốc. Nhưng sau khi gỡ đi cài lại thì cứ bị như này. Mình thử cài đặt lại nhiều lần mà ko được. Vào cococ không làm được gì cả. Không cài đặt hay plugin luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.94651,
+         "id": "818179",
+         "field_search": "question",
+         "question": "Mình có mua tại thế giới di động laptop lenovo v460 năm 2010,năm 2013 mình có cho bạn mượn khi đó máy bị chết ổ cứng,bạn ấy đã đi thay ở bên ngoài,nay máy tính mình có hiện tượng lỗi ổ cứng tiếp,giờ mình có thể mang đến thế giới di động sửa đc không.và phải mang đến tận nơi đã mua hay chỉ cần mang ra chi nhanh thế giới di động là đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.93729,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.91573,
+         "id": "997307",
+         "field_search": "question",
+         "question": "Chào quản trị viênHiện mình đang sử dụng điện thoại sony XA, mình có gửi tin nhắn xong thì mình xóa tin nhắn đi, những một lúc sau thì nó báo tin nhắn không được gửi đi lúc đó mình lở xóa đi, cho mình hỏi là không biết khi tin nhắn hiện lên như vậy thì nội dung tin nhắn còn không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.899506,
+         "id": "1164698",
+         "field_search": "question",
+         "question": "cho e hỏi là lúc e mới mua lap e có dán màn hình và dán toàn bộ lap mà vẫn còn trong thời hạn bảo hành mà đã bị bong tróc ko biết giờ e đem ra dán lại thì có được free ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.71003,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.66174,
+         "id": "1152002",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Mình mới mua Nokia 8.1 trong chưa tới một tuần nhưng bị lỗi. Mình có ra TGDĐ để đổi thì được một máy khác. Nhưng về thì máy này lại bị lỗi là nút bấm tăng giảm âm lượng bị lỏng có dấu hiệu khác thường so với các máy có cùng dòng và trên cảm nhận so với máy trước. Vậy thì trong trường hợp này mình có được tiếp tục đổi mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.60244,
+         "id": "1163214",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng samsung J8, mình đã xóa lịch sử wifi bằng cách nhấn vào \"wifi đã lưu\" ấn \"quên\", nhưng không hiểu sao đi sửa máy về mở lịch sử ra lại thấy địa chỉ wifi mình đã xóa này. Cho mình hỏi lý do là gì vậy, tHanks bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.43564,
+         "id": "810136",
+         "field_search": "question",
+         "question": "Chào admin , máy tính win 7 của em xài gần 3 tháng , do em tải nhiều thứ quá rồi xoá đi nên máy có hơi lad , em có nên sử dụng phần mềm cclean để xoá toàn bộ dữ liệu trên ổ C không ạ ? Nếu làm vậy có gây ra lỗi gì không ??? em chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.379326,
+         "id": "776869",
+         "field_search": "question",
+         "question": "  e lỡ cài ubuntu xog nó gộp hết ổ đĩa vào h làm sao để cài lại win ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "803012",
+   "total": 33856,
+   "total_current": 100,
+   "max_score": 177.47481,
+   "origin_question": "Em có mua 1 iphone 6s của cửa hàng Thế giới di động (đường Nguyễn Tất Thành, TP. Buôn Ma Thuột). Chỉ sử dụng chưa đầy 1 tháng, phát sinh lỗi, đem đến cửa hàng bảo hành đến nay đã 2 tuần lễ vẫn không thể biết được kết quả? Sự phục vụ như vậy không thể nào hài lòng được. Mong cửa hàng cần giải quyết và khắc phục.",
+   "hits": [
+      {
+         "score": 64.18196,
+         "id": "757267",
+         "field_search": "question",
+         "question": "Em có mua một chiếc máy tính Dell tại thế giới di động vào 20/10 năm ngoái. Đến nay thì đã hết hạn bảo hành rồi nhưng em có không may xóa 1 vài phần mềm được cài sẵn mà không biết cài lại như thế nào. Vậy em có thể mang đến cửa hàng thế giới di động và nhờ cửa hàng sửa giúp không ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.041775,
+         "id": "1012643",
+         "field_search": "question",
+         "question": "em có mua vài sản phẩm được bảo hành 1 năm nhưng hiện nay đã bị trục trặc, vậy liệu em có thể đem đến cửa hàng đổi mới được không ạ. thiết bị của em có 1 vài trầy xướt do sử dụng, rơi rớt thì vẫn được bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.10096,
+         "id": "777998",
+         "field_search": "question",
+         "question": " Còn hàng iPhone 5s tại các cửa hàng Buôn Ma Thuột không? 090597xxxx ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.504807,
+         "id": "1015520",
+         "field_search": "question",
+         "question": "Chào anh chị. Em có mua tai nghe ở một cửa hàng của Thế Giới Di Động. Nhưng giờ tai nghe của em có lỗi. Vậy em phải đem ra cửa hàng em đã mua hay một cửa hàng khác của hệ thống để được bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.482956,
+         "id": "905778",
+         "field_search": "question",
+         "question": "Em có nhờ thế giới di động chạy lại phần mềm Iphone 5S, nhưng không biết sao khi mang máy ra cửa hàng là máy phiên bản quốc tế, khi cửa hàng trả lại thành máy phiên bản lock. Đây là lỗi hoàn toàn ở phía cửa hàng. Vậy TGDĐ sẽ giải quyết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.44085,
+         "id": "1019411",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại của tôi là ip6s đang bị lỗi mà không mua tại cửa hàng của thế giới di động vậy tôi có thể gửi cửa hàng để bảo hàng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.15259,
+         "id": "997010",
+         "field_search": "question",
+         "question": "Cho em hỏi, e mang dt đến cửa hàng tgdd bảo hành, e có được mượn dt của cửa hàng để sử dụng trong thời gian dt e bảo hành không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.686527,
+         "id": "993190",
+         "field_search": "question",
+         "question": "mình mua hàng ở cửa hàng thế giới di động bên TP.HCM và giờ hàng bị lỗi mình bảo hành ở bất kì cửa hàng thế giới di động nào trên toàn quốc được đúng k ạ ? mình hiện đang ở Biên Hòa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.27159,
+         "id": "1168180",
+         "field_search": "question",
+         "question": "Chào Thế Giới Di Động, mình được người thân cho một chiếc điện thoại samsung, mà mình cất 1 năm rồi mới đưa ra sử dụng, và thật sự không nhớ đã mua ở shop nào, nên không thể nhờ kích hoạt bảo hành samsung được, không biết các cửa hàng bên  Thế Giới Di Động, có thể giúp mình kích hoạt nếu mình đưa điện thoại ra không ạ? Xin cám ơn thông tin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.752556,
+         "id": "1016657",
+         "field_search": "question",
+         "question": "5 tháng trước em vừa mới mua một cái tai nghe giá 150k, cách nay 1 tháng em cái tai nghe chỉ còn nghe được 1 bên, nên em đã đến cửa hàng tgdđ để bảo hành và được đổi cai tai nghe mới, nhưng hôm nay cai tai nghe mới lại bị hư, em không biết có bảo hành được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.060143,
+         "id": "1005018",
+         "field_search": "question",
+         "question": "Chào QTV! Em muốn hỏi là điện thoại J5 của em mua từ tháng 12 năm ngoái vậy bây giờ còn được bảo hành không ạ?Hiện tại điện thoại của em đang gặp lỗi camera sau bị mờ vậy em có thể mang đến cửa hàng của thế giới di động để bảo hành được không? Nếu hết bảo hành rồi thì chi phí sửa chữa như thế nào ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.474148,
+         "id": "1156162",
+         "field_search": "question",
+         "question": "Điện thoại Samsunggalaxy A7 của mình bị rơi xuống nước, vậy khi mang đến cửa hàng Thế Giới Di Động có được sửa chữa khôgn vậy? Khi mang đi sửa có cần mang giấy bảo hành không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.02892,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.302147,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.252,
+         "id": "1160463",
+         "field_search": "question",
+         "question": "hi addmin. hiện tại dt A50 của mình mua ngày 23/3 đến nay chưa được 1 tháng. nhưng mình thấy có hiện tượng. cắm sạc có lúc nhận lúc không nhận. nếu đem lại cửa hàng nơi mình mua sau kiểm tra nếu phát hiện lỗi thì có thể đổi lại được không. vì điiện thoại mới mình không đòng ý với việc để lại bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.89406,
+         "id": "1023715",
+         "field_search": "question",
+         "question": "Xin chào.Cho mình xin hỏi mình có mua 1 điện thoại samsung j7prime ở thế giới gì động. Đến nay đc 9 tháng. Giờ mình muốn bán lại cho cửa hàng thế giới di động. Có được không ạ.Ad trả lời nhanh cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.58897,
+         "id": "799172",
+         "field_search": "question",
+         "question": "Ôi có mua ở siêu thị Thế Giới Di Động sao đỏ chí linh hải dương một chiếc iphone 6s 64gb ngày 22-11-2015 sử dụng 2 tháng đầu rất ổn định ,sang tháng thứ 3 có hiện tượng tụt pin rất nhanh,tôi gửi đi bảo hành mất 2 tuần thì tôi nhận về dùng thì vẫn bị như vậy,tôi lại mang ra siêu thị Thế Giới Di Động lần thứ 2 vẫn chưa được,tôi sạc 100% lúc 2h chiều không lắp sim và không dùng để trong tủ đến 9h sáng hôm sau thì tắt nguồn ,nếu dùng thời gian rất ngắn tôi lại mang ra cửa hàng lần nữa thì yêu cầu bảo hành lần 3 (số lần sửa c) vậy tôi còn phải bảo hành đến bao giờ nữa thì được Thế Giới Di Động cho tôi biết.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.405277,
+         "id": "761232",
+         "field_search": "question",
+         "question": "Mình mua máy iPhone 4S của thế giới di động, máy sài iOS 9, mình muốn hạ từ iOS 9 xuống iOS 8 mình có thể đến cửa hàng nhờ cài đặt lại được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.26771,
+         "id": "829424",
+         "field_search": "question",
+         "question": "tôi lúc trước có mua laptop asus bên phía cửa hàng và giờ máy tính của tôi phần touchpad lúc mua thì còn xài được nhưng sau vài tháng thì bỗng dưng không thể sử dụng được tiếp .Không biết phải làm sao để sửa lại lỗi mong nhờ nhân viên kĩ thuật có thể trả lời giúp vì hiện tại tôi chưa có thời gian ra cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.232483,
+         "id": "991696",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là mình có dán bảo vệ với cường lực bên thế giới di động dán bảo hành...vậy bảo hành có áp dụng dc ở những cửa hàng của thế giới di động khác không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.91817,
+         "id": "775744",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6s tại cửa hàng thế giới di động, vừa mới phát hiện có tiếng động lạ. Khi để gần tai lắc nhẹ thì có những tiếng động giống như những linh kiện bên trong điện thoại bị lỏng. Cho mình hỏi có thể đổi máy được không hoặc khắc phục bằng cách nào ? Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.800163,
+         "id": "1001725",
+         "field_search": "question",
+         "question": "chào cửa hàng ạ. 3 tháng trước laptop em cập nhập win nhưng bị lỗi, em cầm laptop ra cửa hàng thế giới di động để chạy lại win. nhưng cửa hàng chỉ chạy win có bản quyền là 90 ngày. và giờ đã hết hạn đồng thời laptop cũng rất hay tự sập nguồn . vậy cho em hỏi lý do vì sao? và em cũng nhắn rất nhiều đến công ty nhưng không thấy hồi đáp gì bên cửa hàng, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.490128,
+         "id": "989061",
+         "field_search": "question",
+         "question": "em có mua iphone 5s tại cửa hàng nhưng đã hết thời hạn bảo hành. iphone của em bị hư cảm biến và móp viền em có thể sữa ở đó được không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.451385,
+         "id": "1002575",
+         "field_search": "question",
+         "question": "em năm sau mới lên lớp 10, em có thể vào cửa hàng thế giới di động không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.424828,
+         "id": "1143792",
+         "field_search": "question",
+         "question": "Minh ở -cao thượng -tân yên bắc giang. minh muon mua ipad wifi 32GB(2018) thì đến cửa hàng thế giới di động  nào gần nhất có thể mua dươc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.31351,
+         "id": "1002705",
+         "field_search": "question",
+         "question": "Mình mua 1 thẻ nhớ MicroSD 8GB class 4 mới gắn ngay vào máy tại của hàng Thế giới di động ngày 19/2/2017Đến nay mình mới phát hiện rằng thẻ này ko hoạt động ngay từ khi mới dùng. Mình vẫn còn giữ bill.Hỏi hướng giải quyết bảo hành của bên thế giới di động.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.09945,
+         "id": "1004212",
+         "field_search": "question",
+         "question": "Ví dụ như hàng mua online thì mình đến thẳng cửa hàng mua được không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.987812,
+         "id": "775628",
+         "field_search": "question",
+         "question": "TGDD cho em hỏi em bảo hành iphone 5s đã lâu rồi mà vẫn chưa được lấy máy mong TGDD giải quyết giúp em với em bảo hành hôm 2/01/2016 tới giờ vẫn không có kết quả gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.864784,
+         "id": "985821",
+         "field_search": "question",
+         "question": "Tôi tên là Võ Phúc Gia Linh, sinh năm 1998, hiện tại là sinh viên của trường Đại học Sư phạm Thành phố HCM, vốn dĩ tôi luôn mua sản phẩm tại cửa hàng thế giớ di động nhưng khi gặp rắc rối về vấn đề kỉ thuật tôi mới nhận ra rằng dịch vụ chăm sóc khách hàng của thế giới di động không tốt như tôi nghĩ. Vì tôi cũng không rành về kỉ thuật cho lắm nên tôi chỉ có thể giới thiệu tôi đang sử dụng máy Acer cùa hãng, hiện tại còn bảo hành, và tôi gặp một số rắc tối nhỏ là phần chuột chỗ cảm ứng không nhạy và không mở ổ đĩa đươc, tôi đến cửa hàng thế giới di động chi nhánh Nguyễn Tri Phương đễ bảo hành máy, tôi đã nói với nhân viên về các vấn đề của máy, họ nói với tôi là hõ sẽ gữi máy tới hãng đễ sữa chữa và bảo tôi chờ. Vài ngày sau đó, họ gọi tôi tới lấy máy, họ nói với tôi là \"máy của chị không có ổ đĩa\", tôi chấp nhận vì tôi không rành về máy tính, nhưng khi tôi kiểm tra máy, tôi thấy phần cảm ứng của chuột vẫn như cũ không được nhạy (cũng có thể nó là, nó thích thì nó chạy, nó không thích thì thôi, nhưng khi cắm chuột không dây vào thì vẫn bình thường), tôi đến lấy máy nhưng về cơ bản là họ chẳng sữa chữa gì cả, tôi phản ánh lại với họ, nhưng lúc đó, máy tính của tôi hết pin nên họ phải tìm cục sạc đễ sạc máy rồi mới tính tiếp, và trên thực tế. Tôi ngồi đó, đợi 1 tiếng đồng hồ và chẳng có 1 lời giải thích nào từ nhân viên, đến khi tôi đòi gặp quản lí thì mới có người tới, nói là họ phải gữi máy về hãng 1 LẦN NỮA đễ kiễm tra lại máy. Tôi đồng ý. Nhưng vài ngày sau, bên hãng gọi cho tôi và nói với tôi rằng, có thể ngày 6/6 máy của t mới sữa xong. Vì đang trong kì thi nên tôi không thể không có máy tính, tôi đề nghị họ gửi trã máy tính lại cho tôi. Thiết nghĩ, nếu như không có sự tắc trach của lần đầu tiên thì máy tính của tôi chắc hẳn đã được sửa xong. Hiện tại, máy của tôi vẫn còn bảo hành, nhưng tôi đã không còn lòng tin với thế giới di động nữa. Máy của tôi, bây giờ không những hư về phần cảm ứng, mà sau khi gữi hãng 2 lần thì nó còn chạy chậm, hư phần mềm, cả Word2010 cũng chạy không nỗi. Còn về thái độ phục vụ khách hàng bên chi nhánh TGDĐ Nguyễn Tri Phương thì quá là tệ. Có thể, người quản lí, làm cao, chức cao, có quyền lực nhưng thực chất người gần với khách hàng là nhân viên, người quản lí có giỏi đến thế nào thì người giữ chân khách hàng là nhân viên, không phải quản lí, và nhân viên co đối xữ tốt với khách hàng không thì chỉ có họ biết, khách hàng biết, khách hàng thất vọng, bỏ đi, cũng chẵng phản ánh với quản lý, tôi nghĩ có một phần khách hàng là như thế. Nếu như hỏi tôi, sau sự việc này, có muốn đến TGDĐ bảo hảnh nữa không, thì tôi không chắc là sẽ trả lời có, vì cả dịch vụ của nhân viên và cách làm việc của hãng tôi không hài lòng, Thôi thà sử dụng máy lag còn hơn đến bảo hảnh một nơi mà thái độ phục vụ khách hàng không có như vậy. Thân ái.- SĐT của tôi là 01867334XXX.- Số điện thoại bảo hành máy là 01867334XXX.- Gmail là gialinhXXX@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.855553,
+         "id": "780267",
+         "field_search": "question",
+         "question": " Em có mua củ sạc iPhone 4S mua từ hệ bảo hành sạc không và em có thể ra cửa hàng kiểm tra đổi được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.745445,
+         "id": "1002563",
+         "field_search": "question",
+         "question": "Chào TGDĐ, con SS C9 Pro của mình xài hơn 1 tháng thì bị vấn đề: tự động bật loa ngoài khi thực hiện cuộc gọi. Mình đã đem đến cửa hàng TGDĐ nhờ hỗ trợ kỹ thuật 2 lần rồi mà vẫn như vậy. Hiện tượng này bị cách đây 1 tuần rồi. Help!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.698425,
+         "id": "1005233",
+         "field_search": "question",
+         "question": "Xin chào! Mình có mua 1 laptop Dell Inspiron 15-3552 ở cửa hàng vào tháng 2/2017, hiện tại mình muốn bán lại, ko biết cửa hàng thu lại với giá thế nào? Mình đã mất hóa đơn, cửa hàng có thu lại dc ko?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.60917,
+         "id": "1014435",
+         "field_search": "question",
+         "question": "Hôm trước e có mang đt ra cửa hàng để sữa. Mà về vẫn gặp tình trạng nv. Đt e mới mua chưa được 1 tháng có thể 1 đổi 1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.16991,
+         "id": "838485",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6s full box còn bh của thế giới di động mà tai phone lắc bị kêu vậy cho mình hỏi bên cửa hàng có bảo hành tai nghe ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.10846,
+         "id": "1142319",
+         "field_search": "question",
+         "question": "Điện thoại Vsmart Joy 1 3GB32GB Đen có mấy sim? Máy có sẵn hàng tại các cửa hàng thế giới di động không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.99102,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.91479,
+         "id": "1010426",
+         "field_search": "question",
+         "question": "Ad cho em hỏi về bảo hành của sạc pin? E mới mua điện thoại tại cửa hàng thế giới di động dc hơn tháng. Máy xiaomi 4x",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.81194,
+         "id": "1158423",
+         "field_search": "question",
+         "question": "Mình mới mua 1 con nokia 8.1 bên cửa hàng khoảng 1 tháng thì thấy sóng wifi và 4g yếu đi rất nhiều .shop cho mình hỏi vấn đề này đem lên cửa hàng kiểm tra hay như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.662716,
+         "id": "797824",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop của em không có bảo hành tại thế giới di động nhưng cần cài lại từ đầu phần mềm vì nó bị lỗi không thể decovery được, em có thể đem máy đến đó để cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.585125,
+         "id": "885338",
+         "field_search": "question",
+         "question": "em có mua iphone 5s ở TGDD, em mua ở cửa hàng TGDD Vật Lại - Ba Vì, giờ em đang ở Hà Nội, em có thể ra cửa hàng TGDD ở trên này để thay miếng dán được không ạ, em vẫn đang được bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.556095,
+         "id": "996551",
+         "field_search": "question",
+         "question": " Mình mua a9 pro tại cửa hàng dùng chưa dc 1 năm đã mất chức năng sạc nhanh rồi. Khắc phục ra sao vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.528862,
+         "id": "1007064",
+         "field_search": "question",
+         "question": "ad cho e hỏi. hôm 14 e có mang máy đi bảo hành do máy và dây sạc cháy nổ... thì e đãng gửi máy và dây sạc trước và nhận phiếu rồi về. và sau mấy tiếng thì bên cửa hàng kêu em đem củ sang qua để đem đi bảo hành. nhưng đến hôm nay là 26 thì bên trung tâm bảo hành lại bảo e chưa gửi củ sạc. cần có củ sạc mới bảo hành được. vậy thì bây giờ xử lý sao ạ. đã đc 15 ngày rồi... vậy bây giờ lên xử lý ra sao ad. công việc thì cần dùng đến điện thoại mà bên cửa hàng vẫn bắt e chờ... chưa nhận lỗi....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.512333,
+         "id": "765633",
+         "field_search": "question",
+         "question": "Không biết cửa hàng thế giới di động có đổi các điện thoại không ý em là bây giờ em đang dùng iphone 5s 16g muốn lên iphone 6s 64g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.479733,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.445515,
+         "id": "1160850",
+         "field_search": "question",
+         "question": "Mình có mua samsung note 5 tại thế giới di động và đã hết bảo hành. Máy ngày hôm nay tự nhiên bị liệt cảm ứng ở 4 góc màn hình. Nhưng hiện tại mình chưa mang được đến kiểm tra. Không biết có mẹo khắc phục tạm thời nào không? Và mình muốn hỏi đối với máy của mình nếu đem sửa chữa tại thế giới di động với lỗi kể trên thì giá thành sửa chữa khoảng bao nhiêu tiền? Mình xin cảm ơn và mong phản hồi từ công ty.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.368496,
+         "id": "749496",
+         "field_search": "question",
+         "question": " Cửa hàng thế giới di dộng ở Thái Hà đã có bản 6s plus 128gb màu vàng hông chưa ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.322357,
+         "id": "1002352",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại OPPO A37 tại cửa hàng Thế giới di động chi nhánh Thị trấn Đông Hưng- Thái Bình vào tháng 8/2016, hiện tại tôi phát hiện điện thoại bị lỗi màn hình. Vậy tôi còn được kiểm tra và bảo hành k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.30558,
+         "id": "1139748",
+         "field_search": "question",
+         "question": "Muốn mua Atice 1 ở đâu, đã có ở TP Buôn mÊ Thuột chưa v sop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.299694,
+         "id": "1151767",
+         "field_search": "question",
+         "question": "Chào AdminMình cần mua 1 chiếc iPhone 7 plus mà mình hiện nay đang ở tại thị xã Giá Rai, Bạc Liêu vậy cửa hàng thế giới di động tại thị xã Giá Rai có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.28674,
+         "id": "882879",
+         "field_search": "question",
+         "question": "Em có máy iphone 6s mua tại cửa hàng apple ở trung quốc liệu về việt nam có được hưởng chế độ bảo hành khi qua thế giới di dog k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.264275,
+         "id": "1162957",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện e đang trả góp ở 1 cửa hàng khác và đi đống tiền trả góp ở cửa hàng the giới di động khác được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.204494,
+         "id": "959485",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, laptop của em chưa cài đặt word 2010, power point 2010, excel 2010 và vài chương trình khác. vậy em đem máy ra cửa hàng thế giới di động để cài cho máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.18458,
+         "id": "1013473",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi.em có mua 1 sản phẩm đã qua sử dụng tại thế giới di động huyện hòa bình tỉnh bạc liêu hiện tại em không thích sản phẩm đó nữa thì có được áp dụng hình thức đổi trả không sản chỉ mới mua 4 ngày thôi hóa đơn hộp phụ kiện của sản phẩm còn đầy đủ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.868637,
+         "id": "994011",
+         "field_search": "question",
+         "question": "tôi có đặt 1 thẻ nhớ 16gb nhưng hôm nay tô bận nên cửa hàng có thể giữ đến mai đc kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.848,
+         "id": "824785",
+         "field_search": "question",
+         "question": " cho em hỏi cửa hàng có dịch vụ vệ sinh laptop không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.764805,
+         "id": "1148597",
+         "field_search": "question",
+         "question": "Em có đặt online oppo f7 đến tại cửa hàng để lấy mà ko biết đã đặt thành công chưa thì kiểm tra ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.712406,
+         "id": "1008100",
+         "field_search": "question",
+         "question": "Chào TGDD : em chuẩn bị mua điện thoại bên cửa hàng. vậy nếu em chọn đặt hàng trước trên website của TGDD thì em có được giảm 40% khi mua các phụ kiện khác không ạ? và em đặt hàng trên website em có thể đến cửa Hàng để kiểm tra lại điện thoại . hay là bên của Hàng giao qua bên em rồi em mới kiểm tra. em muốn đến của Hàng kiểm tra ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.63998,
+         "id": "995742",
+         "field_search": "question",
+         "question": "Tôi đã có sim 4g và tôi có thể đăng kí gói cước của Sim GÔ GÔ 4G được ko vậy? Hay là phải đến cửa hàng để mua sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.630413,
+         "id": "1134369",
+         "field_search": "question",
+         "question": "Em đã lỡ tay xoá Cửa hàng CH play, giờ chỉ còn dịch vụ của Google Play. Làm sao để lấy lại Cửa hàng CH play vậy? Trước khi em xoá thì màn hình chính cũng không còn biểu tượng mặc dù trong cài đặt vẫn còn cả Cửa hàng CH play và Dịch vụ của Google Play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.606064,
+         "id": "797969",
+         "field_search": "question",
+         "question": "mình định mua iphone 6s plus hàng qua sử dụng bị trầy sước, vậy mình có được bảo hành 1 đổi 1 nếu bị lỗi phần cứng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.527077,
+         "id": "834858",
+         "field_search": "question",
+         "question": "chào ad . em mới mua latop đc hơn 2 tuần . lỗi win thế em ra cửa hàng cài đc ko ạ . ( win 10 pro . )- và tiện thể cho em hỏi . thằng em của em mua máy ở cửa hàng khác. thế thegioididong có nhận cài win cho máy không phải thegioididong kinh danh không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.458965,
+         "id": "1160479",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu em đã đặt hàng tại tgdd (vì cửa hàng báo tạm hết hàng), nhân viên bảo đã đặt hàng thành công và sẽ chuyển hàng về trong 7 ngày, em chỉ cần đợi đt gọi về và ra cửa hàng nhận máy thôi, nhưng hiện tại em muốn hủy đặt hàng thì còn hủy được không ạ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.430088,
+         "id": "794536",
+         "field_search": "question",
+         "question": "mình mua điện thoại iphone 5s hôm 1/2 tại cửa hàng thế giới di động ở thôn Tràng An, thị trấn Chúc Sơnhienej tại máy của mình khi có người gọi tới,1 lúc sau mình chưa bắt máy thì máy tối lại(vẫn còn nhạc chuông), mình nhấn mở máy lên, vẫn còn nhạc chuông mà ko mở ra được cuộc gọi để nhận trả lời. máy mình như vậy là bị làm sao và mình phải mang đến đâu bảo hành được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.405933,
+         "id": "987503",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, nếu mình muốn nâng cấp máy tính mà không mất bảo hành thì mình đem máy tính đến cửa hàng để cửa hàng gửi lên trung tâm bảo hành phải ko ạ?? vậy nếu vậy thì phải khoản bao lâu thì xong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.33362,
+         "id": "1006048",
+         "field_search": "question",
+         "question": "Tôi có mua 1 máy sam sung j2 prime ở thế giới di động pơngdrang-krong buk -dak lak khoảng 1 tháng.trong quá trình sử dụng có bị rơi từ túi quần ra . Và bị nứt nhẹ mặt kính và móp sườn nhẹ. Tôi muốn thay thế mặt kính và sườn thì làm như thế nào ạ . Hiện tôi đang ở thành phố buôn mê thuật công tác và k thể về nơi mua hàng được . Mong được sự trả lời từ hỗ trợ viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.206535,
+         "id": "1136417",
+         "field_search": "question",
+         "question": "cho mình hỏi cửa hàng thế giới di động có dán cường lực của iphone 7 không?Nếu có thì giá như thế nào ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.10826,
+         "id": "958854",
+         "field_search": "question",
+         "question": "XIN HỎI EM MUỐN KIỂM TRA MÁY IP 6S HÔM TRƯỚC MUA BÊN MÌNH CÒN BẢO HÀNH BAO LÂU MÀ K CẦN ĐẾN CỬA HÀNG THÌ EM LÀM CÁCH NÀO Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.09614,
+         "id": "890017",
+         "field_search": "question",
+         "question": " Cho em hỏi, laptop em mới mua 2 ngày nhưng đã bị lỗi win, bên cửa hàng có hỗ trợ khắc phục k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.05031,
+         "id": "1141971",
+         "field_search": "question",
+         "question": " huawei y7 pro 2019 hiện đã có bán ở các cửa hàng thế giới di động cả nước chưa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.01935,
+         "id": "1020277",
+         "field_search": "question",
+         "question": "Cho hỏi là mình đã đến cửa hàng để đặt cọc sp zenfone 4 max promình có thể lấy lại cọc và không nhận hàng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.006092,
+         "id": "1003725",
+         "field_search": "question",
+         "question": "ad cho e hỏi dt samsung bị hư loa còn bảo hành, e mang đến cửa hàng samsung có cần đem theo chứng minh k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.83116,
+         "id": "1019937",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua trả góp điện thoại Oppo F3 Plus, dùng được 3 tháng, mình làm rơi xuống nước và trung tâm bảo hành yêu cầu sửa hết 7 triệu, nên mình quyết định không sửa và muốn bán lại xác điện thoại này có được không, cửa hàng thế giới di động có mua lại được không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.72258,
+         "id": "1169033",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng chiếc iphone 6s , nhưng theo tôi quan sát chiếc điện thoại của tôi không thể tự động ngắt pin khi sạc đầy nữa , vậy như thế sẽ có ảnh hưởng gì lớn đến điện thoại không? và có thể khắc phục không? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.64919,
+         "id": "837089",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới thay pin cho iphone 4 mà sao cứ sạc đầy 100% để k xài là nó rớt xuống 90% sử dụng thì rớt lần 2% e tưởng pin lỗi đem ra cửa hàng đổi lại pin khác vẫn vậy mấy a chỉ e cách khắc phục đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.50551,
+         "id": "787841",
+         "field_search": "question",
+         "question": "Ad cho em hỏi :Lúc em mới vừa mua 1 cái ipad air 2 cellular 16GB vào ngày ( 17-01-2016 ) và em cũng đã đăng kí sim mobifone tại thế giới di động với dịch vụ 3G . Nhân viên thế giới di động nói là '' dịch vụ 3G tháng này được sử dụng miễn phí , tháng sau em mới cần nạp 50.000 đồng vào tài khoản của mình để được gia hạn tiếp gói dịch vụ nhé'' .Đến ngày ( 16-02-2016 ) do em không biết cách nạp tiền bằng ipad nên em đã rút thẻ sim ra và bỏ sim vào 1 máy khác em nạp thẻ cào 50.000 đồng vào tài khoản. Nhưng đến giờ máy của em vẫn chưa có mạng 3G.Mong Ad hổ trợ giúp em đến bây giờ em máy em vẫn chưa có mạng 3G.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.488846,
+         "id": "1023869",
+         "field_search": "question",
+         "question": "Tại các cửa hàng thế giới di động có làm sim hư lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.480213,
+         "id": "832655",
+         "field_search": "question",
+         "question": "Tôi có gửi đi bảo hành điện thoại iphone 5s 16gb gold. Lúc cửa hàng nhận mái vẫn mở nguồn, màng hình bình thương,.. nhưng khi trả máy thì báo là máy không nguồn, không màng hình, máy hở viền năng.., nên tôi đã nhiều lần khiếu nại nhưng, chưa giải quyết, về trường hợp nay, mong qtv giải quyết rõ giup khách hàng chúng tôi, cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.418457,
+         "id": "1001004",
+         "field_search": "question",
+         "question": "Pin điện thoại qmobi vista của em bị nở vậy có thể nhờ cửa hàng chuyển vào hãng để thây pin được không ạ. Điện thoại mua ở cửa hàng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.259666,
+         "id": "1023287",
+         "field_search": "question",
+         "question": "cho mình hỏi Sony M4 aqua xài một thời gian bị chậm mình đã thử khôi phục cài đặt gốc nhưng không cải thiện vậy mình có thể đem tới cửa hàng chạy lại chương trình được không và giá cả như thế nào ạ . cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.119026,
+         "id": "1012421",
+         "field_search": "question",
+         "question": " e cần thông tin của một người mua hàng của thế giới di động đã từng góp đt.h có thể cho e pít được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.11127,
+         "id": "1157498",
+         "field_search": "question",
+         "question": "Laptop của e mua trả góp tại cửa hàng mình,  nhưng do loa của máy 1 bên bị rè vậy e có được nhận bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.08963,
+         "id": "788178",
+         "field_search": "question",
+         "question": "QTV cho em hỏi tại cửa hàng TGDD số 1-3 đường Hùng Vương, tổ dân phố 2, Phường Ngô Quyền, TP Bắc Giang còn iPhone Plus 16G màu Gold không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.01263,
+         "id": "783427",
+         "field_search": "question",
+         "question": " Iphone 6s plus tôi mua ở thế giới di động hơn 1 tháng mặt sau tự tróc sơn có được bảo hành không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.931393,
+         "id": "1155350",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua laptop hp pavilion 14 ce1011tu i3 8145u tại của hàng ở đường Nguyễn Du - Bình Dương. sử dụng khoảng 3 tiếng thì loa bị rè. loa ngoài và cả microphone. máy không hề có va đập, chưa bị trầy xước. vậy máy mình bị lỗi gì và  khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.92817,
+         "id": "1142380",
+         "field_search": "question",
+         "question": "xin chào, tôi muốn mua 1 chiếc điện thoại cũ từ tỉnh thành khác, vậy các bước đặt mua để chuyển điện thoại về cửa hàng TGDD gần nhà như thế nào? Các bạn có thể hướng dẫn được chứ? xin gửi câu trả lời đến gmail của tôi, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.92061,
+         "id": "988930",
+         "field_search": "question",
+         "question": "cho hỏi trong lúc mua iphone hoặc ipad ở thế giới di động mình có được check imei tai cửa hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.91532,
+         "id": "1011870",
+         "field_search": "question",
+         "question": "em đang sử dụng Galaxy note 3 N9002 do vọc máy nên bây giờ máy đang bị treo logo nhưng vẫn vào được download mode và recovery mode nếu em mang ra cửa hàng thế giới di động để sửa thì cửa hàng có nhận sửa không ạ, và nếu có thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.902645,
+         "id": "941636",
+         "field_search": "question",
+         "question": "Tôi mua 1 iphone 5s tại cửa hàng. Sau khi dùng 1 thời gian. Chiếc điện thoại của tôi hay bị loạn cảm ứng. Vậy xin hỏi tôi có được đổi lại không. Tôi còn đầy đủ phiếu bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.884933,
+         "id": "1150550",
+         "field_search": "question",
+         "question": "Em có chiếc điện thoại Sony M4 Aqua hiện tại bị sập nguồn và đã hết bảo hành. Không biết là đem ra cửa hàng thì cửa hàng có sửa chữa không ạ vì em mua ở hệ thống thế giới di động nhà mình? Và nếu em gửi cho nhân viên kỹ thuật xem xét qua trước và báo giá trước thì em mới có chấp nhận sửa hay không thì được không ạ? Hay là sửa xong hết rồi mới báo giá ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.78375,
+         "id": "1001398",
+         "field_search": "question",
+         "question": "Chào ad, tháng 4/2017 mình có mua tai nghe maxell bên TGDD ở Trường Chinh. Hiện nay tai nghe mình bị điếc 1 bên tai, nhưng mình không giữ vỏ hộp và hóa đơn(phụ kiện kèm theo vẫn đầy đủ), mình có thể đem ra cửa hàng và đổi lại tai nghe mới với chính sách 1 đổi 1 trong vòng 12 tháng như mình dc tư vấn ban đầu khi mua hàng dc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.617867,
+         "id": "1135076",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại realme 2 có bán trên toàn bộ cửa hàng thế giới di động không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.56846,
+         "id": "1014259",
+         "field_search": "question",
+         "question": "Nếu em có mua miếng dán điện thoại bên ngoài nhưng ngại tay không dám dán, em có thể đến cửa hàng nhờ dán hộ được không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.533688,
+         "id": "1134092",
+         "field_search": "question",
+         "question": "cho em hỏi realme c1 có bán trên cửa hàng thế giới di động ko ạ... hay chỉ mua online thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.52966,
+         "id": "1165334",
+         "field_search": "question",
+         "question": "Tks MOD, trường hợp cap sạc đã sử dụng khoảng 3 tháng mới gặp vấn đề không sạc được nữa bên cửa hàng có hỗ trợ bảo hành ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.48907,
+         "id": "1013923",
+         "field_search": "question",
+         "question": "cho em hoi nếu em mua thể gate 1 triệu tại thế giới di động nếu vậy em ra ngân hàng đổi lại được không và nếu đổi thì đổi ngân hàng nào và có tính phí không.em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.457886,
+         "id": "902261",
+         "field_search": "question",
+         "question": "Mình có 1 máy Ip7 128gb Vàng Hồng, mới active được 1 tháng, giờ mình muốn bán lại, cửa hàng mình có thể trả giá bao nhiêu được? Hàng Singapore!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.374928,
+         "id": "1160550",
+         "field_search": "question",
+         "question": "ipad wifi 4g 2018 minh mua ở trần anh cách đây 3 tuần mà sao k sạc bằng củ sạc của ó được, ngay từ lúc đầu đã không sạc được, mình đã đi bảo hành, đx nhận sạc mới, đã text thử tại cửa hàng, nhưng đến hôm nay lấy ra sạc vẫn không vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.22677,
+         "id": "798585",
+         "field_search": "question",
+         "question": "Tôi mơi mua lại 1 chiếc điện thoại ip5s của người quen,người ấy nói là mua ở thế giới di động và đưa hóa đơn ra. Nhưng tôi k biết có phải mua ở thegiodidong thật không. Vậy tôi viết tin nhắn này mong cửa hàng xác nhận giúp tôi. Dưới đây là ảnh phiếu mua hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.213795,
+         "id": "1158670",
+         "field_search": "question",
+         "question": "Mình mới mua samsung a7 2018 tại cửa hàng, và được khuyến mãi 1 phiếu mua hàng trị giá 500k.  Vậy bây giờ mình mua đồng hồ thông minh tại cửa hàng thì có dùng được phiếu này không.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

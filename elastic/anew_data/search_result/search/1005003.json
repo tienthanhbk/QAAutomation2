@@ -1,0 +1,801 @@
+{
+   "id_query": "1005003",
+   "total": 30454,
+   "total_current": 100,
+   "max_score": 40.147606,
+   "origin_question": "cho tôi hỏi mình đặt mua online thì bao h nhận được hàng ?",
+   "hits": [
+      {
+         "score": 21.687588,
+         "id": "996482",
+         "field_search": "question",
+         "question": "Cho em hỏi em đặt hàng online thì khi nhận hàng cần mang theo những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.880472,
+         "id": "1012721",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi đặt mua hàng online thì coupon giảm giá sẽ được sử dụng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.745966,
+         "id": "1011605",
+         "field_search": "question",
+         "question": "Cho mình hỏi đơn hàng  online chuột máy tính của mình ngày mai là ra cửa hàng nhận được rồi phải không ạ?số điện thoại đặt hàng 0967971192",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.263334,
+         "id": "1023584",
+         "field_search": "question",
+         "question": "Em muốn hỏi chương trình mua online l, mình đặt mua nhận ở cửa hàng. Vậy em có được xem và lựa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.601082,
+         "id": "1158142",
+         "field_search": "question",
+         "question": "cho mình hỏi Huawei Mate 20 Pro, mình thấy báo đặt hàng online thì được giảm 3tr, trừ vào giá SP, vậy giá SP là bao nhiu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.476913,
+         "id": "997937",
+         "field_search": "question",
+         "question": "nếu mua hàng online thì mấy tiếng là nhận đc hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.440683,
+         "id": "994611",
+         "field_search": "question",
+         "question": "ủa cho mình hỏi hôm wa mình có đặt mua 1 đt J7 Prime , mình vừa đặt online xong thì thấy báo là nhận đc phiếu mua hàng giảm giá tại vuivui mà sao bên vuivui kiem tra nói ko có vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.283617,
+         "id": "1143676",
+         "field_search": "question",
+         "question": "cho hỏi với sản phẩm vsmart joy 1 mình vừa nhận được phiếu mua hàng bồi thường do không có máy giao như lịch hẹn, phiếu có giá 200k. Có áp dụng đặt hàng online với các sản phẩm đang giam giá rồi hôm sau đến nhận hàng và trả bằng phiếu mua hàng được không được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.461803,
+         "id": "997583",
+         "field_search": "question",
+         "question": "T thấy bên cửa hàng đang bán giảm giá tai nghe khi mua online. V giờ t đặt hàng online rồi trực tiếp đến cửa hàng nhận có dk k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.31898,
+         "id": "1023012",
+         "field_search": "question",
+         "question": "cho hỏi đặt mua cộng cáp iphone online mà báo thứ bảy 23/9 mới nhận hàng, không thể nhận sớm hơn sao vì đang cần gấp, mà chi nhánh đó cũng đang còn hàng mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.259022,
+         "id": "1160456",
+         "field_search": "question",
+         "question": "cho e hỏi nếu đặt hàng online thì sẽ giao hàng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.863712,
+         "id": "1004212",
+         "field_search": "question",
+         "question": "Ví dụ như hàng mua online thì mình đến thẳng cửa hàng mua được không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.797962,
+         "id": "1022888",
+         "field_search": "question",
+         "question": "Mình có đặt mua online 1 USB ở Siêu thi xã cổ đông,  sơn Tây, hà nội mà ko thấy gọi nhận hàng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.773384,
+         "id": "1022972",
+         "field_search": "question",
+         "question": "em có mua chuột có dây bên mình, mặt hàng chỉ bán online, bây h em hủy mặt hàng cũ và mua mặt hàng mới thì phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.740812,
+         "id": "881818",
+         "field_search": "question",
+         "question": "Em vừa hẹn đặt online Iphone 6 Plus 16G. Em ra nhận ở cửa hàng chi nhánh 291 Nguyễn Văn Cừ thì nhanh nhất là bao giờ em có thể ra nhận ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.526781,
+         "id": "1139807",
+         "field_search": "question",
+         "question": " Tôi đặt hàng 18122018 cõ mã đơn 22851273, cho hỏi bao giờ giao hàng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.16485,
+         "id": "1140461",
+         "field_search": "question",
+         "question": "cho mình hỏi ,mình muốn mua realme c1 thì phải gọi điện và nhận hàng tận nhà ạ? hay mình có thể đặt trước và đến cửa hàng lấy được ko ạ?. mình cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.062971,
+         "id": "1007207",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đặt hàng trực tuyến trên trang thế giới di động thì lên nhận hàng thì làm sao mới nhận được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.05318,
+         "id": "1005602",
+         "field_search": "question",
+         "question": "cho hỏi  tại sao bên đặt hàng online không chọn được tỉnh thành và huyện vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.037018,
+         "id": "1139491",
+         "field_search": "question",
+         "question": " tôi mới đặt 1 máy ss a6 nhưng h muốn hủy để có thể đặt để nhận tại store thì hủy phần đặt trước thế nào ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.995068,
+         "id": "1013273",
+         "field_search": "question",
+         "question": "hôm trước tôi đặt mua online 1 cái thẻ nhớ 16G , hàng chuyển về siêu thị tại đường Bà Triệu, thị trấn Nông Cống Thanh Hóa, tôi quên mất là thứ mấy có hàng và cách thức nhận hàng như thế nào rồi, liên hệ lại giúp tôi qua sđt 0972746636 hoặc luongcklk@gmail.com. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.984068,
+         "id": "1160060",
+         "field_search": "question",
+         "question": "bao giờ bắt đầu được nhận oppo F11 pro khi đã đặt hàng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.933157,
+         "id": "995468",
+         "field_search": "question",
+         "question": "Mình có đặt mua online 1 cái sạc dự phòng eSaver 10 000 mAh Y325 với thẻ nhớ Micro SD 16GB class 10, cái này là bên TGDD giao hàng hay mình lại cửa hàng để nhận?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.714249,
+         "id": "1012284",
+         "field_search": "question",
+         "question": "xin chào tôi muốn hỏi đặt cọc xong bphone nhận máy thì trả góp trong bao nhiêu tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.611795,
+         "id": "1022430",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi e đặt hàng như vậy rồi nhưng cửa hàng chưa liên hệ xác nhận đặt hàng vậy e có mua được sp này k ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.611094,
+         "id": "1157071",
+         "field_search": "question",
+         "question": "Hawei pro đặt trước thì chính xác khoảng bao giờ thì nhận đc hàng vậy? Khách hàng ở Hà Nội",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.5112,
+         "id": "1001482",
+         "field_search": "question",
+         "question": "Tgdd làm ơn cho mình hỏi...mình mua hàng online ở nước ngoài cần thanh toán bằng thẻ visa...mình không có visa...tgdd có nhận tjanh toán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.484747,
+         "id": "1153700",
+         "field_search": "question",
+         "question": "Mình đặt sony xz premium , sđt 0914 293193, khi nào thì nhận được hàng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.415445,
+         "id": "1011163",
+         "field_search": "question",
+         "question": "Cho mình hỏi: nếu mình đk mua trả góp online đã được duyệt thành công thì ngày hôm sau mình mới ra cửa hàng lấy máy được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.300388,
+         "id": "1017860",
+         "field_search": "question",
+         "question": "Mình tham gia chương trình mua hàng online được giảm giá của thẻ nhớ 16Gb nhưng mình lỡ tay xóa tin nhắn xác nhận rồi giờ phải làm sao để nhận được hàng. Tin nhắn báo là ngày 1 có thể đến cửa hàng nhận thẻ nhớ. Ad tư vấn giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.284954,
+         "id": "1016005",
+         "field_search": "question",
+         "question": "mua máy rẻ online là may như thế nào vậy ad ? giả sử e đặt hàng online theo sđt nhưng e lại ra trực tiếp cửa hàng để mua máy theo đơn hàng onlinethì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.245256,
+         "id": "1015754",
+         "field_search": "question",
+         "question": "mình đặt mua online 1  cuc pin sạc dự phòng giá 250k cho mình hoi khi giao hàng có tính phí ship k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.241865,
+         "id": "1020728",
+         "field_search": "question",
+         "question": "Xin chào, cho mình hỏi, bây h đặt cọc zenfone 4 max còn đc nhận khuyến mãi ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.130842,
+         "id": "1023946",
+         "field_search": "question",
+         "question": "các bạn có thể hướng dẫn tôi mua hàng online đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.02166,
+         "id": "1135981",
+         "field_search": "question",
+         "question": "cho mình hỏi giờ mình muốn mua gear s3 thì mình nhận hàng sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.001696,
+         "id": "1005541",
+         "field_search": "question",
+         "question": "J7 pro còn hàng ko ak. Hiện h còn khuyến mãi gì ko? E mua online từ xa bao lâu thì có. Và nó có cảm biến con quay xem video 360° ko ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.948041,
+         "id": "1009649",
+         "field_search": "question",
+         "question": "Em có đặt mua 1 thẻ nhớ 16G 10 Class online giá 150.000dĐã xác nhận đơn hàng, và TGDD báo đã đặt hàng thành công, trong 30p sẽ có nhân viên gọi đt xác nhận và tư vấn.Nhưng em vẫn chưa thấy ai gọi.Nhờ anh chị kiểm tra đơn hàng giúp em.0939652742",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.943446,
+         "id": "1137199",
+         "field_search": "question",
+         "question": "cho mình hỏi giá của gear s3 mua online đang giảm giá trong khi mình đang đợi hàng chuyển về tới cửa hàng gần nhất thì có được tính giảm không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.888733,
+         "id": "1137843",
+         "field_search": "question",
+         "question": "Nếu h em mua j6 online thì chung nào lấy được .Mai lay còn khuyen mai khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.691365,
+         "id": "1008970",
+         "field_search": "question",
+         "question": "ad ơi em muốn mua sản phẩm này nhưng mua hàng online để tiếc kiệm xong em lại chi nhánh gần nhà nhất để nhận hàng được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.648698,
+         "id": "1140532",
+         "field_search": "question",
+         "question": "Cho mình hỏi mua trả góp online bao lâu mới làm xong thủ tục.mình gửi thông tin qua nhưng mới gọi điện xác nhận thông tin chứ chưa được thẩm định hồ sơ mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.58987,
+         "id": "1149875",
+         "field_search": "question",
+         "question": "check hàng cho mình xem bao giờ thì con realme 2 pro 8gb?128Gb chuyển về  Đường Quang Trung, TT. Khánh Yên, H. Văn Bàn, T. Lào Cai    SĐT đặt hàng 0888679309 với , mình không có mã đơn hàng cụ thể để check",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.530272,
+         "id": "1021671",
+         "field_search": "question",
+         "question": "e đặt mua gậy tự sướng onl. thì nhận giao hàng nhanh hay lại cửa hành nhận ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.516265,
+         "id": "1024283",
+         "field_search": "question",
+         "question": "mình đặt mua online sản phẩm oppo f1s 17 vào ngày 30092017 thì có được giảm giá không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.511842,
+         "id": "1143316",
+         "field_search": "question",
+         "question": "shop ơi cho em hỏi 1 chút là em muốn mua điện thoại vsmart joy 1 thì em đến mua trực tiếp ở cửa hàng luôn hay phải đặt online ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.492079,
+         "id": "1148617",
+         "field_search": "question",
+         "question": "Chương trình mua online sale 25 còn không ạ? Mình muốn đặt 1 nokia 5.1 plus thì giá hiện tại là bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.324387,
+         "id": "1021429",
+         "field_search": "question",
+         "question": "Mình đặt Note 8 từ 248 thì 159 có nhận đc hàng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.305367,
+         "id": "992363",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình đặt hàng onl trên tgdd, đơn hàng đã đc xác nhận như này thì khi hàng về mình đến chỗ tgdd mua trả góp đc k ạ, hay là chỉ đc trả tiền hết 1 lần ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.290721,
+         "id": "1160059",
+         "field_search": "question",
+         "question": "mình muốn đặt mua thêm 1 em  iphone Xr / mà tìm hoài chẳng thấy hỗ trợ online đâu để đặt hàng , trong công ty minh thì không có sóng điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.28664,
+         "id": "1152756",
+         "field_search": "question",
+         "question": "Cho e hỏi, em muốn mua asus zenfone max pro m1 thì cửa hàng đã sẵn chưa ạ? Hay vẫn phải đặt cọc rồi nhận hàng sau?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.253774,
+         "id": "1140138",
+         "field_search": "question",
+         "question": " mua hàng thanh toán online,giờ hủy đơn thì có được hoàn tiền không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.173986,
+         "id": "1142323",
+         "field_search": "question",
+         "question": "Đặt Huawei Y7 Pro 2019 bây giờ thì ngày nào nhận hàng được ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.164732,
+         "id": "1167907",
+         "field_search": "question",
+         "question": "Xin chào! Làm ơn cho tôi hỏi, điện thoại đặt hàng Samsung J4+ tôi đặt đã về hàng ở TGDD Long Khánh chưa ạ. Sđt đặt hàng là 0933.662.847",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.086877,
+         "id": "1024003",
+         "field_search": "question",
+         "question": "Tôi mới mua đồng hồ apple watch của thegioididong chưa được 1 tháng với phương thức trả góp ? Bây giờ tôi muốn trả lại sản phẩm thì nhận bao nhiêu tiền ? Và tôi vẫn phãi đóng tiền phải góp hàng tháng sau khi nhận được tiền hoàn lại 80% từ thegioididong đúng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.013493,
+         "id": "1160018",
+         "field_search": "question",
+         "question": "Tôi đang muốn mua cái zenphone m2 de xài ngay vì đang cần dùng mà tgdd chỉ bán online ko bán tại cửa hàng vậy tôi muốn hỏi tgdd đâu là câu khách hàng là thượng đế nữa. Câu cửa miệng của cty tiêu chí khách hàng đặt lên hàng đầu ko còn nữa. Khách mua mà ko bán fai đợi là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.980538,
+         "id": "1165444",
+         "field_search": "question",
+         "question": "Cho em hỏi  giá  a8 star hiện  bây  giờ  là  bao nhiêu  vậy và  em muốn đặc hàng online thì  có  được  giảm  giá  không??  Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.86238,
+         "id": "998238",
+         "field_search": "question",
+         "question": "Tôi mua máy oppo neo9 từ tháng 2 h bán lại để mua may mới thì trừ bao tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.841394,
+         "id": "1141478",
+         "field_search": "question",
+         "question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8229065,
+         "id": "1163638",
+         "field_search": "question",
+         "question": "Tôi muốn đặt hàng iphone SE. Giá bao nhiêu vậy TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.805406,
+         "id": "1009285",
+         "field_search": "question",
+         "question": "Em có đặt mua tai nghe online. Có mã số đơn hàng là 12263163. Ngày 31/7 vừa rồi bên chuyển phát nhanh có gọi nhận hàng nhưng do bận không nhận được nên có hẹn hôm sau sẽ lấy. Nhưng tới hôm nay vẫn chưa thấy bên chuyển phát nhanh gọi lại. Mong ad thông báo bên chuyển phát chuển hàng cho mình với ạ. Xin cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.795792,
+         "id": "998124",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp J5 prime. Mình đã đặt hàng online. XIn hỏi buổi tối bên Home credit có làm việc không?. Tối mình mới lấy đk CMT gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.748223,
+         "id": "1136739",
+         "field_search": "question",
+         "question": "em mới đặt samsung A6 online, nhưng không được giá mua online, vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.672372,
+         "id": "1133781",
+         "field_search": "question",
+         "question": "Bây giờ Em đặt mua ipX online thì khi nào ra lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.659288,
+         "id": "1017409",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em mua hàng online thì có mất phí ship không ạ? Nếu có thì phí ship từ tp Hồ Chí Minh về Hà Nội hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.554308,
+         "id": "1154672",
+         "field_search": "question",
+         "question": "mình muốn mua s9 giá bán cụ thể khi khách hàng nhận hàng là bao nhiêu? .sao ad có được hỗ trợ như thế nào?. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.553579,
+         "id": "1141923",
+         "field_search": "question",
+         "question": "Ad cho hỏi tôi đặt hàng chiến ip xr rồi và xem nơi đặt hàng cũng có hàng rồi, giờ tôi đợi nhiên viên gọi rồi ra lắy hay tôi ra laay luôn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.549151,
+         "id": "1014486",
+         "field_search": "question",
+         "question": "Tôi  mới đặt một sạc dự phòng.nhưng ko có thời gian đến cửa hàng để nhận. giờ tôi muốn nhân tại nhà thì phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.537964,
+         "id": "1141168",
+         "field_search": "question",
+         "question": "E nhận được coupon 50k e có thể mua card online luôn được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.531884,
+         "id": "1155791",
+         "field_search": "question",
+         "question": "Mình đặt hàng honor 8x max được không? Giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.514573,
+         "id": "1148650",
+         "field_search": "question",
+         "question": "A chị cho e hỏi e mua đt samsung galaxy j6 tại đâyBao h thì e có thể lấy được hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.471597,
+         "id": "1016384",
+         "field_search": "question",
+         "question": "QTV cho em hỏi nếu ở gần tgdd có được đặt điện thoại với giá online sau đó trực tiếp đến cửa hàng lấy không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4029,
+         "id": "1153204",
+         "field_search": "question",
+         "question": "nếu đặt cộc asus zenphone max pro m1 hôm nay thì khi nào nhận được hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.388604,
+         "id": "1140289",
+         "field_search": "question",
+         "question": "xin chào? tại sao mình ko nhập được mã giảm giá khi mua hàng online ss A9?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.378771,
+         "id": "1023035",
+         "field_search": "question",
+         "question": "Chào Chị hay Anh: xin hỏi Laptop Lenovo IdeaPad 110 14ISK i5 6200U/4GB/500GB/Win10/(80UC0029VN) nếu đặt mua và hàng được giao tại Quận Bình Tân, TP.HCM thì khi nào nhận được hàng ? cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.312111,
+         "id": "995062",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi vợ tôi mới mua 1 cái samsung J1 2016 cho mẹ chưa được 1 tuần giờ vợ tôi muốn đổi lại mua cái  Máy tính bảng Samsung Galaxy Tab 3V T116Thì có phải bù chi phí gì không. Và nếu không có hàng tại cửa hàng thì đặt hàng có không và có phụ phí gì không. Rất mong được tư vấn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.307574,
+         "id": "862752",
+         "field_search": "question",
+         "question": " Cho tôi hỏi máy laptô như vầy thì có chơi được fifa online 3 không Asus X453MA 28302G50 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.1856365,
+         "id": "1162968",
+         "field_search": "question",
+         "question": "htc u12 life có cho đặt hàng online ở hà nội với giá 4.540.000 VNĐ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.181029,
+         "id": "1153424",
+         "field_search": "question",
+         "question": "Giờ mk đặt hàng online r thì mk ra cơ sở gần nhất để cọc tiền phải k shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.108472,
+         "id": "1017412",
+         "field_search": "question",
+         "question": "tôi muốn đặt mua điện thoại nokia 3310 màu xám khi nào mới có hàng và giá thành bao nhiêu vậy Shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.064237,
+         "id": "821523",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi . mình mua máy laptop hồi tháng 2 hảng asus . Đến h thì máy có hiện tượng bị chai pin . Dùng phần mền thì pin bi chai đến 16.4 % . Cho mình hỏi của hàng mình có bao hành pin pi chai ko . Trả lời sớm cho mình nhé .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.042627,
+         "id": "1138840",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi máy em mới mua được 2 hôm h em đỗi lại thì tốn bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.009952,
+         "id": "1149477",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua hàng được tặng phiếu mua hàng 1 triệu đồng. Cho mình hỏi mình mua Xiaomi Mi 8 thì khi mua phụ kiện bằng phiếu mua hàng mình có mua của iPhone được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.004704,
+         "id": "1015018",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua Galaxy S7 Edge màu Blue Coral giá Online 12tr990k, mà theo tìm hiểu thì TGDD ở TP.HCM đã hết hàng thì phải làm thế nào!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.996441,
+         "id": "998659",
+         "field_search": "question",
+         "question": "cho mình hỏi khuyến mãi giảm 1 triệu của Xperia XZs là đặt hàng xong rồi đến cửa hàng nhận máy hay giao tới nhà ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.923786,
+         "id": "1018867",
+         "field_search": "question",
+         "question": "E mua sản phẩm giảm giá online thì muốn lấy hàng thì phải đến cửa hàng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.903904,
+         "id": "1010444",
+         "field_search": "question",
+         "question": "AD cho mình hỏi tại sao mua thanh toán online không được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.902954,
+         "id": "1148597",
+         "field_search": "question",
+         "question": "Em có đặt online oppo f7 đến tại cửa hàng để lấy mà ko biết đã đặt thành công chưa thì kiểm tra ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.87334,
+         "id": "1159969",
+         "field_search": "question",
+         "question": "Cho e hỏi h e mua dt realme 3  ma k đặt trước có được tang tai nghe k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.789723,
+         "id": "1138137",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là ở tp hà tĩnh tạm hết hàng ss j4 màu đen.Nếu e đặt hàng từ 14/12/2018 đến 16/12/2018 và nhận hàng sau 2-7 ngày tại siêu thị thì giá vẫn giảm 800k còn 2.690.000 phải không ạ.Nếu nhận hàng sau thời hạn 7 ngày thì có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.747901,
+         "id": "1160479",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu em đã đặt hàng tại tgdd (vì cửa hàng báo tạm hết hàng), nhân viên bảo đã đặt hàng thành công và sẽ chuyển hàng về trong 7 ngày, em chỉ cần đợi đt gọi về và ra cửa hàng nhận máy thôi, nhưng hiện tại em muốn hủy đặt hàng thì còn hủy được không ạ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.712254,
+         "id": "1020277",
+         "field_search": "question",
+         "question": "Cho hỏi là mình đã đến cửa hàng để đặt cọc sp zenfone 4 max promình có thể lấy lại cọc và không nhận hàng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.700588,
+         "id": "1157297",
+         "field_search": "question",
+         "question": "Em vừa đặt mua điện thoại oppo F7 và đã thanh toán online, sao chưa thấy bên thế giới di động gọi xác nhận ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.700038,
+         "id": "1156003",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là Samsung A50 128GB không đặt được hàng nữa, vậy nếu muốn mua trực tiếp thì khi nào có hàng để mua ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.683464,
+         "id": "1008971",
+         "field_search": "question",
+         "question": "Em có đặt mua tai nghe mà shop bảo có thể nhận hàng tại siêu thị từ 478 thì em có thể nhận sớm hơn k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.683207,
+         "id": "1021752",
+         "field_search": "question",
+         "question": "Xin cho hỏi sau khi đặt cọc SS Note 8 thì nếu mua trả góp tôi cần phải trả trước bao nhiêu . Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.636444,
+         "id": "1139695",
+         "field_search": "question",
+         "question": "Mình đặt mua Nokia 5 trong chương trình giảm giá sốc khi mua hàng online từ 22-25/12/2018. Tuy nhiên, hiện tại tất cả các cửa hàng ở Tiền Giang đều hết hàng và báo chờ từ 2-7 ngày, như vậy khi hàng về thì đã quá hạn chương trình, thế thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.58622,
+         "id": "1015568",
+         "field_search": "question",
+         "question": " mình có mua máy zenfone max 5.5 sài được 11 ngày bao hanh 12 tháng  thì máy hao pin khá nhanh , online xuyên suốt   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.576195,
+         "id": "999619",
+         "field_search": "question",
+         "question": "ad cho hỏi bây h mh muốn mua đt cũ ở tỉnh khác thì làm sao ạ. mh đặt hàng cty có chuyển về cửa hàng gần nhất chỗ mh ko ? có đc test máy khi máy về ko ? cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.556748,
+         "id": "1018284",
+         "field_search": "question",
+         "question": "mình đặt mua J2 prime qua online trả trước 538000 và trả trong 6 tháng và điện thoại viên củng đã đt hỏi và tư vấn lúc 08:27.. vậy cho mình hỏi nào hồ sơ mình có kết quả chưa đã được duyệt hay chưa.. và khi nào ra ggdt để nhận dt.. c.ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

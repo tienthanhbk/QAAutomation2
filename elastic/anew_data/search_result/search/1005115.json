@@ -1,0 +1,801 @@
+{
+   "id_query": "1005115",
+   "total": 33301,
+   "total_current": 100,
+   "max_score": 62.216274,
+   "origin_question": "cho mình hỏi bên mình có nhận thay pin máy tính bảng b1  723 không và giá là bao nhiêu ạ",
+   "hits": [
+      {
+         "score": 45.15169,
+         "id": "786224",
+         "field_search": "question",
+         "question": " Cho em hỏi, thay màn hình máy tính bảng acer b1  723 giá bao nhiêu ạ? Cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.243103,
+         "id": "1006018",
+         "field_search": "question",
+         "question": "Thay màn cảm ứng acer b1 723 bao nhiêu tiền và mất bao nhiêu thời gian",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.86386,
+         "id": "743520",
+         "field_search": "question",
+         "question": " Cho hỏi thay màn hình máy tính bảng Mobell Tab 8 giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.337023,
+         "id": "1133847",
+         "field_search": "question",
+         "question": "cho hỏi ở tgdd có nhận thay pin ip5 không ạ? và thay mất bao nhiêu lâu? giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.186949,
+         "id": "1013715",
+         "field_search": "question",
+         "question": "Cho e hỏi? Máy tính bảng acer b1-723 có hỗ trợ OTG thì có thể xài dc chuột không dây hoặc có dây k qtv? Và xài dc những loại nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.414145,
+         "id": "1146772",
+         "field_search": "question",
+         "question": "Thay pin cho Oppo A3s giá bao nhiêu vậy Ad.Điện máy xanh có hỗ trợ thay không, giá pin và tiền công thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.229057,
+         "id": "1023312",
+         "field_search": "question",
+         "question": "Bên mình có thay pin ip6s k vậy.nếu có giá là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.12704,
+         "id": "1135947",
+         "field_search": "question",
+         "question": "mình muốn thay pin iphone 6s. bên mình có không, giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.922691,
+         "id": "1021060",
+         "field_search": "question",
+         "question": "Máy tính bảng acer của mình hiệu B1 - 723 loại 7 inch sao tự nhiên khe cắm sim cắm được nhưng lên máy nó báo không nhận được sim, mình đang hoang mang, nó bị cái đó là sao ạ, đem đến đâu sửa ạ. có gì phản hồi giúp em qua mail nguyenthanhsang1601cc@gmail.com thank .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.891535,
+         "id": "1137243",
+         "field_search": "question",
+         "question": "Bên mình có thay pin iphone 6 plus k ạ? Nếu có giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.762012,
+         "id": "878198",
+         "field_search": "question",
+         "question": "Mình mua laptop HP Probook 4411S tại thegioididong. Hiện pin máy đã hỏng và mình cần thay. Bên bạn có sản phẩm pin cho máy này không và giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.59631,
+         "id": "988056",
+         "field_search": "question",
+         "question": " cho mình hỏi, tgdt có thay pin iphone 4s ko ạ,và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.323105,
+         "id": "1166784",
+         "field_search": "question",
+         "question": "shop cho hỏi bên mình có thay pin ipad 4 không vậy, giá bao nhiêu. cám ơn shop.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.19386,
+         "id": "1004641",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình lenlovo p70 ko ạ và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.150875,
+         "id": "1022533",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính bảng lenovo tab3 7' bị bể màn hình có thể đến thế giới di động bảo hành không vậy. Và giá cho màn kính là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.147358,
+         "id": "991107",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy Acer B1 723 khoảng 7 tháng rồi mà mình mún đổi lấy máy khác và có thể đổi .mua máy cũ đc ko Imei",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.036621,
+         "id": "1163992",
+         "field_search": "question",
+         "question": "bên mình có thay nút home IP5s không ạ ? và cho em hỏi nếu được thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.031652,
+         "id": "1009990",
+         "field_search": "question",
+         "question": "Em có mua một con máy tính bảng acer vẫn trong thời gian bảo hành em muốn thay pin cho máy tính bảng vì em thấy pin có thể đã bị chai vậy em thay pin có mất thêm khoản phí nào không ạ và sửa thì mất bao nhiêu ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.692709,
+         "id": "810680",
+         "field_search": "question",
+         "question": " Acer b1 723 bấm tắt nguồn không đươc. Là bị gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.611773,
+         "id": "771444",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi, TGDĐ thay pin iPhone 4 được không và giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.554596,
+         "id": "788075",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bên mình có còn pin iphone 4s thay ko mà còn thì giá là bao nhiêu ak ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.512188,
+         "id": "1155049",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi là thay pin cho iphone 5s thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.41982,
+         "id": "1005440",
+         "field_search": "question",
+         "question": "Hi, bên mình có hỗ trợ thay pin 5s k nhỉ, và nếu có thì giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.418003,
+         "id": "836250",
+         "field_search": "question",
+         "question": " Cho em hỏi ở đây có thay pin iphone không và giá là bao nhiêu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.232742,
+         "id": "742065",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên TGDĐ có thay màn hình iPhone 5S ko? nếu thay giá bao nhiêu? và có bảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.55129,
+         "id": "762285",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có nhận thay pin iphone 4s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.418262,
+         "id": "1161505",
+         "field_search": "question",
+         "question": "cho mình hỏi mình muốn thay pin điện thoại samsung galaxy A8 giá của pin điện thoại là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.415054,
+         "id": "1151917",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình muốn thay pin điện thoại oppo a39 giá bao nhiêu thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.34652,
+         "id": "1159992",
+         "field_search": "question",
+         "question": "bên bạn có thay pin iphone 7 khôngnếu thay giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.271633,
+         "id": "1021014",
+         "field_search": "question",
+         "question": "Bên mình có dán màn hình laptop ASUS X556URK không ạ? máy mình mua ngoài. Và giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.221264,
+         "id": "780024",
+         "field_search": "question",
+         "question": " Cho mình hỏi TGDĐ có bảo hành thay pin cho iphone 5S không? Giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.19892,
+         "id": "1009095",
+         "field_search": "question",
+         "question": "cho mình hỏi là bên mình có nhận cài lại win cũng như là thay pin và sửa 1 số lỗi máy lapyop k nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.16842,
+         "id": "751103",
+         "field_search": "question",
+         "question": " Mình muốn thay pin iphone 5 giá bao nhiêu. Báo giá cho mình biết được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.127611,
+         "id": "766149",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có thay màn hình iPhone 5 không ạ ? Nếu có thì giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.07704,
+         "id": "1005446",
+         "field_search": "question",
+         "question": "alo, mình muốn thay linh kiện, bên mình có màn hình máy tính bảng Samsung GTN8000 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.031538,
+         "id": "755677",
+         "field_search": "question",
+         "question": " iPhone 6 bị vỡ kính bảo vệ camera sau bên TGDD có nhận thay không nhỉ? Và giá thay bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.559822,
+         "id": "1133726",
+         "field_search": "question",
+         "question": "thegioididong có thay pin điện thoại oppo R8001 không ạ? giá là bao nhiêu và thời gian thay trong bao lâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.521036,
+         "id": "759722",
+         "field_search": "question",
+         "question": "Cho em hỏi là thay kính màn hình iPhone 3GS là bao nhiêu không tính màn hình LCD nhé  và thay home nguồn pin vỏ hết bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.471418,
+         "id": "1013262",
+         "field_search": "question",
+         "question": "cho e hỏi là bên mình có sửa nút nguồn của iphone 3gs không ạ, và giá là bao nhiêu, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.374306,
+         "id": "1010115",
+         "field_search": "question",
+         "question": "Em muốn bán lại may tinh bang acer b1 723 còn BH đến tháng 52018.ko biết ban được bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.332705,
+         "id": "1154392",
+         "field_search": "question",
+         "question": "chao shop oppo a3s bên mình còn không ạ ? và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.303675,
+         "id": "995673",
+         "field_search": "question",
+         "question": "Máy mình trong thời gian bảo hành bị vỡ kính cường lực. Thay có được giảm giá không vậy. Và giá thay là bao nhiêu. Máy mình là samsung galaxy j7prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.165659,
+         "id": "956157",
+         "field_search": "question",
+         "question": " Cho e hỏi bên mình có thay pin Iphone 5s ko? bao nhiêu tiền và lấy máy liền hay phải hẹn ngày khác ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.153975,
+         "id": "909364",
+         "field_search": "question",
+         "question": " Bên mình có thay main iphone 5s không vậy? Nếu có thì giá bao nhiêu và bảo hành bao lâu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.123089,
+         "id": "1004953",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi pin sámung J2 2016 bên mình có bán ko ạ , và giá nhiêu ạ . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.122183,
+         "id": "1134805",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình còn thay bộ màn hình lumia 1020 không ạ.và giá bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.097612,
+         "id": "1021301",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, máy của em là Samsung J7 2015, hiện giờ Pin có vấn đề nên không thể bật máy được. Em muốn mua pin chính hãng của Samsung để thay thì bên thế giới di động có không ạ. Và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.089401,
+         "id": "830930",
+         "field_search": "question",
+         "question": " Cho em hỏi thế giới di động của mình có thay pin iphone5 không? va giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.006998,
+         "id": "1006167",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi bên mình có USB 3g để bỏ sim dùng cho máy tính latop ko ah? nếu có giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.988352,
+         "id": "875316",
+         "field_search": "question",
+         "question": " Tgdd có thay pin cho máy không, nếu có giá iPhone 4s pin bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.931162,
+         "id": "1013802",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là sam sung j7 2015 bị hư màn hình, em muốn thay àn hình, bên mình có hỗ trợ thay và giá thay là bao hiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.86581,
+         "id": "1006621",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hang mình có thay pin Htc M7 không ạ, và thời gian thay pin thì mất bao lâu mới có thể lấy máy được, cho xin giá cả luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.82109,
+         "id": "1133290",
+         "field_search": "question",
+         "question": "Adm cho mình hỏi, mình có con nokia8 (nokia 8 thường 2917)bị vỡ màn hình. Mình muốn thay. Vậy thay bao nhiêu lâu và giá thay là bao nhiêu?adm thông tin đến mình nhé. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.761093,
+         "id": "997889",
+         "field_search": "question",
+         "question": "a cho mình hỏi bên mình có thay màng hình điện thoại samsung A9 ,,,nếu có giá bao nhiêu  zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.714462,
+         "id": "1140341",
+         "field_search": "question",
+         "question": "Hi. Cho mình hỏi mình muốn thay Pin điện thoại SumSung Galaxy A8 giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.706816,
+         "id": "792770",
+         "field_search": "question",
+         "question": " Cho mình hỏi là thay pin iPhone 5 là bao nhiêu tiền vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.53462,
+         "id": "1001047",
+         "field_search": "question",
+         "question": "cho mình hỏi màn hình samsung J2 hiện tại bên mình thay giá bao nhiêu nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.515833,
+         "id": "856027",
+         "field_search": "question",
+         "question": " máy tính e đang bị chai pin muốn thay pin thì chi phí khoảng bao nhiêu và có được bảo hành không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.459282,
+         "id": "1016599",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên mình có kinh doanh bàn phím kết nối máy tính sẽ bảng không vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.366234,
+         "id": "1138021",
+         "field_search": "question",
+         "question": "Em mua máy note9 ở bên mình. Và bây giờ cảm ứng và màn bị vỡ Nếu nhờ bên mình sửa hộ thì bên mình có thể báo giá và thời gian nhận máy là bao lâu ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.340004,
+         "id": "753960",
+         "field_search": "question",
+         "question": " Chào TGDD, bên mình có thay màn hình iPhone 4S không ạ? Nếu thay thì giá bao nhiêu? Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.257875,
+         "id": "817204",
+         "field_search": "question",
+         "question": " AD ơi  cho hỏi là bên ad có bán pin iphone 4s không? Nếu có thì giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.226755,
+         "id": "1144387",
+         "field_search": "question",
+         "question": "Dạ em có mua điện thoại MEIZU M5 bên mình, em muốn thay pin của điện thoại thì giá bao nhiêu vậy ạ ? Và tầm bao lâu thì em lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.168278,
+         "id": "868551",
+         "field_search": "question",
+         "question": " thegioididong có thay pin cho iphone 4s không? giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.127201,
+         "id": "1137972",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình còn hàng oppo f5 mới ko ạ? Giá máy mới là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.095148,
+         "id": "796644",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình còn iphone 5s gold không ah.và giá là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.042547,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.963053,
+         "id": "1014060",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, bên cửa hàng có bán Pin máy samsung galaxy Young GT-S6310 không ạ, nếu có thì giá bán đang là bao nhiêu ạ!Em xin cảm ơn và rất mong nhận được sự phản hồi của cửa hàng ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.962152,
+         "id": "1155675",
+         "field_search": "question",
+         "question": "cho mình hỏi là bên TGDD có thay pin máy zen 4 max pro không vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.905924,
+         "id": "1010707",
+         "field_search": "question",
+         "question": "Cho em hỏi em có 1 xperia X F5122 imei 358099072025547 mua tại thegioididong. Cho em hỏi là bên mình có thu lại máy không ạ. Và thu lại ở mức giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.838179,
+         "id": "1135102",
+         "field_search": "question",
+         "question": "Chào các anh các chịCho e hỏi tý.bên mình có thay màn dòng samsung s8 ko ạ và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.792522,
+         "id": "999073",
+         "field_search": "question",
+         "question": "cho mình hỏi bên TGDĐ còn pin điện thoại grand prime không? nếu còn giá khoảng bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.790648,
+         "id": "1002356",
+         "field_search": "question",
+         "question": "Thay pin chính hãng cua iphone 5 giá bao nhiêu ạ và thay trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.772707,
+         "id": "785357",
+         "field_search": "question",
+         "question": "Anh ơi chỗ mình có thay mặt gương iphone 6 plus không vậy. Và điện thoại của em đang trong thời gian bảo hành vậy chi phí thay mình có tính không. Nếu tính thì giá bao nhiêu vậy ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.750793,
+         "id": "850170",
+         "field_search": "question",
+         "question": " cho mình hỏi tgdd có thay pin iphone 5 không? nếu thay thì bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.711487,
+         "id": "1151896",
+         "field_search": "question",
+         "question": "Mình cần thay màn hình laptop ,dell N4030, không biết là ở Châu Đức -BRVT có chỗ thay không và giá là bao nhiêu?mình xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.64692,
+         "id": "837485",
+         "field_search": "question",
+         "question": "e mua iphone 5s tại thế giới đi động, được 1 năm rưỡi, nay pin nó bị phồng, đẩy màn hình ra, cho e hỏi cửa hàng có nhận sửa không? và giá thay pin iphone chính hãng là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.645498,
+         "id": "1139387",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5s bị chai pin, giờ thay mới được không ạ? giá thay pin là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.566423,
+         "id": "1004445",
+         "field_search": "question",
+         "question": "cho mình hỏi! mình mua 1 chiếc điện thoại tại thế giới di động hiệu HTC butterfly S mà bây giờ bị chai pin. Mình có thể thay pin được không, nếu thay thi giá pin là bao nhiêu. mong Add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.43315,
+         "id": "1009378",
+         "field_search": "question",
+         "question": "Bên mình cho em hỏi là latp của em là vaio và bị liệt bàn phím thì bên mình có hỗ trợ thay bàn phím không ạ và giá cả thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.360514,
+         "id": "899372",
+         "field_search": "question",
+         "question": " Máy tính e bị chạm phím F2.Bên mình có giá sửa bao nhiêu đối với Dell Vostro 5480 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.357874,
+         "id": "840415",
+         "field_search": "question",
+         "question": " bên TGDĐ có thay pin ip4s chính hãng k? giá bao nhiêu?sđt 0989016xxx ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.34634,
+         "id": "748732",
+         "field_search": "question",
+         "question": " Cho em hỏi ở thế giới di động mình có thay pin điện thoại iphone 4. không? Mà nếu có thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.27745,
+         "id": "1159739",
+         "field_search": "question",
+         "question": "máy tính bảng samsung tab a6 smt285 bj treo logo bên mình có sửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.256147,
+         "id": "770803",
+         "field_search": "question",
+         "question": " Pin iPhone 5 giá bao nhiêu vậy? và thay bao lâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.204672,
+         "id": "1014857",
+         "field_search": "question",
+         "question": "Em từng mua máy honor 4c tại cửa hàng mình, nay hết bảo hành, nhưng hiện tại máy em khe thẻ nhớ và sim không nhận thẻ. bên mình có sửa tại cửa hàng k,và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.189224,
+         "id": "794740",
+         "field_search": "question",
+         "question": " Cho em hỏi em muốn thay pin iphone 5s có không vậy? Giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.15428,
+         "id": "1023303",
+         "field_search": "question",
+         "question": "Điện thoại samsung s8 của mình bị rơi và vỡ màn hình. Vậy cho mình hỏi giá thay màn hình là bao nhiêu và thời gian gửi bảo hành là bao lâu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.093098,
+         "id": "1153769",
+         "field_search": "question",
+         "question": "Cho mình hỏi Giá khi thay màn hình Ip8 là bao nhiêu vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.060396,
+         "id": "1140324",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán sạn điện thoại huawei 3i không? và giá bao nhiêu vậy .cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.055283,
+         "id": "1133644",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình điện thoại Xiaomi Redmi 4X ko ạ? Nếu có thì giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.054781,
+         "id": "1007536",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi tgdd có thay đc màn hình máy tính bảng acer a1 841 ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.04296,
+         "id": "891149",
+         "field_search": "question",
+         "question": "Cho em hỏi chổ mình có nhận sữa laptop không ạ? Nếu có cho e biết giá để chạy lại chương trình trên laptop là bao nhiêu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.996853,
+         "id": "1167962",
+         "field_search": "question",
+         "question": "asus max pro m1 bên cửa hàng mình còn bán ko ạ và giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.95969,
+         "id": "818810",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính mình có 2RM nên chơi game nó lag vậy cho mình hỏi có gắn thêm RM vào máy tính dc không và mất bao nhiêu tiền loại máy tính TOSHIBA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.942865,
+         "id": "1143210",
+         "field_search": "question",
+         "question": "Cho e hỏi máy tính bảng loại nào có thể gắn thêm bàn phím rời vào dùng giống laptop được ạ và bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.940756,
+         "id": "777400",
+         "field_search": "question",
+         "question": " Bên TGDĐ có thay màn hình iPhone 4 không ạ? Giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.921488,
+         "id": "818808",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính mình có 2RM nên chơi game nó lag vậy cho mình hỏi có gắn thêm RM vào máy tính dc không và mất bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.914568,
+         "id": "1158743",
+         "field_search": "question",
+         "question": "Máy mình là ss s7 sạc pin lâu đầy và gọi điện messger hay bị nóng máy là do pin bị chai hay sao ạ? Thay pin lâu không thì lấy được và cho mình giá nhé?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

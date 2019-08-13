@@ -1,0 +1,801 @@
+{
+   "id_query": "830491",
+   "total": 32813,
+   "total_current": 100,
+   "max_score": 46.283573,
+   "origin_question": " Cho e hỏi sao máy e mới cài win 7 mà không bắt được wiffi ạ ",
+   "hits": [
+      {
+         "score": 22.962688,
+         "id": "832848",
+         "field_search": "question",
+         "question": " cho e hỏi là máy dell latitude e6230 có cả phím bật tắt wiffi k ạ, e k làm sao kết nối được wiffi nk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.944862,
+         "id": "773037",
+         "field_search": "question",
+         "question": "anh thế giới di động của mình không còn cài dc win 7 cho máy tính vậy sao hôm bữa máy e bị lỗi e mang đi cài win lai thì bên tgdd ở quận 9 lại cài win 7 cho e .và giờ e muốn về win 8 bản quyền lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.703613,
+         "id": "1158886",
+         "field_search": "question",
+         "question": "Cho e hỏi , e mới mua laptop HP giá 12tr khoảng 2 tuần mà không cài được Win 7 để e đi làm ,giờ e muốn đổi máy liệu có mất tiền gì không ?trả lời Giúp e , cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.489325,
+         "id": "809534",
+         "field_search": "question",
+         "question": "trước kia e sài win 7 sau khi e cài lại win thì wifi kết nối rất yếu e đã thữ nhìu cách như vẫn ko được .muốn bắt được mạng thì phải xách con acer đến gần modern wifi thì mới bắt được . mong qtv tư vấn giúp e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.67258,
+         "id": "1015366",
+         "field_search": "question",
+         "question": "Máy e lúc mua máy cho xài win 10 nhưng giờ nó kêu active nhưng e muốn gỡ win 10 cài win 7 xài thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06327,
+         "id": "929350",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng máy tính win 7 mà máy em nó không báo cuộc gọi đến mà toàn báo cuộc gọi nhỡ nhưng goi đi vẫn được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.954525,
+         "id": "789916",
+         "field_search": "question",
+         "question": " cho e hỏi làm sao chỉnh lại thanh tasktar nhỏ lại. như win 7 được ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.896297,
+         "id": "787588",
+         "field_search": "question",
+         "question": " adm cho e hỏi.. trong thế giới đi động có cài lại win 7 bản quyền không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.784096,
+         "id": "781015",
+         "field_search": "question",
+         "question": " Em mới mua lap cài win 10 giờ em muốn cài win 7 tgdd có cài hộ em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.320896,
+         "id": "856783",
+         "field_search": "question",
+         "question": "máy e ban đầu cài win 8.1, sau này sữ dụng bị lổi win ra TGDĐ cài lại win 7 nhưng sử dụng thấy máy nóng hơn, loa nhỏ hẳn luôn, không sữ dụng được phím fn+f1...f12? tại sao vây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.08999,
+         "id": "1163290",
+         "field_search": "question",
+         "question": "Mn cho e hỏi là e đang dùng laptop asus win 10 bth e vừa chuyển xuống win 7 thì chuột không sd đc nữa mà lên win 10 vẫn sd bth",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.056612,
+         "id": "819000",
+         "field_search": "question",
+         "question": "Cho em hỏi e đang dùng win 10 trên máy asus x555, e muốn cài 1 win 7 chạy song song ở ổ cứng khác, khi chạy reset máy lại menu boot thì nó chặn lại không cho tiếp tục vậy e phải làm sao với menu boot",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.04893,
+         "id": "803290",
+         "field_search": "question",
+         "question": "Bqt cho e hỏi với ạ!!E có mua máy laptop ở tgdd vào ngày 21/2/2016 hãng dell. Khi mua máy là được hỗ trợ cài win 10, bây giờ e muốn hạ xuống win 7 thì có bị mất chi phí ko ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.957926,
+         "id": "748484",
+         "field_search": "question",
+         "question": " Ad cho e hỏi lumia 630 có cài được tango không ạ e cài mà không được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.777014,
+         "id": "1001375",
+         "field_search": "question",
+         "question": "ad ơi máy e mới cài liên minh với fifa thôi mà giờ em cài cf vào sao nó bảo lỗi không cài được ạ !! máy dell vostro 3568 ạ thế là sao ạ ad chỉ e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.723148,
+         "id": "1003312",
+         "field_search": "question",
+         "question": "e cài ra tiệm cài win, ngta cài e win 8. Giờ khởi động máy lên nó lại kêu cập nhật win10 hoặc win 8.1, vậy là s ạ. E có nên ra tiệm cài lại win 8.1 ko ạ. Tại e sợ ngta chỉ cài win8 cho e mà chỉ là phiên bản dowload thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.593468,
+         "id": "820408",
+         "field_search": "question",
+         "question": " cho hỏi Loptop của em cài được win 7 không anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57531,
+         "id": "771265",
+         "field_search": "question",
+         "question": " Cho em hỏi lap cài win 8.1 bản quyền rồi giờ lên win 10 mà em muốn nó xuống win 7 lại thì có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.347445,
+         "id": "1138190",
+         "field_search": "question",
+         "question": "E có bắt wifi riêng nhưng bữa giờ tìm wifi bình thường nhưng nay tìm ko đc trong khi đó đt khác tìm ra wiffi của e. Máy e là oppo f5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.330242,
+         "id": "938635",
+         "field_search": "question",
+         "question": "cho e hỏi h máy e win 8.1 bản quyền bị lỗi e cài lên win 10 cũng nỗi h e muốn cài lại win 8.1 ở thế giới di động đk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.267763,
+         "id": "929865",
+         "field_search": "question",
+         "question": " Cho e h0i e bị I0i win 7 c0 thể Iại tgdd cài đặt dc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.206808,
+         "id": "763660",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ: em mới từ win 7 và chạy lên win 10. ở win 7 thì em đã kích hoạt và là win bản quyền. mà sao lúc lên win 10 em không thể kích hoạt được và hiện ra lỗi 0x803f7001 . giờ em phải làm sao để kích hoạt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.177374,
+         "id": "781006",
+         "field_search": "question",
+         "question": " Cho em hỏi em dùng lap win 10 em muốn cài lại win 7 thì bên mình có cài hộ em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.162153,
+         "id": "989728",
+         "field_search": "question",
+         "question": " Cho em hỏi mới mua máy tính Dell. Cài win 10 mà cấm tai nghe không nghe được loa bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.008621,
+         "id": "917088",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình có hỗ trợ openGL , mà mình không biết nó có cài đặt chưa , phải làm sao ạ , máy mình là win 7? mà driver x chạy song song với open GL hay sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.00342,
+         "id": "919327",
+         "field_search": "question",
+         "question": "ad ơi, e xài laptop win 10, con lumia 525 của e skype tới máy đó thì không bắt máy được, cụ thể khi e bắt máy thì nó ra như này, không bắt dc tín hiệu. Nếu gọi từ laptop qua lumia thì dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.968088,
+         "id": "843663",
+         "field_search": "question",
+         "question": "Cho em hỏi là e bị mất iphone 5s. E có cài mật khẩu màn hình, có icloud, bật cả find my iphone nữa nhg ko kết nối wiffi hay 3g thì có tìm lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.923393,
+         "id": "776532",
+         "field_search": "question",
+         "question": " cho em hỏi e đang dùng ip5 ios 6 vậy giờ có lên được 7 không ạ hay bắt buộc phải lên 9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.904724,
+         "id": "1022931",
+         "field_search": "question",
+         "question": "adm cho e hỏi e có mua laptop của bên mình máy có cài sẵn win 10 home sao e ko dùng dc word vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.800842,
+         "id": "1002672",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách reset máy tình win 8.1.Mình mới cài chương trình duyệt virus mà reset lại có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.740473,
+         "id": "1134441",
+         "field_search": "question",
+         "question": "sao e mới mua laptop bên mình mà cứ bị lỗi win hoài vậy bữa e mới ra cửa hàng cài lại giờ lại bị lỗi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.699324,
+         "id": "747882",
+         "field_search": "question",
+         "question": " Máy laptop hp e mua đc 3 năm ở tgdd ở vĩnh long ak, sao không cài win bản quyền mà cài dùng thử? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.660395,
+         "id": "1003625",
+         "field_search": "question",
+         "question": "Thegioididong của mình có cài Win cho lap k ạ? Laptop của e hiệu Dell, cần cấu hình như thế nào mới có thể cài được Win 10 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.645525,
+         "id": "811418",
+         "field_search": "question",
+         "question": "Em đag sdụg laptop win 8.lúc mua ngta cài cho e word 13,nay e mún cài word 7 mà k bị bị mất dữ liệu trog mày dc k ạ.và giá của cài word 7 là bao nhiu.e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.573168,
+         "id": "870961",
+         "field_search": "question",
+         "question": " em mới mua máy dùng win 10 bây giờ muốn hạ xuống win 7 có được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.565228,
+         "id": "1136956",
+         "field_search": "question",
+         "question": "Ad cho e hỏi cài lại win cho máy tính giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.508291,
+         "id": "831808",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao khi download trên microsoft nó lại chỉ hiện lên 1mb mà mãi không tải được chút nào ạ. E dùng máy dell và win 10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.492586,
+         "id": "1023311",
+         "field_search": "question",
+         "question": "Cho e hỏi. E mới mua con samsung j7 pro. E mới dùng được 2 tuần mà suốt ngày máy báo nóng máy, rồi bộ nhớ đầy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.448252,
+         "id": "806898",
+         "field_search": "question",
+         "question": "Anh chị cho mình hỏi. Máy tính mình lúc mua là win 8 bản quyền, sau đó mình xóa đi và cài win 7 . giờ mình muốn cài lại win 8 thì có thể lấy lại bản quyền khong ạ. Ở thế giới di động có cài win được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.371367,
+         "id": "755091",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi cấu hình này thì cài xuống win xp là chơi đc fifa online3 đúng không ạ? có phải do em dùng win 7 nên mới không chơi được fifa online3 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.305536,
+         "id": "924849",
+         "field_search": "question",
+         "question": "Cho e hỏi ,hôm 2-9 e có mua cái máy dell inspiron 5559 nhưng đến h nó bị lỗi win ,vậy e xuống cài lại win có mất phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.302702,
+         "id": "806055",
+         "field_search": "question",
+         "question": " Ad cho e hỏi sao iPhone 5s của e mới mua ở tggd Bắt wifi rất kém thế có phải là bị lỗi không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.242739,
+         "id": "1142262",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi laptop của em em cài mật khẩu mà giờ e quên mật khẩu r e định đem máy ra cài win lại đc k v ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.241268,
+         "id": "1022156",
+         "field_search": "question",
+         "question": "máy laptop cài sẳn win 10 bản quyền khi mua máy, giờ muốn xuống win 7 có được không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.205973,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.189922,
+         "id": "1137733",
+         "field_search": "question",
+         "question": "Cho e hỏi. Bên mình có hỗ trợ cài win cho macbook ko ạ. Hiện e đang dùng dòng Air 2017 và loay hoay cài mãi mà chưa đc ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.183062,
+         "id": "895788",
+         "field_search": "question",
+         "question": " Em bị lỗi win 7..khi em tải word về mà không xem được toàn hình chữ không à..em muốn cài win nào cho xem được vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.159601,
+         "id": "827114",
+         "field_search": "question",
+         "question": "cho e hỏi từ khi bảo hành bàn phím ở trung tâm bảo hành dell tại hà nội về thì chuột di của e rất chậm.đây là lỗi hay do e cài win ak,e đang dùng win 7 mà trước khi đi bảo hành về máy e chuột di chuyển rất mượt và nhanh.pjo nó chậm đi trông thấy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.101515,
+         "id": "848654",
+         "field_search": "question",
+         "question": "máy e là asus x452 hiện đang chạy win7 nhưng hay bị đơ máy và hiện bản lưu khi mở máy. cho em hỏi mấy bị sao và nếu cài lại win 7 thì khoảng bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.063894,
+         "id": "784784",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng con iPhone 4S mà bắt mạng 3G nó vẫn hiện mạng E mà em cài Mimax rồi mà vẫn mạng E? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.056787,
+         "id": "907418",
+         "field_search": "question",
+         "question": "Anh chị ơi giúp e với. E cài win xong tự dưng cái laptop của e bị lỗi, e ko rành về máy tính lắm nên e ko biết cách sửa. Tình hình là khi khởi động không vào thẳng win mà hiển thị cái bảng này . Phải nhấn esc mới vào win đc. Có thể giúp e sửa lỗi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.97166,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.954475,
+         "id": "804542",
+         "field_search": "question",
+         "question": "Chào anh chị qtv, e muốn hỏi trong Tgdd có hỗ trỡ cài win10 hay win 8.1 cho laptop không, khi e không mua máy tại tgdd ạ. Nếu hỗ trợ mà mất phí thì khoảng bao tiền ạ. E xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.913916,
+         "id": "803779",
+         "field_search": "question",
+         "question": " cho em hỏi laptop sony hệ điều hành win 7 cài lên windows 8.1 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.904459,
+         "id": "996885",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài lại win máy tính.khi máy lên màn hình thì 1 bên bị viền đen,1 bên bị mất 1 chút màn hình,cho e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.878572,
+         "id": "790253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài win máy xách tay lại thì có bị mất dữ liệu máy không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.86367,
+         "id": "1117706",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy e mới mua được 1 tuần mà máy bị tụt bin, 1 tiếng tuột mất 5% mà ko làm cả , cho e hỏi giờ e đem máy ra thế giới di động hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.850689,
+         "id": "890778",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là. Máy laptop của e nó bị virus nặng. Vậy bên tgdd có hỗ trợ diệt virus được không. Hay là cài lại win được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.834742,
+         "id": "818359",
+         "field_search": "question",
+         "question": "    Cho e hỏi như vậy sao sửa ạ !!! e dùng win 10 và máy dell ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.826914,
+         "id": "926394",
+         "field_search": "question",
+         "question": "E chào ad, ad cho e hỏi e chạy file setup skype thì nó thông báo lỗi này ạ: Không thể tìm thấy hoặc nạp Microsoft Installer. Vui lòng cập nhập máy tính của bạn và thử chạy lại skype. Em dùng win 7 64bit., cài đi cài lại không được. Rất mong ad giúp em, em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.81738,
+         "id": "871533",
+         "field_search": "question",
+         "question": " Cho e hỏi là iphone 5s thường xuyên không bắt được ừii thì có phải là bị lỗi không? Và em có được đổi máy mới không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.796036,
+         "id": "897198",
+         "field_search": "question",
+         "question": "Em mua laptop ở tgdd nhưng e làm mất bản quyền win 8.1 của máy rồi. cho e hỏi là tgdd coa thể cài lại win 8.1 cho e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.735744,
+         "id": "828429",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài đặt 3G trên iphone! Nhưng khi cài đặt xog thì vô facebook không được, vô bất kì trình duyệt web nào cũng k được! E thử mượn máy nhỏ em thì lại vô được! Cho e hỏi nguyên nhân vì s máy e k vào đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.666567,
+         "id": "862800",
+         "field_search": "question",
+         "question": " E có máy laptop the gioi di dong co giúp e cài win lại không ạ e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.587093,
+         "id": "777356",
+         "field_search": "question",
+         "question": "Ad ơi, với máy lenovo G40-80 thì nên cài win nào là ổn nhất ah. Mình đã cài win 7 32bit (máy chậm và không đủ driver) cài win 10 32bit thì đủ mà máy chạy không ổn định. Thanks ad...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.56002,
+         "id": "746552",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua lại điện thoai ịpone 5 tại cửa hàng. Khi e cài đặt lại tài khoản app store thì bắt buộc phải cung cấp Thông tin về thẻ tín dụng. Nhưng e không có thẻ tín dụng. Vậy giờ e phai làm sao giúp e với ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.545996,
+         "id": "854102",
+         "field_search": "question",
+         "question": " Cho e hỏi là e dùng win 10, sao ko tải skype về máy được ạ? nó để mã lỗi là 0x80240024 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.513042,
+         "id": "802654",
+         "field_search": "question",
+         "question": " Máy full disk,wifi có lúc không hiển thị,máy mới mua win 10 tự cài lại win 7 có mất bảo hành không vậy,mua o tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.491753,
+         "id": "779190",
+         "field_search": "question",
+         "question": "lúc trước em có mua máy tại tgdd , mua về e cài win 10 , mà e lỡ tay xóa mất cái win 8.1 bản quyền , giờ e muốn cài cái win 10 bản quyền thì có tốn tiền ko ạ , e mua máy từ lúc 15/11/2015 và em còn giữ biên lai + tài khoán outlook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.481428,
+         "id": "1023132",
+         "field_search": "question",
+         "question": "Anh cho e hỏi, e mới lấy cái lap dell 3568 chạy win 10 SL mà hơi chậm nên e có mang lên nhờ mấy a cài bản ghost, nhưng khi về mở máy ra thấy chức năng bảo mật bằng vân tay lại không sử dụng được. Anh có thể hướng dẫn e cách mở lại chức năng đó được không ah?E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.443186,
+         "id": "1139067",
+         "field_search": "question",
+         "question": "Chào bạnMình mới mua máy Dell 5568 I5 7200UCho mình hỏi máy này có hạ xuống được Win 7 không?Dùng win 10 khá đơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.427141,
+         "id": "1145679",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc e vào boot menu ấn vào usb boot để cài lại win sao nó cứ vào khởi động win vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.333883,
+         "id": "1153001",
+         "field_search": "question",
+         "question": "E chào ad, cho e hỏi : e đã cài đặt lại điện thoại , máy bắt xác minh tài khoản gmail của người quen biết , nhưng người đó đã quên mật khẩu, e dùng gmail của e vẫn không được, cho e hỏi : cách xóa vụ xác minh trên điện thoại? e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.321589,
+         "id": "1021860",
+         "field_search": "question",
+         "question": "Em hiện tại đang dùng laptop dell win 8 ạ.Thời gian gần đây lap của e bắt wifi rất kém ạ, để cách ổ wifi mấy mét  nhưng cũng chỉ hiện 3 vạch. E thử dùng lap khác và đt bắt nhưng đều bắt đc nhiều wifi và còn khỏe hơn ạ. Cho e hỏi e phải khắc phục laptop của e thế nào để bắt được nhiều wifi và khỏe hơn bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32005,
+         "id": "861723",
+         "field_search": "question",
+         "question": " Cho em hỏi là iPhone 3 có cài được iOS 7 không sao em thấy trên mạng nó cài được mà ra tiệm nó nói cài không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.301273,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.29492,
+         "id": "876353",
+         "field_search": "question",
+         "question": " em đang xài win 8 muốn cài win 7 được ko và giá win 7 bao nhiêu zạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.289246,
+         "id": "1133715",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có hỗ trợ cài win cho laptop ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.256279,
+         "id": "919023",
+         "field_search": "question",
+         "question": "e nâng cấp lên win 10 từ win 7 tự nhiên cài song máy báo lỗi như vậy mong ad có thể giúp e đc k a e cảm ơn ( lỗi recvery your PC couldn't star properly",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.24958,
+         "id": "1149267",
+         "field_search": "question",
+         "question": "E có mua bản quyền win 10 của thế giới di động, giờ e mua 1 máy khác của thế giới di động và lấy lại key trên máy cũ để cài lại vào máy mới được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.219782,
+         "id": "882702",
+         "field_search": "question",
+         "question": "Mình vừa cài win 8.1 xong, không biết trong quá trình cài mình có xóa nhấm không mà bây giờ trong Computer chỉ còn 2 ổ đĩa là C và D. Lúc ở win 7 có C, D và E. Dell vostro 5460.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.212189,
+         "id": "795441",
+         "field_search": "question",
+         "question": "cho e hỏi!! máy latop e xài hđh free dos giờ e muốn cài lại win 8.1 thi o cửa hàng có cài không ak và khoảng bao nhiêu tiền ak! e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.189232,
+         "id": "795431",
+         "field_search": "question",
+         "question": " ad cho e hỏi. lap e nâng cấp nên win 10 xong không vào được các ứng dụng, store phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.136862,
+         "id": "1008623",
+         "field_search": "question",
+         "question": "máy e cài win 10 bản 1607 ,mấy hôm nay máy toàn báo thế này là sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.118195,
+         "id": "801692",
+         "field_search": "question",
+         "question": "Laptop tôi khi cài lên win 10 thì máy bắt mạng chập chờn hoặc chạy không nổi dù các máy khác bắt mạng vẫn bình thường. Cho tôi xin cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.117363,
+         "id": "795631",
+         "field_search": "question",
+         "question": " iPhone 4 sao không bắt được wifi cho em hỏi cái mà nhiều lúc vẫn bắt được wifi khác ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.11562,
+         "id": "828482",
+         "field_search": "question",
+         "question": " Cho e hỏi, tại sao bắt đc wifi các ứng dnụg khác thì đều vào đc mà fb thì không kết nối đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.108915,
+         "id": "781267",
+         "field_search": "question",
+         "question": "MÁY LAPTOP VAIO EM MUA CÁCH ĐÂY 2 NĂM CÓ BẢN QUYỀN, VỪA RÙI Ổ CỨN BỊ HỎNG E PHẢI MUA LẠI Ổ CỨNG MỚI. CHO E HỎI LÀM SAO MÌNH CÀI ĐẶT LẠI WIN BẢN QUYỀN?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.081223,
+         "id": "1164641",
+         "field_search": "question",
+         "question": "Sao samsung bắt wiffi vs 4g chập chờn chơi liên quân lúc xanh lúc đỏ hòa bậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.067003,
+         "id": "887028",
+         "field_search": "question",
+         "question": "Vâng cho em hỏi em mới mua em lap asus a556uf i5 6200u, e có nhờ mấy a kĩ thuật cài đặt lại phần ngôn ngữ máy cho e mà hình như mấy a í quên, bây giờ làm sao để e cài dặt thành tiếng việt đc ạ. và cho em hỏi sao e lên apps tải zalo về k đc ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.04248,
+         "id": "845975",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em đang xài win 7 k bản quyền giờ e muốn update lên win 10 thì phải làm sao ah? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.976241,
+         "id": "795040",
+         "field_search": "question",
+         "question": " anh cho e hỏi. chỗ mình có cài lại win không?chi phí khoảng bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.969785,
+         "id": "885711",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Asus tp301 .Làm sao dùng word, exel trên win 10 vậy. phải bắt buộc thêm tiền để kích hoạt mới dùng được sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.961895,
+         "id": "1162911",
+         "field_search": "question",
+         "question": "E mới mua ip 7+ bên tgdd... mà về sạc thì mất khoảng hơn 3 tiếng, sài thì chỉ thao tác ứng dụng fb,mes mà tụt pin nhanh..cho e hỏi máy ổn kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.952026,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.949224,
+         "id": "743836",
+         "field_search": "question",
+         "question": " Admin cho em hỏi laptop win 8.1 bản quyền có xuống được win 7 không vậy ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.938764,
+         "id": "1138799",
+         "field_search": "question",
+         "question": "Cho em hỏi sao bây giờ máy e không cài được APK vậy ạ. Tất cả các apk đều ko cài đượcNó chỉ hiện ứng dụng không được cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.92302,
+         "id": "1010752",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em dùng oppo R8001 e tải game liên quân mobile bằng 3g máy báo không đủ dung lượng e ra xóa bớt ứng dụng rồi bắt wifi vào cửa hàng play tải được game rồi nhưng giờ máy vẫn báo không đủ dung lượng tải về thất bại mà e tải đk rồi sao máy vẫn báo, làm sao để hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.898501,
+         "id": "1022742",
+         "field_search": "question",
+         "question": "E dùng máy mobiistar lai z, tự dưng phần cài đặt cấu hình âm thanh không vào được. cho e hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

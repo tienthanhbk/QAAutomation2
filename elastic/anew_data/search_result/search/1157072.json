@@ -1,0 +1,801 @@
+{
+   "id_query": "1157072",
+   "total": 32111,
+   "total_current": 100,
+   "max_score": 75.59864,
+   "origin_question": "Cho em hỏi. Trong tin nhắn zalo với 1 người trong danh bạ. Hiện  bạn đã xem hoạt động của người đó là sao ạ.",
+   "hits": [
+      {
+         "score": 48.35032,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.30442,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.0295,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.343296,
+         "id": "837507",
+         "field_search": "question",
+         "question": "Cho em hỏi, nếu mình xoá tên một người nào đó trong danh bạ Zalo thì người đó k thể gọi hay nhắn tin cho mình nữa phải k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.125175,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.6254,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.48739,
+         "id": "816695",
+         "field_search": "question",
+         "question": " nếu như mình đã xoá sđt người đó khỏi danh bạ thì trong zalo còn lưu người đó lại không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.035038,
+         "id": "876966",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy lenovo của mình sau khi lưu danh bạ xong.khi có người trong danh bạ gọi điện tới lại không hiện tên người gọi mặc dù đã đc lưu trong danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.363342,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.19727,
+         "id": "1150541",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để người mà em muốn kết bạn zalo có số điện thoại của em trong danh bạ của họ, nhưng em kết bạn thì em muốn họ không thấy số điện thoại của em,và em không muốn trong danh bạ của người hiện sđt của e lên khi e gửi kết bạn và e không muốn cho họ biết đó là em? Thì phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.971977,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.282207,
+         "id": "1158965",
+         "field_search": "question",
+         "question": "Danh bạ điện thoại vẫn còn nhưng chỉ hiện kết nối zalo khi người trong danh bạ gọi mình không hiện tên nữa chỉ hiện số. Vô danh bạ ấn tên thì mấy mấy icon nhắn tin gọi điện là như nào nhỉ thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.778934,
+         "id": "803651",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi em nhắn tin trên zalo cho người khac ma trong đó người đó không onl trong thời gian dài cở 2 3 tháng lúc sử dụng lại zalo ng đó co đọc được tin nhắn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.479954,
+         "id": "1141676",
+         "field_search": "question",
+         "question": "Dạ, không phải là đề xuất thêm bạn ah, mà người ấy ở trong phần danh bạ Zalo và bạn bè của Zalo ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.578953,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.57492,
+         "id": "1151210",
+         "field_search": "question",
+         "question": "E xài ip 6s plus, trong zalo bạn bè hoạt động ko báo ai hoat động cả, nhưng tự nhiên có 1 nick bạn e zalo gửi tin nhắn báo ng đó đang hoạt động...lý do là vì sao ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.24306,
+         "id": "760445",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone. Cho tôi hỏi tôi dùng zalo nhắn tin với bạn bè lâu lâu thì bị mất tin nhắn nhưng chỉ với 1 người thì điện thoại của người đó thì tin nhắn vẫn còn đầy đủ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.2124,
+         "id": "1019513",
+         "field_search": "question",
+         "question": "Cho em hỏiE dùng Sony M5Khoảng 1 tuần nay khi cuộc gọi đếnThì xuất hiện 1 thông báo . Trong đó hiện tên danh bạ khác với danh bạ e đã lưuNhư vậy là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.117023,
+         "id": "738523",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ, chỗ gợi ý kết bạn trong zalo hiển thị 1 zalo khác mà ghi là Từ danh bạ, nghĩa là tài khoản zalo danh bạ ngta có số điện thoại của mình hả QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.594868,
+         "id": "1168561",
+         "field_search": "question",
+         "question": "tại sao trong thanh cuộc trò chuyện của em không hiện những người hay nhắn tin mà hiện những người lạ ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.409866,
+         "id": "830881",
+         "field_search": "question",
+         "question": "Em và người thân đang xài cùng icloud nên h danh bạ của e có vài số điện thoại của người thân e, danh bạ của cho cùng 1 số nhưng lại hiện tên đc lưu trong một máy khác. Làm sao để k bị vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.3492,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.122826,
+         "id": "954921",
+         "field_search": "question",
+         "question": " Cho e hỏi là tại sao Mobistar lai yuna x không lưu đc hình ảnh của bạn bè và người thân trong danh bạ đc vậy ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.635056,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.468636,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.29783,
+         "id": "1017990",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình xóa tài khoản zalo thì những tin nhắn mà mình đã nhắn cho mọi người từ trước đó nó có còn lưu trong zalo trên thiết bị của họ hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.15614,
+         "id": "802067",
+         "field_search": "question",
+         "question": "Ad ơi, cho mình hỏi, Zalo mình đã chặn một người xem nhật kí rồiNhưng sao mỗi lần mình đăng stt thì nó báo vô phần tin nhắn chat với người đó.Nhưng khi người đó vô tường mình xem thì không thấy do mình đã chặn xem nhật kíGiờ mình muốn khi mình đăng stt gì thì đừng báo vô phần chat của người đó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.082542,
+         "id": "1168600",
+         "field_search": "question",
+         "question": "cho em hỏi: em xóa tên đã lưu vào danh bạ. khi bấm số đó thì vẫn hiện tên trước đó đã lưu (như hình bên dưới), hoặc nhắn tin vẫn hiện tên \" có thể: tên người đã lưu\". mặc dù em đã xóa ra khỏi danh bạ. làm sao để xóa hết không còn hiện như vậy nữa ạ.em dùng iphone 7 ios12.2 em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.775772,
+         "id": "841571",
+         "field_search": "question",
+         "question": " Khi mình chặn hay hủy kết bạn với một người trên zalo thì toàn bộ tin nhắn của mình bên người đó có bị xóa hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.748457,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.510471,
+         "id": "835994",
+         "field_search": "question",
+         "question": "Zalo của em bị người khác xâm nhập rồi đổi mật khẩu luôn, họ lên đó nhắn tin bậy bạ, em không thể quản lý tài khoản đó được nữa, giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.911512,
+         "id": "1133375",
+         "field_search": "question",
+         "question": "Xin chào, cho em hỏi e đang xài điện thoại iphone 6,sao em có lưu tên trong danh bạ nhưng khj người ta trả lời tin nhắn lại thì chỉ hiện số điện thoại không có tên, em phải cài đặt sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.721815,
+         "id": "1144085",
+         "field_search": "question",
+         "question": "Em chào anh/chị ạ. Cho em hỏi là khi mình sử dụng tín năng Chặn trên Facebook là mình sẽ không nhìn thấy bất cứ thông tin nào từ người mình đã chặn nữa đúng không ạ? Tại khi em chặn người đó nhưng ở nhật kí hoạt động + mục đã lưu của em vẫn còn hiện những hoạt động của người đó hoài, có cách nào khắc phục không ạ? Em cảm ơn anh/chị nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.711853,
+         "id": "817338",
+         "field_search": "question",
+         "question": "E đăng ảnh lên tường zalo nhưng ảnh đó lại được gửi đến 1 người bạn trong zalo của e mặc dù e không hề gửi ảnh đó . Như vậy là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.587946,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.415052,
+         "id": "1135873",
+         "field_search": "question",
+         "question": "quyền riêng tư chặn kết bạn hết mọi thứ thứ mà người đó có lưu sdt của mình trong danh bạ của họ nên họ vẫn còn thấy nick của mình và kb với mình ? ?tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.394402,
+         "id": "806689",
+         "field_search": "question",
+         "question": "Em bị người ta chặn zalo cũng hơn 1 tháng. 10 ngày em không lên lại zalo. Hôm nay em lại tự nhiên báo là người đó đag sử dụng zalo hãu gửi tin nhắn là sao ạ. Là người ta bỏ chặn em phải không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.241837,
+         "id": "1156477",
+         "field_search": "question",
+         "question": "cho mình hỏi là mĩnh lỡ xóa tin nhắn trong zalo của người khác gửi cho mình , thì bên gửi có biết ko vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.171957,
+         "id": "1158443",
+         "field_search": "question",
+         "question": "con c5 của tôi cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.732168,
+         "id": "849213",
+         "field_search": "question",
+         "question": "Mình muốn xóa 1 số bạn bè trong danh bạ tango (danh bạ trên sim không có những người này). mình cũng đã vào danh bạ tango và nhấn chọn tên người muốn xóa nhưng ko hiển thị thông tin nào để mình chọn xóa. Mình muốn xóa hoàn toàn khỏi tango chứ ko muốn ẩn hay chặn. Mong bạn tra loi som cho minh. minh sd ssung j5 nhưng phần cài đặt ko có \"Manager Block list\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.628077,
+         "id": "828136",
+         "field_search": "question",
+         "question": " Cho em hỏi, khi mình chọn chế độ bạn thân với 1 người thì ng đó có nhận được tin nhắn hay thông báo về việc đó không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.583761,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.570045,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.866575,
+         "id": "1168537",
+         "field_search": "question",
+         "question": "Cho em hỏi: xem được họ đăng hình nhưng vô mục ảnh của zalo đó lại không thấy hình ảnh. Như vậy có phải là em bị người ta chặn xem nhật kí không? Nếu như là vậy thì khi họ chặn nhật kí với lại chặn tin nhắn thì khi em đăng 1 stt hay hình ảnh gì đó lên trang zalo của mình thì người ta có nhận đc thông báo+ xem được nhật kí của em không ạ. E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.787811,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.774532,
+         "id": "848001",
+         "field_search": "question",
+         "question": "Có người gửi tin nhắn zalo cho mình nhưng mình chưa kịp đọc thì người đó đã thu hồi vậy có cách nào đọc được tin nhắn đã thu hồi không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.734184,
+         "id": "1140926",
+         "field_search": "question",
+         "question": "Khi gửi nhầm tin nhắn qua zalo cho người khác mà họ chưa nhận được, tôi đăng xuất zalo thì người đó còn nhận được tin nhắn đó không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.711452,
+         "id": "876186",
+         "field_search": "question",
+         "question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.653658,
+         "id": "1013477",
+         "field_search": "question",
+         "question": "Mọi người ơi. Tại sao hồi đó khi 2 người nhắn tin với nhau. Thì masenger biểu tượng camera nó hiện vòng sóng. Để biết là đang đọc tin. Còn bây giờ. Nhắn tin mà masenger nó không có hiện ở biểu tượng vòng tròn ở camera. Xin mọi người chỉ giúp ạ. Thanhk mọi người ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.555822,
+         "id": "839619",
+         "field_search": "question",
+         "question": "tin nhắn viber của mình gửi đến một người nhwg hiển thị đã chuyển nhiều ngày, mình muốn hỏi: có phải người đó dùng chế độ ẩn đã xem hay là mình bị chặn viber. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.425838,
+         "id": "1156525",
+         "field_search": "question",
+         "question": "Mình hiện xài ip7 plus! Nhưng danh bạ trong mess k hiện lên danh sách người đang onl! Chỉ hiện lên số ng đang onl thôi! Chỉ mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.359997,
+         "id": "953320",
+         "field_search": "question",
+         "question": " Cho em hỏi là trên zalo mà người ta gửi tin nhất cho em em xem không được em gửi người ta xem được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.202034,
+         "id": "1136010",
+         "field_search": "question",
+         "question": "mình xóa zalo của họ trong danh bạ. thì mình đăng nhật ký họ có xem được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.201586,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.1557,
+         "id": "906308",
+         "field_search": "question",
+         "question": " Cho em hỏi là nếu muốn xóa tin nhắn trên zalo mà người nhận đã nhận được thì phải làm cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.13881,
+         "id": "1016237",
+         "field_search": "question",
+         "question": "Câu hỏi lần trước mình hỏi là tại sao chuông thông báo tin nhắn cứ tự động tăng âm lượng, và giờ mình phát hiện ra là chỉ khi nhận được tin nhắn rác thì chuông lại to hết cỡ. Hơn nữa tính năng chặn tin nhắn rác hoạt động rất phiền hà. Vẫn nhận tin nhắn bình thường với chữ Spam và tự động lưu luôn số đó vào danh bạ. Đã không chặn được lại còn thông báo to hơn, rõ ràng hơn nữa chứ. Nhiều lúc ức chế với cái J5 Prime này cực kỳ luôn. Mình muốn hỏi xem có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.07699,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.980503,
+         "id": "1135312",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có sdt ng đó  trong danh bạ nhưng bị chặn tất cả trên  zalo .cập nhật lên thì có gửi lời mời kb cho người đó đc vậy ng đó có nhận đc thông báo ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.95025,
+         "id": "1134424",
+         "field_search": "question",
+         "question": "Em sử dụng mess để nhắn tin với bạn bè em lở ấn nhằm bỏ qua tin nhắn bây giờ làm sau để em có thể nhắn tin lại với người đó như bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.885597,
+         "id": "1009537",
+         "field_search": "question",
+         "question": "Tôi dùng ĐT Sony  xperia z3, Tôi đã lưu tên vào danh bạ, khi có người nhắn tin đến thì điện thoại hiện số +84xxxxxxxxxx mà không hiện tên, khi nhắn tin trả lời lại thì không gửi được. Giúp tôi với, ĐT Sony phiền phức quá....chán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.859953,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.837881,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.829468,
+         "id": "1018028",
+         "field_search": "question",
+         "question": "Chào anh/chị! E đang dùng j7 pro.Khi e gửi ảnh cho bn bè bằng zalo, người nhận đã xem. Sau đó, e xóa ảnh trong máy của e. Khi đó, tin nhắn xảy ra lỗi. Nếu dùng messenger thì hk xảy ra tình trạng như vậy, trái lại, e vẫn có thể xem và tải ảnh về khi e đã xóa ảnh trong máy trước đó r.Thân anh/chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.618952,
+         "id": "870403",
+         "field_search": "question",
+         "question": "Không thể yêu cầu kết bạn, danh sách bạn của người này đã đầy. Cho e hỏi ad em không gửi được lời mời kết bạn cho người khác và mọi người cũng không gửi được cho em. Ad giúp em với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.2764,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.254986,
+         "id": "810890",
+         "field_search": "question",
+         "question": "Cho em hỏi sao facebook của em, em gửi tin nhắn cho người khác được mà người khác nhắn tin lại cho em em đọc không được vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.20522,
+         "id": "787043",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi đăng nhập Tango ở một cái máy khác cùng một số điện thoại đang nhập thì lại không nhận được dữ liệu tin nhắn hay danh bạ mà những người tôi đã kết bạn ở máy đang nhập củ, y như tôi là một người mới gia nhập Tango Bây giờ tôi phải làm cách nào để có những tin nhắn cũ và những người đã kết bạn cũ ở máy điện thoại đăng nhập mới này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.111412,
+         "id": "863508",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có 1 chiếc iphone 5 mà bị vỡ màn hình rất nặng...mà ở trong đó có danh bạ và hình ảnh rất quan trọng với em ( k có icloud) giờ em muốn sao chép danh bạ và hình ảnh ra iphone 6splus đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96716,
+         "id": "804824",
+         "field_search": "question",
+         "question": " Em muốn hỏi là khi mình chặn zalo người khác nếu mình nhắn tin cho họ họ có nhận được tin nhắn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96564,
+         "id": "1160970",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình có Phân Loại tất cả bạn bè trong danh bạ Zalo của mình, nhưng giờ mình đăng nhập bằng 1 máy tính khác thì tất cả phân loại đều mất, vào danh bạn bấm vào từng bạn để tag phân loại lại thì không hiện lên biểu tượng tag lun là sao bạn? Chỉ vào phần trò chuyện mới tag phân loại được nhưng vào Danh bạ thì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.952072,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.916384,
+         "id": "1143803",
+         "field_search": "question",
+         "question": "Mình mới mua Nokia 8.1 nhưng bị lỗi danh bạ. Nó cứ tự liên kết các số với nhau vào 1 người trong khi mình không yêu cầu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.728497,
+         "id": "791427",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy iphone 5 của em chỉ nhận được tin nhắn tới mà khi trả lời thì không trả lời được, không nt cho ai trong danh bạ được, vậy giờ em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.628769,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.627388,
+         "id": "1005975",
+         "field_search": "question",
+         "question": "AD Cho e hỏi cách cập nhật các phần mềm và nâng cấp phiên bản hệ điều hành của máy samsung galaxy c9 pro vs ạ, với lại cho e hỏi e đặt tên sdt trong danh bạ sao nó lại ghi là đã vượt quá số ký tự tối đa cho tên danh bạ trong thẻ SIM là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.622986,
+         "id": "758055",
+         "field_search": "question",
+         "question": " iPhone 5 cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ, cách khắc phục như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.61808,
+         "id": "959972",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể xem được các tin nhắn trong nhóm zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.56096,
+         "id": "814579",
+         "field_search": "question",
+         "question": "Chào bạn. mình muốn hỏi chút là chồng mình cũng dùng Zalo, mình cũng dùng mà sao mình lưu số của chồng mình trong danh bạ rồi mà sao mình không thấy cập nhật danh bạ là số của chồng mình trên Zalo hay do chồng mình đăng ký bằng máy tính bảng nên không hiện lên điện thoại mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.552742,
+         "id": "844359",
+         "field_search": "question",
+         "question": " Chào Ad...Mình muốn đổi tên của một người bạn của mình trong zalo, theo ý mình thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.543495,
+         "id": "994487",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 5s, Messenger của em không tải được tin nhắn của em với bạn bè trước đây, chỉ tải được phần tin nhắn của em với những người gần đây thôi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.542982,
+         "id": "789346",
+         "field_search": "question",
+         "question": " Cho e hỏi samsung a5 2016 gửi hình trong tin nhắn zalo đã nhận được rồi nhưng sau đó lại báo lỗi là bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.498291,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.447842,
+         "id": "1140364",
+         "field_search": "question",
+         "question": "Tại sao tên trong zalo lại không cập nhật như tên trong danh bạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.287086,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.16328,
+         "id": "758634",
+         "field_search": "question",
+         "question": "Cho hỏi cái ad mình mới đổi iPhone mình lắp sim vào thì thấy có cả danh bạ người khác làm thế nào để xóa danh bạ của người ấy đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.03669,
+         "id": "863784",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao zalo em nhảy lộn tên trong danh bạ. E chưa bao h bị như vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.976652,
+         "id": "776017",
+         "field_search": "question",
+         "question": " Mình vào danh bạ trong Zalo thì bị đẩy ra ngoài màn hình chính là sao ạ? Máy iPhone 5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.930765,
+         "id": "1021801",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ: em và bạn trai dùng chung icloud, mà lại ko xem được tin nhắn imessage hay ảnh. Chỉ xem đc danh bạ và cuộc gọi thôi. Vậy làm cách nào để có thể xem được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.891966,
+         "id": "1144219",
+         "field_search": "question",
+         "question": "Danh bạ đt của mình tự nhiên mất hết số liên lạc để gọi để nhắn tin giờ chỉ còn lại như trong hình thôi. Ad chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.853252,
+         "id": "810054",
+         "field_search": "question",
+         "question": " Chi dùm e cách xem tin nhắn zalo của người khác khi dăng nhập đươc vào njk cua ho rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.657112,
+         "id": "1151074",
+         "field_search": "question",
+         "question": "Sao zalo của mình tin nhắn ko báo vào máy. Mà bên kia tin nhắn họ gửi báo đã xem. Trong khi mình ko biết tin nhắn tới. Và mình cũng chưa xem.mong ad giúp đỡ. Cảm ơn ad nhìu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.649141,
+         "id": "801175",
+         "field_search": "question",
+         "question": " Tại sao mình đăng xuất zalo roi nhưng người khác nhắn tin tới vẫn nhận được tin nhắn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.631655,
+         "id": "809670",
+         "field_search": "question",
+         "question": "Mình đã gửi kết bạn trên zalo, ng đó không chấp nhận, vậy làm các nào để người đó không vào xem đc nhật kí, ảnh của mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.615715,
+         "id": "914727",
+         "field_search": "question",
+         "question": "Tại sao viber của tôi ko gửi dc tin nhan cho người khác nữagữi tin nhắn xong chỉ báo là đã chuyển,nhưng người bên kia ko nhận đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.52528,
+         "id": "818168",
+         "field_search": "question",
+         "question": " Cho e hỏi mình muốn cập nhật hình ảnh trong zalo về ảnh trong danh bạ điện thoại ntn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.508884,
+         "id": "986956",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi nếu mà mình dùng iCloud! Người khác có xem được kho ảnh của mình nếu mình không chia sẻ ko bạn! Trước đây mình có chia sẻ ảnh với tk khác vậy sau đó tài khoản đó có xem được những ảnh khác trong kho ảnh của mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.491398,
+         "id": "862506",
+         "field_search": "question",
+         "question": "Hoàng Long- cho e hỏi, bạn e nó có share cho e 1 cái video ngắn trong tin nhắn riêng trên zalo, nhưng nó ko có trang wep nào hết, ấn zô là xem thôi, vậy để làm sao mới có thể tải và gửi cái video tương tự và gửi vào tin nhắn trên zalo...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.469002,
+         "id": "930638",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi! Có trường hợp nào mà đt hết dung lượng hay bị gì gì đó...khiến cho tin nhắn người khác gởi tới cho mình ko được hiển thị ( mình ko chặn người lạ và họ vẫn chưa đồng ý kết bạn). Sau đó họ đồng ý kết bạn và tin nhắn của họ gởi cho mình lại được hiển thị. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.319468,
+         "id": "831401",
+         "field_search": "question",
+         "question": "Điện thoại của mình hãng coolpad, mà tin nhắn bị lỗi chỉ với một người, còn nhắn cho người khác thì không sao, cho mình hỏi điện thoại mình bị làm sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

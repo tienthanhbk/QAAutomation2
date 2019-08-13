@@ -1,0 +1,801 @@
+{
+   "id_query": "1007626",
+   "total": 33586,
+   "total_current": 100,
+   "max_score": 55.746155,
+   "origin_question": "Cho e hỏi điện thoại mới mua muốn đổi trả trong vòng 1 tháng không bị lỗi gì thì mất bao nhiêu  ạ",
+   "hits": [
+      {
+         "score": 33.63568,
+         "id": "993706",
+         "field_search": "question",
+         "question": "Xin hỏi, mình muốn mua trả góp 1 điện thoại tầm 7 triệu, góp trong vòng 1 năm. Vậy thì mỗi tháng mình phải góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.747494,
+         "id": "1134876",
+         "field_search": "question",
+         "question": "em mua realme 2 còn 1 đổi 1 trong 1 tháng nếu e muốn đổi qua máy khác e mất khỏang bao nhiêu phí ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.701916,
+         "id": "999416",
+         "field_search": "question",
+         "question": "Cho em hỏi là oppo f1s 2017 mua trả góp lãi xuất 0 thì 1 thán trả góp bao nhiêu tiền ạ trong vòng 12 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.627096,
+         "id": "1014423",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại ở điện máy xanh, nhưng bị lỗi. Vậy thì em sẽ được đổi điện thoại mới trong 1 tháng đầu phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.11699,
+         "id": "1164526",
+         "field_search": "question",
+         "question": "Cho mình hỏi chế độ đổi trả máy do máy bị lỗi của Điện thoại Samsung Galaxy A50 128GB là trong vòng bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.796078,
+         "id": "1137706",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn mua điện thoại Huawei Y9 trả góp, trả trước 3tr, trả trong 4 tháng thì mỗi tháng trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.676752,
+         "id": "1015711",
+         "field_search": "question",
+         "question": "Cho e hỏi  . . e vừa mua đien thoai samsung j2 prime đuoc 3 tháng . nay e muốn bán lại được không  hoặc đổi trả thì mất khoản bao nhiêu % ạ . điện thoại vẩn còn mới . không 1 vết trầy xuớt. . phụ kiện củng còn như mới ạ . . mong được phản hồi sớm ạ . . Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.126724,
+         "id": "1010668",
+         "field_search": "question",
+         "question": "Cho e hỏi mình được đổi trả điện thoại trong vòng 30 ngày đúng k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.072342,
+         "id": "1020623",
+         "field_search": "question",
+         "question": "Chào thegioididong ạ . Em mua trả góp ip6s 64gb trả trong vòng 12 tháng vậy 1 tháng trả bao nhiêu ? Và giấy tờ như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.978323,
+         "id": "1154343",
+         "field_search": "question",
+         "question": "Mình mua đt đc gần 1 tháng và muốn trả lại thì mất phí bao nhiêu ạ. Và trả lại cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.914715,
+         "id": "1019922",
+         "field_search": "question",
+         "question": "Em xjn lỗi cho em hỏi điện thoại mới mua nếu bị lỗi mình đổi cái khác mất bao nhiêu phần trăm vậy...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.908796,
+         "id": "758941",
+         "field_search": "question",
+         "question": "Em hỏi em là sinh viên năm nhất em muốn mua iphone 6 plus 16gb. trả góp trong vòng 12 tháng. vậy em phải đóng trước bao nhiêu vậy ạ. 1 tháng em phải trả bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.859146,
+         "id": "1014746",
+         "field_search": "question",
+         "question": "E muốn hỏi chút là e mới mua ĐT đã hai tháng h muốn đổi máy khác thì mất bao nhiêu phần trăm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.857374,
+         "id": "1158455",
+         "field_search": "question",
+         "question": "em ơi cho anh hỏi nến như đặt trả góp máy điện thoại oppo F 11 pro thì trả trước bao nhiêu trả trong vòng mấy tháng hả em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.851276,
+         "id": "992210",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua a52017 trả góp 0 dc 2 tháng máy vậy giờ mình muốn đổi 1 cái đt khác thì mất bao nhiêu  ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.641802,
+         "id": "1136930",
+         "field_search": "question",
+         "question": "Tôi có 1,5tr muốn mua máy samsung j4+ tôi muốn mua trả góp 0% trả trong vòng 4 tháng hỏi mỗi tháng tôi phải trả bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.473177,
+         "id": "752453",
+         "field_search": "question",
+         "question": "Mình muốn mua iPhone 6s64gb trả góp. Vậy cho mình hỏi có tính lãi suất không, nếu mà tính thì bao nhiêu ( trong vòng 12 tháng ) ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.37395,
+         "id": "1165034",
+         "field_search": "question",
+         "question": "e muốn hỏi e mua điện thoại OPPO a3s 16G h đc 3 tháng e muốn trả lại thì đc bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.36297,
+         "id": "1158299",
+         "field_search": "question",
+         "question": "Điện thoại e hưawei nova 3i bị lỗi bóng mờ mới mua được 1 tháng. Không biết có đựoc đổi mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.291939,
+         "id": "1152021",
+         "field_search": "question",
+         "question": "mình mới mua điện thoại realme 2 tại cửa hàng điện máy xanh.vẫn trong thời gian 1 đổi 1 trong vòng 1 tháng.vậy cho hỏi mình có thể đổi sang điện thoại khác được không hay chỉ đổi được máy mới cùng hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.089827,
+         "id": "997808",
+         "field_search": "question",
+         "question": "Chào ạ! Em mới mua điện thoại gần đây, bây giờ em muốn đổi điện thoại khác vì không hợp ý! Bây giờ em muốn trả đổi như thế nào ạ? Giá cả thì mất bao nhiêu? Quà tặng 400k em sẽ bị thu hồi lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.062801,
+         "id": "1008985",
+         "field_search": "question",
+         "question": "Mới mua a3 2017 10 ngày muốn đổi điện thoại khác thì mất bao nhiêu  vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.01706,
+         "id": "988714",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang mua trả góp điện thoại oppo F1s mới xài dc 1 tháng vậy giờ e muốn đổi lấy iphone 5s trả góp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.013758,
+         "id": "996385",
+         "field_search": "question",
+         "question": "E muốn trả máy j5 prime mới mua từ hồi tháng 3 thì mất bao nhiêu  ak???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96916,
+         "id": "1020169",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn mua điện thoại vivo v5 trả góp thì trả trước bao nhiêu và góp mấy tháng ah  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.754297,
+         "id": "748164",
+         "field_search": "question",
+         "question": "Cho hỏi iPhone 4s mua trả góp có bằng lái chứng minh trả trong vòng 10 tháng. Trả trước 50% Thì lãi xuất một tháng là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.666574,
+         "id": "1000349",
+         "field_search": "question",
+         "question": "Tôi có trả góp 1 máy điện thoại và dùng dc hơn 1 tháng nay tôi cảm thấy ko phù hợp với nhu cầu muốn đổi trả sang máy khác thì mất bao nhiêu %.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.546751,
+         "id": "1162662",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện relmi c1 máy cũ đổi trả . Mua theo cách trả góp . Hông biết một tháng phải đóng bao nhiêu tiền . Trả góp trọng vòng mấy tháng . Lãi suất sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.450373,
+         "id": "770259",
+         "field_search": "question",
+         "question": " Mình muốn mua 1 chiếc iPhone 6 16GB, trả trước 0 đồng trong vòng 6 tháng thì cần thủ tục gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.319057,
+         "id": "1142428",
+         "field_search": "question",
+         "question": "Shop cho e hỏi, cái điện thoại Oppo A3s mới mua sài được khoảng 1 tháng. Nhưng e muốn đổi máy từ 16g lên 32g. Tốn khoảng bao nhiêu tiền để đổi lên 32g ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.26518,
+         "id": "1010155",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu điện thoại còn trong thời gian đổi trả, mà phụ kiện bị lỗi. Vậy nếu mình muốn trả lại thì có mất phí k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.213594,
+         "id": "1143323",
+         "field_search": "question",
+         "question": "Em mới mua 1 oppo f9 trả góp 4 tháng ạ. Giờ e muốn đổi qa ip 7 plus cũ thì cần bù thêm bao nhiêu tiền ạ. Có thay đổi cách trả góp kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.188171,
+         "id": "816019",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn mua trả góp iphone 5s cũ thì thủ tục cần những gì. E phải trả trc bn % và nếu e trả trong vòng 6t thì mỗi tháng e phải bn tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.137367,
+         "id": "770752",
+         "field_search": "question",
+         "question": "E muốn mua iPhone 5S 16GB thì số tiền trả trước là bao nhiêu và được trả góp trong bao nhiêu tháng, mỗi tháng là bao nhiêu ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.130407,
+         "id": "1151802",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn mua con zenfone max pro m2 thì trả góp mỗi tháng bao nhiêu và trong bao nhiêu tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.128944,
+         "id": "1017270",
+         "field_search": "question",
+         "question": "A cho e hỏi em mua j7 prime đươc 8 tháng nhưng bị lỗi camera trước bảo hành làm lỗi..  Mà muốn đổi ngang mấy j7 prime khác mất phí bao nhiêu % may moi chua bi gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.11724,
+         "id": "1016811",
+         "field_search": "question",
+         "question": "Cho e hỏi Chi phí đổi điện thoại trong tháng đầu tiên là bao nhiêu ạk..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.790186,
+         "id": "1165146",
+         "field_search": "question",
+         "question": "E có mua cáp sạc điên thoại iphone, và được đổi trả trong vòng 1 năm.e mua cách đây cỡ 3 tháng,nhưng e k giữ hoá đơn với hộp đựng.Như vậy e có thể đổi trả được k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.656412,
+         "id": "1008768",
+         "field_search": "question",
+         "question": "Nếu e mua 1 máy điện thoại và không thích dùng nữa e muốn đổi trả thì phí e sẽ bị mất là bn % ạp ( máy còn nguyên và không xây xước hay hỏng hóc gì)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.211882,
+         "id": "1156159",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Huwei trả góp trong vòng 4 tháng , mình trả đc 1 tháng rồi . còn 3 tháng mình thanh lý hợp đồng 3 tháng còn lại đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.211283,
+         "id": "1162517",
+         "field_search": "question",
+         "question": "e mua điện thoại huawei nova 3i được 1tháng rồi giờ e muốn đổi màu khác thì mất bao nhiêu phí ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.186201,
+         "id": "1021750",
+         "field_search": "question",
+         "question": "Điện thoai e mới mua đk 1 tuần h đổi j7 pro thì bị trừ phí bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.085756,
+         "id": "826844",
+         "field_search": "question",
+         "question": "cho e hỏi iphone 5s 16g mua trả góp trong 9 tháng thì mỗi tháng trả bao nhiêu (tháng đầu trả 0%).còn trả trong 6 tháng thì mỗi tháng trả bao nhieu tiền (tháng đầu trả 0%)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.03468,
+         "id": "996606",
+         "field_search": "question",
+         "question": "Ad cho e hỏi điện thoại e mua hơn 30 ngày rồi. Giờ e muốn đổi trả thì ad thu lại bao nhiêu phần trăm của máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.033367,
+         "id": "1017151",
+         "field_search": "question",
+         "question": "Khi mất phiếu bảo hàn rồi có được đổi điện thoại trong 1 tháng k ạ? Vì điện thoại e mua hơn 1 tuần mà nó bị tắt nguồn khi đang sử dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.998787,
+         "id": "1134406",
+         "field_search": "question",
+         "question": "cho e hỏi là e mới mua điện thoại muốn trả lại để mua máy khác đắt hơn thì sẽ chịu bao nhiêu phần trăm phí ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.98433,
+         "id": "1164561",
+         "field_search": "question",
+         "question": "Tôi có mua máy được 7 ngày. Máy bị lỗi wi-fi.  Tôi đổi trả có đc không. Và nếu ko thấy lỗi tôi đổi máy mới thì mất bao nhiêu phần trăm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.892218,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.861677,
+         "id": "1021951",
+         "field_search": "question",
+         "question": "Mua máy trong vòng 1 tháng có đổi được không.. Thỉnh thoảng bị như thế này ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.86148,
+         "id": "987678",
+         "field_search": "question",
+         "question": "e mới mua 1 chiếc điện thoại dùng đc gần 1 tháng bjo e muốn đổi máy khác thì phải chịu phí bn ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.702509,
+         "id": "1014433",
+         "field_search": "question",
+         "question": "e đang trả góp 1 cái điện thoại mà chưa hết thời gian trả góp. cho e hỏi nếu trong tháng này e trả hết tiền góp còn lại. sau đó e trả góp 1 cái điện thoại khác trong tháng này luôn có đc ko. tháng này e trả góp rồi và điện thoại hư nên e muốn trả hết tiền chiếc đt đó và góp cái đt mới khác.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.471647,
+         "id": "1151228",
+         "field_search": "question",
+         "question": "Dạ thế giới đi động cho em hỏi, em muốn mua điện thoại asus zenfone max pro m1 trả góp vậy 1 tháng trả bao nhiêu lận ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.433231,
+         "id": "778362",
+         "field_search": "question",
+         "question": " Cho em hỏi qua tết em muốn mua điện thoại iPhone 5s trả góp được không ak trả bao nhiêu tháng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.433142,
+         "id": "1002060",
+         "field_search": "question",
+         "question": "điện thoại a5 2016 mua hồi tháng 2. Nay đổi trả thì nhận lại được bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.240133,
+         "id": "1013831",
+         "field_search": "question",
+         "question": "Nếu tai nghe có sẵn trong lúc em mới mua điện thoại mà giờ mới sáng cở 1 tháng mà bị liệt 1 bên k nghe đc . Thì có đổi trả hay k v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.237122,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.179478,
+         "id": "993135",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Em ở tỉnh,  muốn mua trả góp trong vòng 4 tháng ở TP. Hcm có dc ko,  thứ tục cần gì.  Lúc trước e có trả góp 6 tháng ở bên mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.013258,
+         "id": "820473",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Điện thoại Asus của mình vừa mua khoảng 3 tháng bây gìơ mình muốn đổi sang điện thoại iphone 5 mình cần trả bao nhiêu nữa vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.881556,
+         "id": "1009950",
+         "field_search": "question",
+         "question": "Em mới mua điện thoai samsung j2 prime được 25 ngày. Điện thoại bị lỗi chân sạc, cho e hỏi điện thoại em có được đổi trả k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.686655,
+         "id": "1169114",
+         "field_search": "question",
+         "question": "Mình mua 1 chiếc điện thoại Nokia 2 vào ngày 2/9/2018 bây giờ mình muốn đổi lại chiếc điện thoại khác thì mất bao nhiêu phần trăm giá trị ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.650993,
+         "id": "1167280",
+         "field_search": "question",
+         "question": "mình mua điện thoại huawei p70 lite màu đen được 1 tháng giờ mình muốn đổi sang màu xanh dương được k? và phải mất thêm bao nhiêu tiền nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.627892,
+         "id": "1140293",
+         "field_search": "question",
+         "question": "Điện thoại em mua chưa được 1 tháng còn trong thời hạn bảo hành bị hư camera sau em đổi cái mới được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.558434,
+         "id": "1147032",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Nếu mình mua trả góp 0% một cái điện thoại. Trả trước 30% vào khoảng 1 triệu. Và số còn lại trả trong vòng 4 tháng. Thì ngay lúc mua mình chỉ cần trả 1 triệu, hay đóng thêm cả tháng đầu tiên vào lúc mua luôn.. mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.491266,
+         "id": "1013099",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Ngày mùng 8/8/2017 mình có mua đt a5 ở thế giới di động. Nhưng hiện nay dùng thì bị tụt bin quá nhanh. Trong vòng 1 tiếng k sử dụng, k bật mạng mà vẫn bị hao 30%. Vậy tôi hỏi có đc đổi 1 với 1 trong vòng 1 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.47955,
+         "id": "772636",
+         "field_search": "question",
+         "question": "Cho em hỏi,  của em mới thay pin 1 tháng, sạc thì điện thoại  nhưng , rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy.Với  bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi máy bị gì ạ? Và sửa phải mất bao nhiêu tiền? !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.448645,
+         "id": "1007983",
+         "field_search": "question",
+         "question": "cho em hỏi trả góp trong bao nhiêu tháng và mỗi tháng trả góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.414831,
+         "id": "1145511",
+         "field_search": "question",
+         "question": "Trả góp 0% trong 12 tháng vậy mình có thể sử dụng thêm chương trình khuyến mãi thu điện thoại cũ đổi mới hay không?và có trả trước bao nhiêu % không,cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.341352,
+         "id": "798790",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iPhone 6 plus được 3 tháng, mà bị rớt nứt màn hình ngoài, vậy giờ em đổi lại máy mới được không ạ?? đổi được thì phải bù bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.230291,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.18752,
+         "id": "1155345",
+         "field_search": "question",
+         "question": "Mình có 1 điện thoại vsmart active 1 plus mới mua đc 1 tháng. Nhưng máy có lỗi về phần 3 phím điều hướng vậy mình muốn đổi thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.131475,
+         "id": "1141116",
+         "field_search": "question",
+         "question": "cho em hỏi chế độ trả góp ip 7 plus 32gb bn 1 tháng và trả trong bao nhiêu tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.126268,
+         "id": "1019067",
+         "field_search": "question",
+         "question": "e mua samsung a5 2017 đc 1 tháng giờ em muốn trả lại thì bị mất bn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.114996,
+         "id": "781784",
+         "field_search": "question",
+         "question": " CHo em hỏi mua iPhone 5S được 1 tháng nếu đổi trả giá trị máy còn bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.11147,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.074697,
+         "id": "1018543",
+         "field_search": "question",
+         "question": "mình muốn thay mặt kinh điện thoại oppo f3 mình mới mua gan 1 tháng bị bể kinh minh muốn thay kinh màn hình giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.033207,
+         "id": "992884",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại iphone 6 cũ góp thì 1 tháng góp bao nhiêu và khi mua mình cần ứng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.004728,
+         "id": "1166162",
+         "field_search": "question",
+         "question": "Ac cho e hỏi xiu là máy e mua trả góp gần dc 1 tháng rùi .à giờ máy xuất hiện lỗi nhìu wifi tự động ngất kết nối ứng dụng bị ẩn giờ e mang trả hoặc đổi lại thì mất bn % ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.973337,
+         "id": "1165553",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua samsung a7 2018 mà giờ muốn đổi oppo f9 phải bù bao nhiêu tiền. Máy mới không trầy xước gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.971373,
+         "id": "989419",
+         "field_search": "question",
+         "question": "e muốn mua Trả góp Oppo F3  theo Acs thì phải đóng trước bao nhiêu ạ? mỗi tháng trả góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.952988,
+         "id": "1008393",
+         "field_search": "question",
+         "question": "Nếu trả góp thì có thể trả tối thiểu là mấy tháng.  Ví dụ như trong vòng 1 tháng có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.914299,
+         "id": "1140901",
+         "field_search": "question",
+         "question": "Mình muốn trả góp Iphone Xs 64g thì chỉ trả tối đa trong vòng 12 tháng thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.87112,
+         "id": "1135267",
+         "field_search": "question",
+         "question": "Dạ e mua iphone 6 vào tháng 4 năm nay máy không có lỗi gì lúc mua với giá 7t rưỡi giờ e muốn đổi iphone 6s plus thì phải bù thêm bao nhiêu nữa ạh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.853048,
+         "id": "1165094",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em có 1 con iphone 6s plus mới mua tháng gần đây. Giá 11tr mấy. Chỉ bị hư camera sau, ko trầy gì cả.Muốn lên con iphone 7 plus thì đổi phải mất khoảng nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.841005,
+         "id": "1161330",
+         "field_search": "question",
+         "question": "Em mới mua oppo f 9 đk một tháng bây h e muốn đổi lên f11 thì phải phụ bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.831127,
+         "id": "1015795",
+         "field_search": "question",
+         "question": "Máy mua được 3 tháng giờ đổi trả thì mất bao nhiêu phần trăm giá trị máy. Sony xa1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.74853,
+         "id": "1138482",
+         "field_search": "question",
+         "question": " Bao nhiêu tuổi mới được mua điện thoại trả tiền mặt và mua điện thoại trả tiền mặt cần những thông tin gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.723375,
+         "id": "1010608",
+         "field_search": "question",
+         "question": "cho mình hỏi 1 vấn đề, mình mới mua 1 điện thoại samsung J5 primer hơn 1 tháng thì bị lỗi không nhận sim, không có sóng. mình đã mang ra TGDD bảo hành, nhưng minh biết, những sản phẩm mới mua đã bị lỗi như vậy thì có mang đi bảo hành đi chăng nữa thì 1 thời gian rất ngắn cũng sẽ bị lỗi. mình muốn được đổi mới 1 điện thoại khác không biết có được hay không.mua 1 chiếc điện thoại mới hơn 1 tháng mà bị lỗi mình thật sự không hài lòng cho lắm.  mình cũng từng nhiều lần giơi thiệu ban be tới TGDD mua hàng, nhưng lần này mình thật sự rất thất vọng về sản phẩm mình mới mua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.668812,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.668077,
+         "id": "1139243",
+         "field_search": "question",
+         "question": " chào ad.. cho e hỏi xíu được không ạ... nếu e muốn mua điện thoại trả góp thì cần những gì ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.649033,
+         "id": "1023017",
+         "field_search": "question",
+         "question": "Em mới mua samsung j7 pro 6.690.000Đ được 1 tuầnGiờ em muốn đỗi trả thì mất bao nhiêu phí vậy QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.636097,
+         "id": "991281",
+         "field_search": "question",
+         "question": "Bảo hành 1 đổi 1 thức hiện mất bao nhiêu thời gian a? Có ngay lập tức không ạ. Có được hỗ trợ điện thoại trong thời gian chờ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.580534,
+         "id": "834464",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Em tên Đặng ngọc tuấn em có mua một điện thoại iphone 4s 8gb trả góp trong vòng một năm với số tiền đóng hàng tháng là 337.000vnd . Nhưng đến hôm nay điện thoại của em bị lỗi không sạc pin được em muốn hỏi TGDĐ là em muốn đem điện thoại đến để kiểm tra sữa chữa cho em nhưng em làm mất giấy bảo hành thì đem biên lau đóng tiền trả góp hàng tháng ra để kiểm chứng được không ạ ? Em vẫm còn chương trình dán màn hình 12 tháng mà ko cần giấy vẫn dán bình thường nhưng bảo hành thì sao ạ mong TGDĐ trả lời em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.562426,
+         "id": "1016274",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại ip6 với giá 8tr990 bằng trả góp mà hiện tại em có 7tr r thì em cần trả góp bao nhiêu tháng với mức lãi suất bao nhiêu v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.55398,
+         "id": "1165772",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy iphone x. Nhưng chưa cài đặt gì thì bị mất. Chỉ còn số imei . vậy có cách gì tìm lại điện thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.530949,
+         "id": "1142015",
+         "field_search": "question",
+         "question": "Cho hỏi muốn đổi điện thoại oppo A3s 32gb còn bảo hành và không bị trầy xướt gì đổi lấy huawei Y7 Pro thì tốn nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.499228,
+         "id": "1166787",
+         "field_search": "question",
+         "question": "Điện thoại Vivo V9 màu đen của em mua tới tháng 6 này là 1 năm nhưng bị mất tai nghe với bị trầy xước thì bán được bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.45159,
+         "id": "1012014",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại samsung J3 giờ em muốn đổi qua xiao mi cùng giá thì tốn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.449099,
+         "id": "1164708",
+         "field_search": "question",
+         "question": "Dạ điện thoại samsung galaxy A10 mình mới mua được chưa 1 tuần . Cho mình hỏi là mình muốn đổi lại chiếc điện thoại và bù thêm tiền để lấy điện thoại mới thì khi hoàn lại điện thoại mình sẽ nhận lại được bao nhiêu phần trăm giá trị ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35657,
+         "id": "1151209",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình mới mua trả góp samsung Note 9 chưa được 1 tháng,trả trước 9 triệu và đã đóng được 1 tháng rồi, hiện tại mình muốn đổi sang Samsung note 10 thì cần bù bao nhiêu tiền và điều kiện như thế nào ạ!! tình trạng máy k bị trầy xước và hư hỏng bất kì phần nào vì mình mới mua chưa được 1 tháng ạ!! mong ad trả lời sớm ạ!! tks ad trước!!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

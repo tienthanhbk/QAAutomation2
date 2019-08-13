@@ -1,0 +1,801 @@
+{
+   "id_query": "1162226",
+   "total": 34335,
+   "total_current": 100,
+   "max_score": 101.761505,
+   "origin_question": "Cho em hỏi tại sao samsung j7 2015 của em cắm tai nghe zin theo máy vào thì nghe được mà nói không được ạ. Tất cả các tai nghe khác cũng như vậy em đã thử rồi",
+   "hits": [
+      {
+         "score": 61.34289,
+         "id": "988939",
+         "field_search": "question",
+         "question": "máy tính của em cắm tai nghe vào thì tai nghe không nghe được mà máy vẫn phát nhạc máy vẫn hát . em đã thử nhiều tai nghe rồi nhưng tất cả tai nghe em thử đề vậy . vậy nguyên nhân là do đâu và biện pháp khắc phục phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.138947,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.239315,
+         "id": "1160903",
+         "field_search": "question",
+         "question": "Mình có 1 máy samsung galaxy grand prime không nhận tai nghe, cắm 1 tai nghe khác vào lại nghe được bth, tai nghe kìa cầm sang máy khác cũng vẫn nghe được ,thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.67224,
+         "id": "1000152",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j5 prime của em mới mua tại tgdd khi cắm tai nghe vào chuông cuộc gọi đến không báo vào tai nghe mà báo ngoài máy thế ạ? Khởi động lại máy thì lần đầu tiên chuông báo về cả máy và tai nghe nhưng giờ thì lại không báo về tai nghe nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.18085,
+         "id": "1010820",
+         "field_search": "question",
+         "question": "bên mình cho em hỏi là hôm trc em có mua 1 chiếc tai nghe của bên mình, nhưng em mang về thì tai em ko vừa với kết cấu của tai nghe dù đã thử hết các nút tai, em có được đổi lấy loại tai nghe khác ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.87758,
+         "id": "1140981",
+         "field_search": "question",
+         "question": "Sao máy Oppo A3s của em,dùng tai nghe mà không nghe được âm thanh trái phải của tai nghe ạ(Máy oppo a3s khác thì nghe đc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.75197,
+         "id": "1009113",
+         "field_search": "question",
+         "question": "Ad ơi . Cho em hỏi. Tai nghe của samsung J7 prime được bảo hành bao lâu ạ. Em mua Samsung J7prime hôm 25/4/2017 tới hôm nay là hơn 3 tháng . Tai nghe theo máy của em bị hư một bên không nghe được. Em có được đổi tại cửa hàng đã mua không ạ. Trường hợp của em có được hỗ trợ bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.052887,
+         "id": "1010098",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop dell N3567 C5I31120 cào win10, mỗi lần e cắm tai nghe vào đều phải restart lại máy mới nghe được là máy bị sao thế ạ? (Tai nghe e thử sang máy khác và không có vấn đề gì cả)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.896442,
+         "id": "1139019",
+         "field_search": "question",
+         "question": "Cho hình hỏi.samsung j7 prime cứ cắm tai nghe khi gọi là không nghe hoặc nói nghe gì được là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.611725,
+         "id": "809661",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, iPad của em chỉ nghe được 1 bên tai nghe, đã thử bằng nhiều tai nghe khác và đã xác định tai nghe không bị hư, chỉ có cắm vào Ipad nó mới như thế thôi, đã chỉnh chế độ L-R của Ipad nhưng vẫn không ăn thua gì, cho em hỏi nó bị hư cái gì và phải sửa ntn ạ?Mong hồi âm sớm của Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.56056,
+         "id": "1024328",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại dòng samsung A5 2017. Thông thường các dòng khác em thấy khi cắm tai nghe có thể nói hoặc ghi âm được nhưng với điện thoại này em không thể ghi âm qua tai nghe. Cho em hỏi lý do tại sao và làm như nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.51001,
+         "id": "996581",
+         "field_search": "question",
+         "question": "Em dùng điện thoại samsung galaxy tab 4. đang nghe tai nghe bình thường tự nhiên nó nhỏ đi? em có đổi tai nghe khác mà vẫn không nghe lớn như bình thường được? em có gắn cái tai nghe đó sang điện thoại khác tai nghe đó vẫn nghe bình thường? em muốn hỏi cách khác phục ạ. cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.158882,
+         "id": "997334",
+         "field_search": "question",
+         "question": "Cho em hỏi em Sài iPhone 7 và chỉ sử dụng tai nghe beat em cắm tai beat vào Jack chuyển đổi 3.5mm khi ghi âm thì nó bị rè em có thử lại với ipad thì cắm tai nghe (không Jack ) thu âm ko bị gì và cắm tai nghe + Jack thu âm bị rè vậy cho em hỏi lỗi do Jack hay tai nghe không tương thích ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.98285,
+         "id": "1013526",
+         "field_search": "question",
+         "question": "Cho em hỏi tai nghe samsung j7 prime theo máy được bảo hành bao lâu ạ? Và tai nghe được hỗ trợ bảo hành trong trường hợp nào? Em mua điện thoại ngày 25/4/2017 tới nay gần 4 tháng. Tai nghe theo máy của em bây giờ chỉ nghe được 1 bên, trong trường hợp này em có được hỗ trợ bảo hành không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.42185,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.003372,
+         "id": "1013663",
+         "field_search": "question",
+         "question": "e mới mua điện thoại oppo a37 được 3 ngày. e có cắm phone nghe nhạc thử thì ổ cắm khá là lỏng, lúc vô lúc lại không vô. nghe nhạc thì nhỏ mà e chỉ nghe được một bên loa, e thử lấy tai phone khác cắm vào cũng y như vậy. cắm phone oppo vô điện thoại khác thì e nghe nhạc bình thường. vậy e có thể đổi điện thoại khác được chứ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.678524,
+         "id": "844665",
+         "field_search": "question",
+         "question": "Mấy anh ơi cho em hỏi. Sao cái iphone của e không cắm tai phone. Mà vẫn hiện tai phone vậy. Người khác gọi đếm phải đeo tai phone mới nghe được. Nghe nhạc và xem video cĩng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.36983,
+         "id": "1150321",
+         "field_search": "question",
+         "question": "Điện thoại xiaomi redmi 5 plus lúc sáng chơi game hay nghe nhạc trên youtube vẫn nghe được . Chiều cắm vào thì máy lại không nhận ạ. Em thay ra thay vào 4 cái tai nghe r mà k cái nào nhận được cả. Em cũng đã tắt ứng dụng chạy nền và khởi động lại máy. Hôm bữa có trường hợp y như vậy nhưng mà qua hôm sau tai nghe cắm vô nghe bình thường nên e ko đem ra tgdd, có sửa được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.335884,
+         "id": "772968",
+         "field_search": "question",
+         "question": "xin chao. cho toi hoi là khi cắm tai phone vào máy tính trước rồi khởi đông thì nghe được. còn khi mở file nhạc lên nghe mà mới cắm tai phone thì không nghe được, chỉ nghe loa ngoài của laptop. cho hỏi lỗi của phần cứng máy hay bị lỗi win. thanks your",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.01921,
+         "id": "778741",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em đang dùng 1 chiếc iphone 4S. Tại sao khi em cắm tai nghe vào mới nghe được nhạc. Còn khi phát loa lại không nghe được không cho to nhỏ được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.75636,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.48303,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.21565,
+         "id": "811714",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình mới mua 1 cái tai nghe iphone. Mình dùng ip4s cắm vào chỉ nghe dc 1 bên tai. Còn cắm vào các máy lhzcs thì nghe dc cả 2. Làm thế nào để khắc phục dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.163727,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.133274,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.02144,
+         "id": "1143244",
+         "field_search": "question",
+         "question": "A/c ơi cho ek hỏi sao latop của ek k kết nối dc với tai nghe cũng như tai nghe Bluetooth dù thử nhiều cách nhưng cũng như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.952194,
+         "id": "1020047",
+         "field_search": "question",
+         "question": "Tại sao bật tai nghe Bluetooth rồi mà không kết nối với tai nghe được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.912823,
+         "id": "788014",
+         "field_search": "question",
+         "question": " Tai nghe Oppo neo 7 chỉ nghe được 1 bên cắm vô lap thì nghe được cả 2 tai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.876797,
+         "id": "775339",
+         "field_search": "question",
+         "question": " cái laptop asus cắm tai nghe thì không nghe đc cài driver rồi cũng không nghe đc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.770004,
+         "id": "1022536",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua samsung galaxy a7 được vài ngày.lúc đầu cắm tai nghe vào vẫn bình thường nhưng hôm nay lại không cắm vào được.phải cắm mạnh vào mới nghe được nhưng bắt buột phải giữ chặt tai nghe. Nếu không giữ chặt thì tai nghe không thể ghim sát được. Cho e hỏi phải khắc phục như thế nào ạ?E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.732403,
+         "id": "1001055",
+         "field_search": "question",
+         "question": "xiaomi 4a của e cắm tai nghe nhạc xem phim bình thuờng như khi gọi video call thì chỉ nghe bên kia nói mình nói lại ngta k nghe dc e đã kiểm tra micro trog cuộc gọi tất cả nhưng vẫn k dc máy e mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.676743,
+         "id": "873363",
+         "field_search": "question",
+         "question": "Điện thoại samsung J1 6 của em lúc trước khi đeo tai nghe vẫn nghe được tin nhắn thoại trên messenger . Nhưng 2 ngày nay em có lỡ xóa rồi tải lại messenger và khi đeo tai nghe , tin nhắn thoại không phát vào tai nghe mà phát ra loa ngoài . Trong khi call messenger , zalo , skype , mp3 nghe vào tai nghe vẫn bình thường . Vậy em phải sửa thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.666588,
+         "id": "908796",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là: Tự nhiên laptop của mình không phát ra âm thanh, cắm tai nghe vào vẫn không nghe thấy gì, mình đã cài đặt lại drive thì laptop đã nghe được nhưng tai nghe thì bị rè, mình đã kiểm tra tai nghe ở máy khác thì không bị rè. Mình muốn hỏi là làm sao để khắc phục tình trạng này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.6202,
+         "id": "1159017",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng con samsung j4 lúc cắm tai nghe vào vẫn nghe bình thường nhưng mic nói thì k nói đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.768734,
+         "id": "1155330",
+         "field_search": "question",
+         "question": "Mình dùng j7 pro. Hôm nay cắm tai nghe vào máy không nhận, mình tưởng tai nghe hỏng nhưng không phải, cắm tai nghe vào máy tính vẫn nghe tốt. Vậy là máy điện thoại mình có vấn đề phải không ạ? mình cần đem máy đến đâu để kiểm tra ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.567173,
+         "id": "1011563",
+         "field_search": "question",
+         "question": "Tai nghe s7 edge của em không nghe được bên tai phải,máy em còn bảo hành có được đổi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.476868,
+         "id": "889677",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi pc của bình tự nhiên micro không hoạt động cắm tai nghe vô và nói trên micro tai nghe người khác vẫn không nghe được là lỗi do đâu ạ và cho mình xin cách khắc phục với ạ .........thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.47226,
+         "id": "878888",
+         "field_search": "question",
+         "question": " Sao điện thoại samsung a9 pro của e cắm tai nghe vào không nhận vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.35144,
+         "id": "824374",
+         "field_search": "question",
+         "question": "em sài đt ss galaxy grand prime g531. em điện qua zalo bằng wifi... cắm tai nghe vào cho dễ nói chuyện... nhưng em nói rồi nghe như kiểu nó nói lại giọng em... nhưng một lúc không bị nữa... em sợ bị bên thứ 3 hay ai đó nghe lén... ad giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.0322,
+         "id": "996697",
+         "field_search": "question",
+         "question": "Em dùng ip 6s plus, khi có cuộc gọi nếu em đang cắm tai nghe thì phải mở loa ngoài xong và tắt loa ngoài đi thì tai nghe mới nghe được là sao vậy ạ?? Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.823093,
+         "id": "760392",
+         "field_search": "question",
+         "question": "QTV ơi. Sao tai nghe chụp tai Kanen của em dạo này mỗi lần gắn vào máy tính thì cứ 1 bên nghe to còn 1 bên thì nghe nhỏ. Nhưng khi bỏ vào di động thì không sao. Triệu chứng như vậy thì máy tính em bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.7363,
+         "id": "1162086",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Nokia 6, em có làm rơi điện thoại và bây giờ cái lỗ cắm tai nghe  trên điện thoại nó bị hỏng ( không cắm được tai nghe vào nữa ). Vậy em muốn hỏi cái lỗ cắm đó có thể sửa chữa hoặc thay thế được không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.60878,
+         "id": "771962",
+         "field_search": "question",
+         "question": "Khi cắm tai nghe earpotr vào iPhone 5s thì màn hình iPhone sẽ hiện lên gì để nhận biết đã cắm tai nghe vào ? Mong admin giúp em !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.52637,
+         "id": "793968",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua Samsung Galaxy J4 của Thế giới di động nhưng khi em cắm tay vào máy thì không hiển thị tai nghe và không nghe được, còn cắm sạc thì bình thường. Mong anh chị giải thích cho em hiểu và tìm cách khắc phục..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.44813,
+         "id": "1019802",
+         "field_search": "question",
+         "question": "Em mua oppo neo 9 có kèm tai nghe nhưng tai nghe bị hỏng ngay khi thử máy thì có được mang ra đổi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.403744,
+         "id": "1141450",
+         "field_search": "question",
+         "question": "Em mua hua Wei y6 prim sau 3 ngày thì phần tại nghe của em n cắm vào máy thì k nghe thấy gì mặc dù e đã tăng âm lượng lên max e nghĩ do tại nghe nhưng cắm vào máy khác n vẫn nghe đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.375237,
+         "id": "1008687",
+         "field_search": "question",
+         "question": "Sao A3 2017 của em gắn tai nghe vào sao nó không hiển thị biểu tượng tai nghe , mà troq tai nghe vẫn có nhạc bình thuờq . Moq qtv giúp em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.17247,
+         "id": "838946",
+         "field_search": "question",
+         "question": "Chào anh chị.Chiếc iphone 4s em đanv dùng thỉng thoảng loa ngoài không nghe được. Cả khi dùng tai nghe cũng có tình trạng tương tự, phải rút ra cắm lại tai nghe thì mới nghe được cứ 30s thì bị.Em cần làm gì để khắc phục điều này ạ? Bên anh chị có hỗ trợ em sửa chữa trực tiếp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.0706,
+         "id": "1141787",
+         "field_search": "question",
+         "question": "Em vừa mua tai nghe bên tdgd mình. Em đã thử device manager, sound, restart nhưng vẫn ko dùng đc trên laptop. Tai nghe vẫn nghe được trên điện thoại bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.618423,
+         "id": "1159619",
+         "field_search": "question",
+         "question": "E dùng Oppo f9 khi e cắm tai nghe vào thì bên nghe được bên không nó bị sao vậy ạ. Mong ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.559544,
+         "id": "1152052",
+         "field_search": "question",
+         "question": "Minh mua Iphone 6s plus sao mà cắm tai nghe vào ko phát qua được là máy bị sao vậy..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.466183,
+         "id": "996324",
+         "field_search": "question",
+         "question": "Tai nghe a7 edge của em bỗng dưng k nghe được 1 bên tai có được bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.440773,
+         "id": "1142308",
+         "field_search": "question",
+         "question": "mình mới mua oppo f9 xanh phỉ thúy tai nghe cắm vào máy không nghe được thì có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.388462,
+         "id": "1150692",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy pocophone F1 của mình mới mua tầm gàn 2 tuần mà lúc mình đang xem phim thì cái tai nghe của mình nghe bị chập chờn lúc đc lúc không xong rè như radio luôn cắm đi cắm lại vẫn rè xong mình phải khởi động lại máy thì mới dúng đc không biết còn lặp lại tình trạng đó không(mình có thử với tai nghe khác rồi nhé)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.20581,
+         "id": "1010927",
+         "field_search": "question",
+         "question": "em đang dùng 5c, cho em hỏi phải cắm tai nghe của apple mới hiện icon tai nghe trên máy hả ad ơi, cái icon ngay cạnh pin ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.173904,
+         "id": "1003910",
+         "field_search": "question",
+         "question": "Máy j7p của mình hôm nay sau khi sử dụng xong tai nghe khi rút ra máy lúc nào cũng trong chế độ tai nghe. Cám tai nghe vào thì nghe đc còn rút ra là k nghe thấy gì nữa.... cho mình hỏi máy bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.144215,
+         "id": "1017687",
+         "field_search": "question",
+         "question": "Vì sao trên điện thoại j7 pro khi cắm tai nghe vào thì trên thanh trạng thái không hiển thị dấu hiệu là đã kết nối tai nghe hay không thông báo là đã kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.006405,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.959957,
+         "id": "1019798",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao em gọi trên zalo bên kia nghe mà em nói mà bên kia nói em ko nghe được. em đang dùng con XA1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.884323,
+         "id": "1010734",
+         "field_search": "question",
+         "question": "Sao note 5 của e không gọi được messager chỉ cắm tai nghe   vô mới nghe được. Khắc phục như thế nào ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.79672,
+         "id": "818771",
+         "field_search": "question",
+         "question": "Máy lap top Asus của e mới mua mà khi cắm tai nghe vào lại k nghe dc luôn tại sao v ạ chỉ giúp e cách cài đặt nghe qua headphon với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.63597,
+         "id": "670938",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mỗi lần gọi điện người bên đầu dây kia vẫn nghe được mình nói gì nhưng mình lại không nghe được người ta nói gì hết? Mỗi lần như vậy mình lại phải bật loa ngoài hoặc cắm tai nghe mới nói chuyện được. Bây giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.547054,
+         "id": "1164577",
+         "field_search": "question",
+         "question": "Mình đã mua Tai nghe Bluetooth Roman Z6000s. Hiện tại tai nghe chỉ nghe được một bên trái, bên phải hoàn toàn không nghe thấy gì.Xin được trợ giúp ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.474625,
+         "id": "1155769",
+         "field_search": "question",
+         "question": "Cho  em hỏi tại sao khi cắm tai nghe vào sony xperia x thì ko có hiển thị gì cho mình biết đã kết nối. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.255642,
+         "id": "1002545",
+         "field_search": "question",
+         "question": "Cho e hỏi e dang xài ss j7 pro. Sao e gọi đầu dây bên kia ko nghe e nói gì, nhưng bên kia nói thì e nghe rất rõ. Em đã gọi rất nhiều cuộc gọi khác nhau đều bị giống vậy. Để 2 điện thoại gần nhau gọi cũng ko nghe được lun. Phải làm sao để nghe được ạ. E xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.211227,
+         "id": "840593",
+         "field_search": "question",
+         "question": "Cho Em hỏi tại sao iPhone 5s của em khi gọi thoại thì nói chuyện bình thường .khi gọi tango hay messenger bằng video thì ở đầu bên kia không nghe thấy em nói gì cả.em đã reset lại máy rồi nhưng cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.200996,
+         "id": "1157687",
+         "field_search": "question",
+         "question": "e mới mua đt A7 2018 sử dụng được 1 tuần thì thấy jack cắm tai nghe là 3.5mm tai nghe 3.5mm mỗi lần cắm vào tai nghe nó dễ bị tuột lắm ạ. e k biết là do thiết kế máy hay do lỗi jack sạc v ad? e sử dụng tai phone của samsung có sẵn trong hộp phụ kiện luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.198822,
+         "id": "989728",
+         "field_search": "question",
+         "question": " Cho em hỏi mới mua máy tính Dell. Cài win 10 mà cấm tai nghe không nghe được loa bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.070736,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.95875,
+         "id": "992631",
+         "field_search": "question",
+         "question": "Mình mới mua con lap Dell N3567c i3 6006u ngày kia. Ngày đầu cắm tai nghe thì nghe được bình thường, hôm nay cắm vào thì lại ko nghe đc gì nữa cả? vậy có phải là lỗi do máy hay lỗi do driver?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.890602,
+         "id": "906817",
+         "field_search": "question",
+         "question": " sao em mới mua laptop HP về mà lap không nhận tai nghe vậy, hướng dẫn em cách khắc phục với. tai nghe không hư. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.864162,
+         "id": "832705",
+         "field_search": "question",
+         "question": "Em dùng ip5s may cua em bị nỗi nghe nhac . Em khong cam tai nghe nhung no hien la tai nghe va khong nghe được . Nhung cam tai nghe thi van nghe được . Anh chi giup em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.863228,
+         "id": "753446",
+         "field_search": "question",
+         "question": "Mọi nhười cho em hỏi iPhone 4 của em nghe nhạc bằng tai nghe khi giảm âm lượng xuống 50% thì âm bị rè.tăng lên 90% nghe được nhưng không cân giữa 2 tai nghe.cho em hỏi vậy iPhone của em bị làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.75607,
+         "id": "1136733",
+         "field_search": "question",
+         "question": " Cho em hỏi tai nghe trong hộp ipx là tai nghe dây phải không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.63997,
+         "id": "826366",
+         "field_search": "question",
+         "question": "Cho em hoi máy của em là iphon 5s cũ nhưng hiện tại em bật loa để nghe bài hát thì không nghe thấy tiếng phải dùng tai nghe vậy loa của em bị sao và cách khắc phục.em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.576942,
+         "id": "1136367",
+         "field_search": "question",
+         "question": "E mới sài con ss j8 đc 4 tháng, bây giờ e đt cho ng khác thì ng ta nói e nghe nhưng e nói ng ta k nghe đc, nhưng cắm tai phone vào thì e nói chuyện ngta nghe bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.562805,
+         "id": "758826",
+         "field_search": "question",
+         "question": "iPhone có 2 hay 1 micro vậy? Em nghe gọi nói chuyện thoải mái, nhưng khi dùng ứng dụng Messeger facebook nói chuyện Video loa ngoài thì bên kia không nghe thấy gì, nói chuyện loa trong bên kia lại nghe rõ bình thường? các ứng dụng khác phát loa ngoài rồi nói bên kia cũng không nghe thấy gì (thử facetime loa ngoài bên kia vẫn nghe bình thường).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.414185,
+         "id": "1015520",
+         "field_search": "question",
+         "question": "Chào anh chị. Em có mua tai nghe ở một cửa hàng của Thế Giới Di Động. Nhưng giờ tai nghe của em có lỗi. Vậy em phải đem ra cửa hàng em đã mua hay một cửa hàng khác của hệ thống để được bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.366154,
+         "id": "1010682",
+         "field_search": "question",
+         "question": "Laptop em tự nhiên gọi điện k nói chuyện được, gắn tai nghe vào vẫn vậy. có lẽ là k dùng chức nằng micro được. có cách nào khác phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.321915,
+         "id": "896210",
+         "field_search": "question",
+         "question": " Add cho e hỏi ip khi cắm tai nghe vào nghe nhạc thì cứ bị nghe tiếng nhiễu là làm sao thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.255215,
+         "id": "1138116",
+         "field_search": "question",
+         "question": "Samsung Galaxy A7 của em khi chơi pubg không nghe được đồng đội nói mà mic cũng không dùng được. Xóa đi cài lại nghe được lần 1 lần 2 lại không nghe được. Có phải là do lỗi của máy hay do game không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.238758,
+         "id": "1141566",
+         "field_search": "question",
+         "question": "có ứng dụng hoặc cách nào để ghi âm màn hình mà có cả âm thanh khi đeo tai nghe trên samsung j7 prime không ạ? Em xài DU recorder nhưng đeo tai nghe thì khi ghi lại video đang phát lại không có âm thanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.195614,
+         "id": "1016657",
+         "field_search": "question",
+         "question": "5 tháng trước em vừa mới mua một cái tai nghe giá 150k, cách nay 1 tháng em cái tai nghe chỉ còn nghe được 1 bên, nên em đã đến cửa hàng tgdđ để bảo hành và được đổi cai tai nghe mới, nhưng hôm nay cai tai nghe mới lại bị hư, em không biết có bảo hành được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.19238,
+         "id": "812493",
+         "field_search": "question",
+         "question": " sao mình kết nối tai nghe blutooth với laptop rồi mà không nghe nhac được vậy ad, mới mua tối nay xog ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.127964,
+         "id": "980925",
+         "field_search": "question",
+         "question": "anh ơi e hỏi e dùng e dùng laptop win7 khi em gọi video hoặc gọi thoại trên facebook cho máy khác thì họ không nghe được e nói gì mà em vẫn nghe được họ nói là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.087368,
+         "id": "1023338",
+         "field_search": "question",
+         "question": "E mới mua con j7pro 2 tuần.mới mua cắm tai nghe nghe bình thường nhưng giờ cắm k nghe nữa.k hiển thị tai nghe luôn.tai nghe vẫn hoạt động tốt ở máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.015564,
+         "id": "996938",
+         "field_search": "question",
+         "question": "Tại sao khi cắm tai nghe hay gậy tự sướng lại hiện tìm kiếm giọng nói của google máy JG G3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.00579,
+         "id": "777464",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt biểu tượng tai nghe trên Mirror 5, bây giờ mình không thể nghe gì nếu không cắm tai nghe. Máy thì mới mua chưa được nửa tháng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.99805,
+         "id": "759125",
+         "field_search": "question",
+         "question": "Em sử dụng máy Samsung J5. Nhưng khi cắm tai nghe và có cuộc gọi đến (gọi điện, zalo, messenger, skype,...) thì vừa có chuông phát trong tai nghe và vừa có chuông phát ngoài loa. Khi nhận cuộc gọi thì không bị như vậy nữa.Cho em hỏi đây là do lỗi hay là do máy cài đặt như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.96962,
+         "id": "986711",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua máy dell core i3 đã qua sử dụng tại thegioididong. nhưng về cắm tai nghe hay loa vi tính vào máy thì âm thanh không phát vô dược chỉ nghe được ở trong máy tính thôi. vậy có phải do jack cắm trên máy tính bị hư không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.920513,
+         "id": "1142694",
+         "field_search": "question",
+         "question": "cho em hỏi là tại sao điện thoại samsung galaxy j7 prime của em khi gọi đến người khác thì người đó nghe khá nhỏ và đôi khi không nghe gì luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.892635,
+         "id": "1011061",
+         "field_search": "question",
+         "question": "Tai sao đầu dây bênh kia gọi mk người ta nói mk không nghe được Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.860638,
+         "id": "789845",
+         "field_search": "question",
+         "question": "Mình mua 5s bên tgdd về nghe đươc 3 lần tai nghe thì chỉ nghe được 1 bên tai. Đã test nhiều tai nghe. Và ko phải do tai nghe hỏng. Mà do khe jack tai nghe bị lỏng ở đâu đó. Chính sách bảo hành thế nào vậy QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.800915,
+         "id": "1006308",
+         "field_search": "question",
+         "question": "E dùng máy samsung j5.không biết sao sau khi kết nối tai nghe bluetooth xong thì mở medi k nghe được loa ngoài mà nghe được loa trong ạ.làm sao khắc phục được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.79698,
+         "id": "1010741",
+         "field_search": "question",
+         "question": "Em có mua phụ kiện ( tai nghe ) tại TGDD. Em chưa bóc tem hộp vậy có thể đổi sản phẩm khác cùng giá đó được k ạ? VD: em mùa tai nghe giá 200k có thể đổi sang pin dự phòng giá 200k được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.79411,
+         "id": "1155237",
+         "field_search": "question",
+         "question": "Samsung j7 pro của mình không kết nối được với tai nghe blutooth bh216 là bị gì vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.788803,
+         "id": "780650",
+         "field_search": "question",
+         "question": " iphone 6 plus . Khi cắm tai nghe vào chỉ nghe được 1 bên. 1 bên thì rè.. là lỗi gì vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.31712,
+         "id": "1138839",
+         "field_search": "question",
+         "question": " E mua con huawei 3e củ, giờ lấy tại nghe sài thì tai nghe ko phãi theo máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.311214,
+         "id": "918123",
+         "field_search": "question",
+         "question": "cho e hỏi .. máy em 4s , có khi nghe dc có khi không ( nhac+ video ) cắm tai nghe thì đôi khi tự tắt .... còn nghe gọi, chuông vẫn bình thường ... nguyên nhân và cách giải quyết sao ạ ...?\\",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

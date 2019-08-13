@@ -1,0 +1,801 @@
+{
+   "id_query": "1002344",
+   "total": 33870,
+   "total_current": 100,
+   "max_score": 162.81053,
+   "origin_question": "Cho em hỏi tại sao sim Vietnamobile tới 20h là mất sóng vậy ạ? Ban ngày thì sóng sánh bình thường nhưng tới 20h là không tìm được sóng. Mất sóng cho tới 7h sáng hôm sau. Mong QTV giải thích dùm em, cảm ơn ạ.",
+   "hits": [
+      {
+         "score": 54.834736,
+         "id": "765882",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là mình có active em 6s nhưng không gắn sim (vẫn active được bình thường), vậy sau này gắn sim vào thì có sóng sánh bình thường hay không vì mình nghe nói iPhone phải gắn sim trước thì mới active được. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.37324,
+         "id": "1017937",
+         "field_search": "question",
+         "question": "khi lắp sim vinaphon vào điện thoai lenovo A7000 thì báo sóng quá yếu, nhưng lăp sim dố vào máy nokia thì báo sóng cực khỏe có tới 5 cột sóng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.82434,
+         "id": "1010465",
+         "field_search": "question",
+         "question": "Mod ơi cho em hỏi là em sài nhà mạng viettel nhưng em ở vùng gần núi sóng bình thường nghe gọi ko sao nhưng khi sử dụng dử liệu thì mất sóng hoàn toàn. Cho e cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.84811,
+         "id": "999258",
+         "field_search": "question",
+         "question": "Cho em hỏi sony xa1 khi em bật 4g sao lại mất sóng vậy ạ. Khi bật 3g mới có sóng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.587036,
+         "id": "1013436",
+         "field_search": "question",
+         "question": "Em có cái lg g4 đang chuyển qua chế đọ sóng mạng 4g thì bị mất sóng ko nhận sim là sao anh mong mấy anh giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.9741,
+         "id": "1018690",
+         "field_search": "question",
+         "question": "Em đang dùng Sony XA Ultra nhưng dạo gần đây lại bị mất sóng và hiện \"emergency calls only\". Cho em hỏi là tại sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.51405,
+         "id": "1000181",
+         "field_search": "question",
+         "question": "Xin cho em hỏi 1 chút ạ. E đang dùng j7 prime nhưng mấy hôm nay cứ sáng dậy là bị mất sóng. Ngày nào e cũng phải khởi động lại. Liệu có bị làm sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.41893,
+         "id": "1161413",
+         "field_search": "question",
+         "question": "Mấy ngày trước tôi lên bản iso 12.2, sau đó thấy sóng rất yếu , nhiều làn bị báo mất sóng trong ngày( No service ). xin hỏi có giải pháp nào cho máy tôi không ? tôi muốn hạ xuống bản ios thấp hơn có được không ?Xin chân thành cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.18077,
+         "id": "839751",
+         "field_search": "question",
+         "question": " Tại sao bật3G nên lại sóng yếu có lúc mất luôn sóng ạ ??? E đang xài iphone4  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.591328,
+         "id": "811538",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi mua ip5s tại TGDĐ nhưng hôm nay kiểm tra imei phần SIM lock lại đề là Unkown ( không xác định ) chứ không phải là Unlock ( quốc tế )như thường trên iphone khác,thử sim khác thì đều có sóng tốt,giải thích hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.145947,
+         "id": "1009469",
+         "field_search": "question",
+         "question": "cho em hỏi đt oppo f3 bắt sóng wifi yếu cứ được một tí lại mất sóng thì phải làm cách nào để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.924805,
+         "id": "1016344",
+         "field_search": "question",
+         "question": "Làm sao để lấy lại sóng khi đt bị mất sóng vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.979137,
+         "id": "1164174",
+         "field_search": "question",
+         "question": "Cho hỏi ,mình mua Nokia 5.1 plus tại CH TGDD máy lúc đầu sử dụng sóng tốt bình thường.nhưng thời gian sau.khi gọi liên lạc hay mất sóng, gọi 2 lần mới kết nói được., để 2máy gần nhau sóng đầy.nhung gọi vẫn báo là ngoài vùng phủ sóng, gọi lần thứ 2 mới kết nói được .bỏ sim vào đt khác thì vẫn gọi và kết nói nhanh.như thế bị làm sao, máy mình còn BH.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.409096,
+         "id": "760681",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại mình dùng iPhone 5s sim viettel khi vào nhà thì mất sóng không gọi và nhắn tin được lâu lâu trên cột sóng hiển thị Không có dịch vụ. Nhưng khi đi bộ ra đường khoảng 20m điện thoại tự nhận sim và có sóng mạnh ? Cho mình hỏi sim mình hay điện thoại mình bị lỗi à . Có ai bị trường hợp như trên không à .. Minh đổi sim cũng vậy không biết do khu vực sóng yếu hay tại máy ? Mong ADM và mọi người giúp đỡ cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.844913,
+         "id": "1166394",
+         "field_search": "question",
+         "question": "cho em hỏi là đt em là nokia lumia 520 bị mất sóng kh khắc phục được thì đem ra tgdđ sửa thì vào khoảng bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.793365,
+         "id": "1154519",
+         "field_search": "question",
+         "question": "Mình đang dùng Vsmart Joy 1+. Điện thoại 2 sim, hiện 2 cột sóng, nhưng gần đây hay bị lỗi chỉ hiện 1 cột sóng, và khi nó hiện như vậy không thể sử dụng 4G được, khỏi động lại máy 2 cột sóng lại hiện ra và sử dụng 4G như bình thường. Cho hỏi hiện tượng này là sao vậy ạ? Do thường xuyên phải khởi động lại máy rất bất tiện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.576168,
+         "id": "830326",
+         "field_search": "question",
+         "question": " tại sao em cài card wifi cho máy bàn rồi, thấy có dò tìm được nhiều sóng nhưng không vào được. mong các anh chỉ giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.08233,
+         "id": "1158823",
+         "field_search": "question",
+         "question": "A cho e hỏi máy Xiaomi redmi 5 của e từ hôm qua mất sóng bây giờ k lên nữa là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.960747,
+         "id": "765955",
+         "field_search": "question",
+         "question": " Cho e hỏi chữ R trên cột sóng sim là sao vậy.. Máy Sony M4?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.740715,
+         "id": "1002930",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy mình là samsung galaxy j2. Từ lúc mua tới giờ mình không thể gọi video qua mess hay zalo đc, mỗi lần gọi video đều bị mất mạng, mất cả sóng đt vì mình xài 3g. Trong khi đó cùng loại nhưng máy bạn mình lại có thể gọi video bình thường. Ngoài ra tất cả đều sử dụng được bình thường. Vậy tại sao và phải khắc phục nó như thế nào để mình có thể gọi video bình thường? Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.177326,
+         "id": "1133895",
+         "field_search": "question",
+         "question": "Em sài oppo f5 youth lắp sim Vẫn có sóng bình thường nhưng mà hay bị người khác điện thì thuê bao, đang mở 3g thì không có kết nối như vậy là sao?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.670498,
+         "id": "1021491",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi chút, mình mua Sony xzs dùng 2 sim nhưng thỉnh thoảng sim 2 lại mất sóng nhờ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.403927,
+         "id": "763969",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em mới mua iPhone 5s bản 16GB gold máy quốc tế bản Mỹ mà sao em lắp sim gì cũng toàn 3 4 vạch rất ít khi đầy sóng là do sao vậy ạ, nó có ảnh hưởng gì đến sóng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.746338,
+         "id": "808765",
+         "field_search": "question",
+         "question": "​Máy tính em sài vẫn bình thường mà hôm nay mở thì có lỗi vẫn có wifi bình thường nhưng lại không có thông báo cột sóng (chi tiết xem hình) sau đó em vào mục :\" Device Manager \" sau đó vào : \" Network Adapters \" thì vẫn k có lỗi j xảy ra như vậy là máy bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.10082,
+         "id": "997069",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao oppo neo 7 của em không hề sử dụng mà bị rớt pin từ 64 xuống 16% vậy ạ ? Dù em đã khởi động lại vài lần nhưng vẫn bị như vậy với mất sóng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.058357,
+         "id": "1157374",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi chút ạ. Mình có dùng 1 con ip7 xách tay từ tháng 8/2016 tới giờ, tầm 2 tuần nay có cứ bị lỗi mất sóng không nghe gọi được, mình có tìm hiểu thì dòng máy của mình là model A1660 bị lỗi phần cứng từ hãng, không biết bây giờ có được hỗ trợ sửa nữa không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.895462,
+         "id": "864293",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5 bên nhật đem về bỏ sim vào có sóng nhưng lại báo mạng không khả dụng là sao ạ, có cách khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.865433,
+         "id": "1006283",
+         "field_search": "question",
+         "question": "Oppo f 3 lite e dùng mạng vinaphone hay mất sóng mong được khac phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.84548,
+         "id": "778647",
+         "field_search": "question",
+         "question": "Cục model wifi hư thay cục model wifi khác lúc đầu thì laptop win 10 bắt sóng được. Nhưng mấy tiếng sau mở máy lên thì không bắt được sóng vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.47637,
+         "id": "839070",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua sim vina bùm nano khi lắp vào sim ghép ip 5 lock kddi báo chua cài đặt thẻ sim, khi thao ra lắp vào sim cũ của mình thì lên sóng bình thường là làm sao ạ( sim vina bùm vẫn bình thường(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.196404,
+         "id": "893700",
+         "field_search": "question",
+         "question": "Mình dùng ip6 và ios 9.2.1. Bình thường mình bật 3g lên dùng vô tư nhưng hôm nay chỉ bật đc 2g chứ bật 3g nhưng ko lên là bị sao ạ? Trong khi đó mạng vettel đủ 4-5 vạch k mất sóng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.114002,
+         "id": "997579",
+         "field_search": "question",
+         "question": "cho mình hỏi: máy mình đang dùng là iphone 5 (A1429) ios 9.3.3. đã đổi sim 4G nhưng sao không sử dụng được 4G mà chỉ nhận sóng 3G.( đã bât LTE). xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.087543,
+         "id": "1139219",
+         "field_search": "question",
+         "question": "Chào anh chị kỹ thuật, hôm qua em mua con oppo A3s sài bình thường cho tới sáng em mở nguồn lên nhập mật khẩu thì máy không nhận như vậy là bị gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.00614,
+         "id": "1165774",
+         "field_search": "question",
+         "question": "Tại sao từ ngày chuyển qua sử dụng 4g siêu sim vietnamobile ko nghe được voice chat trên messenger nữa. Dù là đã cập nhật mess và 4g sóng mạnh. Trước sài 3g viettel rất bth. 4g vietnamobile chỉ bị lỗi voice chat, còn lại đều ổn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.985413,
+         "id": "1158401",
+         "field_search": "question",
+         "question": "Máy của mình Note 4 cũng mua ở thế giới di động xài mạng Vietnamobile nhưng sao Sóng không có khi về nhà khu vực thuận hòa long mỹ Máy kia j4 cũng xài Vietnamobile nhưng người ta thì có sóng còn máy của em thì không Xin hỏi Có cách nào khắc phục không  và ra Thế Giới Di Động có sửa được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.935085,
+         "id": "1009466",
+         "field_search": "question",
+         "question": "Cho e hỏi. Tại sao j7 prime của mình sóng lại hay yếu như vậy nhỉ. Chỉ đc 2 đến 3 cọc sóng thôi à???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.873043,
+         "id": "1166709",
+         "field_search": "question",
+         "question": "Điện thoại em bị không hiển thị sóng là sao vậy ạ Với lại yêu cầu nhập mã ME là sao ạ Em nhập xong nó nói là khe cắm sim đã bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.6933,
+         "id": "1002552",
+         "field_search": "question",
+         "question": "Em đang dùng con J7 prime. em sạc máy từ 11h đêm tới 7h sáng. như vậy có ảnh hưởng gì tới pin của máy không ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.31653,
+         "id": "1163985",
+         "field_search": "question",
+         "question": "Điện thoại của em là oppo f5 youth. Sao em chơi liên quân ban ngày không sao  tới tối cỡ  18h30 tới 21h là lag",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.118477,
+         "id": "1016625",
+         "field_search": "question",
+         "question": "AnhChị cho em hỏi bên mình có bán usb hút sóng wifi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.07462,
+         "id": "1150545",
+         "field_search": "question",
+         "question": "Anh ơi em Hỏi  IOS bắt sóng mạng di động tốt hơn hay ANDROID bắt sóng mạng di động tốt hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.005383,
+         "id": "998440",
+         "field_search": "question",
+         "question": "Ad ơi,em đang xài galaxy tab A SM-P355 và lắp sim unitel 4g . Ở ngoài trời thì sóng luôn 4G Và  2 đến 3 cột sóng,nhưng khi vào trong nhà thì nó chỉ hiện H+,H,3G nhiều lúc nó còn E nữa....ad cho em hỏi có ứng dụng nào để máy em luôn chạy 4g và tăng sóng điện hoại lên không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.951523,
+         "id": "839742",
+         "field_search": "question",
+         "question": " Lỗi mất imei nên không có sóng và không bắt dược wifi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.901756,
+         "id": "808941",
+         "field_search": "question",
+         "question": "cho em hỏi không hiểu sao máy iphone 4s của em lại ko bắt sóng được wifi có khi bắt được nhưng một lúc lại mất có khi còn không bật được nút wifi vậy có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.82396,
+         "id": "856880",
+         "field_search": "question",
+         "question": " cho mình hỏi con sony m4 của mình bị mất sóng có cách nào sửa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.81458,
+         "id": "1011316",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình dùng máy oppo 2sim. Trước đây khi đang dùng sim 3g thì sóng cả 2sim bt. Nhưng từ khi đổi sim 1sag sim 4g thi sóng của sim 1chỉ đk 1đến 2cọc. Phải làm thế nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.678154,
+         "id": "831457",
+         "field_search": "question",
+         "question": " Sao em xem tin nhắn trên zalo không được. Nó cứ báo là không có sóng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.636135,
+         "id": "891420",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao cột sóng wifi mạnh thế mà sao khi gọi điện bằng messengr thì lại báo cần kết nối mạng, mà nhắn tin thì vẫn nhắn được ,người khác gọi tới thì nghe được mà gọi đi máy lại báo không có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.420876,
+         "id": "1141451",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao j2 pro mình xài  wifi mà wifi chỉ cách 7 bước chân thì nó mất lun cây sóng . Lại gần thì nó có sóng nhiều khi nó còn ở mức thấp nhất của wifi . Đt khác kết nối tầm xa thì vẫn full sóng wifi . Cho hỏi đt j2 pro 2018 mình bị sao ạ ad trl giúp . Mạng wifi trog nhà nha ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.354424,
+         "id": "998795",
+         "field_search": "question",
+         "question": "Mình đang xài oppo 3005 hôm qua xài 4636 thì máy bị mất sóng  giờ ai chỉ e cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.327515,
+         "id": "757899",
+         "field_search": "question",
+         "question": " Sao nâng cấp iOS 9.2 sao máy bị mất sóng liên tục...? Qtv nào biết cách khắc phục chỉ giúp...! Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.322998,
+         "id": "790656",
+         "field_search": "question",
+         "question": "Máy của em là iphone 6, ad cho em hỏi sao lúc em đổi hình nền của máy thành màu trắng thì mấy cái như ngày giờ, sóng, wifi hay bị mất, ko hiển thị, giống như là nó cũng chuyển thành màu trắng luôn ấy, vậy máy em có bị sao ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.24394,
+         "id": "1152912",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại oppo, thời gian gần đây điện thoại liên tục tự nhiên bị mất sóng mặc dù sim không lỏng, nơi có tín hiệu tốt. Khi khởi động lại bình thường. Tình trạng này thì khắc phục như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.932373,
+         "id": "1133365",
+         "field_search": "question",
+         "question": "Điện thoại itel 1516 plus hay mất sóng thoại và internet khi để chế độ chờ là sao ạ? Xin cho cách khắc phục tối ưu nhất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.886898,
+         "id": "1010427",
+         "field_search": "question",
+         "question": "Lỗi sóng yếu không khắc phục được có đổi máy mới được không vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.871223,
+         "id": "1019259",
+         "field_search": "question",
+         "question": "E vừa mua sim mobi 120k lúc 15h ngày hôm nay, nhưng e gắn sim vào dt không thấy sóng, để không có dữ liệu sim, e không thể kích hoạt sim dc, v e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.767372,
+         "id": "754465",
+         "field_search": "question",
+         "question": "Mình dùng Sony Z1 bản C6903 quốc tế, mình bật chế độ mạng 3G thì không có sóng, hiển thị chữ X, bật chế độ GSM thì sóng 2G vẫn bắt sóng được, đã thử ở nhiều địa điểm nhưng vẫn thế, đã khôi phục cài đặt gốc nhưng vẫn không được, mong được tư vấn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.718628,
+         "id": "1004232",
+         "field_search": "question",
+         "question": "QTV cho em hỏi điện thoại Mobiistar Lai 504c xài bình thường thì không sao, nhưng tới khi bật wifi lên là xài được khoảng 5p là sập nguồn trong khi pin còn đầy. Bật nguồn lên lại thì không được, phải cắm sạc thì mới lên. Khi lên nguồn thì không còn % pin nào hết. Cảm ơn QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.517494,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.50051,
+         "id": "808944",
+         "field_search": "question",
+         "question": "Cho em hỏi ..cách khắc phục khi máy iphone 4s không bắt sóng được wifi hoặc có khi bắt được nhưng rồi lại mất hoặc có khi nút wifi bị xám không bật lên được? nếu sửa thì mất khoảng bao nhiêu tiền ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.488297,
+         "id": "1139216",
+         "field_search": "question",
+         "question": "Điện thoại Samsung của mình bị chế độ này, xem giúp mình chỉnh lại như thế nào để có sóng điện thoại, hiện tại máy không có sóng điện thoại không liên lạc được, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.351585,
+         "id": "843429",
+         "field_search": "question",
+         "question": " Tôi đang dùng iPhone 4 không biết iphone 4 hay 4s nhưng mỗi khi bật 3G lên thì mất sóng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.29197,
+         "id": "1141072",
+         "field_search": "question",
+         "question": "A ơiMáy E mới mua về,  bật 3g thì được nhưng khi chuyển sang 4g thì trên cột sóng nó hiện không có dịch vụ là sao ạ?Máy Xiaomi ạ!Mong a chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.08881,
+         "id": "998420",
+         "field_search": "question",
+         "question": "Tgdd cho em hỏi em có cái điện thoai hien asus zenfore c ạ.  Vài ngày gần đây em gán sim mà may k nhận. Nó để biểu tượng như mất sóng vậy.  Mà diện thoai e bị bể màng hih nữa cho e hỏi có cách nao sua duoc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.931126,
+         "id": "1141087",
+         "field_search": "question",
+         "question": "A ơiMáy E mới mua về, bật 3g thì được nhưng khi chuyển sang 4g thì trên cột sóng nó hiện không có dịch vụ là sao ạ?Máy Xiaomi Mi 4 ạ!Mong a chỉ em cách khắc phục Em đã tháo sim và lau phần tiếp xúc nhưng vẫn không được ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.868843,
+         "id": "770845",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào khắc phục tình trạng như hình  sóng điện thoại yếu , wifi 3g bình thường   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.82577,
+         "id": "1153104",
+         "field_search": "question",
+         "question": "Tại sao máy mình k gọi được đi. Người khác gọi cũng k nhận được trong khi mấy vẫn báo sim có sóng đầy đủ. Nhưng lắp sim sang máy khác thì lại dùng bình thường. Mình dùng Sony XP XA1 ultra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.81668,
+         "id": "1008323",
+         "field_search": "question",
+         "question": "Sam sung j3pro có 2 sim. Một sim mình dùng nghe gọi nhưng chỗ cột sóng của sim đó có đóng khung hình vuông. Nhiều người gọi đến k được là sao vậy b? Máy mình mới mua mấy ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.645,
+         "id": "1135116",
+         "field_search": "question",
+         "question": "Mình mua 1 cái điện thoại j6 đã qua sử dụng nhưng về dùng thì sóng rất là kém vào nhà là k có 1 cột sóng nào giờ mình sẽ phải làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.46164,
+         "id": "1141081",
+         "field_search": "question",
+         "question": "A ơiMáy E mới mua về, bật 3g thì được nhưng khi chuyển sang 4g thì trên cột sóng nó hiện không có dịch vụ là sao ạ?Máy Xiaomi Mi 4 ạ!Mong a chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.419003,
+         "id": "786440",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s bị hư sóng thì sửa hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.138344,
+         "id": "1161024",
+         "field_search": "question",
+         "question": "Mình dùng oppo a7. Mới mua tại thế giới di động được 1 tháng. Hôm nay máy bị chập chờn mất sóng liên tục mặc dù vẫn nhận thẻ sim. Làm thế nào để khắc phục sự cố này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.006077,
+         "id": "1136212",
+         "field_search": "question",
+         "question": "Em có dùng điện  F5 cả tháng nay điện thoại em không nhận được cuộc gọi hay tin nhắn nào.  Em nghĩ do sim nên tháo ra thì gọi bình thường nhưng khoảng 1 2 tiếng sau, người khác gọi thì báo không liên lạc được. Mà điện thoại vẫn mở nguồng và có hiện sóng sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.002598,
+         "id": "1150152",
+         "field_search": "question",
+         "question": "Máy em là OPPO r7s khi nghe gọi đt tì máy bình thường nhưng khi xem phim, nghe nhạc, youtube hay video trên facebook, chơi game thì loa bị mất tiếng. THI thoảng máy bình thường thì tự nhiên mất tiếng. Em có reset lại máy và khôi phục lại máy nhưng chỉ được mấy hôm nó lại như vậy. Cho em hỏi máy em như vậy là bị sao ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.887222,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.872852,
+         "id": "999949",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại iphone 5S em bật wifi cả ngày có mau hết pin, ảnh hưởng tới tuổi thọ pin không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.706665,
+         "id": "1004278",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi  tại sao máy ip5 của e lại o bắt dc sóng 4g ạ còn 3g thì hay chập chờn lắm ạ mặc dù e dung sim 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.567097,
+         "id": "1168554",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước em có mua ip5p ở tgdt. tài khoản icloud cũng do nhân viên tạo dùm khi mới mua máy. Hiện giờ điện thoại em bị khóa bị lỗi bảo mật nhưng em không biết pass icloud thì đem tới tgdđ có giải quyết được không ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.310738,
+         "id": "1166412",
+         "field_search": "question",
+         "question": "Em dùng iphone 7. Khi update lên ios 12.2 thì bị lỗi mất sóng và mất imei. Em có đọc được thông tin là apple sẽ hổ trợ sửa lỗi này miễn phí. Vậy giờ bên mình có nhận chuyển điện điện lên trung tâm apple để sửa chữa không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.250324,
+         "id": "1166247",
+         "field_search": "question",
+         "question": "Mình mua ip x đợt trước tết 2018. Máy thường xuyên bị mất sóng không liên lạc được, không vào mạng được. Vậy nếu mình ra cửa hàng bảo hành thì sửa có lâu không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.18855,
+         "id": "798593",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để khắc phục dấu chấm than o cột sóng wifi trên máy tính vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.11641,
+         "id": "1135931",
+         "field_search": "question",
+         "question": "Cho em hỏi em sử dụng đt mobiistar zumbo power ... Mà khi em call video messager và zalo nó cứ bị đứng hoặc là bị giật ạ.... Nhưng em xài wifi nhà luôn ... Sóng 5 cục mà vẫn bị vậy là do sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.097015,
+         "id": "991467",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6 cách đây mấy ngày tại hệ thống TGDD . Nhưng em lướt fb khoảng 1,5-2 phút thì mất 1% pin nhưng z là có bình thường hay k ạ? Em cảm ơn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.052765,
+         "id": "1142505",
+         "field_search": "question",
+         "question": "Mình mua con A7(2018) từ hôm 1.1.2019. Mới được mấy ngày và cảm nhận bị lỗi sóng 4G. Khởi động lại máy thì mới được. Xin shop cho ý kiến khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.96783,
+         "id": "1010919",
+         "field_search": "question",
+         "question": "e đang xài đt galaxy note 4 SMN901P sao chuyển sang 4g lại mất hết sóng vậy ad có cách nào mở đc 4g ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.951717,
+         "id": "1161549",
+         "field_search": "question",
+         "question": "em đang dùng iphone 4 nhưng dạo này nó cứ tự động tắt nguồn khi mà pin vẫn đầy, xong em bật lên thì lại mất sóng và lệch ngày giờ. em phải làm thế nào để hết tình trạng này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.785942,
+         "id": "752729",
+         "field_search": "question",
+         "question": "Admin giúp em , em mua lại  iphone 5 mà sao gắn sim viettell vào thì có sóng nhưng người khác không gọi được , em lấy máy khác gọi vào củng không được , gọi và nhận đều không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.781204,
+         "id": "869336",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng chiếc galaxy j2 mỗi lần cập nhật facebook mất rất nhiều thời gian mặc dù sóng wifi rất mạnh. Mỗi lần chuyển facebook vào thẻ sd cũng mất rất nhiều thời gian có lúc không chuyển được. Mong anh chị cho em biết cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.75467,
+         "id": "790563",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sau mình gọi video call từ máy j5 đến máy j7 và ngược lại nó toàn báo ngoài vùng phủ sóng hoặc mạng bận không? Lúc mới mua máy về thì gọi dược bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.70014,
+         "id": "811402",
+         "field_search": "question",
+         "question": "QTV giúp mình chút xíu.Iphone 5s của mình xài bình thường. Nhưng lúc mình gọi Video khoảng 5 tới 10 phút thì máy rất là nóng. Qtv giúp mình giải đáp thắc mắc này với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.683704,
+         "id": "1021034",
+         "field_search": "question",
+         "question": "cho em hỏi em tới trung tâm mua phần mềm diệt virus thì cài office có mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.65387,
+         "id": "828914",
+         "field_search": "question",
+         "question": " Tại sao sáng nay em vẫn vô fb đc nhưng mà tới chiều thì vô không dc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.61383,
+         "id": "1161897",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi iphone 6 sóng chập chờn sửa được không ạ? Hết bao nhiều tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.54916,
+         "id": "998458",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e reset lại nhưng sao nó lên tới chỗ xin chào là không dùng cảm ứng được ạ  . máy em j1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.42229,
+         "id": "755742",
+         "field_search": "question",
+         "question": "Em có cái Iphone 4s 100% pin  để không xài từ tối tới tầm trưa (không xài còn 37% là có bị chai pin ko ạ ) Với lại khi em lắp sim vào lúc gọi được lúc không gọi được. Lúc mất mạng lúc có mạng  thường mất mạng nhiều thì sữa sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.33049,
+         "id": "1009300",
+         "field_search": "question",
+         "question": "Em có mua sim VinaBumDATA 250k,chị nhân viên nói là sau 24h sẽ kích hoạt,mà tới bây giờ em vẫn chưa thấy.xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.272312,
+         "id": "863797",
+         "field_search": "question",
+         "question": "Em có cái máy iPhone 6 64gb, máy em bị rớt không hiểu sao nó bị mất hay hư gì đó, em khởi động nguồn lại thi máy nó mất cái mạng sóng điện thoại, nó hiện không có dịch vụ...mấy anh cho em sửa lại được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.184437,
+         "id": "1006620",
+         "field_search": "question",
+         "question": "Điện thoại của mình là J5 Prime, mới mua được 1 tháng, sim thì đã thay mới nhưng sao thỉnh thoảng người khác không gọi được cho mình, thậm chí là cả chục cuộc. Mình ở trung tâm thành phố thì sóng đâu có yếu được. Giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.17422,
+         "id": "1142194",
+         "field_search": "question",
+         "question": "Cho minh hỏi sao a8 bắt sóng với bắt WiFi kém thế",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

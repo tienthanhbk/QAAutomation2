@@ -1,0 +1,801 @@
+{
+   "id_query": "1004631",
+   "total": 31053,
+   "total_current": 100,
+   "max_score": 103.443054,
+   "origin_question": "Chào Thế giới di động, Tôi muốn mua 1 chiếc điện thoại dành cho người cao tuổi, có hỗ trợ video call,Xin hỗ trợ tư vấn,Xin cảm ơn,",
+   "hits": [
+      {
+         "score": 46.02216,
+         "id": "993390",
+         "field_search": "question",
+         "question": "Tôi muốn mua cho con tôi 1 mẫu điện thoại bàn phím, có hỗ trợ thẻ nhớ nhưng không hỗ trợ lên mạng, tương đối bền tầm từ 300.000đ trở xuống xin Thegioididong tư vấn cho tôi điện thoại phù hợp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.312244,
+         "id": "1160043",
+         "field_search": "question",
+         "question": "xin chào, em muốn mua 1 chiếc điện thoại giá tầm 3-4 tr, có thể trả góp, tuy nhiên em yêu cầu chiếc điện thoại đó bắt được wifi hoặc dùng 3G tốt khi gọi video call, em cảm ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.118114,
+         "id": "1023950",
+         "field_search": "question",
+         "question": " em mới mở cửa hàng điện thoại muốn nhập hàng bên thế giới di động có hỗ trợ ko ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.580227,
+         "id": "1000574",
+         "field_search": "question",
+         "question": "Xin chào thê giơi di động. Xin phép cho em hỏi. Em đang xài sony M4 aqua e2312.  The gioi di động có thể hỗ trợ cap nhat lên androi 6.0 được Không ạ. Phí cập nhật là bao nhiêu. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.267246,
+         "id": "1007775",
+         "field_search": "question",
+         "question": "Điện thoại em là Samsung galaxy s2 HD LTE chạy android 2.3.6(không hỗ trợ gọi video) . Nay em muốn nâng cấp lên android 4.4 để được hỗ trợ gọi video được không ad ??? Và phí nâng cấp là bao nhiêu ?? Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.194298,
+         "id": "1153655",
+         "field_search": "question",
+         "question": "Chào ad.cho Mình hỏi Thế Giới Di Động có hỗ trợ cài win 7 cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.709946,
+         "id": "1146921",
+         "field_search": "question",
+         "question": "Chào bạn.Cho mình hỏi đt asus mình mua bên thế giới di động,nhưng hiện tại máy đang bị lỗi màn hình cảm ứng,theo mình biết thì thế giới di động không hỗ trợ thay thế màn hình cảm ứng.Vậy cho  mình hỏi co cách nào thế giới di động hỗ trợ mình thay thế không nhỉ?thời gian mất bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.634037,
+         "id": "1003924",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động có hỗ trợ mua game trên apptore không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.372562,
+         "id": "1140214",
+         "field_search": "question",
+         "question": " Xin tư vấn cho tôi chương trình cũ đổi mới ở thế giới di động ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.075268,
+         "id": "903070",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ mở tài khoản icloud không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.9199,
+         "id": "1158788",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động, Mình muốn được tư vấn về iPhone 7 Plus thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.828857,
+         "id": "1149819",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có hỗ trợ cài đặt win10 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.750977,
+         "id": "744438",
+         "field_search": "question",
+         "question": "Zenphone bị lỗi không thể  bật được wifi, máy em mua qua tay của 1 người khác, có được thế giới di động hỗ trợ không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.68091,
+         "id": "993691",
+         "field_search": "question",
+         "question": "Hiện tại em chuẩn bị lên 12, em cần mua máy nhằm mục đích hỗ trợ chủ yếu cho việc học, ngoài ra còn hỗ trợ thêm viết lách ạ. Em đang lưỡng lự không biết nên mua loại nào. Mong các Tư Vấn Viên tư vấn giúp em ạ! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.345722,
+         "id": "1161101",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ dán kéo nokia 8.1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.345722,
+         "id": "1155713",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ root máy sony Android khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.210735,
+         "id": "1161508",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi . không biết ở thế giới di động có hỗ trợ thay vỏ mới cho samsung j7 pro không ạ . e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.19445,
+         "id": "1001797",
+         "field_search": "question",
+         "question": "Mình muốn thay pin cho điện thoại xiaomi mi4 thế giới di động có hỗ trợ được không ạ .. nếu được thì thay vào khoảng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.012024,
+         "id": "1161866",
+         "field_search": "question",
+         "question": "Chào Thế giới di động!Cho tôi hỏi iPhone có mã là MN8Y2QLA là thị trường nước nào vậy?Tôi xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.94483,
+         "id": "1155591",
+         "field_search": "question",
+         "question": "Bên thế giới di động có hỗ trợ dán màn hình cho laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.915874,
+         "id": "811550",
+         "field_search": "question",
+         "question": "Cho em hỏi là Thế Giới Di Động có hỗ trợ việc nâng cấp ram cho Laptop không ạ.Em đang dùng máy Dell Inspiron 14 3421RAM có sẵn là 2GB em muốn nâng cấp lên, vậy Thế Giới Di Động có hỗ trợ nâng cấp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.814514,
+         "id": "926007",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ nâng cấp update cho laptop win10 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.77418,
+         "id": "749303",
+         "field_search": "question",
+         "question": "Chào Thế giới di động,Trước đây em mua ipad 2 tại Thế giới di động ở Đà Nẵng, lúc đó em được các anh chị tạo tài khoản icloud cho nhưng hiện tại em ko nhớ mật khẩu lúc đó là gì cả. Anh chị hỗ trợ kiểm tra lại cho em xin lại mật khẩu được không?Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.708763,
+         "id": "1000235",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi tôi mua laptop ở TGDD cũng vài năm. Giờ t muốn đến để cài lại Win không biết TGDD sẽ hỗ trợ không? Và phí như thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.657578,
+         "id": "909545",
+         "field_search": "question",
+         "question": " iphone 4 có hỗ trợ mạng 4G mobifone không ạ ??Xin cảm ơn !!!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.588226,
+         "id": "860544",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài lại win 10 bản quyền không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.44626,
+         "id": "782378",
+         "field_search": "question",
+         "question": "Hiện em đang muốn sử dụng phần mềm Shou dành quay màn hình điện thoại nhưng khi vào thì nó bắt con LG G2 của em phải root điện thoại. Như vậy có còn cách nào khác để sử dụng Shou không hay em phải root điện thoại. Ở thế giới di động có hỗ trợ root máy không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.295906,
+         "id": "922429",
+         "field_search": "question",
+         "question": " thế giới di động còn hỗ trợ cài win miễn phí không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.22134,
+         "id": "1015785",
+         "field_search": "question",
+         "question": "xin chao cho e hoi thế giới minh có hỗ trợ cho vay tiền mawht không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.13911,
+         "id": "1154030",
+         "field_search": "question",
+         "question": "Thế giới di động mình có hỗ trợ chạy chương trình của laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.021584,
+         "id": "795572",
+         "field_search": "question",
+         "question": "Mình muốn jailbreak iphone 6 plus, xin hỏi thegioididong có hỗ trợ không ạ? Em ở TP.HCM, quận 1 thì liên hệ ở đâu? xin cảm ơn.099.772.19XX",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.906586,
+         "id": "1166264",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua điện thoại ở một chỗ khác nhưng em đem điện thoại ra thế giới di động để dán cường lực thì có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.902584,
+         "id": "1134909",
+         "field_search": "question",
+         "question": "thế giới di động hiện nay 30/11/2018 có chương trình khuyến mãi hay hỗ trợ cho sinh viên khi mua laptop tại thế giới di động không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.873802,
+         "id": "1003563",
+         "field_search": "question",
+         "question": "Ở đây mình có hỗ trợ vệ sinh máy tính không ạ ???? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.3326,
+         "id": "1142380",
+         "field_search": "question",
+         "question": "xin chào, tôi muốn mua 1 chiếc điện thoại cũ từ tỉnh thành khác, vậy các bước đặt mua để chuyển điện thoại về cửa hàng TGDD gần nhà như thế nào? Các bạn có thể hướng dẫn được chứ? xin gửi câu trả lời đến gmail của tôi, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.298897,
+         "id": "802274",
+         "field_search": "question",
+         "question": "Chào tư vấn viênem là sinh viên trường ĐHĐTem muốn mua laptop để hỗ trợ việc học nhưng do gia đình khó khăn. Vậy cho em hỏi có dịch vụ gì hỗ trợ cho em không hay chương trình gì đó..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.267574,
+         "id": "1024327",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới di động có hỗ trợ lỗi không truy cập được facebook không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.191906,
+         "id": "996089",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy s5 bên nước ngoài đem về không có hỗ trợ tiếng việt mà em nghe người ta nói đem lên thế giới di động người ta cài sang tiếng việt được .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.169044,
+         "id": "1164819",
+         "field_search": "question",
+         "question": "Xin chào, cho e hỏi bên mình có hỗ trợ mua lại điện thoại củ không ạ, đt này lúc trước e mua bên tgdd luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.10883,
+         "id": "1000009",
+         "field_search": "question",
+         "question": "Thế giới di động ở Ấp 3 Xã Tắc Vân có hỗ trợ root máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.014942,
+         "id": "1167039",
+         "field_search": "question",
+         "question": "Em muốn hỗ trợ mua trả góp 2 chiếc xiaomi redmi note 7.Em có chứng minh thư đủ 20 tuổi hộ khẩu. Nhưng vấn đề thiếu tháng sinh thì bên mình có hỗ trợ cho em mua hàng không ạ. Mong được trả lời sớm từ cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.0144,
+         "id": "925586",
+         "field_search": "question",
+         "question": " Ở thế giới di động có hỗ trợ hạ cấp ios 10.1.1 xuống 10.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.82231,
+         "id": "781686",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ khách hàng nâng cấp phiên bản ios 9.2.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.763218,
+         "id": "1137767",
+         "field_search": "question",
+         "question": " Bên thế giới di động còn hỗ trợ cài ứng dụng tube mate không ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.744728,
+         "id": "1015123",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của tôi goi đi không được. Phải khởi động lại mới gọi đi được, điện thoại đang dùng là  galaxy s7 edge. Nhờ Quý công ty hỗ trợ. Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.61618,
+         "id": "750505",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài game Liên minh miễn phí vào laptop cho em không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.546913,
+         "id": "997131",
+         "field_search": "question",
+         "question": " Cho e hỏi nokia có gọi video call qua facebook, zalovà có hỗ trợ gậy selfie k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.546427,
+         "id": "1021196",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ onl như... họ rứa ad.nhân viên đang bận khang là sao? Mà cho e hỏi miếng dán màn hình điện thoại ở thế giới di động bảo hành sao z ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.431314,
+         "id": "1010227",
+         "field_search": "question",
+         "question": "máy lenovo s1 up rom bị lỗi không lên nguồn bên thế giới di động có hỗ trợ kỹ thuật về vấn đề này không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.220575,
+         "id": "999334",
+         "field_search": "question",
+         "question": "Xin chào Tgdđ cho mình hỏi Xiaomi redmi note4 có hỗ trợ xạc nhanh k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.097536,
+         "id": "1155588",
+         "field_search": "question",
+         "question": "Mình mua máy mobell s60 ở thế giới di động, bảo hành còn hơn 10 tháng không có bất kì lỗi nào thì giờ thế giới di động có hỗ trợ mua lại ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.03645,
+         "id": "1152826",
+         "field_search": "question",
+         "question": "xin chào tui cần hỗ trợ để mua con smartphone giá khoảng 3 triệu trở lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.00117,
+         "id": "990305",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại cấu hình cao để chơi games tầm khoảng 4tr đổ lại thì nên mua loại nào nhỉ ? mọi người có thể tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.962694,
+         "id": "1134938",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ em vấn đề này với ạ. Em rất mong nhận được câu trả lời sớm.     Em đang sử dụng điện thoại Redmi 6A. Em đã cài đặt ứng dụng Zalo và FB Messenger phiên bản mới nhất trong CHPlay rồi.    Tuy nhiên, cả Zalo và Messenger đều không thể vừa Video call vừa chat được ạ.     Thế giới di động chỉ em cách xử lý với a.  Thanks all.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.951385,
+         "id": "1151624",
+         "field_search": "question",
+         "question": "Tôi có một máy macbook mua ở thế giới di động hiện tại mất quyền Admin. Tôi có tham khảo một số cách trên các diễn đàn nhưng khi thực hiện đến bước Command + S thì không thực hiện được. Xin trung tâm vui lòng hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.871252,
+         "id": "992555",
+         "field_search": "question",
+         "question": "Có khoảng 5 triệu thì nên mua Oppo hay Samsung để được hỗ trợ tốt khi sử dụng các mạng free call. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.855724,
+         "id": "777396",
+         "field_search": "question",
+         "question": " Có app nào hỗ trợ tải video về cho iPad ko ad ? Có cho mình xin nhá ! Thanks ad . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.847317,
+         "id": "1160104",
+         "field_search": "question",
+         "question": "Xin chào! Làm ơn cho mình hỏi. Mình có mua điện thoại Nokia CE0168 của thế giới di động. Nhưng giờ mình bị quên mật khẩu bảo vệ. Không biết khắc phục như thế nào. Cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.819685,
+         "id": "774737",
+         "field_search": "question",
+         "question": " Tôi đang dùng Oppo Neo 3 R831 xin hỏi có hỗ trợ 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.779716,
+         "id": "1000984",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động. Em có mua 1 chiếc máy tính hiệu ASUS tại thế giới di động ở Tây Ninh. Hiện bàn phím của máy em đã bị hư một vài phím. Máy vẫn còn bảo hành, vậy nếu em muốn sửa chữa lại máy thì có mất phí hay không? Nếu mất thì có thể là bao nhiêu? Em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.745415,
+         "id": "1156190",
+         "field_search": "question",
+         "question": "Xin chào, mình là Tuấn, mình muốn hỏi Thegioididong ở Hải Dương có hỗ trợ thu mua máy cũ, đổi máy mới không. Mình đang sử dụng Galaxy J7 Pro, muốn chuyển sang dung Vsmart Active 1+Nếu có liên hệ giúp mình theo số điện thoại này nhé: 0987396360Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.681046,
+         "id": "804542",
+         "field_search": "question",
+         "question": "Chào anh chị qtv, e muốn hỏi trong Tgdd có hỗ trỡ cài win10 hay win 8.1 cho laptop không, khi e không mua máy tại tgdd ạ. Nếu hỗ trợ mà mất phí thì khoảng bao tiền ạ. E xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.456764,
+         "id": "1015020",
+         "field_search": "question",
+         "question": "Chào ad, tôi muốn hỏi về bảo hành sp. Tôi mua 1 điện thoại samsung J2 từ 27/3/2017. Hiện nay tôi sử dụng thấy điện thoại luôn báo bộ nhớ đầy dù tôi đã lắp thẻ 8Gb. Hôm nay tôi có làm rơi xuống nước nên điện thoại bị chậm lại, khó vuốt màn hình. Tôi muốn hỏi về việc tôi có thể được hỗ trợ bảo hành hay hỗ trợ đổi sp khác như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.449705,
+         "id": "1163520",
+         "field_search": "question",
+         "question": "xin chào. Mình muốn thay màng hình samsung galaxy s9, bên hãng mình có hỗ trợ phần đó không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.44283,
+         "id": "855203",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi, iPhone 5s có hỗ trợ nhận chuột qua cáp otg không em có nhu cầu chơi game tập kích mong mọi người giải đáp ạ em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.347765,
+         "id": "771936",
+         "field_search": "question",
+         "question": " Bên cửa hàng thế giới di dộng có hỗ trợ gỡ jailbreak không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.235445,
+         "id": "1168180",
+         "field_search": "question",
+         "question": "Chào Thế Giới Di Động, mình được người thân cho một chiếc điện thoại samsung, mà mình cất 1 năm rồi mới đưa ra sử dụng, và thật sự không nhớ đã mua ở shop nào, nên không thể nhờ kích hoạt bảo hành samsung được, không biết các cửa hàng bên  Thế Giới Di Động, có thể giúp mình kích hoạt nếu mình đưa điện thoại ra không ạ? Xin cám ơn thông tin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.16369,
+         "id": "1149681",
+         "field_search": "question",
+         "question": "Bên thế giới di đông mình có hỗ trợ bẻ khóa iphone 7 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.117176,
+         "id": "1016672",
+         "field_search": "question",
+         "question": "Nếu điện thoại không hỗ trợ 4g thì mình nên mua loại sim 3g nào ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.047882,
+         "id": "1000804",
+         "field_search": "question",
+         "question": "Xin chào! Mình có cái điện thoại Samsung galaxy A7(2016). Mình mua ở bên ngoài. Nhưng giờ mình có thể vào thế giới di động bán lại được không vậy? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.006104,
+         "id": "1140573",
+         "field_search": "question",
+         "question": "Bên thế giới di động có hỗ trợ cài bản quyền vĩnh viễn không ah. Máy mới mua còn thời gian bảo hành ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.915234,
+         "id": "1165910",
+         "field_search": "question",
+         "question": "Mình có đặt 1 điện thoại đơn hàng 27400433 tên Mai Phương. Mình muốn nhờ kỹ thuật viên giao để hỗ trợ cài đặt cho điện thoại luôn hộ mình. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.905357,
+         "id": "1155099",
+         "field_search": "question",
+         "question": "cho em hỏi là bên minh có hỗ trợ trả góp cho người sắp đủ 20 tuổi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.77317,
+         "id": "1151942",
+         "field_search": "question",
+         "question": "Thế giới di động có pin cho samsung s4 ko ạ ? Nếu có cho mình xin giá với. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.727201,
+         "id": "790838",
+         "field_search": "question",
+         "question": " Bên thế giới đi động có hỗ trợ chạy lại chương trình cho ip4 ko vậy ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.68074,
+         "id": "916569",
+         "field_search": "question",
+         "question": " tôi có mua laptop tại thế giới di động, hiện máy tôi đang chạy win10, tôi muốn cài lại win 7 có đượ không?xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.644056,
+         "id": "1135855",
+         "field_search": "question",
+         "question": "Nokia 5 của mình bị vỡ màn hình, vẫn sử dụng cảm ứng bình thường. máy mình mua từ tháng 9 năm 2017. Cho mình hỏi bên thế giới di động có hỗ trợ thay màn hình không? Giá thế nào? Cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.54882,
+         "id": "1140239",
+         "field_search": "question",
+         "question": "e muốn mua cho người lớn tuổi mới tập dùng smarphone ạ, tư vấn giúp e điện thoại dưới 3 triệu, các chức năng, lướt web, pin ổn 1 chút là đc rồi ạ, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.533842,
+         "id": "1015406",
+         "field_search": "question",
+         "question": "Tại sao một số điện thoại cũ hỗ trợ giá sốc còn lại thì không ạ? Em cần tư vấn mua iphone 7 cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.398058,
+         "id": "1023715",
+         "field_search": "question",
+         "question": "Xin chào.Cho mình xin hỏi mình có mua 1 điện thoại samsung j7prime ở thế giới gì động. Đến nay đc 9 tháng. Giờ mình muốn bán lại cho cửa hàng thế giới di động. Có được không ạ.Ad trả lời nhanh cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.385729,
+         "id": "862845",
+         "field_search": "question",
+         "question": " The giới di động có hỗ trợ hạ cấp máy từ iOS 10 xuống iOS 9.3.3 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.292425,
+         "id": "1004808",
+         "field_search": "question",
+         "question": "Adm kiểm tra giúp em điện thoại Huawei Y5 ll có hỗ trợ OTG không ạ??? nếu không hỗ trợ thì có cách nào để kết nối OTG không ạ?? Xin adm giúp em!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.234879,
+         "id": "994988",
+         "field_search": "question",
+         "question": "Xin cho hỏi , tôi có mua bên cửa hàng thế giới di động một ipad air. bây giờ tôi muốn hỏi bên thế giới di động có thu mua lại ipad air cũ không? Ipad   air này là tôi mua bên thế giới di động. Vì hiện tại tôi muốn mua đổi sang Ipad New 2017 wifi 32G của bên thế giới di động luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.125107,
+         "id": "1144457",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 chiếc điện thoại để chơi game và pin dung lượng cao , khống biết mình lên mua chiếc điện thoại nào mình mong thế giới di đông đề xuất cho mình những chiếc điện thoại tốt để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.12092,
+         "id": "1160194",
+         "field_search": "question",
+         "question": "cho em hỏi bên Thế giới di động có hỗ trợ khách hàng chạy lại ip khi bị vô hiệu hóa bằng iturn ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.098896,
+         "id": "777616",
+         "field_search": "question",
+         "question": "Chào ad, tôi vừa mua lại một chiếc iphone 5, nhưng người bán không đăng xuất icloud, vậy cho tôi hổ làm thế nào để tôi đăng nhập icloud của mình? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.044945,
+         "id": "1146139",
+         "field_search": "question",
+         "question": "Hi a, em có điện thoại Z5 mua bên thế giới di động qui nhơn, nay thấy hiện tượng lạ là lâu lâu tự khởi động lại hoặc mất nguồn luôn. anh chị hỗ trợ giúp em ạ. sđt: 0985427099 Luân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.038206,
+         "id": "1006261",
+         "field_search": "question",
+         "question": "Xìn chào, cho mình hỏi một chút, trước máy tính acer v3-471G của mình mua ở thế giới đi động, hết bảo hành lâu rồi nhưng giờ có sự cố thì mình có đem ra thế giới đi động để hỗ trợ gửi về hãng xử lý được không. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.017136,
+         "id": "996761",
+         "field_search": "question",
+         "question": "xin chào admin,điện thoại mình là SS galaxyJ5 2016, mình mua tại TGDĐ, bị vào nước, màn hình xuất hiện đường sọc và bị mờ. Xin hỏi nếu mình đêm đến của hàng TGDĐ bất kỳ đều được hỗ trợ đúng ko ạ? và chi phí là bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.90647,
+         "id": "782269",
+         "field_search": "question",
+         "question": "Chào TGDD!Trước đây tôi có mua 1 điện thoại iPhone 6 tại TGDD vào ngày 24/11/2014. Nay tôi có nhu cầu đổi muốn đổi iPhone 6s không biết bên TGDD có hỗ trợ thâu mua sản phẩm cũ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.899427,
+         "id": "1165763",
+         "field_search": "question",
+         "question": "Ở các cửa hàng thế giới di động trên toàn quốc thì có hỗ trợ root máy xiaomi redmi 5 plus không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.891613,
+         "id": "1003976",
+         "field_search": "question",
+         "question": "Ad ơi ở thế giới Di động có hỗ trợ thay màn hình Samsung galaxy s3 2014 không vậy .và giá bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.811771,
+         "id": "1162741",
+         "field_search": "question",
+         "question": "Dear Thế Giới Di Động,Tôi có mua một laptop envy 13 tại Thế Giới Di Động vào hồi tháng 9/2018. Hiện tại, màn hình máy tính của tôi có xuất hiện 2 vết đốm sáng trên màn hình. Thì không biết là lỗi này do nguyên nhân gì? Và tôi có thể mang ra để nhờ nhân viên tư vấn và bảo hành được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.727507,
+         "id": "1163821",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động, cho em hỏi là ở Phú Quốc có chỗ nào bán điện thoại samsung m20 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.71871,
+         "id": "875849",
+         "field_search": "question",
+         "question": "Hiện e đang tìm mua 1 cái laptop có thể chiến game gta5 hay call of duty black ops 3 tốt có thể gắng thêm card rời xin các admin có thể tư vấn giúp em. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.665352,
+         "id": "876513",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận cài win laptop không ạ. Em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.660805,
+         "id": "849688",
+         "field_search": "question",
+         "question": "Em muốn học lập trình và em định mua 1 chiếc laptop rẻ thôi vì nhà nghèoanh/chị có thể tư vấn cho em laptop nào hỗ trợ tốt việc lập trình không ạvà cấu hình tối thiểu cho việc lập trình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.545532,
+         "id": "1143469",
+         "field_search": "question",
+         "question": "tôi muốn hỏi sam sung A9 2018 có hỗ trợ cảm biến la bàn không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.517902,
+         "id": "1161152",
+         "field_search": "question",
+         "question": "Cho tôi hỏi Các thiết bị hỗ trợ sạc không dây chuẩn Qi là loại nào? Vsmart Active 1 có được hỗ trợ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

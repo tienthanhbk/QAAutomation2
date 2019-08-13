@@ -1,0 +1,801 @@
+{
+   "id_query": "1129735",
+   "total": 33142,
+   "total_current": 100,
+   "max_score": 67.99789,
+   "origin_question": " Cho e hỏi.E mới mua laptop được 1 tháng.Bây giờ office của em hết hạn.H e phải làm sao ạ ",
+   "hits": [
+      {
+         "score": 24.445652,
+         "id": "1154192",
+         "field_search": "question",
+         "question": "cho e hỏi.e mới mua con vivo y91. giờ e muốn đỏi qua con samsung j6 được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.907736,
+         "id": "994603",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua đt j2 giờ e muốn bán lại thì mất khoảng bn tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.800123,
+         "id": "1013266",
+         "field_search": "question",
+         "question": "Cho e hỏi là tai nghe của nokia 3 bị lỗi nghe 1 bên to 1 bên nhỏ mà máy e mua mới vậy bây giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.651731,
+         "id": "986292",
+         "field_search": "question",
+         "question": "cho em hỏi ip6 của e quên mất mật khảu mở máy giờ e phải làm sao và phí mở hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.814669,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.769459,
+         "id": "1162628",
+         "field_search": "question",
+         "question": "cho e hỏi ạ e mua laptop ở shop về 1 khoảng thời gian vẫn dùng được word và office 365 sao h lại k dùng được nó cứ bắt nhập key ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.71139,
+         "id": "1024608",
+         "field_search": "question",
+         "question": "tgdd cho e hỏi laptop của em mới mua về sao cửa hàng store không phải là tiếng việt, muốn chỉnh lại thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.31564,
+         "id": "791214",
+         "field_search": "question",
+         "question": "Em mới mua máy laptop với giá 8tr490 em mua trả góp bi giờ e muốn đổi máy laptop 8tr890 thì e phải bù bao nhiêu tiền để được đổi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.272175,
+         "id": "841103",
+         "field_search": "question",
+         "question": " em mới mua iphone 5 mà giờ sim ghép e bị khóa giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.201414,
+         "id": "1144727",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ em muốn đem laptop của em ra tiệm cài đặt lại như lúc mới mua nhưng em đã hết bảo hành, vậy thì e tôn bn tiền để cài lại ạ. Sđt lúc e mua laptop là 0909261508 mà e bị mất số lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.126665,
+         "id": "1161305",
+         "field_search": "question",
+         "question": "laptop asus vivo book s510ua em mua được nửa năm giờ loa bị rè 1 bên phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.125717,
+         "id": "904837",
+         "field_search": "question",
+         "question": "lúc mua laptop em có mua office 365 Personal 32-bit/x64 English ở cửa hàng thegioididong, gần đây em nhận được mail bảo là office của em sắp hết hạn và cần đăng ký gia hạn là sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.09574,
+         "id": "1136494",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy redmi6 cách đây 1 tháng giờ sạc của em không vào nữa thì có được đổi sạc mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.896023,
+         "id": "773819",
+         "field_search": "question",
+         "question": "Cho hỏi. Mình mới mua Laptop Acer E5 573 i7, vào ngày 3-1 ở Thoigioididong.com. Laptop này có tặng office 365. Nhưng khi lấy laptop về thì mình không thấy cái hộp office đâu hết. Nếu lỡ nhân viên bên bạn chưa cài đặc office bản quyền cho mình, mình sai hết bạn dùng thử thì mình có thể khiếu nại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.630468,
+         "id": "834270",
+         "field_search": "question",
+         "question": "Zạ cho e hỏi!! Bây giờ cài Office 2013 tại thegioididong phải mua bản quyền mới cài được hả?? Không còn áp dụng chính sách miễn phí ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44882,
+         "id": "1009074",
+         "field_search": "question",
+         "question": "Laptop của em đang sử dụng card màn hình Intel HD Graphics . Bây giờ em muốn nâng cấp lên thì phải làm sao ạ ?? Gợi ý dùm e 1 số card màn hình cho laptop để chơi game với ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.364056,
+         "id": "1012561",
+         "field_search": "question",
+         "question": "cho e hỏi em mới mua sam sung j5 prime cách đây 1 tuần nhưng h e muốn đổi điện thoại khác thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.246548,
+         "id": "986221",
+         "field_search": "question",
+         "question": "Cho e hỏi cái iphone 6s plus của e bây giờ nó bị tróc sơn hết rồi . Giờ e phải làm s . Ở tgdd có thay vỏ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.176964,
+         "id": "965738",
+         "field_search": "question",
+         "question": "Em có mua laptop dell tại thế giới đi dộng được một năm và mua bộ office bản quyền giá 1 triệu 2 nhưng được khuyến mãi còn 600 nghìn.Sử dụng được 1 năm và bây giờ không sử dụng được,bây giờ em phải làm sao để có thể tiếp tục xài nữa ạ và nếu phải mua lại thì với giá bao nhiêu ạ.Mong nhận được câu trả lờ sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.039957,
+         "id": "1016272",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi.E mua samsung A5 2017 trả góp được 3 tháng rồi.bây giờ e muốn trả có được ko ạ? Nhờ TGDD tư vấn giúp e.cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.974724,
+         "id": "1024031",
+         "field_search": "question",
+         "question": "cho e hỏi cái laptop của e nó bị trầy màn hình 1 dấu rất nhỏ bây giờ e nên làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.892757,
+         "id": "1117706",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy e mới mua được 1 tuần mà máy bị tụt bin, 1 tiếng tuột mất 5% mà ko làm cả , cho e hỏi giờ e đem máy ra thế giới di động hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.882433,
+         "id": "1013114",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có mua máy cũ không ạ ?e muốn bán 1 laptop  mới mua được 4 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.814768,
+         "id": "1134383",
+         "field_search": "question",
+         "question": "E dùng laptop asus a504l tại sao sau khi e gia hạn office 365 thi thanh cuộn chuột cảm ứng e ko dùng được nữa ạ.  E có mang ra thế giới di động rồi và mấy a ấy sửa cho e rồi nhưng được vài ngày thì nó lại ko hoạt động nữa. E phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.811684,
+         "id": "788229",
+         "field_search": "question",
+         "question": " cho em hỏi laptop của e lâu ko sử dụng nên quên mất password mở máy. giờ em phải làm sao để reset lại password ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.811026,
+         "id": "1005477",
+         "field_search": "question",
+         "question": "Cho e hỏi.e bị vô hiệu hoá app store e đạ tạo 1 tk icoud mới nhưng tại sao vào app tải game vận bị vô hiệu hoá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76792,
+         "id": "1159145",
+         "field_search": "question",
+         "question": "máy tính của em trước đây mua tại thế giới di động có mua qua office giờ làm sao để không phải mua ofice mà vẫn xài được chứ không đánh word hay excel được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.759449,
+         "id": "1157650",
+         "field_search": "question",
+         "question": "Admin cho e hỏi.e đặt mua vivo v15,e đã đặt cọc.giờ e muốn hủy đơn,e đổi sang đặt mua oppo f11 pro có được ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.745874,
+         "id": "804229",
+         "field_search": "question",
+         "question": "Laptop của em là TP500LA, vì có 1 vài lỗi khi SD Office nên em đã khôi phục cài đặt gốc lại cho Win 10 ... giờ gập ngược lap lại thì lại không xoay theo hướng như ý muốn.. Em phải làm sao đây :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.742985,
+         "id": "997940",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi.e mua máy tại shop giờ e k muốn dùng e bán lại ở shop đc k ạ.đt e vẫn còn bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.539873,
+         "id": "1016084",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua máy bên TGDĐ được 1 tuần bây giờ e bán lại máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.480167,
+         "id": "1135092",
+         "field_search": "question",
+         "question": "Em mua laptop ở điện máy xanh hồi năm ngoái, kèm gói office 365, nay vừa hết hạn. Giờ em muốn gia hạn thì sao và giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.436735,
+         "id": "994568",
+         "field_search": "question",
+         "question": "ad cho em hỏi. e vừa resore iphone 4 của em. nhưng e mất icloud rồi. giờ nó bắt kích hoạt. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369488,
+         "id": "1151583",
+         "field_search": "question",
+         "question": "cho em laptop bị mất hết phần mềm office là bị lỗi win phải không ạ, sửa chữa như nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.256878,
+         "id": "991325",
+         "field_search": "question",
+         "question": "Sao máy mới mua được 2 tháng mà office 365 mà đã hết hạn dùng rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20623,
+         "id": "1024339",
+         "field_search": "question",
+         "question": "Cho em hỏi vào ngày 30/11/2016 e có mua 1 laptop tại tdgđ và được tặng 1 chuột k dây ạ. Em mới sử dụng chuột k dây được tầm 3 tháng thì chuột có hiện tượng nhanh hết pin và bị lỗi nháy đúp ( khi e chỉ nháy 1 lần ). Vậy cho em hỏi cách giải quyết để sửa lỗi của chuột được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.173422,
+         "id": "1007650",
+         "field_search": "question",
+         "question": "laptop của e mới mua cách đây 4 tháng, hạng bảo hành là 1 năm, nhứng giờ máy em có vấn đề là loa bị rè ạ, mình đi bảo hành được không vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.128857,
+         "id": "769040",
+         "field_search": "question",
+         "question": "qtv cho e hỏi e mua laptop năm ngoái, bây giờ hết hạn bảo hành. e muốn cài Bitdefender Antivirus thì hết bao nhiêu tiền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.085207,
+         "id": "1001775",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao hình ảnh của e bị mất hết ạ. E đang dùng máy samsung galaxy j2 prime. E phải làm sao để khôi phục lại hình ảnh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.069616,
+         "id": "1022536",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua samsung galaxy a7 được vài ngày.lúc đầu cắm tai nghe vào vẫn bình thường nhưng hôm nay lại không cắm vào được.phải cắm mạnh vào mới nghe được nhưng bắt buột phải giữ chặt tai nghe. Nếu không giữ chặt thì tai nghe không thể ghim sát được. Cho e hỏi phải khắc phục như thế nào ạ?E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.948914,
+         "id": "1020490",
+         "field_search": "question",
+         "question": "Dạ chào anh chị, em mua dây cáp của bên tgdd lúc đó 1 đổi 1 trong vòng 1 năm. chưa hết 1 năm, sao dây sạc lại sạc điện thoại mà làm pin dt tuột làm em phải thay cục pin mới. cho em hỏi em còn đổi được không. sdt em mua hàng là 01677032324",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.818394,
+         "id": "1020930",
+         "field_search": "question",
+         "question": "E mới mua 1 cái máy j7 pro mà lỡ tay làm màn hình , giờ e ra thế giới di động e có được bảo hành lại màn hình mới hông ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.754377,
+         "id": "880038",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi với.e có mua máy ip6s bên tgdd trần duy hưng được khoảng 3.4 tháng.bây giờ máy e bị lỗi không có dịch vụ.mang đi bảo hành thì nhân viên bảo do đt e có bị bong sơn ( 1 miếng to hơn đầu que tăm 1 chút ở chỗ cắm phone) nên k nhận bảo hành là sao ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.721323,
+         "id": "806068",
+         "field_search": "question",
+         "question": " Cho em hỏi chị em vừa mua laptop ASUS sao bấm số mà ra chữ phải làm sao cho hết? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.6955,
+         "id": "1023733",
+         "field_search": "question",
+         "question": "Anh/ c cho e hỏi: em mua iphone 6 64g trả góp tại của hàng thế giới di động nhưng về kiểm tra imei thì e thấy máy đã được kích hoạt và hết hạn bảo hành của apple rồi.Em muốn mua máy mới chứ k phải máy cũ. Bây giờ e muốn đổi sang máy khác được k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.673105,
+         "id": "1136111",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi đjen thoại e mới mua được 1 tuần ,dòng samsung A7 2018, nhưng pin sử dụng rất nhah hết ,nhờ tư vấn giúp e đien thoại bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.607883,
+         "id": "1164968",
+         "field_search": "question",
+         "question": "e mới mua f11 pro chưa đc 1 tháng nhưng trong quá trình sử dụng đt hay bị đơ, nhiều lúc k nhận được cuộc gọi thì e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.554699,
+         "id": "783481",
+         "field_search": "question",
+         "question": "A cho e hỏi.e có ip 5 nhưg micro nhỏ khi nói chuyện phải nói to người đầu dây bên kia mới nghe được.a cho e hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.545805,
+         "id": "1144998",
+         "field_search": "question",
+         "question": "em vừa mua laptop asus vivo book bên mình đợt tết dương vừa rồi bây giờ word,excel..yêu cầu phải kích hoạt thì mới dùng được. Cho e hỏi là e có được cấp key để kích hoạt không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.526838,
+         "id": "920609",
+         "field_search": "question",
+         "question": " Máy e mới cập nhật IOS 10.1.1 , giờ e muốn trở về hệ IOS cũ thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.5173,
+         "id": "799300",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua laptop acer one 14 , đang đánh văn bản thì cả bàn phím bị đơ , restart máy thì nó bị đứng . E phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.503258,
+         "id": "788305",
+         "field_search": "question",
+         "question": " E mới mua Iphone 5s.. trên máy còn icloud của người dùng trước mà em không có pass.. giờ làm sao để logout ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.493942,
+         "id": "1157660",
+         "field_search": "question",
+         "question": "cho e hỏi là laptop e mới mua dùng win10 bản quyền 1 năm nhưng sao vào word k dùng đc và yêu cầu mua ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.413254,
+         "id": "1162997",
+         "field_search": "question",
+         "question": "cho e hỏi.đt e trả góp còn ư tháng..bây giờ e muốn bán đt thì e phải trả hết mới bán được...cho e hỏi nếu đt TGDĐ mua lại của e là 5 triệu,mà tổng số tiền e còn nợ là 2 triệu,thì e lấy 3 triệu thôi còn 2 triệu còn lại để thanh toán số tiền còn nợ được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.38829,
+         "id": "951845",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi . E mới mua laptop Dell Ísnpiron 5459 i7 6500U mà loa bị rè với chạy rất chậm. thì bây h e phải làm sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.302975,
+         "id": "1012457",
+         "field_search": "question",
+         "question": "máy em mới mua về chừng một năm nhưng không để ý thì phát hiện máy không có office word, bây giờ em phỉa làm sao ạ. Mong mọi người giúp đỡ. (máy của em là dell)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.272808,
+         "id": "897763",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi.e quên mật khẩu khóa máy.máy em chưa cài icloud giờ làm sao để mở ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.255613,
+         "id": "1164734",
+         "field_search": "question",
+         "question": "Cho e hỏi? E mua laptop bên mình cách đây 3tháng giờ e muốn bán laptop lại được k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.255413,
+         "id": "797618",
+         "field_search": "question",
+         "question": "AD cho em hỏi, hùi trước em có mua máy tính Laptop ở THẾ GIỚI DI ĐỘNG, nhưng sài 1 thời gian thì phần mềm diệt virus hết hạn, em phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.193096,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.175648,
+         "id": "994743",
+         "field_search": "question",
+         "question": "e mua 1 dt trả goop nhưng chưa trả hết , giờ e muốn mua thêm đt trả góp nữa được không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.170504,
+         "id": "909838",
+         "field_search": "question",
+         "question": "Cho em hỏi: Laptop của em bị lỗi win mới đi cài lại win về ở Trung tam bảo hành Asus. nhưng khi cài win xong thì mất luôn Microsoft Office bản quyền. giờ muốn lấy lại key để kích hoạt không ạ? Laptop này ngày trước em mua tại TGDĐ có bản quyền Office 365. thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.136642,
+         "id": "844999",
+         "field_search": "question",
+         "question": "Máy tính em reset lại thì bị mất MS Microsoft Office, em đã thử down trên mạng nhưng vẫn không được, giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.120213,
+         "id": "872665",
+         "field_search": "question",
+         "question": " E vừa mua ipad2 gần 1 tháng. Vừa nải cấm sạc nó báo thiết bị không nhận sạc... Bây giờ phải làm sao ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.116634,
+         "id": "1016090",
+         "field_search": "question",
+         "question": "Ad cho em hỏi e mới mua máy bên TGDĐ được 1tuần giờ e muốn bán lại máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.09996,
+         "id": "1019869",
+         "field_search": "question",
+         "question": "cho e hỏi máy e bị như này e phải làm sao ạ ???E mới dùng được hơn 1 tháng mà thi thoảng nó nóng máy r nó tự động sập nguồn r ra hình như này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.07309,
+         "id": "781267",
+         "field_search": "question",
+         "question": "MÁY LAPTOP VAIO EM MUA CÁCH ĐÂY 2 NĂM CÓ BẢN QUYỀN, VỪA RÙI Ổ CỨN BỊ HỎNG E PHẢI MUA LẠI Ổ CỨNG MỚI. CHO E HỎI LÀM SAO MÌNH CÀI ĐẶT LẠI WIN BẢN QUYỀN?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.072916,
+         "id": "831947",
+         "field_search": "question",
+         "question": " QTV cho em hỏi Laptop DELL của em đồi kích hoạt của sổ, bây giờ em phải làm sao đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.072653,
+         "id": "839126",
+         "field_search": "question",
+         "question": "iphone của em mới mua nhưng sử dụng liên tục chỉ được tầm 4 giờ .. vậy pin có làm sao không ạ .. em mới chỉ mua ở thế giới di động hơn 1 tuần thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.033543,
+         "id": "1006982",
+         "field_search": "question",
+         "question": "cho e hỏi e mua laptop o tgdd ngày 15/5, giờ thấy ko phù hợp e muốn đổi laptop khác được không. nếu được giá trị của máy còn bao nhiu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.026064,
+         "id": "1013636",
+         "field_search": "question",
+         "question": "cho e hỏi máy wikogetway bị đơ làm sao hết đơ. em mới thay màn hình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.995367,
+         "id": "802783",
+         "field_search": "question",
+         "question": " laptop của e chạy win 10 nhưng vhaof cửa hành của máy ko đk, nó báo lỗi 0x80072EFD bây giờ e phải làm ntn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.973871,
+         "id": "1153690",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua laptop dell inspiron 3567 i3 win 10. nhưng sài được tầm 2 tháng thì nó báo là '' Your windows license will be expired ạ. vậy lúc mua thì em phải được cài win 10 bản quyền chớ ạ. sao giờ nó lại báo hết hạn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.958181,
+         "id": "1019193",
+         "field_search": "question",
+         "question": "Chào ad...em mới mua laptop dell inspiron 3467 ở tgdđ... Máy e mỗi lần mở lên nó cứ hiện cái review settings không tắt được phải tắt máy mở lại... giờ phải khắc phục sao ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.931116,
+         "id": "908628",
+         "field_search": "question",
+         "question": " Laptop Dell của mình bị pin ảo từ 40 chạy xuống 7 và hết pin luôn? giờ phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901648,
+         "id": "890209",
+         "field_search": "question",
+         "question": "lúc trước khi mua máy, máy có microsoft office, nhưng bị lỗi win và đi cài lại, thì bị mất luôn, e phải làm sao để lấy lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.856543,
+         "id": "1156498",
+         "field_search": "question",
+         "question": "Cho e hỏi. Hôm mua lap e có mua thêm microsoft office 365 để dùng Word, PowerPoint, Exel. Nhưng hôm máy bị hư ra cài lại Win thì  Word, PowerPoint, Exel lại bị đổi thành WPS. giờ e muốn dùng lại bản Microsoft thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.829596,
+         "id": "914400",
+         "field_search": "question",
+         "question": " Laptop của em bị mất cd key window thì giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80268,
+         "id": "1007632",
+         "field_search": "question",
+         "question": "AD cho e hỏi, hôm trước e có dặt 1 chiếc điện thoại nhưng giờ em muốn hủy nó để đặt lại mẫu khác thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.774675,
+         "id": "838495",
+         "field_search": "question",
+         "question": " Em mới mua ip SE chưa được 1 tháng nhưng đôi khi vào google nó lại đứng phải thoát ra...phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.773588,
+         "id": "948505",
+         "field_search": "question",
+         "question": " ad ơi.. giờ ituns của e quên mk.. quên cả email giờ k tải fb.,, zalo hoặc cái khác k đc.. giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.715723,
+         "id": "1154900",
+         "field_search": "question",
+         "question": "Office 365 được cài sẵn ở laptop nhưng phải kích hoạt mới sử dụng được ạ? Nếu không kích hoạt thì thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.704823,
+         "id": "996027",
+         "field_search": "question",
+         "question": "anh chị ơi . đt e mua ở tgdd nhưng giờ hết hạn rồi. e làm rớt nó hư nguồn rồi hay s ấy ạ. e muốn hỏi giờ e đem tới sữa có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.683985,
+         "id": "1018316",
+         "field_search": "question",
+         "question": "E có 2 câu hỏi muốn được giải đáp tường tận  ạ:1 là Máy của e là j3 2016 mua được tầm 2 năm. Hiện tại sử dụng thì thấy hiện tượng giật lag. Không biết làm sao để khắc phục tình trạng này ạ?2 là nếu như lúc trước e mua máy cũ với giá 3.990.000d thì nếu như muốn đổi máy mới với giá 4.990.000d thì e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.63352,
+         "id": "1007953",
+         "field_search": "question",
+         "question": "Ad e hỏi e mới mua sim 4g thang trước nay hết hạn mà e đăng kí g70 ko được ạ lí do tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.608324,
+         "id": "1144034",
+         "field_search": "question",
+         "question": "Máy tính cũ của em xài office bình thường mà máy tính em ms mua office của e ko dùng đc nó cứ hiện lên thông báo phải đăng kí dịch vụ cái này là do ứng dụng đc cài đặt hay s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.595192,
+         "id": "1009757",
+         "field_search": "question",
+         "question": "E mới mua j7 prime test thì thấy lỗi cam ứng e phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.578487,
+         "id": "743734",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Máy e ip4s khi chụp camera sau của camerA 360 thì cứ bị đảy ra ngoài mà camera trước thì k sao. Bây giờ e phải làm sao ạ 😢😢😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.530405,
+         "id": "1141250",
+         "field_search": "question",
+         "question": "cho e hỏi laptop của e mới reset lại thì Microsoft office bị lỗi nên mở word, excel không lên ạ. Nó cứ hiện dòng chữ this action is only valid for products that are currently in stalled.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.525381,
+         "id": "947704",
+         "field_search": "question",
+         "question": "Cho em hỏi là Laptop em mới mua tại TGDD cũng hơn nữa tháng rồi. Giờ em muốn vào dùng Word, Excel hay PowerPoit thì nó đều để phải mua hoặc kích hoạt để sử dụng. Vậy giờ làm sao để kích hoạt hay bắt buộc phải mua ạ.????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.493742,
+         "id": "1158886",
+         "field_search": "question",
+         "question": "Cho e hỏi , e mới mua laptop HP giá 12tr khoảng 2 tuần mà không cài được Win 7 để e đi làm ,giờ e muốn đổi máy liệu có mất tiền gì không ?trả lời Giúp e , cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.476381,
+         "id": "986058",
+         "field_search": "question",
+         "question": "Em có mua 1 sim 4g đăng kí bằng CM của e giờ em muốn mua thêm 1 cái sim vẫn bằng CM đó thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.451696,
+         "id": "1016875",
+         "field_search": "question",
+         "question": "cho e hỏi chân sac laptop của e có 3 chân còn ổ cắm nhà e chỉ có 2 chân vậy e phải mua ổ cắm khác hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.41555,
+         "id": "1139426",
+         "field_search": "question",
+         "question": "E mới mua cái j8 nhưng đănh kí tài khoản samsung icloud không bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.346544,
+         "id": "936075",
+         "field_search": "question",
+         "question": "Cho e hỏi là: e có mua 1 laptop ở tgdd em k nhớ là còn bảo hành k nữa nhưng giờ máy e k vào được wifi vậy nếu e mang ra tgdd thì có tính phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.346476,
+         "id": "1152351",
+         "field_search": "question",
+         "question": "Giờ e bán samsung j2 ra được bn ạ e mới sd dc 1 nam ha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.336708,
+         "id": "994663",
+         "field_search": "question",
+         "question": "E mua ĐT A37fw chưa được 1 tháng thấy màng hình không được tốt.  Giờ e muốn đổi mới nhưng e có thể đổi lấy ĐT A37 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.335354,
+         "id": "1148374",
+         "field_search": "question",
+         "question": "anh oi, vừa rồi em mới mua 1 laptop hp pavilion nhưng màn hình bị dời , làm màn hình bị lệch về phía bên phải em phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.325476,
+         "id": "1012365",
+         "field_search": "question",
+         "question": "ad ơi, cho e hỏi là, e mua laptop ausus ở shops được khoảng 9 tháng, giờ máy dùng hơi chậm, e muốn mang sang chạy lại win cho phải mất phí k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

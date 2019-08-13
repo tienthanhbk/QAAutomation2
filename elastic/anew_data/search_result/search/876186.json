@@ -1,0 +1,801 @@
+{
+   "id_query": "876186",
+   "total": 31365,
+   "total_current": 100,
+   "max_score": 103.40817,
+   "origin_question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+   "hits": [
+      {
+         "score": 58.498287,
+         "id": "880806",
+         "field_search": "question",
+         "question": "dạ cho em hỏi gợi ý kết bạn hiện thị thị kết bạn chứ k phải tìm từ số điện thoại, cũng k phải tìm ban quanh đây.Z từ đâu ngừoi ta biết zalo e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.22149,
+         "id": "738523",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ, chỗ gợi ý kết bạn trong zalo hiển thị 1 zalo khác mà ghi là Từ danh bạ, nghĩa là tài khoản zalo danh bạ ngta có số điện thoại của mình hả QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.69696,
+         "id": "1150541",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để người mà em muốn kết bạn zalo có số điện thoại của em trong danh bạ của họ, nhưng em kết bạn thì em muốn họ không thấy số điện thoại của em,và em không muốn trong danh bạ của người hiện sđt của e lên khi e gửi kết bạn và e không muốn cho họ biết đó là em? Thì phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.13132,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.18148,
+         "id": "885685",
+         "field_search": "question",
+         "question": " cái zalo cua mình muốn kết bạn từ kết nối qua facebook ma không được máy báo danh sách trông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.928814,
+         "id": "875504",
+         "field_search": "question",
+         "question": "add cho mình hỏi khi mình gửi lời mời kết bạn vs ngta mà nó hiện lên dòng chữ \"người này ko muốn nhận lời mời kết bạn từ bạn\" như vậy là mình bị chặn đúng ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.126835,
+         "id": "1158000",
+         "field_search": "question",
+         "question": "khi kết bạn zalo, zalo báo danh tính người dùng này không hợp lệ và không kết bạn được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.78963,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.269455,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.88091,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.115616,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.944084,
+         "id": "1141676",
+         "field_search": "question",
+         "question": "Dạ, không phải là đề xuất thêm bạn ah, mà người ấy ở trong phần danh bạ Zalo và bạn bè của Zalo ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.614697,
+         "id": "1141518",
+         "field_search": "question",
+         "question": "Cùng trên zalo, nhưng không kết bạn thì người khác có đọc được nhật ký của mình không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.092796,
+         "id": "841571",
+         "field_search": "question",
+         "question": " Khi mình chặn hay hủy kết bạn với một người trên zalo thì toàn bộ tin nhắn của mình bên người đó có bị xóa hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.98645,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97958,
+         "id": "814579",
+         "field_search": "question",
+         "question": "Chào bạn. mình muốn hỏi chút là chồng mình cũng dùng Zalo, mình cũng dùng mà sao mình lưu số của chồng mình trong danh bạ rồi mà sao mình không thấy cập nhật danh bạ là số của chồng mình trên Zalo hay do chồng mình đăng ký bằng máy tính bảng nên không hiện lên điện thoại mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.772415,
+         "id": "1135873",
+         "field_search": "question",
+         "question": "quyền riêng tư chặn kết bạn hết mọi thứ thứ mà người đó có lưu sdt của mình trong danh bạ của họ nên họ vẫn còn thấy nick của mình và kb với mình ? ?tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.78167,
+         "id": "1000743",
+         "field_search": "question",
+         "question": "bạn ơi ! chiều nay mình mới mua s8+ bên bạn ! bjo mình muốn chuyển danh bạ từ nokia 515 sang s8+ thì làm như thế nào hả bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.477844,
+         "id": "1158965",
+         "field_search": "question",
+         "question": "Danh bạ điện thoại vẫn còn nhưng chỉ hiện kết nối zalo khi người trong danh bạ gọi mình không hiện tên nữa chỉ hiện số. Vô danh bạ ấn tên thì mấy mấy icon nhắn tin gọi điện là như nào nhỉ thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.119217,
+         "id": "884712",
+         "field_search": "question",
+         "question": " E gửi lời mời kết bạn trên zalo người ta chưa chấp nhận.e muốn thu hồi thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.091145,
+         "id": "831438",
+         "field_search": "question",
+         "question": " tôi muốn tìm zalo của bạn tôi đã lật mặt từ lâu tìm lại được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.029644,
+         "id": "844359",
+         "field_search": "question",
+         "question": " Chào Ad...Mình muốn đổi tên của một người bạn của mình trong zalo, theo ý mình thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.885864,
+         "id": "1136526",
+         "field_search": "question",
+         "question": "Mình xoá vị trí zalo tránh làm phiền 1 ngày , không bật lại nữa mà sao vẫn nhận được lời kết bạn quanh đây. Mọi người chỉ em với, nó quá phiền với em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.843044,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.656303,
+         "id": "1013815",
+         "field_search": "question",
+         "question": "minh đã đồng bộ tất cả danh bạ trên icloud. Nhưng lúc tìm kiếm danh bạ lại không hiển thị kết quả tìm kiếm. Như vậy là lỗi j ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.478783,
+         "id": "1153867",
+         "field_search": "question",
+         "question": "chào bạn ! Mình mới mua Nokia 8.1, nhưng ko biết cách hiển thị danh bạ từ sim cũ, nhờ bạn chỉ giúp nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.465668,
+         "id": "1117021",
+         "field_search": "question",
+         "question": " Em muốn sao chép danh bạ từ sim sang samsung account nhưng em ko tìm thấy phần nhập xuất danh bạ ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.431908,
+         "id": "838975",
+         "field_search": "question",
+         "question": "Mình và bạn đều ko lưu sdt của nhau. Tại sao zalo tự kết bạn thành công mà ko hề có sự đồng ý của mình và bạn mình. Thế là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.13802,
+         "id": "1147268",
+         "field_search": "question",
+         "question": "Dear TGDDMình mua con Vsmart active 1+ và nhờ nhân viên kỹ thuật của của hàng TGDD sao chép giúp danh bạ từ máy cũ sang máy mới. Nhân viên sử dụng Bluetooth để chuyển danh bạ sang. Sau khi kiểm tra trên danh bạ thì thấy có đầy đủ, tuy nhiên khi kích vào để gọi thì nút gọi bị ẩn, số người quen đã lưu khi gọi vào cũng không hiển thị tên. Kiểm tra kỹ thì mình thấy danh bạ chỉ trên zalo (được đồng bộ từ danh bạ). Mình đã xóa danh bạ ở máy cũ nên giờ không biết xử lý thế nào. Nhờ TGDD hỗ trợ. SDT 0919459778.Xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.793947,
+         "id": "870403",
+         "field_search": "question",
+         "question": "Không thể yêu cầu kết bạn, danh sách bạn của người này đã đầy. Cho e hỏi ad em không gửi được lời mời kết bạn cho người khác và mọi người cũng không gửi được cho em. Ad giúp em với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.658537,
+         "id": "849213",
+         "field_search": "question",
+         "question": "Mình muốn xóa 1 số bạn bè trong danh bạ tango (danh bạ trên sim không có những người này). mình cũng đã vào danh bạ tango và nhấn chọn tên người muốn xóa nhưng ko hiển thị thông tin nào để mình chọn xóa. Mình muốn xóa hoàn toàn khỏi tango chứ ko muốn ẩn hay chặn. Mong bạn tra loi som cho minh. minh sd ssung j5 nhưng phần cài đặt ko có \"Manager Block list\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.626682,
+         "id": "809670",
+         "field_search": "question",
+         "question": "Mình đã gửi kết bạn trên zalo, ng đó không chấp nhận, vậy làm các nào để người đó không vào xem đc nhật kí, ảnh của mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.525284,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.504105,
+         "id": "844933",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình chặn bạn trên zalo, sau đó mình hủy kết bạn xóa các liên lạc rồi, giờ làm thế nào để kết bạn lại được trên zalo với bạn đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.417837,
+         "id": "823912",
+         "field_search": "question",
+         "question": "Mình muốn hỏi khi mình lưu 1 số đt mới thì ít sau đó zalo thông báo 2 ng đã trở thành bạn bè mặc dù mình không hề gửi lời mời kết bạn. Như vậy có phải người kia đã lưu số của mình trước đó rồi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.374018,
+         "id": "870181",
+         "field_search": "question",
+         "question": "em đăng nhập vào Zalo bằng tài khoản facebook,nhưng khi tìm bạn từ nick facebook thì Zalo thông báo là không tìm thấy(liên kết và uỷ quyền cho Zalo rồi ạ) . Có lỗi gì xảy ra à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.15947,
+         "id": "1157072",
+         "field_search": "question",
+         "question": "Cho em hỏi. Trong tin nhắn zalo với 1 người trong danh bạ. Hiện  bạn đã xem hoạt động của người đó là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.124428,
+         "id": "884710",
+         "field_search": "question",
+         "question": "Mình gửi lời mời kết bạn trên zalo người ta chưa chấp nhận.mình muốn thu hồi lại thì phải làm sao.các bác giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.096928,
+         "id": "1161815",
+         "field_search": "question",
+         "question": " Bạn có muốn biết bạn bè, người yêu của mình thường bình luận ảnh của ai đó trên  Facebook  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.063723,
+         "id": "803807",
+         "field_search": "question",
+         "question": " Danh bạ còn, nhưng khi tìm kiếm một tên nào đó thì báo không tìm thấy kết quả...?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.823936,
+         "id": "787043",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi đăng nhập Tango ở một cái máy khác cùng một số điện thoại đang nhập thì lại không nhận được dữ liệu tin nhắn hay danh bạ mà những người tôi đã kết bạn ở máy đang nhập củ, y như tôi là một người mới gia nhập Tango Bây giờ tôi phải làm cách nào để có những tin nhắn cũ và những người đã kết bạn cũ ở máy điện thoại đăng nhập mới này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.570654,
+         "id": "1156386",
+         "field_search": "question",
+         "question": "mình bình luận trên một page cộng đồng và có người reply lại, nếu mình ẩn các bình luận đó của người kia thì người đó hay những người khác (có kết bạn với họ hay không) còn thấy nữa hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.467453,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.391932,
+         "id": "905599",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình cho bạn mượn id iPhone để tải trò chơi. Bạn mình có đồng bộ hoá danh bạ. Giờ điện thoại mình mất hết số liên lạc. Đồng thời toàn bộ danh bạ của bạn mình lại hiện ở máy mình. Làm thế nào để lấy lại danh bạ đã bị mất của mình ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.270462,
+         "id": "1168289",
+         "field_search": "question",
+         "question": "Mình muốn kết bạn với người khác trên Facebook bằng số điện thoại. Chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.15984,
+         "id": "1142538",
+         "field_search": "question",
+         "question": "giới hạn bạn bè trên zalo chỉ được 2000. Nhưng mình muốn kết bạn nhiều hơn thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.073427,
+         "id": "846289",
+         "field_search": "question",
+         "question": " Zalo tìm xung quanh dc nhưng người khác tìm xung quanh không tìm thấy tôiLổi gì vay moi nguoi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.92435,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.683956,
+         "id": "930638",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi! Có trường hợp nào mà đt hết dung lượng hay bị gì gì đó...khiến cho tin nhắn người khác gởi tới cho mình ko được hiển thị ( mình ko chặn người lạ và họ vẫn chưa đồng ý kết bạn). Sau đó họ đồng ý kết bạn và tin nhắn của họ gởi cho mình lại được hiển thị. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.584848,
+         "id": "1140427",
+         "field_search": "question",
+         "question": "Cách xóa bạn ảo trên facebook ạ. Trước đây tài khoản mình kết bạn nhiều. Do ít tương tác nên mình xóa bớt hàng loạt bạn. Giờ mình chỉ còn ban bè là những người quen  nhưng danh sách bạn bè báo hơn 800 bạn . Làm sso doạn sạch những bạn bè bị ẩn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.514938,
+         "id": "972815",
+         "field_search": "question",
+         "question": "Chưa kết bạn. Nếu bị chặn người lạ coi ảnh trên trang cá nhân của người chặn mình bấm vào mục ảnh trên trang cá nhân của người chặn thì nó báo như thế nào vậy? Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.207556,
+         "id": "827877",
+         "field_search": "question",
+         "question": "Mình họ ra khỏi danh sách bạn bè zalo, cũng không lưu sdt trên máy mình, vậy họ có nhìn thấy nhật ký của mình trên nhật ký của họ không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.167898,
+         "id": "761125",
+         "field_search": "question",
+         "question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.974392,
+         "id": "881904",
+         "field_search": "question",
+         "question": " zalo giới hạn được phép kết bạn với bao nhiêu người vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.963018,
+         "id": "1160970",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình có Phân Loại tất cả bạn bè trong danh bạ Zalo của mình, nhưng giờ mình đăng nhập bằng 1 máy tính khác thì tất cả phân loại đều mất, vào danh bạn bấm vào từng bạn để tag phân loại lại thì không hiện lên biểu tượng tag lun là sao bạn? Chỉ vào phần trò chuyện mới tag phân loại được nhưng vào Danh bạ thì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.720348,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.667723,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.65407,
+         "id": "996319",
+         "field_search": "question",
+         "question": "Laptop của em khi gọi video thì nó ko có hình ảnh... nhấn vào biểu tượng video thì nó hiện lên không tìm thấy máy ảnh của bạn.. kết nối với máy ảnh của bạn.. là sao vậy ạ mà e dùng những cái khác như chụp ảnh thì vẫn sử dụng webcam bình thường còn gọi video trên facebook thì ko dùng đc.. mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.464733,
+         "id": "767562",
+         "field_search": "question",
+         "question": "  Máy mình Hp pavilion v6 cứ hiện như vậy không kết nối được wifi phải làm sao đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.432247,
+         "id": "754918",
+         "field_search": "question",
+         "question": "Chào bạn, mình cần sự trợ giúp. mình được ông anh cho cái iPhone 5, mà hình đại diện danh bạ và số là của ảnh. Mình muốn thay đổi hình đại diện trên danh bạ thì làm sao? mong bạn giúp nhé, có gì mail lại mình: thaibinh291xxx@gmail.com. thanks bạn nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.306143,
+         "id": "1023664",
+         "field_search": "question",
+         "question": "cho mình hỏi bên của hàng co dv hỗ trợ khách hàng chép danh bạ điện thoại từ android sang ios ko bạn 01687475109",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.018782,
+         "id": "872305",
+         "field_search": "question",
+         "question": "Trước đây mình lướt facebook bình thường nhưng hiện nay lại bị như thế này, mình dùng kết nối wifi lướt web hay chơi game vẫn bt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.966572,
+         "id": "1158751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình sài s6 android 7.0 mà nay coppy danh bạ từ máy sang sim để đưa vào 1 máy window phone khác ko đc, chỉ có 2 mục \"nhập file vcar từ bộ nhớ thiết bị\" và \"xuất danh bạ từ danh bạ trên thiết bị của bạn sang bộ nhớ thiết bị vcar\", đã thử 2 mục này và vẫn ko có chỗ nào để nhập vào sim. Toàn lưu vào đt hoặc mail. Mong add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.960995,
+         "id": "810898",
+         "field_search": "question",
+         "question": "Mình nhỡ nhấn vào mục 80 tuổi đến 80 tuổi trong mục tìm quanh đây của zalo,giờ mình không thể điều chỉnh mục tìm quanh đây nữa.có cách nào sửa không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.946068,
+         "id": "876966",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy lenovo của mình sau khi lưu danh bạ xong.khi có người trong danh bạ gọi điện tới lại không hiện tên người gọi mặc dù đã đc lưu trong danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.924013,
+         "id": "1004556",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đã xoá bạn trên zalo, sau đó mình đổi tên tài khoản zalocủa mình, vậy người đó có tìm lại đuợc tài khoản zalo của mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.876392,
+         "id": "1157820",
+         "field_search": "question",
+         "question": "Cho mình hỏi gửi lời mời kết bạn fb nó hiện lỗi như hình dưới là sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.875786,
+         "id": "814003",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đang chơi game hay day nhưng mình ko đăng nhập facebook được để kết bạn với bạn bè trong facebook. cứ vào là thế này đây.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.490442,
+         "id": "1144708",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, khi mình gửi kết bạn trên zalo pc thì nó báo lỗi như vậy, là bị làm sao vậy ad, khắc phục như thế nào, ad chỉ mình mới, cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.454,
+         "id": "1005497",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao con ip 5s của mình gọi video call trên zalo hay mesenger, mình nói người ta không nghe mà người ta nói lại thì mình nghe. Mong bạn chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.28634,
+         "id": "817699",
+         "field_search": "question",
+         "question": " Như ngươi ta kêt bạn zalo vơi mình từ hội thoại là sao minh k hiểu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.229053,
+         "id": "1163685",
+         "field_search": "question",
+         "question": "Không thể gửi yêu cầu kết bạn . Danh sách yêu cầu của bạn đã bị đầy.31  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.225317,
+         "id": "801076",
+         "field_search": "question",
+         "question": " Mình copy danh bạ từ sim vào iphone 6s có một số liên hệ không hiện tên. Quản trị viên cho mình hỏi phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.204155,
+         "id": "995681",
+         "field_search": "question",
+         "question": "Mình lỡ tháo sim từ iphone 5s gắn sang iphone 7 (chưa sao lưu danh bạ). Bây giờ gắn sim lại thì có tìm lại được danh bạ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.146751,
+         "id": "1142142",
+         "field_search": "question",
+         "question": "Chao a/c Cho em hỏi em đang xài cái ip6s nhưng muốn gọi facetime với bạn thì không thấy facetime hiện lên để gọi dù hai đứa xài iphone nhưng bạn em thì vào danh bạ thấy facetime luôn nhưng máy em lại hiện của zalo. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101587,
+         "id": "1135095",
+         "field_search": "question",
+         "question": "Mình dùng ip7 mua mới và sd đc 1 năm, tự nhiên danh bạ của mình bị mất hết số điện thoại mà có cùng 1 cụm từ mình lưu và lại xuất hiện một số tên lạ trong danh bạ. Như vậy là sao nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.038975,
+         "id": "1020399",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Ban zalo da chan và hủy kb voi mình. Mình kiểm tra trên d bạ ko có tên bạn đó. Nhung ngày hôm sau minh thay trên d ba zalo của mình có ten nguoi đó và gửi tn bình thường. Vay là sao măc dù mình thấy bạn đó ko kb lại vói mình. Cam on ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.018074,
+         "id": "628634",
+         "field_search": "question",
+         "question": "Cho mình hỏi, bạn mình dùng zalo nhưng ở màn hình không hiện biểu tượng Zalo vậy Zalo đó bạn mình ẩn ở đâu vậy? Xin cam ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.924448,
+         "id": "864077",
+         "field_search": "question",
+         "question": "Mình có kb trên zalo những người đó không đồng ý mà cũng không xóa bây h mình không thể kb thêm vì zalo báo đã quá số người gì đấy, mình phải làm sao đây... Mà zalo sau bao lâu mới tự hủy kb vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.870405,
+         "id": "1154584",
+         "field_search": "question",
+         "question": "Cho em cách khắc phục laptop em không tìm thấy thiết bị tai nghe bluetooth awei a930bs. Em có thử laptop của bạn em vẫn không tìm ra được nhưng điện thoại thì vẫn tìm thấy và kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.843653,
+         "id": "911405",
+         "field_search": "question",
+         "question": "Máy tôi đang chạy iOS 8.4 . Mình muốn chặn các số ngoài danh bạ nên vào Cài Đặt -> Không Làm Phiền -> Cho phép cuộc gọi từ -> tôi chọn Tất cả danh bạ . Xong . Mình lấy số khác ngoài danh bạ mà tôi lưu trên iphone để gọi , thì ... gọi được tuốt ! Không biết tại sao vậy ? Mong cao thủ chỉ giùm . Nếu ko thì có app nào cho iPhone CHƯA JAILBREAK dùng để chặn cuộc gọi NGOÀI DANH BẠ , KO PHẢI LOẠI CHẶN TỪNG SỐ ko ? Mong mọi người chỉ giúp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.798874,
+         "id": "770965",
+         "field_search": "question",
+         "question": "Chào bạn, vui lòng xem hộ mình với. Mình đã kiểm tra IMEI này nhưng không thấy thể hiện thông tin bảo hành. Có thể cho mình biết tình trạng máy như vậy là sao không ạ? Cám ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.715384,
+         "id": "1143267",
+         "field_search": "question",
+         "question": "cho em hỏi em xài zalo trên máy tính 1 thời gian và kết bạn khá nhiều, nhưng dạo gần đây k gửi được lời mời kết bạn được nữa, nó báo là STR_FRIEND_REQUEST_FAIL_210, ngay cả trên điẹn thoại cũng k gửi được lời mời thì phải khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.692312,
+         "id": "1157824",
+         "field_search": "question",
+         "question": "Cách tắt gợi ý tìm kiếm google trên samsung note 9 như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.64328,
+         "id": "934567",
+         "field_search": "question",
+         "question": "bạn ơi, mình dùng laptop để đăng nhập vào trang fb của mình, trên fb của mình có lập một chuyên Trang bán hàng nhưng từ đêm 4/1 khi mình đăng bài thì không thể tìm thấy các icon chèn ảnh/tag bạn bè/vị trí....Sự cố này đã gây rất nhiều khó khăn cho việc đăng bài của mình khi mình thoát của chuyên TRang của mình, vào trang chủ FB của mình thì vẫn add đc ảnh/tag bạn bè/... bình thường. bạn giúp mình sửa lỗi naỳ với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.490414,
+         "id": "1150444",
+         "field_search": "question",
+         "question": "Xin chào. Cho mình hỏi: minh sử dụng SS Note 9, các ứng dụng mình tải từ CH play không còn hiện lên màn hình chờ như trước đây nữa mà phải vào mục tìm kiếm trên điện thoại mới thấy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.382837,
+         "id": "946270",
+         "field_search": "question",
+         "question": " Sao zalo của em khi người ta gửi yêu cầu kết bạn em nhận được thông báo mà không vào trả lời yêu cầu đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.296259,
+         "id": "904406",
+         "field_search": "question",
+         "question": "Chào bạn, lúc trước mình nhớ zalo có cho gửi file word hoac excel nhung bây giờ mình không tìm thấy tính năng đó nữa. Vậy bây giờ mình muốn gửi file thì phải làm thế nào? Cảm ơn bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28441,
+         "id": "901702",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với.Mình mới mua laptop Lenovo yoga 11 inch tại cửa hàng mình. Tuy nhiên khi về kiểm tra máy thì mới phát hiện máy không có ổ D, E. Dù mình có được các bạn kĩ thuật viên lưu ý trc về khả năng lưu trữ của máy, tuy nhiên mình không biết máy lại không có 2 ổ này. Các bạn có thể cho mình biết đây có phải đặc điểm của những máy laptop nhỏ k, hay do lỗi cài đặt? Và nếu do máy, mình cần phải lưu trữ dữ liệu như thế nào?Cảm ơn các bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.238422,
+         "id": "816695",
+         "field_search": "question",
+         "question": " nếu như mình đã xoá sđt người đó khỏi danh bạ thì trong zalo còn lưu người đó lại không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.169687,
+         "id": "813796",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là trước kia zalo mình và ngđó là bạn bè vì lý do bạn ấy chặn mình.mỗi khi nt thì k đc.lâu lâu xuất hiện dòng tin chặn,kết bạn và báo cáo. Nhưng mh kb thì bgiờ nick ngđó thôg báo đang chờ chấp nhận và bgiờ báo là nick ngđó ko nhận tin từ người lạ.vậy mình đăng gì ng ấy thấy k.mặc dù trc kia ngdo chỉ chặn mình thôi và mình vao tin nhắn thì thấy ngđó vẫn online",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.124474,
+         "id": "833696",
+         "field_search": "question",
+         "question": "Tài khoản Zalo của tôi đang kết nối giữa pc và iPhone rất tiếc - không biết tại sao tự nhiên PC không đăng nhập vào Zalo được nữa - iphone vẫn đăng nhập bình thường - khi PC đăng nhập Zalo thấy hiện dòng chữ: không có kết nối kiểm tra đường truyền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.046225,
+         "id": "1013500",
+         "field_search": "question",
+         "question": " Cho mình hỏi muốn nhập số điện thoại vào danh bạ trên máy sam sung j7 prime máy báo như thế này là sao vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.018204,
+         "id": "796346",
+         "field_search": "question",
+         "question": " Muốn chép danh bạ từ sim vào iPhone 5S lock như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.006037,
+         "id": "890233",
+         "field_search": "question",
+         "question": "Tôi không nhớ pass icloud. Giờ tôi muốn sao lưu danh bạ từ iphone sang máy tính thì phải làm sao? Có thể giúp tôi cách sao lưu danh bạ từ máy tính sang một iphone khác không? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.984583,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.974115,
+         "id": "1162485",
+         "field_search": "question",
+         "question": "Mình xài oppo a3s khi mình gọi zalo mà để qua đêm vs bạn thì khoảng 3,4h  gì thì tự động ngắt kết nối bên mình ko thấy đc thông tin cuộc gọi dù đã bật rồi, trước đó mình xài samsung j2 pro gọi như thế vẫn bình thường, người đó cũng để thế ko có tắt cuộc gọi nhưng vẫn ngắt kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.935976,
+         "id": "1013142",
+         "field_search": "question",
+         "question": "cho mình hỏi mình lỡ xóa mất danh bạ trên máy samsung galaxy S7, và tài khoản samsung cloud lại tự động sao lưu danh bạ mới, vậy có thể khôi phục được danh bạ của mình không vậy? Nếu có thì làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.931732,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

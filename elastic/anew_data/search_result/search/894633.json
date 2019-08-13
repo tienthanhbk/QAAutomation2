@@ -1,0 +1,801 @@
+{
+   "id_query": "894633",
+   "total": 31023,
+   "total_current": 100,
+   "max_score": 137.7493,
+   "origin_question": "Cho em hỏi là ip6 kiem tra imei tren apple.com thì hiện ra thông tin sp. kiêu máy là sinrapo nhưng dùng phần mềm antutu thì hãng thì apple nhưng chạy hệ điều hành androi là trung quốc hay sau à",
+   "hits": [
+      {
+         "score": 50.086052,
+         "id": "747122",
+         "field_search": "question",
+         "question": " Em kiểm tra imei tren trang apple dùng là ip6 nhưng sao lại chạy hệ android . Cho e hỏi ip của e là giả hay thật ahah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.85157,
+         "id": "759742",
+         "field_search": "question",
+         "question": "Hiện con máy tính của em khi bật lên nó hiện ra phải chọn hệ điều hành là win Xp và win 98. Em muốn xóa 1 hệ điều hành win98 thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.986118,
+         "id": "774519",
+         "field_search": "question",
+         "question": "Em chào anh ah, anh cho em hỏi máy IP của em ghi kiểu máy là MD298J/A nhưng lại có số IMEI như sau : 01341 400 9462746, theo em search trên mạng thì trong dãy số IMEI có 15 số thì 6 số đầu là Type Allocation code, 2 chữ số tiếp theo là Final Assembly Code, vậy máy của em có phải là máy trung quốc không ah? vì 00 là mã của Trung Quốc. Em xin chân thành cảm ơn ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.768856,
+         "id": "867848",
+         "field_search": "question",
+         "question": "Hiện nay mình đang xài iphone5s hệ điều hành ios 9.3.3. Nhưng sau khi cập nhật hệ điều hành thì không thể kết nối vào App Store. Cho hỏi cách khắc phục điều này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.751936,
+         "id": "920468",
+         "field_search": "question",
+         "question": "Chào ad? Mình có mua iphone 6s+ cũ và khi test imei thì nó bảo là đã bị thay thế, vậy thì cho mình hỏi nếu ko unlock imei lại thì mình có update đựoc các phần mềm ứng dụng cũng như hệ điều hành ios không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.1434,
+         "id": "939639",
+         "field_search": "question",
+         "question": "Mk dùng ipad pro chạy ios 10 thì ls để kiểm tra tài khoản cx như nạp tiền ạ , đã xem mấy hướng dẫn trên mạng nhưng toàn là cho hệ điều hành cũ , ko có ios 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.862967,
+         "id": "778167",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Máy mình chạy iOS 9.2 máy giờ có hiện tượng không kéo được trung tâm thông báo hay trung tâm kiểm soát ở trên và dưới màn hình khi mở máy, còn khi khoá máy thì vẫn kéo được. Vậy ad cho mình hỏi như vầy là do lỗi hệ điều hành hay do mình đã cài đặt vào phần nào ạ. Mong ad chỉ dõ dùm mình với ạ. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.329147,
+         "id": "958833",
+         "field_search": "question",
+         "question": " IPhone của em là bản quốc tế . Em kiểm tra imei sao máy lại hiện là  kiểm tra sim lock ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.272085,
+         "id": "831244",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy tính của mình mua được 1 năm rồi, tình cờ giờ mình phát hiện được máy tính mình đang chạy sai phần mềm của laptop khác. Thông tin máy tính của mình trước khi mua là Asus P550L nhưng mà thông tin máy qua kiểm tra bằng CPU-Z lại là X550LD. Có ai biết nguyên nhân là tại sao không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.084435,
+         "id": "774768",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua điện thoại khi kiểm tra IMEI cho kết quả như vậy thì máy mình là bản Quốc tế hay Lock và cho mình biết các thông số nói trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.082142,
+         "id": "782401",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi tình hình là em đã vài Appcola rồi nhưng khi em tải game thì nó ghi là đang chờ nhưng chờ hoài vẫn không thấy tải mọi người giúp em với em dùng hệ điều hành iOS nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.066248,
+         "id": "998098",
+         "field_search": "question",
+         "question": "Cho e hỏi là e dùng ip6, hệ điều hành ios 9.3. E ktra pin ở app baterrylife thì Chỉ báo mức  trai chai pin là  4 %  Nhưng  pin vẫn đột ngột sụt nhanh. Trc khi đi ngủ e ktra pin là 35%, để chế độ máy bay nhưg ság hsau vẫn sập nguồn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.586695,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.535809,
+         "id": "832259",
+         "field_search": "question",
+         "question": "Mình mua 1 máy iphone 6s 64gb rose gold tại thế giới di động vũng tàu. Là máy cũ nhưng còn bảo hành chính hãng 1 đổi 1 tới tháng 12/2016. Mình kiểm tra IMEI trên hệ thống của thế giới di động thì báo lỗi là: \"mã tìm kiếm không tồn tại hoặc bảo hành đã hoàn thành\" QTV kiểm tra giúp mình. IMEI của mình là: 353314074019025",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.408354,
+         "id": "916651",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏiMáy e bị hỏng chân sạc cứ cắm vào là lên hình chân sạc với hình nốt nhạc...e có đem đt ra quan sửa thì a sửa đt chạy lại phần mềm cho e .nhưng sau khi chạy lại phần mềm thì máy yêu cầu nhập tài khoản iCloud mới mở đk máy...nhưng e bị quên tài khoản r thì bh e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.34728,
+         "id": "1006228",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoạii em khôi phục cài đặc gốc xong em để qua đêm hụt pin kinh khủng em kiểm tra dùng pin thì 90% dùng cho hệ điều hành android là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.34728,
+         "id": "1006219",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoạii em khôi phục cài đặc gốc xong em để qua đêm hụt pin kinh khủng em kiểm tra dùng pin thì 90% dùng cho hệ điều hành android là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.325897,
+         "id": "1157120",
+         "field_search": "question",
+         "question": "Nii Cho em hỏi máy em là iphone 8 plus, theo em biết thì trên hệ điều hành IOS thì story của facebook và instagram có phần chèn âm nhạc nhưng tại sao máy em không có dù đã cập nhật đầy đủ? Đây là lỗi của máy hay lỗi ứng dụng? Em phải làm sao để có phần chèn này? Máy bạn em 6s+ chưa cập nhật phần mền mới nhưng vẫn sử dụng được tính năng này!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.054451,
+         "id": "764767",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5s có dùng được mạng 4G không vậy, mình nghe nhiều thông tin có người bảo có nhưng hãng chưa mở khóa, có thông tin thì bảo là không sử dụng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.033812,
+         "id": "820110",
+         "field_search": "question",
+         "question": " Máy tính bảng Huawei T1701ua có Root được không vậy TGDĐ ?Cũng là hệ điều hành androi mà ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.015509,
+         "id": "940426",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tượng kêu rẹt rẹt ở ổ cứng là sao ạ?? có phải bị lỗi cơ ko ạ?nhưng em kiểm tra bằng phần mềm thì vẫn báo bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.934769,
+         "id": "891403",
+         "field_search": "question",
+         "question": "latop em vừa mua đang chạy hệ điều hành win 10 nhưng e không biết dùng hệ điều hành này.ai giúp e làm quen được k ạ :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.92543,
+         "id": "774985",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình số imel máy mình xem máy là iphone quốc tế hay lock, bản chính hãng apple hay bản gì. Số IMEL ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.747568,
+         "id": "835382",
+         "field_search": "question",
+         "question": "Bản đồ trên diện thoại 5s em không thể kiếm 1 số địa danh địa chỉ nhưng khi em dùng bản đồ trên hệ điều hành androi thì lại kiếm được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.717735,
+         "id": "1165477",
+         "field_search": "question",
+         "question": "Mình dùng máy ip vào kiểm tra thông tin máy thì kiểu máy có mã như sau MC922LL/A  thì điện thoại của mình là hàng như nào thế ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.629597,
+         "id": "1139987",
+         "field_search": "question",
+         "question": "chào bạn mình đang dùng máy  dell-inspiron-14-3452 và mình muốn cài hệ điều hành remix OS lên máy nhưng sau khi cài vào phần boot chọn remix OS thì không lên màn hình là sao ạ mặc dù chuột vẫn báo sáng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.535913,
+         "id": "1009792",
+         "field_search": "question",
+         "question": "Cho em hỏi Antutu A7 2017 của máy em là 54148. Nhưng trên google hay youtube đều cho chỉ số antutu là 60340. Trước khi kiểm tra em đều khởi động lại máy và tối ưu hóa ở bảo trì thiết bị rồi. Vậy vấn đề này là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.470797,
+         "id": "759495",
+         "field_search": "question",
+         "question": " Em đang dùng ip6 có lên hệ điều hành ios9.2 lag máy không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.356028,
+         "id": "767764",
+         "field_search": "question",
+         "question": " Cho em hỏi là imei 013845006047842 là quốc tế hay lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.237236,
+         "id": "765990",
+         "field_search": "question",
+         "question": " Giúp em kiểm tra imei iPhone 5 là bản quốc tế hay lock 0133752000524751 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.221436,
+         "id": "828344",
+         "field_search": "question",
+         "question": "Cho e hỏi e kiểm tra imei hàng nay là iphone 6 cty nhưng sao iphone 6 e nghĩ mới ra sao đã hết chương trình bảo hành của apple rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.191397,
+         "id": "801494",
+         "field_search": "question",
+         "question": " Máy tính bảng huawei hệ điều hành androi 4.3 muốn nâng lên 4.4 thì làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.063957,
+         "id": "910626",
+         "field_search": "question",
+         "question": "cho hỏi là tôi mới mua laptop dell sao tôi vào website của dell việt nam kiểm tra máy thì thấy thông tin là máy hết hạn bảo hành vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.028719,
+         "id": "994578",
+         "field_search": "question",
+         "question": "ad kiểm tra giúp mình imei này là máy lock hay quốc tế ạ?? 359297062093264",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.939796,
+         "id": "1158302",
+         "field_search": "question",
+         "question": "cho mk hỏi khi mới mua honor play về là hãng tự cập nhật hệ điều hành emui 9.0 sẳn rồi hay là phải tự cập nhật thủ công vậy?và khi cập nhật lên emui 9.0 rồi có xảy ra lỗi phần mền hay lỗi gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.89899,
+         "id": "1166412",
+         "field_search": "question",
+         "question": "Em dùng iphone 7. Khi update lên ios 12.2 thì bị lỗi mất sóng và mất imei. Em có đọc được thông tin là apple sẽ hổ trợ sửa lỗi này miễn phí. Vậy giờ bên mình có nhận chuyển điện điện lên trung tâm apple để sửa chữa không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.853804,
+         "id": "770965",
+         "field_search": "question",
+         "question": "Chào bạn, vui lòng xem hộ mình với. Mình đã kiểm tra IMEI này nhưng không thấy thể hiện thông tin bảo hành. Có thể cho mình biết tình trạng máy như vậy là sao không ạ? Cám ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.77401,
+         "id": "899546",
+         "field_search": "question",
+         "question": "Em đang dùng iphone6s. Em hạ hệ điều hành ios10 xuống ios 9 nhưng em thao tác sai. Bây giờ vẫn là hệ điều hành ios10 nhưng bị lỗi. Không có chuông. Âm báo tin nhắn. Âm bàn phím( nói chung là bị mất tiếng chỉ có rung) ad có cách nào xữ lý giúp em được không. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.73793,
+         "id": "992570",
+         "field_search": "question",
+         "question": "Cho mình hỏi chất lượng của máy tính có gì khác nhau. Cùng 1 laptop dell vostro 3568. Mà mình thấy có chỗ bán thì hệ điều hành là dos. Còn ở tgdd mình lại thấu hệ điều hành là windows10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.712286,
+         "id": "1137830",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chỉ hệ điều hành 8.0 với 8.1 mới lên đc android 9.0 hay là hệ đièu hành 8.0 trở xuống có lên được hay không vd như hệ điều hành 7.1 ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.654076,
+         "id": "746046",
+         "field_search": "question",
+         "question": "Chào bạn.mình hiện tại đang xài ip6.khi xài phát hiện dt khi thoát ứng dụng thì có bóng mờ của ứng dụng cũ trên màn hình vd khi nhắn tin lâu thoát ra thì xuất hiện bóng mờ của bàn phím xin hỏi đây là lỗi phần cứng hay phần mền và mình mang ra tgdd có dc hỗ trợ không máy mình vẫn còn trong thời gian bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.643702,
+         "id": "1010623",
+         "field_search": "question",
+         "question": "cho em hỏi là mình có hỗ trợ cài hệ điều hành dùm không ạ hay chỉ bảo hành là sữa chữa lỗi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.624847,
+         "id": "833423",
+         "field_search": "question",
+         "question": " Ad ơi  kiểm tra dùm e đây là máy lock hay chính hãng vậy imei là 013352006091193 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.57853,
+         "id": "750029",
+         "field_search": "question",
+         "question": "  Ad kiểm tra giúp mih thông tin về máy dựg hay chinh hãng. Xuất xứ ? Lock hay quốc tế.xin cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.55148,
+         "id": "770668",
+         "field_search": "question",
+         "question": "Mình bắt đầu tìm hiểu đến dòng iPad của Apple. Mình nghe mấy người nói là máy iPad và MAC thì mua ở đâu cũng được bảo hành chính hãng tại thegioididong?Cho mình hỏi là có phải không ạ? Và kiểu máy của Ipad không phải là VN/A nữa à ad. Hay là TH gì gì đấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.5147,
+         "id": "763225",
+         "field_search": "question",
+         "question": "Em vừa mua cáp sạc iphone 5 ở TGDĐ nhưng em quên không cầm máy để cập nhập thông tin nhân viên tại TGDD bảo vs em là đc bảo hành 1 năm. Vậy cho em hỏi ví dụ cáp sạc của em bị đứt thì có được bảo hành không và khi bảo hành thì cần nhưng thông tin gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.499779,
+         "id": "774994",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình số imel máy mình xem máy là iphone quốc tế hay lock, bản chính hãng apple xem bản gì. Số IMEL ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.492125,
+         "id": "753640",
+         "field_search": "question",
+         "question": " Thông tin về máy như thế này.Xin cho hỏi là bản quốc tế hay bản lock ah!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.487772,
+         "id": "798352",
+         "field_search": "question",
+         "question": " em đang dùng iphone 5,cho em hỏi dùng hệ điều hành ios mấy là tốt nhất ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.422495,
+         "id": "785816",
+         "field_search": "question",
+         "question": " Kiểm tra cho em xem iPhone của em là lock hay quốc tế  IMEI 01 306800 941703 3 fuong9agmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.398739,
+         "id": "811538",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi mua ip5s tại TGDĐ nhưng hôm nay kiểm tra imei phần SIM lock lại đề là Unkown ( không xác định ) chứ không phải là Unlock ( quốc tế )như thường trên iphone khác,thử sim khác thì đều có sóng tốt,giải thích hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.276089,
+         "id": "773712",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi là iPhone nâng cấng hệ điều hành có hạ được xuống không ạ ? Ví dụ như 4S chạy 8.4 thì có hạ xuống được không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.261148,
+         "id": "1147072",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em dùng con 6sp quốc tế , em muốn chạy lại phần mềm thì có bị ảnh hưởng gì hk ! Có bị khoá mấy ko ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.237877,
+         "id": "1158019",
+         "field_search": "question",
+         "question": "Cho e hỏi 1 chút, hiện tại e đang dùng j7 pro, hôm qua máy e có tự động cập nhật phần mềm. Hôm nay e dùng thì messenger và facebook được 1 lúc thì tự out ra, lặp đi lặp lại như thế, vậy đó là do lỗi phần mềm hay gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.129103,
+         "id": "929764",
+         "field_search": "question",
+         "question": "Chào bạn, IMEI xxxx91071206613. Nhờ bạn kiểm tra giúp là chính hãng quốc tế k vây bạn? Có phải là bản lock hay là lock mua code ko thế bạn.Giúp mình với nhé bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.047926,
+         "id": "744391",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bên mình bán, trong thông số kĩ thuật có ghi hệ điều hành là win 8.1 tức là máy đã cài win bản quyền rồi, em không cần mua bản quyền win nữa hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.996916,
+         "id": "1134340",
+         "field_search": "question",
+         "question": " cho mình hỏi mình check thông tin ip vừa mua hiện bảng này thì là ip lock hay unlock",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.974932,
+         "id": "1153789",
+         "field_search": "question",
+         "question": "Laptop hiện ra màn hình xanh nhưng chạy hết 100 thì khởi động lại máy và chạy bình thường là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.947271,
+         "id": "1006625",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là minh có làm đổ ly nước lên chiêc ip6 cách đây 2 ngày và mình cũng lấy ra ngay sau đó và lau khô. Hiện tại mình thấy máy chưa có hiện tượng gì và kiểm tra LCI ở khay sim cũng không đổi sang màu đỏ . Vậy liệu máy mình có ổn không hay là phải mang ra trung tâm kiểm tra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.931553,
+         "id": "927534",
+         "field_search": "question",
+         "question": "Sao iphone của mình kiểm tra máy lock hay máy quốc tế thì 2 trang cho 2 kết quả khác nhau 1 trang là unlock, một trang la unknown. imei 359234062527819",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.851524,
+         "id": "999572",
+         "field_search": "question",
+         "question": "J2 prime G532G root nhưng bị fail file bị lỗi phần mềm như này thì mang ra chạy lại phần mềm đc k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.823145,
+         "id": "743905",
+         "field_search": "question",
+         "question": "Máy em là iPhone 5 Quốc tế, hiện máy em đang chạy iOS 8.2, em muốn lên 8.4.1 mà vô cập nhật phần mềm để 9.1  khong?? Ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.809568,
+         "id": "743783",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình imei máy iphone này với. Là chính hãng hay xách tay. Có bảo hành không. Cám ơn ad 354393065585037",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.753944,
+         "id": "1158632",
+         "field_search": "question",
+         "question": "em bị quên mật khẩu id apple nhưng khi vào mục quên mật khẩu trên apple thì nó bắt nhập số điện thoại, nhập xong nó lại không chuyển đến phần chọn thông tin muốn đặt lại là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.698853,
+         "id": "742925",
+         "field_search": "question",
+         "question": "Em có 1 máy iPhone 4, máy em bị hỏng và đem ra tiệm thì họ bảo lỗi phần mềm, phải chạy lại máy, khi đó điện thoại em đang dùng iCloud là  P****@iCloud.com nhưng khi em ra lấy máy thì họ bảo e nhập icloud bắt đầu bằng chữ \"c\" là c*****@icCoud.comEm có thể reset máy và nhập iCloud của e không? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.674541,
+         "id": "1022913",
+         "field_search": "question",
+         "question": "Tình trạng máy của mình là sau khi cập nhật lên IOS 10.3 thì màn hình nền xuất hiện mấy đường sọc dọc trong khi đó vào phần tin nhắn hay xem hình ảnh, cũng như các phần khác thì thấy màn hình vẫn bình thường không hề có dấu hiệu sọc như trên. Cho hỏi hướng khắc phục ạ. Mình dùng IP6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.673111,
+         "id": "781697",
+         "field_search": "question",
+         "question": " Cho em hỏi là iphone 5s chạy hệ điều hành ios 9.1 có hạ cấp xuông ios 7.1.2 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.615637,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.492617,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.46758,
+         "id": "999083",
+         "field_search": "question",
+         "question": "dạ cho em hỏi hiện máy tính của e đang ở hệ điều hành window 7. giờ em muốn nâng cấp lên hệ điều hành mới nhất thì có bị mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.424437,
+         "id": "1144065",
+         "field_search": "question",
+         "question": "Cho em hỏi máy samsang J5 của em mới cập nhật phần mềm hệ điều hành 8.0 có tính năng gì mới ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.324638,
+         "id": "809019",
+         "field_search": "question",
+         "question": " Cho em hỏi imei con này là bản lock hay quốc tế 013621001951852 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.23518,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.206694,
+         "id": "925075",
+         "field_search": "question",
+         "question": "Mình đag dùng ip6 khi mua máy mình thấy dung tích pin thiết kế là 1810mah nhưng sao khi mình tải ứng dụng Battery Life kiểm tra thì dung tích pin chỉ là 1751mah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.205948,
+         "id": "773154",
+         "field_search": "question",
+         "question": "anh mình mua máy dianji bên trung quốc. làm thế nào để cài tiếng việt được. đã thủ các phần mềm nhưng không được. nếu đi cài lại win thì có driver cho máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.1316,
+         "id": "1148402",
+         "field_search": "question",
+         "question": "Phần mềm com.android.system.ui là virus phải không ạ em nhớ lúc mới mua đâu có nó ạ, chỉ có phần mềm com.android.systemui à mấy phần mềm quét virus (VirusTotal) cho nó là Trojan virus ạ, nhưng không nào xóa nó được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.122623,
+         "id": "772520",
+         "field_search": "question",
+         "question": "Nhờ QTV kiểm tra giúp em máy này active ngày nào? Và ngày hết hạn bảo hành là ngày nào? Xuất xứ máy này? Và những thông tin khác, thanks IMEI: 352087072157721",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.119173,
+         "id": "853025",
+         "field_search": "question",
+         "question": " Qtv cho e hỏi máy e imei 352008068125522 là bản lock hay quốc tế ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.093998,
+         "id": "936728",
+         "field_search": "question",
+         "question": "cho mình hỏi khi mình mua laptop dell inspiron 14 3000 series thông tin máy ghi là bộ nhớ trong của máy là 500GB nhưng khi mình xài thì mày chỉ hiện lên mỗi ổ (C) nhưng ổ (C) chỉ có 113GB thôi.Vậy phần bộ nhớ còn lại ở đâu? Làm sao để sử dụng phần bộ nhớ ấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.035131,
+         "id": "999078",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái ip6 của mình không mở được messenger face vậy nhỉ, mình mở ra là nó tự thoát ra khi dùng wifi. nhưng dùng 3g thì vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02333,
+         "id": "743620",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình máy này có phải chính hãng hay xách tay với, xuất xứ máy, còn bảo hành không, là lock hay quốc tế. Cám ơn ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.902266,
+         "id": "1153296",
+         "field_search": "question",
+         "question": "Em có máy xiaomi mi4 mới,  khi cài phần mềm trên 100mb trên chplay thì cứ chạy đến 100% là lỗi. Em đã thử qua vài phần mềm trên 100mb đều k được. Em cài qua file apk từ bên ngoài thì cài đặt xong cũng không chạy được phần mềm đó luôn.  Xin hoit vậy là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.848473,
+         "id": "895871",
+         "field_search": "question",
+         "question": "A ơi cho hỏi, máy iphone cua tgdđ có phải hoàn toàn là máy phiên bản quốc tế ko? Theo e dc bt thì có cả phiên bản lock đúng ko? E kiểm tra bằng imei thì simlock báo là unlocknouw, nếu như thế thì nó là ko phải bản qt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.848408,
+         "id": "794570",
+         "field_search": "question",
+         "question": " IMEI là990002772306039 cho em hỏi là phiên bản lock hay phiên bản quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.718618,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.70886,
+         "id": "817961",
+         "field_search": "question",
+         "question": "CHo mình hỏi điện thoại Lenovo A7000 của mình mới nâng cấp hệ điều hành lên 6.0 thì gọi điện thoại trên Messenger trong điều kiện đầy đủ ánh sáng nhưng bên mình vẫn tối là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.62018,
+         "id": "943891",
+         "field_search": "question",
+         "question": "máy e chạy 2 card: 1 card onboard và 1 card rời. khi xem thông tin thì trong display hiện card onboard còn render hiện card rời. Vậy cho e đặt câu hỏi. Card nào là card chạy chính. hay là 2 card đều cùng hỗ trợ nhau, và nếu hỗ trợ thì 2 card chạy theo nguyên tắc như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.594154,
+         "id": "1166667",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi Em đang sài ip6 chạy ios 12.2 hôm bữa em có đổi quốc gia AppStore để tải game nhưng sao đổi lại VN thì không đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.541172,
+         "id": "763587",
+         "field_search": "question",
+         "question": " Cho em hỏi là Laptop nào của các hãng mà chạy được phần mềm Etab với Autocad với giá từ 67 triệu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.497938,
+         "id": "1021322",
+         "field_search": "question",
+         "question": " Rom J100H G530F Trung Quốc MTK6572 Sp Flashtool  Rom J100H G530F Trung Quốc MTK6572 Sp Flashtool ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.474285,
+         "id": "744679",
+         "field_search": "question",
+         "question": " e muốn hỏi máy này là chính hãng hay lock hay là máy xách tay ạ? imei 990002809837311 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.442492,
+         "id": "998778",
+         "field_search": "question",
+         "question": "Máy e là mobell tab 7c mua bên tgdd nhưng dùng đc 2 tháng thì hỏng giờ muốn sửa thì vào tgdd sửa đc k à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.441814,
+         "id": "743396",
+         "field_search": "question",
+         "question": "Máy tính của tôi chạy hệ điều hành Windows 8.1 Single Language...Nhưng vào sáng nay, máy tính của tôi báo như thế này...Giờ tôi phải là như thế nào đây ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.436941,
+         "id": "877734",
+         "field_search": "question",
+         "question": "adim ơi cho mình hỏi là hiện tại mình đang dung iPhone 5 thường ,mua cách đây khoảng mấy tháng nhưng mấy hôm nay máy bị đơ và loan cảm ứng. cứ dùng khoảng 30s là đơ, sau đó tắt màn hình rồi bật nên thì nhập mk xong lại đơ. Như vậy là máy bị lỗi phần mềm hay phần cứng ạ? và cách khắc phục ntn ạ? mình xin cám ơn.( máy ko bị rơi hay dính nước gì, ios 9.3.4)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.428778,
+         "id": "789220",
+         "field_search": "question",
+         "question": "Máy iphone 5 của em có imei là: 013409009983519. E không kiểm tra được máy có phải là chính hãng hay không, anh làm ơn kiểm tra giúp em với. Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.420877,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.415009,
+         "id": "885223",
+         "field_search": "question",
+         "question": "cho mình hỏi về ĐT iphone 5S mới mua. khi ai gọi zalo đến ĐT thì không đổ chuông hay rung gì cả, chỉ có thông báo là có người gọi đến thôi, nếu không nhìn ĐT thì không biết có người gọi. rất bất tiện. à, trường hợp này xảy ra khi màn hình đã khóa, còn khi đang dùng thì có đổ chuông. máy có bị lỗi phần mềm hay cứng gì không? xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.410011,
+         "id": "1017099",
+         "field_search": "question",
+         "question": "Hi...mình có chiếc LG G3 Cat6 bản hàn quốc, đang chạy hệ điều hành 4.4.2. Cho hỏi bên mình có hỗ trợ nâng cấp hệ điều hanh ko vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.373709,
+         "id": "1020403",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là khi máy j5 2016 cập nhật phần mềm mới nhất android 6.0 thì máy có nặng và hay bị đơ không ạ.hay phải thoát các ứng dụng đang chạy ra bằng nút nguồn chứ k tắt được.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

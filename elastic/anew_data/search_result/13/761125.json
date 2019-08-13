@@ -1,0 +1,801 @@
+{
+   "id_query": "761125",
+   "total": 34530,
+   "total_current": 100,
+   "max_score": 298.80753,
+   "origin_question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+   "hits": [
+      {
+         "score": 90.55845,
+         "id": "780649",
+         "field_search": "question",
+         "question": " Mình bị mất điện thoại và mình định vị bằng icloud thì bảo là ngoại tuyến mình phải tìm sao bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.43985,
+         "id": "796434",
+         "field_search": "question",
+         "question": "Mình vừa bị mất cái điện thoại oppo F1.mình không bật định vị trên máy..nhưng trong máy có tk facebook với google.bây giờ có cách nào định vị được máy không ạ.chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.1207,
+         "id": "1160616",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi iphone bị bạn lấy cấp mà dung gmail có định vị đc k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.58542,
+         "id": "886574",
+         "field_search": "question",
+         "question": " chào bạn, cho mình hỏi khi vào bản đồ IP 6s ko hiển thị được định tuyến đường đi, chỉ xác định được vị trí thôi ạ, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.34886,
+         "id": "1163302",
+         "field_search": "question",
+         "question": "Mình mới bị mất 1 cái Galaxy Note 8, nhưng tìm định vị theo tài khoản Samsung account và email vẫn ko thể truy cập được. Vậy giờ mình có thể định vị theo EMEI được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.880714,
+         "id": "814423",
+         "field_search": "question",
+         "question": "Mình mất ip4s mà khi gọi điện nó báo không liên lạc được, hình như là đang tắt nguồn, nhưng miình cũng tắt dịch vụ định vị trên máy. giờ làm sao để tìm lại được đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.31397,
+         "id": "799173",
+         "field_search": "question",
+         "question": "Laptop mình dùng GPS báo sai vị trí. Mình ở Biên Hoà Đồng Nai mà báo ở Hà Nội. Mình đã thử nhiều phần mềm khác tất cả đều báo ở Hà Nội. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.70626,
+         "id": "810396",
+         "field_search": "question",
+         "question": " A cho em hỏi làm thế nào để biết người kia đang ở đâu mà chỉ cần định vị iPhone với iPhone? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.527275,
+         "id": "1156245",
+         "field_search": "question",
+         "question": "Tôi dùm dt ss A6 lúc trước vào zalo định vị vị trí quét xung quanh dc sao giờ vào quét định vị vị trí k dc vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.33984,
+         "id": "1159742",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.31437,
+         "id": "1006260",
+         "field_search": "question",
+         "question": "adm cho em hỏi xíu, em mới bị Kẻ xấu lấy trộm ĐT S7 em muốn định vị vị trí của máy hiện tại ở đâu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.80658,
+         "id": "767250",
+         "field_search": "question",
+         "question": " Mình vừa bị mất iPad 2 ở vũng tàu ,khi tìm kiếm định vị  thì báo ngoại tuyến vậy có cách nào khác không ? xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.2078,
+         "id": "742625",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em vào thời tiết của oppo neo 7 mà điện thoại báo không định vị được và thêm thành phố là sao.trong khi em đã bật định vị rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.906876,
+         "id": "860783",
+         "field_search": "question",
+         "question": " Giờ mình bị mất cái điện thoại iPhone muốn định vị nó thì làm như nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.743805,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.22986,
+         "id": "813673",
+         "field_search": "question",
+         "question": "Mình mất điện thoại ip 5s . máy vẫn bật 3g và định vị. mình đã bật chế độ mất trên máy tính. giờ người lấy điện thoại đó có thể sử dụng bình thường được không |",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.182884,
+         "id": "1155904",
+         "field_search": "question",
+         "question": "nhờ bạn kiểm tra giúp mình 2 video có tên sau trên youtube: \"iphone x vị lỗi màn hình chưa được TTBH xác nhận lỗi\" và \" iphone x vị lỗi màn hình chưa đc trung tâm bảo hành xác nhận lỗi\" xem là bị lỗi gì với ạ! cảm ơn bạn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.06001,
+         "id": "813438",
+         "field_search": "question",
+         "question": " Máy iphone 5s bị lấy cắp và bị tắt nguồn có cách nào định vị được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.66644,
+         "id": "1136043",
+         "field_search": "question",
+         "question": "sử dụng điện thoại a5 2017 có định vị được vị trí của người khác qua điện thoại của mình đăng sử dụng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.33235,
+         "id": "1155180",
+         "field_search": "question",
+         "question": "Tôi mua đt A13 ở cửa hàng TGDĐ, cho hỏi đt này có kiểm tra được định vị vị trí điện thoại không? Nếu có xin hướng dẫn cho tôi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.141,
+         "id": "997323",
+         "field_search": "question",
+         "question": "EM CÓ MUA GÓP MỘT GALAXY J7 PRIME MÀ BỊ MẤT TRỘM VẬY CO ĐỊNH VỊ LẠI ĐƯỢC KHÔNG VẬY nếu định vị đc bên thế giới di động có hỗ trợ e lấy đt về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.01289,
+         "id": "796305",
+         "field_search": "question",
+         "question": "iPhone 5s mà mới bị mất tối qua mà em chỉ mới bật icloud tìm iphone thôi ko mở định vị mà giờ đt e tắt nguồn rồi..giờ có cách nào định vị được không chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.536026,
+         "id": "831949",
+         "field_search": "question",
+         "question": "Anh/chị ơi, cái ipad em bị mất ý hôm nay bên nó mở máy lên em xem đc định vị thì thấy đc chỗ đó mà đc 1 lúc thì lại ngoại tuyến rồi. Lúc mất thì em đã cài Tìm Iphone và bật Báo mất ipad và cài mật khẩu máy, có phải nó ko vào đc nên nó tắt nguồn rồi ko? và có cách nào nó hủy được cái chế độ mà em định vị ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.902504,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.89722,
+         "id": "767455",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: iPhone 5s sao nhanh hết pin, mình chỉ lướt Facebook mà máy được khoảng 15-20 phút là đã thấy nóng, mặc dù không có ứng dụng chạy ẩn, dịch vụ định vị và các ứng dụng không liên quan đã tắt hết. máy mình mới mua ở TGDD được vài ngày.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.89126,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.55494,
+         "id": "759256",
+         "field_search": "question",
+         "question": " iPhone 6 Plus vàng còn không bạn? và đang có ở cửa hàng nào. Có trả góp bằng HSBC không ?Mình ở Hà Nội ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.41974,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.40375,
+         "id": "795417",
+         "field_search": "question",
+         "question": " Máy iphone 4 của e bị hư màn hình, mà thấy vẫn thì đt hiện lên mật mã của máy, Về định vị của đt. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.92802,
+         "id": "1015224",
+         "field_search": "question",
+         "question": "Chào TGGD ! Mình mới lấy con redmi note 4 bên đó. Nhưng vào ứng dụng thời tiết thì không cập nhật được vị trí. Hiển thị lên là không thể định vị thiết bị. Vậy cho mình hỏi cách khắc phục được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.821846,
+         "id": "997744",
+         "field_search": "question",
+         "question": "Mình mới vừa mất 1 cái điện thoại OPPO F1S. Mình có thể dùng điện thoại cùng hãng để định vị được không? Mà điện thoại của mình bị khoa nguồn rồi. Bạn nào biết chỉ mình với! Mình cám ơn các bạn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.73669,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.14382,
+         "id": "780518",
+         "field_search": "question",
+         "question": " Mình khóa icloud nhưng cài grab lại không bật định vị được máy mình ios 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.05284,
+         "id": "1000691",
+         "field_search": "question",
+         "question": "Cho mình hỏi có phần mềm định vi theo dõi điện thoại nào mà ko cần cài đặt trên máy mình muốn định vị ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.8075,
+         "id": "815291",
+         "field_search": "question",
+         "question": " Cách định vị iPhone 6s khi bị thất lạc như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.02613,
+         "id": "1148482",
+         "field_search": "question",
+         "question": "Mình dùng ss J3 Pro, nhiều khi bộ sưu tập của mình lúc vào xem thì những tấm ảnh theo thứ tự thời gian không sắp xếp kế nhau, xuất hiện tấm này lại ở ngày này còn tấm kế nó lại ở ngày kia, nhìn rất khó chịu và lộn xộn! Có thể giúp mình cách khắc phục được không ạ? Mình xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.01688,
+         "id": "875872",
+         "field_search": "question",
+         "question": " nếu như đã bật find my iphone thì trên màn hình sẽ hiện lên dấu định vị phải ko ad ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.627625,
+         "id": "744673",
+         "field_search": "question",
+         "question": "bạn ơi mình dùng iphon4s đồng bộ hoá với iphon 6. bây giờ iphon 6 bị cướp giật mất, mình đã vô hiệu hoá máy ip6 và tìm trên định vị nhưng ko thấy, chắc nó đã tắt nguồn. Cho mình hỏi nếu chúng vào đc máy của mình và sử dụng được thì nó có thể đồng bộ hoá sang máy iphon 4s của mình đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.28255,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.22887,
+         "id": "745844",
+         "field_search": "question",
+         "question": " Sam sung galaxy a8 có cài được định vị không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.96321,
+         "id": "1011403",
+         "field_search": "question",
+         "question": "mình xài điện thoại mobel s30, mình đã tắt wifi lẫn định vị, 3g nhưng khi vào càiđặt->pin xem chi tiết thì thấy wifi vẫn chạy làm dẫn đến hao pin. vậy cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.835754,
+         "id": "986790",
+         "field_search": "question",
+         "question": " Cho e hỏi có định vị được máy đã mất bằng IMEI được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.73594,
+         "id": "772829",
+         "field_search": "question",
+         "question": " iPhone bị mất nhưng không bật định vị phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.64497,
+         "id": "1136526",
+         "field_search": "question",
+         "question": "Mình xoá vị trí zalo tránh làm phiền 1 ngày , không bật lại nữa mà sao vẫn nhận được lời kết bạn quanh đây. Mọi người chỉ em với, nó quá phiền với em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.5531,
+         "id": "769730",
+         "field_search": "question",
+         "question": "Em vừa bị mất cái iPhone 5 tối qua, khi e gọi thì vẫn đổ chuông, không ai bắt máy, định vị thì báo ngoại tuyến e phải làm sao đây ạ, lên find friend trên máy tính thì không xác định được vị trí. giúp e với QTV ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.41737,
+         "id": "1142156",
+         "field_search": "question",
+         "question": "em muốn cài đặt định vị để biết vị trí khi lỡ bị mất cắp đt của mình . em vào cài đặt làm đúng các bước mà đến chỗ nhập mật khẩu nó cứ thông báo id hoặc mạt khẩu khong hợp lệ . trong khi em thử lại rất nhiều làn và thử mở máy tính đăng nhập mật khẩu đó thì vãn vào đc gmail như thường . giúp e vs ạ . máy samsung j6 mới mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.21572,
+         "id": "1147637",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em bị người khác cài định vị, vậy làm sao để không bị nữa ạ? Gmail em cũng đã xoá khỏi máy rồi mà vẫn bị vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.20427,
+         "id": "890343",
+         "field_search": "question",
+         "question": "E bị mất 6s có bật 3g, nhưng k bật định vị. Hiện máy k gọi đc vì hết pin sập nguồn hoặc bị tắt nguồn rồi. Có người đề nghị giúp định vị vị trí ngay cả khi k mở máy. Liệu có tin được k ạ? Và nếu được thì có chỉ chính xác được địa điểm máy k hay chỉ khoanh vùng bán kính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.13307,
+         "id": "996727",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mất đt oppo F1s có cách nào định vị được đt của mình k ạ cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.007065,
+         "id": "1162832",
+         "field_search": "question",
+         "question": "em có bị mất một cái điện thoại oppo a3s, em muốn dùng định vị nhưng lại quên mất mật khẩu gmail mà em đăng ký ở máy đó, giờ còn cách nào tìm lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.9859,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.95915,
+         "id": "867690",
+         "field_search": "question",
+         "question": "Dạ mình sử dụng samsung khi mình tải phần mềm viber về thì lại đòi thay đổi vị trí cài đặt mặc định ứng dụng... nên mình k thể tải về để rồi chuyển sang thẻ nhớ được. Ad có thể h.dẫn giúp mình được khôg ạ ? Cám ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.65871,
+         "id": "837742",
+         "field_search": "question",
+         "question": " Sao e không thực hiện được phần lắc trên wechat vậy. E đang sài samsung j7. Em đã bật định vị và cài lại wechat r. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.00993,
+         "id": "1157643",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung m20, có một số hình trên máy mình vô tình xóa, mình định khôi phục lại nhưng không tìm thấy thùng rác ở đâu, mình đã thử vào cài đặt trong bộ sưu tập nhưng vẫn không thấy. Phải làm sao đây ad? Mình cám ơn :3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.931175,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.77545,
+         "id": "767723",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở iphone 6 plus nếu có bật GPS mà k kết nối mạng thì có thể định vị được máy bằng iCloud không ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.76367,
+         "id": "906971",
+         "field_search": "question",
+         "question": "bạn bên mình trên cửa hàng ở hòa khánh có cho trả góp laptop lenovo yoga300 lãi xuất 0% ko vậy bạn,có gì bạn gởi email phamcong04071993@gmail.com cho mình để mình biết thêm về hình thức trả góp với mình mún mua máy đó định trả trc 30%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.6811,
+         "id": "809677",
+         "field_search": "question",
+         "question": " Cách định vị điện thoại Oppo F1 khi bị mất hoặc đánh rơi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.59556,
+         "id": "1158829",
+         "field_search": "question",
+         "question": "Máy samsung A30 có tgowif tiết mặc định ko ạ, mình tải về nhưng k cài đc vị trí. Nó cứ dò mà k ra xong nó ghi vt vớ vẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.41752,
+         "id": "870365",
+         "field_search": "question",
+         "question": "Máy mình như v là sao z ai pt giúp mình với ..bật gps r màk ko định vị dc ,dù ở trong google maps hay apple maps cũng v...pokemon go cũng z..huhu...máy mình ios 10 beta 4 nhá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.40945,
+         "id": "761693",
+         "field_search": "question",
+         "question": " Nếu chưa đăng kí iCloud thì có định vị lấy lại điện thoại được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.188995,
+         "id": "1160127",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại realme2 lần trước mình có cài chức năng không khoá điện thoại ở vị trí tin cậy(nhà riêng). Giờ mình k biết làm sao để tắt chức năng đó và khi đi khỏi vị trí đó hàng cây số mà điện thoại vẫn chưa khoá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.11961,
+         "id": "924978",
+         "field_search": "question",
+         "question": " Ad ơi điều khiển công tắc iphone của em không định vị được khuôn mặt giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.89662,
+         "id": "876186",
+         "field_search": "question",
+         "question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.58703,
+         "id": "1021323",
+         "field_search": "question",
+         "question": "QTV cho tôi hỏi . ngoài cách tìm Định Vị , thì có cách nào tìm DT bằng IME không. Tks. .....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.408165,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.11709,
+         "id": "750351",
+         "field_search": "question",
+         "question": " Muốn cài đặt định vị trên oppo mirror 5 làm Sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.99981,
+         "id": "1135283",
+         "field_search": "question",
+         "question": "Mình vừa mua đt huawei y9, có vài điều mình thắc mắc bạn giải đáp giúp:  1. Mình k biết cách đổi hình nền màn hình khóa mà hình như nó mặc định như vậy hay sao 2. Kiểu gõ chữ mình đã chỉnh về tv telex nhưng gõ vẫn k hiệu quả. Bạn có cách khắc phục tình trạng này k. 3. Đã tắt trạng thái dự đoán chữ để mình có thể gõ thoải mái nhưng vẫn hiện dòng dự đoán.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.62798,
+         "id": "777459",
+         "field_search": "question",
+         "question": "Mình có mua 1 ốp lưng iPhone 5 ở TGDD nhưng về thử vào máy thì không ưng. Lúc mua nhân viên có nói là đc đổi trả. Vậy cho mình hỏi mình có thể đổi trả ốp được không? Vì mình đọc chính sách thì ốp điện thoại không được đổi trả. Và mình mua TGDD ở Hà Nội mình có thể đổi trả ở TGDD ở Nam định được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.52816,
+         "id": "840926",
+         "field_search": "question",
+         "question": "khi ol facebook trên phần mềm fb ở điện thoại lumia 635 mà bạn bè của mình không thấy có mình đang ol là sao ạ?mặc dù mình đang hoạt động mà nó không hiển thị cho bạn bè mình biết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.309784,
+         "id": "1020402",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình chặn tn của bạn. Nhưng khi hết chặn thì ngược lại bạn đó gửi tn cho mình nhưng mình gui lại ko đc.va zalo thông báo chặn tn của mình. Lúc này muốn đổi hình với bạn đó cũng ko đc vậy là sao. Minh cam on nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.9402,
+         "id": "1154611",
+         "field_search": "question",
+         "question": "Em bị mất cây Oppo f9 không mở định vị nhưng em có Đăng nhập Google Facebook Zalo và cả số điện thoại thì mình có cách nào để tìm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.8626,
+         "id": "916428",
+         "field_search": "question",
+         "question": " Tôi bị mất laptop hiệu acer window 10.. cho tôi hỏi trong máy có sẵn định vị không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.62147,
+         "id": "1164507",
+         "field_search": "question",
+         "question": "Tôi muốn định vị điện thoại oppo f11 pro bằng icloud được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.34032,
+         "id": "1023400",
+         "field_search": "question",
+         "question": "Có chi nhánh nào của TGDĐ ở Đà Nẵng còn bán iPhone5s 32G không? Bên mình có định nhập đt ấy về kinh doanh nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.28789,
+         "id": "1164355",
+         "field_search": "question",
+         "question": "Tôi muốn định vị máy oppo f11 bằng tài khoản icloud được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.240234,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.16157,
+         "id": "1016561",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi máy zenfone c bị treo logo thì ở hà nội chỗ nào có sẵn phầm mềm để sửa vậy? khu thanh xuân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.79091,
+         "id": "1167625",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Mình mới mua máy Oppo F11 bên shop. khi chụp hình thì mặc định có chữ OPPO F11 ở bên dưới hình ảnh, giờ muốn tắt chế độ này thì làm thế nào. Nhờ Ad chỉ hộ giúp. Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.7469,
+         "id": "763655",
+         "field_search": "question",
+         "question": "Chào mọi người em đang dùng iPhone 6s nhưng ở ngoài màn hình ko có úng dụng FaceTime mặc định của máy.em thử tìm trong phần giới hạn ko có,ở phần trong phần thông báo thì vẫn thấy có FaceTime.Như vậy là sao vậy mọi người,ai biết giúp em đi​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.685295,
+         "id": "760304",
+         "field_search": "question",
+         "question": " Bị mất iphone có cài icloud . Vậy tên trộm tắt định vị thì còn tìm lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.67057,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.12892,
+         "id": "892993",
+         "field_search": "question",
+         "question": " e vừa bị mất iphone 5s và e có dùng định vị icloud nhưng không ra,vậy có cách nào khá để tìm lại được không ạ,e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.65992,
+         "id": "1139985",
+         "field_search": "question",
+         "question": "Em bị mất một cái đt oppo a37 mà em không đăng nhập tài khoản gmail trên điện thoại :((( thì làm cách nào định vị được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.51921,
+         "id": "1000733",
+         "field_search": "question",
+         "question": "mình có mua con samsung A9 pro, sài tầm đc hơn 2  tháng r.. hơm nai mình đang nc call video messenger với bạn bè thì có chụp màng hình vài tấm và mình cãm thấy bị dực lag.. ròi mình mới khỡi động lại máy.. khỡi động xong cái nó tắt luôn.. ko mỡ nguồn lên đc nũa :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.22377,
+         "id": "1148753",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với,em làm mất điên thoại samsung j6 2018 mà nếu không có mật khẩu samsung cloud thì có bẻ được khóa điện thoại không ạ,. E đã thử lên trang find my phone để định vị nhưng không có kết nối internet nơi điện thoại nên k định vị được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.21752,
+         "id": "1020008",
+         "field_search": "question",
+         "question": "Ad cho minh hỏi, Mình cài wechat nhưng khi gọi chỉ người gọi nghe đc tiếng, còn người nhận cuộc gọi từ máy mình không nghe được triếng cả khi gọi hình và goi tiếng. trong khi đó người nhận cuộc gọi vẫn nhận dược hình và tin nhắn.Làm ơn trợ giúp mình với. Cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.20828,
+         "id": "1019770",
+         "field_search": "question",
+         "question": "tối qua mình bị mất điện thoại oppo s1, sau đó mình gọi thì điện thoại tắt máy. vậy mình làm sao định vị được điện thoại đã mất, hay bằng cách nào để tìm được điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.73716,
+         "id": "628634",
+         "field_search": "question",
+         "question": "Cho mình hỏi, bạn mình dùng zalo nhưng ở màn hình không hiện biểu tượng Zalo vậy Zalo đó bạn mình ẩn ở đâu vậy? Xin cam ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.70457,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.7032,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.67253,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.5656,
+         "id": "1000648",
+         "field_search": "question",
+         "question": "Mình đang sài điện thoại sony xperia xa1... Mua được cách đây 3 tháng nhưng dạo gần đây nó lại bị liệt cảm ứng ở 1 phần màn hình..mình ko làm rơi vỡ hay tiếp xúc mạnh gì.. Cho mình hỏi như vậy có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.49198,
+         "id": "1116993",
+         "field_search": "question",
+         "question": "Tôi bị mất máy tôi đăng nhập icloud vào máy khác để xem định vị ở đâu lần đầu được lần sau báo icloud k tồn tại là sao ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.44626,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.36337,
+         "id": "1020718",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại có chủ dịch vụ định vị bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.34903,
+         "id": "1158329",
+         "field_search": "question",
+         "question": "chào TGDDhiện tại, e bị mất dt s8. có cách nào định vị dc hok ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.32592,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.243645,
+         "id": "934567",
+         "field_search": "question",
+         "question": "bạn ơi, mình dùng laptop để đăng nhập vào trang fb của mình, trên fb của mình có lập một chuyên Trang bán hàng nhưng từ đêm 4/1 khi mình đăng bài thì không thể tìm thấy các icon chèn ảnh/tag bạn bè/vị trí....Sự cố này đã gây rất nhiều khó khăn cho việc đăng bài của mình khi mình thoát của chuyên TRang của mình, vào trang chủ FB của mình thì vẫn add đc ảnh/tag bạn bè/... bình thường. bạn giúp mình sửa lỗi naỳ với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

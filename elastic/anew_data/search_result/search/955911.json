@@ -1,0 +1,801 @@
+{
+   "id_query": "955911",
+   "total": 27722,
+   "total_current": 100,
+   "max_score": 76.76118,
+   "origin_question": " Laptop mỗi lần vào excel là tự động chạy hàng loạt sheetchart là sao ạ?Máy dell,win7 ",
+   "hits": [
+      {
+         "score": 46.35136,
+         "id": "956051",
+         "field_search": "question",
+         "question": " Laptop cứ mở excel là chạy một loạt sheetchart là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.988934,
+         "id": "938159",
+         "field_search": "question",
+         "question": " cho em hỏi sao cứ mỗi lần shut down sau đó khởi động lại máy là bị restarts ạ. e dùng laptop dell ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.679258,
+         "id": "965203",
+         "field_search": "question",
+         "question": "Cho e hỏi: e dùng dell vostro 3468 i3 sao mỗi lần e bật máy tính lên mà nó khởi động chậm vậy ạ. giống kiểu mỗi lần bật máy tính lên là khởi động lại vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.90724,
+         "id": "1168672",
+         "field_search": "question",
+         "question": "Ad cho em hỏi..em đang sài con laptop dell e6520 và đang chạy win 10 pro. Máy tính em khởi động 2 lần mới vào win được. Lần đầu thì màn hình đen. Em phải đè nút nguồn r khởi động lần 2 mới vào được win. Cho em hỏi máy em như v là sao ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.27351,
+         "id": "767116",
+         "field_search": "question",
+         "question": " Sao laptop em nó cứ tự khôi phục cài đặt hoài vây, anh chị tư vấn giúp e nhé, cứ mỗi lần khởi động là khôi phục ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.843233,
+         "id": "1024338",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại oppo a57. Cứ mỗi lần e cắm xạc pin vào máy là máy tự khởi động lại. E nghĩ là tại nguồn điện nhưng e đổi chỗ cắm điện thì cứ cắm xạc vào máy là máy lại tuwj khởi động lại. Máy e bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.84277,
+         "id": "897075",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus, wifi đang sử dụng thì tự động mất kêt nối, khi khởi động lại máy thì bắt wifi bình thường ạ. mỗi lần như vậy là em restart lại máy. xin giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.538008,
+         "id": "804904",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo một vài ứng dụng đang chạy mắc dù mình dã tắt hết tất cả rồi, ví như là GDI+windows. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.465704,
+         "id": "1022609",
+         "field_search": "question",
+         "question": "Tại sao laptop em mới mua laptop hiệu dell vostro 3568, máy chạy chậm mặc dù là core i7, chơi game liên minh khoảng 1 giờ hơn chút là máy tự động sập nguồn. mong anh chị trả lời giúp em. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.252668,
+         "id": "1010098",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop dell N3567 C5I31120 cào win10, mỗi lần e cắm tai nghe vào đều phải restart lại máy mới nghe được là máy bị sao thế ạ? (Tai nghe e thử sang máy khác và không có vấn đề gì cả)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.443714,
+         "id": "798390",
+         "field_search": "question",
+         "question": "cho e hỏi, laptop dell vostro 5460 tại sao phím shift của em không hoạt động. cả 2 phím luôn ạ. Mỗi lần đánh máy rất khó khăn, mong anh chị giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.41187,
+         "id": "1163598",
+         "field_search": "question",
+         "question": "Chào bạn cho mình hỏi chút,mình đang sử dụng laptop loại HP có win10,nhưng mỗi lần tắt máy là nó cứ tự động update,mình muốn tắt update vĩnh viễn thì làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.381935,
+         "id": "899159",
+         "field_search": "question",
+         "question": "laptop của mình mỗi lần vào mạng thì k sử dụng chuột di chuyển nhưng các tab mở ra cứ tự động chạy xuống trang cuối, lúc này mình điều khiển chuột lên đầu trang cũng tự động chạy xuống lại. hiện tượng này 2-3h xảy ra 1 lần, nó k liên tục nên mình khó mang ra trung tâm vì sợ khi đến đó hiện tượng này chưa xảy ra thì phải đợi lâu ? k biết là do bị kẹt phím nào đấy hay do lỗi Win ạ ? vì khi mình mở máy nhấp chuột vào 1 file nào đó trên destop thì lại k đc mở file đó mà tự động vào 1 file mình k hề nhấp vào ? 2 hiện tượng đó của máy mình phải khắc phục ra sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.18141,
+         "id": "1015409",
+         "field_search": "question",
+         "question": "Cho em hỏi, Gần đây em có mua 1 laptop Dell. Sao tự nhiên lại mất word,excel, powerpoint ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.056856,
+         "id": "804897",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo: Một vài ứng dụng đang hoạt động như: GDI+ windows mặc dù mình đã tắt hết tất cả rổi. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95596,
+         "id": "746557",
+         "field_search": "question",
+         "question": "Laptop mình chạy win 10 không vào Store được là sao vậy m.n, win này là cài sẵn của máy rồi?Trong khi máy tự nâng cấp lên thì vẫn vào Store bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.81125,
+         "id": "1161370",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Em đang dùng iPhone 7, cứ mỗi lần dùng ứng dụng Messenger, nó toàn tự động mở vào tin nhắn thoại đầu tiên mà em chưa làm gì hết cả. Như vậy là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.640018,
+         "id": "1023388",
+         "field_search": "question",
+         "question": "ad cho em hỏi là laptop của e chạy win7 em muốn chạy lại win. vậy ở TGDĐ có chạy win cho laptop không? và nếu chạy mất thời gian khoảng bao lâu ạ? em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.305378,
+         "id": "1011274",
+         "field_search": "question",
+         "question": "Em sài đt mobiistar lai yuna mỗi lần khởi động lại là nghe chuông ...Cách tắt chuông khi khởi động lại máy làm sao dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.039854,
+         "id": "857568",
+         "field_search": "question",
+         "question": " máy e cứ mỗi lần vào facebook cứ được một lúc là n out là thế nào ạ ad cho e xin ý kiến ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.976912,
+         "id": "910626",
+         "field_search": "question",
+         "question": "cho hỏi là tôi mới mua laptop dell sao tôi vào website của dell việt nam kiểm tra máy thì thấy thông tin là máy hết hạn bảo hành vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.960512,
+         "id": "900378",
+         "field_search": "question",
+         "question": "Dell N5558 i7 của mình tại sao mỗi lần sạc là độ chai pin lại tăng lên rất nhiều(5-7%) Wear level). Mình chỉ dùng máy khi pin đã 100% thôi. Và 2 tuần là xả pin 1 lần. Như vậy là bị làm sao ạ? Mong QTV tư vấn ạ! Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.955133,
+         "id": "843897",
+         "field_search": "question",
+         "question": "vì sao laptop của e. mỗi lần truy cập wifi là nó tự mở web và tự động truy cập 1 trang web nào đó. có cách nào khắc phục đc k ạ. hoặc có thể sửa trang web đó thành web khác k. mọng mọi người giúp đỡ e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.912483,
+         "id": "808575",
+         "field_search": "question",
+         "question": " cho e hỏi với...răng mỗi lần mở máy lên vào coc coc thì không và được là bị gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.840925,
+         "id": "827596",
+         "field_search": "question",
+         "question": "Laptop Dell n5558 i7 của mình mỗi lần bật lên mà Time up đã hiện là được dùng được mấy tiếng rồi, không giống như các máy khác là 0'0'0'. Mình tắt máy shutdown khi không dùng nữa. Mong QTV tư vấn ạ. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.763203,
+         "id": "768117",
+         "field_search": "question",
+         "question": "ipad em mỗi lần nhấn vào facebook là màn hình tối đi , rồi hiện lên biểu tượng trái táo như khởi động lại máy , em xóa đi tải lại nó vẫn như vậy, máy em bị như vậy là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.59903,
+         "id": "1157851",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em đang dùng là ip7pls, nhưng mỗi lần e chụp ảnh xoá phông hay là chỉnh ảnh qua snapseed thì ảnh chỉ lưu ở trong thư viện đc tầm 2 3 ngày là tự động biến thành ảnh gốc, ko còn xoá phông nữa. Em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.49433,
+         "id": "1000556",
+         "field_search": "question",
+         "question": "Ad ơi, máy mình là J7 Prime, máy hay tự khời động lại, vào 1 số ứng dụng thì không chạy được ( hiện không phản hồi hoặc tạm dừng ), đặc biệt là vào Bộ Sưu Tập là hoàn toàn không vào được luôn ạ.Ad giup mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.351097,
+         "id": "1134527",
+         "field_search": "question",
+         "question": "Mình cần hỏi về pin Oppo a3s. Mới mua tầm nửa tháng, nhưng mỗi lân sạc xong rồi không sử dụng nó tự động mất 3% . Rồi khi dùng x khoảng 5-10p nó tự động mất 1% lâu hơn thì 2% . Cứ mỗi lần mở lên là mất, vậy đt có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.079636,
+         "id": "839355",
+         "field_search": "question",
+         "question": " tại sao khi update len win10 thi laptop lai khởi động logo dell 2 lần? sau khi update tai thegioididong dell i5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.947487,
+         "id": "905370",
+         "field_search": "question",
+         "question": "Laptop của e khi cập nhật lại Windows 10 thì wifi đang sử dụng thì tự động ngắt phải khởi động lại máy mới vào wifi lại được là sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.946918,
+         "id": "1145315",
+         "field_search": "question",
+         "question": "Cho hỏi, Ứng dụng Máy ảnh của Samsung A7 mục Kích thước ảnh (Camera sau) mình đặt  4:3 (24M). Mỗi lần thoát ra vào lại mặc định là 18.5:9 (16M). Vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.867071,
+         "id": "803998",
+         "field_search": "question",
+         "question": "Máy tính mình tự dưng phím số 9 tự động gõ chữ cho dù mình ko tác động tay vào.khi bật máy lên mở word ra là số 9 tự động chạy trên bản word.Cho mình hỏi lỗi đó là sao vậy add.?cách khắc phục như thế nào a.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80525,
+         "id": "1165121",
+         "field_search": "question",
+         "question": "Mình đang dùng nokia 5.1 plus,  sau mỗi lần chụp mỗi bức ảnh là máy tự tạo ra ảnh ảo,  cho mình hỏi có cách nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.775244,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.685896,
+         "id": "965622",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là máy mình iphon 5s dùng hay bị tự động tắt mở nguồn , mỗi lần mở nguồn thì dất nâu mà mình cầm đi bảo hành 2 lần rùi về ko có ghì tốt hơn máy vẫn bị vậy bây h mình muốn khác phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.444498,
+         "id": "1008518",
+         "field_search": "question",
+         "question": "Anh cho em hỏi: Điện thoại của em mỗi lần chạy app hơi lâu, rồi máy em bị giật hoặc đứng máy, em cho khởi động lại máy thì khi em vào lại ứng dụng đó đã bị mất, mỗi lần như vậy em phải cài lại. Còn app nào có file obb thì file obb biến thành 0B ạ. Đôi khi nhạc cũng bị mất, file nhạc còn 32kb hoặc 0B ạ. Giúp em với. Điện thoại em là Lenovo a369i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.436134,
+         "id": "1139065",
+         "field_search": "question",
+         "question": "Chào bạn. Cho mình hỏi laptop Dell 5568 I5 7200U có hạ xuống Win7 được không?Dùng win 10 hay đơ máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.391674,
+         "id": "771020",
+         "field_search": "question",
+         "question": "Em dùng Asus K55A cài win7. Máy của em có hiện tượng là khi không bật máy mà cắm sạc là máy tính cứ khởi động đi khởi động lại mãi cho tới khi rút sạc ( Chưa vào được win đâu ạ). Em rất mong được sự tư vấn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32451,
+         "id": "803460",
+         "field_search": "question",
+         "question": "Chào mọi người ạ . máy iphone 5 của em bị tình trạng sạc 4 tiết học vẫn 24% .. rồi đang dùng tự dưng mờ 1s rồi khởi động lại .. lên thì 5p sau lại bị khởi động lại .... mỗi 1 lần lên là % pin khác :( ai giúp em với ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.287842,
+         "id": "837692",
+         "field_search": "question",
+         "question": " Qtv ơi , facebook không truy cập được mạng là sao ạ , hình như cứ mỗi tuần là bị 1 lần ấy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.232904,
+         "id": "1158984",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e dùng laptop dell 3558, e đang dùng tự nhiên máy nó sập nguồn, ko khởi động lại được. Nó là lỗi j ạ? Dự kiến chi phí sửa khoảng bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.205957,
+         "id": "1148945",
+         "field_search": "question",
+         "question": "Cho em hỏi trên oppo f7 youth có phần mềm gì mà mỗi lần tắt mở là tự động thay đổi màn hình khóa mong admin hỗ trợ giúp em tên phần mềm em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.172588,
+         "id": "1001725",
+         "field_search": "question",
+         "question": "chào cửa hàng ạ. 3 tháng trước laptop em cập nhập win nhưng bị lỗi, em cầm laptop ra cửa hàng thế giới di động để chạy lại win. nhưng cửa hàng chỉ chạy win có bản quyền là 90 ngày. và giờ đã hết hạn đồng thời laptop cũng rất hay tự sập nguồn . vậy cho em hỏi lý do vì sao? và em cũng nhắn rất nhiều đến công ty nhưng không thấy hồi đáp gì bên cửa hàng, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.16284,
+         "id": "772607",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Máy laptop Dell của mình khi khởi động chỉ được 10 giây là tự tắt, màn hình đen xì luôn. Vậy nó bị bênh gì nhỉ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.120022,
+         "id": "1006933",
+         "field_search": "question",
+         "question": " Mỗi lần gửi hình là nó hiện ra như vậy. Phải làm sao để tắt nó đi ạ.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.098804,
+         "id": "910955",
+         "field_search": "question",
+         "question": " Máy Dell tự động ngắt wifi. Hiện dấu X phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.056623,
+         "id": "1158356",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi là instagram của mình mỗi lần up ảnh lên rồi nó tự xóa ảnh đó luôn... bây giờ mình phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.033848,
+         "id": "994128",
+         "field_search": "question",
+         "question": "ad cho em hỏi là máy laptop em là máy Dell chạy win8.1pro 64bit mà dạo này chơi lmht lag quá em muốn đặt lại tất cả về ban đầu như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.004246,
+         "id": "999080",
+         "field_search": "question",
+         "question": "cho e hỏi oppo A37 em mới mua thường hay tự động tắt nguồn rồi khởi động là là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9845295,
+         "id": "869258",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em mới mua tại cửa hàng mình..nhưng em không biết làm sao có word và excel trong máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.978797,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.908264,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.837732,
+         "id": "918678",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s, gần đây mỗi lần vào thư viện nhấp vào xem ảnh, video thì nó lại hiện lên dấu \"!\" phía dưới góc phải? Cho em hỏi là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.835476,
+         "id": "781108",
+         "field_search": "question",
+         "question": "Laptop dell của em đang cài win 8.1 có cạc màn hình 2gb, em có cài NVIDIA GeForce Experience mà sao không thể update driver được, mỗi lần download driver mới là không được, cho hỏi bị lỗi gì vậy, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.779307,
+         "id": "1153789",
+         "field_search": "question",
+         "question": "Laptop hiện ra màn hình xanh nhưng chạy hết 100 thì khởi động lại máy và chạy bình thường là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.752975,
+         "id": "803445",
+         "field_search": "question",
+         "question": " Ad giúp em cài win laptop dell e5500 được không ạ...em không biết cài...em có đĩa cd win7 62bit rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.690622,
+         "id": "1153824",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop mình mua asus vivobook flip 14 TP410U cách đây 1 năm và mình rất ít khi sử dụng nhưng mỗi lần mở máy hoặc mở ứng dụng hay lên cốc cốc thì máy chạy rất chậm, có khi chờ khoảng 5 phút mà máy vẫn chưa chạy xong. Có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.654167,
+         "id": "1019193",
+         "field_search": "question",
+         "question": "Chào ad...em mới mua laptop dell inspiron 3467 ở tgdđ... Máy e mỗi lần mở lên nó cứ hiện cái review settings không tắt được phải tắt máy mở lại... giờ phải khắc phục sao ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6328745,
+         "id": "816253",
+         "field_search": "question",
+         "question": "Sao máy tính của e nó đang chạy bình thường mà tự nhiên nó lại chạy ra cái màn hình ngang là sao???với lại em khởi động máy lại nó cũng ko dk. màn hình nó tối thui à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.547639,
+         "id": "1165442",
+         "field_search": "question",
+         "question": "Máy oppo F9 tự khởi động lại khi vào file ảnh hoặc gửi ảnh qua zalo là lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.528594,
+         "id": "883720",
+         "field_search": "question",
+         "question": " Ad ơi! Mỗi lần mình vào Messenger là bị mất kết nối hoài ,dù wifi rất mạnh. Ad có cách nào ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.523722,
+         "id": "986089",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mua một laptop dell của cửa hàng dùng dc vào tháng máy có hiện tượng len mạng chậm dù wifi rất khỏe .cho em hỏi đay là lỗi j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.505661,
+         "id": "1161840",
+         "field_search": "question",
+         "question": "Lap của em win 10 nhưng mỗi lần vào start hay vào wifi thì keyboard lại không hoạt động nhưng vào chrome thì hoạt động bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.497856,
+         "id": "800315",
+         "field_search": "question",
+         "question": " Cho em hỏi Laptop em Dell Insprion 5537 tắt máy mà đến nguồn vẫn sáng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.475581,
+         "id": "744396",
+         "field_search": "question",
+         "question": "E muốn mua laptop..tầm 10--12tr...đó giờ chưa sử dụng lần nào... giới thiệu cho e loại máy chạy cấu hình mạnh..bền...để tiện việc học tập...e thích hàng DELL...tư vấn dùm e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.455099,
+         "id": "1158224",
+         "field_search": "question",
+         "question": "sao đt readme c1 đang sạc pin thì tự động tắc nguồn và ko vào pin nữa là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.444559,
+         "id": "1007625",
+         "field_search": "question",
+         "question": "cho t hỏi, laptop khi ở chế độ ngủ qua 1 đêm thì mở lên thấy máy tự động vào côc côc và lên 1 trang web 1 cách tùy ý. vậy là sao thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.376785,
+         "id": "787372",
+         "field_search": "question",
+         "question": " Sao đt oppo r7 lite của tự tắt nguồn hiện mỗi oppo 1lúc là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.363586,
+         "id": "811168",
+         "field_search": "question",
+         "question": "cho hỏi em có mua sp, laptop bên cửa hàng TGDD , nay đả hết thời gian bảo hành , vậy khi em đem máy ra chạy lại win7 thì có bị mất phí không , thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.34402,
+         "id": "1003940",
+         "field_search": "question",
+         "question": "Cho hỏi. Đt tôi cứ hiện lên cái này là sao ạ ? Đt tôi cứ mỗi làn màn hình tắt là nó chạy hiện quảng cáo của sony là vì sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.334319,
+         "id": "1023640",
+         "field_search": "question",
+         "question": "Máy em là vivo v5s. Cái phần trợ năng của em nhiều lúc tự động tắt làm em phải bật lại nhiều lần. Em phải làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.28857,
+         "id": "1142277",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop của e khi khởi động lên nó tự động vào Www2.savemax.store sau đó ní tắt máy luôn. Cho e hỏi khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.261567,
+         "id": "848654",
+         "field_search": "question",
+         "question": "máy e là asus x452 hiện đang chạy win7 nhưng hay bị đơ máy và hiện bản lưu khi mở máy. cho em hỏi mấy bị sao và nếu cài lại win 7 thì khoảng bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.185055,
+         "id": "1160879",
+         "field_search": "question",
+         "question": "Xin chào ạ. Máy của mình là htc d816h. Máy mình mỗi lần cài báo thức đều chỉ có chế độ rung chứ không có nhạc. Mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.160037,
+         "id": "935962",
+         "field_search": "question",
+         "question": "Cục sạc của e tự dưng mỗi lần sạc cái đầu sạc nó nóng lên kinh lắm, mà khi thì nóng khi thì ko, mà khi nóng thì nóng nhanh lắm , nóng quá nóng luôn í, e sợ găm vào laptop nổ laptop ghê,... không biết có sao ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.137019,
+         "id": "897698",
+         "field_search": "question",
+         "question": "Máy tính của e mua ở tgdd. Mỗi lần e tải ứng dụng gì trên 200MB là máy nó lag. Em phải làm gì để nó hết lag mà máy vẫn tải dc nhiều phần mềm nặng hơn. Máy của em là dell insprion 15 3000 series",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.133216,
+         "id": "874975",
+         "field_search": "question",
+         "question": " Chào ad! Ad cho em hỏi, tình trạng này là sao ạ? Cứ mỗi lần mở word ra là lại hiện cửa sổ thông báo này.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.100739,
+         "id": "785738",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi cách khắc phục cái này với. Mỗi lần vào fifa online 3 là xuất hiện hàng loại như vậy. Có cách nào chặn ko cho xuất hiện như vậy nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.087452,
+         "id": "1146673",
+         "field_search": "question",
+         "question": "Tại sao sam sung a7 2018 đang dùng tự nhiên khởi động lại máy ạ?? E bị 45 lần rồi,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.945815,
+         "id": "1143184",
+         "field_search": "question",
+         "question": "thế giới di động cho em hỏi laptop của em khỏi động lên rất lâu, bị treo màn hình đen 1 lúc rồi mới vào được là bị gì ạlaptop em sử dụng là dell vostro 3568 service tag: D9B44F2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.910301,
+         "id": "863665",
+         "field_search": "question",
+         "question": "Laptop của mình, mỗi lần mình click chuột trái vào file nó hiện ra bảng propeties, bàn phím đánh chữ cũng ko được luôn, chuột phải vẫn hoạt động bình thường, làm sao bây giờ, giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.891223,
+         "id": "824643",
+         "field_search": "question",
+         "question": "mình có mua 1 laptop dell inspiron 15 3543 được khoảng hơn 1 tháng nhưng tự dưng máy có hiện tượng đứng máy hoặc là treo máy. mình phải ấn nguồn hoặc tháo pin ra mới có thể khởi động lại được. cho mình hỏi là do lỗi gì ạ??? mà nếu mình đưa ra thế giơi di động thì có bị mất phí k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.889818,
+         "id": "891797",
+         "field_search": "question",
+         "question": "Zalo mình xài dạo này cứ bị tự động thoát tài khoản nên cứ mỗi lần vô là phải đăng nhập lại rất mất thời gian, mình cập nhật phiên bản mới nhất mà vẫn bị vậy. Có ai có cách khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.889159,
+         "id": "889981",
+         "field_search": "question",
+         "question": "Zalo mình xài dạo này cứ bị tự động thoát tài khoản nên cứ mỗi lần vô là phải đăng nhập lại rất mất thời gian, mình cập nhật phiên bản mới nhất mà vẫn bị vậy. Có ai có cách khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8876295,
+         "id": "760392",
+         "field_search": "question",
+         "question": "QTV ơi. Sao tai nghe chụp tai Kanen của em dạo này mỗi lần gắn vào máy tính thì cứ 1 bên nghe to còn 1 bên thì nghe nhỏ. Nhưng khi bỏ vào di động thì không sao. Triệu chứng như vậy thì máy tính em bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.878938,
+         "id": "1161913",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em là oppo A71 2018 sao giờ máy em vào khong được youtube ạ ? Mặc dù đã khởi động lại nhiều lần nhưng vẫn không dô đượcc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.867209,
+         "id": "1152038",
+         "field_search": "question",
+         "question": "anhchị có thể cho e hỏi là e đang xài dell win7 e muốn cài lại win10 thì mất bao nhiêu ạ?em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.846743,
+         "id": "800800",
+         "field_search": "question",
+         "question": " Laptop mình dùng win8.1 tại sao mỗi khi khởi động hay tắt máy đều yêu cầu updates? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.812548,
+         "id": "1156858",
+         "field_search": "question",
+         "question": "Em không gỡ cài đặt ứng dụng Instagram được ạ, mỗi lần cố gắng gỡ ứng dụng này ra thì điện thoại em lại tự động \"Khởi động\" lại.Em dùng điện thoại Itel s11 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.799349,
+         "id": "899689",
+         "field_search": "question",
+         "question": " Cho e hỏi máy e đang xài là Asus Ram 2g đang chạy win7 nếu nâng cấp lên win8.1 tại TGDĐ khoảng bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.793039,
+         "id": "877258",
+         "field_search": "question",
+         "question": "Máy samsung galaxy v plus của em khi vào mesenger cài đặt chat heads nhưng mỗi lần chat là bong bóng chỉ hiện 1 vài giây r tắt ! Em đã xóa dữ liệu của mess với khởi động lại rồi nhưng vẫn không khắc phục đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.785758,
+         "id": "801017",
+         "field_search": "question",
+         "question": "laptop em tự dưng kết nối wifi k đc ngta chỉ vô là ấn cái chỗ màu đỏ trong hình là đc mà máy e nó k ấn đc vào đó là sao chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.7817745,
+         "id": "919848",
+         "field_search": "question",
+         "question": " Lỗi này là sao vậy ad,fb với các ứng dụng khác vẫn chạy bt chỉ mỗi messenger là bị nv thôi.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.743114,
+         "id": "1134838",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy tính cứ update quài do là win 10, mà mỗi lần cập nhật khá là lâu, chạy tốn khoảng gần 10 phút mới được thêm 1%, cho e hỏi như vậy có ảnh hưởng gì không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.707929,
+         "id": "788195",
+         "field_search": "question",
+         "question": "cho em hỏi là em có máy iPhone 5s đã jailbreak nhưng giờ máy bị giật,cứ tự chạy,nhắn tin với dùng đều cứ chưa chạm đã chạy là bị làm sao ạ? và làm như nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.657877,
+         "id": "1156902",
+         "field_search": "question",
+         "question": "Em đang dùng samsung galaxy a50 .cứ mỗi lần nhất lên là màn hình dt lại sáng.cho e hỏi làm sao để tắt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.651394,
+         "id": "1161127",
+         "field_search": "question",
+         "question": "E sài 6+ ở ios 12.2 Mỗi lần e chơi game như free fire đg chơi giữ trận thì bị văng game Mỗi lần chơi là bị mấy lầnVậy e  phải lm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.622996,
+         "id": "919235",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái Iphone 5 của em mỗi lần vào camera trước chạm hơi mạnh vào màn hình là bị đứng máy, Có khi khởi động lại thì màu đen hoàn toàn dù để 2-3p vẫn không có hiện cammera lên, Em đã Reset, Khởi động lại mọi thứ vẫn không được, Thế máy em bị lỗi phần mềm à ?. Sửa khoảng bao nhiêu vậy ? Phiên bản hiện tại IP5 của em là 10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

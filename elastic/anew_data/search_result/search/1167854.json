@@ -1,0 +1,801 @@
+{
+   "id_query": "1167854",
+   "total": 25968,
+   "total_current": 100,
+   "max_score": 48.052044,
+   "origin_question": "Tại sao samsung j7 plus không sử dụng được thư mục bảo mật?",
+   "hits": [
+      {
+         "score": 25.97961,
+         "id": "1162770",
+         "field_search": "question",
+         "question": "Tôi mới mua Samsung A7 2018. Tôi đã cài 1 số ứng dụng vào thư mục bảo mật của máy. Tôi đã chụp màn hình của ứng dụng trong thư mục bảo mật nhưng tôi không tìm thấy trong bộ sưu tập của máy. Vậy cho tôi hỏi ảnh chụp màn hình trong thư mục bảo mật nằm ở đâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.684336,
+         "id": "1011943",
+         "field_search": "question",
+         "question": "Làm sao để tắt kí hịu ổ khóa kho cài thư mục bảo mật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.466858,
+         "id": "1010246",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung s8 plus, hiện tại ảnh và video nằm chung 1 thư mục. Làm sao để e tách được ra riêng ảnh với video ạ?. Tức là khi phát sinh 1 video mới thì máy mặc định sẽ vào thư mục video, chứ mình ko phải vô thư mục chung đó rồi di chuyển thủ công wa thư mục video vừa tạo ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.836899,
+         "id": "907419",
+         "field_search": "question",
+         "question": " Cho em hỏi cách tạo thư mục trên điện thoại Samsung galaxy J7 Prime đi ạ????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.340351,
+         "id": "1153632",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng samsung j7 pro. em tải hình ảnh từ google về máy nhưng khi em vào file mở thư mục tải về ra thì không xem được ảnh. Em đã thử tải lại và khởi động lại máy vẫn không mở được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.227913,
+         "id": "765184",
+         "field_search": "question",
+         "question": " Cho hỏi Lenovo A7000 Plus , làm thế nào để đem ứng dụng từ thư mục ra ngoài ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.028135,
+         "id": "1137883",
+         "field_search": "question",
+         "question": "ad ơi làm sao để đặt mật khẩu thư mục onedrive trên máy tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.129217,
+         "id": "1147619",
+         "field_search": "question",
+         "question": "Máy Samsung galaxy j7 plus,cài đặt khóa ứng dụng mà quên mật khẩu thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.896759,
+         "id": "1003674",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao facebook trên samsung j7 prime không có mục gỡ cài đặt mà lại là bật/ tắt ứng dụng. Làm sao để gỡ bỏ hoàn toàn ứng dụng ạ. Xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.8314,
+         "id": "1162159",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy j7 max lại không có hỗ trợ 4g trong khi j2 đã có thể sử dụng 4g.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.66836,
+         "id": "946008",
+         "field_search": "question",
+         "question": "Điện thoại samsung a7 kết nối wifi nhưng không sử dụng được vì chính sách bảo mật, làm thế nào để có thể vào được mạng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.328938,
+         "id": "1147254",
+         "field_search": "question",
+         "question": "Anh ơi, họ quá em có mua máy Oppo a3s về máy chơi game thì nóng lắm tạo thư mục thì các ứng dụng trong thư mục có khi vào được khi lại hông được. Em muốn đem ra bảo hành thì cũng đổi lại cái a3s hay em muốn đổi cái kháv cũng được hả anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.186007,
+         "id": "770891",
+         "field_search": "question",
+         "question": " Tại sao khi kết nối iphone 5s với máy tính Lenovo A460 lại không có thư mục trong my computer. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.090675,
+         "id": "1018706",
+         "field_search": "question",
+         "question": "Tại sao wifi tự tắt khi không sử dụng điện thoại galaxy J7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.729485,
+         "id": "1016353",
+         "field_search": "question",
+         "question": "Xin chào ạ, cho e hỏi hiện tại máy samsung j7 prime hay tại hay bị đơ cảm ứng khi sử dụng chơi gameMáy còn bảo hành đến tháng 10_2017 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.722282,
+         "id": "1156658",
+         "field_search": "question",
+         "question": "M20 có thể ẩn ảnh vào thư mục riêng tư được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.558455,
+         "id": "855318",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình dùng ip6 lại không vào được Bxh AppStore??? Các thư mục khác của AppStore vẫn vào được bình thường nhưng riêng BXH là không vào được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.537739,
+         "id": "1157272",
+         "field_search": "question",
+         "question": "Điện thoại Samsung galaxy j7 pro. Khi sử dụng các ứng dụng khác camera điều sử dụng bình thường. Nhưng khi gọi trên skype thì camera trước và sau điều không sử dụng được cho e hỏi tại sao ạ. E đã bật quyền truy cập máy ảnh cho ứng dụng rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.504654,
+         "id": "1010486",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsung j7 prime và samsung e7 có sử dụng được kính thức tế ảo không z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.373692,
+         "id": "761964",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 (máy đổi trả) thư mục cuộc gọi không sử dụng được. Bây giờ mình muốn đổi máy khác được không, còn trong thời gian 30 ngày lỗi sản phẩm: mong được hồi âm sớm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.370077,
+         "id": "996805",
+         "field_search": "question",
+         "question": "Em xài Samsung j7 , nay em bị mắc mưa nhưng không lâu , về nhà thì loa rè và nút nguồn không sử dụng được , vì tại sao nút nguồn bị vấn đề thế ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.317091,
+         "id": "1151128",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Nokia 8.1 nếu muốn tạo thư mục để gom những ứng dụng ít dùng cần phải thế nào ,vui lòng hướng về dẫn. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30615,
+         "id": "1010704",
+         "field_search": "question",
+         "question": "Tại sao facebook trên J7 Prime của em nó không có mục Video khác như các J7 Prime khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.298801,
+         "id": "1022903",
+         "field_search": "question",
+         "question": "Em mới mua samsung j7 pro em không sử dụng vẫn tự xuống pin có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.239805,
+         "id": "1163835",
+         "field_search": "question",
+         "question": "xin hỏi admin làm sao để tắt được mục setting này e không thể khôi phục cài đặt gốc samsung j7 prime ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.20902,
+         "id": "1145054",
+         "field_search": "question",
+         "question": "Em không xoá ảnh trong thư viện mà tại sao ảnh tự mất và hiện lên dòng chữ \" không mục nào \" là sao vậy ạ .Chỉ em cách khôi phục lại đi ạ ( em dùng điện thoại Samsung j2)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.122772,
+         "id": "1133422",
+         "field_search": "question",
+         "question": "Samsung galaxy j7 prime sử dụng chưa được 1 năm.giá còn bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.702914,
+         "id": "751576",
+         "field_search": "question",
+         "question": " samsung J7 không có mục cài đặt thời gian khóa màn hình? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.602728,
+         "id": "1020523",
+         "field_search": "question",
+         "question": "em muốn xóa hộp thư thoại trên samsung galaxy j7 prime phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.560666,
+         "id": "1158719",
+         "field_search": "question",
+         "question": "Tôi xài oppo F7, tại sao thỉnh thoảng lại bị mất tệp tài liệu định dạng .XLS, .DOC trong thư mục TỆP  TÀI LIỆU",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.481184,
+         "id": "887738",
+         "field_search": "question",
+         "question": "Tôi dùng mini Ipad, nay mở FB, phần cài đặt, bảo mật, tìm mục \"Phiên hoạt động\" thì không thấy mục này xuất hiện nữa, vậy tai sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.381283,
+         "id": "751047",
+         "field_search": "question",
+         "question": "Điện thoại Oppo R7 mới ra. Em tải hình ảnh ở trên Zalo về nhưng không biết nằm ở thư mục nào. Mà không thấy trong thư mục ảnh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.310614,
+         "id": "1135989",
+         "field_search": "question",
+         "question": "Máy samsung j7 duo của mình bị báo máy bị nóng và không sạc được mình đã thử tắt nguồn nhưng không được và không sử dụng được ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.282699,
+         "id": "790364",
+         "field_search": "question",
+         "question": "Em đang sử dụng iphone 6 plus nhưng vì lâu quá không sử dụng đến tài khoản icloud nên bay giờ e đã quên mật khẩu... Vậy làm cách nào tìm lại mật khẩu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.251879,
+         "id": "744776",
+         "field_search": "question",
+         "question": "admin cho hỏi là khi em kết nối vs máy tính thì em copy vào thư mục nhạc trên máy tính thì có còn trong thư mục của điện thoại không vậy ?...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.052315,
+         "id": "718008",
+         "field_search": "question",
+         "question": " Tại sao chụp ảnh mà lại không lưu được vào thư viện  là thư viện không hiển thị ảnh kể cả chụp  camera thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.885145,
+         "id": "1149980",
+         "field_search": "question",
+         "question": "Tự nhiên trên mỗi ứng dụng của điện thoại mình xuất hiện 1 dấu cộng. Cho mình hỏi làm thế nào để tắt nó ạ. Mình đang sử dụng samsung j7 plus.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.869903,
+         "id": "1024234",
+         "field_search": "question",
+         "question": "Cách tiết kiệm pin trên điện thoại samsung j7 pro để sử dụng được một ngày đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.863524,
+         "id": "1022682",
+         "field_search": "question",
+         "question": "Cho em hỏi, em sài samsung j7 2016, điện thoại nó cứ hiện thư mục ini chứa 1 ảnh không xác định trong bộ sưu tập, với lại bài hát tên dummy trong mp3 zing nhưng không hát được, xóa đi thì có lại, em thử reset máy nhưng vẫn bị, giờ làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.820776,
+         "id": "999665",
+         "field_search": "question",
+         "question": "Liệu rằng tôi có thể đổi chiếc oppo F3 lấy samsung J7 pro được không ? Chiếc oppo đã sử dụng 3 tuần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.793771,
+         "id": "1164038",
+         "field_search": "question",
+         "question": "Tôi sử dụng máy Nokia 7plus vô tình tôi xóa thư mục Downloads nên bây giờ khi tải hình ảnh trên mạng về thì không biết hình ảnh này được lưu ở đâu ? và làm thế nào để khắc phục như ban đầu. Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.788445,
+         "id": "1163647",
+         "field_search": "question",
+         "question": "cho mình hỏi. samsung j7 plus sao không cập nhật lên androi 9.0 vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.768615,
+         "id": "876525",
+         "field_search": "question",
+         "question": "Tại mục quản lý quyền ứng dụng, phải chọn ở tính năng \"ghi âm hoặc ghi âm cuộc gọi\" với viber và messenger, nếu không khi gọi bằng viber hoặc messenger thì người nghe không nghe được mình nói gì. Như vậy cuộc gọi của mình có bảo mật không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.695451,
+         "id": "1013634",
+         "field_search": "question",
+         "question": "Làm sao để thấy các thư mục trong bộ nhớ máy nokia 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.682347,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.626915,
+         "id": "996049",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi . Samsung galaxy j7 2016 còn bảo hành tại TGDD bán lại được bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6119,
+         "id": "1144507",
+         "field_search": "question",
+         "question": "Mình cắm cáp kết nối đt  samsung Galaxy A5 với máy tính, trong lúc đó mình đổi tên 1 thư mục trong bộ sưu tập, sau đó thư mục mình vừa đổi tên xong không còn trong bộ sưu tập mà chỉ còn trong file của bạn. bây h mình muốn đưa về lại bộ sưu tập thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.541662,
+         "id": "880336",
+         "field_search": "question",
+         "question": " TẠI SAO MESS CỦA EM K GỌI ĐƯỢC TRÊN SAMSUNG GALAXY j7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.537262,
+         "id": "1012921",
+         "field_search": "question",
+         "question": "Xin hỏi! Mình có mua j7 prime đã qua sử dụng tại TGDĐ nay mình muốn bán lại cho TGDĐ được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.475147,
+         "id": "1157308",
+         "field_search": "question",
+         "question": "Điện thoại Samsung J7 pro , cách sử dụng dử liệu di dộng có ở sim 2  sử dụng zalo, đọc báo .. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.457581,
+         "id": "761760",
+         "field_search": "question",
+         "question": " iPhone của em không tìm thấy thư mục ảnh đã xoá ạMong ad giúp đỡ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.334695,
+         "id": "1163812",
+         "field_search": "question",
+         "question": "Máy samsung j7 của tôi sao lắp thẻ nhớ mà ko sd được còn lắp qua máy khác thì lại sử dụng đc. Ad giải thích vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.308093,
+         "id": "997676",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung j7 prime nó hay bị đơ phải nhấn nút quay về thì mới sử dụng được tiếp là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.29141,
+         "id": "994293",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud trên iphone 5S (đã cập nhật phần mềm mới - không có mục Cài đặt -> Icloud) và không đăng nhập được. Mật khẩu gmail cũng không sử dụng được. Admin chỉ giúp em cách xóa tài khoản icloud với. Rất mong nhận được câu trả lời sớm nhất. Cám ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.272738,
+         "id": "802094",
+         "field_search": "question",
+         "question": " Tại sao mobiistar kool lite lại không sử dụng gậy tự sướng được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.264598,
+         "id": "1165264",
+         "field_search": "question",
+         "question": "Em sử dụng điện thoại oppo , mà không hiểu sao youtube không sử dụng được nữa , bấm vào thì để cập nhật nhưng khi cập nhật thì k được , hiện tại youtube trong máy không sử dụng được ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.263513,
+         "id": "947353",
+         "field_search": "question",
+         "question": " Samsung j7 prime không có ứng dụng nghe nhạc sao ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.21028,
+         "id": "773076",
+         "field_search": "question",
+         "question": "Cho mình hỏi mimh đang sử dụng iPhone 6 plus đang sử dụng thì bị đơ không chạy được nữa làm sao để khắc phục ạ xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.178026,
+         "id": "1006997",
+         "field_search": "question",
+         "question": "Oppo F3 Plus, Samsung galaxy S7 Edge, Samsung galaxy A9 Pro, trong 3 cái này thì cái nào có bảo mật vân tay vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.154144,
+         "id": "1020158",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Trên S8  giò nó hiện thông báo: Thông tin, quà tặng Galaxy không thể chạy nếu không có quyền của bạn Hãy đảm bảo rằng những quyền này chỉ được sử dụng với mục đích nâng cấp ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.123831,
+         "id": "797969",
+         "field_search": "question",
+         "question": "mình định mua iphone 6s plus hàng qua sử dụng bị trầy sước, vậy mình có được bảo hành 1 đổi 1 nếu bị lỗi phần cứng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.072174,
+         "id": "1142680",
+         "field_search": "question",
+         "question": "samsung galaxy 9 2018 có sử dụng samsung pay được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.062138,
+         "id": "800570",
+         "field_search": "question",
+         "question": " iPhone 6 Plus có sử dụng tai nghe không dây được không vậy QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.027956,
+         "id": "1006214",
+         "field_search": "question",
+         "question": "Mình đang sử dụng J7 Prime được 1 tháng, mua tại TGDD và còn thời hạn bảo hành. Pin ở máy mình hiện đang bị hỏng. Vậy nếu mình mang máy đến thay pin mới thì có mất tiền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.023751,
+         "id": "1006915",
+         "field_search": "question",
+         "question": "điện thoại của mình là samsung galaxy grand 2 lúc mà mình thoát hết ứng dụng ra khỏi cái tạo thư mục thì nó cư hiện cái hình tròn màu đen mà mình ko xóa đi đc . Cho mình hỏi làm sao mà xóa được cái đấy đi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.980972,
+         "id": "1142712",
+         "field_search": "question",
+         "question": "Dt j7 prime của mình không hiểu tại sao bấm nút đa nhiệm lại không phán ứng trước lúc bị như vậy thì vẫn sử dụng bth",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.92163,
+         "id": "987009",
+         "field_search": "question",
+         "question": " Laptop mình mở thư mục trong pc lại xuất hiện lên tab mới là do sao nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.845535,
+         "id": "1156970",
+         "field_search": "question",
+         "question": "Cho minh hỏi , hiện tại mình đang sử dụng samsung galaxy j7 prime, máy sử dụng tốt. Minhf tính mua A50 . Vây cho mình hỏi bên thế giới di động có thu lại đt củ mình k. Cam ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.809717,
+         "id": "1153109",
+         "field_search": "question",
+         "question": "Tôi sử dụng Nokia 3 pin hiện tại bị phồng vậy tôi có bảo hành được không máy mua TGDD gần 1 năm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.7192,
+         "id": "1138454",
+         "field_search": "question",
+         "question": "Máy root rồi chở về máy chưa root được không ạ, nếu được thì phải làm như thế nào, anh chị có thể cho em biết thư mực sao lưu nằm ở đâu trên điện thoại samsung galaxy j7 prime được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.709485,
+         "id": "1142172",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện e đang sử dụng máy samsung j7 prime nhưng giờ e muốn đổi qua máy xiaomi thì sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.704645,
+         "id": "1156205",
+         "field_search": "question",
+         "question": "Ad oi. Vui lòng cho mình hỏi, mình đang sử dụng samsung j7pro phiên bản 8.1. Giờ mình quên mật khẩu \"tài khoãn samsung\" giờ làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.69894,
+         "id": "1162645",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy j3 2016 sử dụng thẻ nhớ \"microsd samsung 32gb evo plus class 10\" được ko ạ và nó có tốt ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.662441,
+         "id": "1164132",
+         "field_search": "question",
+         "question": "Tại sao máy samsung j4 core không tải được ứng dụng trên ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.647671,
+         "id": "941938",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài mật khẩu màn hình khóa cho samsung j7 mình vào cài đặt màn hình bảo mật và khóa nhưng k có như hướng dẫn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.64667,
+         "id": "1148153",
+         "field_search": "question",
+         "question": "Tôi vừa mua một chiếc samsung galaxy note 8 tại tgdđ. Trong quá trình sử dụng làm mẻ một góc nhỏ của nắp lưng. Cho hỏi có được bảo hành không? Hoặc tgdđ có thay nắp lưng mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.641858,
+         "id": "1152765",
+         "field_search": "question",
+         "question": "Bạn em xài J7 Prime hệ điều hành được cập nhật lên 9.0 vậy tại sao A6 Plus không có thông báo cập nhật ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.57355,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.555517,
+         "id": "1017429",
+         "field_search": "question",
+         "question": "may tinh cua em bị ẩn màn hình chính, không co biểu tượng thư mục. co thể hỗ trợ e sua lai được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.552358,
+         "id": "883778",
+         "field_search": "question",
+         "question": "Cho mình hỏiIOS khi mình cài ứng dụng không chính thức trên AppstoreMình cần phải cấp quyền cho ứng dụng rồi mới sử dụng được, vậy khi mình cấp quyền như vậy có ảnh hưởng đên vấn đề bảo mật gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.551275,
+         "id": "1017202",
+         "field_search": "question",
+         "question": "Mình hiện tại đang sử dụng Samsung J7 2016 - Gold . tới khoảng giữa tháng 9 này là hết bảo hành. Nhưng nay do nhu cầu mình muốn đổi sang dùng ios. Tình trạng máy mới 99%., Không biết bên mình sẽ thu hồi lại với giá như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.534939,
+         "id": "1023928",
+         "field_search": "question",
+         "question": "cho mình hỏi  samsung j7 2016 . Có hổ trở Thẻ nhớ MicroSDXC Samsung EVO Plus 64GB 100MB/s (New 2017) không ạ . Và samsung j7 2016 sài được thẻ nhớ bao nhiêu G ạ . Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.428392,
+         "id": "1159054",
+         "field_search": "question",
+         "question": "Bạn ơii samsung j7 có ứng dụng nào sử dụng la bàn đc ko. Vì đt mình ko có cảm biến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.410355,
+         "id": "1014000",
+         "field_search": "question",
+         "question": "Ngày trước tôi sử dụng chiếc điện thoại Nokia 1280 và có cài mật khẩu. Sau một thời gian dài tôi không sử dụng đến và tôi không nhớ mật khẩu. Vậy giờ tôi phải làm gì thì mới khôi phục được mật khẩu. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.343185,
+         "id": "1159892",
+         "field_search": "question",
+         "question": "E đang sử dụng laptop x510uHiện tại em phát hiện máy có 1 điểm trắng sáng hơn trên nền trắngMình có được đi bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.303135,
+         "id": "1001222",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi samsung j7 prime của mình quên mật khẩu hình nhưng vẫn còn email làm sao lấy lại mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.301514,
+         "id": "998330",
+         "field_search": "question",
+         "question": "ad cho e hỏi  Xiaomi Redmi 4X    huawei gr5 mini    với samsung j7 prime  con nào sử dụng êm hơn (chụp hình, máy sử dụng mau nóng hơn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.297851,
+         "id": "1013514",
+         "field_search": "question",
+         "question": "Tại sao dt samsung J7 pro mới mua 1tuần. không nhận sim. Trong khi tháo sim ra lắp dt khác đều được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.282963,
+         "id": "1152946",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy m20 không phát live tream được ạ.còn ip7 plus thì live tream 2 cái cùng 1 tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.259433,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.252567,
+         "id": "791647",
+         "field_search": "question",
+         "question": " Thế giới di động có tạo tài khoản Apple không vậy???Với lại tại sao ứng dụng Facebook trên ip không sử dụng được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.250476,
+         "id": "1136918",
+         "field_search": "question",
+         "question": "Em đang dung J5 2016 nếu muốn đổi sang sử dụng J7 có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.234898,
+         "id": "1158119",
+         "field_search": "question",
+         "question": "em đang dùng samsung j7 plus nhưng mà màn hình ngoài bị vỡ, không biết bên mình có thay được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.232647,
+         "id": "819940",
+         "field_search": "question",
+         "question": "xin chào ad !! hiện e đang xài Neo7 nhưng khi e down hình từ zalo hay fb về hình ảnh đều vào thư mục Ảnh, nó ko vào thư mục Thư Viện. Khi chụp hình xong e muốn di chuyển hình đó vào 1 album khác nhưng ko di chuyển được ạ. Mong ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.194452,
+         "id": "1017141",
+         "field_search": "question",
+         "question": "mình đang sử dung ĐT samsung A9Pro xin hỏi mình có đổi sang  Samsung Galaxy S8 Plus được không Mình bù tiền thêm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.167104,
+         "id": "1003707",
+         "field_search": "question",
+         "question": " Em mua samsung j7 prime cũ có được tgdd bảo hành ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1664,
+         "id": "1140298",
+         "field_search": "question",
+         "question": "Tôi không tìm thấy được tất cả các file trong thư mục \"Tệp\" của điện thoại Vsmart active 1gần như không thể truy nhập bộ nhớ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.160019,
+         "id": "748926",
+         "field_search": "question",
+         "question": " Tại sao gậy tự sướng có kết nối dây nhưng không sử dụng được với Gionee Gtab G3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.121242,
+         "id": "1002045",
+         "field_search": "question",
+         "question": "Cho hỏi quên mật khẩu samsung j7 pro phải làm sao khẩn cấp.chỉ dùm với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

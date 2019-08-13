@@ -1,0 +1,801 @@
+{
+   "id_query": "751911",
+   "total": 27795,
+   "total_current": 100,
+   "max_score": 70.61153,
+   "origin_question": " Có thể under 9.1 xuống 9.0.2 để jeibreak được hay không đối với iphone 5 ? ",
+   "hits": [
+      {
+         "score": 30.265234,
+         "id": "740362",
+         "field_search": "question",
+         "question": " Có thể hạ cấp IOS 9.1 xuống IOS 9.0.2 để Jaibreak được không a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.094158,
+         "id": "801680",
+         "field_search": "question",
+         "question": " cho em hỏi iPhone 5 iOS 9.1 có thể hạ cấp về 9.0.2 hay gì đó không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.678041,
+         "id": "728169",
+         "field_search": "question",
+         "question": " Mình nâng cấp lên iOS 9.1 bây giờ mình muốn hạ xuống iOS 9.0.2 có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.654806,
+         "id": "769682",
+         "field_search": "question",
+         "question": " Cho hỏi Thế giới di động có hạ cấp được iOS 9.1 xuống 9.0.2 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.703388,
+         "id": "743562",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng iPhone 5. Vừa qua mình lên bản iOS 9.1 giờ mình muốn xuống bản 9.0.2. Không biết bên bạn có hỗ trợ điều này không ạ ???Mong nhận được sự hồi đáp rõ ràng từ các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.562622,
+         "id": "804940",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.1 có thể jailbreak được chưa. Nếu không được thì có thể hạ xuống iOS 8. để jb không. Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.442286,
+         "id": "795717",
+         "field_search": "question",
+         "question": " Anh cho em hỏi iphone 5 lock em đang dùng bản 9.1 không có phần hospot em thì lên bản 9.0.2 có phần hospot không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.982239,
+         "id": "803117",
+         "field_search": "question",
+         "question": " Đối với iPhone 3 thì làm như thế nào ??? Có thể trả lời gấp được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.927057,
+         "id": "987722",
+         "field_search": "question",
+         "question": "cho em hỏi, đối với iphone 5 bản sách tay có cách để tắt âm chụp hình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.555183,
+         "id": "768475",
+         "field_search": "question",
+         "question": " Thưa qtv có thể hạ ios 9.2 xuống 9.1 được không? thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.380157,
+         "id": "796324",
+         "field_search": "question",
+         "question": " Xin chào Ad cho mình hỏi iPhone 5 lock của mình bây giờ xuống bản nào thi xuống được mình đang dùng bản 9.1 thanks? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369831,
+         "id": "747098",
+         "field_search": "question",
+         "question": " e mới lên ios9.1 .. vậy có hạ được xuống ios 9.0.2 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.102757,
+         "id": "810284",
+         "field_search": "question",
+         "question": " Anh chị ơi. Cho em hỏi bây giờ có thể hạ ios 9.3 xuống 9.1 được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.515034,
+         "id": "773806",
+         "field_search": "question",
+         "question": "Mình có đang dùng iPhone 5S và chạy iOS 9.1 nhiều lúc máy khá là giật, mình không biết do máy của mình có virus hay tại chạy iOS 9.1.nếu do iOS 9.1 thì mình có nên hạ xuống 8.4 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.494616,
+         "id": "777306",
+         "field_search": "question",
+         "question": " Ad ơi mình dùng iphone 5s bản lock 64g ios 9.2 có hạ xuống 9.1 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.476685,
+         "id": "755839",
+         "field_search": "question",
+         "question": " iOS 9.1 có thể hạ được không ad ơi e muốn hạ xuống và jailbreak dùng bản này chán lắm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.127104,
+         "id": "752932",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại điện thoại em là dòng iPhone 5. Bây giờ em muốn gỡ phần mềm từ 9.1 xuống 8.3 hoặc 8.4 có được không ạ? Với lại diệt virus. Điện thoại em thường xuyên bị đứng trượt mở nguồn không qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.01621,
+         "id": "757610",
+         "field_search": "question",
+         "question": "Chào anh chị ạ. Máy của em là iPhone 5. Giờ em chót lên phiên bản 9.1, giờ e muốn máy em xuống phiên bản 8.4.1 được không ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.943438,
+         "id": "800163",
+         "field_search": "question",
+         "question": " Thế giới di động mình có xuống phần mềm 9.1 không ạ .e nỡ nâng điện thoại iPhone 4s lên 9.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.811193,
+         "id": "786593",
+         "field_search": "question",
+         "question": " Ad oi cho em hỏi. em đang xài ios 9.2.1 muốn hạ xuống 9.0.2 có được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.592619,
+         "id": "746880",
+         "field_search": "question",
+         "question": "Quản trị viên cho mình hỏi, dùng iPhone 4S nhưng mình đã nâng cấp lên iOS 9.1 thì giờ mình có thể hạ xuống 8.4 không? Nếu được thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.534864,
+         "id": "749124",
+         "field_search": "question",
+         "question": " Cho em hỏi e đang dùng Iphone 5s IOS 9.1  giờ em muốn hạ xuống IOS 8.4 có được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.198345,
+         "id": "744279",
+         "field_search": "question",
+         "question": "Chào Ad, Ad cho em hỏi tý được không ạ? Em đang dùng iPhone 4S vừa rồi em có lên phiên bản iOS 9.0.2 mà máy chạy chậm lắm ạ.Bên TGDĐ mình có thể hạ cấp iOS cho em xuống 8.4 được không ạ? Em xin cảm on ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.113827,
+         "id": "786197",
+         "field_search": "question",
+         "question": " ad ơi ad có thể jailbreak cái máy iPhone 4s 16gb ios 9.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.90978,
+         "id": "756115",
+         "field_search": "question",
+         "question": " Cho em hỏi ip5s phù hợp với ios mấy vậy ạ. Và khi nâng cấp lên 9.1 thì có hạ xuống được không ạEm cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.902924,
+         "id": "771489",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s để iOS 9.1 hay update lên 9.2? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.888835,
+         "id": "918063",
+         "field_search": "question",
+         "question": " ios 10.1.1 có về được 9.0.2 khôngmình đang sài iphone 5 muốn về ios 9.0.2 để jb ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8260565,
+         "id": "780920",
+         "field_search": "question",
+         "question": " Khuyến mãi đối với IPhone 6s là 1.500.000đ, khi mua có được trừ thẳng vô giá máy không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.742617,
+         "id": "756308",
+         "field_search": "question",
+         "question": " Cách để kích pin iPhone 5 khi không sạc vào được có thể làm ở nhà được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.620266,
+         "id": "756237",
+         "field_search": "question",
+         "question": "IPad mini 2 đang chạy iOS 9.0.2, h mình muốn xuống iOS 8.4.1 để chạy mượt hơn có được không và 8.4.1 đã có đa nhiệm chưa. Mong sớm hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.604031,
+         "id": "767511",
+         "field_search": "question",
+         "question": " iPhone 4s của em đang ở phiên bản 9.0.2 có thể hạ xuốg 8.4.1 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.445202,
+         "id": "785259",
+         "field_search": "question",
+         "question": " cho mình hỏi là bạn có nhận ha từ IOS 9.2 xuống IOS 9.0.2 không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.439412,
+         "id": "797860",
+         "field_search": "question",
+         "question": " E có điện thoại iPhone 5s muốn kiểm tra hàng chính hàng hay không ad có thể giúp e với 35 799405 720140 5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.424008,
+         "id": "752004",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi iphone 6 của tôi đang ở ios 9.1, hiện tôi muốn hạ phiên bản có được không, và hạ được xuống ios nào, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.346487,
+         "id": "750849",
+         "field_search": "question",
+         "question": "Mình xài iPhone 5 bản quốc tế. Mình mới vừa cập nhật lên iOS 9.1. Để hoàn tất cập nhật mình phải đăng nhập ID. Nhưng đt cứ báo không thể đăng nhập, giờ điện thoại mình không thể sử dụng được, mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.266397,
+         "id": "785574",
+         "field_search": "question",
+         "question": "Nâng cấp lên ios 9.0.2 máy iphone 5 thành công được một lúc thì bị xanh màn hình rồi tự động khởi động lại vẫn bị xanh màn hình có thể chỉ mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.23778,
+         "id": "795400",
+         "field_search": "question",
+         "question": "QTV cho e hỏi ạ. E đang dùng iPhone 4s, e chót lỡ lên IOS 9.1 . Máy dùng dơ với giật quá ạ. Giờ e muốn hạ xuống IOS 7.1 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.129206,
+         "id": "768508",
+         "field_search": "question",
+         "question": " Cho em hỏi ios 9.2 xuống được ios 9.1 không ạ? Thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.993283,
+         "id": "1008203",
+         "field_search": "question",
+         "question": "Làm sao để cài đặt thẻ SD làm nơi lưu trữ mặc định đối với điện thoại meizu m5 ? Có thể chuyển một số dữ liệu ứng dụng vào thẻ nhớ được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.977902,
+         "id": "786451",
+         "field_search": "question",
+         "question": " TGDĐ có cài được jaibreak Iphone 5s hỗ trợ IOS 9.1 không ạ có thì ad liên lạc với em nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.873146,
+         "id": "767190",
+         "field_search": "question",
+         "question": " Hiện tại em dùng iphone 5 bản lock, nâng cấp lên 9.0.2 bị lỗi danh bạ, liệu bây giờ hạ xuông 8.4.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.869181,
+         "id": "753883",
+         "field_search": "question",
+         "question": "  Sao mình tải itunes về rồi mà không nhận iPhone? Mình xài iphone 5 ios 9.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.838475,
+         "id": "999097",
+         "field_search": "question",
+         "question": "Đối với người đã chặn tôi trên instagram, tôi có thể nhắn tin cho họ không? Nếu có, họ có thể thấy tin nhắn của tôi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.76903,
+         "id": "835793",
+         "field_search": "question",
+         "question": " iPhone 5 Quốc Tế 16GB...ios 9.3.2 xuống 9.3 trở xuống được không...ios 9.3.2 có phiên bản jb chưa ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.661903,
+         "id": "754835",
+         "field_search": "question",
+         "question": "Ipad mini 2 wifi 16g của mình chạy không được mượt và có dấu hiệu chậm, đơ màn hình khi chạy đa nhiệm. Vậy mình có nên lên iOS 9.1 hay cần hạ xuống 8.4.1 để máy hoạt động nhanh và hiệu quả nhất? Mong sớm được hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65604,
+         "id": "756403",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5 lên IOS 9.1 có phải là làm cho Camera chính và phụ không được rõ nét và bị hơi mờ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.425082,
+         "id": "811456",
+         "field_search": "question",
+         "question": " Sao iphone 4S 9.0.2 chạy Manga Go có 66MB hay bị thoát ứng dụng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.381698,
+         "id": "815386",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để hạ cấp ios 9.2 xuống 9.1? Cám ơn mọi người trước... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.240367,
+         "id": "773021",
+         "field_search": "question",
+         "question": " Iphone 5s còn bản quốc tế 16g hay Nhật vậy ạ? Với có thể chỉ em cách Test iphone được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2122555,
+         "id": "1163058",
+         "field_search": "question",
+         "question": "Ss a7 2018 bị rơi xuống nước và không thể bật kết nối WiFi hay là Bluetooth ad giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.166304,
+         "id": "748122",
+         "field_search": "question",
+         "question": "mấy anh chị cho e hỏi bên mình có thể up io9.1 xuống ios 9.0 hay 8.4 k, để em cài cydia , hay bên thế giới di động mjnh có thể cài cydia cho phiên bản 9.1 k vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.15517,
+         "id": "750367",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em update lên ios 9.1 giờ em muốn xuống ios 8 thì có xuống được không và có phải jailbreak không ạ em rất muốn xuống ios 8 nhưng em không muốn jailbreak em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.087424,
+         "id": "771222",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có thể hạ từ ios 8 xuống 7.1 được không ạ! Bởi vì em không hài lòng với ios 8 nếu có thể hạ xuống 6.1.3 cũng được mong chờ phản hồi từ anh chị ?​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.005824,
+         "id": "777198",
+         "field_search": "question",
+         "question": " Cửa hàng có thể hạ cấp iphone 4 ios 7.1.2 xuống 6.1.2 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.967764,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.939523,
+         "id": "786288",
+         "field_search": "question",
+         "question": " Ad cho em hởi là cửa hàng có hỗ trợ hạ iOS 9.1 xuống 8.4 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.92617,
+         "id": "846288",
+         "field_search": "question",
+         "question": " AD ơi iphone 5 có chơi được gta 5 ko ạ nhưng em không biết tải hay không chơi được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.895066,
+         "id": "842787",
+         "field_search": "question",
+         "question": "Cho e hỏi . Em đang dùng iphone 4s và hệ đêu hành ios 9.1 . Nhưng máy có hiện tương giật màn hình khi sử dụng ios 9.1 !!! Vậy e muốn hạ xuống ios 8.4 có được không ạ ??? Và nếu hạ được mất bao nhiêu tiền ạ !!! Mong ac giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.764056,
+         "id": "878321",
+         "field_search": "question",
+         "question": " iPhone 5 lỡ ắp OTA lên 9.3.4 liệu có xuống 8.4.1 được ko các bác  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.709458,
+         "id": "923386",
+         "field_search": "question",
+         "question": " E muốn hạ ios 10.1.1 xuống 10.0.2 được không ạ. Em dùng iphone 5 bản 16g ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.703886,
+         "id": "834031",
+         "field_search": "question",
+         "question": " e dùng iphone 5s 16g ios 9.3.1 e có thể hạ ios xuống 9.2.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.641955,
+         "id": "1143885",
+         "field_search": "question",
+         "question": "Máy iphone 5 nhà mình mới được tặng mà bị khóa iCloud mà không biết tài khoản mật khẩu và không thể liên lạc được với chủ máy, bên bạn có thể bẻ khóa iCloud giúp mình được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.604411,
+         "id": "774267",
+         "field_search": "question",
+         "question": " iOS 9.1 Jailbreak chưa ạ, có thể về 6.1.3 được chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.576197,
+         "id": "775633",
+         "field_search": "question",
+         "question": "Ad cho hỏi camera bi vậy là sao?.....khi đăt lại iphone thì sd binh thường..nhưng hay tái phát...có cách nào trị triệt để không vậy máy iphone 5 với ios 9.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.550432,
+         "id": "766525",
+         "field_search": "question",
+         "question": " Em đang có iPhone 5s hệ điều hành iOS 9.1 giờ em muốn hạ xuống iOS 8.4 thì làm cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.529255,
+         "id": "769853",
+         "field_search": "question",
+         "question": " Tại sao trong iPhone 5 lock 9.1 không tìm thấy mục cấu hình ở cài đặt chung ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.512824,
+         "id": "858734",
+         "field_search": "question",
+         "question": " ngoại tuyến không khả dụng đối với 1 số video trên youtube vậy làm sao để khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.498452,
+         "id": "756355",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi em iPhone 5 16gb em đã lên ios 9.1 vậy em có nên lên ios 9.2 không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.425415,
+         "id": "811517",
+         "field_search": "question",
+         "question": " Hạ cấp từ iOS 9.2.1 xuống 9.1 sau đó jaibreak được không ad...Liên lạc vào mail cho e nha Thanks adKienvi007gmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.374925,
+         "id": "785055",
+         "field_search": "question",
+         "question": " Cho em hỏi pin iphone 5 bị hư có thể thay pin được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.355221,
+         "id": "755148",
+         "field_search": "question",
+         "question": " Máy mình đang ở iOS 9.1 mình muốn hạ cấp xuống 9.01 hoặc thấp hơn có được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.313599,
+         "id": "767246",
+         "field_search": "question",
+         "question": " Cho em hỏi em đang sài iphone 5 lỡ lên ios 9.2 giờ có hạ xuống dùm em 7.1.2 được không a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.303409,
+         "id": "768843",
+         "field_search": "question",
+         "question": "iphone 5S mình mới mua (like new) được 1 tuần, bản 16Gb. Thỉnh thoảng chơi game (shadow fight) thì máy đứng, bàn phím thì không bấm số được. Nhưng có thể nhận cuộc gọi tới được. Mọi người cho xin ý kiến với. PS: mình vẫn chưa nâng cấp lên ios 9.0.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.279645,
+         "id": "780958",
+         "field_search": "question",
+         "question": " Em đang có con iPhone 5 lock mang từ nhật về .Em có thể đem ra cửa hàng để cập nhật ios mới nhất được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.27317,
+         "id": "785052",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5 bị hư pin có thể thay pin được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.2621155,
+         "id": "846745",
+         "field_search": "question",
+         "question": " cách nào để cài nhạc chuông iphone 5 bằng mp3tôi không thể làm được mong chỉ giúp tôi cảm ơi nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.245193,
+         "id": "870524",
+         "field_search": "question",
+         "question": " Đối với laptop thì ram quan trọng hơn hay là tốc độ cpu quan trọng hơn vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.222258,
+         "id": "805996",
+         "field_search": "question",
+         "question": " em dùng iphone 4s ios 8.4.1 bây giờ có thể sử dụng ios 9.1 beta ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.188446,
+         "id": "793017",
+         "field_search": "question",
+         "question": " Win bị lỗi , em có thể đem xuống để bảo hành được không ạ , win đc cài sẵn khi mua máy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.128523,
+         "id": "799627",
+         "field_search": "question",
+         "question": " Ad cho e hỏi với.e muốn hạ cấp ios 9.2 xuống ios7.1 thì có hạ được không ạ.máy e là máy iPhone 5 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.10461,
+         "id": "742442",
+         "field_search": "question",
+         "question": " iOS 9.1 cài cydia được không vậy anh chị nếu cài được thi ở đâu có cài vậy chỉ em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.06076,
+         "id": "756081",
+         "field_search": "question",
+         "question": "  Cho mình hỏi iphone 6 có lên ios 9.0.2 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.004438,
+         "id": "1009133",
+         "field_search": "question",
+         "question": "mình muồn tắt chế độ này nhưng khi đang ở trong chế độ này mình không thể vuốt được xuống để chọn Khả năng truy cập xin hãy giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.992966,
+         "id": "770970",
+         "field_search": "question",
+         "question": " iPhone 4s dùng ios 8.4 có thể hạ xuống iOS 6 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.909107,
+         "id": "1162414",
+         "field_search": "question",
+         "question": "cho mình hỏi dùng pin IP 4S hay IP 4  thường có thể lấp vào IP 5 được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.88558,
+         "id": "785464",
+         "field_search": "question",
+         "question": " Nâng cấp lên ios 9.0.2 máy iphone 5 sử dụng bình thường một lúc nó bị lỗi màn hình xanh cứ khởi động lai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.811771,
+         "id": "1018140",
+         "field_search": "question",
+         "question": "cho em hỏi: em có đọc được thông tin là đối với điện thoại iphone 6 nhân dịp quốc khánh 2/9 có chương trình khuyến mãi 99k phải ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.800283,
+         "id": "800011",
+         "field_search": "question",
+         "question": " Cách mở khóa pin phải làm như thế nào đối với iPhone 3 thường nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.794666,
+         "id": "757025",
+         "field_search": "question",
+         "question": "Nếu có mã icloud và pass của iphone thì có thể đăng nhập vào máy tính hay iphone khác để xem được các nội dung của máy kia không ạ! Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.678392,
+         "id": "1140112",
+         "field_search": "question",
+         "question": "đối với sản phẩm\" \" giá 255000 vnđ , khi thanh toán bằng zalopay được giảm giá 50% thì trong ví zalopay của tôi cần 255000 vnđ hay 130000vnđ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.65527,
+         "id": "1163960",
+         "field_search": "question",
+         "question": "Mình đang sử dụng note9 hệ điều hành android 9.0 - nhưng nó hao pin rất nhiều so với bản cũ, hiện giờ mình muốn down xuống thành 8.0 thì IT bên TGDD có thể thực hiện được hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.6319475,
+         "id": "763617",
+         "field_search": "question",
+         "question": " AD ơi. Hiện giờ em đang dùng iPhone 5 chạy ios 9.1 mà giờ nó gửi em bản 9.2. Vậy em có nên nâng lên 9.2 không ạ...???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.586904,
+         "id": "759788",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình ở bình dươg vậy có cửa hàng nào của TGDĐ có cài Cydia cho iPhone 5 Lock iOS 9.1 không vậy nếu có cho mình địa chỉ nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.565362,
+         "id": "743905",
+         "field_search": "question",
+         "question": "Máy em là iPhone 5 Quốc tế, hiện máy em đang chạy iOS 8.2, em muốn lên 8.4.1 mà vô cập nhật phần mềm để 9.1  khong?? Ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.558171,
+         "id": "789220",
+         "field_search": "question",
+         "question": "Máy iphone 5 của em có imei là: 013409009983519. E không kiểm tra được máy có phải là chính hãng hay không, anh làm ơn kiểm tra giúp em với. Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.475339,
+         "id": "753020",
+         "field_search": "question",
+         "question": "  Cho mình hỏi có thể chuyển video từ thẻ nhớ của Oppo R1001 sang iPhone 5 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.4391165,
+         "id": "756271",
+         "field_search": "question",
+         "question": "  Ad ơi mình hỏi mình dùng iPhone 5S có nên lên iOS 9.0.2 không và gặp lỗi gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.436609,
+         "id": "874863",
+         "field_search": "question",
+         "question": " Iphone 5 dùng 16 chờ 31 xuống 89 có bị sao ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.378989,
+         "id": "781636",
+         "field_search": "question",
+         "question": "Tại sao zenfone 5 của mình. Gọi nói chiện bt nhưng khi gọi video ví dụ như tango line viber thì đối phương không nghe mình nói . ai biết chỉ mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

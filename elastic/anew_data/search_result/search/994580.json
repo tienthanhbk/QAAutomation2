@@ -1,0 +1,801 @@
+{
+   "id_query": "994580",
+   "total": 27186,
+   "total_current": 100,
+   "max_score": 54.772964,
+   "origin_question": " Mẹ e đang vay ngân hàng Mà giờ muốn mua điện thoại trả góp được ko?  ",
+   "hits": [
+      {
+         "score": 48.81834,
+         "id": "994588",
+         "field_search": "question",
+         "question": " Mẹ mình đang vay ngân hàng Mà giờ muốn mua đt trả góp được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.103998,
+         "id": "1020194",
+         "field_search": "question",
+         "question": "Hiện em đang vay bên ngân hàng FE . Em muốn mua trả góp laptop bên Home creit đc k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.227478,
+         "id": "1019840",
+         "field_search": "question",
+         "question": "ad cho em hỏi nếu em mua trả góp mà em vay tiền ngân hàng rồi có được mua không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.1213,
+         "id": "1169069",
+         "field_search": "question",
+         "question": "E đang trả góp chiếc samsung j4 mà giờ tôi muốn đổi điện thoại trả góp khác với chiếc j4 của tôi ko biết có được ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.84933,
+         "id": "1169084",
+         "field_search": "question",
+         "question": "E đang trả góp con samsung j4 mà giờ e muốn đổi lại con điện thoại khác có được ko anh chị ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.821033,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.353846,
+         "id": "1020196",
+         "field_search": "question",
+         "question": "Em đang vay bên ngân hàng FE thì có thể vay bên Home crit để trả góp tiếp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.34981,
+         "id": "1143110",
+         "field_search": "question",
+         "question": "cho mình hỏi? mình đang sử dụng thẻ masterCard ngân hàng Agribank thì có mua điện thoại trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.873852,
+         "id": "1148452",
+         "field_search": "question",
+         "question": "Bây giờ tôi muốn mua trả góp điện thoại huawei nova 3i qua ngân hàng home credit có cmnd và hộ khẩu thì có những khoảng trả góp như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.647385,
+         "id": "988714",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang mua trả góp điện thoại oppo F1s mới xài dc 1 tháng vậy giờ e muốn đổi lấy iphone 5s trả góp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.639027,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.530762,
+         "id": "1139728",
+         "field_search": "question",
+         "question": " E làm hồ sơ trả góp ngân hàng HD saigon mà kh duyệt . Vậy khi nào e mới được trả góp lại vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.454866,
+         "id": "1023412",
+         "field_search": "question",
+         "question": "ad ơi e mua đt trã góp đã trã hết như vậy ngân hàng có gọi điện thoại lại và giới thiệu vay lãi suất k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.34717,
+         "id": "1018293",
+         "field_search": "question",
+         "question": "cho em hỏi rằng 19 tuổi có trả góp điện thoại được không ạ ngân hàng HD saigon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.329973,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.123734,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.09631,
+         "id": "1024276",
+         "field_search": "question",
+         "question": "chồng em đang mua trả góp điện thoại thì giờ e có mua trả góp laptop được nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.988922,
+         "id": "1024114",
+         "field_search": "question",
+         "question": "em muốn hỏi, em đang trả góp bên fe creat được 4 tháng rồi giờ em muốn mua thêm trả góp bên ngân hàng khác có được không ạ, và giấy tờ em có bây giờ sổ hộ khẩu photo công chứng với chứng minh thư",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.90601,
+         "id": "1012991",
+         "field_search": "question",
+         "question": "cho em hỏi. em đang mua trả góp xe máy giờ e muốn mua trả góp điện thoại bên mình có dk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.76757,
+         "id": "1017054",
+         "field_search": "question",
+         "question": "Mẹ em muốn mua đt trả gópnhưng trước đó mẹ e có mua 1 cái trả góp rồi vẫn chưa trả xong nếu bây h muốn mua thêm 1c trả góp nữa liệu có được hỗ trợ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.599586,
+         "id": "986766",
+         "field_search": "question",
+         "question": "Tôi đang trả góp ngân hàng FE, nay tôi có thể mua trả góp đt A9 nữa đc k ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.551292,
+         "id": "1011871",
+         "field_search": "question",
+         "question": "E 19t có thể mua trả góp tại tgdd được không ạ. Và e có thể mua trả góp với ngân hàng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.550224,
+         "id": "1023585",
+         "field_search": "question",
+         "question": "Cho hỏi bây giờ mình muốn mua một cái điện thoại trả góp.  Mà mình ko lấy điện thoại mà mình lấy tiền mặt đk ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.229568,
+         "id": "1013332",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp. không đưa trước. tối muốn mua bằng hóa đơn tiền điện nhưng của ba mẹ tôi liệu có được không shop??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.186007,
+         "id": "1008633",
+         "field_search": "question",
+         "question": "Xin hỏi: tôi có mua trả góp ở thế giới di động . Thời gian góp là 8 tháng.  Hiện tôi đã góp được 4 tháng.  Tôi muốn vay tiền mặt của ngân hang có được ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.073322,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.668749,
+         "id": "1020584",
+         "field_search": "question",
+         "question": "mình cần giúp đỡ,trướ mình có mua trả góp điện thoại ở hai ngân hàng ,giờ mình đổi số điện thoại rồi,giờ mình muốn tìm số hợp đồng của hai ngân hàng ấy,nhưng k nhớ là ngân hàng nào,mình mong muốn bên bạn kiểm tra giúp mình để mình thanh toán với ạ.5  tháng rồi mình chưa đi thjanh toán, 187572122 ,tên :lê hoàng nam mỹ bảo anh.mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.65543,
+         "id": "1014249",
+         "field_search": "question",
+         "question": "ad cho e hỏi tối hum nay e có qua quán mua điện thoại nhưng em không cầm đủ tiền nên mua trả góp nhưng ngân hàng đóng cửa rồi nên em chưa lấy được máy nên cho em hỏi ngày mai nếu em không mua trả góp nữa mà trả hết tiền thì có được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.646486,
+         "id": "1141252",
+         "field_search": "question",
+         "question": "mình muốn trả góp điện thoại.....nhưng chưa đủ tuổi...mình có thể lấy cmnd của bố hoặc mẹ.....và sổ hộ khẩu gia đình đưa đến mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.636164,
+         "id": "986143",
+         "field_search": "question",
+         "question": "em mua trả góp điện thoại chưa được một tháng giờ em muốn đổi sang điện thoại khác cũng trả góp có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.607176,
+         "id": "1166745",
+         "field_search": "question",
+         "question": "Cho mình hỏi.tài khoản ví momo của mình ko có liên kết ngân hàng được mà giờ trong tài khoãn có tiền mà mình muốn nạp tiền vô tài khoản điện thoại mà ko được thì phải làm sao.mình đang ở ngoài đảo nên ko đi tới chỗ nào được mà giờ làm sao.số zalo mình 0912233640",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.536337,
+         "id": "1147117",
+         "field_search": "question",
+         "question": " E mua điện thoại a6 trả góp 12 tháng giờ e ko thích có thể trả lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.53493,
+         "id": "800690",
+         "field_search": "question",
+         "question": "Cho hỏi, mình có mua trả góp 1 cái iPhone 6S bên công ty tài chính là VP-Bank. Giờ mình đóng tiền trả góp trực tiếp tại ngân hàng mà ko cần phải tới TGDD or Điện máy xanh có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.439129,
+         "id": "1151875",
+         "field_search": "question",
+         "question": "Em đang trả góp điện thoại sam sung.. Hai tháng nữa là hết.. Giờ em muốn mua trả góp thêm 1 cái nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.22946,
+         "id": "1014433",
+         "field_search": "question",
+         "question": "e đang trả góp 1 cái điện thoại mà chưa hết thời gian trả góp. cho e hỏi nếu trong tháng này e trả hết tiền góp còn lại. sau đó e trả góp 1 cái điện thoại khác trong tháng này luôn có đc ko. tháng này e trả góp rồi và điện thoại hư nên e muốn trả hết tiền chiếc đt đó và góp cái đt mới khác.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.09294,
+         "id": "775612",
+         "field_search": "question",
+         "question": "Cho em ? Em muốn mua gói trả góp 0% iphone 5s mà e sn96 chưa đủ tuổi...bây giờ em lấy cmnd + hktt của mẹ em đăg kí được không ạ adđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.087173,
+         "id": "1167963",
+         "field_search": "question",
+         "question": "ngân hàng hỗ trợ trả góp đến mấy giờ toi vậy,tôi tính ra cửa hàng hiệp phước trả góp realme 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.871136,
+         "id": "988333",
+         "field_search": "question",
+         "question": "em định mua dt bên chị cho e cụ thể hơn về thông tin trả góp. các loại trả góp và các ngân hàng có thể trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.841679,
+         "id": "1146996",
+         "field_search": "question",
+         "question": "Cho e hỏi.  E daq có góp. 1 cái đt j7pro sắp xoq. Vs vay bên ngân. Hàng 10tr e có thể mua góp s9 dc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.818792,
+         "id": "1008316",
+         "field_search": "question",
+         "question": "Nếu e mua trả góp thì có thể trả qua ngân hàng không hay đến tận nơi để trả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.783823,
+         "id": "846765",
+         "field_search": "question",
+         "question": " AChị cho e hỏi là e muốn mua điện thoại iphone 6 cũ mà bên mình điện thoại cũ có bán trả góp ko ạ !! tks ac ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.747856,
+         "id": "1154585",
+         "field_search": "question",
+         "question": "E vừa mua trả góp điện thoại khoản 1 tháng giờ e muốn trả dứt tiền chiếc điện thoại đó vậy khi e trả xong hết rồi e co thể góp tiếp 1 chiếc đt khác được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.715343,
+         "id": "1008313",
+         "field_search": "question",
+         "question": "Nếu e mua trả góp thì có thể trả tiền qua ngân hàng địch không hay phải đến tận nơi để trả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.542942,
+         "id": "771356",
+         "field_search": "question",
+         "question": " Mình mua trả góp điện thoại iphone 6s trả được 4 tháng giờ mình muốn mua tiếp có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.303535,
+         "id": "1011928",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao tôi phải thanh toán trả góp ở ngân hàng và bưu điện mà k phải ở tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.279863,
+         "id": "1164523",
+         "field_search": "question",
+         "question": "cho em hỏi là khi em muốn trả góp một chiếc điện thoại thì khi em muốn đóng tiền em sẽ đến cửa hàng đóng hay sẽ chuyển tiền qua thẻ ngân hàng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.205599,
+         "id": "1021789",
+         "field_search": "question",
+         "question": "em sinh ngày 951998.vay em có thể mua điện thoại trả góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.204437,
+         "id": "1007031",
+         "field_search": "question",
+         "question": "Em mua trả góp điện thoại ở tgdd và giờ đã trả xong, samsung A5 (2017) của e đã sử dụng được 4 tháng, e muốn bán lại điện thoại được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.065468,
+         "id": "1161769",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi em mua điện thoại realme c1 trả góp của ngân hàng fc , tháng này là tháng đầu tiên mà do công việc nên góp chậm 6 ngày, mà trong 6 ngày này có ngày chủ nhật ngân hàng không làm việc , vậy em có được tính là trễ hẹn 5 ngày không, có nộp phạt không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.063753,
+         "id": "1020113",
+         "field_search": "question",
+         "question": "Mình bữa mua máy điện thoại oppo f3 trả góp giờ mình muốn bán lại đk ko shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.004139,
+         "id": "1147847",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc trước mình đã có trả góp 1 chiếc xe và đã trả xong. Thì mình bây giờ muốn 1 điện thoại trả góp có cần sổ hộ khẩu khi mua hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96151,
+         "id": "1005329",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại trả góp,nhưng mà trong gói trả góp có phí bảo hiểm.mình có thể mua điện thoại trả góp nhưng không mua bảo hiểm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.93629,
+         "id": "1005114",
+         "field_search": "question",
+         "question": "cho hỏi mình có mua trả góp nhưng lâu mình không trả vì không có điều kiện , mình mới trả hết bên ngân hàng khoảng 1 tháng trước . bây giờ mình có thể mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.900928,
+         "id": "1004400",
+         "field_search": "question",
+         "question": "em đã trả góp 1 chiếc điện thoại thì bây giờ em muốn trả góp thêm 1 chiếc điện thoại khác có được không ạ!! mà cùng 1 người đứng tên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848986,
+         "id": "995738",
+         "field_search": "question",
+         "question": "E hiện chưa đủ tuổi để mua trả góp. E muốn nhờ mẹ đk hồ sơ nhưng mẹ e không có bằng lái. Vậy có thể dùng bằng lái xe của em được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.68415,
+         "id": "998505",
+         "field_search": "question",
+         "question": "cho e hỏi, e muốn mua góp điện thoại C9 Pro trả trước 30 k biết bên FE CREDIT có hổ trợ cho vay k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.435823,
+         "id": "1015443",
+         "field_search": "question",
+         "question": "mình vay tiền ngân hàng qua mạng đến khi nhập mã captcha sao ko nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.419022,
+         "id": "1023271",
+         "field_search": "question",
+         "question": "chào TGDĐ cho e hỏi .em đã mua trả góp 1 sản phẩm rồi mà bây giờ e muốn trả góp lần nữa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.401709,
+         "id": "1006848",
+         "field_search": "question",
+         "question": "có thể cho mình biết thủ tục và số % góp của các ngân hàng mà cửa hàng hỗ trợ trả góp để mình tham khỏa được không ạ!thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.349453,
+         "id": "991829",
+         "field_search": "question",
+         "question": "E mới trả góp con điện thoại. Đến tháng e muốn trả góp hàng tháng muộn 1 hoặc 2 ngày được không ạ.vì lý do khách quan.e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.285381,
+         "id": "1140561",
+         "field_search": "question",
+         "question": "Giờ em đang góp 1 chiếc điện thoại Sony mà còn khoảng 2 tháng nữa là góp xong bây giờ em muốn mua góp thêm 1 chiếc liệu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.272692,
+         "id": "1004989",
+         "field_search": "question",
+         "question": "Hôm nay là ngày đóng hạn trả góp mà e tìm ko đc phiếu mua hàng, giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.269663,
+         "id": "1009090",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi là ví dụ em xét duyệt hồ sơ trả góp qua điện thoại vào buổi sáng ngân hàng đã duyệt thì tối em ghé cửa hàng tgdd làm hồ sơ trả góp luôn đc ko..hay xét duyệt xong rồi phải đến liền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.242723,
+         "id": "1017553",
+         "field_search": "question",
+         "question": "cho e hỏi e dc ngân hàng fe credic cho vai thẻ atm 7triêu e muốn mua j7 pro thì mỗi tháng e phải góp lại bao nhiu cho ngân hàng z adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.231855,
+         "id": "1014009",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss 2preim giá 2tr690...do bây giờ em ko muốn xài nữa nên có thể trả hàng hoàn tiền lại được ko ạ ... điện thoại em mua được tầm 1 tháng rữi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.13414,
+         "id": "1020765",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp. Rồi bán lại cho cửa hàng là bao nhiu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.066513,
+         "id": "1167439",
+         "field_search": "question",
+         "question": "Mình mua trả góp qua thẻ ngân hàng thì làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.057287,
+         "id": "1139350",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp. Nhưng sổ hộ khẩu hiện đang ở dưới quêTôi chụp hình sổ hộ khẩu để mua trả góp Được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.054436,
+         "id": "995060",
+         "field_search": "question",
+         "question": "E muốn mua máy củ mà e cần trả góp vì e ở xa nếu trả góp e có cần đến cửa hàng để trả tiền k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.045362,
+         "id": "994591",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp 2 cái điện thoại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.971237,
+         "id": "1013508",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua trả góp điện thoại và giờ là đợt trả cuối cùng. Tự nhiên có số điện thoại lạ gọi cho e từ công ty tài chính gì đó. keu cho vay tiền. Và cung cấp thông tin giống với thông tin ở TGDĐ . ? liệu công ty này có phải lừa đảo hay k. E cũng đang có nhu cầu vay??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.958971,
+         "id": "1159561",
+         "field_search": "question",
+         "question": "tôi muốn mua máy điện thoại note 8 trả góp hàng tháng 1,5t thì cần gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.942448,
+         "id": "1165103",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e mới mua con ip 6s plus. Mà còn trả góp 2 tháng nữa. Nhưng bây giờ em muốn lên đổi 6s plus lấy con 7 plus trả góp tiếp thì có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.887384,
+         "id": "1011253",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài điện thoại zenfone 2 mua tại cửa hàng , bây giờ em muốn bán lại để đổi điện thoại mới có dc ko ( điện thoại em mua được 2 năm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.846,
+         "id": "1020435",
+         "field_search": "question",
+         "question": "Đang góp tiền ngân hàng có thể mua thêm sản phẩm khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.814053,
+         "id": "992647",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi, chị em đang mua điện thoại trả góp, vậy có đứng tên mua được điện thoại trả góp nửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.80983,
+         "id": "986140",
+         "field_search": "question",
+         "question": "Em có đang mua trả góp. Bây giờ muốn mua thêm có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.78119,
+         "id": "1158722",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại trả góp tại của hàng thì mình cần thủ tục gì .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.717443,
+         "id": "999854",
+         "field_search": "question",
+         "question": "dạ chào ad ạ e có mua trả góp bên thế giớ di động nhưng e bị mất máy giờ e muốn mua trả góp nữa được ko ạ e vẫn trả tiền đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.601234,
+         "id": "767990",
+         "field_search": "question",
+         "question": "Xin lỗi đã làm phiền!!Làm ơn cho em hỏi về việc trả góp iPhone 5s ạ: Em trả góp theo hình thức là \"sinh viên\" và em cần hỏi là chỉ cần có cmnd người bảo lãnh ( trong trường hợp này là mẹ em ) hay bên ngân hàng có liên lạc về cho mẹ để thông báo không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.579617,
+         "id": "1155605",
+         "field_search": "question",
+         "question": "bữa em có đặt trước 1 điện thoại samsung A50. Em mua theo phương thức vay trả góp. giờ em qua bên cửa hàng đặt cọc cần mang theo giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.576834,
+         "id": "749340",
+         "field_search": "question",
+         "question": "Anh cho em hỏi ? Trước đây em có đứng tên để mua cho 1 người quen chiếc điện thoại trả góp ,trong thời gian trả góp đó ,bạn của em đã đóng chậm ngân hàng 2,3 tháng và đến nay cũng đã hoàn tất xong xuôi cho ngân hàng và ngân hàng cho em vào danh sách nợ xấu . Vậy bây giờ muốn mua 1 chiếc iPhone 6s ở bên mình ,ở bên mình có hỗ trợ giúp em mua được máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.554703,
+         "id": "1139796",
+         "field_search": "question",
+         "question": " e hoi giờ e muốn mua DT trả góp ..Ad tư vấn giúp e dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.55238,
+         "id": "1166533",
+         "field_search": "question",
+         "question": "Hàng mua trả góp nhưng em không thích xài dòng này giờ e muốn đổi lại dòng khác dược ko ạ .mất 20 đúng ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.55023,
+         "id": "1142645",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang mua góp xe bên home fecredit . Giờ mình muốn mua góp thêm điện thoại có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.522324,
+         "id": "1161114",
+         "field_search": "question",
+         "question": "cho e hỏi tý . e muốn mua trả góp mà ko đủ giấy tờ e chụp hình mang qua được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.468594,
+         "id": "1014127",
+         "field_search": "question",
+         "question": "em có mua trả góp điện thoại hết 1 lần và trả xong rồi. vậy cho em muốn mua thêm cái điện thoại nữa có cần chụp hình, và làm thủ tục vay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.466352,
+         "id": "1145701",
+         "field_search": "question",
+         "question": "QTV !! E Xin hỏi, e sinh 1999 e muốn trả góp ĐT OPPO F9 của Ngân hàng FE 0đ thời gian 9 tháng. E có CMND+Hộ chiếu+hóa đơn WIFI Viettel e đứng tên+Hộ Khẩu. Vậy thì e đã đủ điều kiên làm hợp đồng vay trả chưa ạ. Thân !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.410877,
+         "id": "1162604",
+         "field_search": "question",
+         "question": "tư vấn dùm em với ạ...hiện tại em đang trả góp 2 cái đt mà giờ em muốn mua trả góp thêm 1 cái nữa có được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.326042,
+         "id": "1019637",
+         "field_search": "question",
+         "question": "Em vừa mua trả góp 1 cái Nokia 5 chưa dùng xong 1 tháng bây giờ muốn trả lại điện thoại có được không vậy .. .?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.292349,
+         "id": "1008119",
+         "field_search": "question",
+         "question": "bên mình cho e số tài khoản ngân hàng agribank của FE CREDIT để e đóng tiền trả góp đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.273716,
+         "id": "1004826",
+         "field_search": "question",
+         "question": "Mình muốn hỏi giờ mua điện thoại trả góp bằng cmnd cũ và bằng lái xe cũ chưa chuyển đổi đk ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.259178,
+         "id": "1163007",
+         "field_search": "question",
+         "question": "Xin chào, e muốn mua trả góp điện thoại, và muốn cách thức làm thủ tục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.16247,
+         "id": "1007348",
+         "field_search": "question",
+         "question": "mình vừa mua trả góp ngày 27/7 điện thoại NOKIA 3 trị giá 3triệu đồng mình trả góp được 1,5triệu bây giờ mình muốn trả máy lại thì mất bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.130564,
+         "id": "1020169",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn mua điện thoại vivo v5 trả góp thì trả trước bao nhiêu và góp mấy tháng ah  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.073217,
+         "id": "1020592",
+         "field_search": "question",
+         "question": "shop cho mình hỏi, mình đang muốn mua note 8 bằng hình thức trả góp 0% thông qua thẻ tín dụng, không biết là TGDD liên kết với thẻ của các ngân hàng nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.043573,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.993895,
+         "id": "1159486",
+         "field_search": "question",
+         "question": "Xin chào Shop. Hiện mình muốn mua samsung note 8 mới. Mình thấy có chương trình trả góp 0% qua thẻ ngân hàng, thời hạn trong 12 tháng. Mình muốn biết số tiền cần trả trước là bao nhiêu, hàng tháng góp bao nhiêu và số tiền góp hàng tháng thông qua thẻ hay tiền mặt. Mong được phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.968754,
+         "id": "1022394",
+         "field_search": "question",
+         "question": "Cho hỏi mình muốn mua điện thoại trả góp mà chỉ có chứng minh thư với hộ khẩu được k",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1142985",
+   "total": 21492,
+   "total_current": 100,
+   "max_score": 42.75672,
+   "origin_question": "Tôi muốn mở khóa màn hình điện thoại Lenovo phải làm thế nào",
+   "hits": [
+      {
+         "score": 33.0661,
+         "id": "1142041",
+         "field_search": "question",
+         "question": "Tôi có một chiếc điện thoại mobell bị khóa mật khẩu màn hình . Giờ tôi muốn phá mật khẩu mở màn hình tôi phải làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.829008,
+         "id": "813911",
+         "field_search": "question",
+         "question": "Tôi có mua 1 chiếc điện thoại iPhone 4S của 1 người lạ nhưng quên không bảo mở khóa màn hình icloud giờ như máy mở hình vậy giờ tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.323261,
+         "id": "1004046",
+         "field_search": "question",
+         "question": "IPhone5s không mở khóa màn hình được Phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.054451,
+         "id": "1153929",
+         "field_search": "question",
+         "question": "Làm thế nào để chụp ảnh màn hình trên điện thoại lenovo vaiber k5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.057842,
+         "id": "766952",
+         "field_search": "question",
+         "question": "Cho tôi hỏi iPhone 3 của tôi không gạt mở khóa màn hình được, dù tôi đã khởi động lại điện thoại, nguyên nhân làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.439297,
+         "id": "1014516",
+         "field_search": "question",
+         "question": "Điện thoại Lenovo cuả tôi đã hết bảo hành , tôi muốn thay pin chính hãng cuả Lenovo thì phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.577297,
+         "id": "996949",
+         "field_search": "question",
+         "question": "Làm thế nào mở khoá iphon khi bị vô hiệu hoá màn hình điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.570448,
+         "id": "999426",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi:Hiện nay tôi đang sử dụng điện thoại Samsung s8, chức năng mở khóa màn hình bằng vân tay hoặc bằng khuôn mặt hoặc bằng móng mắt đã cài xong. Nhưng khi bật điện thoại thì nó cứ yêu cầu vẽ mẫu hình (mẫu hình đã đăng ký ở máy), có khi thì có nhận diện khuôn mặt. Tôi muốn là khi nào điện thoại cũng phải mở khóa theo yêu cầu nhận diện khuôn mặt hoặc song song cả hai cách như một số video giới thiệu. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.116432,
+         "id": "804763",
+         "field_search": "question",
+         "question": " Tôi bị khóa tài khoản ID của máy iPhone 6S Plus giờ phải làm thế nào và làm cách nào để mở khóa học tạo tài khoản mới? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.062578,
+         "id": "1159763",
+         "field_search": "question",
+         "question": "Mình dùng galaxy tab e 9.6 nhưng mình không thể mở khóa màn hình vì bàn phím samsung tự động dừng. Mình đã khởi động lại máy nhưng ko khắc phục đc. Cho em hỏi làm thế nào để mở khóa màn hình mà ko cần xóa dữ liệu điện thoại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5983,
+         "id": "1148770",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại huawei no 3i bị khóa bố cục màn hình chính làm thế nào để gỡ bỏ được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.553846,
+         "id": "1169194",
+         "field_search": "question",
+         "question": "Ad cho tôi hỏi làm thế nào để tắt mật khẩu màn hình khóa oppo f1 plus ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.217716,
+         "id": "996537",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính nhưng phần cài đặt đã bị vô hiệu hóa tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.217716,
+         "id": "996535",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính, nhưng phần cài đặt đã bị vô hiệu hóa, tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.127258,
+         "id": "768961",
+         "field_search": "question",
+         "question": "Điện thoại tôi màn hình đang hiển thị Samsung GALAXY Xin chào mừng mà tôi không thoát ra được vậy tôi phải làm thế nào để sử dụng được các chức năng khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.984827,
+         "id": "780718",
+         "field_search": "question",
+         "question": " mình bị khóa màn hình Galaxy Note 5, làm cách nào có thể mở lại màn hình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.628763,
+         "id": "1002733",
+         "field_search": "question",
+         "question": "Làm thế nào để xóa được màn hình khóa này để chuyển qua tạp chí màn hình khóa .Oppo f1s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.625448,
+         "id": "820090",
+         "field_search": "question",
+         "question": " Máy của tôi bị khóa màn hình mà tôi quên mật khẩu vuốt thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.520096,
+         "id": "772259",
+         "field_search": "question",
+         "question": " Làm sao để màn hình Lenovo A5000 sáng khi gọi điện thoại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.315262,
+         "id": "1161142",
+         "field_search": "question",
+         "question": "mình dùng Huawei 3e, muốn bỏ tắt màn hình khi sử dụng điện thoại thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.312117,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26963,
+         "id": "1023260",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi để điện thoại ở chế độ khóa mà muốn hiển thị thời gian thì phải làm thế nào vậy.mình dùng j7prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.223549,
+         "id": "849951",
+         "field_search": "question",
+         "question": " Mình muốn đổi màu chữ ở màn hình khóa oppo F1thành màu đen thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.212492,
+         "id": "1149295",
+         "field_search": "question",
+         "question": "Samsung j3 không cài được vuốt màn hình để mở khóa. Phải làm sao ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.207693,
+         "id": "917873",
+         "field_search": "question",
+         "question": "tôi quên mật khẩu mở khóa ip5s của mình thì giờ tôi phải làm thế nào để khắc phục được lỗi nói trên? xin hãy giúp tôi! tôi xin cảm ơn1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.078768,
+         "id": "997577",
+         "field_search": "question",
+         "question": "Cho tôi hỏi làm sao để khóa màn hình bằng dấu vân tay mà ko cần mật khẩu ạ bởi vì khi tôi tắt tính năng mật khẩu thì khóa vân tay cũng mất luôn. Vậy mình cần phải làm gì ạ? Điện thoại oppo f3 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.006733,
+         "id": "592821",
+         "field_search": "question",
+         "question": " Tôi xóa mất biểu tượng trên màn hình. Để khôi phục lại phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.932856,
+         "id": "792762",
+         "field_search": "question",
+         "question": " Asus Zenfone Go muốn thay đổi màn hình khóa riêng , màn hình chính riêng phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.837305,
+         "id": "1147613",
+         "field_search": "question",
+         "question": "Tôi muốn  Tắt biểu tượng camera ngoài màn hình khóa của Oppo F9 thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623272,
+         "id": "813546",
+         "field_search": "question",
+         "question": " tạo mật khẩu khóa màn hình iPhone 6 thì phải thao tác thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.61929,
+         "id": "1147677",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung j5 prime, mình hỏi vì sao trong khi gọi điện thoại bị khóa màn hình. Mình phải chạm 2 lần mới mở khóa. Trước kia, k có như z.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.551874,
+         "id": "911953",
+         "field_search": "question",
+         "question": " làm thế nào để bẻ khóa icloud khi bị lock màn hình vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.505697,
+         "id": "1007753",
+         "field_search": "question",
+         "question": "tôi muốn kiểm tra xem điện thoại của tôi có bảo hiểm không ,, thì làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.448822,
+         "id": "794288",
+         "field_search": "question",
+         "question": " iPad bị lỗi không mở khóa màn hình được, không trượt tắt nguồn được, cho hỏi phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.437366,
+         "id": "1006755",
+         "field_search": "question",
+         "question": "điện thoại e bị khóa tài khoản google rồi h mở lại phải làm sao ak. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.413647,
+         "id": "1003914",
+         "field_search": "question",
+         "question": "iphone 5 lock không trượt để mở khóa màn hình đc nhưng vẫn trượt để nghe điện thoại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.402782,
+         "id": "800011",
+         "field_search": "question",
+         "question": " Cách mở khóa pin phải làm như thế nào đối với iPhone 3 thường nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.372162,
+         "id": "1016576",
+         "field_search": "question",
+         "question": "Mình mới mua 1 chiếc điện thoại J7 Prime cách đây 2 tháng tại TGDĐ. Dạo gần đây điện thoại hay bị lỗi khóa màn hình rồi tự sáng màn hình lại. Phải reset lại máy mới hết. Hiện tượng này ngày càng thường xuyên hơn. Mình không cài bất cứ app hình nền hay phím tắt khóa màn hình nào. Khắc phục lỗi này thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.293882,
+         "id": "1003954",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ! Tôi đang dùng điện thoại Samsung galaxy j320g, khi ấn giữ trên màn hình thì điện thoại rung lên (vd khi muốn xóa tin nhắn trên Messenger hay Zalo thì phải ấn giữ vào tin nhắn để chọn chức năng xóa.. khi đó thao tác ấn giữ phím máy tôi cứ bị rung lên), tôi muốn tắt thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.192917,
+         "id": "1016863",
+         "field_search": "question",
+         "question": "Chị ơi cho em. Hỏi bây giờ  em muốn thay đổi hoặc xóa cử chỉ màn hình điện thoại oppo neo 9 thì phải làm như thế nào hả chị....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.183678,
+         "id": "1014250",
+         "field_search": "question",
+         "question": "cho tôi hỏi ,  điện thoại samsung galaxy j7 pro tôi bị rớt nhẹ màn hình bị nhoe màu một chút  ở góc nhưng vẫn sử dụng bình thường tôi đi bảo hành xem sửa đc không trong lúc họ bảo hành nhân viên gọi điện cho tôi bảo không sửa được phải thay màn hình hết 1 triệu 7 , tôi bảo không thay dùng như thế cũng đc nhưng giờ về thế giới di động trả tôi điện thoại màn hình không lên được, họ bảo bị màn hình trong bị hư nên thời gian sau bị như thế, TÔI KHÔNG CHẤP NHẬN , VÌ LÚC TÔI BẢO HÀNH MÀN HÌNH VẪN SÁNG BÌNH THƯỜNG, NHOE MÀU RẤT NHẸ , KHÔNG VỠ. SAO MÀN HÌNH TỐI ĐEN  ĐÚNG LÚC THẾ, TÔI MUỐN HỎI RÕ RÀNG VỚI NGƯỜI ĐẠI DIỆN CHO HÃNG ĐT SAMSUNG THÌ LÀM THẾ NÀO Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.159472,
+         "id": "991847",
+         "field_search": "question",
+         "question": "tôi có 1 cái ipad, nhưng bị đơ,không thể nào mở khóa được vậy làm thế nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.151688,
+         "id": "761836",
+         "field_search": "question",
+         "question": " Tôi muốn đặt hàng để mua điện thoại iPhone 5s mà không biết phải đặt như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.148722,
+         "id": "770725",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại FPT S550 có chụp màn hình được không ạ nếu được thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.093939,
+         "id": "792772",
+         "field_search": "question",
+         "question": " Điện thoại tôi đã cập nhật iOs 6.1.6 thì tôi phải làm thế nào để cập nhật được iOS 7.0? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.087185,
+         "id": "1154903",
+         "field_search": "question",
+         "question": "Cho tôi hỏi Xiaomi 8 lỉte người ta gọi tôi bằng ứng dụng Zalo nhưng màn hình đt của tôi hỏi sáng. Khi mở khóa rồi mới kéo tai thỏ xuống bấm vào mới nghe đc mới biết ai gọi. Tôi phải chỉnh như thế nào vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.90779,
+         "id": "1155976",
+         "field_search": "question",
+         "question": "tôi muốn mua trả góp điện thoại Sam Sung galaxy A50, thì phải đăng kí như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.866982,
+         "id": "1158131",
+         "field_search": "question",
+         "question": "Tôi đang xài đt A5 2016.trong lúc gọi đt trên màn hình hiển thị ổ khóa yêu cầu nhấn hai lần .muốn tắt nó phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.86285,
+         "id": "783909",
+         "field_search": "question",
+         "question": " làm sao mở khoá điện thoại Q.smart s1 khoá màn hình ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.811632,
+         "id": "861049",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng 1 số điện thoại lập 2 nick facebook giờ nick cũ không vào được nữa thì muốn khóa nick cũ phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.774015,
+         "id": "1152573",
+         "field_search": "question",
+         "question": "mình dùng điện thoại samsung j3pro. tại sao khi tắt màn hình xong khoảng vào giây sau điện thoại tự động sáng màn hình nền và màn hình khóa. cho mình hỏi là vì sao và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.754065,
+         "id": "1009181",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn bỏ biểu tượng KBs trên màng hình điện thoại APO A37 cần phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.690413,
+         "id": "1155021",
+         "field_search": "question",
+         "question": "Thưa QTV, mình đang dùng điện thoại SS J4, máy vẫn đang bình thường nhưng tự dưng mình không mở khóa màn hình được, mỗi lần mở khóa máy báo sai mật khẩu. Vậy cho mình hỏi máy mình đang bị lỗi gì ạ? và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.677143,
+         "id": "1007581",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi màn hình điện thoại Lenovo của mình bị đơ cảm ứng xung quanh viền màn hình và có bọt khí thì giờ phải làm sao có phải thay màn hình không vậy ạ trả lời giúp mình nhé Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.6144,
+         "id": "1024172",
+         "field_search": "question",
+         "question": "mk sài đt mobistar lai yuna làm thế nào để bỏ khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.517086,
+         "id": "754813",
+         "field_search": "question",
+         "question": " iPhone 6 quên mật khẩu khóa màn hình thì làm sao mở được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.381855,
+         "id": "1164937",
+         "field_search": "question",
+         "question": "Ek mún cài lại màn hình khóa trên huawel nova 2i thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.33519,
+         "id": "747630",
+         "field_search": "question",
+         "question": "hiện tại điện thoại của mình là iphone6 quên mật khẩu icloud và hiện giờ đang bị khóa do bấm không được khóa màn hình thì mình phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.30957,
+         "id": "876505",
+         "field_search": "question",
+         "question": " mình vừa bị mất điện thoại muốn khóa icloul thì làm như nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.307941,
+         "id": "1007691",
+         "field_search": "question",
+         "question": "điện thoại A5 đang sử dụng thì bị tắt màn hình và ko mở lại được, gọi vẵn có tín hiệu nhưng màn hình vấn đen thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.299364,
+         "id": "908605",
+         "field_search": "question",
+         "question": "Tôi dùng i phone 4s cài đặt chế độ tự động khóa màn hình thì máy tắt nguồn luôn muốn dùng lại phải khởi động. Để chế chộ không khóa màn hình thì máy không sao nhưng hết pin nhanh? có cách nào giúp tôi? máy bị bệnh gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.298676,
+         "id": "828315",
+         "field_search": "question",
+         "question": "iPhone 5 của em bị khóa màn hình nó yêu cầu kế nối với itunescho em hỏi làm cách nào để mở khóa màn hình khi em chỉ có máy tính asus và dây cáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.26363,
+         "id": "1155360",
+         "field_search": "question",
+         "question": "Em quên mật khẩu mở khóa màn hình laptop giờ phải làm sao ạ? Em đang dùng máy Asus VivoBook X507UF i5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.259398,
+         "id": "1152795",
+         "field_search": "question",
+         "question": "Cho tôi hỏi cách điều chỉnh chế độ thời gian khóa màn hình ở máy huawei gr5 như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.2374,
+         "id": "1157031",
+         "field_search": "question",
+         "question": "Mình muốn xóa cache trên điện thoại OPPO A37 mình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.095903,
+         "id": "1008625",
+         "field_search": "question",
+         "question": "SAMSUNG galaxy A3 quên mật khẩu bị khóa màn hình phải làm sao, khong muốn mất dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.075403,
+         "id": "1015020",
+         "field_search": "question",
+         "question": "Chào ad, tôi muốn hỏi về bảo hành sp. Tôi mua 1 điện thoại samsung J2 từ 27/3/2017. Hiện nay tôi sử dụng thấy điện thoại luôn báo bộ nhớ đầy dù tôi đã lắp thẻ 8Gb. Hôm nay tôi có làm rơi xuống nước nên điện thoại bị chậm lại, khó vuốt màn hình. Tôi muốn hỏi về việc tôi có thể được hỗ trợ bảo hành hay hỗ trợ đổi sp khác như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.052895,
+         "id": "1140312",
+         "field_search": "question",
+         "question": "Mình dùng máy samsung J6. Mình lỡ đặt khóa màn hình bằng cách vẽ các hướng mà không nhớ. Bây giờ làm thế nào để mở lai máy được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.927158,
+         "id": "737358",
+         "field_search": "question",
+         "question": " Tôi muốn tạo tài khoản apple phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.92516,
+         "id": "1159309",
+         "field_search": "question",
+         "question": "Làm sao để chạm 2 lần vào màn hình để mở điện  thoại j4 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.908161,
+         "id": "1019390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi màn hình điện thoại tự động cảm ứng tại 1 điểm mình không nhấn: Tôi không chạm vào màn hình mà nó cũng tự cảm ứng, tôi chạm chỗ khác nó cũng cảm ứng chố đó. Vậy tôi có thể khắc phục nó được không hoặc vô hiệu hóa điểm tại đó, còn nếu phải đem sửa thì giá bao nhiêu vậy!  Điện thoại LENOVO P1ma40",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.8853,
+         "id": "790405",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s có chức năng nào chỈ chạm màn hình là mở được khóa. Không phải dùng nút điều khiển k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.863249,
+         "id": "1000432",
+         "field_search": "question",
+         "question": "Mình muốn đưa đèn pin ra màn hình chính ở galaxy j5 2016 như trong hình thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.828495,
+         "id": "879957",
+         "field_search": "question",
+         "question": " Màn hình ipad bị đứng không mở khóa được mà mình tắt máy vẫn không được vậy phải làm sao đây các bạn ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.784311,
+         "id": "1134997",
+         "field_search": "question",
+         "question": "Cho em hỏi các cài màn hình khóa mỗi lần mở lên là một hình khác trên đt Huawei y7 pro 2018 thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.769905,
+         "id": "754814",
+         "field_search": "question",
+         "question": " iPhone 6 quên mật khẩu khóa màn hình thì làm sao để mở được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.769857,
+         "id": "763092",
+         "field_search": "question",
+         "question": " Tôi muốn kiểm tra ngày kích hoạt của iPhone 5s thì tôi phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.703447,
+         "id": "1159074",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2018, nhưng dạo này khi tắt điện thoại thì một lát sau nó lại tự hiện lên màn hình chờ của mình lúc này phải bấm thoát ra thì nó mới trở về màn hình khóa còn không bấm thoát thì một lát sau nó sẽ tự trở về màn hình khóa. Đt của mình đang bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.669054,
+         "id": "936321",
+         "field_search": "question",
+         "question": "cho mình hỏi. Mình mới mua Iphone 7. Chưa sử dụng lần nào. Mới chỉ cài đặt xong, tuy nhiên do quên mật khẩu khi cài đặt nên bị khóa màn hình. Xin hỏi làm cách nào để mở khóa màn hình? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.660187,
+         "id": "1141107",
+         "field_search": "question",
+         "question": "Em đang dùng Iphone X. trước đây thao tác khóa màn hình và mở màn hình thấy máy khóa/mở rất nhanh. gần đây dùng thấy mỗi lần bấm Khóa màn hình hay mở khóa thì thấy có độ trễ tầm 2s mới tắt/mở. tại sao vậy ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.65882,
+         "id": "769751",
+         "field_search": "question",
+         "question": "  Làm sao để mở khóa khi quên mật khẩu điện thoại Oppo R1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.610157,
+         "id": "996556",
+         "field_search": "question",
+         "question": "Tại sai sau khi gỡ fireflies lockscreen thì điện thoại không cài màn hình khóa được. Em cài màn hình khóa nhưng không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.605036,
+         "id": "998056",
+         "field_search": "question",
+         "question": "Cách chụp màn hình điện thoại itel1516 plus như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.52306,
+         "id": "1166740",
+         "field_search": "question",
+         "question": "tôi muốn tra cứu đơn hàng theo số điện thoại thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.471004,
+         "id": "1167201",
+         "field_search": "question",
+         "question": "Giờ tôi muốn tìm người chính đã bán điện thoại cho tôi cần làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.454912,
+         "id": "1154079",
+         "field_search": "question",
+         "question": "alocho hỏi khi màn hình s10 đang khóa thì hiện lên quảng cáo làm thế nào để tắt đi đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.44716,
+         "id": "1133720",
+         "field_search": "question",
+         "question": "Mình muốn mở chức năng đa cửa sổ trên A7 nhưng chức năng chia đôi màn hình lại có màu xám và bị khóa mình không mở khóa được chức năng này thì làm sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.440754,
+         "id": "752187",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6+ IOS 8.1.2. Cho mình hỏi có cách nào mở khóa bằng Touch ID mà không phải bấm nguồn cho màn hình sáng lên không ạ. Tức là để tay vào nút home là nhận touch id mở khóa luôn chứ không phải bấm sáng màn hình rồi mới để tay vào nút home.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.431368,
+         "id": "1006455",
+         "field_search": "question",
+         "question": "tôi có thể mở pin điện thoại oppo A37 như thế nào vui lòng chỉ giúp cho tôi để tôi lắp sim cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.374512,
+         "id": "1022582",
+         "field_search": "question",
+         "question": "Điện thoại ss j3, muốn cài đặt rung khi nhất máy thì phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.370193,
+         "id": "1000784",
+         "field_search": "question",
+         "question": "Em đang sài con oppo f1 , em có cài đặt màn hình khóa cho điện thoại , nhưng giờ em muốn hũy màn hình khóa đi thì nó không chi phép , anh hướng dẫn giúp em ạ như hình dưới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.353022,
+         "id": "1019919",
+         "field_search": "question",
+         "question": "mình nạp thẻ điện thoại bị sai mã rồi bị khóa sim, chỉ nghe được chứ k gọi đi được. gọi đi thì họ bảo tài khoản của bạn đang tạm khóa. làm thế nào để mở đc nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.344,
+         "id": "801823",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu khóa màn hình máy samsung j2 thì làm sao để mở máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.343052,
+         "id": "888844",
+         "field_search": "question",
+         "question": "Muốn kết nối màn hình máy tính \"Samsung SyncMasterB2030\" với laptop \"Dell inspiron 3558i5 5200u\" thì phải làm thế nào ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32806,
+         "id": "770673",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu khóa màn hình thì làm sao để mở máy? Sony Xperia C3 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.307167,
+         "id": "1005227",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để chụp ảnh màn hình trên điện thoại samsung android 6.0 vậy hả tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.257484,
+         "id": "1138670",
+         "field_search": "question",
+         "question": " Tôi muốn đổi ảnh khóa màn hình nhiều ảnh, vuốt tay 1 cái là 1 ảnh cho ASUS Zenfone 3 thì làm sao. Cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.227129,
+         "id": "1023603",
+         "field_search": "question",
+         "question": "tôi mua a5 2017 hồi tháng 2điện thoại tôi bị rơi xuống biển giờ tắt ngấmgiờ tôi phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.204493,
+         "id": "1015134",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại lẫn số điện thoại. Khi tôi đăng nhập gmail trên điện thoại mới thì nó yêu cầu làm như hình bên dưới. Tôi phải làm gì để có thể đăng nhập vào gmail của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

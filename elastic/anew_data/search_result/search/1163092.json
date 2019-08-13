@@ -1,0 +1,801 @@
+{
+   "id_query": "1163092",
+   "total": 22823,
+   "total_current": 100,
+   "max_score": 75.658226,
+   "origin_question": "Tôi muốn hạ hệ điều hành android 9 xuống android 8. Tgdđ có hỗ trợ đc k",
+   "hits": [
+      {
+         "score": 43.942226,
+         "id": "1160078",
+         "field_search": "question",
+         "question": "Cho em hỏi là có thể hạ hệ điều hành Android 9 xuống 8 cho nokia 6 được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.427467,
+         "id": "1167078",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại mi 8 lite đã update lên android 9 mà muốn hạ xuống android 8 có được không ? Nếu hạ xuống thì cần bao lâu ?Điện thoại mình bị bể phần kính phía sau giờ muốn thay bên thegioididong có hổ trợ không hay phải ra nơi bảo hành xiaomi ơ hcm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.893513,
+         "id": "1158127",
+         "field_search": "question",
+         "question": "Muốn hạ cập nhật phần mềm từ android 9 xuống android 8 ore samsung a6 plus được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.703587,
+         "id": "1138488",
+         "field_search": "question",
+         "question": " Cho em hỏi nhân viên Kỹ Thuật của TGDD có thể hạ hệ điều hành Android 9.0 xuống Android 8.1 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.9915,
+         "id": "1150329",
+         "field_search": "question",
+         "question": "Em muốn hạ android 9 xuống 8 có được không ạ và em muốn nhờ tgdd hạ giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.718273,
+         "id": "1158863",
+         "field_search": "question",
+         "question": "Máy em là 5s bâyh có hạ hệ điều hành xuống 11 đc k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35767,
+         "id": "1146995",
+         "field_search": "question",
+         "question": "TGDD Có hỗ trợ hạ cấp android 8.1.0 xuống 6.0.1 samsung j7 prime không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.139374,
+         "id": "1158253",
+         "field_search": "question",
+         "question": "Tôi muốn hạ điều hành androi 9.0 xuống đc k ạ trên sam sung a7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.305391,
+         "id": "1137830",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chỉ hệ điều hành 8.0 với 8.1 mới lên đc android 9.0 hay là hệ đièu hành 8.0 trở xuống có lên được hay không vd như hệ điều hành 7.1 ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.61816,
+         "id": "776277",
+         "field_search": "question",
+         "question": " Anh ơi giảm hệ điều hành ios 9 xuống 8 như thế nào ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.061642,
+         "id": "1134587",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại LG G5 bên tgdd có hỗ trợ nâng cấp hệ điều hành androi 8 kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.856285,
+         "id": "750594",
+         "field_search": "question",
+         "question": " Ad cho em hỏi có thể hạ cấp hệ điều hành từ ios 9 về ios 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.647587,
+         "id": "1162171",
+         "field_search": "question",
+         "question": "Điện thoại galaxy A6 plus của em mang ra tiệm để hạ từ android 9 xuống 8 được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.468842,
+         "id": "1161691",
+         "field_search": "question",
+         "question": "Có thể hạ hệ điều hành androi A7 2018 9.0 xuống phiên bản góc đc ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.691376,
+         "id": "764392",
+         "field_search": "question",
+         "question": " Em muốn hạ hệ điều hành của iPhone 4s xuống phải làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.574808,
+         "id": "1152738",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng Xiaomi mi a2, em đã nâng cấp lên android 9 nhưng đừng không ổn định lắm, đôi khi còn bị đứng máy, giờ em muốn về lại android 8.1 cho máy, bên mình có hỗ trợ hạ xuống giúp em được không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.32446,
+         "id": "995709",
+         "field_search": "question",
+         "question": "zenfone 3 max 5.5 có hệ điều hành android 7.0 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.093554,
+         "id": "1163496",
+         "field_search": "question",
+         "question": "Mình muốn hạ cấp androi 9 xuống 8 trên máy samsung A8 có đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.8595,
+         "id": "789563",
+         "field_search": "question",
+         "question": " Muốn cài đặt lại hệ điều hành android thì lấy ở đâu làm cách nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.721292,
+         "id": "918285",
+         "field_search": "question",
+         "question": " Muốn hạ hệ điều hành IOS 10.1 xuống IOS 7 có được không và nên đến đâu để được hạ uy tín? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.525055,
+         "id": "1154017",
+         "field_search": "question",
+         "question": "Cty có thể hỗ trợ tôi hạ cấp hdh adroi 9. Xuống hđh androi 8. Trên chiếc note8 không. Tôi mới nâng cấp lên androi 9 máy hay đơ. Bàn phím đơ liên tục ko thể nhắn tin được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.351057,
+         "id": "1157182",
+         "field_search": "question",
+         "question": "Ad ơi, em đã kiểm tra và máy có hỗ trợ nâng cấp nhanh lên Android 9, thì làm thế nào để nâng cấp ạ. ? Máy em huawei y6 2018 primer Android 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.159332,
+         "id": "754088",
+         "field_search": "question",
+         "question": " Bây giờ còn hạ hệ điều hành ios 9 về ios 8.4 ko? Và hạ như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.095268,
+         "id": "1151333",
+         "field_search": "question",
+         "question": "Samsung j7 prime có hạ hệ điều hành anroi xuống 6.0 được không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.744005,
+         "id": "808662",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi ở TGDĐ có hạ iOS 9 xuống 8 được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.196466,
+         "id": "760487",
+         "field_search": "question",
+         "question": "  Làm cách nào để xóa hệ điều hành Android và tải hệ điều hành Windows Phone về sử dụng trên điện thoại Mobiistar 4.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.082245,
+         "id": "995727",
+         "field_search": "question",
+         "question": "A5 2017 android 7.0 hạ xuống android 6.0 được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.039267,
+         "id": "1162199",
+         "field_search": "question",
+         "question": "thế giới di động có bảo hành hạ cấp andriod 9 xuống 8 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.90724,
+         "id": "766525",
+         "field_search": "question",
+         "question": " Em đang có iPhone 5s hệ điều hành iOS 9.1 giờ em muốn hạ xuống iOS 8.4 thì làm cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.863531,
+         "id": "1166548",
+         "field_search": "question",
+         "question": "Muốn ẩn ứng dụng màn hình chính của đt vs mart hệ điều hành android 8.1 thì phải làm sao add ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.774845,
+         "id": "1006343",
+         "field_search": "question",
+         "question": "Cho em hỏi là em lỡ cập nhật Android 6 cho oppo f1s giờ e muốn hạ xuống 5.1 tgdd có hỗ  trợ không ạ,  thời gian có lâu không và có được free không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.745308,
+         "id": "1157092",
+         "field_search": "question",
+         "question": "Cho mình hỏi cos cách nào hạ hệ điều hành từ ad9.0 xuống 8.0 ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.729836,
+         "id": "1158090",
+         "field_search": "question",
+         "question": "Mình hạ phiên bản android xuống 8.0  cho A7 2018 đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.344563,
+         "id": "1165577",
+         "field_search": "question",
+         "question": "Mình vừa mua note8 chính hãng muốn cài từ androi9 xuống 8 có mất bảo hành k và bên mình có hỗ trợ cài đặt k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.273472,
+         "id": "1161556",
+         "field_search": "question",
+         "question": "cho em hỏi làm fullscreen ở máy xiaomi mi a2 lite khi chơi game sao ạ? mấy đang ở hệ điều hành android 9 ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.271599,
+         "id": "1137699",
+         "field_search": "question",
+         "question": " mấy a cho e hỏi  hạ từ android 8.0 xuống 6.0 đc ko z  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.062479,
+         "id": "918570",
+         "field_search": "question",
+         "question": " cho mình hỏi nếu hạ hệ điều hành IOS 10 về IOS 9 thì máy có bị ảnh hưởng gì không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.989767,
+         "id": "1147339",
+         "field_search": "question",
+         "question": "Cách truyền dữ liệu từ điện thoại cũ sang điện thoại mới hệ điều hành android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.892254,
+         "id": "996041",
+         "field_search": "question",
+         "question": "Hạ hệ điều hành ios11 về hệ điều hành io10.3.1 tại tgdd có tính phí không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.707802,
+         "id": "773712",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi là iPhone nâng cấng hệ điều hành có hạ được xuống không ạ ? Ví dụ như 4S chạy 8.4 thì có hạ xuống được không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.575533,
+         "id": "1145583",
+         "field_search": "question",
+         "question": "vivo y55s đã có hệ điều hành 7.1 chưa tôi muốn nâng cấp lên hệ điều hành 7.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.53808,
+         "id": "1008469",
+         "field_search": "question",
+         "question": "Cho em hỏi Oppo A33w của em dùng android 5.1. TGDĐ cho em hỏi máy có thể nâng cấp hệ điều hành hay không và nếu nâng cấp có gặp lỗi không ạ. Cảm ơn TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.439438,
+         "id": "1023600",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại Sony XA có thể hạ hệ điều hành Androi 7.0 xuống 6.0 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.323463,
+         "id": "895520",
+         "field_search": "question",
+         "question": " Em đang dùng 5s phiên bản 10 nhưng em muốn hạ xuống phiên bản 9 đc k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.958931,
+         "id": "1163960",
+         "field_search": "question",
+         "question": "Mình đang sử dụng note9 hệ điều hành android 9.0 - nhưng nó hao pin rất nhiều so với bản cũ, hiện giờ mình muốn down xuống thành 8.0 thì IT bên TGDD có thể thực hiện được hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.790895,
+         "id": "1144270",
+         "field_search": "question",
+         "question": "Cách hạ bản Android 6.0 xuống bản cũ 3.0 Được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.790482,
+         "id": "1140015",
+         "field_search": "question",
+         "question": "Nâng cấp điện thoại wiko jerry2 thuộc hệ điều hành Android 7.0 có bị rủi ro hay vấn đề gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.750725,
+         "id": "741520",
+         "field_search": "question",
+         "question": "Xin hỏi, máy ipad mini 2 lên hệ điều hàng ios9 rồi, muốn hạ xuống lại ios 8 có được ko? và bằng cách nào ? cảm ơn nhờ chỉ giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.701277,
+         "id": "819318",
+         "field_search": "question",
+         "question": " AD cho e hỏi hiện tại e có thể hạ bản ios 9 xuống ios 8 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.540644,
+         "id": "1161572",
+         "field_search": "question",
+         "question": "Sam sung a6+ nang câp len android 9 chơi game k dc. Toi la 1 game thủ mà bị vậy sao sài đc. Kêu hạ androi ve 8.1 thi k ai chịu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.288748,
+         "id": "811286",
+         "field_search": "question",
+         "question": " cài hệ điều hành IOS lên android được không ạ? sao cho trong cài đặt với mấy ứng dụng khác cũng giống. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.052465,
+         "id": "769737",
+         "field_search": "question",
+         "question": "  Cho em hỏi Sky A840 có nâng cấp lên hệ điều hành Android 4.4 được không. Nếu được xin ad chỉ em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.892635,
+         "id": "1017099",
+         "field_search": "question",
+         "question": "Hi...mình có chiếc LG G3 Cat6 bản hàn quốc, đang chạy hệ điều hành 4.4.2. Cho hỏi bên mình có hỗ trợ nâng cấp hệ điều hanh ko vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.884972,
+         "id": "1003575",
+         "field_search": "question",
+         "question": "Samsung J5 Prime có hỗ trợ tính năng Wifi Display hay không? vì tôi muốn mua hộp Android TV Box để xuất ra Smart TV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.835602,
+         "id": "821673",
+         "field_search": "question",
+         "question": " Cho mình hỏi tgdd có hạ từ ios 9 xuống ios 8 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.651634,
+         "id": "899546",
+         "field_search": "question",
+         "question": "Em đang dùng iphone6s. Em hạ hệ điều hành ios10 xuống ios 9 nhưng em thao tác sai. Bây giờ vẫn là hệ điều hành ios10 nhưng bị lỗi. Không có chuông. Âm báo tin nhắn. Âm bàn phím( nói chung là bị mất tiếng chỉ có rung) ad có cách nào xữ lý giúp em được không. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.640003,
+         "id": "1149521",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đã cập nhật thành công Android 9.0 trên chiếc xiaomi A2 lite nhưng sau 1 tg mình sd mình thấy ko đc ưng và mình muốn hạ xuống Android 8.1 thì phải làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.635891,
+         "id": "1158252",
+         "field_search": "question",
+         "question": "Em đang dùng nokia 8, android 9, em có thể về lại 8.1 được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.626759,
+         "id": "666417",
+         "field_search": "question",
+         "question": " samsung galaxy E7 có được nâng cấp hệ điều hanh lên Android 5.0 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.574297,
+         "id": "959002",
+         "field_search": "question",
+         "question": " AD ơi h em dùng 5s hệ điều hành 7 chấm h muốn lên 8 chấm có cách nào ko hay phải up hệ điều hành mới nhất ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.463667,
+         "id": "1166751",
+         "field_search": "question",
+         "question": "Cho mình hỏi Ss Note 8 của mình lúc còn ở Android 8 thì có chức năng chụp 3D mà khi lên Android 9 thì mất chức năng đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.413988,
+         "id": "1010623",
+         "field_search": "question",
+         "question": "cho em hỏi là mình có hỗ trợ cài hệ điều hành dùm không ạ hay chỉ bảo hành là sữa chữa lỗi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.396534,
+         "id": "1158129",
+         "field_search": "question",
+         "question": "Cho mình hỏi Philips s327 hệ điều hành Android mà mình thấy những máy Android khác vuốt 3 ngón tay là chụp được màn hình vậy sao Philips s327 không như vậy được ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.343327,
+         "id": "1153544",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại android nào điều có 4g hết ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.324373,
+         "id": "1145000",
+         "field_search": "question",
+         "question": "Tgdd có hỗ trợ hạ ios 12 xuống 11 dùm em đc ko ạ mong tgđ trl sớm giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.269108,
+         "id": "1008799",
+         "field_search": "question",
+         "question": "Hiện tại em đang sài Oppo A39 . Em vừa nâng cấp lên Android 6.0 nhưng em kh thích, em muốn trở về hệ điều hành 5.1 làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.082527,
+         "id": "1156183",
+         "field_search": "question",
+         "question": "Mình mới mua 1 cái vsmart joy 1+ ,hệ điều hành android 8.1.0, giờ muốn nâng cấp lên phiên bản cao hơn thì phải làm thế nào ạ?? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05657,
+         "id": "882728",
+         "field_search": "question",
+         "question": "Lap e đang sử dụng hệ điều hành windows 8 nhưng lại không có bản quỳên. Xin hỏi e muốn cài đặt lại hệ điều hành thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.036415,
+         "id": "1149684",
+         "field_search": "question",
+         "question": "Xiaomi redmi 5 em đang xài android 7.1.2 mới lên android 8.1 thấy nó chạy chậm, hao pin, nóng máy..... Có cách nào để em hạ xuống android 7.1.2 lại ko ạ?? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.983204,
+         "id": "1147736",
+         "field_search": "question",
+         "question": "TGDD CÓ CHẠY ANDROID A9 PRO 2016 XUỐNG 6. KG .HIỆN TẠI đang 8.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.8541,
+         "id": "1155713",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ root máy sony Android khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.825222,
+         "id": "794056",
+         "field_search": "question",
+         "question": " Bên TGDĐ có dịch vụ hạ iOS 9 xuống iOS ban đầu của iPad Mini không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.797846,
+         "id": "944931",
+         "field_search": "question",
+         "question": " Anh chị cho e hỏi? là mình có hạ được hệ điều hành của iphone 4s không ạ? và nếu hạ đc thì mất bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.654055,
+         "id": "756654",
+         "field_search": "question",
+         "question": " Cho mình hỏi thế giới di động có hạ cấp ios 9 xuống 8 cho người dùng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.61231,
+         "id": "1134886",
+         "field_search": "question",
+         "question": "Bên ad có hạ phiên bản android 8.0 xuống 7.1 hay 6. Cho đt j3 pro  Được không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.480568,
+         "id": "1149115",
+         "field_search": "question",
+         "question": "máy đang win10 bản muốn hạ xuống win 8 đc không , mua máy chưa đc 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.255135,
+         "id": "808626",
+         "field_search": "question",
+         "question": " Bên TGDD có hỗ trợ hạ cấp IOS xuống không vậy phí bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.112803,
+         "id": "1145444",
+         "field_search": "question",
+         "question": "Cách tạm ẩn thành điều hướng khi xem phim trên  Nokia 7 plus  đã lên Android 9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.108612,
+         "id": "1149603",
+         "field_search": "question",
+         "question": "cho hỏi nokia 3 hệ điều hành Android 8.1 sao không thể sử dụng thẻ nhớ SD ngoài  làm bộ nhớ trong vậy .có phải là bị lỗi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.088074,
+         "id": "758071",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9 có hạ xuống iOS 8 được chưa ạ Apple đã mở khóa chưa vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.076494,
+         "id": "1145395",
+         "field_search": "question",
+         "question": "A/c ơi cho e hỏi với.e đag dùng điện thoại xiaomi A1 e cập nhật Android 9 mà e thấy ko hợp lý giờ e muốn về android 8 thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.00283,
+         "id": "1146786",
+         "field_search": "question",
+         "question": "Ad ơi đt Xiaomi A2 lite của e đang ở android one giờ nó tự cập nhật system gì đó thành android 9. Mà nhìn giao diện 9 k quen có cách nào nó về lại k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.974682,
+         "id": "1154947",
+         "field_search": "question",
+         "question": "Mình có samsung note 8 phiên bản android 7.1.1 giờ muốn nâng lên 8 thì ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.974436,
+         "id": "1007775",
+         "field_search": "question",
+         "question": "Điện thoại em là Samsung galaxy s2 HD LTE chạy android 2.3.6(không hỗ trợ gọi video) . Nay em muốn nâng cấp lên android 4.4 để được hỗ trợ gọi video được không ad ??? Và phí nâng cấp là bao nhiêu ?? Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.926365,
+         "id": "895502",
+         "field_search": "question",
+         "question": " Cho em hỏi cách cài hệ điều window 8 trên hệ điều hành dos đi ạMong các ad giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.827513,
+         "id": "1159577",
+         "field_search": "question",
+         "question": "bao giờ oppo f7 đc cập nhật android 9 ạ ffffffffff",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.804281,
+         "id": "1152854",
+         "field_search": "question",
+         "question": "Cài đặt bản youtube hỗ trợ nghe nhạc khi tắt màn hình android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.779505,
+         "id": "924773",
+         "field_search": "question",
+         "question": " Bên mình có hạ cấp iphone từ ios 10 xuống ios 9 được k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.73214,
+         "id": "1158914",
+         "field_search": "question",
+         "question": "Mình dùng samsung A6 vừa nới nâng cấp lên androi 9, giờ mình mún cài lại androi 8 y hệ điều hành củ được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.707977,
+         "id": "992826",
+         "field_search": "question",
+         "question": "Em đang xài iphone 4 hệ điều hành ios7.1.2 ko tải đc app facebook vì yêu cầu hệ điều hành ios 8 trở lên mới có thể tải về . Vậy còn cách nào để tải app fb về ko ad? Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.693363,
+         "id": "786288",
+         "field_search": "question",
+         "question": " Ad cho em hởi là cửa hàng có hỗ trợ hạ iOS 9.1 xuống 8.4 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.663212,
+         "id": "1163322",
+         "field_search": "question",
+         "question": "Em vừa mua sản phẩm samsung A7 2018 , và lỡ cập nhật lên hđh Android 9,0. Bây giờ muốn hạ xuống hđh Android 8.1 thì phải ra hãng hay tgdd ạ??Mong anh phản hồi dùm em ạ Thân gửi và cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.625095,
+         "id": "1010632",
+         "field_search": "question",
+         "question": "Chào anh/chị. E sài asus zenfone max 5. 5 android 7.0. Bây giờ em muống hạ xuống android 6. Được không và làm cách nào. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.546581,
+         "id": "925586",
+         "field_search": "question",
+         "question": " Ở thế giới di động có hỗ trợ hạ cấp ios 10.1.1 xuống 10.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48692,
+         "id": "1150809",
+         "field_search": "question",
+         "question": "Cho mình hỏi.. mình có mua điện thoại note 9 ở điện máy xanh tầm 1 tháng.. máy đang chạy adroild 8.0 Oreo rất tốt.. mình rất ưng ý.. hôm qua mình đã nâng cấp lên adroild 9.0 Pie .. nhưng khi lên adroild 9.0 mình thấy máy không mượt như cũ... mau hết pin hơn hệ điều hành cũ.. và thấy nóng máu khi chơi game liên quân... bệ điều hành trước chạy mượt và ko nóng máy... Vậy cho mình hỏi là máy mình có thể hạ xuống hệ điều hành adroild 8.0 Oreo không vậy.. nếu được thì mang đến đâu để được sự hổ trợ... và khi hạ xuống thì có ảnh hưởng gì đến máy không?  Mong nhận được sự phản hồi sớm nhất từ Tgdđ .. số điện thoại mình 0333.692663 Nguyễn Minh Thảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.3439,
+         "id": "1160016",
+         "field_search": "question",
+         "question": "Mình xài Galaxy Note FE đã lên Android 9. giờ muốn quay về Android 7 thì các bạn kỹ thuật có làm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.311907,
+         "id": "1007931",
+         "field_search": "question",
+         "question": "chào anh/chịem đang sử dụng máy huawei gr5 2017, đã nâng cấp lên phiên bản 7.0 bây giờ em muốn hạ android xuống thì làm sao??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.164597,
+         "id": "862845",
+         "field_search": "question",
+         "question": " The giới di động có hỗ trợ hạ cấp máy từ iOS 10 xuống iOS 9.3.3 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.164597,
+         "id": "836408",
+         "field_search": "question",
+         "question": " Hiện tại thế giới đi động có hỗ trợ Hạ từ ios 9.3.2 xuống 9.3.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

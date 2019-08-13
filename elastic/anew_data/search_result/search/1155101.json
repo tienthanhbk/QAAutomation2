@@ -1,0 +1,801 @@
+{
+   "id_query": "1155101",
+   "total": 34165,
+   "total_current": 100,
+   "max_score": 75.58335,
+   "origin_question": "cho mình hỏi tại sao trong laptop mình mới mua ở cửa hàng ko có window defender  để bảo vệ máy tính khỏi virus vậy ạ",
+   "hits": [
+      {
+         "score": 28.03085,
+         "id": "869258",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em mới mua tại cửa hàng mình..nhưng em không biết làm sao có word và excel trong máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.940508,
+         "id": "987503",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, nếu mình muốn nâng cấp máy tính mà không mất bảo hành thì mình đem máy tính đến cửa hàng để cửa hàng gửi lên trung tâm bảo hành phải ko ạ?? vậy nếu vậy thì phải khoản bao lâu thì xong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.746532,
+         "id": "763371",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop mình mua ở Thế Giới Di động, hết hạn bảo hành giờ mình muốn đem tới để cài lại win với cài phần mềm quét virus tính phí có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.685163,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.487785,
+         "id": "948440",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Mình mới mua laptop ở tgdd, nhưng k biết vì sao máy tính sài được 3 ngày thì máy giật lag. Scan thì k thấy virus... A, chị nào giúp e với. Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.324959,
+         "id": "889787",
+         "field_search": "question",
+         "question": " cửa hàng cho mình hỏi laptop mình mới mua bị lỗi gì mà cứ hiện lên ở gốc phải vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.5812,
+         "id": "1004787",
+         "field_search": "question",
+         "question": "cho mình hỏi .nếu mua máy tại tgdd trong 30 ngày bị lỗi do NSX và mình tới cửa hàng tgdd khác để xin đổi máy k có đươc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.55683,
+         "id": "1002592",
+         "field_search": "question",
+         "question": "cho mình hỏi ở thế giới di động có bán tấm bảo vệ bàn phím máy tính k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.513529,
+         "id": "991696",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là mình có dán bảo vệ với cường lực bên thế giới di động dán bảo hành...vậy bảo hành có áp dụng dc ở những cửa hàng của thế giới di động khác không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.306355,
+         "id": "1023358",
+         "field_search": "question",
+         "question": "Em mua laptop ở chỗ khác thì đem qua tgdd dán bảo vệ được ko ạ?Với bên tgdd có dán bảo vệ bàn phím ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.261251,
+         "id": "808278",
+         "field_search": "question",
+         "question": " Cho em hỏi, ở cửa hàng có dịch vụ vệ sinh laptop không ạ? do cái laptop em nó kêu to quá trời. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.05786,
+         "id": "1149767",
+         "field_search": "question",
+         "question": "b ơi cho mình hỏi khi bảo hành laptop ở đây có dịch vụ vệ sinh laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.942314,
+         "id": "746567",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy Iphone 5S hiện tại ở cửa hàng có những màu nào vậy ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.712318,
+         "id": "1144417",
+         "field_search": "question",
+         "question": "Mình mua laptop tại TGDD, không biết TGDD có dịch vụ vệ sinh laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.605911,
+         "id": "824785",
+         "field_search": "question",
+         "question": " cho em hỏi cửa hàng có dịch vụ vệ sinh laptop không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.37597,
+         "id": "1003586",
+         "field_search": "question",
+         "question": "Cho e hỏi bên cửa hàng mình có sửa điện thoại không ạ. Em mua ở cửa hàng thegioididong ạ nhưng hết bảo hành rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.193218,
+         "id": "816129",
+         "field_search": "question",
+         "question": " thegioididong có vệ sinh laptop không ạ?. máy của em vẫn trong thời gian bảo hành thì có tính phí không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.148605,
+         "id": "1146993",
+         "field_search": "question",
+         "question": "cửa hàng có mua lại máy samsung a5 2017 ko vậy ,mình tính đỗi lấy iphone 7 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.021128,
+         "id": "1005233",
+         "field_search": "question",
+         "question": "Xin chào! Mình có mua 1 laptop Dell Inspiron 15-3552 ở cửa hàng vào tháng 2/2017, hiện tại mình muốn bán lại, ko biết cửa hàng thu lại với giá thế nào? Mình đã mất hóa đơn, cửa hàng có thu lại dc ko?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.796534,
+         "id": "1157498",
+         "field_search": "question",
+         "question": "Laptop của e mua trả góp tại cửa hàng mình,  nhưng do loa của máy 1 bên bị rè vậy e có được nhận bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.473845,
+         "id": "1004024",
+         "field_search": "question",
+         "question": "QTV cho e hỏi e có mua 1 chiếc iphone 5se ở cửa hàng..còn trong thời hạn bảo hành,giờ nó bị rớt nước e mang ra cửa hàng hỗ trợ đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.20733,
+         "id": "1015377",
+         "field_search": "question",
+         "question": "cho mình hỏi mình tesk máy rồi vẫn thấy không có gì, chỉ mỗi không có dòng kí hiệu bảo vệ môi trường ở phía sau. vậy cho mình hỏi con 7 plus của mình có phải hàng nhái không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.18871,
+         "id": "799743",
+         "field_search": "question",
+         "question": " Cho em hỏi là ở cửa hàng của mình có cài win cho máy tính không ạ nếu có thì có phí không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.043015,
+         "id": "997096",
+         "field_search": "question",
+         "question": "Mình sữa dt ở cửa hàng tgdd..vậy mình có được mựon đt để xài trong thoi gian sữa chữa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.996025,
+         "id": "1168102",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mua sản phẩm oppo f11 pro 128gb nhưng hiện tại bên mình chỉ lấy được điện thoại ạ, nhân viên cửa hàng bảo là hiện tại chưa có hàng. Không biết khi nào mình mới nhận đươc loa blutooth ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.974436,
+         "id": "1154620",
+         "field_search": "question",
+         "question": "Tới cửa hàng quét virus cho máy tính, giá dịch vụ là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.864607,
+         "id": "838485",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6s full box còn bh của thế giới di động mà tai phone lắc bị kêu vậy cho mình hỏi bên cửa hàng có bảo hành tai nghe ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.863293,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.789532,
+         "id": "1143372",
+         "field_search": "question",
+         "question": "mua lap về dùng được 1 năm rồi, lúc đầu thì windows defender vân dùng bình thường( quét virus,..) nhưng khi uldate lên thì nó thông báo lỗi bảo \"your Virus &threat protection is managaed by your organization\", mjh dịch ra được\"bảo vệ viruss & mối đe dọa của bạn được quản lý bởi tổ chức của bạn\" vậy là sao thế ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.674425,
+         "id": "1141680",
+         "field_search": "question",
+         "question": "cho mình hỏi ở Tp. BẮc Ninh có cửa hàng nào còn iphone 8 ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.643991,
+         "id": "1014857",
+         "field_search": "question",
+         "question": "Em từng mua máy honor 4c tại cửa hàng mình, nay hết bảo hành, nhưng hiện tại máy em khe thẻ nhớ và sim không nhận thẻ. bên mình có sửa tại cửa hàng k,và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.603472,
+         "id": "879761",
+         "field_search": "question",
+         "question": " Em chào AnhChị, Em có mua laptop tại hệ thống cửa hàng, vậy bây giờ em muỗn bảo hành thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.57179,
+         "id": "1019411",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại của tôi là ip6s đang bị lỗi mà không mua tại cửa hàng của thế giới di động vậy tôi có thể gửi cửa hàng để bảo hàng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.513811,
+         "id": "1143269",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop sử dụng trong vòng bao lâu thì vệ sinh 1 lần vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.450363,
+         "id": "1152021",
+         "field_search": "question",
+         "question": "mình mới mua điện thoại realme 2 tại cửa hàng điện máy xanh.vẫn trong thời gian 1 đổi 1 trong vòng 1 tháng.vậy cho hỏi mình có thể đổi sang điện thoại khác được không hay chỉ đổi được máy mới cùng hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.394053,
+         "id": "805387",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5S hiện tại ở cửa hàng có ghép sim không vậy tại máy mình gửi từ nhật về? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.380075,
+         "id": "997010",
+         "field_search": "question",
+         "question": "Cho em hỏi, e mang dt đến cửa hàng tgdd bảo hành, e có được mượn dt của cửa hàng để sử dụng trong thời gian dt e bảo hành không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.357208,
+         "id": "1144087",
+         "field_search": "question",
+         "question": "mình mua laptop vào tháng 9 ...máy mới hãng acerCho hỏi là máy mình được bảo hàng của hãng ở nước ngoài không hay chỉ ở Acer Việt Nam thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.340166,
+         "id": "1137199",
+         "field_search": "question",
+         "question": "cho mình hỏi giá của gear s3 mua online đang giảm giá trong khi mình đang đợi hàng chuyển về tới cửa hàng gần nhất thì có được tính giảm không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.303926,
+         "id": "807452",
+         "field_search": "question",
+         "question": "cho mình hỏi, 1 tài khoản zalo có thể đăng nhập cùng lúc trên 2 máy tính không? Nếu có, làm sao để mình thoát ra khỏi máy tính kia được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.266857,
+         "id": "993053",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là máy em còn được bảo hành. Vậy khi em ra cửa hàng khác sửa tại sao lại mất bảo hành vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.24176,
+         "id": "1139978",
+         "field_search": "question",
+         "question": "Máy tính của e không thể mở bất kì ứng dụng nào có sẵn của Windows như ảnh, lịch, máy tính... kể cả window defender thì em phải sửa sao ạ. Cảm ơn các bác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23329,
+         "id": "1160963",
+         "field_search": "question",
+         "question": "Mình mua Laptop ở ĐMX, giờ laptop ko phù hợp với mục đích sử dụng của mình (máy bị đơ, chậm) mình muốn bán lại Laptop để mua máy mới. ĐMX có mua lại máy của mình ko ạ? Máy mình mua tháng 11/2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.22975,
+         "id": "1168251",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua điện thoại hawei p30 lite ở cửa hàng mới hơn 2 tuần., mình muốn đổi lấy điện thoại Samsung được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.168491,
+         "id": "1003563",
+         "field_search": "question",
+         "question": "Ở đây mình có hỗ trợ vệ sinh máy tính không ạ ???? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.142994,
+         "id": "1158670",
+         "field_search": "question",
+         "question": "Mình mới mua samsung a7 2018 tại cửa hàng, và được khuyến mãi 1 phiếu mua hàng trị giá 500k.  Vậy bây giờ mình mua đồng hồ thông minh tại cửa hàng thì có dùng được phiếu này không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.111353,
+         "id": "918092",
+         "field_search": "question",
+         "question": "Mình có mua 1 cái laptop dell vostro vào tháng 9/2016. bây giờ màn hình máy tính của mình bị hư 1 góc. mà mình không còn nhớ là để hóa đơn mua hàng ở đâu. không biết bên mình có hỗ trợ bảo hành cho mình không. mình mua tại thegioididong tren đường Lê Văn Sỹ. tel: 0933112xxx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.095203,
+         "id": "986711",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua máy dell core i3 đã qua sử dụng tại thegioididong. nhưng về cắm tai nghe hay loa vi tính vào máy thì âm thanh không phát vô dược chỉ nghe được ở trong máy tính thôi. vậy có phải do jack cắm trên máy tính bị hư không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.071169,
+         "id": "1160157",
+         "field_search": "question",
+         "question": "Mình mới lấy máy Nokia 210 cho mình mã bảo vệ của máy với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.06181,
+         "id": "745232",
+         "field_search": "question",
+         "question": " tại cửa hàng mình có bán máy tính Dell inspiron 15 7547 không bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.049744,
+         "id": "954138",
+         "field_search": "question",
+         "question": "Em mới mua 1laptop ở cửa hàng mình Vậy em có được cài đặt lại win và office miễn phí k ạ. Trc đó em đã dc cửa hàng cài cho rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.046108,
+         "id": "1140907",
+         "field_search": "question",
+         "question": "Cho e hỏi là e mua trả góp ở cửa hàng này nhưng nhận máy cửa hàng khác được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.001232,
+         "id": "906971",
+         "field_search": "question",
+         "question": "bạn bên mình trên cửa hàng ở hòa khánh có cho trả góp laptop lenovo yoga300 lãi xuất 0% ko vậy bạn,có gì bạn gởi email phamcong04071993@gmail.com cho mình để mình biết thêm về hình thức trả góp với mình mún mua máy đó định trả trc 30%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992426,
+         "id": "804486",
+         "field_search": "question",
+         "question": "Cho mình hỏi TGDĐ có dịch vụ vệ sịnh laptop không ạ . mình không mua máy ở TGDĐ , nếu có thì chi phí như thế nào . xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.974024,
+         "id": "1160065",
+         "field_search": "question",
+         "question": "cho e hỏi là, oppo f11 khi nào có hàng ở TGDD ạ ? e ko có cọc trước e định mua tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.967884,
+         "id": "999440",
+         "field_search": "question",
+         "question": "Mình công tác trong Nam, được về nhà hơn tháng, giờ muốn mua trả góp. Mấy bạn cho mình hỏi, mua trả góp tại cửa hàng nào thì đóng tiền ở cửa hàng đó, hay cứ đến tgdd đóng là được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.861883,
+         "id": "1155340",
+         "field_search": "question",
+         "question": "chào ad, cho e hỏi laptop e mua ở tgdd đã đc 5 năm, hiện tại sạc pin ko vào( bóng sạc nhấp nháy), z ko biết cửa hàng có còn hỗ trợ chuyển máy về hãng để sửa giúp em ko ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.780817,
+         "id": "1145115",
+         "field_search": "question",
+         "question": " mình hỏi là khi nào có hàng về để mình qua thrgioididong mua luông khỏi cần đặc hàng á ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.746952,
+         "id": "995830",
+         "field_search": "question",
+         "question": "em có mua lap tại đây và h e bị mất window bản quyền khi đem ra TGDD lại cài cho e window crack!! hỏi làm sao để e có lại window bản quyền như lúc mới mua máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.724583,
+         "id": "891166",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy iphon 4 của mình cứ cập nhập phiên bản mới lại hiện dịa chỉ của cửa hàng mình mua,trong khi mình tải các ưngs dụng về từ app thì dùng địa chỉ google của mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.721306,
+         "id": "817022",
+         "field_search": "question",
+         "question": " Mình bị mất biểu tượng app trên máy 5s 16gb, máy mình mới mua hôm qua ở cửa hàng tại Điện Biên. Nhờ ad chỷ giùm. THks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.61771,
+         "id": "1005928",
+         "field_search": "question",
+         "question": "Ad cho e hỏi máy tính e sài lâu nên bây giờ e mún vệ sinh máy cho sạch với chạy nhanh hơn. K biết ở chỗ của mình có vệ sinh máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.599482,
+         "id": "1024370",
+         "field_search": "question",
+         "question": "Chào ad, mình ở tp.hcm , có mua hàng đổi trả bên mình , nhưng dt bị lỗi và phải ra trả lại . NHân viên bảo là giờ mình muốn đổi con khác tại cửa hàng phải bù thêm vì giá cao hơn. Mình có coi thông tin thì của hàng ở tỉnh khác đang còn máy ngang giá thì tgdd có hỗ trợ gửi máy về tp.hcm để đổi cho mình được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.595556,
+         "id": "998820",
+         "field_search": "question",
+         "question": "mình muốn mua ipad cũ, các cửa hàng trong tỉnh không có, vậy mua tỉnh khác có thể ship về cửa hàng gần nhất không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.59122,
+         "id": "1167975",
+         "field_search": "question",
+         "question": "Shop ơi! E lỡ xoá hết phần mềm Word, Excel,.. Trong laptop mà cửa hàng đã cài cho e rồi. Không biết cửa hàng có thể cài lại giúp e không. Nếu làm lại được thì có tính phí không ạ, tính phí thì phí bảo nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.583595,
+         "id": "997528",
+         "field_search": "question",
+         "question": "TGDD có thu lại đt mobiistar lai yuki ko ạ ? máy còn bảo hành và mua tại cửa hàng TGDD luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.558363,
+         "id": "993190",
+         "field_search": "question",
+         "question": "mình mua hàng ở cửa hàng thế giới di động bên TP.HCM và giờ hàng bị lỗi mình bảo hành ở bất kì cửa hàng thế giới di động nào trên toàn quốc được đúng k ạ ? mình hiện đang ở Biên Hòa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41763,
+         "id": "1139787",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng có bán dây sạc cho máy tính bảng huawei t170 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.364754,
+         "id": "833674",
+         "field_search": "question",
+         "question": "Cho mình hỏi TGDĐ có dán màn hình laptop tại cửa hàng không ạ. Nếu dán thì chi phí là bao nhiêu và chế độ bảo hành thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.325703,
+         "id": "1023755",
+         "field_search": "question",
+         "question": "TGDD có bảo hành màn hình cho máy tính bảng Acer ko, mình mới mua được mấy tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.314623,
+         "id": "988930",
+         "field_search": "question",
+         "question": "cho hỏi trong lúc mua iphone hoặc ipad ở thế giới di động mình có được check imei tai cửa hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.29403,
+         "id": "833552",
+         "field_search": "question",
+         "question": " cho mình hỏi là thế giới di động có dịch vụ vệ sinh laptop ko ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.294004,
+         "id": "1167442",
+         "field_search": "question",
+         "question": "Em mua laptop tại cửa hàng, nếu em mua thêm SSD và có nhu cầu nâng thêm Ram cho laptop thì cừa hàng TGDD bên mình có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.27591,
+         "id": "893939",
+         "field_search": "question",
+         "question": "Cho mình hỏi, thế giới di động bên hỗ trợ kĩ thuật có cài window không ạ? Tại mình cài lại xuống window 7 từ window 8, win 8 khó sài, và mình hỏi một điều là cài window có phí bao nhiêu hay là cài bằng cách crack, tại mình sợ cài window bằng cách có rủi ro cho máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.269375,
+         "id": "1000220",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về laptop. Mình đang kiếm laptop asus gl553ve nhưng thấy bên cửa hàng ko có bán sản phẩm này. Cho mình hỏi là bên mình trong thời gian gần nhất có nhập dòng này về không và có thể cho mình thời gian chính xác được không? Thanks cửa hàng rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.26162,
+         "id": "1004632",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình mua laptop tại cửa hàng thế giới đi động. Khi bạn nhân viên cài máy, mình có hỏi là phần mềm Office 2010 có bản quyền ko? thì bạn nv nói là có. Mà h mình thấy máy báo là phần mềm ko có bản quyền.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.178387,
+         "id": "765316",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện tại em đang định mua laptop Asus x402ca wx055 core i3, không biết shop mình có hàng không ạ? Nếu không có hàng thì em có thể đặt hàng để cửa hàng lấy về được không? Vì cách đây không lâu em có hỏi 1 cửa hàng gần nhất đc biết là shop không kinh doanh máy tính xách tay nhưng nếu đặt hàng thì shop lấy về giao và giảm 5% giá. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.120798,
+         "id": "998405",
+         "field_search": "question",
+         "question": "Máy tính mình xài window 7, hiệ tại máy có 2 accounts đều có quyền admin. Mình đã làm mất mật khẩu 1 account, lam sao để lấy lại mật khẩu bằng account còn lại ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.12059,
+         "id": "921632",
+         "field_search": "question",
+         "question": "Máy em nó hiện dòng chữ :\" Có vẻ như điện thoại của bạn đang chạy viber với các tính năng bảo mật cao. Bạn sẽ phải xác thực máy tính bảng Android để được bảo vệ toàn diện.\" Vậy làm sao để khắc phục vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.092875,
+         "id": "775736",
+         "field_search": "question",
+         "question": "Cho tôi hỏi phần mềm windows defender trong win 7 có diệt virus được không? máy tính của tôi chỉ sử dụng mỗi phần mềm đó thì liệu có an toàn không? vừa qua kiểm tra má tính thì tôi phát hiện có một file tên wmiaprpl.h. File đó là an toàn hay virus?Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.091724,
+         "id": "931780",
+         "field_search": "question",
+         "question": "Thưa QTV,Em xài laptop LEnovo YOga 510. Tự nhiên đang xài ngon lành, không biết do gì mà camera em ko xài được nữa. NÓ hiện ra lỗi nàyThưa ad, làm sao để khắc phục nó ạ? Em đã thử reset lại ứng dụng camera, quét driver nhưng vẫn không được. Phần mềm chống virus của em chỉ có window defender thôi. Và em đã turn on camera trong setting rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.08293,
+         "id": "802695",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình không mua laptop ở TGDD nhưng mình có thể sữa chữa tại TGDD được không ạ, hiện tại laptop mình hay bị treo máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.047842,
+         "id": "1023853",
+         "field_search": "question",
+         "question": "xin chaò cho hỏi cửa hàng mình có thay bàn phím laptop không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.045248,
+         "id": "817475",
+         "field_search": "question",
+         "question": "Mình vừa mua ip6s tại cửa hàng tgdd. Máy mới 100%. Khi về sử dụng mình bị kẻ xấu đăng nhập tài khoản icloud và ko có mật khẩu để thoát. Hiện tại máy chưa restore vẫn sử dụng được. Mình đọc báo thấy thông tin apple vẫn xoá icloud cho kh nếu chứng minh được quyền sở hữu (hoá đơn mua hàng) và mua đúng tại đại lý uỷ quyền của apple. Máy mới mua được vài ngày. Nhờ anh/chị tư vấn giúp xem có đúng thông tin như vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.035852,
+         "id": "1011094",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi là nhà mình có bán các phụ kiện bảo vệ laptop như miếng dán silicon, dán màn hình, hay túi chống sốc cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.004896,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.975079,
+         "id": "1134758",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi cái, hiện tại mình muốn mua oppo A3s 32G không biết cửa hàng mình ở Yên Thành Tản Lĩnh Ba Vì có còn máy này không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.96832,
+         "id": "996500",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy cũ đỗi trả Nhưng em ở tỉnh Cần Thơ mà máy đó hiện như đang ở Thành Phố Hồ Chí Minh thì có thể đem máy về nhận tại các cửa hàng ở Cần Thơ được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.95537,
+         "id": "995111",
+         "field_search": "question",
+         "question": "Mình có mua một laptop Asus tại cửa hàng thế giới di động cách đây khoảng 8 tháng. Theo như thông tin lúc mới mua thì sản phẩm được bảo hành trong 2 năm, nay mình muốn mang đến trung tâm bảo hành để nâng cấp Ram.Vì giấy tờ lúc mua mình không nhớ là để đâu rồi nên mình muốn hỏi nếu mang sản phẩm ra TGDĐ thì có thể nhờ các anh chị nhân viên kiểm tra chứng thực thông tin bảo hành giúp mình không ? ( Lúc mua mình có khai báo họ tên, số đt, CMND...) Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.938547,
+         "id": "1021186",
+         "field_search": "question",
+         "question": "Khi nào thì ở cửa hàng mình có iphonex vậy ạ !!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93171,
+         "id": "1155464",
+         "field_search": "question",
+         "question": "Chị mình có mua laptop bên tgdd nhưng nay để lại cho mình. CHo mình hỏi mình có thể đổi sđt đăng kí bảo hành trên laptop đó không vì máy mới mua. Xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.925316,
+         "id": "813497",
+         "field_search": "question",
+         "question": " Cho hỏi cửa hàng có chạy lai chương trình máy tính không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.9051,
+         "id": "811499",
+         "field_search": "question",
+         "question": "Mình mới mua một cái laptop dell inspiron 3543 i3/window 10 được gần 1 tháng, còn bảo hành, sau khi mua về mình cài đã cài lại win 7 và không kết nối được blutooth và touchpad,trong trường hợp này mình có thể đem máy đổi lại máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.887606,
+         "id": "1000263",
+         "field_search": "question",
+         "question": "cho hỏi laptop bên TGDD con kinh doanh ko ạ, sao mình đem laptop lên TGDD để bảo hành mà tìm ko ra số serri... nên ko bảo hành đc. Hỏi mình phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.885853,
+         "id": "788623",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi.. Em mới mua máy Iphone 5s Gray 16GB ở Thế Giới Di Động... Em Còn toàn bộ giấy tờ,phiếu bảo hành, máy còn mới như vừa mới mở hộp.Giờ em muốn trả lại cửa hàng để hoàn tiền thì e chịu lỗ bao nhiều % và tính sao ạ.. 2 tuần trước e mua là 8 Triệu 490 nghìn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.86225,
+         "id": "831302",
+         "field_search": "question",
+         "question": "Cho mình hỏi ,mình mua laptop trong tgdd,nếu máy có lỗi hay trục trặc gì,mình muốn chạy lại win,cài đặt phần mềm...mình mang đến cửa hàng của tgdd thì các bạn kỹ thuật viên của cửa hàng có hỗ trợ giúp mình không ak.Hay mình phải mang đi đâu.Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.849188,
+         "id": "1141532",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính laptop em mua cách đây ko lâu thì làm rơi bị méo 1 góc cạnh máy tính, màn hình ko vỡ nhưng bị vỡ nhẹ bên trong nên màn hình có dấu hiệu nứt. Vậy e phải làm sao ạ? Cái này có thể bảo hành hay gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.829502,
+         "id": "852722",
+         "field_search": "question",
+         "question": "Anh ơi! ip 6s bị rơi vào nước và thấm vô màn hinh rồi giờ tắt nguồn mở không lên nữa ạ! điện thoại mua ở cửa hàng mình luôn ạ! em có gọi hỏi tổng đài là vô nước không được bảo hành nên em muốn hỏi như vậy có sửa đc ko nếu mình sửa được thì dữ liệu hình trong máy có bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.826122,
+         "id": "1151587",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy? Mà máy của mình không mua tại cửa hàng tgdd thì có thể lại của hàng nâng cấp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "998151",
+   "total": 8450,
+   "total_current": 100,
+   "max_score": 62.207676,
+   "origin_question": "laptop asus x441uawx055d pin rời hay pin liền tks admin???",
+   "hits": [
+      {
+         "score": 35.472786,
+         "id": "811709",
+         "field_search": "question",
+         "question": " pin laptop liền tốt hơn hay pin laptop rời tốt hơn? pin laptop liền hay rời thì thì loại nào mới hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.677277,
+         "id": "760425",
+         "field_search": "question",
+         "question": " Anhchị cho em hỏi Laptop Asus F454LA pin rời hay pin liền máy vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.58936,
+         "id": "888722",
+         "field_search": "question",
+         "question": "cho em hỏi laptop X554LA 2560XD thiết kế pin liền hay pin rời ạ? nếu là pin liền thì sử dụng sao cho đúng cách ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.702888,
+         "id": "1011522",
+         "field_search": "question",
+         "question": "So sánh giữa laptop pin liền và pin rời  có những ưu nhược điểm gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.778446,
+         "id": "836798",
+         "field_search": "question",
+         "question": " cho e hỏi pin máy asus E402 N3050 là pin liền hay rờiạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.032822,
+         "id": "1016772",
+         "field_search": "question",
+         "question": "Điện thoại J5 prime  là pin liền với may hay rời . Và có thay được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.462385,
+         "id": "786178",
+         "field_search": "question",
+         "question": "   Điện thoại Mobiistar Prime X Plus dùng pin liền hãy tháo rời. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.702267,
+         "id": "987343",
+         "field_search": "question",
+         "question": "minh cần tìm laptop chạy i5, bàn phím nổi vì máy nhà mình bàn phím dẹp quá gõ ko nhanh được, giá tầm 9-10tr, à bây giờ đa số laptop đều là pin liền hay sao vậy admin, nếu pin liền vậy hư thì mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.105232,
+         "id": "800269",
+         "field_search": "question",
+         "question": " Pin laptop là pin liền sau này nếu pin chai có thay được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.109701,
+         "id": "818014",
+         "field_search": "question",
+         "question": " Cho mình hỏi laptop pin liền có thay được không.? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.044998,
+         "id": "780372",
+         "field_search": "question",
+         "question": "Ad cho hỏi pin của máy Asus A556UF có rời k ạ, em hay sử dụng nhiều nhưng pin của máy chỉ có 2 cell, em sợ vừa sạc vừa dùng máy bị chai pin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.582067,
+         "id": "780804",
+         "field_search": "question",
+         "question": "Em dùng laptop DELL có nên tháo rời pin ra, rồi cắm nguồn trực tiếp sử dụng hay là không tháo pin ra ma cắm nguồn vào sử dụng luôn, bất kể pin đầy hay chưa đầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.445723,
+         "id": "755443",
+         "field_search": "question",
+         "question": "Qtv cho tôi hỏi. Tôi dùng laptop Asus pin không thể tháo rời. Nếu laptop của tôi bị đơ, đứng máy thì tôi phải làm như thế nào để tắt máy hay khởi động lại máy. Vì không thể tháo pin ra như cách mọi người vẫn làm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.999388,
+         "id": "1002306",
+         "field_search": "question",
+         "question": "A chị cho em hỏi laptop em ASUS X451CA pin liền dùng được 4 năm bỗng dưng pin bị lỗi báo No battery is detected . A chị có thể tư vấn cho em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.917946,
+         "id": "812039",
+         "field_search": "question",
+         "question": " Dell Vostro 3558 i5 là sử dụng card màn hình rời hay liền vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.46791,
+         "id": "827271",
+         "field_search": "question",
+         "question": "e vừa mua asus K555L pin liền ở thế giớ di động, vì tính chất công việc phải sử dụng laptop liên tục suốt 8 tiếng 1 ngày, làm thể nào để pin không bị chai ạ, e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.323532,
+         "id": "1005778",
+         "field_search": "question",
+         "question": "Laptop HP Envy 13ab003TU i7 7500U pin có thể tháo rời không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.302242,
+         "id": "909766",
+         "field_search": "question",
+         "question": " Vừa sạc vừa sử dụng laptop pin liền có ảnh hưởng gì không ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.595043,
+         "id": "1003308",
+         "field_search": "question",
+         "question": " Thưa admin em đag dùng 6s và thời lượng pin của máy như thế có ổn không admin hay pin bị tuột. Em xin cám ơn   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.372744,
+         "id": "1005642",
+         "field_search": "question",
+         "question": " Laptop Dell XPS 9360 i7 7500U pin có thể tháo rời không và mấy cell v ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.304663,
+         "id": "812555",
+         "field_search": "question",
+         "question": "Ai có kinh nghiệm dùng lap hãng ASUS chỉ mình vớiMình mới mua con ASUS K541LN pin liền máy.tra trên web thì mỗi người một ý kiến,k biết nghe ai.Mọi người cho mình hỏi cách sạc pin với ạ,làm thế nào để pin không bị chai ạ :((Thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.212448,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.167398,
+         "id": "1024181",
+         "field_search": "question",
+         "question": "Cho e hỏi cái laptop asus k401u e có reset máy lại và bị hết pin . E sạc pin mở nguồn lại thì bị như thế này . Không khắc phục đc . Admin có cách xử lí nào ạh .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.134798,
+         "id": "1140261",
+         "field_search": "question",
+         "question": "laptop liền pin thì mình vừa sạc đầy pin sau đó cắm sạc dùng lâu rồi rút dây đem đi thì có bị chai pin không ạ ? giúp em với em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.996962,
+         "id": "901667",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ! sạc laptop asus F454L (pin liền) e cắm sạc thỉnh thoảng pin không vào, hoặc có khi nhấp nháy đỏ báo pin, e cắm sạc khác cùng hãng thì vẫn sạc được bình thường ạ. e kiểm tra sac ở ngoài thì không có bị đứt dây hay như thế nào cả. thế h e phải làm sao ạ?cảm ơn ad!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.820939,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.702566,
+         "id": "835158",
+         "field_search": "question",
+         "question": " Laptop Asus P550L khi sử dụng mà cắm sạc pin để cả ngày có chai pin không ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.693029,
+         "id": "990820",
+         "field_search": "question",
+         "question": " cách khắc phục pin laptop asus không hiển thị  qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.687878,
+         "id": "839003",
+         "field_search": "question",
+         "question": " hello ! tgdd có bán pin laptop asus X550C ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.670619,
+         "id": "774850",
+         "field_search": "question",
+         "question": "Khoảng thời gian trước tôi có mua 1 laptop ASUS K43E ở TGDĐ, nay lap bị cháy pin xin hỏi TGDĐ có hỗ trợ sửa chữa hay thay pin không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6190195,
+         "id": "939315",
+         "field_search": "question",
+         "question": " nên gắm xạc pin laptop nhiều dù pin 100 hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.426897,
+         "id": "751637",
+         "field_search": "question",
+         "question": " Em mới mua laptop asus cần một lời khuyên sạc pin laptop đúng cách? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.400647,
+         "id": "993355",
+         "field_search": "question",
+         "question": "Nên mua laptop có ổ cứng ssd hay laptop có card rời?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.262014,
+         "id": "1005772",
+         "field_search": "question",
+         "question": "Laptop Asus G752VS i7 6820HK sử dụng loại pin nào và pin có mấy cell vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.176628,
+         "id": "782904",
+         "field_search": "question",
+         "question": " cho hỏi bên bạn có bán pin laptop asus k43sd không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9993,
+         "id": "956157",
+         "field_search": "question",
+         "question": " Cho e hỏi bên mình có thay pin Iphone 5s ko? bao nhiêu tiền và lấy máy liền hay phải hẹn ngày khác ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.854531,
+         "id": "1005724",
+         "field_search": "question",
+         "question": "Laptop Asus UX360UA i5 7200U có card màn hình rời không vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.713547,
+         "id": "771585",
+         "field_search": "question",
+         "question": " Admin ơi, cách tháo pin máy Dell n3552pen15.6hdwin10??Cám ơn Admin! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.677772,
+         "id": "813024",
+         "field_search": "question",
+         "question": " em mới mua laptop ASUS F454L, cho em hỏi cách sạc pin cho đúng để pin có thể sử dụng tốt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.667804,
+         "id": "779235",
+         "field_search": "question",
+         "question": "AD ơi! cho em hỏi ở đây có bán pin iPhone 5 không ạ! pin em đang dùng từ 50% hụt xuống nhanh lắm ạ! pin ảo hay sao ý ! mong admin giả thích hộ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.591063,
+         "id": "898445",
+         "field_search": "question",
+         "question": " cho em hỏi laptop Asus A456u WX034D khi sạc đầy 100 thì đèn báo tín hiệu pin nó sẽ tắt hay chuyển sang màu xanh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.47565,
+         "id": "1017032",
+         "field_search": "question",
+         "question": "ktv cho e hỏi laptop asus x541ua e mua chưa đầy 1 tháng thì giờ pin của e đã chai 2 % rồi. e hay cắm sạc đầy pin rồi vừa dùng vừa cắm sạc k rút ra liệu như thế làm ảnh hưởng tới pin phải k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.329069,
+         "id": "937949",
+         "field_search": "question",
+         "question": " Cho em hỏi pin laptop Asus tp550l hàng mới, chính hãng giá bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.327027,
+         "id": "999744",
+         "field_search": "question",
+         "question": "E cần tìm mua 1 laptop có thể chơi dc Liên Minh Huyền Thoại & Fifa Online 3. Admin tư vấn cho e 1 vài loại đi ạ. Tks Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.322399,
+         "id": "1019771",
+         "field_search": "question",
+         "question": "Thay pin liền cho đt Mobell Nova P2 thì tốn bn tiền vậy...??!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.322399,
+         "id": "1011335",
+         "field_search": "question",
+         "question": "odfng mobisatar zumbo j2 và s2 thiết kết pin liền máy à anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2035055,
+         "id": "837008",
+         "field_search": "question",
+         "question": " E cần mua một cái laptop Dell chíp core i5 pin tốt và có card rời khoảng tầm 1013 triệu nhờ anh chị tư vấn giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.069169,
+         "id": "1020776",
+         "field_search": "question",
+         "question": "cho mình hỏi laptop asus a556UA có tự động ngắt sạc khi pin đầy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.051826,
+         "id": "856638",
+         "field_search": "question",
+         "question": " Thế giới Di động có bán Adapter xạc PIn của LAPTOP Asus X454L X454LA không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.814143,
+         "id": "1138067",
+         "field_search": "question",
+         "question": "Bên mình có bán pin và sạc của laptop Asus P550L ko? Mình gần TTGD Định Công.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.78863,
+         "id": "787294",
+         "field_search": "question",
+         "question": "Trên máy acer aspire e15 i7/4G/VGA2G pin liền thì làm sao để chuyển từ chế độ dùng pin sang chế độ dùng điện trực tiếp vậy QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.555633,
+         "id": "875849",
+         "field_search": "question",
+         "question": "Hiện e đang tìm mua 1 cái laptop có thể chiến game gta5 hay call of duty black ops 3 tốt có thể gắng thêm card rời xin các admin có thể tư vấn giúp em. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.5385,
+         "id": "998996",
+         "field_search": "question",
+         "question": "Tư vấn dùm e. cần 1 laptop CORE I5, CARD MÀN HÌNH RỜI, MÀN HÌNH CẢM ỨNG, THUỘC DÒNG DELL HAY ASUS, HÀNG MỚI 100%.Dùng để lập trình 3D cũng như chơi game tầm trung.THANK",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.393236,
+         "id": "994371",
+         "field_search": "question",
+         "question": "Cần mua 1 laptop  16tr , chạy chip HQ, màn full HD, có card rời để chạy đồ hoạ như pts,ae.. Mượt . Admin tư vấn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.360554,
+         "id": "1141332",
+         "field_search": "question",
+         "question": "cho mình hổi máy này pin liền, vậy có vừa sử dụng vừa cắm sạc được không vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.321951,
+         "id": "1002497",
+         "field_search": "question",
+         "question": ".........Admin cho mình hỏi Pin iphone 5 có giá bn nhỉ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.312402,
+         "id": "1015560",
+         "field_search": "question",
+         "question": "Cho hỏi bên bạn có laptop dell nào 15tr đến 16tr chơi liên minh mượt cấu hình cao cad đồ họa rời pin chạy ưng dụng nhìu ít lag khi tải nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.244979,
+         "id": "1001531",
+         "field_search": "question",
+         "question": "mình có cái asus zenphone a500cty có bán pin và thay thế pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.164801,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.117105,
+         "id": "1164777",
+         "field_search": "question",
+         "question": "Ad có bán pin rời của dt  INTEX Aqua Lite ko ạ nếu có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.112621,
+         "id": "838940",
+         "field_search": "question",
+         "question": "laptop asus TP550LA của mình ko thể xoay màng hình khi gập máy lại với lại khi rút sạc ra. pin còn khoảng 70% thì màng hình nó chớp tắt liên tục ( nhưng CPU vẫn chạy ) nhờ admin chỉ cách khắc phục giùm mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.97105,
+         "id": "870537",
+         "field_search": "question",
+         "question": " Hiện em đang xài laptop asus TP501UB. Mình vừa sử dụng vừa sạc có bi chai pin gì không a??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.950402,
+         "id": "1166149",
+         "field_search": "question",
+         "question": "Laptop e hiệu asus, khi sạc đủ 100 pin thì sử dụng trong tgian bao lâu hết là hợp lí ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.886893,
+         "id": "783418",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi cái laptop Asus F555LF-XX166D khi đang cắm sạc Pin 100% thì máy có tự chuyển qua dùng nguồn điện thay Pin không ạ. Tức là máy có chức năng chống hư Pin vì sạc nhiều.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.842118,
+         "id": "1149647",
+         "field_search": "question",
+         "question": "máy Huawei Y7 Pro 2019 xạc bao lâu thì đầy pin hả admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.823059,
+         "id": "770853",
+         "field_search": "question",
+         "question": "Cho mình hỏi Dell vostro 3500 có micro để nói chuyện video call được không? Hay mình phải mua thêm 1 cái micro rời cắm vào. Cám ơn Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.788261,
+         "id": "1004953",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi pin sámung J2 2016 bên mình có bán ko ạ , và giá nhiêu ạ . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.753261,
+         "id": "994070",
+         "field_search": "question",
+         "question": "Mình mua laptop Asus UX410 được 3 ngày mà pin đã chai mất 3, không biết có cách nào khắc phục không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.711514,
+         "id": "1156372",
+         "field_search": "question",
+         "question": "hiện tại hệ thống của thế giới di dộng và điện máy xanh đã bán Laptop asus vivobook S15 S530UN BQ005T core I7-855U/win 10 (15.6 inch FHD IPS) hay chưa, báo giá giúp mình, tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.663163,
+         "id": "996605",
+         "field_search": "question",
+         "question": "Cho em hỏi : Em cần mua 1 laptop tầm 15 triệu đổ lại có card rời ,đa nhiệm tốt, pin tốt , chạy tốt phần mềm CAD ,LOL, hiệu năng ổn và bảo hành tốt ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.654432,
+         "id": "813507",
+         "field_search": "question",
+         "question": "laptop/asus-a456ua-i5-6200u-4gb-500gb-ưin10 mình mới mua dc 2 ngày. Mình sạc đầy pin mà chỉ xài dc 4 tiếng rưỡi là cò 5%. Cho hỏi sao mau hết pin vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.634267,
+         "id": "988915",
+         "field_search": "question",
+         "question": "Admin vui lòng cho hỏi Tại TGDD có thay pin iphone 4 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.518784,
+         "id": "998255",
+         "field_search": "question",
+         "question": "Cho mình hỏi tgdđ có hỗ trợ thay pin liền trong máy khi máy hết thời hạn bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.508234,
+         "id": "999632",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi asus zenfone 3 max 5.5, mình chơi game nhẹ 30p, zing mp3 15p, face, mess, youtube 30p, sài ko ltục tầm 9t30p còn 15% pin là bt hay pin có vđề ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.461645,
+         "id": "778019",
+         "field_search": "question",
+         "question": " Quên mã pin 2 Sony Xperia Z3 phải làm sao lấy lại vậy Admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.364275,
+         "id": "1006641",
+         "field_search": "question",
+         "question": "Cho em hỏi mua laptop pin khoảng 5 đến 6 tiếng, core i5 trở lên, card đồ họa rời, màn hình 15.6 inch, RAM 4GB trở lên, có hỗ trợ SSD; giá 20 triệu trở lại; và không chơi game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.315207,
+         "id": "838391",
+         "field_search": "question",
+         "question": "mình sài laptop asus win 10, từ sáng giờ tự nhiên bị tình trạng, Không vào được bất kì ứng dụng nào tải từ store đã pin ra taskbar, kể cả phím start hay các icon pin,wifi... cũng không bấm vào được..xin ad giúp mình giải đáp và sửa lỗi trên ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.313194,
+         "id": "1158347",
+         "field_search": "question",
+         "question": "admin cho mình hỏi thay pin điện thoại huawei gr5 mini là bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.296601,
+         "id": "820899",
+         "field_search": "question",
+         "question": " Ở đây có thay ram , cpu hay video crad cho laptop không admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.273489,
+         "id": "1017597",
+         "field_search": "question",
+         "question": "Ad cho e hỏi...e xài đt SAMSUNG J5(2016) ko hiểu sao e sạc đầy pin r sử đến 76% pin tự nhiên tắt nguồn r em mở nguồn lên thì nó còn 0% pin. Điện thoại e bị mấy ngày liền luôn ạ...ad giải thích giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.245506,
+         "id": "890881",
+         "field_search": "question",
+         "question": "Cho mình hỏi ip phiên bản quốc tế gọi là unlocked đúng không vậy? Và mua dòng này về là bỏ sim các mạng đang kinh doanh tại Việt nam thì dùng liền được luôn hay phải chạy chọt gì thêm? Tks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.228329,
+         "id": "1005872",
+         "field_search": "question",
+         "question": "Asus GL553VD i7 có được tích hợp card đồ họa rời không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.107186,
+         "id": "844298",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào lúc khoảng gần 1h trưa, rồi cho đến 3h mấy 4h gì đấy thì mình nhớ mang máng là máy báo pin 100% rồi, đèn pin laptop cũng tắt rồi. Cho đến lúc nãy, 8h30 mình tắt máy, cuối cùng mới để ý khi tắt xong cả tự nhiên thấy pin laptop còn sáng. Thấy lạ mình liền mở lap lại để coi, thì thấy máy báo là 99% đang sạc (trong suốt quá trình sài đều vẫn cắm sạc). Là nó bị gì vậy ad?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.089748,
+         "id": "1008178",
+         "field_search": "question",
+         "question": "sony z1 dung cap  MHL loai 5 pin hay 11 pin vay ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.046363,
+         "id": "1137046",
+         "field_search": "question",
+         "question": " Làm thế nào để biết PIN bị chai hay không và biết PIN hoạt động tốt hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.953957,
+         "id": "1146433",
+         "field_search": "question",
+         "question": "chiếc asus zenfone 4 max pro của mình sau khi cập nhập lên android 8 thì máy sụt pin rất nhanh thậm chí tụt một lúc 2% lỗi này có sửa được không hay phải thay pin luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.946808,
+         "id": "751783",
+         "field_search": "question",
+         "question": "Thế giới di động có thay pin iphone 5 không ạ? giá thành bao nhiêu? em có nhu cầu cần thay pin zin iphone 5 cần ADMIN giúp ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.900684,
+         "id": "1140156",
+         "field_search": "question",
+         "question": "cho minh hoi sac pin laptop hp pin khong day phai lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.865901,
+         "id": "827195",
+         "field_search": "question",
+         "question": " Cho hỏi máy Asus X551C có thể nâng cấp card màn hình rời ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.826138,
+         "id": "821523",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi . mình mua máy laptop hồi tháng 2 hảng asus . Đến h thì máy có hiện tượng bị chai pin . Dùng phần mền thì pin bi chai đến 16.4 % . Cho mình hỏi của hàng mình có bao hành pin pi chai ko . Trả lời sớm cho mình nhé .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.815573,
+         "id": "779576",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin laptop asus khi đang \"plugged in not charging\" thì rút adapter ra rồi cắm vào lại có tính là một lần sạc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.815573,
+         "id": "779562",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin laptop asus khi đang \"plugged in not charging\" thì rút adapter ra rồi cắm vào lại có tính là một lần sạc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.800062,
+         "id": "1163401",
+         "field_search": "question",
+         "question": "Máy j6 mua tại tgdd. Mới cập nhật lên ad 9.0 . Sạc pin 100% cầm 5p còn 27% . Tình trạng pin ảo k tụt nua. Mong admin tue vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.799757,
+         "id": "1016070",
+         "field_search": "question",
+         "question": "Cho a hoi pin 5000 của  zenphon asus có  ko thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.796448,
+         "id": "1016723",
+         "field_search": "question",
+         "question": "Cho  e hỏi cửa hàng mình có bán pin điện thoại Asus 4 đời đầu tiên không ạ? Loại pin 1200 mAh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.710535,
+         "id": "576009",
+         "field_search": "question",
+         "question": "cho e hỏi asus zefon 5 e mua về thì e xài có cảm giác pin bị trôi đi rất nhanh...trong vòng 1 buổi sáng e nhắn tin đúng 1 lần và để đến trưa thì đã mất 5%...còn chơi game thì trong vòng 5 đến 10p thì mất tới 30% pin......cho e xin hỏi đấy là do pin của máy hay pin e bắt đầu bị chai pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.687716,
+         "id": "835827",
+         "field_search": "question",
+         "question": "Cho em hỏi là card màn hình rời của laptop là lúc mua có sẵn trong máy luôn hay là lúc mua chưa có mà mình phải mua cái card màn hình rời về rồi ráp vô vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.655582,
+         "id": "1011008",
+         "field_search": "question",
+         "question": "ad cho em hỏi lap em hiệu dell inprison core i5, pin không tháo rời được. Nếu em vừa sạc vừa dùng có hư pin không ạ, nếu hư thì làm sao khắc phục lúc máy hết pin mà em đaq dùng ạ. Mong ad trả lời em sớm để e bjk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.605186,
+         "id": "1151053",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là mình vừa mua chiếc ĐT Huawei y7 pro 2019 và ĐT mình ngày nào cũng sạc pin có làm cho tuổi thọ pin giảm đi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

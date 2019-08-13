@@ -1,0 +1,801 @@
+{
+   "id_query": "1015224",
+   "total": 33886,
+   "total_current": 100,
+   "max_score": 112.36641,
+   "origin_question": "Chào TGGD ! Mình mới lấy con redmi note 4 bên đó. Nhưng vào ứng dụng thời tiết thì không cập nhật được vị trí. Hiển thị lên là không thể định vị thiết bị. Vậy cho mình hỏi cách khắc phục được không ạ?",
+   "hits": [
+      {
+         "score": 55.410915,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.019115,
+         "id": "886574",
+         "field_search": "question",
+         "question": " chào bạn, cho mình hỏi khi vào bản đồ IP 6s ko hiển thị được định tuyến đường đi, chỉ xác định được vị trí thôi ạ, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.329548,
+         "id": "1163302",
+         "field_search": "question",
+         "question": "Mình mới bị mất 1 cái Galaxy Note 8, nhưng tìm định vị theo tài khoản Samsung account và email vẫn ko thể truy cập được. Vậy giờ mình có thể định vị theo EMEI được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.33372,
+         "id": "1006260",
+         "field_search": "question",
+         "question": "adm cho em hỏi xíu, em mới bị Kẻ xấu lấy trộm ĐT S7 em muốn định vị vị trí của máy hiện tại ở đâu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.31921,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.507072,
+         "id": "742625",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em vào thời tiết của oppo neo 7 mà điện thoại báo không định vị được và thêm thành phố là sao.trong khi em đã bật định vị rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.676537,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.081615,
+         "id": "1156245",
+         "field_search": "question",
+         "question": "Tôi dùm dt ss A6 lúc trước vào zalo định vị vị trí quét xung quanh dc sao giờ vào quét định vị vị trí k dc vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.014908,
+         "id": "1011403",
+         "field_search": "question",
+         "question": "mình xài điện thoại mobel s30, mình đã tắt wifi lẫn định vị, 3g nhưng khi vào càiđặt->pin xem chi tiết thì thấy wifi vẫn chạy làm dẫn đến hao pin. vậy cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.256336,
+         "id": "1136043",
+         "field_search": "question",
+         "question": "sử dụng điện thoại a5 2017 có định vị được vị trí của người khác qua điện thoại của mình đăng sử dụng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.9858,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.517387,
+         "id": "796434",
+         "field_search": "question",
+         "question": "Mình vừa bị mất cái điện thoại oppo F1.mình không bật định vị trên máy..nhưng trong máy có tk facebook với google.bây giờ có cách nào định vị được máy không ạ.chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.400814,
+         "id": "761125",
+         "field_search": "question",
+         "question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.33006,
+         "id": "813438",
+         "field_search": "question",
+         "question": " Máy iphone 5s bị lấy cắp và bị tắt nguồn có cách nào định vị được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.867832,
+         "id": "1146429",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop mình trước đây chơi game ok nhưng đột nhiên nay vào game không được và máy báo là game bị đóng vì không tìm thấy thiết bị hoặc gặp vấn đề với diver . vui lòng cập nhật driver mới nhất hoặc phiên bản driver ổn định nhất. Ad có thể chỉ mình cách cập nhật driver hay không ạ. Mình sử dụng laptop HP. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.80241,
+         "id": "997323",
+         "field_search": "question",
+         "question": "EM CÓ MUA GÓP MỘT GALAXY J7 PRIME MÀ BỊ MẤT TRỘM VẬY CO ĐỊNH VỊ LẠI ĐƯỢC KHÔNG VẬY nếu định vị đc bên thế giới di động có hỗ trợ e lấy đt về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.475704,
+         "id": "873645",
+         "field_search": "question",
+         "question": " Vì sao khi chuyển vùng zalo của tôi trên điện thoại sam sung A5 không cập nhật được vị trí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.228336,
+         "id": "867690",
+         "field_search": "question",
+         "question": "Dạ mình sử dụng samsung khi mình tải phần mềm viber về thì lại đòi thay đổi vị trí cài đặt mặc định ứng dụng... nên mình k thể tải về để rồi chuyển sang thẻ nhớ được. Ad có thể h.dẫn giúp mình được khôg ạ ? Cám ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.99449,
+         "id": "1148487",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao oppo r829 của mình bị lỗi phần thời tiết không cập nhật được nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.726715,
+         "id": "1135976",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi cách tắt tự động cập nhật win 10 được không ạ?.Khi cập nhật thì bị lỗi. Admin cho em xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.693707,
+         "id": "769730",
+         "field_search": "question",
+         "question": "Em vừa bị mất cái iPhone 5 tối qua, khi e gọi thì vẫn đổ chuông, không ai bắt máy, định vị thì báo ngoại tuyến e phải làm sao đây ạ, lên find friend trên máy tính thì không xác định được vị trí. giúp e với QTV ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.60735,
+         "id": "1166396",
+         "field_search": "question",
+         "question": "Chào shop. Mình mới mua máy mastel 10. Nhưng mình thấy máy kết nối wifi quá yếu, hay bị ngắt. Cùng 1 vị trí thì ss j3 bắt khá tốt. Cho hỏi do máy như vậy hay là bị lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.575848,
+         "id": "1155270",
+         "field_search": "question",
+         "question": "Cho mình hỏi MediaPad T1 8.0 của mình bây giờ mới ở phiên bản 4.3, nếu muốn nâng cấp lên nhưng máy không có bản cập nhật mới thì có thể tải bản cập nhật đó ở đâu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.56944,
+         "id": "813673",
+         "field_search": "question",
+         "question": "Mình mất điện thoại ip 5s . máy vẫn bật 3g và định vị. mình đã bật chế độ mất trên máy tính. giờ người lấy điện thoại đó có thể sử dụng bình thường được không |",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.558945,
+         "id": "999644",
+         "field_search": "question",
+         "question": "ad cho em hỏi là em bị kẻ gian lấy mất điện thoại,điện thoại em là huawei y6 II ,có liên kết gmail,onedrive,và theo em được biết thì hình như là điện thạoi này có chức năg tìm vị trí j j đó phải ko ạ?ad cho em hỏi là có cách nào giúp em xác địh được vị trí của điện thoại bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.50259,
+         "id": "1015251",
+         "field_search": "question",
+         "question": "Máy e đang dùng IPad mini 2Tất cả ứng dụng của e đều không được phép truy cập vào quyền riêng tưVí dụ: Ứng dụng Uber cần truy cập vị trí nhưng vào cài đawtj chỉ có quyền làm mới trong nền thôiMột vài ứng dụng sử dụng lâu hơn như fb thì có quyền thông báo, còn camera, mic, thư viện đều không có ứng dụng nào được phép truy cập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.260075,
+         "id": "1163783",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi là mình vừa mới mua một con redmi note 6 pro hàng cũ ở chi nhánh 8d nguyễn thị minh khai. Bây giờ mình muốn đổi qua redmi note 7 không biết có được không ạ và hình thức như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.227695,
+         "id": "1022879",
+         "field_search": "question",
+         "question": "Cho mình hỏi :\" Khi mới mua về mình sử dụng ứng dụng google map rất tốt, chỉ đường rất đúng. Nhưng từ khi cập nhật phiên bản mới thì định vị sai và chỉ đường thì lung tung cả. Mình đang dùng J7 Prime . Vậy lỗi do máy hay do phiên bản vậy. Xin cảm ơn\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.118355,
+         "id": "1159742",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.986053,
+         "id": "1162826",
+         "field_search": "question",
+         "question": "mình đang xài con dell e7240. đang dùng bình thường tự dưng touchpad bị đơ, khi di chuyển thì màn hình kéo lên kéo xuống được, nhưng vị trí con chuột bị đơ không thay đổi. mong các anh/ chị giúp đỡ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.76272,
+         "id": "996109",
+         "field_search": "question",
+         "question": "Em đang dùng j7 prime. Lỗi không đồng bộ ảnh được. E vào album thì vẫn xem được ảnh. Nhưng vào ứng dụng bất kì nào để truy cập vào album ảnh thì ko hiển thị. Chỉ hiển thị 6 ảnh mặc định máy thôi. Ví dụ vào zalo để gửi ảnh cho bạn bè nhưng không thể tìm thấy ảnh. Mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.759281,
+         "id": "996727",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mất đt oppo F1s có cách nào định vị được đt của mình k ạ cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.753311,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.658178,
+         "id": "761693",
+         "field_search": "question",
+         "question": " Nếu chưa đăng kí iCloud thì có định vị lấy lại điện thoại được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.5706,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.551128,
+         "id": "1021944",
+         "field_search": "question",
+         "question": "mình có cài đặt iloud gmail cho con j7 pro mới mua. mà mình bị mất máy. vậy cho mình hoi mình có thể kết nối icloud bằng điện để tìm ra vị trí hay là khóa máy đc ko vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.501318,
+         "id": "1152373",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để cập nhật được YouTube trên oppo neo 9 ạ. Em vào thì nó bắt em cập nhật. Em cập nhật thì nó hiện. Ứng dụng không thích hợp với thiết bị của bạn. Như vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.47435,
+         "id": "780518",
+         "field_search": "question",
+         "question": " Mình khóa icloud nhưng cài grab lại không bật định vị được máy mình ios 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.369848,
+         "id": "1155180",
+         "field_search": "question",
+         "question": "Tôi mua đt A13 ở cửa hàng TGDĐ, cho hỏi đt này có kiểm tra được định vị vị trí điện thoại không? Nếu có xin hướng dẫn cho tôi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.352146,
+         "id": "909648",
+         "field_search": "question",
+         "question": " Add cho mình hỏi cập nhật IOS 10.1 cho ip6 nhưng nghe gọi lớn  nhỏ không ổn định ? có cách nào khắc phục không add ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.252998,
+         "id": "1145340",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop của mình là Asus Vivobook S15 X510UQR. Hôm qua mình cập nhật Win xong thì máy kêu khởi động lại máy. Khi khởi động lên thì bị mất Wifi. Mình đã dùng mọi cách để khắc phục nhưng không được. Sau đó cài Driver Wifi thì mới sử dụng được Wifi. Và tình trạng khi tắt máy mở máy lên vẫn mất Wifi, tiếp tục cài Driver mới sử dụng được Wfifi. Ngay cả phím chức năng Fn cũng vậy. Kỹ thuật viên có thể giúp mình giải quyết vấn đề được không. Mình xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.22746,
+         "id": "1161347",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi làm sao thay đổi vị trí đồng hồ từ góc trái sang phải ( nằm cùng vị trí % pin, cột mạng) trên điện thoại ss note 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.019072,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.972672,
+         "id": "1158829",
+         "field_search": "question",
+         "question": "Máy samsung A30 có tgowif tiết mặc định ko ạ, mình tải về nhưng k cài đc vị trí. Nó cứ dò mà k ra xong nó ghi vt vớ vẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.929937,
+         "id": "744406",
+         "field_search": "question",
+         "question": "Minh dang xài 5s không hiểu sao cập nhật úng dụng trong App store lại kêu đăng nhập tài khoản (không phải tk mình thiết lập) có cách nào khắc phục để đăng nhập và cập nhật ứng dụng đúng như ID trong App store mình đã thiết lập ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.919456,
+         "id": "1018566",
+         "field_search": "question",
+         "question": "máy e mới bị vào nước , e bỏ vào gạo cho khô rồi ,nhưng khi bật lên sử dụng thì không cảm ứng được ??không biết bị lỗi gì , liệu có bị hư IC không xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.780985,
+         "id": "837769",
+         "field_search": "question",
+         "question": " Máy em cập nhật phần mềm iPhone mới sau đó truy cập Facebook thì lại không vào được làm sao để khắc phục ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.754889,
+         "id": "1023800",
+         "field_search": "question",
+         "question": "Admin cho e hỏi là e xài oppo neo 5 được 1 thời gian và thường xuyên cập nhật ứng dụng mới , nhưng thường xuyên bị không phản hồi về các ứng dụng như : Facebook , Zalo , google , YouTube ,...và cách ứng dụng khác , vậy cho e hỏi là bị gì , nguyên nhân và cách sửa chữa...! E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.605925,
+         "id": "1157234",
+         "field_search": "question",
+         "question": "Hiện mình đang sử dụng iphone x nhưng đt của mình bị mắc lỗi không thể hiển thị hiệu ứng trong imessage. Sau đó mình có tắt imessage để bật lại nhưng bị lỗi không kích hoạt được imessage. Bộ phận hỗ trợ có thể giúp mình trường hợp này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.544785,
+         "id": "799190",
+         "field_search": "question",
+         "question": " Laptop mình trước đây dùng GPS báo đúng vị trí nhưng giờ báo sai. Mong QTV chỉ cách khắc phục.Thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.391071,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.362661,
+         "id": "796305",
+         "field_search": "question",
+         "question": "iPhone 5s mà mới bị mất tối qua mà em chỉ mới bật icloud tìm iphone thôi ko mở định vị mà giờ đt e tắt nguồn rồi..giờ có cách nào định vị được không chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.361061,
+         "id": "1154611",
+         "field_search": "question",
+         "question": "Em bị mất cây Oppo f9 không mở định vị nhưng em có Đăng nhập Google Facebook Zalo và cả số điện thoại thì mình có cách nào để tìm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.320036,
+         "id": "919409",
+         "field_search": "question",
+         "question": "Cho em hỏi sao điện thoại lumia 535 đã cập nhật facebook mới rồi , vào nhóm nhưng chỉ xem được 1 -2 bài viết thôi. Add chỉ em cách khắc phục với ( đã cập nhật điện thoại rồi ) vẫn không được. Vào internet truy cập Facebook thì comment cũng không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.243706,
+         "id": "999970",
+         "field_search": "question",
+         "question": "Cái oppo F3 em mới mua cách đây 5 ngày , nó bị lỗi về pin , liệu e có được đỗi sản phẩm mới. Lúc đi ngủ 80% sáng dậy 71% mặc dù đã tắt wifi vị trí tắt ứng dụng ẩn nhưng vẫn bị , bị 4 ngày nay r ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.176716,
+         "id": "1022986",
+         "field_search": "question",
+         "question": "Mình đang sài Xiaomi redmi note 4 mua tại TGDĐ mình thấy trên web có nhiều người ghi là tối ưu hóa bộ nhớ vậy cho mình hỏi đó là gì? Việc tối ưu hóa lên cao có ảnh hưởng gì tới tuổi thọ máy không ? Máy mình là ram 3GB nhưng mình chỉ thấy free 1.4 /3GB nhưng mình không cho chạy nền gì cả vậy là sao và có cách khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.147532,
+         "id": "903477",
+         "field_search": "question",
+         "question": "xin hỏi quản trị viên mình sử dụng iphone 4s và tải về phần mềm diệt virus avira mobile security sau khi tải về quét như hướng dẫn của web trên mạng thì luôn hiển thị dấu chấm thang ngay tại phần \" vị trí thiết bị \" sau khi quét nhiều lần nhưng vẫn ko mất dấu chấm thang đó thì thiệt bị tôi bị gì ạ xin QTV tư vấn dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.125809,
+         "id": "1020810",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Tại sao galaxy apps của em không thể tải bản cập nhật mới được vậy. Em đã kiểm tra mạng thì vẫn bình thường mà vẫn không thể cập nhật bản mới của galaxy apps được. Mong ad giúp đỡ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.01845,
+         "id": "817976",
+         "field_search": "question",
+         "question": "Mình mới tải facebook lại nhưng khi mở ứng dụng thì hiện thông báo \" rất tiếc, facebook không phản hồi\", làm sao để khắc phục vậy ad . Mình cũng mới cập nhật android 6.0.thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.984026,
+         "id": "986790",
+         "field_search": "question",
+         "question": " Cho e hỏi có định vị được máy đã mất bằng IMEI được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.934797,
+         "id": "758770",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 4S được 2 hôm nay lắp sim, lấy máy khác gọi vào không hiển thị số, bên công ty giúp em khắc phục với , em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.887493,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.864403,
+         "id": "1161516",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình xài note 8. Đã cài đặt mở tất cả âm thanh thông báo nhưng tin nhắn đến thì không có âm, không rung, không hiển thị tin nhắn mới. Cái này khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.825613,
+         "id": "1141090",
+         "field_search": "question",
+         "question": "Sắp xếp vị trí ứng dụng của nokia 5.1 plus như thế nào vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.783518,
+         "id": "1002956",
+         "field_search": "question",
+         "question": "em hiện tại đặt 1 đơn hàng tại thegioididong!nhưng nhận hàng là 21/7 ngày đó em không ở vị trí nhận hàng đượcem muốn hủy đơn hàng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.747705,
+         "id": "775285",
+         "field_search": "question",
+         "question": "Thegioididong cho mình hỏi iphone của mình hay bị out wifi là bị lỗi gì? Có phải do phần cứng không vì mình đã chỉnh \"off\" định vị wifi và cập nhật phần mềm nhưng vẫn bị bắt wifi kém và hay bị out. Nhà có 2 cái iphone mà 1 cái bị chứ không phải cả 2. Cái bị out wifi là iphone 5s quốc tế đã cập nhật phần mềm mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.730124,
+         "id": "819193",
+         "field_search": "question",
+         "question": "Hiện zalo của mình không hiển thị thông báo các họat động của bạn bè, bạn bè có đăng ảnh hay cập nhật cảm nghĩ mới vẫn không có thông báo như trước. Nhờ bên liên quan chỉ cách khắc phục. Cám ơn nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.712961,
+         "id": "760304",
+         "field_search": "question",
+         "question": " Bị mất iphone có cài icloud . Vậy tên trộm tắt định vị thì còn tìm lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.688353,
+         "id": "767455",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: iPhone 5s sao nhanh hết pin, mình chỉ lướt Facebook mà máy được khoảng 15-20 phút là đã thấy nóng, mặc dù không có ứng dụng chạy ẩn, dịch vụ định vị và các ứng dụng không liên quan đã tắt hết. máy mình mới mua ở TGDD được vài ngày.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.679625,
+         "id": "1168996",
+         "field_search": "question",
+         "question": "Tại sao không cập nhật được youtube ? Tải thì máy hiển thị không thể tải app về trong lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.591642,
+         "id": "890343",
+         "field_search": "question",
+         "question": "E bị mất 6s có bật 3g, nhưng k bật định vị. Hiện máy k gọi đc vì hết pin sập nguồn hoặc bị tắt nguồn rồi. Có người đề nghị giúp định vị vị trí ngay cả khi k mở máy. Liệu có tin được k ạ? Và nếu được thì có chỉ chính xác được địa điểm máy k hay chỉ khoanh vùng bán kính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.531132,
+         "id": "1163013",
+         "field_search": "question",
+         "question": "Xin chào. Cho mình hỏi lỗi không cài được app của Xiaomi A1 và cách khắc phục với. Sau lần cập nhật tự động gần nhất (không nhớ tháng mấy của năm 2019) thì sau đó mình không cài app được nữa. Mỗi khi cài thì máy luôn hiển thị trạng thái đang pending. Đã thử dùng wifi, 3G, restart máy vẫn không giải quyết được vấn đề. Nhờ các bạn hỗ trợ. Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.52328,
+         "id": "1160127",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại realme2 lần trước mình có cài chức năng không khoá điện thoại ở vị trí tin cậy(nhà riêng). Giờ mình k biết làm sao để tắt chức năng đó và khi đi khỏi vị trí đó hàng cây số mà điện thoại vẫn chưa khoá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.447056,
+         "id": "892993",
+         "field_search": "question",
+         "question": " e vừa bị mất iphone 5s và e có dùng định vị icloud nhưng không ra,vậy có cách nào khá để tìm lại được không ạ,e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.439152,
+         "id": "757549",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone của em có bật định vị, có tài khoản iCloud, có bật 3g, nhưng khi tắt máy thì có thể tìm được không ạ.? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.419586,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.37178,
+         "id": "816976",
+         "field_search": "question",
+         "question": "Mình bị mất iphone và đã sữ dụng chức năng Find My iPhone ..đã khóa máy và cũng hiện ra vị trí ..Nhưng 1 thời gian sau thì nó báo Iphone ngoại tuyến.. vậy giờ phải làm sao để tìm được máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.312468,
+         "id": "864293",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5 bên nhật đem về bỏ sim vào có sóng nhưng lại báo mạng không khả dụng là sao ạ, có cách khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.301155,
+         "id": "1019770",
+         "field_search": "question",
+         "question": "tối qua mình bị mất điện thoại oppo s1, sau đó mình gọi thì điện thoại tắt máy. vậy mình làm sao định vị được điện thoại đã mất, hay bằng cách nào để tìm được điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.29513,
+         "id": "1150660",
+         "field_search": "question",
+         "question": "Cho mình hỏi là, tại sao con A7 2018 của mình sau khi cập nhật thì tính năng lấy nét selfie không hoạt được nữa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.259468,
+         "id": "796619",
+         "field_search": "question",
+         "question": " Mình mới mua chiếc iphone 5s được mấy hôm,bây giờ để ý thấy dòng imei sau máy hơi lệch vị trí,như vậy là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.166191,
+         "id": "880850",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 sim viettel nhưng khi tải zalo về máy và đăng ký thì có thông báo hiển thị là đã có người sử dụng sđt đó để đk zalo ? cho mình hỏi có cách nào xóa tài khoản đó kô ? Mình lấy lại mật khẩu thì luôn nói đường truyền không ổn định??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.16354,
+         "id": "1148432",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 8plus 64GB nhưng thời gian gần đây mình kiểm tra nhật kí cuộc gọi thì không xem được. Xin chỉ mình cách khắc phục được không? Xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.144083,
+         "id": "1141304",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi , em thắc mắc ko biết bản cập nhật hệ điều hành android smartphone samsung do ai cung cấp ạ , như sony thì nsx sony cung cấp để nâng cấp thiết bị , còn nokia thì nhà sx sẽ gởi bản cập nhật cho hệ điều hành nokia để nâng cấp thiết bị , còn apple thì nhà sx gởi bản cập nhật thiết bị cho apple để hệ điều hành apple nâng cấp thiết bị , samsung , huawei , opple ... cũng như vậy . Vậy cho em hỏi , bản cập nhật thiết bị/hệ điều hành android smartphone của hãng đó do nhà cung cấp gởi qua smartphone mình để nâng cấp thiết bị/hệ điều hành đó phải ko ạ . Vậy bên ngoài có thể gởi bản cập nhật cho mình ko , như 1 trang web hay ứng dụng nâng cấp smartphone mình , mà bản nâng cấp đó ko phải do nhà sx cung cấp mà tự nó làm , liệu 1 trang web hay ứng dụng có thể nâng cấp smartphone mình ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.92934,
+         "id": "923368",
+         "field_search": "question",
+         "question": " Mấy anh chị cho em hỏi Iphone 4 có thể cập nhật lên ios 8 được không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.89771,
+         "id": "1145593",
+         "field_search": "question",
+         "question": "Em đang sử dụng Xiaomi Redmi Note 4 Sao đt của em lại không có chế độ xoay màn hình ạ ? Chơi game hay coi phim gì cũng không thể xoay được ạ !! Có cách nào khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.87765,
+         "id": "754536",
+         "field_search": "question",
+         "question": "IPHONE 5 mình đang dùng có lỗi thế này, khi mình vào appstore thì chỉ có hiển thị mục cập nhật , còn các mục khác như tìm kiếm, hay nổi bật thì màn hình trắng hoàn toàn. Xin cho mình hỏi cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.861773,
+         "id": "1138542",
+         "field_search": "question",
+         "question": " Em gắn thẻ nhớ vào vị trí gắn thẻ nhưng mở máy lên vẫn báo chưa gắn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.850443,
+         "id": "1007888",
+         "field_search": "question",
+         "question": "Redmi note 4 có chuyển ứng dụng sang bộ nhớ ngoài được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.818249,
+         "id": "1141751",
+         "field_search": "question",
+         "question": "ad ơi mình cần trợ giúp : mh đang dùng máy redmi note5 pro hiện tại mình không truy cập đc tât cả các ứng dụng của google ngoài ra không hiển thị phần bàn phím có cách nào khác phục lỗi này k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.809906,
+         "id": "941583",
+         "field_search": "question",
+         "question": "Chào adminCho mình hỏi, mình đang sử dụng laptop Dell Vostro 5560, HDH win 10, hôm qua mình vẫn sử dụng được loa, nhưng hôm nay loa bị rè. Làm thế nào để biết và khắc phục lỗi.-----Do hôm qua có một bản cập nhật HĐH, nên mình không biết là phải lỗi do bản cập nhật hay không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.764095,
+         "id": "1010662",
+         "field_search": "question",
+         "question": "Em vừa cập nhật android 6.0 cho máy Oppo f1s, em thấy mát chạy tốn nhiều ram hơn lúc còn ở android 5.1. Anh( chị) cho em hỏi là như vậy điện thoại của em có phải vị virus không và có cách nào khắc phục không ạ. Em cảm ơn và mong sớm nhận được hồi đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.762558,
+         "id": "839655",
+         "field_search": "question",
+         "question": "điện thoại iphone 4 của mình thấy đang ở phiên bản 6.1.2 mình muốn nâng cấp nên là 7.0 có được không? và làm cách nào? mình vào phần cập nhật phần mềm thì không cập nhật được, giúp m với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.71571,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.680199,
+         "id": "867848",
+         "field_search": "question",
+         "question": "Hiện nay mình đang xài iphone5s hệ điều hành ios 9.3.3. Nhưng sau khi cập nhật hệ điều hành thì không thể kết nối vào App Store. Cho hỏi cách khắc phục điều này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.615818,
+         "id": "1019740",
+         "field_search": "question",
+         "question": "Thưa add! Em mới bị mất một chiếc Oppo F1s ạ! Em có bật GPS nữa ạ! Sau khi thử nhiều cách để dò điện thoại bằng tài khoản Google thì em được biết máy của mình đang bắt một Wifi có tên là Khanhnguyen! Rồi sau đó khi dò thì em nhận được máy nữa, liệu add có thể dò vị trí số điện thoại của em hay giúp em cách nào đó được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.597244,
+         "id": "761453",
+         "field_search": "question",
+         "question": "Chào các anh chị kĩ thuật viên. Cho em hỏi vì sao khi em upload video lên face bằng điện thoại iPhone 3s lại không được. Vào kho ảnh chỉ hiển thị ảnh không hiển thị toàn bộ video, mà em gởi tin nhắn video qua face không được. Hơn nữa khi em nhấp vào đoạn video đó để chia sẻ thì chỉ hiển thị chia sẻ được qua \"Gửi thư\" \"youtube\" mà thôi. Có thể khắc phục được không ạh? Khắc phục như thế nào xin giúp dùm em với. Chớ bây giờ trong điện thoại em rất nhiều video của bạn bè được ghi lại mà muốn chia sẻ lên face lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.584524,
+         "id": "889981",
+         "field_search": "question",
+         "question": "Zalo mình xài dạo này cứ bị tự động thoát tài khoản nên cứ mỗi lần vô là phải đăng nhập lại rất mất thời gian, mình cập nhật phiên bản mới nhất mà vẫn bị vậy. Có ai có cách khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.463745,
+         "id": "834503",
+         "field_search": "question",
+         "question": "Mình vừa cập nhật ip5s 16g len ios 9.3 xong thì hiện lên bảng cập nhật nhà cung cấp nhưng khi mình ấn vào cập nhật thì không thấy j xảy ra nên mình tắt mạng vậy cho mình hỏi dt mình có bị j không và cập nhật nhà cung cấp là như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

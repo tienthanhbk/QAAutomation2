@@ -1,0 +1,801 @@
+{
+   "id_query": "903530",
+   "total": 25540,
+   "total_current": 100,
+   "max_score": 137.69562,
+   "origin_question": " iphone 6 của mình sạc tầm 2 h là đầy nhưng mình để ý tầm 94 95  là lên luôn 100  không biết tại sao? ",
+   "hits": [
+      {
+         "score": 45.14482,
+         "id": "1153787",
+         "field_search": "question",
+         "question": "Cho mình hỏi là điện thoại LG G6 có nên sạc đầy 100 k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.392593,
+         "id": "1017039",
+         "field_search": "question",
+         "question": "minh dùng j7 prime đc 6 tháng khi sạc lúc nào cũng 100%pin sạc rất nhanh. nhưng không hiêu sao mấy hôm nay sạc đc tới 90% là nó là nó dùng lại đợi 3tieng nó mới đầy 100%. sạc từ 15-90 thì sạc rât nhanh. mình thử dùng sạc khác vẫn như thế. mong ad giúp dùm mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.359493,
+         "id": "1145648",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi công suất thực pin6s của mk là 1760mah nhưng cuông suất thiết kế của mình lại có 1690mah là sao ạ? mình mới sạc 5 lần ạ. và mình mới thay pin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.323692,
+         "id": "985953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iphone của em sạc thì vào nhưng không lên pin để lâu cạn pin sập nguồn luôn nhưng vẫn sạc vào đc mà k lên là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.052402,
+         "id": "804731",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình toàn dùng sạc dự phòng để sạc iphone 5s từ lúc mới mua về, nhưng hôm nay mình quên không cắm điện vào sạc dự phòng thế là khi sạc iphone mới 65% đã bị ngắt, thế thì mình nên sạc thêm iphone trực tiếp hay thôi không sạc nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.502502,
+         "id": "1139583",
+         "field_search": "question",
+         "question": "Em vừa đặt một điện thoại Nokia 5 nhận tại siêu thị của TGDĐ tại 29 trần đăng ninh, thành phố Lạng sơn.Số điện thoại là 0918309056.Do mình ko để ý có chương trình khuyến mại khi mua onl thì giờ mình có thế hủy đơn hàng đó và đặt đơn mới thanh toán online được không?Mình ko nhớ mã đơn hàng. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.16838,
+         "id": "760670",
+         "field_search": "question",
+         "question": "Tại sao iPhone của mình vào cài đặt ->> Bảo mật->> Ảnh rồi nhưng vẫn không hiện camera 360 để bật lên nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.157093,
+         "id": "746234",
+         "field_search": "question",
+         "question": "Máy của mình đang xài cái OPPO R7. Mình bị tắt nguồn mà mình sạc nó vô pin và giờ lại mở nguồn không được là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.088615,
+         "id": "998922",
+         "field_search": "question",
+         "question": "Lúc trước mình sạc điện thoại vẫn bình thường, nhưng sao dạo này trong lúc sạc sờ vào thây điện thoại khá nóng, còn củ sạc thì nóng kinh khủng luôn ấy. Mình sợ nó nổ nên đã rút ra... ad cho hỏi như thế là tại sao v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.675144,
+         "id": "1018552",
+         "field_search": "question",
+         "question": "Mình được số điện thoại 02839719975 gọi đến báo là mình trúng pmh trị giá 3 triệu (tự nhận là nhân viên của trung tâm điện máy sài gòn) có liên kết với trung tâm thế giới   di động để tặng mình pmh mua điện thoại ss galaxy. Không biết thế giới i động có biết số đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.652878,
+         "id": "923942",
+         "field_search": "question",
+         "question": "  Điện thoại của em sạc đầy pin vẫn hiển thị 1 là sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.128063,
+         "id": "1013954",
+         "field_search": "question",
+         "question": "Sony M2  của mình bị sập nguồn r.để 2 ngày sau cắm sạc vào nó  chỉ báo đèn led mà không lên màn hình, không khởi động được là sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97442,
+         "id": "833190",
+         "field_search": "question",
+         "question": " Nếu thay pin Laptop, máy của em là Vostro 2420, thì giá tầm bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.954723,
+         "id": "845710",
+         "field_search": "question",
+         "question": "Cho mình hỏi, lí do tại sao khi có tin nhắn mới trên messenger của facebook mình không nghe tiếng chuông thông báo có tin nhắn đến, và không hiện dấu hiệu gì để biết là có tin nhắn cho đến khi mình click vào messenger thì mình mới thấy được tin nhắn. Và không có thông báo nên mình không biết được bạn mình có nhắn tin cho mình, đến khi click vào thì đã quá muộn để trả lời.Mình có tham khảo nhiều cách trên google và thử kiểm tra điều chỉnh mà sao cũng không cải thiện được. Nhờ TGDD xử lí dùm tình trạng này.Many Thanks.Thu NĂm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.702225,
+         "id": "751338",
+         "field_search": "question",
+         "question": "Qtv tư vấn giúp mình. Mình muốn mua máy tính bảng ở giá tầm trung, không biết nên mua loại nào. Mình cũng có nhu cầu chơi game. Thấy ipad mini 2 cũng ok, mà ram có 1GB không biết chạy game nổi không? Phản hồi dùm mình nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.606064,
+         "id": "788043",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi pin của laptop còn baonhiêu phần trăm thì nên sạc? Sạc mấy tiếng? Xem thế nào để biết đã sạc đủ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.593315,
+         "id": "870211",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo r1 của mình gọi bình thường thì không sao nhưng gọi line với tago gắn tai nghe vào thì họ nói mình nghe được còn mình nói thì họ k nghe gì...phải bỏ tại nghe ra họ mới nghe được...là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.03836,
+         "id": "770045",
+         "field_search": "question",
+         "question": "mình vừa mua 1 chiếc lenovo g470 mọi thứ đều ổn,nhưng mỗi goi video trên facebook là nhỏ khi mình nói bên kia nghe rất bé hầu như là không nghe thay gì,mình cũng không biết phải làm sao.ai biết chỉ mình với.(mình nghe rõ người bên kia nói nhưng mình nói bên kia nghe rất bé mình gọi thử cho vài người đều tình trạng như vậy)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.86391,
+         "id": "1138593",
+         "field_search": "question",
+         "question": "cho em hỏi là em đang dùng iphone6 plus nhưng cứ dùng tầm 5 phút là tự reset lại.vậy là làm sao ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.789032,
+         "id": "957546",
+         "field_search": "question",
+         "question": " Laptop của mình ở có ghi là dd3rlonboard1 khe z là cái ram của onboard hay là ram được gắn vào z ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.177013,
+         "id": "935701",
+         "field_search": "question",
+         "question": "Iphone 5 đang xài tự nhiên tụt pin rất nhanh rồi mất nguồn luôn trong vòng khoảng 2g(dù đã sạc đầy 100%). Giờ mình mở nguồn không lên? Máy bị gì và sửa chữa ở đâu được ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.779335,
+         "id": "992039",
+         "field_search": "question",
+         "question": "Cho mình hỏi là nếu 2 thiết bị của apple dùng chung tài khoản icloud và đồng bộ hình ảnh thì các hình ảnh của mình chụp sẽ tự động tải qua máy kia và khi mình xóa hình thì máy kia có bị xóa luôn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.63934,
+         "id": "1016810",
+         "field_search": "question",
+         "question": "Bạn có thể tư vấn cho mình tầm giá 2tr5 thì điện thoại nào tốt để chơi liên quân không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.609173,
+         "id": "1169291",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu sạc bằng sạc zin theo máy iphone 8 plus á là sạc trong bao lâu. R nếu mình mua củ sạc ipad 12w kèm theo dây zin theo máy sẽ sạc trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.252554,
+         "id": "1007310",
+         "field_search": "question",
+         "question": "Làm sao để biết tháng cuối cùng của trả góp phải trả bao nhiêu. Nhân viên tgdd thu tiền nhưng hỏi thì không biết. Mấy sđt của công ty mình trả góp thì gọi toàn nói gì gì. K thấy ai trả lời. Mình trả gop fe credit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.07985,
+         "id": "815862",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi con iphone 5 của mình up len 9.3.1 thì lúc nhận được cuộc gọi lúc không gọi đi thì bt máy mình là máy J/A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.843487,
+         "id": "1004279",
+         "field_search": "question",
+         "question": "Mình định sdụng vân tay nhưng nó hiện lên kục vầy là sao v  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.467592,
+         "id": "1020407",
+         "field_search": "question",
+         "question": "Ip của mình mua tại tgdd nhưng đã quên tk icloud nên bây giời mình reset lại máy thì không có tk icloud để kích hoạt.TH này thì có cách nào để kích hoạt lại máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.275414,
+         "id": "1002791",
+         "field_search": "question",
+         "question": "cho e hỏi là shop của mình có bán đĩa win 7 ultimate không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.274149,
+         "id": "1144744",
+         "field_search": "question",
+         "question": "thẻ atm của mình chỉ đăng ký chuyển khoản ol thì bây giờ mình muốn cà thẻ đê thanh toán ở st thì mình phải làm gì thẻ của mình là thẻ shb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.266205,
+         "id": "777043",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, mình mới mua iPhone 4s, nhân viên có cài đặt sẵn iCloud, giờ mình muốn thay đổi mật khẩu iCloud nhưng máy hỏi 2 câu hỏi bảo mật: tên người bạn thân và công việc mơ ước. không biết câu trả lời mặc định là gì ạ. mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.18984,
+         "id": "999632",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi asus zenfone 3 max 5.5, mình chơi game nhẹ 30p, zing mp3 15p, face, mess, youtube 30p, sài ko ltục tầm 9t30p còn 15% pin là bt hay pin có vđề ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.175144,
+         "id": "1155707",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình dùng ip5s, hiện tại đang bị treo táo,ko mở máy lên đc, có cách nào lấy lại đc hết dữ liệu trên máy trước khi restore không? máy mình đồng bộ chỉ đc một phần dữ liệu chứ ko đồng bộ hết, mình cũng ko hiểu tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.076431,
+         "id": "992754",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước e có mưa một Cái máy tính bảng Samsung giá tầm 6tr chưa đầy 1 năm . Bây h e muốn đổi sang samsung a5 đc không ạ . Tốn khoảng bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.918905,
+         "id": "743876",
+         "field_search": "question",
+         "question": " Cho mình hỏi trên laptop cổng kết nối để USB 3.0 là gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.596273,
+         "id": "777788",
+         "field_search": "question",
+         "question": "Cho mình hỏi 4s của minh đang ở ios 8.3 mình muốn hạ xuống thấp hơn, ios tối thiểu mình có thể hạ là bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.594452,
+         "id": "1166414",
+         "field_search": "question",
+         "question": "Cho mình hỏi tần số quyét của màn hình ip8plus. Là bao nhiêu hz vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.167704,
+         "id": "799863",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở cửa hàng của mình có cài đặt microsoft office mới cho máy tính không ạ. Máy tính e không có mua ở cửa hàng của mình, nếu cài thì có tốn phí là bao nhiêu ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.958921,
+         "id": "999309",
+         "field_search": "question",
+         "question": "Mình mua con asus zenphone max 5.5 ở tgdd được 2 tháng rồi và mình muốn bán lại. Còn mới k trầy xước cũng như đầy đủ phụ kiện thì giá bán là nhiu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.956818,
+         "id": "866323",
+         "field_search": "question",
+         "question": " Cho mình hỏi là tgđ có hỗ trợ nâng cấp ram và cấu hình của laptop không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.865839,
+         "id": "871782",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình quên mật khẩu facebook những khi vào quên mật khẩu thì đợi mã mấy tuần vẫn không thấy mã về. Vậy cho hỏi là làm cách nào để có thể lấy lại mật khẩu facebook ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.855947,
+         "id": "1000908",
+         "field_search": "question",
+         "question": "cho em hỏi thay pin iphone 5 bao nhiêu vậy ạpin của em dùng được tầm 5 phút dù đầy pin tự dưng nó cũng tắt nguồn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.578625,
+         "id": "940000",
+         "field_search": "question",
+         "question": "tài khoản ID Apple của mình bị vô hiệu hóa.Mình đã tìm hiểu trên mạng,mình tạo tài khoản mới và đã đăng nhập nhưng khi mình tải game thử thì nó vẫn kêu là \"ID Apple của bạn đã bị vô hiệu hóa\" thì bây giờ mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.148338,
+         "id": "805037",
+         "field_search": "question",
+         "question": "Tình hình là sạc con ip4 của em bị hỏng giờ em mua dầ cáp không thì có sạc được pin không ạ,và giá cuả cap sạc ip4 là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.065578,
+         "id": "996356",
+         "field_search": "question",
+         "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.89392,
+         "id": "821130",
+         "field_search": "question",
+         "question": "Laptop của em có nhận sạc nhưng không lên % pin, đã vậy còn tuột %. Bây giờ thì tuột hẳn 0% rồi ạ, muốn xài phải vừa cắm sạc vừa xài. Như vậy thì là hư pin hay là hư dây sạc ạ. Em xài hiệu Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.856623,
+         "id": "962449",
+         "field_search": "question",
+         "question": "Bạn ơi,mình sửa lại quốc gia trên tài khoản id apple,vậy là hắn bắt phải có visa.Bây h phải làm sao ạ?mình cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.829823,
+         "id": "890299",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 6s plus, mình lỡ nâng cấp lên ios10, mình không thíc tính năng khóa của nó, h mình mua hạ xuống bản gần đây nhất thì sao ạ, có ảnh hưởng gì tới dt k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.821835,
+         "id": "1141159",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên của hàng có bán ram laptop không ạ? Cụ thể là RAM DDR3L 8GB bus 1600 ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.806103,
+         "id": "991268",
+         "field_search": "question",
+         "question": "chào bạn! miǹh đang dùng ip6 plus nhưng máy của mình đang bị hỏng nut home và mất dấu vân tay mình muốn trung tâm này sửa chữa thì mất bao lâu thời gian và giá sửa cái đó là bao nhêu vầy mình ko mua ở đây cho lên ko có bảo hành vs lại máy của mình bị cong mên nữa.!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.708149,
+         "id": "1160050",
+         "field_search": "question",
+         "question": "Cho mình hỏi cái sạc ipad sạc được cho iphone 7 plus không và thời gian sạc là bao lâu.Iphone 7 plus có thể sử dụng thêm 3 đến 4 năm nửa không ? Mình đang xài 6s plus thấy nó cũng hơi yếu r 7 plus mạnh hơn 6s plus nhiều k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.675772,
+         "id": "1139834",
+         "field_search": "question",
+         "question": "qtv, cho mình hỏi máy của mình (mobell nova f7 pro) lúc trước bị kẹt khe sim, mình tự tháo mặt lưng của máy ra (máy nguyên khối) để lấy khay sim (không hề động chạm đến các bộ phận khác của máy). Bây giờ bị loạn cảm ứng thì có còn được bảo hành không hay là sửa chữa có tính phí. Mong sớm nhận được câu trả lời.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.628687,
+         "id": "1002988",
+         "field_search": "question",
+         "question": "Điện thoại mình là sam sung j5. lúc chiều còn tầm 35% thì bỗng nhiên sụp nguồn tắt đen, sạt bin không vào, mở nguồn k vào. Vậy bây giờ phải làm như thế nào ạ?. Mong tổng đài phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.615189,
+         "id": "1011593",
+         "field_search": "question",
+         "question": "Máy MediaPad T1 10 của mình chạy không mượt do trước kia để nóng đến 60°C, mà trên web của thegioididong.com không thấy bán sản phẩm tương tự. Vậy Có thể nhờ thegioididong.com chuyển máy của mình đến trạm bảo hành Huawei trong Sài Gòn sửa chữa đ.c không, vì hiện tại mình đang ở Nha Trang.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.602488,
+         "id": "744725",
+         "field_search": "question",
+         "question": " Làm thế nào để biết bạn mình đang online trên tango ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.60095,
+         "id": "768503",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s, hiện tại đang là ios 7.1.1.1. Mình muốn chạy lại 7.1.1 hoặc 7.1.2 nhưng khi down firmware chạy bằng iTunes thì bị lỗi 3194. Vậy có cách nào không, mình không muốn lên 9. vì nhiều người kêu lag.2.Máy mình camera sau bị lỗi khi vào may ảnh thì đen xì, trong khi đó cam trước vẫn bình thường. Liệu có phải bị hỏng không hay do firmware?Thanks add.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.48521,
+         "id": "988174",
+         "field_search": "question",
+         "question": "Sở hữu đt tầm trung từ 4 đến 5 triệu thì nên lựa chọn như thế nào? Mình chủ yếu làm việc văn phòng đôi khi cũng muốn giải trí một vài game nhẹ xã stress. Thế mình nên chọn nhãn hiệu nào cho phù họp mong mọi người ý kiến ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.455658,
+         "id": "781372",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 6s 64G của mình dùng lâu lại bị nóng ở phần trên mặt sau là bị trục trặc gì vậy ad??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.171618,
+         "id": "1162267",
+         "field_search": "question",
+         "question": "chào bạn cho mình hỏi mình dùng máy samsung not9+ gọi đi hoặc nghe vs mọi người đều ổn nhưng cứ gọi tổng đài viettell 19006785 là chỉ đc 10s mình ko hiểu luôn mình đã khởi động lại máy vẫn ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.124128,
+         "id": "1144071",
+         "field_search": "question",
+         "question": "Bạn có thể kiểm tra cho mình là pin iphone mình mới thay có chính hãng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.976719,
+         "id": "1142215",
+         "field_search": "question",
+         "question": "Cho hỏi mấy hôm nay điện thoại của mình khi bật dữ liệu di động lại k hiển thị 3g là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.95403,
+         "id": "1168893",
+         "field_search": "question",
+         "question": "Bây giờ điện thoại trong tầm giá 5 triệu nên mua máy nào là ngon nhất??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.845959,
+         "id": "782210",
+         "field_search": "question",
+         "question": " QTV cho em hỏi bên mình có bán combo củ sạc với cáp của iPhone 5s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.708996,
+         "id": "1165496",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua sạc nhanh cho iphone 8 plus nhưng sạc theo máy chậm quá. Mình muốn nó sạc nhanh phải mua cục sạc ipad à. Hay phải mua kèm theo dây máy mới sạc nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.699554,
+         "id": "939269",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi mình dùng chức năng video call trên facebook mà không được,cái camera có biểu tượng gạch chéo mình nhấn vào để mở mà không được.Mình dùng iphone ios10.Mong QTV giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.6457,
+         "id": "801128",
+         "field_search": "question",
+         "question": "hồi em chơi zalo bằng sim em....rồi một thời gian sau em đưa điện thoại lẫn sim em cho thằng bạn...bây h nó vào sài gòn đi làm..và chơi zalo của em..trên điện thoại của em..sdt của em luôn...cho em hỏi có cách nào để biết mật khẩu zalo cũ của em không....sdt cũ em dùng chơi zalo là 0964415628",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.361763,
+         "id": "837556",
+         "field_search": "question",
+         "question": " Máy tính mình không vào được quyền admin bây giờ làm sao ad?vào quyền admin là không lên yes được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.356676,
+         "id": "761897",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5s của em đang xài là ios 8.1.1 em muốn lên 8.4 .1 nhưng lại bị lỗi 3194 là sao hả anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.356676,
+         "id": "761715",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s của em đang xài là iOS 8.1.1 em muốn lên 8.4 .1 nhưng lại bị lỗi 3194 là sao hả ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.32387,
+         "id": "1145715",
+         "field_search": "question",
+         "question": "em mua TRẢ GÓP S9+ MÀU XANH cũ lấy CMND + Hộ Khẩu , nhưng là CMND của ba em nhưng ba em không tới tiệm cùng em chỉ mình em được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.303133,
+         "id": "770370",
+         "field_search": "question",
+         "question": "Cho mình hỏi 5s 16Gb của TGDĐ là bản quốc tế hay bản xách tay,,,có icloud và kết nối iTunes update được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.19922,
+         "id": "1022160",
+         "field_search": "question",
+         "question": "Coi dùm ad ơi,sao bị lỗi kì vậy,dt mình là zenphone 3 max,chẳng biết sao bị vậy,loay huay nãy giờ méo tìm ra cách :v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.12325,
+         "id": "1024330",
+         "field_search": "question",
+         "question": "Add cho mình hỏi máy tính của mình nhảy nhiều tab mới thì làm thế nào để hết ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.095367,
+         "id": "1011097",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 5-6 triệu thì nên mua điện thoại nào là chụp ảnh selfie đẹp ạ. Cấu hình tốt. Chơi game ổn định ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.005335,
+         "id": "1001298",
+         "field_search": "question",
+         "question": "nhu cầu hiện tại của e là học tập..e muốn mua dt để học online down load tài liệu thì chiếc sony z3 D6653 có được ko ạ.nếu không thì nên mua loại máy nào để phục vụ nhu cầu của e..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.81049,
+         "id": "964283",
+         "field_search": "question",
+         "question": " Sao laptop của mình bắt WiFi cứ bị limited hoài mình làm mọi cách vẫn không đđươc h fai lm s hả à ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.619226,
+         "id": "1149692",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi vào subway suffes máy mình bắt đăng nhập = tài khoản google,vậy làm thế nào để đăng nhập = fb được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.582493,
+         "id": "998721",
+         "field_search": "question",
+         "question": "Làm thế nào để biết mình đang dùng máy oppo tên j vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.542397,
+         "id": "1151543",
+         "field_search": "question",
+         "question": "Mình đang dùng asus zenfone 4 max pro,khi cắm dây sạc thì có hiện tượng sạc chập chờn.mình đã thử đổi cục sạc và dây và thử luôn tắt nguồn điên thoại và bật lại.nhưng khi cắm dây sạc vào đèn màn hình máy sáng liên tục.v cho mình hỏi máy bị sao? Nếu bị hư chuôi sạc trong máy thì ở TGDD có mạch sạc cho asus zenfone 4 max pro hay k. Mình chỉ sạc bằng củ sạc và dây sạc kèm theo máy,k hề sử dụng củ sạc hay dây sạc của máy khác. Nếu có chip sạc của máy asus zenfone 4 max pro thì shop gọi cho mình với nha 0905347902 hay 0972565372.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.438139,
+         "id": "999325",
+         "field_search": "question",
+         "question": "Em chào qtv, e mua con zenfone 3 max ( máy cũ, vẫn còn bảo hành 3 tháng, mua ở tgdđ. Dao này e thấy pin gặp vấn đề mấy hôm trc e có sạc pin đầy mà chơi game gần 3h mà pin k xuống % nào, hqua và hnay thì lại sạc pin rất lâu vào, bt là 2'30\" là đầy bh e sạc 3 đến 4 tiếng mới chỉ lên đc 80% pin thôi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.416382,
+         "id": "848239",
+         "field_search": "question",
+         "question": " BÊN MÌNH CÓ BÁN CỦ SẠC VÀ CÁP SẠC IPHONE 4 Không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.179401,
+         "id": "1014770",
+         "field_search": "question",
+         "question": "mình tên hòa mình muốn BQT gửi tới nhân viên trả góp HDsaigon liên hệ mình có điều thắc mắc bên trả góp qua sdt mình là 01675319423",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.148396,
+         "id": "1022893",
+         "field_search": "question",
+         "question": "Minh dang dung may LG .mình lắp sim mà máy ko nhận .mà chỉ hiện lên gửi 122 là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.084854,
+         "id": "769063",
+         "field_search": "question",
+         "question": " Cho em hỏi tài khoản ID Appe của iPhone 6 là gì zậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.005302,
+         "id": "750424",
+         "field_search": "question",
+         "question": "anh (chị) cho em hỏi! hiện em là sinh viên và em đang cần mua laptop để phục vụ cho việc vẽ bản thiết kế, chơi game online. Vậy em cần mua loại laptop nào giá tầm 17 triệu trở xuống ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.984297,
+         "id": "1010038",
+         "field_search": "question",
+         "question": "Mình có mua sạc Xmobile ở Tgdđ tháng 9- 2016 bảo hành 1 năm 1 đổi 1 Đến hôm nay mình dùng thấy sạc không dùng được , liệu mình có thể đem đến tgdđ để bảo hành không ? Nếu được thì cần mang gì thêm không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.976498,
+         "id": "1155850",
+         "field_search": "question",
+         "question": "mình đang dùng samsung note9 mà không biết sao giờ khỏi động lên nó báo lỗi giao diên người dùng. không thao tác được gì luôn. Bạn nào giúp mình cách khắc phục với nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.86161,
+         "id": "888631",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.763771,
+         "id": "1011667",
+         "field_search": "question",
+         "question": "Mình mới mua ip6 32G và sạc lần đầu khi pin 17%. Nhưng gần 5 tiếng đồng hồ mà mức pin chỉ mới 37%. Máy có bị lỗi pin không để mình đổi lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.748873,
+         "id": "1149248",
+         "field_search": "question",
+         "question": "shop ơi. mình muốn tư vấn về mua trả góp 0% sao mình chọn sản phẩm và chọn trả góp thì không được mã giảm giá là ntn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.728968,
+         "id": "997166",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động!!Hôm trước mình có share bài tham gia chương trình trúng thưởng ở page có địa chỉ: www.facebook.com/pg/chinhhangdienthoai090và giờ mình nhận được 1 tin nhắn như hình. Mình muốn biết việc này có đáng tin cậy không hay chỉ là lừa đảo.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.65645,
+         "id": "1138546",
+         "field_search": "question",
+         "question": "iphone 6+ của e bị mất âm thanh khi gọi, 2 loa đều ổn, chỉ khi gọi là k nghe thấy gì. E đã restore nhưng vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.632559,
+         "id": "775981",
+         "field_search": "question",
+         "question": " Bạn giúp mình chek imei này xem là  lock hay word .355416076431872  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.483076,
+         "id": "1140471",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt trung tâm tin nhắn và luôn cho phép gửi tin là ở mục nào? Phần nào của máy asus zenfone max m1 plus vậy? Từ khi mình mua máy mới tgdd về lúc gửi tin nhắn dc lúc không. Gửi đi số nào cũng k gửi dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.481993,
+         "id": "753652",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s nhưng dùng wifi không vào được appstore và 1 số ứng dụng nhưng lại vào được youtube và facebook cách khắc phục là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.471556,
+         "id": "1162846",
+         "field_search": "question",
+         "question": "sao em cập nhật oppo joy 3 lên phiên bản mới nhất mà vào messenger chơi game nó vẫn để là \"hãy cập nhật điện thoại của bạn lên phiên bản mới nhất để chơi\"ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.405315,
+         "id": "1021069",
+         "field_search": "question",
+         "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.395632,
+         "id": "801649",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi trên tgdd có bán iPhone 5s cũ không vậy giá dao động là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.394377,
+         "id": "1018549",
+         "field_search": "question",
+         "question": "Cho hoỉ tiền thu hộ cuảcông ty mình là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

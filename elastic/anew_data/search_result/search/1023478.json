@@ -1,0 +1,801 @@
+{
+   "id_query": "1023478",
+   "total": 33506,
+   "total_current": 100,
+   "max_score": 120.92909,
+   "origin_question": "điện thoại của em là samsung j3 (2016) em có 3 trình duyệt dc cài sẵn là google, samsung interner brower và google chrome. Cho em hỏi là có nên xóa trình duyệt nào ko ạ",
+   "hits": [
+      {
+         "score": 42.440716,
+         "id": "760634",
+         "field_search": "question",
+         "question": "Em đang dùng OPPO NEO 7 ạ. Khi em tải 1 tệp trên google về thì nó có hiện ra cửa sổ có biểu tượng của chrome và trình duyệt rồi chọn một trong 2 để tải tệp về nhưng em lỡ ấn vào biểu tượng của trình duyệt và chọn ghi nhớ sự lựa chọn này nên các tệp sau em tải về thì nó mặc đinh là tải bằng trình duyệt và không hiện thị cửa sổ ấy nữa. Em muốn hỏi là làm sao để hủy ghi nhớ lựa chọn đó và nó vẫn hiện cửa sổ giống như cũ mỗi khi em tải một tệp nào đó về ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.33281,
+         "id": "831864",
+         "field_search": "question",
+         "question": "Em xài trình duyệt google chrome mà mỗi lần khởi động thì hiện lên trang web 114la.cn hiện toàn chữ trung quốc thì khắc phục làm sao ạ, em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.188015,
+         "id": "1143308",
+         "field_search": "question",
+         "question": "Cho em hởi điện thoại sam sung s8+ , vào phần mềm facebook có sẵn trên điện thoại mà không loát được các bài đăng cũ trên trang chủ . Mà Vào facebook bằng trình duyệt google trên điện thoại thì loát được vậy  ak ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.841015,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.406696,
+         "id": "1152927",
+         "field_search": "question",
+         "question": "Cho em hỏi khi mở link của facebook trước đây có phần \"mở bằng ...\" Xong sẽ hiện ra trình duyệt, google drive .... Nhưng em lỡ bấm tay vào \" không hỏi lại\" . Giờ muốn bật hỏi trước thì như nài ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.22607,
+         "id": "1144476",
+         "field_search": "question",
+         "question": "cho hỏi làm sao để tắt đc 3 chương trình sau trình duyệt  ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.654873,
+         "id": "1162426",
+         "field_search": "question",
+         "question": "Trình duyệt oneui samsung ad thấy nó vào xem phim trên google nó có bị không tắt thanh điều hướng không ạ ( tức là thanh tác thao tác thoát ra ) Xem xem full màn trên youtube thanh điều hướng tự mất nhưng xem phim trên google thì nó lại không chịu mất đi xem khó chịu lắm ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.41044,
+         "id": "994701",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi sao vào facebook trên PC nó cứ hiện vui lòng thử đóng và mở lại cửa sổ trình duyệt của bạn vậy ạ? Nhưng vào trên điện thoại thì dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.80829,
+         "id": "837738",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung grand prime g531h. Androi 5.1.1. Em không thể sử dụng được app facebook, messenger, cũng như không thể vào fb bằng trình duyệt của máy. App báo k thể kết nối, trong khi trình duyệt vẫn vào được các trang khác. Cho em hỏi nguyên nhân và cách sử lí ạ. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.796425,
+         "id": "998935",
+         "field_search": "question",
+         "question": "Smartphone 512mb ram nên dùng trình duyệt web nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.651237,
+         "id": "1010664",
+         "field_search": "question",
+         "question": "Cứ mỗi lần vô trình duyệt web nh ư google chrome hay cốc cốc là nó cứ xuất hiện thêm 1 tab mới ntn và làm mình rất khó chịu, đợt trc' mình có format máy thì ko còn bị nữa mà bây giờ lại bị lại thì phải làm ntn vậy..??!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.172504,
+         "id": "986129",
+         "field_search": "question",
+         "question": "Qui trình mua trả góp xét duyệt qua điện thoại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.011887,
+         "id": "1013023",
+         "field_search": "question",
+         "question": "cho tôi hỏi.máy điện thoại samsung J3.tôi mua ở cửa hàng tgdd khoảng 3 tháng.điện thoại tôi hôm nào củng hiện tiến trình android.process.media đã dừng là sao dã?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.995253,
+         "id": "1162601",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy j3 2016 có sử dụng được thẻ nhớ 32gb và nên sử dụng loại nào tốt nhất ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.752773,
+         "id": "998488",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. Máy tính của em tự nhiên cứ tự động mở trình duyệt và mở các trang web linh tinh là bị gì ạ ?khắc phục như thế nào mong mọi người giúp đỡ.em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.633362,
+         "id": "1138818",
+         "field_search": "question",
+         "question": "Máy e là y9 2019,tình hình là e ko thể tải được nhãn dán trên mess, e đã thử ở trên nhiều trình duyệt chrom,... và cả trên máy tính nữa. Shop có cách nào giúp e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.608791,
+         "id": "897519",
+         "field_search": "question",
+         "question": " Tại sao em vào trình duyệt chome lên facebook lại không được?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.35056,
+         "id": "912052",
+         "field_search": "question",
+         "question": " QTv cho em hỏi ! Laptop của em kết nối mạng vẫn bình thường nhưng khi truy cập trình duyệt vào không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.712208,
+         "id": "998706",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại của em dòng mobiistar LAI Z1 mới mua về mở google lên thì có thông báo là ứng dụng google đã dừng lại vậy máy đang bị như thế nào vạy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.554398,
+         "id": "1009090",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi là ví dụ em xét duyệt hồ sơ trả góp qua điện thoại vào buổi sáng ngân hàng đã duyệt thì tối em ghé cửa hàng tgdd làm hồ sơ trả góp luôn đc ko..hay xét duyệt xong rồi phải đến liền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.543446,
+         "id": "1138269",
+         "field_search": "question",
+         "question": "ad cho e hỏi, trong quá trình khôi phục cài đặt gốc, samsung note 3 của em bị khóa Samsung acoutn, mà em thì không nhớ? vậy em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.442816,
+         "id": "768884",
+         "field_search": "question",
+         "question": "Mình mới cài win 10 tại tgdd,về game online thì chơi được nhưng lên wed bằng trình duyệt coc coc hoặc chữ em có sẵn trong máy thì không được,vào trang wed thì cứ đẩy về trang chủ hoài ak,khi đẩy về xong là một trình duyệt màu trắng, vào trang nào cũng vậy, vậy nguyên nhân vì sao ? Xin qtv hỗ trợ với! Hình dưới là trang chủ cốc cốc không giống như lúc trước, nhập địa chỉ nào nó cũng về màn hình y như vậy đó ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.303434,
+         "id": "1155723",
+         "field_search": "question",
+         "question": "cho em hỏi nay có chương trình khuyến mãi gì không ạ? khi nãy có số điện thoại nói em trúng được phiếu mua hàng là 3 triệu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.234112,
+         "id": "1167572",
+         "field_search": "question",
+         "question": "Cho em hỏi là có kính cường lực của J3 2016 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.211576,
+         "id": "1142839",
+         "field_search": "question",
+         "question": "em lỡ tay xóa 1 vài ảnh trên điện thoại samsung a5 2016, em vào samsung  cloud khôi phục mà không được, cho em hỏi có cách nào khôi phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.12171,
+         "id": "1157526",
+         "field_search": "question",
+         "question": "Mình gặp một lỗi khi dùng facebook trên trình duyệt web google chrome- Hình ảnh có âm thanh hay video , đoạn ghi âm, mọi người gửi qua cho mình bằng messenger đều không nghe được.. Lúc trước thì được , bây giờ thì không- Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.115017,
+         "id": "811094",
+         "field_search": "question",
+         "question": " cho e hỏi cách dùngWallet trên iphone5s và cách chuyển dữ liệu từ điện thoại qua máy tính thông qua trình duyệt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.933218,
+         "id": "1162645",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy j3 2016 sử dụng thẻ nhớ \"microsd samsung 32gb evo plus class 10\" được ko ạ và nó có tốt ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.814806,
+         "id": "1166672",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại của em ( samsung j3 pro) bị vào nước trong màn hình và camera nhưng vẫn sài bth thì sữa lại tầm bao nhiêu ạ hoặc em có thể đổi điện thoại không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.617567,
+         "id": "1145920",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu chạy chương trình lại thì tài khoản google có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.44028,
+         "id": "1010647",
+         "field_search": "question",
+         "question": "Chào admin,Hiện tại em đang dùng Laptop Asus X541-uv. Hôm nay nó gặp tình trạng mất tất cả các dữ liệu cũng như tài khoản Google, Facebook mà em đã đăng nhập trên tất cả các trình duyệt (Coccoc, chrome, firefox) khi tắt máy hoặc khởi động lại.Admin vui lòng tư vấn giúp em cách khắc phục ạ!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.130669,
+         "id": "1007638",
+         "field_search": "question",
+         "question": "chỉ cho em cách xóa lịch sử của google trên thiết bị android ko ạ  google chứ không phải google chomre",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.122894,
+         "id": "1016857",
+         "field_search": "question",
+         "question": "cho mình hỏi bảo hành rơi vỡ của Samsung bao lau là lấy duoc may , toi dc gan 1 thang roi ko thay gi mặc dù hồ sơ đã duyệt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.000278,
+         "id": "1146999",
+         "field_search": "question",
+         "question": "laptop của mình tự bật trình duyệt và xuất hiện các trang quảng cáo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.73972,
+         "id": "1133445",
+         "field_search": "question",
+         "question": "Cho e hỏi có pin của dien thoai samsung j3 2016 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.646444,
+         "id": "1006617",
+         "field_search": "question",
+         "question": "iPhone có bị nhiễm các loại virus đánh cắp tài khoản, thông tin cá nhân khi mình đăng nhập trên trình duyệt Chrome không ạ và cách kiểm tra xem máy có bị virus không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.588816,
+         "id": "1145885",
+         "field_search": "question",
+         "question": "Cho e hỏi làm cách nào để gỡ những ứng dụng đc cài sẵn trên đth như Google Map hay Microsoft Powerpoint ạ? Tại e cần dung lượng và cảm thấy những ứng dụng này ko cần thiết lắm. Đth e là Samsung Galaxy J5 Prime ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.473946,
+         "id": "1002672",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách reset máy tình win 8.1.Mình mới cài chương trình duyệt virus mà reset lại có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.43479,
+         "id": "1018140",
+         "field_search": "question",
+         "question": "cho em hỏi: em có đọc được thông tin là đối với điện thoại iphone 6 nhân dịp quốc khánh 2/9 có chương trình khuyến mãi 99k phải ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.406507,
+         "id": "1144399",
+         "field_search": "question",
+         "question": "làm sao để vào trình duyệt và nó sẽ tự động chuyển lên trang mà mik yêu cầuVD: CLick vào chrome và nó sẽ tự động hiện lên youtube mà ko cần nhấn gì>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.393814,
+         "id": "1161170",
+         "field_search": "question",
+         "question": "Em là sinh viên không biết em nên chọn con laptop nào vừa chơi game và vừa lập trình được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.380886,
+         "id": "1159862",
+         "field_search": "question",
+         "question": "Có 4 triệu thì nên mua điện thoại hãng oppo, samsung, huawei hay là redmi cái nào là tốt ạ. Điện thoại nào mà bền và tốt ấy ạ.. Mong xin tư vấn giúp em với ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.258907,
+         "id": "1023114",
+         "field_search": "question",
+         "question": "Dòng máy của em là samsung J3 pro. Hiện tại cho em hỏi là dòng máy này có dùng được sim nhật bản không ạ? Nếu có thì dùng được nhà mạng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.18538,
+         "id": "1146682",
+         "field_search": "question",
+         "question": "laptop của mình hay bị lỗi full disk 100 khi mở trình duyệt web thì nguyên nhân và khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.144558,
+         "id": "1163397",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em muốn mua điện thoại samsung tầm 3 triệu trở lại thì em nên mua điện thoại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.077536,
+         "id": "808553",
+         "field_search": "question",
+         "question": "ad ơi máy mình là samsung galaxy note 3 SM-N900L và em xài android 5.0 em lỡ lên rồi ad có cách nào hạ xuống 4.4.2 cho mình dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.993423,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.963974,
+         "id": "1165862",
+         "field_search": "question",
+         "question": "hiện tại phiên bản gốc dịch vụ google play của em là 15.0.90. có cách nào để cài nó xuống phiên bản 12.6.85 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.859657,
+         "id": "1147923",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tắt tính năng tìm kiếm bằng giọng nói của google trên máy realme c1. Em đã vô cài đặt google đã bấm tạm dừng mà ko dc. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.730474,
+         "id": "1000120",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt google Chrome và youtube trên galaxy book",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.725056,
+         "id": "998771",
+         "field_search": "question",
+         "question": "Cho em hỏi SamSung J3 2016 dùng loại cáp và củ sạc nào là thích hợp ạ , tại vì em cần mua lại 1 bộ mới . Cho em cái tên chi tiết sản phẩm luôn nhé . Cám ơn anh chị !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.648376,
+         "id": "1162073",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại của e bị bể mặt kính ở lưng, bên mình có thay không ạ? điện thoại của e là samsung a5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.638996,
+         "id": "837659",
+         "field_search": "question",
+         "question": "Ad ơi làm ơn chỉ cho em cách khắc phục lỗi mỗi khi em đăng bài viết trên Facebook là cái màn hình của em nó cứ run run vầy là sao ad. Em xài hệ điều hành Windows Phone 8.1 và sử dụng trình duyệt Internet Exploer để đăng bài viết trên Facebook.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.63896,
+         "id": "836865",
+         "field_search": "question",
+         "question": "ad cho em hỏi là samsung j5 có máy điểm chạm vây ak, em thấy tui bạn em sai samsung j3 mà có 3 điểm chạm còn em thì không đựơc ak ad chỉ em cách khôi phục nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.626495,
+         "id": "1018738",
+         "field_search": "question",
+         "question": "Cho em hỏi đt của em bị gì vậy ạ,  reset lại rồi vẫn bị,  không đăng nhập vào được google,  google play,  youtube.... Em nên làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.613207,
+         "id": "1153300",
+         "field_search": "question",
+         "question": "Cho em hỏi,máy samsung j7+ dung lượng trong máy sẵn có là 27gb,em tải ứng dụng có 789mb mà máy báo ko đủ dung lượng là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.424131,
+         "id": "1134446",
+         "field_search": "question",
+         "question": "Máy samsung galaxy grand prime lỗi: Vào Cài đặt - Tài khoản - Google bị lag đơ luôn mục đó ko thể xóa tài khoản google được ( kiểu thông báo  không phản hồi luôn ạ ). ad chỉ em cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.394222,
+         "id": "1160667",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em bị cấn giờ điện thoại nó không còn lên hình nữa thì phải làm sao ạ . mà em muốn thay màn hình điện thoại samsung j3 ( 2016) bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.38636,
+         "id": "822142",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại em là iPhone 5 điện thoại em bị hư nên phải chạy lại chương trình rồi phải nhập mật khảu iCloud, nhưng em nhập mật khẩu lại không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.35052,
+         "id": "759415",
+         "field_search": "question",
+         "question": "IPad Mini 2 có nên lên iOS 9.2 không, hiện tại đang ở 9.0.2 và bị một số lỗi văng khỏi trình duyệt, đứng may. Mong hồi âm sớm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.337309,
+         "id": "1137967",
+         "field_search": "question",
+         "question": "cho em hỏi là samsung galaxy a5 2016 lúc mới ra có giá là bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.283665,
+         "id": "1144959",
+         "field_search": "question",
+         "question": "cách xóa tài khoản google của samsung j5 tại nhà như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.271368,
+         "id": "928889",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại tddđ có laptop dell inspiron i5-7200u không ạ? Và nếu mình mua dell thì máy có cài sẵn chương trình cho mình không ạ? Mình mua về thì sử dụng liền hay có cần cài driver hay wireless không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.237942,
+         "id": "999644",
+         "field_search": "question",
+         "question": "ad cho em hỏi là em bị kẻ gian lấy mất điện thoại,điện thoại em là huawei y6 II ,có liên kết gmail,onedrive,và theo em được biết thì hình như là điện thạoi này có chức năg tìm vị trí j j đó phải ko ạ?ad cho em hỏi là có cách nào giúp em xác địh được vị trí của điện thoại bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.137833,
+         "id": "1164557",
+         "field_search": "question",
+         "question": "Bạn cho mk hỏi mấy ứng dụng dưới cùng là j ạ. Có xóa đi dc k ạ. Đt của mk là samsung s8 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.132711,
+         "id": "1165110",
+         "field_search": "question",
+         "question": "Chào anh chịĐiện thoại em đang sử dụng là samsung j2 proNhưng nay điện thoại em có tình trạng, khi nhấn nút home, điện thoại không thoát ra màn hình chính mà hiển thị: google giúp đỡ. Em vô cùng khó chịu cho hiện trạng này. Mong anh chị giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.023674,
+         "id": "776040",
+         "field_search": "question",
+         "question": "Chào anhEm có thắc mắc sau mong quản trị viên giải đáp thắc mắc hộ em: khi em truy cập trình duyệt web như chrome hay internet explorer thì web báo máy em bị nhiễm n con virus, cần phải tải và diệt virus ngay, sau đó bắt đầu đến ngược trong khi 360 security của em quét liên tục k tìm ra con virus nào. Như thế là như thể nào? Mong quản trị viên giải đáp giùm em. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.925987,
+         "id": "1140276",
+         "field_search": "question",
+         "question": "Cho em hỏi là, e đang xài samsung j5 prime ạ, e muốn bật tính năng ok google nhưng cái nút nó màu xám và không bật được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.862196,
+         "id": "1011887",
+         "field_search": "question",
+         "question": " máy em bị như thế là lỗi gì. Em đã xóa dữ liệu, cài đặt lại google play rồi mà vẫn không được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.856197,
+         "id": "1160228",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đag sài máy samsung j3 2016. E lỡ xóa mất CH Play thì e làm sao tải lại đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.786144,
+         "id": "1001578",
+         "field_search": "question",
+         "question": "Mà e đang xài samsung j2 prime, ma trên trang chủ của google chrome thị có đến 8 biểu tượng của các trang mạng truy cập thường xuyên, nhưng trên google của đt e hiện chỉ có được 4 biểu tượng thôi, mình có cách nào để bổ sung thêm biểu tượng vào trang chính của google để mình tiện truy cập không. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.662418,
+         "id": "1021301",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, máy của em là Samsung J7 2015, hiện giờ Pin có vấn đề nên không thể bật máy được. Em muốn mua pin chính hãng của Samsung để thay thì bên thế giới di động có không ạ. Và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.610943,
+         "id": "1167929",
+         "field_search": "question",
+         "question": "Dạ e ko thể dùng tài khoản Google  của mình đăng nhập vào ứng dụng của Google như ch play và youtube.tất cả đều báo là ko có kết nối mạng .e đã xóa cache và thử gỡ cài đặt ứng dụng nhưng đều ko đc ạ ..mong ad giúp e khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.604431,
+         "id": "1160997",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình là điện thoại Samsung Galaxy S9 Đen 64Gb ( SM-G960F/DS) có được tham dự chương trình đổi cũ lấy mới không ad Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.546375,
+         "id": "841932",
+         "field_search": "question",
+         "question": "Các ac ơi, cho em hỏi. Điện thoại của em chỉ cài 3 ứng dụng là laban key, messager và uc mafsao bộ nhớ trong của em còn ít như vậy. Và cái chỗ KHÁC màu xanh đấy là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.545198,
+         "id": "1137584",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDD có mua điện thoại samsung galaxy j3 prime xách tay cũ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.487038,
+         "id": "997553",
+         "field_search": "question",
+         "question": "Ad cho em hỏi. Điện thoại là Samsung J3 2016, hôm qua em chơi tự nhiên màn hình xanh xanh rồi giật, hôm nay màn hình đen luôn nhưng người ta gọi thì máy vẫn rung. Bây giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.485693,
+         "id": "1164860",
+         "field_search": "question",
+         "question": "Dạ điện thoại của em khi đang nghe nhạc thì hay bị dừng. Cho em hỏi cách khắc phục ạ. Điện thoại của em là samsung a50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.463167,
+         "id": "1168224",
+         "field_search": "question",
+         "question": "google zalo chrome fb đều vào được nhưng khi tìm kiếm gì trên google là cứ xoay vòng tròn zalo không điện được fb video bắt lên cứ xoay yotube bắt lên cũng xoay mạng wifi cực mạnh cứ như là điện thoại với mạng có vấn đề",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.460754,
+         "id": "1143180",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao điện thoại Samsung galaxy j6 sao không có máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.354212,
+         "id": "1152046",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy nokia e71. Khi em truy cập web trình duyệt của máy thì nó báo không thể thực hiện lệnh. Làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.343475,
+         "id": "1164912",
+         "field_search": "question",
+         "question": "voice macth của ok google có trên samsung j7 prime ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.337414,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.282225,
+         "id": "1162851",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là điện thoại Samsung Galaxy a7 có bị ảnh hưởng gì khi sử dụng cục sạc khác ngoài của Samsung kh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.27485,
+         "id": "1015752",
+         "field_search": "question",
+         "question": "Anh ơi em lỡ dùng lucky patcher để vô hiệu hóa quảng cáo của Khung Dịch vụ của Google với cửa hàng Google play nên giờ nó cứ hiện liên tục \"Rất tiếc,quá trình com.google.process.gapps đã dừng lại\" giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.204906,
+         "id": "1009879",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại Samsung j120h có root máy dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.092995,
+         "id": "1017613",
+         "field_search": "question",
+         "question": "e lỡ xóa hết dữ liệu trên mấy samsung j7 giờ mở lên nó bắt e lập trình lại ngôn ngữ nhưng đến phần tài khoản google nó bắt e xác minh mà hiện tại e ko nhớ tài khoản google thì phải  làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.087114,
+         "id": "1137342",
+         "field_search": "question",
+         "question": "Hi ad, em đăng nhập zalo online: https://chat.zalo.me/ mà giờ hiện ra thông tin này, đã thử đổi trình duyệt nhưng không được. Ad biết là lỗi gì không và làm sao để fix lỗi này chỉ em với. Thanks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.078165,
+         "id": "1021805",
+         "field_search": "question",
+         "question": "Cho e hỏi samsung j5 2016 dùng ổn định thì bao nhiêu là hết pin ạ. E dùng chơi lên tục thì 2-3 tiếng là hết. Dùng tiết kiệm thì dc 1 ngày. Ko biết có phải chai pin ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.067444,
+         "id": "845330",
+         "field_search": "question",
+         "question": "Cho e hỏi google chrome ở máy tính của e bị lỗi C:\\Program Files (x85)\\Google\\chrome\\application\\chrome.execlass not registered",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.924961,
+         "id": "1163821",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động, cho em hỏi là ở Phú Quốc có chỗ nào bán điện thoại samsung m20 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.787647,
+         "id": "821657",
+         "field_search": "question",
+         "question": "em có 1 chiếc lenovo B470 i3 win7 ram 2GB. khi mở máy thì luôn trong tình trạng ram ở mức 50%, khi mở trình duyệt lên thì ở mức 80%. em muốn cho lên win10 và thêm 1 ram 4GB có được không ạ. em xin cảm ơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.762371,
+         "id": "793984",
+         "field_search": "question",
+         "question": " Cho e hỏi cách chụp màn hình điện thoại Samsung galaxy J3 2016 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.745756,
+         "id": "795442",
+         "field_search": "question",
+         "question": " Cho em hỏi cách nào để duyệt virus trên iphone5s vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.529839,
+         "id": "1007959",
+         "field_search": "question",
+         "question": "Cho em hỏi ốp lưng của samsung galaxy j7 2016 có dùng được cho samsung galaxy j7 pro ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45947,
+         "id": "1158738",
+         "field_search": "question",
+         "question": "mình có ý định mua samsung s10, thấy có chương trình thu cũ đổi với + giảm 1tr5 galaxy gift + trả góp bằng thẻ tín dụng. không biết là 3 chương trình km này có gộp chung lại ko vậy shop ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.455866,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.443918,
+         "id": "810689",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony Ẹ5, muốn dọc báo trên Zalo nhưng khi mở nội dung bản tin khoảng 1 -2 giây thì điện thoại nổi lên thông báo có nội dung : \"Chú ý: Trình duyệt của bạn có thể chạy nhanh hơn!***Mạng internet có thể chạy nhanh hơn và tốt hơn nếu bạn cập nhật trình duyệt của bạn*** Nhấn OK và làm theo hướng dẫn để nâng cấp trình duyệt của ban.\" Tôi thoát ra khỏi thông báo, sau đó mở lai trang báo mới, nhưng thông báo trên vẫn hiện ra --> tôi không thể xem nội dung các bản tin được. Làm sao để khác phục chuyện này? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.437193,
+         "id": "765276",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua Oppo r7 lite lúc đầu xài không sao bây giờ xài khoảng 5 phút là máy nóng hẳn lên . Điện thoại em không cập nhật chương trình nặng chỉ có zalo, face, và mesenger thôi. Cho em hỏi vậy là như thế nào ạ. 3g cũng không bật thường xuyên.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

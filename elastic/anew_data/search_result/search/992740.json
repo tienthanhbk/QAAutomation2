@@ -1,0 +1,801 @@
+{
+   "id_query": "992740",
+   "total": 29607,
+   "total_current": 100,
+   "max_score": 59.53205,
+   "origin_question": "Cho e ?? T bị mất cái apple đt iPhone 4 rồi sao lm lại đc zay",
+   "hits": [
+      {
+         "score": 20.90796,
+         "id": "826085",
+         "field_search": "question",
+         "question": "iPhone 4 em mua lại của người khác nhưng đã mất qên mất id apple stores rồi...nhưng em đã tại lại cái mới rồi mà nó vẫn cứ hiện lại cái cũ xin hỏi là khắc phục bằng cách nào ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.570972,
+         "id": "957509",
+         "field_search": "question",
+         "question": " e vừa bị mất iphone, làm thế nào để xóa đc icloud vs id apple trong đt cũ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.477112,
+         "id": "1022209",
+         "field_search": "question",
+         "question": "E đag sd samsung galaxy tab3, có lần e lỡ nhấn vào phần khôi phục cài đặt gốc nên h e ko biết phải lm sao để khôi phục s đt của e vs các bn, e cx ko thể gọi hay nhận đc điện thoại của các bn khác, giống như là máy của e bị xóa mất s đt rồi, lm sao bây h ạ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.306162,
+         "id": "1143529",
+         "field_search": "question",
+         "question": "cho e hỏi cái samsung note 4 e nó cứ lên được 2 3s rồi lại tắt nguồn ... ở biểu tượng sóng đth nó hiện cái biểu tượng chặn ... sạc đầy rồi mở nguồn thì nó lên mỗi lần mỗi mức pin khác nhau..lm sao khắc phục đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.722654,
+         "id": "1015518",
+         "field_search": "question",
+         "question": "Em xài Sony m4 .cho em hỏi sao đt em ko nghe radio đc zay a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.682251,
+         "id": "1166789",
+         "field_search": "question",
+         "question": "Điện thoại của mình là asus zenfone 4 max pro, mới hôm nay cứ bị nhảy thông báo như thế này, tí lại bị, mình đang dùng cái khác cũng cứ nhảy xong lại mất rồi lại thế. Đt của mình bị sao vậy, tư vấn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.630245,
+         "id": "1009730",
+         "field_search": "question",
+         "question": "Tui bị mất sim rồi bị hách nick zalo lm thế nào để lấy lại được đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55906,
+         "id": "1010919",
+         "field_search": "question",
+         "question": "e đang xài đt galaxy note 4 SMN901P sao chuyển sang 4g lại mất hết sóng vậy ad có cách nào mở đc 4g ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.388401,
+         "id": "825917",
+         "field_search": "question",
+         "question": " Cho e hoi e dang dung iPhone 4 ma e quen mat khau jo phai lm sao ha chi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.109037,
+         "id": "1149346",
+         "field_search": "question",
+         "question": "điện thoại của t là vivo y55s, không hiểu sao lại bị đổi tên thành một cái tên khác khi đăng nhập gmail nó lại hiện thiết bị của tôi mang tên khác ko phải là thiết bị vivo y55s . cho t hỏi hỏi là tên thiết bị của tôi có phải hack ko? và có đổi lại đc ko vì nó bị đổi thành tên rất mất lịch sự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.76054,
+         "id": "923228",
+         "field_search": "question",
+         "question": " A ơi em lo có mk iCloud còn Apple và gmail của e bh đt đòi iCloud mà lo ko tìm đi bh e phải lm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.674726,
+         "id": "1166035",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏiBn ko thể sử dụng iPhone để tạo id ms nữa thì e phải lm sao để tạo id Apple ms",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.46818,
+         "id": "1015027",
+         "field_search": "question",
+         "question": " ID apple Mình bị mất tk luôn rồi ko tạo lại dc email cũng ko còn khả dụng có thể nào tạo lại tk khác đc ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.21157,
+         "id": "935487",
+         "field_search": "question",
+         "question": "Tại sao 2 máy iphone 4 đều cài đặt mạng Wifi nhưng 1 cái nhà mạng Viettel còn cái kia là Mobi không thể gọi được Facetime.Trong khi 2 cái iphone 4 cùng mạng Viettel lại gọi đc Facetime cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.122238,
+         "id": "775234",
+         "field_search": "question",
+         "question": " Em bị mất mật khẩu giới hạn trên chiếc iPhone 5 e đang dùng làm sao lấy lại đc a chị chỉ cho e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.113297,
+         "id": "1020748",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?hm, ý e là, khi mở lại máy thì e ko gọi đc, mí bn gọi cho e cx ko nghe đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.075394,
+         "id": "1143764",
+         "field_search": "question",
+         "question": " Sao con iphone 4 của e ko lập dc id apple store. ......... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.068966,
+         "id": "752355",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e có cái điện thoại ip 4s mà cái id apple(cloud) e đã quên và bây giờ không thể nhớ đc. Làm sao để xoá cái icloud và lập lại cái mới ạ.. E chân thành cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.016798,
+         "id": "994568",
+         "field_search": "question",
+         "question": "ad cho em hỏi. e vừa resore iphone 4 của em. nhưng e mất icloud rồi. giờ nó bắt kích hoạt. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.974374,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.936597,
+         "id": "858611",
+         "field_search": "question",
+         "question": "Em chạy lại chương trình cho máy iphone4 rồi e vào tạo cái id iclour nhưng em wên mất cái nick và mật khẩu.bây giờ đt em bị khóa nếu em mún vào mấy thì bất buộc em fải nhập mật khẩu id iclour.giờ em fải làm sao anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.874624,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.733578,
+         "id": "1020426",
+         "field_search": "question",
+         "question": "Phai lm sao để cho game vao thẻ nhớ để đt k bị đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.611172,
+         "id": "883684",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi tại sao tự nhiên máy nó hiện như này rồi e quên mất địa chỉ ID Apple rồi, giờ cách khắc phục như nào ạ add phản hồi lại dùm e vs @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.434076,
+         "id": "1024239",
+         "field_search": "question",
+         "question": "Mìk xài đt iphone 4 màk zing mp3 báo lỗi vậy nếu xoá tải lại thì có bị mất hết nhạc kh?? Giúp mìk vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.390512,
+         "id": "744642",
+         "field_search": "question",
+         "question": "cho em hỏi. e mới mua cai ipad cũ.mua ở ngoài.gìơ e quên  mất pass mở máy.và e muốn nhờ tạo cho cái apple id.vì máy đã đang kí tối đa tài khoản rồi .mình có sữa chữa cái này ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.289386,
+         "id": "1138330",
+         "field_search": "question",
+         "question": "tôi mới mua đt mi8 đc 4 tháng, giờ bị cháy mất củ sạc thì có được đổi củ sạc mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.288485,
+         "id": "1138477",
+         "field_search": "question",
+         "question": " e bị mất đt thì phải làm sao ạ. đăng nhập icloud k đc vì e để xác thực 2 yếu tố. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.263319,
+         "id": "1017669",
+         "field_search": "question",
+         "question": "Em lm rồi mà tải ứng dụng chưa đc ah hay cj giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166706,
+         "id": "1143235",
+         "field_search": "question",
+         "question": "Ad cho t hỏi sao đt mobistas zumbower t mới mua đk mấy tháng mà sao h máy đơ thế nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.159231,
+         "id": "746615",
+         "field_search": "question",
+         "question": " Tài khoản của tôi đã không nhớ rồi t phải làm gì để tạo tài khoản để tải game trong cửa hàng apple iphone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.115884,
+         "id": "1022101",
+         "field_search": "question",
+         "question": "anh chị cho tôi hỏi, iphone 4 sạc bị chớp tắt màn hình mà nó không mở máy lên là sao ak? đợi tầm 15-50 phút vẫn không lên. bấm nguồn + phím home 10s cũng không được T^T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.090379,
+         "id": "1023587",
+         "field_search": "question",
+         "question": "E mua đt iphone 6 chưa đc 1 tháng nhưng mà đt để qua đêm lại bị hao hụt pin mặt dù đã tắt tất cả các ứng dụng cho e hỏi tai sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.083469,
+         "id": "1138521",
+         "field_search": "question",
+         "question": "E dùng oppo f9 bị mất khay sim. Cho e hỏi có mua đc cái khác thay vào hoặc bảo hành đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.065006,
+         "id": "831949",
+         "field_search": "question",
+         "question": "Anh/chị ơi, cái ipad em bị mất ý hôm nay bên nó mở máy lên em xem đc định vị thì thấy đc chỗ đó mà đc 1 lúc thì lại ngoại tuyến rồi. Lúc mất thì em đã cài Tìm Iphone và bật Báo mất ipad và cài mật khẩu máy, có phải nó ko vào đc nên nó tắt nguồn rồi ko? và có cách nào nó hủy được cái chế độ mà em định vị ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.927624,
+         "id": "1144482",
+         "field_search": "question",
+         "question": "e đang sài sony xa.  Đang onl fb thì đt e báo fb đứng, rồi màn hình bị dừng nên e tắt nguồn khởi động lại máy. lúc đang khởi động lại đến chữ XPERIA thì n đứng luôn. Không tắt k lm gì được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.859544,
+         "id": "1146573",
+         "field_search": "question",
+         "question": "Cho em hỏi đt em sam sung j2 nó bị lỗi nút back lm sao để cho hit lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.855602,
+         "id": "998037",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi chồng e mua đt trả góp loại sámung j7riem ..đã đóg đc 1thasng hôm nay định lên đóg mà bị mất cái phiếu bảo hành thanh toán jjj đó. Z nếu mất r thì có s k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.790618,
+         "id": "1018749",
+         "field_search": "question",
+         "question": "Bên TGĐD còn sửa iphone 4 k ạ điện thoại e tắt nguồn rồi sạc thì hiện logo apple lúc hiện lúc tắt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.704356,
+         "id": "779038",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mới cài đặc gốc máy iPhone 4 ios7.1.2 lại giờ mở lên máy đòi phải nhập id apple mà em lại quên id rồi vậy giờ phải làm sao để mở máy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.700828,
+         "id": "748556",
+         "field_search": "question",
+         "question": " Add cho e hỏi đt Oppo Neo7  bi mất rồi s định vị tìm lại được! xin add giúp đỡ giùmTks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.660118,
+         "id": "1020742",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.587745,
+         "id": "827161",
+         "field_search": "question",
+         "question": " cho e hỏi sau khi em đặt lại đt iphone4 mà e không có tài khoản ID Apple phải làm sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.581659,
+         "id": "796926",
+         "field_search": "question",
+         "question": "cho e hỏi e đang dùng laptop lenovo sao đang dùng chuột cảm quang của e bị mất bấm ko đc có cách nào bám lại đc ko chỉ e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.540522,
+         "id": "1004234",
+         "field_search": "question",
+         "question": "T có thể đăng ký dịch vụ internet bangking qua đt đc ko ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.516242,
+         "id": "1153518",
+         "field_search": "question",
+         "question": "cho e hỏi e có sài đt itel ă. E vô fb của e để đăg ảnh mà ko đc nó cứ đề thử lại , còn sử dụng đt khác vô fb là đc , z cái đó là do đt của e hay là do fb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.512808,
+         "id": "1020317",
+         "field_search": "question",
+         "question": "Cho em hỏi đt ss j5 prime của e bị mất, làm sao để e lấy lại dữ liệu và danh bạ trên samsung driver",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.485221,
+         "id": "924407",
+         "field_search": "question",
+         "question": " sao em xó id apple của nhật rồi nhưng em lại không tải được game này về ạ  nó lại hỏi cái này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.462641,
+         "id": "915760",
+         "field_search": "question",
+         "question": "E lỡ tay nghịch đt iphone rồi bật chế độ dành cho người khiếm thị,gjo làm sao để tắt đc chế độ do vậy đt gjo cứ nói tiếng anh hoài không sử dụng gì đc hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.435716,
+         "id": "1166691",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi Zalo của mình sdt mực khẩu điều đúng tại sao ko vô dc sdt Zalo này mình bị mất rồi zay làm sao vào Zalo của mình dc đây xin chỉ đùm cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.424562,
+         "id": "1136307",
+         "field_search": "question",
+         "question": "cho e hỏi  e bị mất nick facebook ad có tìm lại dùm e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.420412,
+         "id": "736506",
+         "field_search": "question",
+         "question": " cho e hỏi máy bị treo itunes thì lm thế nào mong anh chỉ e cách sửa gấp đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.411962,
+         "id": "1142444",
+         "field_search": "question",
+         "question": "Cho e hỏi. Iphone 6 plus khi bị thế này thì phải làm sao ạ. Khi mà đã mất id rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.407678,
+         "id": "1014433",
+         "field_search": "question",
+         "question": "e đang trả góp 1 cái điện thoại mà chưa hết thời gian trả góp. cho e hỏi nếu trong tháng này e trả hết tiền góp còn lại. sau đó e trả góp 1 cái điện thoại khác trong tháng này luôn có đc ko. tháng này e trả góp rồi và điện thoại hư nên e muốn trả hết tiền chiếc đt đó và góp cái đt mới khác.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.407067,
+         "id": "784200",
+         "field_search": "question",
+         "question": "máy tính t là asus tp500L. tự nhien màn hình máy tính t bị tối, t đã tăng độ sáng n k sáng lên mà giảm nó cũng vẫn thế. cho hỏi máy t bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.402528,
+         "id": "1134452",
+         "field_search": "question",
+         "question": "AC cho e hỏi đt oppo f9 e mua đc 3 tháng r mí hôm trc tự nhiên dùng cái nút nguồn của e lúc bấm en lúc k ạ rồi h bấm k ăn lun .là bị s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.358341,
+         "id": "854941",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi cái ipap của e để là xác nhận id apple cũ. Ad có thể bẽ khóa hay là chạy lại chương trình đc ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.337753,
+         "id": "851073",
+         "field_search": "question",
+         "question": " e mới cập nhật lại phần mềm iphone bị mất hết dữ liệu có cách nào lấy lại đc k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3005705,
+         "id": "937268",
+         "field_search": "question",
+         "question": " Cho e hỏi iPhone của bị vô hiệu hoá ID Apple là sao àk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.297141,
+         "id": "869596",
+         "field_search": "question",
+         "question": " Ac ơi cko e hói máy i phone 6 của e bi mất đồng thơi cung ko đinh vi đc máy nằm ớ đâu jờ phaj lm sao hả ac ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.227049,
+         "id": "814417",
+         "field_search": "question",
+         "question": " Em bị mất đồng hồ màn hình khóa zenfone 2 thì phải lm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.160258,
+         "id": "764578",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 4 của em lại không nhận được chia sẻ bluetooth của những đt khác là sao vậy ah? Hôm qua em đã hỏi rồi mà không tìm thấy câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.126698,
+         "id": "1014405",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng đt itel it1508 plus tại sao các số trong danh bạ toàn bị mất thế vậy. Cứ phải tắt nguồn bật lại mới dc nhưng cũng chỉ 1 lúc là lại mất thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.116166,
+         "id": "828344",
+         "field_search": "question",
+         "question": "Cho e hỏi e kiểm tra imei hàng nay là iphone 6 cty nhưng sao iphone 6 e nghĩ mới ra sao đã hết chương trình bảo hành của apple rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095201,
+         "id": "1169214",
+         "field_search": "question",
+         "question": "T muốn mua trả góp đt realmy 2128g mà trả trước 10 thì có đc ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.080207,
+         "id": "833298",
+         "field_search": "question",
+         "question": "Mình đang sử dụng đt iphone 4s.Nhưng ứng dụng của nó cứ bị búng. Nên mình ms tắt nguồn để bật lại.Nhưng sau đó bị mất hết ứng dụng và sđt trước đó.Z cho hỏi mình phải lm ntn???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.070433,
+         "id": "909852",
+         "field_search": "question",
+         "question": " Ad cho e hỏi là mấy cái hình e xóa khỏi iphone có phục hồi lại đc k a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.055166,
+         "id": "1006039",
+         "field_search": "question",
+         "question": "Máy HP probook 450 của e nó bị mất windowhello trong phần Sign-in options . Hôm qua em vẫn setup fingerpri t được ạ mà tự nhiên hôm nay e mở lên thì nó mất tiêu. Phải lấy lại làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.041647,
+         "id": "930852",
+         "field_search": "question",
+         "question": "e hiện tại đang dùng iphone 4 hệ điều hành iOS 7.1.2 và e muốn nâng cấp nó lên phiên bản thấp nhất là 8.0 ko biết có đc ko ạ? e thấy bạn e cũng dùng iphone 4 mà nâng cấp đc thành ios 8.0 rồi. nhờ ad hướng dẫn cho e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.022185,
+         "id": "1166113",
+         "field_search": "question",
+         "question": "Cho em hỏi cái iphone 6 á em mua sang tay mà cái appstore em quên mất cái mật khẩu rồi giờ em ra chạy chương trình lại tạo cái mới thì có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.016904,
+         "id": "1161537",
+         "field_search": "question",
+         "question": "ad ơi, cho em hỏi cái vấn đề này, em có 1 cái iphone 6plus nhưng em quên mất mk rồi, em có thể lấy lại ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.005149,
+         "id": "798183",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua iphone 6s bản VN/a ở TGDĐ trên hà nội, mà giờ ra làm ngoài móng cái màn hình đang chơi game bị kẻ 1/3 phía dưới màn hình có đc bảo hành ko ạ. mà giờ lại đang đi làm gần TGDĐ ở móng cái, hoá đơn thì e làm mất rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.002452,
+         "id": "1162243",
+         "field_search": "question",
+         "question": "Tại sao cái đt xiaomi redmi 6 của e ko đăng đc story trên facebook vs messenger",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.945163,
+         "id": "998179",
+         "field_search": "question",
+         "question": "Đt samsung j2 prime e ms mua đc 2 tuần mà tự nhiên nhìu lúc đâng chơi nó đưnga đơ 1 hồi rùi tắt nguồn luôn bh phải lm sao ạ😔",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.906215,
+         "id": "1018782",
+         "field_search": "question",
+         "question": "Em xài iphone 4. Điện thoại e k bật nguồn lên được. Cắm sạc thì hiện logo của apple lúc hiện lúc tắt vậy là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.852004,
+         "id": "924595",
+         "field_search": "question",
+         "question": "Em xin hỏi cô em mới cho em một cái điện thoại iphone cũ, ID Apple cũ của cô chuyển sang máy mới rồi nên máy cũ bị vô hiệu hoá. Mà mail cô đặt lâu quá rồi nên không nhớ nó thế nào nữa để đặt lại ID Apple khác, trường hợp này em phải làm sao để sử dụng máy bình thường đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.8409195,
+         "id": "1017396",
+         "field_search": "question",
+         "question": "Tôi muốn khôi phục lại đt nhưng cần mật mã. Tôi đã sử dụng mật mã từ phía cửa hàng đt đưa cho lúc mua đt nhưng k dc. Phải lm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.826144,
+         "id": "1016344",
+         "field_search": "question",
+         "question": "Làm sao để lấy lại sóng khi đt bị mất sóng vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.817191,
+         "id": "826082",
+         "field_search": "question",
+         "question": " Anh chị gì ơi cho em hỏi tại sao em đã thay đổi cái id apple stores của ip4 rồi mà nó vẫn còn hiện lại ạ... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.790894,
+         "id": "1019357",
+         "field_search": "question",
+         "question": "Dạ. E đã nhập sbd vào rồi. Tổg điểm của e chỉ đc giảm 4 thôi ạ. V 4 sẽ đc giảm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.737177,
+         "id": "989871",
+         "field_search": "question",
+         "question": "cho e ? tại sao t cần phải nâng cấp IOS.............................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.717847,
+         "id": "759009",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, máy e tự dưng báo là iphone này đã bị mất và bị xóa, hãy đăng nhập bằng ID Apple đã được sử dụng để xóa IPhone này, như thế là sao ah, giúp e với ah, em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.707185,
+         "id": "1135021",
+         "field_search": "question",
+         "question": "E k tại đc ứng dụng yourube lm sao để tải chỉ dùm em voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.661205,
+         "id": "795375",
+         "field_search": "question",
+         "question": " e đang sửa dụng chiếc iphone 4 nhân mà sao e vào ứng dụng camera thì nó lại bị giật và bị lắc nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.650976,
+         "id": "768552",
+         "field_search": "question",
+         "question": "Cái iPhone của em nó bị hư màn hình, vậy mình sửa màn hình rồi nó có bị mất hình ảnh hay số điện thoại không vậy ad.. Với lại cho em hỏi giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.605544,
+         "id": "784238",
+         "field_search": "question",
+         "question": "Ad ơi máy iphone 4 của em đang xài bình thường rồi e tắt máy mà em mở lại nó không lên lại luôn,em dùng mọi cách cũng không lên được .ad cho em hỏi là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.583511,
+         "id": "1136228",
+         "field_search": "question",
+         "question": "Cho e hỏi đt j5 Prime tự động tắt nguồn r hiện lên là dặt lại cài đặt gốc, bị nhiều lần nv rồi, phải đặt lại mới sài đc xin TGDD giai quyét giúp e, mua ở TGDD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.564204,
+         "id": "1017641",
+         "field_search": "question",
+         "question": "cho e hỏi trả góp chỉ co bằng lái xe có được k ạcmt e bị mất chưa làm đc lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.560156,
+         "id": "856127",
+         "field_search": "question",
+         "question": " Iphone 6 đang nghe nhac mp3 được 3,4 giây lại tự thoát ra ngoài là bị lm sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.559437,
+         "id": "796956",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 4 nếu cài đặt lại bản gốc có bị mất Jailbreak không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.555816,
+         "id": "917690",
+         "field_search": "question",
+         "question": " Cho mình xin hỏi .Mình mua lại iphone 4 nhưng mất tài khoản icloud thì làm sao sử dung bây giờ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.516497,
+         "id": "991355",
+         "field_search": "question",
+         "question": "tại sao mình quay video bằng iphone 5c lại có đuôi la MOV không zay ban ,làm sao đổi thành  mp4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.479397,
+         "id": "1001684",
+         "field_search": "question",
+         "question": "Admin cho em hỏi . Em Dag dùng cái iPhone 6s . Mà sao check imei trên trang của Apple nó cứ kiu là : xin lỗi hk thực hiện đc, vui lòng thử lại lúc khác là sao v admin ? Giải đáp giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.465592,
+         "id": "994680",
+         "field_search": "question",
+         "question": "E có cái đt bị hư cái cổg sạc vào đt bên ah có sửa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.464755,
+         "id": "995746",
+         "field_search": "question",
+         "question": "Cho e hỏi e mún trả lại máy samsung s8 mới mua đc 3 hôm ạ h e trả lại thì bị mất j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.454893,
+         "id": "906264",
+         "field_search": "question",
+         "question": "mình nhập sai mật khẩu nhiều lần cái id apple nên bị khóa xong rồi thì bảo phải chọn 1 trong 2 bước nên mình chọn email thì nó không gửi tới mã xác mình còn mình bấm nhiều lần cái câu hỏi bảo mật xong giờ nó mất luôn rồi !!! có phải là em bị mất luôn tài khoản này rồi không ạ sẽ không mở khóa được nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.4329195,
+         "id": "863797",
+         "field_search": "question",
+         "question": "Em có cái máy iPhone 6 64gb, máy em bị rớt không hiểu sao nó bị mất hay hư gì đó, em khởi động nguồn lại thi máy nó mất cái mạng sóng điện thoại, nó hiện không có dịch vụ...mấy anh cho em sửa lại được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.429631,
+         "id": "1163383",
+         "field_search": "question",
+         "question": "Đt samsung a30 sao hay bị mất một sim xong lại có  liên tục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.419437,
+         "id": "1015771",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn bẻ khoá icloud thì phải đi đâu rồi giá cả ra sao dậy ! Em mất hết thông tin tài khoản apple id rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1143590",
+   "total": 34516,
+   "total_current": 100,
+   "max_score": 200.39767,
+   "origin_question": "Cho mình hỏi: Mình đăng bài có kèm vài dòng cap nhưng chỉ đăng được ảnh còn dòng chữ bị mất, khi vào chỉnh sửa thì nó bảo là bị lỗi. Dù đã xoá ứng dụng rồi tải lại nhưng nó vẫn bị như vậy, không biết làm thế nào để khắc phục? Và sẵn tiện cho mình hỏi luôn là ins của mình tự động đi follow những người khác mặc dù mình không biết họ là ai, nhưng mà ngày nào cũng tự động follow bắt mình xoá muốn mệt người luôn.",
+   "hits": [
+      {
+         "score": 71.40237,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.13365,
+         "id": "937371",
+         "field_search": "question",
+         "question": "cho mình hỏi là hình ảnh của mình tag bạn bè tuy họ không cài phê duyệt vào dòng thời gian nhưng khi mình tag họ họ lại nhận được thông báo đó, còn những người khác tag họ thì xuất hiện ngay trên tường fb mà không có thông báo, phải chăng facebook của mình bị lỗi? và cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.851685,
+         "id": "1141135",
+         "field_search": "question",
+         "question": "Cho mình hỏi là instagram của mình đang chơi bình thường sao lại tự động out ra ngoài rồi mình đăng nhập vô lại thì thấy bị mất hết hình :( ( dù mình đã out ra lần nữa để cho chắc ko bị lỗi gì nhưng ảnh thì vẫn bị mất ?? Tại sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.885765,
+         "id": "1165386",
+         "field_search": "question",
+         "question": "Cho mình hỏi sau khi mình bị mất fb thì tài khoản insta của mình cũng tự động bị out ra và k đăng nhập lại đc, mình có thử chuyển sang 1-2 tài khoản khác nhưng vẫn k thể đăng nhập đc và nó cứ hiển thị như màn hình dưới này. Cho mình hỏi đấy là lỗi gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.273155,
+         "id": "960416",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mở messenger luôn hiện ra chữ \" phiên đã hết hạn vui lòng đăng nhập để làm mới phiên của bạn\" mình đã xoá ứng dụng rồi tải lại nhưng vẫn k được. Làm ơn giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.1606,
+         "id": "1007617",
+         "field_search": "question",
+         "question": "Mình muốn hỏi điện thoại của mình đang dùng là samsung j5 mình để chế độ màn hình chờ là 15s nhưng cứ sau 15s nó lại tự động sáng mình đã tât đi nhưng nó vẫn tự động sáng lên mình không biết máy mình có bị vấn đê gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.86853,
+         "id": "803097",
+         "field_search": "question",
+         "question": "Zalo mình cứ cập nhật giờ bị sai mặc dù giờ ở máy mình vẫn đúng. Ad biết khắc phục lỗi này không giúp mình với. Mình cũng đã thử xoá đi cài lại vẫn bị vậy.... Mình đang dùng ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.79674,
+         "id": "857400",
+         "field_search": "question",
+         "question": "Mọi người cho tớ hỏi. Tớ xài iP, IOS 9.3.2Không hiểu sao mà mình nghe nhạc mà nhạc cứ tự tắt. Đã vậy vừa bấm vào tạo Playlist riêng thì app tự động out ra. Cho mình hỏi làm thế nào để khắc phục hoặc là bạn nào cho mình hỏi làm sao để lưu trữ nhạc trong Zing để mình xoá app rồi tải lại :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.58052,
+         "id": "797991",
+         "field_search": "question",
+         "question": "Cho mình hỏi là khi mình download những ứng dụng trên safari như vshare hay hipstore thì tại sao nó lại hiện lên là không thể tải ứng dụng lúc này dù mình đã đổi DNS wifi nhưng nó vẫn thế??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.51162,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.026695,
+         "id": "775626",
+         "field_search": "question",
+         "question": "Chào mọi người!!Mình đang sài iphone 3gs không biết dạo này tự nhiên nó hay out ra khi chơi game hoặc vào internet ,mình đã thử xoá ứng dụng ngầm và reset lại mấy nhưng vẫn thường xuyên bị..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.503345,
+         "id": "999532",
+         "field_search": "question",
+         "question": "Mình mua s8+, hôm đầu tiên bắt đầu sử dụng vó cuộc gọi mình nghe thì thấy người ta nói. Nhưng mình nói thì đầu dây bên kia k nghe đc. Rồi trong 9 ngày sử dụng ngày nào cũng bị 2,3 lần. Mình mang đi đổi trả. Đến máy s8+ này cũng vẫn bị lỗi như vậy. Cho mình hỏi bây giờ mình muốn chuyển sang dòng máy khác thì tính như thế nào...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.025036,
+         "id": "1139059",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HTC One E9. Tuần trước mình có chỉnh sửa phần ngôn ngữ điện thoại từ Tiếng Việt--->Hàn Quốc thì xảy ra tình trạng CHplay không thể vào được. Mình sửa lại ngôn ngữ thành Tiếng Việt rồi reset máy thì CHplay hoạt động trở lại nhưng chỉ một lúc sau thì nó biến mất khỏi điện thoại hoặc logo CHplay còn nhưng khi nhấn vào hiện lên chữ ứng dụng chưa cài đặt ( mặc dù trong mục tổng ứng dụng vẫn còn logo CHplay ) kéo theo vài ứng dụng như: Photo,... bị lỗi vì không thể truy cập GooglePlay ( sao lưu và đồng bộ cũng bị lỗi luôn ), điện thoại nhiều lần tự reset và hiện lên ô Android đang nâng cấp ứng dụng 1 trong tổng số 1. Hôm nay mình thiết lập lại điện thoại thì không thể đăng nhập vào tài khoản Google vì GooglePlay không phản hồi. Mình reset vài lần vẫn bị như vậy. Cho mình được xin ý kiến ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.8416,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.224743,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.170227,
+         "id": "1145575",
+         "field_search": "question",
+         "question": "Ngày trước mình bị hackk facebook vì insta mình liên kết vs face luôn nên cx mất. Sau khi mình đăng nhập lại đc facebook đó thì lại k vào đc ins, mà mình đã tạo tài khoản khác mà vẫn k đăng nhập đc bằng app trên đt mình. Nhưng khi vào app trên đt khác lại vào đc !! Làm thế nào để khôi phục lại app bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.071632,
+         "id": "1023363",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Dạo này insta của em vào xong toán bị out ra ý ạ. Mà nó bị out ra suốt mấy ngày dù em đã tắt nguồn rồi bật lại, reset cài đặt. Đến lúc mà em xoá đi ins r down lại thì lại dùng được. Nhưng chỉ dùng đc hơn 1 ngày là nó lại out ra liên tục ý ạ. Xong e cứ cách 1 ngày phải xoá 1 lần để dùng được. Mà mới vào ins được mấy giây là nó đã out ra r ý ạ chưa kịp làm gì ạ. Cho e hỏi làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.377728,
+         "id": "1154327",
+         "field_search": "question",
+         "question": "Khi mình làm bài post trên Instagram mình có thêm mô tả và tags nhưng ko hiểu sao khi đăng thì lại bị mất hết ( ko có tags và mô tả chỉ có ảnh ). Xin cho hỏi là Instagram của mình bị sao vậy và cách khắc phục là j vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.283443,
+         "id": "887573",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mình gọi zalo cho một và người bn thì không được mà họ gọi mình cũng không báo là đang gọi luôn, chỉ thấy toàn là cuộc gọi nhỡ không hà...còn đại đa số những người khác thì mình gọi được...các bạn có cách nào chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.17725,
+         "id": "1022412",
+         "field_search": "question",
+         "question": "Cho mình hỏi, trong phần số bị chặn ở facetime của mình có rất nhiều số lạ nhưng máy mình mua là máy mới. Mình nghĩ là:1- Khi bạn mình đăng nhập tài khoản icloud của nó vào máy mình, nên những số bị chặn còn lưu lại ( mặc dù đã log in icloud của mình lại rồi)2- Máy mình mua không phải là máy mới ( nhưng lúc mua mình chính tay mở hộp và active máy) 😩Vậy xin cho mình hỏi, khả năng nào là lớn nhất ạ. Hic hoang mang quá!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.16556,
+         "id": "1162507",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có tải app picsart về máy tính win 10 pro nhưng khi bấm vào được khoản 1 giây thì nó out ra. mình đã thử xóa rồi tải lại nhưng vẫn không được nó cứ bị out ra không lý do. có ai biết nó bị làm sao không chỉ giúp mình vói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.15265,
+         "id": "787944",
+         "field_search": "question",
+         "question": "Điện thoại của mình tự dưng bị mất ứng dụng camera,mình đã thử tìm lại trong cài đặt và tải ứng dụng camera khác cũng k được,nó nói là máy ảnh hiện k hoạt động. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.95626,
+         "id": "1017918",
+         "field_search": "question",
+         "question": "Mình dùng Huawei P9,vừa đi bảo hành vì lỗi không lên nguồn về,lúc mới về thì không sao nhưng được mấy hôm thì cứ cắm sạc là máy tự động khởi động lại mặc dù máy vẫn còn 50-60% pin là bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.888443,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.793686,
+         "id": "793460",
+         "field_search": "question",
+         "question": "Chào mọi người,Tình hình là máy mình là ip6 plus. Mình dùng appstore vẫn bằng id apple của mình. Nhưng hôm nay mình muốn update 1 app thì nó lại hiện ra tài khoản khác. Ban đầu mình nghĩ là app này được tải bởi tài khỏan ngoài hàng nên khi update nó mới hiện tài khoản đó. Nhưng mình kéo xuống dưới và thử update tài khoản do chính mình down bằng id của mình thì nó cũng hiện ra tài khoản đó. Nhưng tài khoản này chỉ hiện ở phần update. Mình vào settings để tìm tài khoản lạ kia rồi đăng xuất thì nó cũng chỉ hiện ra tài khoản của mình mà thôi. Mọi người có biết đây là trường hợp gì và làm thế nào để khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.477303,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.325397,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.154778,
+         "id": "990623",
+         "field_search": "question",
+         "question": "Mình có dùng ip5. Vào kiểm tra dung lượng máy thì thấy phần tin nhắn chiếm 1,1G bộ nhớ. Vào xem thì nó ghi là tin nhắn đã lưu, không thấy xoá được. Mặc dù mình đã xoá tất cả tin nhắn trên máy nhưng nó vẫn còn. Vậy phải làm sao để xoá được phàn cho. Xin ad giải thích",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.007202,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.979824,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.922337,
+         "id": "938625",
+         "field_search": "question",
+         "question": "Iphone của mình mỗi khi cắm sạc thì wifi bị ngắt kết nối rồi kết nối lại luôn, cứ cách vài phút nó lại bị như thế. Trước ko chỉ khi sạc mới bị bây giờ thỉnh thoảng ko sạc nó cũng bị nhưng tần suất bị ít hơn. Vậy cho mình hỏi như thế là nó bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.69237,
+         "id": "767043",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đã dùng tango trước đây rồi, giờ tải lại về lap dùng nhưng khi nhập số điện thoại thì không vào được, bị báo lỗi đăng nhập. ai biết chỉ cách fix lỗi với.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.596664,
+         "id": "1162939",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại của mình là samsung A3 2016, mặc dù đt không làm gì, để yên thì lâu lâu ại tự động sáng màn hình mặc dù không có thông báo hay gì cả. Giúp mình cách khắc phục lỗi này nhé vì nó làm ảnh hưởng đến lượng pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.507847,
+         "id": "782617",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 5 mà sạc đầy rồi dùng cỡ đến 70% pin là bắt đầu nó tự tụt xuống khoảng chừng 49% mặc dù không động đến, cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.331722,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.265312,
+         "id": "999756",
+         "field_search": "question",
+         "question": "Bạn ơi, máy của mình là Samsung J3, mình bỏ sim vào máy nhưng máyKhông hiển thị danh bạ cũng như không lưu được số điện thoại vào danh bạ, bật danh bạ thì luôn luôn là \"upgrading contacts\" mặc dù mình đã tắt đồng bộ dữ liệu. Có cách nào khắc phục không ạ? 😂",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.668724,
+         "id": "940968",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình tìm nick trên instagram, tìm được rồi nhưng không follow nick đó được. Bạn nào biết giúp mình với....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.66518,
+         "id": "958405",
+         "field_search": "question",
+         "question": "Máy của mình hôm qua vẫn còn ''Thư viện ảnh''  trong mục lựa chọn dữ liệu sao lưu của icloud. Nhưng sau khi mình bấm ''Sao lưu bây giờ'' rồi kiểm tra lại thì bị mất luôn cái dòng đó rồi. Có ai biết xin chỉ giúp ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.554623,
+         "id": "863065",
+         "field_search": "question",
+         "question": "Máy mình iphone 4 đã mua khá lâu khoảng 2 năm rồi. Nhưng khoảng mới khoảng 1 tháng trước mình mới biết đến cái gọi là jailbreak và làm thử thành công, cài tweak ngon lành. Dùng được 2-3 tuần đầu tiên thì không sao, nhưng đến tuần thứ 4 máy tốn pin kinh khủng, để màn hình 20% để chơi game plants vs zombie chỉ 12 phút thoát ra là máy mất luôn 17% từ 62>45 ! Trước đây pin mình cũng hơi chai nhưng chơi 12 thì cũng chỉ mất 5-10% là nhiều. Mình đã mang đi thay pin rồi dùng tweak battery life để kiểm tra pin đúng 1420 mAh ( pin zin ) nhưng dùng vẫn mất rất nhiều, không hơn trước là mấy.Nếu tắt wifi, bật máy bay lên để qua đêm không mất tí pin nào nhưng cứ bật wifi lên là qua đêm mất 5~10 % , dù mình đã xoá facebook - ứng dụng mà nhiều người nói là chạy ngầm, gây hao pin.Mình nghi là máy đang nhiễm virus rồi, nhưng chả biết cách xoáCó bạn nào cho mình biết h phải làm j không ?Tất cả những tweak mà mình đã \"từng\" cài đây ( tweak đánh dấu x là bây h đã xoá ) :winterboard xRippleboard xAquaboard xBattsaver x ( tweak này như bị phản tác dụng, để im 30p mất cha nó 3% , cài từ soure cydia.vn)timepasscode xAcrivatorIapcrazy ( chỉ hack plants zombies )CallbarBitesmsclean master xspringtomize 3Tiny barCcquick pro xCcsettingauxo 2Zepplin xVà cuối cùng là altkeyboard 2Tất cả tweak đều cài từ soure cydia.vn trừ iapcrazyKhông biết có tweak nào trên nó bị nhiễm virus không nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.445408,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.376904,
+         "id": "756669",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 khi nhận cuộc gọi thì máy hiển thị những ký tự lạ trước rồi mới hiển thị người gọi tới. Khi màn hình mở thì những ký tự này sẽ tự mất còn khi màn hình khoá thì nó nằm im luôn và không thoát được luôn chỉ có tắt nguồn và khởi động lại máy. Chỉ khi nhận cuộc gọi thôi. Ai biết cách cứu tôi gấp. Cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.328785,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.092163,
+         "id": "796158",
+         "field_search": "question",
+         "question": "Mình đang sữ dụng viber khoảng hơn 5 năm rồi, tự nhiên bị xoá mất, mình cài lại thì máy báo số điện thoại này không hợp lệ, mình xoá và cài lại nhưng đã 3 tháng rồi cũng cứ như vậy là sao? Nhờ hướng dẫn giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.93222,
+         "id": "803998",
+         "field_search": "question",
+         "question": "Máy tính mình tự dưng phím số 9 tự động gõ chữ cho dù mình ko tác động tay vào.khi bật máy lên mở word ra là số 9 tự động chạy trên bản word.Cho mình hỏi lỗi đó là sao vậy add.?cách khắc phục như thế nào a.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.905632,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.789146,
+         "id": "1157209",
+         "field_search": "question",
+         "question": "Mình thắc mắc. Máy mình mới mua chưa được lâu. Chả biết bị gì mà sóng rất kém. Mình đã gửi đi bảo hành khoảng đc 4-5 ngày thì đc cuộc gọi máy gửi bảo hành đã đc gửi về. Nhân viên bên tgdd chỉ bảo đc thay main và k nói j thêm .Sau khi dùng lại , mh có tải game PUBg chơi và cảm thấy rất lag lại còn giật nữa. Vậy cho mh hỏi. Dòng glx A7 2018  nó vậy ạ. Hay lại phải gửi bảo hành nữa đây. Tiện mình cũng hỏi luôn. Máy mới mua có cả samsung theme nhưng sau khi bảo hành xog thì mất tích luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.669823,
+         "id": "1015383",
+         "field_search": "question",
+         "question": "mình dùng sam sung j3 nghe nhạc mp3 mình khóa màng hình khi nghe hết bài thì nó tắt luôn không chuyển sang bài khác là lỗi gì vậy.. ai biết chỉ mình với. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.574352,
+         "id": "1148189",
+         "field_search": "question",
+         "question": "E đang sử dụng iphone 6 ios12.1.2Khi e đăng nhập bằng ID Apple để vào Appstore thì nó vẫn đăng nhập được thông thường trên các máy khác, nhưng máy của e thì bị lỗi không đăng nhập được ạ, hoặc nó chỉ hiện dòng “Đang đăng nhập...” và đợi mãi thì nó vẫn không được ạ.Ad cho e hỏi là nếu điện thoại của bị như vậy là do lỗi gì ạ? Có cách gì để khắc phục ạ? E cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.521458,
+         "id": "777257",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình đang xài iPhone iOS 9.2.1 thì sạc vô pin nhưng phần trăm pin không lên mình đã vào cài đặt ( đặt lại tất cả ) rồi khi tải ứng dụng yêu cầu đăng nhập mình đăng nhập mà lỗi xác minh ... bạn chỉ mình cách khắc phục với ( đã coi chỉnh ngày tháng bao nhiêu cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.265118,
+         "id": "1153342",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đang xài cái Samsung J3 pro tự nhiên nó bị mất đi độ sáng nhưng vẫn có thể khởi động được và thấy được những ứng dụng nhờ đèn ipin của đt khác. Cho em hỏi, đt bị như vậy là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.255974,
+         "id": "1148084",
+         "field_search": "question",
+         "question": "Điện thoại em sử dụng là iPhone 7. Trước đây vẫn đăng nhập ứng dụng instagram bình thường nhưng giờ lúc nào cũng “rất tiếc đã xảy ra lỗi với yêu cầu của bạn, thử lại sau...” và không đăng nhập được. Tất cả các tài khoản gồm 6 account có 2c liên kết với fb cũng bị lỗi như vậy mặc dù em có thể đăng nhập trên web như safari, google và ở một số thiết bị điện thoại khác. Em đã thử xoá đi tải lại ứng dụng, khởi động lại máy, đặt lại tất cả ứng dụng, kiểm tra kết nối wifi nhưng kết quả vẫn không thay đổi và lỗi này đã bị gần cả 2 tháng, em làm mọi cách như đổi mật khẩu, đổi tên để lấy đường link truy cập tài khoản trên ứng dụng nhưng vẫn không được. Em cần được hỗ trợ gấp vì thiệt sự những account này rất quý đối với em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.198357,
+         "id": "768213",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi? Mình bị mất ipad nhưng mình đã bật find my iphone lên và khoá lại rồi không biết người nhặt được có mở được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.141205,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.032356,
+         "id": "1020163",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi huawei y5 2017 của em bị lỗi mất âm thanh khi có người khác gọi đến , khởi động lại thì đc nhưng vài ngày lại mất , em đã cập nhật đầy đủ phiên bản rồi, em cũng đã khôi phục cài đặt gốc rồi nhưng vẫn cứ bị, mn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.89587,
+         "id": "1019180",
+         "field_search": "question",
+         "question": "Mình xài con S7 Edge cách đây được 8 tháng thì máy hay bị lỗi treo máy. Cứ để quá 30p không sử dụng là y như rằng nó bị treo máy và phải dùng tổ hợp phím để tắt nguồn và khởi động lại. Có khi 1 ngày khởi động lại đến 5 6 lần gây bất tiện cho việc liên lạc (máy bị treo nên người khác gọi điện không được) Không biết có cách nào để khắc phục hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.875744,
+         "id": "1016618",
+         "field_search": "question",
+         "question": "Mình đăng nhập lại tài khoản google của mình nhưng khi nhập mã thì không được dù mình đã viết đúng mã rồi, mình đã nhập rất nhiều lần nhưng vẫn không được. Vậy bây giờ làm sao để đăng nhập được đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.78446,
+         "id": "855188",
+         "field_search": "question",
+         "question": "mình đăng bài viết lên fb mà k tải đc ảnh lên, báo lỗi là ảnh vi phạm bản quyền là sao hả ad, mà ảnh của mình thì rất bình thường. khi báo nv thì mình đã xóa bài viết đi mà cuối cùng bài viết vẫn đc đăng len nhưng chỉ cos nội dung mà k có ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.743336,
+         "id": "778355",
+         "field_search": "question",
+         "question": "iPhone 5 ios 9.2.1 tải appcola về dùng không được. Toàn bị văng ra khi vào dù đã trao quyền theo hướng dẫn. Mình đã khởi động lại máy hay xoá đi cài lại vẫn không khắc phục được. Vậy phải làm sao đây ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.681538,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.625145,
+         "id": "1148449",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: Mình có con máy sony z3 nhưng hôm nay mình đang dùng thì nó bị sập nguồn. Xong nó lại tự động hiện lên chữ Sony trong khoảng 1s rồi nó lại tắt. xong nó lại hiện với quy trình lặp đi lặp lại như trên. cho mình hỏi lỗi và cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.45627,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.418636,
+         "id": "1165100",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình down nhạc từ Zing mp3 về thiết bị, sau đó di chuyển tất cả nhạc qua thẻ nhớ để không gian thiết bị được trống hơn.Nhưng không hiểu sao cứ vài ngày vào lại mục Zing mp3 của bộ nhớ thiết bị vẫn tồn tại những bài hát đó, và bên thẻ nhớ cũng có luôn (tức di chuyển mà vẫn tồn tại song song 2 bên), cả khi mình xóa file nhạc trong bộ nhớ thiết bị thì khi khởi động lại thì nó tự động khôi phục như chưa từng xóa.Mình không muốn thế vì nó chiếm nhiều bộ nhớ, trong khi mình đã chủ động chuyển sang thẻ nhớ mà nó quá cứng đầu.Với lại trong list bài hát ở app phát nhạc cũng tồn tại 1 bài hát lập lại 2 lần, trông khó coi lắm.Mình xài Sony XA1 Ultra.Các anh chị giúp mình ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.3323,
+         "id": "804266",
+         "field_search": "question",
+         "question": "Iphone của mình hiện đang gặp vấn đề. Khi mình muốn tải ứng dụng thì hiện ra phần đăng nhập tà khoản, mình không ấn hủy mà ấn luôn về màn hình chính và máy bắt đầu bị đơ tắt nguồn rồi khởi động lại cũng không được. Bạn có thể cho mình cách giải quyết không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.330013,
+         "id": "1013986",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình mới mua chiếc xiaomi note 4x. Mình đã dùng tài khoản google để đăng nhập và đồng bộ hóa tự động, nhưng những ảnh và video mình đã có trước đây không thấy có trong máy sau khi đồng bộ là sao vậy. (Trước đây mình cũng đã sử dụng đồng bộ trên máy điện thoại khác và ảnh + video vẫn về đầy đủ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.29675,
+         "id": "997718",
+         "field_search": "question",
+         "question": "Wiko Ridge Fab 4G của mình không vào được CH Play. Cứ mỗi lần vào là lại bị văng ra. Tất cả những ứng dụng khác của google ( trừ Google chrome và Youtube) cũng gặp tình trạng tương tự CH Play. Trước đây mình vào được CH Play nhưng khi muốn cài đặt app thì nó chỉ tải về được chứ không cài đặt được. Sau đó thì mình khôi phục lại cài đặt gốc thì CH Play không vào được nữa luôn. Android của mình đang ở version 5.0.2 và CH Play là phiên bản 5.5.12. Mong mọi người giải đáp giúp. Cảm ơn mn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.25607,
+         "id": "840571",
+         "field_search": "question",
+         "question": " Em dùng iphone 4s bị lỗi là những ứng dụng tải rồi đã xoá đi giờ muốn tải lại không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.230984,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.18315,
+         "id": "786762",
+         "field_search": "question",
+         "question": "Cho mình hỏi là iphone của mình đã cài id apple nhưng trong itunes & appstore lại là địa chỉ khác và nó không hiện chữ màu xanh như bình thường để thay đổi thì phải làm thế nào để thay đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.152355,
+         "id": "793086",
+         "field_search": "question",
+         "question": "Điện thoại của mình là ip5s. Bg đang dùng còn 14 % nhưng tự nhiên sập nguồn luôn. Và thỉnh thoảng bị lỗi và đơ. Theo bạn điện thoại của m nên xử lý thế nào. Có người bảo chạy lại phần mềm. Làm thế có ảnh hưởng gì đến máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.035545,
+         "id": "992804",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi..mình mới mua ip6s plus tại TGDĐ được tầm một tuần...hiện tại mình gọi facetime, facetime audio cho người khác được, nhưng khi họ gọi lại thì máy luôn báo đang kết nối, mình tắt đi gọi lại cho ngta thì được, cho mình hỏi cách khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.02243,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.00541,
+         "id": "1144663",
+         "field_search": "question",
+         "question": "Trước đây mình đăng nhập được. Sau khi reset lại máy mấy lần đều đăng nhập được. Chỉ có lần reset gần nhất là sau đó k đăng nhập được. Dù thử tài khoản nào cũng bị như vậy. Làm sao để khắc phục ạ ? Máy mình là oppo neo7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.94683,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.924126,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.89771,
+         "id": "1006166",
+         "field_search": "question",
+         "question": "cho mình hỏi chút, samsung J5 prime của mình bị đơ, giờ không làm cách nào để tắt nguôn và khởi động lại được, phải làm thế nào bây giờ. màn hình bây giờ bất di bất dịch luôn rồi, máy mới vẫn còn bảo hành nhưng mình ko muốn ra quán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.892796,
+         "id": "897255",
+         "field_search": "question",
+         "question": "Trước đây mình tải app Snow về dùng nhưng khi sử dụng sticker thì cái sticker nó lại hiện 1 nửa hình ở góc trái điện thoại. Vì ức chế nên mình đã xoá app =))Hôm nay, mình lại tải đi tải lại mấy lần cái app này và trường hợp lần này còn ghê gớm hơn. Khi mình bấm vào sticker, thậm chí nó còn tự động bị tắt ứng dụng và trở lại màn hình chính. Mình lên mạng tìm về lỗi snow và thấy một bạn có trường hợp giống mình trước đây. Bên dưới phần cmt có 1 bạn nói khởi động lại máy. Mình làm theo và khi quay lại vẫn chẳng thay đổi gì cả. Nên có ai biết cách khắc phục thì chỉ cho mình, hoặc nêu nguyên nhân để mình xem xét và không ngoan cố tải lại cái app này nữa (mình dùng iphone 4 nhé)Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.765396,
+         "id": "1164506",
+         "field_search": "question",
+         "question": "Instagram của mình bị chặn không cho follow? Có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.75801,
+         "id": "1152315",
+         "field_search": "question",
+         "question": "điện thoại của mình bỗng dưng vài tháng nay ko xem được livestream nhấn vào cứ quay hoài k chịu load mặc dù kết nối mạng ổn, điện thoại mình dùng là 6splus 32gb, mình có đăng nhập account fb đó trên ipad luôn thì xem vẫn bình thường, có ai biết là lỗi gì ko giúp mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.70027,
+         "id": "994385",
+         "field_search": "question",
+         "question": "Chào shop!Mình có mua một cap sạc esaver iphone 5 tại cửa hàng của thế giới di động, nhưng dòng cap sạc này chất luọng rất kém. Mính mới mua dc 3 tháng mà đã đổi 5 lần rồi. Nhưng mỗi lần đổi chỉ dùng dc 3-4 ngày là bắt đầu chập chờn, và vài hôm sau mữa là hỏng hẳn! Vậy shop cho mình hỏi có thể đổi sang dòng cáp sạc khác được k ạ' xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.68398,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.58751,
+         "id": "1145054",
+         "field_search": "question",
+         "question": "Em không xoá ảnh trong thư viện mà tại sao ảnh tự mất và hiện lên dòng chữ \" không mục nào \" là sao vậy ạ .Chỉ em cách khôi phục lại đi ạ ( em dùng điện thoại Samsung j2)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.516415,
+         "id": "908796",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là: Tự nhiên laptop của mình không phát ra âm thanh, cắm tai nghe vào vẫn không nghe thấy gì, mình đã cài đặt lại drive thì laptop đã nghe được nhưng tai nghe thì bị rè, mình đã kiểm tra tai nghe ở máy khác thì không bị rè. Mình muốn hỏi là làm sao để khắc phục tình trạng này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.42691,
+         "id": "823094",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao máy mình hồi sáng dùng rất ok. Nhưng từ khi chiều đến giờ lại ko vào được facebook còn những ứng dụng kia lại vào bình thường, messanger cũng bị lỗi ko vào được, mình đã tắt nguồn và cài lại cài đặt gốc nhưng ko hề được. Nó hiện lên như này khi mình đăng nhập vào facebook này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.33381,
+         "id": "1164681",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi hiện tại mình đang xài Samsung J3, khi mình gọi vào điện thoại của em mình thì bên điện thoại em mình hiển thị cuộc gọi nhỡ từ mình và tự động tắt.. mình xem thì thấy biểu tượng chặn ở đt em mình nhưng mình đã xem lại thì sdt mình k có trong danh sách chặn cuộc gọi, cũng đã thử tắt chế độ chuyển tiếp cuộc gọi nhưng vẫn không được. Chỉ có em mình gọi lại được cho mình còn mình thì chỉ không gọi được cho sdt của em mình thôi. Cả 2 đt đều là Samsung J3 ạ. Mọi người ai biết cách khắc phục xin chỉ giùm mình với. Mình cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.27827,
+         "id": "1147662",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 Ram 3gb, máy bị lỗi tự động Restart liên tục.  TGDD cho mình biết máy bị lỗi gì và khắc phục như thế nào nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.257034,
+         "id": "1008680",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng ios nó có Thông báo cập nhật phần mềm nhưng mình không muốn cập nhật vậy làm thế nào để tắt thông báo và không bao giờ thông báo cập nhật về máy nữa??? Mình xoá được cập nhật tự tải   Về máy đôi nhưng nó vẫn hiện Thoòng báo trong cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.184578,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.153587,
+         "id": "884265",
+         "field_search": "question",
+         "question": "Mình muốn tải Cydia.vn nhưng lại bị lỗi như thế này thì phải làm như thế nào để khắc phục được ạ. Mình dùng iphone 5s..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.129303,
+         "id": "750831",
+         "field_search": "question",
+         "question": "Mình mua máy lại của một người bạn vẫn dùng tài khoản icloud cũ nhưng bây giờ mày tự nhiên bất nhập mật khẩu icloud, mình đã nhập nhưng không được giờ không biết làm thế nào có ai giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.05708,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.014233,
+         "id": "993367",
+         "field_search": "question",
+         "question": "Cho mình hỏi Mình có con laptop lenovo ideapad 100s muốn khởi động nó bằng USB mà không được (tìm cách vào bios để chỉnh mà không được) ai biết chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.920593,
+         "id": "796532",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mới mua điện thoại gionee p5w mình vào ch play tải trog chơi và ứng đụng. Như khi đến cái trò này thì không thể nào rải vào cài đặt đc. Mình đã thủ rất nhiều cách rồi mà không được. Như xóa dữ liệu khởi động lại máy nhưng vẫn không được. Bạn nào biết cách khắc phực giúp mình với . thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.911366,
+         "id": "986043",
+         "field_search": "question",
+         "question": "phần camera của mình bị đen bất ngờ. nhưng bên ứng dụng facetiem thì lại hoạt động bth.. có là lổi gì ạ và làm thế nào để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.883766,
+         "id": "778716",
+         "field_search": "question",
+         "question": "Cho mình hỏi loa ở lap dù luôn để 1 mức âm lượng nhất định nhưng nghe nhạc hay xem phim đều bị lúc nhỏ lúc lại to như mức mình chỉnh ban đầu.lỗi này khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.870132,
+         "id": "772607",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Máy laptop Dell của mình khi khởi động chỉ được 10 giây là tự tắt, màn hình đen xì luôn. Vậy nó bị bênh gì nhỉ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.847984,
+         "id": "806676",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi có ai biết ứng dụng nào để tải video từ trang web về cho iPhone không chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.76951,
+         "id": "1160104",
+         "field_search": "question",
+         "question": "Xin chào! Làm ơn cho mình hỏi. Mình có mua điện thoại Nokia CE0168 của thế giới di động. Nhưng giờ mình bị quên mật khẩu bảo vệ. Không biết khắc phục như thế nào. Cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.740154,
+         "id": "831482",
+         "field_search": "question",
+         "question": "Khi tôi phát hiện Facebook bị chặn thì tôi có lên đây để hỗ trợ, cũng như bên hỗ trợ đã chỉ cách khắc phục Họ bảo download ứng dụng Hotspot Shield Free VPN , tôi đã làm theo và cũng đã khắc phục được tình trạng Facebook bị chặn rồi. Nhưng khi tôi truy nhập Zalo thì nó lại bị như thế này, vậy cho hỏi t download ứng dụng Hotspot Shield Free VPN để khắc phục Facebook thì nó có ảnh hưởng gì đến zalo không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.704712,
+         "id": "1159377",
+         "field_search": "question",
+         "question": "tại sao samsung A50 sau khi cắt sim lắp vào gọi cho người khác thì bình thường nhưng khi người khác gọi vào số mình thì lại thành gọi vào máy khác mặc dù số vẫn là sim mình ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "996584",
+   "total": 33456,
+   "total_current": 100,
+   "max_score": 96.438934,
+   "origin_question": "Cho em hỏi sau máy samsung j2 prime của em lại không chuyển được ứng dụng qua thẻ nhớ (16GB) em đã làm đủ các bước như hướng dẫn nhưng khi vào lưu trữ lại không thấy",
+   "hits": [
+      {
+         "score": 49.380024,
+         "id": "1158596",
+         "field_search": "question",
+         "question": "Thẻ nhớ em bị làm sao ák. Bộ nhớ thiết bị hết dung lượng nên em chuyển qua thẻ nhớ mọi lần chuyển ảnh,ứng dụng đều được. Không hiểu sao gặp vấn đề gì mà bây giờ chuyển ứng dụng thì để là \"không đủ lưu trữ\" gì đó nhưng thẻ nhớ 8GB nhưng mới xài 2,3GB mà. Chuyển ảnh thì nó để \"có lỗi khi chuyển\". Máy em Samsung J2 Prime mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.479843,
+         "id": "1012358",
+         "field_search": "question",
+         "question": "Admin ơi !Em đang xài Samsung Galaxy J2 Prime đã lắp thẻ nhớ 16G nhưng ứng dụng tải về đều sử dụng bộ nhớ máy. Em đã thử chuyển qua thẻ SD nhưng bộ nhớ máy vẫn còn ứng dụng và liên tục báo đầy.Mong admin hướng dẫn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.461082,
+         "id": "998337",
+         "field_search": "question",
+         "question": "Đang sài con Samsung Galaxy J2 Prime em mua thẻ nhớ SD gắn vào khi vào Cài đặt > Ứng dụng > chọn ứng dụng > Thay đổi > Thẻ nhớ SD. Thì đang xuất qua nó ghi là \"Dung lượng lưu trữ không đủ\" trong khi thẻ nhớ còn dư hơn 10 GB :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.193512,
+         "id": "1157048",
+         "field_search": "question",
+         "question": "Em dùng máy samsung j3 (LTE 2016). Vì máy hết dung lượng nên em chuyển ứng dụng qua thẻ nhớ. Em đã làm cái này nhiều lần và thành công nhưng mấy ngày nay tự dưng lại không được và máy hiện lên dòng \"Không thể di chuyển ứng dụng. Không đủ dung lượng lưu trữ\" trong khi thẻ nhớ của em còn tận 13,53GB trống. Hơn nữa khi em thử xóa nhạc với ảnh sẵn trong thẻ nhớ thì lại bị hiện lỗi \"lỗi khi xóa\". Cho em hởi phải xử lí như thế nào trong trường hợp này ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.492672,
+         "id": "1156024",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để chuyển các ứng dụng sang thẻ nhớ trên đt vivo v9 Lúc em vô ứng dụng chọn lưu trữ nó không có mục thay đổi nên em ko biết làm sao để chuyển sang thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.277542,
+         "id": "997494",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái samsung j2 prime của mình có gắn cái thẻ nhớ 16gb vào nhưng lúc mình download game thì nó lại bảo là không đủ dung lượng, điện thoại đã kết nối với thẻ nhớ, và thẻ nhớ còn đúng 16gb chưa sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.07653,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.973976,
+         "id": "1010778",
+         "field_search": "question",
+         "question": "Mình dùng j2 prime .mình muốn chuyển ứng dụng mình đã tải từ bộ nhớ trong sang thẻ nhớ nhưng nó cứ báo là ko lưu trữ dc mặc dù dung lượng trống của thẻ nhớ còn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.74787,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.755703,
+         "id": "1017863",
+         "field_search": "question",
+         "question": "chào anh (chị) em đang sử dụng dòng máy galaxy j2 priml. Cho em hỏi làm sao để chuyển toàn bộ thông tin lưu trữ qua thể nhớ ví dụ như ảnh.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.469276,
+         "id": "998569",
+         "field_search": "question",
+         "question": "Sumsung galaxy j2 prime của em nó cứ báo bộ nhớ đầy là sao vậy. dung lượng máy tới 8g em vào cài đặt xóa bớt mà không biết xóa cái nào em cứ sợ là xóa nhầm vào các ứng dụng cần thiết của máy nên không dám xóa ad có thể hướng dẫn em xóa các ứng dụng không cần thiết của sumsung galaxy j2 prime được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.683872,
+         "id": "1150237",
+         "field_search": "question",
+         "question": "Em dùng thẻ nhớ 32G cho điện thoại sasung j2 nhưng không biết cài đặt thế nào để sử dụng thẻ nhớ. Em đã định dạng thẻ nhớ nhưng vẫn không chuyển file từ máy sang được. Máy đã gần dùng hết 8G nên không tải được một số ứng dụng trên CHplay. Vậy em phải làm thế nào để dữ liệu thẻ nhớ chuyển vào bộ nhớ trong để có thể sử dụng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.63336,
+         "id": "1021920",
+         "field_search": "question",
+         "question": "điện thoại của mình có thẻ nhớ 16GB, đã chuyển hết các ứng dụng trò chơi, nghe nhạc, chụp ảnh.... có thể chuyển sang thẻ nhớ vậy tại sao máy lúc nào cũng báo là hết dung lượng lưu trữ. Mình đang dùng dòng máy Huawei.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.455063,
+         "id": "1022291",
+         "field_search": "question",
+         "question": "Em cần Thegioididong tư vấn giúp em. Sau khi tải game về chơi và chép sang thẻ sd , lưu trữ của máy em cũng chẳng xuống là bao nhiêu. Khi xóa game đi cũng không xuống . mặc dù đã đã xóa cập nhật rất nhiều ứng dụng của google nhưng khi xóa game vẫn không khôi phục lại dung lượng như ban đầu? Cho hỏi tại sao và có thể khôi phục như thế nào? Em đang dùng galaxy j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.22854,
+         "id": "1003638",
+         "field_search": "question",
+         "question": "Cách Lưu ứng dụng vào thẻ nhớ samsung j2 như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.03739,
+         "id": "996883",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e là galaxy j2 prime các ứng dụng khi e tải về e đều chuyển qua thẻ nhớ mà bộ nhớ máy vẫn đầy cho em hỏi cách khắc phục ạ với lại bộ nhớ máy em là 8g nhưng em ko tải gì về hết thì máy em trống có 1g thôi cho em hỏi là tại sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.748985,
+         "id": "1152018",
+         "field_search": "question",
+         "question": "Máy của em là Samsung Galaxy FE. Mới đây em có đổi thẻ nhớ, thì khi chuyển nhạc vào và ứng dụng thì dùng bị lỗi, trong khi thẻ nhớ cũ lại không bị, em tháo ra lắp thẻ nhớ cũ vào và không sao, dùng thẻ mới thì những ứng dụng chuyển vào thẻ nhớ bị dừng, thi thoảng tắt nguồn sẽ bị tắt hết nhạc, do thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.74276,
+         "id": "1004823",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao Samsung J2 Prime không chuyển được ứng dụng từ máy sang thẻ SD ạ? Có thể chỉ cho em cách chuyển được không ạ... Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.42812,
+         "id": "754066",
+         "field_search": "question",
+         "question": "Mình dùng Galaxy J2, mình chuyển ứng dụng mp3Zing sang thẻ nhớ rồi, nhưng sau đó tải nhạc thì sao nhạc đó lại lưu vào bộ nhớ máy chứ k lưu trên thẻ? tương tự B612 mình cũng chuyển sang thẻ nhớ rồi nhưng hình chụp xong cũng lưu trên máy?Bạn chỉ mình cách cài đặt để mọi dữ liệu của ứng dụng đều lưu trên thẻ với, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.315346,
+         "id": "1000072",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để chuyển các ứng dụng được tải về qua thẻ nhớ đc ạ. Đt của e galaxy j2 frime à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.291798,
+         "id": "999955",
+         "field_search": "question",
+         "question": "Máy em là mobistar lai yuna 1.em mua thẻ nhớ nhưng các ứng dụng mà e down đều lưu trên máy mà máy e đã hết lưu lượng. Lm sao để chuyển sang lưu trên thẻ nhớ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.291424,
+         "id": "1021614",
+         "field_search": "question",
+         "question": "Em đang xài samsung J3 pro 2017. Em muốn chuyển hình ảnh và ứng dụng từ máy sang thẻ nhớ SD thì làm sao ạ. Em di chuyển hình thì cứ hiện \"không thể di chuyển\" còn chuyển ứng dụng thì lại ghi \"không đủ dữ liệu\" trong khi thẻ nhớ SD còn trống rất nhiều. Em cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.805565,
+         "id": "1150383",
+         "field_search": "question",
+         "question": "nokia 3.1 plus không thể lưu trữ ứng dụng trên thẻ SD hay sao? tìm đủ chỗ r trong cài đặt và quản lý r nhưng không có chỗ nào cho chuyển ứng dụng qua thẻ sd cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.775738,
+         "id": "1157450",
+         "field_search": "question",
+         "question": "Ad cho  hỏi e dung oppo a71 bộ nhớ 16gb mà giờ dùng hết r k đủ có các nào chuyển các ứng dụng kia qua thẻ sd  ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.48972,
+         "id": "998233",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy j2 prime của em tải nhạc trên mp3 về sau đó di chuyển hết vào thẻ nhớ mà sao khi vào phần nhạc chuông để cài nhạc từ bpoj nhớ trong lại ko có bài hát nào hết v :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.256866,
+         "id": "1149400",
+         "field_search": "question",
+         "question": "Ad cho mìn mình hỏi, mìn có hard reset lại j7 prime và làm theo các bước đã hướng dẫn nhưng đến đoạn như ảnh thì lại bảo là không thực hiện được. Mong nhận được trả lời sớm từ ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.20104,
+         "id": "1020743",
+         "field_search": "question",
+         "question": "cho mình hỏi sao samsung j2 prime của mình ở đây ghi ứng dụng 5,58gb nhưng mình vào xem rồi cộng dung lượng lại chỉ gần 2gb ( một số ứng dụng mình đã chuyển sang thẻ nhớ). Kiểm tra chỗ bảo trì thiết bị máy chỉ còn dư 500mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.155106,
+         "id": "895013",
+         "field_search": "question",
+         "question": " Không thể tải được facebook . mã lỗi 24đã làm đầy đủ các bước hướng dẫn nhưng vẫn không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.10606,
+         "id": "1166971",
+         "field_search": "question",
+         "question": "Em dùng samsung j4 khi chuyển ứng dụng qua thẻ nhớ sd chỉ chuyển được khoảng 30mb, làm sao để chuyển hết dữ liệu được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.01613,
+         "id": "1019788",
+         "field_search": "question",
+         "question": "Mình dùng j2 prime nhưng khi tải ứng dụng thì toàn bị đầy bộ nhớ. Vậy làm sao để chuyển được ứng dung sang thẻ nhớ ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.814323,
+         "id": "1008203",
+         "field_search": "question",
+         "question": "Làm sao để cài đặt thẻ SD làm nơi lưu trữ mặc định đối với điện thoại meizu m5 ? Có thể chuyển một số dữ liệu ứng dụng vào thẻ nhớ được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.378998,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.147377,
+         "id": "1000499",
+         "field_search": "question",
+         "question": "Cho hỏi cách di chuyển ứng dụng sang thẻ nhớ ss j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.091805,
+         "id": "1020018",
+         "field_search": "question",
+         "question": "Xin chào! Mình đang dùng máy Oppo F1s, mình tải nhạc qua ứng dụng Nhạc Của Tui, giờ mình muốn chuyển nhạc vào thẻ nhớ thì làm như thế nào? Nhờ Ad hướng dẫn giúp ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.850956,
+         "id": "1010947",
+         "field_search": "question",
+         "question": "Hướng dẫn giúp em cách chuyển ứng dụng từ máy sàng thẻ sd của Nokia 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.76646,
+         "id": "999359",
+         "field_search": "question",
+         "question": "Em mới mua máy Samsung glaxy j2 , e đọc hướng dẫn cách lắp thẻ nhớ vào máy rồi nhưng khi em lâp thì k thể ấn nó chặt vào đc , có cách nào k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.683067,
+         "id": "999695",
+         "field_search": "question",
+         "question": "Em muốn chuyển video từ máy sang thẻ nhớ thì làm sao ạ trên samsung j2 prime ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.46961,
+         "id": "1152167",
+         "field_search": "question",
+         "question": "Xin chào,  em đang sử dụng Oppo A83,  em gắn thẻ SD vào đã định dạng thẻ nhớ gắn ở máy khác,  khi gắn qua OPPO A83 em định dạng một lần nữa, lúc đó em chụp hình vẫn lưu vào thẻ nhớ bình thường,  khoảng vài tiếng sau em vào chụp lại thì nó báo\" lỗi thẻ SD, camera hiện thời không khả dụng \" làm cách nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.432934,
+         "id": "1007151",
+         "field_search": "question",
+         "question": "Làm cách nào để các dòng máy như Sony có thể chuyển ứng dụng vào thẻ nhớ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.185497,
+         "id": "777865",
+         "field_search": "question",
+         "question": " Cho em hỏi Oppo Neo7 chuyển ứng dụng vào thẻ nhớ như thế nào??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.16408,
+         "id": "998081",
+         "field_search": "question",
+         "question": "Em dùng Mobiistar Lai Yuna 1 , sử dụng thẻ nhớ 8G nhưng dữ liệu vẫn chỉ lưu vào bộ nhở của máy và k chuyển qua bộ nhớ ngoài là thẻ nhớ đc. Thẻ nhớ của e cũng dùng lâu r, nhưng vẫn tốt với những điện thoại khác. Vậy làm sao để khắc phục ạ? Mua thẻ nhớ mới có chuyển dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.02252,
+         "id": "1002706",
+         "field_search": "question",
+         "question": "Mình dùng j2 prime. Tại sao chuyển ứng dụng Messenger từ bộ nhớ thiết bị qua thẻ SD thành công rồi mà bộ nhớ thiết bị vẫn còn lưu ứng dụng đó. Khắc phục sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.96781,
+         "id": "1160839",
+         "field_search": "question",
+         "question": "Em xài oppo a11w mua thẻ nhớ 16gb nhưng chuyển ảnh và nhạc qua hk đc chuyển qua rồi lại mất tải trò chơi qua thẻ nhớ thì được nhưng cúp nguồn điện thoại mở lên lại thì mất. V giờ phải làm để chuyển qua hk bị mất tải cx k bị mất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.913116,
+         "id": "1164017",
+         "field_search": "question",
+         "question": "Em dùng j4. Em đã chuyển all ứng dụng có thể chuyển qua thẻ nhưng bộ nhớ trong em vẫn bị đầy, làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.73244,
+         "id": "1023990",
+         "field_search": "question",
+         "question": "Cách chuyển ứng dụng vào thẻ nhớ của máy samsung galaxy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.704525,
+         "id": "1144334",
+         "field_search": "question",
+         "question": "cho em hỏi cách sửa lỗi thẻ nhớ tại vì điện thoại em giờ thẻ nhớ nó ko hiển thị tất cả các phần mềm ứng dụng em đều lưu vào thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.704136,
+         "id": "824512",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo A7000. Bộ nhớ trong, thẻ nhớ của em đều còn trống rất nhiều. Thẻ nhớ trống 28GB. Nhưng bị báo bộ nhớ đầy. Em đã buộc dừng, gỡ 1 số apps ko cần, xóa cache nhưng vẫn bị. Em reset máy, thẻ nhớ cũng ko được. Em tháo thẻ nhớ, chùi sạch, lắp lại vẫn ko được. Một số apps em thường chuyển vào thẻ nhớ, nó \"tự\" chuyển lại bộ nhớ trong. Khi em chuyển lại thì hiện \"Couldn't move app. Not enough storage space.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.690292,
+         "id": "1150287",
+         "field_search": "question",
+         "question": "Samsung j2 prime có hỗ trợ gộp chung bộ nhớ ngoài (thẻ sd) vào thẻ nhớ trong không ạ? Nếu không thì cho em hỏi những loại samsung nào gộp được bộ nhớ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.558548,
+         "id": "999952",
+         "field_search": "question",
+         "question": "E dung Samsung J5 Prime, hiện máy gần hết dung lượng rồi e có chuyển các ứng dụng sang thẻ nhớ để có thêm dl nhưng mỗi lần cập nhật máy vẫn báo k đủ dung lượng.. giống như mấy ứng dụng k có đc chuyển vào thẻ SD hay sao ấy... nên máy ms báo k đủ dung lượng bộ nhớ ngoài hoài... Mong mấy a chị giúp e vs... !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.493393,
+         "id": "1013741",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình đã chuyển các ứng dụng sang thẻ nhớ rồi mà sao vẫn bị báo là dung lượng đầy.trong khi đấy thẻ nhớ vẫn còn dung lượng trống.vậy làm sao để khắc phục tình trạng này.mình đang dùng j2 prime.mình cũng không tải các ứng dụng như clean mater đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.284336,
+         "id": "1151192",
+         "field_search": "question",
+         "question": "Ad cho hỏi có cách nào khắc phục máy j2 prime bộ nhớ cứ tăng thất thường nên hay báo đầy bộ nhớ mặc dù mình đã tắt cập nhật trên ch play và mấy ứng dụng chuyển vào thẻ Sd đc thì mình đã chuyển vào..mình có tải nhiều đâu mà bộ nhớ cứ thất thường hay đầy bộ nhớ ạ..mong ad hướng dẫn khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.252457,
+         "id": "1156456",
+         "field_search": "question",
+         "question": "Nhờ bạn hướng dẫn dùm cách chuyển dữ liệu, hình ảnh, video, ứng dụng,... từ bộ nhớ trog ra điện thoại samsung A6+ 2018 dùm nhé. và chuyển từ thẻ nhớ ngoài vào bộ nhớ trong của máy dùm. Cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.03981,
+         "id": "1012422",
+         "field_search": "question",
+         "question": "Em muốn hỏi là trên con Samsung j7 pro, em muốn chuyển ứng dụng từ bộ nhớ máy sang thẻ nhớ sd phảo làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.86302,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.61202,
+         "id": "1143927",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi về chuyển dữ liệu từ máy sang thẻ nhớ sd, em đang xài máy htc desire 620 dual sim, có khe thẻ nhớ và thông tin máy có hỗ trợ thẻ nhớ, nhưng e có làm theo hướng dẫn chuyển dữ liệu thì k có chức năng chuyển sang thẻ sd, cho e hỏi dòng máy này có hỗ trợ chuyển k ạ? bộ nhớ máy đã đầy rồi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.54833,
+         "id": "1135576",
+         "field_search": "question",
+         "question": "Cho em điện thoại vivo y55s có thể chuyển ứng dụng sang thẻ nhớ được không? Và muốn cài đặt nội dung tải về lưu trên thẻ nhớ thì cài như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.51243,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.501188,
+         "id": "779746",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HKphone Revolead. Tất cả ảnh gửi qua viber đều được lưu vào thẻ nhớ. Nhưng lúc mình tháo thẻ nhớ ra đến khi lắp vào thì mất toàn bộ ảnh đã lưu của viber. Làm thế nào để lấy lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.469835,
+         "id": "1136391",
+         "field_search": "question",
+         "question": "Cho mình hỏi sau khi mình flash lại rom cho máy samsung j2 pro thì mình bị mất gần 8gb bộ nhớ trong. Mà máy mình lúc dâdu là 16gb. Mình phải làm sao để lấy lại 16gb như ban dâdu được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.37948,
+         "id": "1002974",
+         "field_search": "question",
+         "question": "E mới mua đt ss galaxy j2 prime, em mua cả thẻ nhớ 16gb ùi ạ. E có chụp ảnh. Nhưng khi e vào bộ sưu tập để xm ảnh thì máy cứ bảo là không thể mở bộ nhớ ùi bảo vào phần bộ nhớ ạ. Thẻ nhớ 16gb mà cn trống rất nhiều...tại sao máy lại nz ạ. M.n tư vấn cho e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.267946,
+         "id": "870676",
+         "field_search": "question",
+         "question": "admin ơi. Điện thoại mobiistar prime X plus của em bị gì rồi ý. em không thể truy cập được facebook hay messenger. Máy có tình trạng hay bị đơ khi truy cập 1 số ứng dụng như Clean Master or CM security. Thi thoảng thì lại gửi SMS lung tung làm tốn cả tiền. Em đã sao lưu và đặt lại đủ kiểu mà không được. Mong admin cho em xin hướng giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.238943,
+         "id": "1022562",
+         "field_search": "question",
+         "question": "Cho e hỏi đt M4 của e dù đã chuyển 1 số ứng dụng với game qua thẻ sd ui mà sao nó vẫn báo hết dung lượng lưu trữ là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.238453,
+         "id": "1164169",
+         "field_search": "question",
+         "question": "Em dùng máy vivo dung lượng 16gb nhưng bộ nhớ máy em vẫn đầy và máy vivo có cách nào chuyển qua thẻ sd không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.164965,
+         "id": "1140505",
+         "field_search": "question",
+         "question": "chỉ hộ mình cách lưu ảnh chụp từ bộ nhớ của máy sang thẻ nhớ của j72016  va j2 prime với mình vào cài đặt máy ảnh chọn lưu vào thẻ nhớ rồi mà vẫn ko đc chup xong vẫn thấy lưu ở bộ nhớ máy xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.096306,
+         "id": "1007153",
+         "field_search": "question",
+         "question": "Giúp em với Làm thế nào để dòng máy sony c1905 chuyển ứng dụng vào thẻ nhớ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.037207,
+         "id": "1022807",
+         "field_search": "question",
+         "question": "Em vừa mua con samsung j8 prime nhưng khi vào ch play tải ứng dụng lại hiện lỗi dung lượng không đủ ai cho e cachs giải quyết với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.007467,
+         "id": "927652",
+         "field_search": "question",
+         "question": "Em sử dụng máy samsung galaxy tab 4.7 t231 vừa rồi em root được và dùng phần mềm root explorer để xóa các tệp không cần thiết của hệ thống để máy có bộ nhớ nhiều hơn nhưng em lại xóa nhầm tệp của hệ thống bây giờ mày hiện lên dòng chữ tiến trình com.android.systemui đã dưng và không vào được màn hình chính,em đã hard reset và vào đến phần cài đặt ngôn ngữ thì không vào được nữa,em đã thử cài lại rom qua odin nhưng máy không nhận cáp usb nên em đã cài rom qua thẻ nhớ ngoài những máy vẫn báo lỗi không cài được.vậy mong các pro nào biết chỉ giúp em với em xin chân thành cảm ơn.số điện thoại của em:0167436xxxx.gmail:parksoora88@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.847267,
+         "id": "1020273",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em samsung j2 prime đã gắn thẻ nhớ rồi mà máy báo là chưa gắn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.788746,
+         "id": "1007005",
+         "field_search": "question",
+         "question": "Cho em hỏi tìm thẻ nhớ trên Samsung j7 thì phải làm sao ạ?  Em đã gắn thẻ nhớ rồi nhưng tìm mãi vẫn không thấy thẻ nhớ nằm đâu ạ.  Giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.689032,
+         "id": "1022953",
+         "field_search": "question",
+         "question": "em có mua một cái mobiistar kool life đã qua sử dụng nhưng gắn thẻ nhớ vào lại báo là không tồn tại thế nhờ vậy em có được đổi trả không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.67811,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.662695,
+         "id": "1158901",
+         "field_search": "question",
+         "question": "Tại sao ứng dụng trên điện thoại oppo neo9 không hiển thị chỗ chuyển qua thẻ sd đã lắp thẻ nhớ rồi ?? Em camd ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.63526,
+         "id": "1014916",
+         "field_search": "question",
+         "question": "Anh chị ơi em đã tắt lớp phủ màn hình như trg hướng dẫn nhưng sao vẫn k mở được quyền truy cập của các ứng dụng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.52157,
+         "id": "1137092",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone 6 em có icloud nhưng khi nhập và nhập mã xác nhận 6 số từ điện thoại vẫn không được.Sau khi làm đủ các bước xác nhận số đt thì nó lại trả lại bước đầu và làm nhiều lần vẫn bị như vậy.Vậy có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.450485,
+         "id": "1000032",
+         "field_search": "question",
+         "question": "Em sài samsung j2 prime khi chụp ảnh thì hình ảnh vẫn bình thường nhưng khi call video facebook thì hình ảnh lại bị tối và bên kia không thấy gì, dù em đã xóa và tải lại, khởi động lại máy nhưng vẫn không được. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.45011,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.370367,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.344034,
+         "id": "1146703",
+         "field_search": "question",
+         "question": "Xin chào các Admin! Mình xin được hỏi : Khi đã đồng bộ Hình Ảnh từ Google Ảnh sang Google Drive sau khi Khôi phục lại Cài đặt Gốc có bị mất hay không. Máy của mình ứng dụng File của bạn thông báo đã Dừng! nên không thể di chuyển Ảnh vào thẻ nhớ được  và mình có thể tải lại một ứng dụng File mới để thay thế được không ? Mong các Admin chỉ giúp ! Chân thành cảm ơn Admin  ( Từ TP. S.Trăng 😍).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.199795,
+         "id": "1162649",
+         "field_search": "question",
+         "question": "Mình đang xài Samsung Galaxy Note 3 Neo. Mình mới mua 1 thẻ nhớ 32GB lắp vào máy. Mình có chuyển Game vào thẻ nhớ nhưng khi cập nhập Game nó lại hiện không đủ dung lượng và mình không thể cập nhập game tiếp được? Vậy là do sao ạ?*Mình còn chuyển thêm Mess và Face vào thẻ nhớ*",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.18357,
+         "id": "836952",
+         "field_search": "question",
+         "question": " Samsung galaxy j3 lưu mặc định ứng dụng tải về từ chplay vào thẻ nhớ được không ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.18057,
+         "id": "734961",
+         "field_search": "question",
+         "question": "Admin cho em hỏi Samsung Galaxy J7 có thể lưu dữ liệu trực tiếp lên thẻ nhớ được không? Hay là phải chuyển từ bộ nhớ máy sang thẻ nhớ ??? Cảm ơn Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.032585,
+         "id": "1001395",
+         "field_search": "question",
+         "question": "Máy em oppo A37 mới mua làm sao để  chuyển ứng dụng sang thẻ nhớ được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.918331,
+         "id": "1006301",
+         "field_search": "question",
+         "question": "E mới mua samsung j2 prime nhưng điện thoại luôn báo bộ nhớ đầy e mua thẻ nhớ 8g lắp vào nhưng sao khi e vào ch phay tải ứng dụng về nó vẫn báo là bộ nhớ đầy cần xóa bớt để tải trong khi e đã lắp thẻ nhớ còn mới chưa dùng vào điện thoại rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.823912,
+         "id": "1002822",
+         "field_search": "question",
+         "question": "Mk đang dùng con j2 prime. Cho mk hỏi là làm sao để chuyển các ứng dụng từ thiết bị sang bộ nhớ vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.738596,
+         "id": "1010975",
+         "field_search": "question",
+         "question": "e xài gionee j103 pro sao mà không di chuyển được các ứng dụng trong máy và không nhận được ảnh trong thư viện .... đã thử khôi phục máy lại nó trở lại bình thường và chỉ sau vài giờ nó lại bị giống v . có thể hướng dẫn e cách khắc phục được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.715849,
+         "id": "1003858",
+         "field_search": "question",
+         "question": "Add cho em hỏi sao em tải ứng dụg trên chplay lại báo bộ nhớ đầy trong khi thẻ nhớ cỉa rm dung lượng trống tới 13g. Có cách nào tải ứng dụg về ở trên thẻ nhớ ngoài mặc địh được không add. Máy của em là samsung galaxy j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.671215,
+         "id": "1017645",
+         "field_search": "question",
+         "question": "Cho e hỏi ảnh chụp màn hình, ảnh tải từ zalo, f...s lại lưu trong bộ nhớ thiết bị.Có cách nào chuyển vị trí lưu sang thẻ nhớ k...E đang dùng j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.655897,
+         "id": "1007060",
+         "field_search": "question",
+         "question": "Từ lúc e lắp thẻ nhớ vào máy là máy e bị hay khởi động lại, rồi 2 ứng dụng messenger và VSCO cứ bị như kia khi mở màn hình lên để 1 vài giây thì mới hiện hình lên bình thường, có khi còn mất luôn ở màn hình chính, có lúc thẻ nhớ còn bị tháo đột ngột xong vài giây sau là lại đã lắp thẻ nhớVậy máy e bị làm sao ạ? e dùng máy samsung galaxy j2 prime ạ, e mới mua máy được mấy ngày thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.6103,
+         "id": "926336",
+         "field_search": "question",
+         "question": "Cho em hỏi cách quay màn hình iphone 5s như thế nào vậy ạ? Em có tải ứng dụng Shou về, nhưng khi quay xong thì không thấy chỗ lưu lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.589073,
+         "id": "779375",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPad hôm qua 1 trang . Một chập thấy người ta nó máy bạn đang bị nhiễm virus nặng, cần phải làm theo các bước hướng dẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.530941,
+         "id": "1134607",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.530941,
+         "id": "1134606",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.40938,
+         "id": "1016674",
+         "field_search": "question",
+         "question": "Em đang dùng điện thoại lenovo A5000, khi chuyển sang bộ nhớ cuả thẻ nhớ các ứng dụng vẫn tải bình thường nhưng khi chụp ảnh thì lại ghi lỗi là không thể tạo ảnh nhỏLàm sao để khắc phục lỗi này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.323557,
+         "id": "1013976",
+         "field_search": "question",
+         "question": "Cho em hỏi,  em muốn cài tiếng nhật cho máy oppo A39, nhưng khi vào phần ngôn ngữ thì e lại không tìm thấy tiếng nhật,  cách anh chị có thể hướng dẫn cho e không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.268478,
+         "id": "1015239",
+         "field_search": "question",
+         "question": "Ss j7 prime cập nhật phần mềm máy tự khởi động lại có gắn thẻ nhớ sao không mở khóa được gở thẻ nhớ ra thì mở khóa được xong gắn thẻ nhớ lại. thì mất 1 ứng dụng messenger như vậy messger tự bị xóa sao Ứng dụng messger không khả dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.25665,
+         "id": "792101",
+         "field_search": "question",
+         "question": "Cho em hỏi cách gỡ bỏ Assistive touch trên Samsung j2. Em đã vào quản lý ứng dụng gỡ cài đặt nhưng vẫn không được. cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.190565,
+         "id": "1164409",
+         "field_search": "question",
+         "question": "Mình dùng SamSung M20, mình đã làm theo hướng dẫn sử dụng nhyw thegioididong chỉ. Sau khi bật nhân bản ứng dụng trong Dual Messenger rồi mình reset máy vào vẫn chẳng thấy nhân đôi ứng dụng gì cả. Thao tác lặp đi lặp lại nhiều lần rồi. Vẫn thế thôi! Vẫn chẳng mọc thêm được cái ứng dụng nhân bản nào cả ?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.16587,
+         "id": "1001361",
+         "field_search": "question",
+         "question": "Làm sao để chuyển ứng dụng và tải ứng dụng qua thẻ nhớ vậy????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.12599,
+         "id": "1007467",
+         "field_search": "question",
+         "question": "Em có thẻ SD 32GB nhưng em không tải phim về thẻ đc. em xài J2 Prime ạ. làm sao đẻ chuyển thư mục Download sang thẻ SD đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "941630",
+   "total": 33571,
+   "total_current": 100,
+   "max_score": 82.46257,
+   "origin_question": "Cho e hỏi e đang xài điện thoại iphone 5s 16GB nhưng điện thoại e thường xuyên bị tắt nguồn không hiểu lý do tại sao vậy nên làm thế nào",
+   "hits": [
+      {
+         "score": 34.240726,
+         "id": "1135280",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi. hiện tại e flash rom điện thoại nokia ta-1032 đến bước cắm cáp để starting process thì điện thoại nó mở nguồn lên nên không flash được vậy e phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.3837,
+         "id": "1150825",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy bị như thế này là do lỗi của điện thoại hay tại e cài gì nên nó bị ạ.em đang dùng điện thoại vivo y85 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.9055,
+         "id": "841455",
+         "field_search": "question",
+         "question": " Cho e hỏi làm thế nào để diệt virus trên điện thoại iphone 5s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.588156,
+         "id": "951827",
+         "field_search": "question",
+         "question": "E MUA ĐIỆN THOẠI Ở THẾ GIỚI DI DỘNG HIỆN TẠI MÁY E ĐANG BỊ LỖI KHÔNG BẬT TÁT NGUỒN ĐƯỢC MÀ CHỈ HIỆN LOGO QUẢ TÁO. VẬY MÁY EM BỊ LÀM SAO?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.037836,
+         "id": "913851",
+         "field_search": "question",
+         "question": "Hiện tại e đang dùng máy iPhone 5 32g . Máy đang chạy IOS 7.1.2 và đã jailbreak .vì lý do ios quá thấp không tải được một số ứng dụng trên app store nên e muốn lên ios 10 ạ. Anh,chị cho e hỏi e nên làm như thế nào cho hợp lý ạ? Và nếu làm thì phải làm như thế nào ạ? E xin chân thành cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.883217,
+         "id": "1137479",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại e đang xài điện thoại xiaomi a2 lite. Ở phần dưới của điện thoại có 2 dãy loa. Khi xài thì chỉ có dãy loa hoạt động. Không biết dãy còn lại bị sao hay là do vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.786617,
+         "id": "1020441",
+         "field_search": "question",
+         "question": "Em mua điện thoại iphone 6 32g hơn 2 tháng  nhưng hay bị tự động tắt nguồn. Cho e hỏi đt e có vấn đề gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.672373,
+         "id": "803104",
+         "field_search": "question",
+         "question": " Cho e hỏi e đang sài dt sky A870 mà bị tắt nguồn liên tục như zậy là sao.Cho e biết lý do được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.618841,
+         "id": "1017597",
+         "field_search": "question",
+         "question": "Ad cho e hỏi...e xài đt SAMSUNG J5(2016) ko hiểu sao e sạc đầy pin r sử đến 76% pin tự nhiên tắt nguồn r em mở nguồn lên thì nó còn 0% pin. Điện thoại e bị mấy ngày liền luôn ạ...ad giải thích giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.026957,
+         "id": "988714",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang mua trả góp điện thoại oppo F1s mới xài dc 1 tháng vậy giờ e muốn đổi lấy iphone 5s trả góp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.920012,
+         "id": "793377",
+         "field_search": "question",
+         "question": "Anh chị ơi, em đang xài điện thoại iPhone 5s á. Mà dạo này nó hay tự nhiên bị xanh màn hình rồi tắt nguồn. Như vậy là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.833061,
+         "id": "1148764",
+         "field_search": "question",
+         "question": "Cho e hỏi là cái điện thoại oppo a37 của e đang dùng bình thường mà sao tự nhiên sập nguồn rồi e mở nguồn lên điện thoại nó sáng thui chứ chẳng thấy ứng dụng j cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.700342,
+         "id": "1018782",
+         "field_search": "question",
+         "question": "Em xài iphone 4. Điện thoại e k bật nguồn lên được. Cắm sạc thì hiện logo của apple lúc hiện lúc tắt vậy là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.696634,
+         "id": "805334",
+         "field_search": "question",
+         "question": " em đang sài iphone 5s. nếu xoa bản sao lưu thường xuyên co ảnh gì đến điện thoại khộng ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.40508,
+         "id": "883204",
+         "field_search": "question",
+         "question": "E dùng iPhone 5s e vô coi phim sao điện thoại e cứ có những cái tin điện thoại e bi nhiễm virus là sao a lúc thi nó nói điện thoại e có 4 virus lúc thì 6 virus như vậy điện thoại e có bị nhiễm virus kg a e lo qua mấy a cho e biết như vậy điện thoại e có sao kg a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.323381,
+         "id": "761545",
+         "field_search": "question",
+         "question": " MÁY IPHONE 4 BỊ TẮT NGUỒN MỞ KHÔNG LÊN, LÝ DO TẠI SAO? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.234072,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.195803,
+         "id": "875831",
+         "field_search": "question",
+         "question": "  Tại sao điện thoại iphone 5s của e không chụp được ảnh mà báo lỗi cần làm mát iphone  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.734394,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.72186,
+         "id": "883159",
+         "field_search": "question",
+         "question": "E dùng iphone 5s e vô coi phim mà sao điện thoại e cứ có những cái tin điện thoại e bị nhiễm virus là sao a lúc thi no nói điện thoại e có 4 virus lúc thì 6 virus như vậy điện thoại e có bị nhiễm víu kg a e lo qua may a cho biết co sao kg a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.672348,
+         "id": "850691",
+         "field_search": "question",
+         "question": " E xài ip5s. Hôm qua e ngủ quên có để điện thoại kết nối Wifi suốt đêm mà ko xài ! Vậy điện thoại e có bị sao ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.355421,
+         "id": "990725",
+         "field_search": "question",
+         "question": "E đang sử dụng Ip5s, e mới cập nhật lên IOS 10.3.2 được gần 1 tháng. Lúc mới cập nhật thì điện thoại e sử dụng bình thường, có phần mượt hơn IOS 9 nhưng thời gian gần đây e thấy điện thoại ko còn mượt nữa, nhiều lúc rất lag và hay bị treo màn hình phải tắt màn hình đi xong bật lại mới được. Cho e hỏi là điện thoại e bị như vậy có phải do HĐH hay ko, và nếu là do HĐH thì có nên hạ HĐH xuống hay ko. Mong nhận được câu trả lời sớm nhất ạ, e xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.320906,
+         "id": "902187",
+         "field_search": "question",
+         "question": "Cho e hỏi ad cái ạ:e dùng iphone 5s e đi làm em bỏ điện thoại vào bao quần bò,sau vài tiếng e lấy điện thoại để chụp hình thì thấy phần chụp ảnh màn hình nó màu đen,e không biết tại sao,vậy nhờ ad cho e cách giải quyết vấn đề này dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.158789,
+         "id": "815598",
+         "field_search": "question",
+         "question": "Ad e có một cái ip hàng chính hãng bên đài loan. Nhưng bên đấy xài điện 110v mà về vn thi xài 220v như thế em dùng cách nào để điện thoại em có thể thích hợp với nguồn điện ở đây ạ. Bạn em nói có thể thay nguồn điện của điện thoại tại các shop điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.149963,
+         "id": "1019959",
+         "field_search": "question",
+         "question": "cho em hỏi e đang dùng oppo Neo 7 đang dùng bình thường tự dưng sập nguồn sau đó không bật nguồn lên được nữa.cắm sạc vào thì thông báo điện thoại pin yếu không thể bật nguồn được là bị sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.095623,
+         "id": "831523",
+         "field_search": "question",
+         "question": "cái máy laptop của e đang sạc pin nhưng e muốn xài nên e tháo pin, mà đang tháo ra rồi thì lỏng ổ cắm điện nên nó tự tắt,rồi e khởi động lại thì được nhưng vô ứng dụng không vô đc ứng dụng ,mà có vô đc thì rất chậm,phải sử lý sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.070023,
+         "id": "882429",
+         "field_search": "question",
+         "question": "Cho em hỏi sử dụng điện thoại iphone 5 có khi nào rơi nhẹ mà hư luôn không ạ? em nghe nói iphone 5 chống va đập cũng tốt nhưng em lỡ tay làm rơi, điện thoại tắt nguồn. Bấm nút nguồn thì điện thoại không lên. Khi cắm sạc thì nó chỉ hiện logo của apple rồi tắt, cứ hiện rồi tắt. Cho em hỏi bị như vậy thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.978947,
+         "id": "793086",
+         "field_search": "question",
+         "question": "Điện thoại của mình là ip5s. Bg đang dùng còn 14 % nhưng tự nhiên sập nguồn luôn. Và thỉnh thoảng bị lỗi và đơ. Theo bạn điện thoại của m nên xử lý thế nào. Có người bảo chạy lại phần mềm. Làm thế có ảnh hưởng gì đến máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.88943,
+         "id": "866579",
+         "field_search": "question",
+         "question": " điện thoại của e đang sài mà hết pin sạc không vô được cho e hỏi ở đây có kích pin iphone 5s k vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.855804,
+         "id": "1154477",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang sài điện thoại oppo A39 nhưng e ko tao email pop 3 dx là tại sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.84611,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.822254,
+         "id": "1024328",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại dòng samsung A5 2017. Thông thường các dòng khác em thấy khi cắm tai nghe có thể nói hoặc ghi âm được nhưng với điện thoại này em không thể ghi âm qua tai nghe. Cho em hỏi lý do tại sao và làm như nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.801273,
+         "id": "1019986",
+         "field_search": "question",
+         "question": "e đang dùng ip 5s nhưng đang sài bình thường thì màn hình bị đơ, xong tối màn hình, tắt nguồn cũng không được là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.722425,
+         "id": "997898",
+         "field_search": "question",
+         "question": "Bàn phím điện thoại oppo a39 nhắn tin,nhập kí tự thường xuyên bị lỗi... Làm thế nào để khác phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.536781,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.497849,
+         "id": "1138790",
+         "field_search": "question",
+         "question": "Chào shop ạ, e hiện tại đang dùng điện thoại iphone 5s. Bây giờ e muốn cập nhật lên phiên bản 10.2.1 có sợ bị giật không ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.473867,
+         "id": "1003353",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại em bị rớt nhưng không bị bể màn hình. Nhưng nó bị như thế này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.20285,
+         "id": "1017004",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao tắt lớp phủ màn hình trên điện thoại masstel. N535 đc vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.13716,
+         "id": "942371",
+         "field_search": "question",
+         "question": " E đang xài iphon 5s mà cứ bị tắt nguồn liên tục,5 phút tắt 1 lần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.103569,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101025,
+         "id": "830881",
+         "field_search": "question",
+         "question": "Em và người thân đang xài cùng icloud nên h danh bạ của e có vài số điện thoại của người thân e, danh bạ của cho cùng 1 số nhưng lại hiện tên đc lưu trong một máy khác. Làm sao để k bị vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.949326,
+         "id": "749010",
+         "field_search": "question",
+         "question": "cho em hỏi iPhone 6 không dùng để vậy cũng bị hao pin do phai lấy điện để nuôi nguồn phải không, hay là có lý do nào khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.942223,
+         "id": "752932",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại điện thoại em là dòng iPhone 5. Bây giờ em muốn gỡ phần mềm từ 9.1 xuống 8.3 hoặc 8.4 có được không ạ? Với lại diệt virus. Điện thoại em thường xuyên bị đứng trượt mở nguồn không qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.865442,
+         "id": "1160406",
+         "field_search": "question",
+         "question": "E mua điện thoại oppo a3s đc 10 ngày. Nó có bị lỗi nguồn. E có đem ra thế giới di động sửa r nó vẫn bị bình thường. H đổi điện thoại mới được k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.806128,
+         "id": "1164957",
+         "field_search": "question",
+         "question": "Cho e hoi tại sao điện thoại xiaomi redmi not 5 của e dạo nay cứ tắt màn hình liên tục vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.669298,
+         "id": "1003892",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e xài ip 5s ios 10.3.1 ! Thi thoảng máy bị lỗi có người gọi đến ko đổ chuông mà chỉ rung ! Tắt nguồn đi được vài ngày là lại bị như thế ! Vậy có phải do lỗi phần mềm hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.634398,
+         "id": "1143708",
+         "field_search": "question",
+         "question": "Em đang xài ip6splus , dung lượng icloud của máy cứ báo đầy do lượng ảnh lên đến gần 4gb , h em muốn tắt tính năng Ảnh icloud cho trống dung lượng , thì toàn bộ ảnh trên điện thoại e còn hay sẽ bị mất ạ ? Tại bạn em cũng tắt tính năng này nhưng tắt ngay từ đầu nên ảnh nó vẫn lưu trên đt bình thường ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.58229,
+         "id": "790058",
+         "field_search": "question",
+         "question": "Bạn em nó giật Điện thoại..hai đứa giành qua giành lẠi nhiều lần lắm ạ??? Vậy màn hình điện thoại e có bị sao ko ạ? Em xài 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.539906,
+         "id": "1136378",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao điện thoại htc one e9 e mua dc hơn 1 năm rồi giờ ko biết tại sao mà xạc pin đầy chơi game hoặc xem phim dc 1 lúc thì nó sập nguồn xong tự khởi động lại nhưng ko lên hẳn rồi lại tắt.xong e cắm xạc thì nó tự lên nguồn rồi để vậy xài dc khoảng 5p nó lại tắt.ad cho e hỏi là điện thoại e gặp vấn đề gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.504726,
+         "id": "1148076",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài oppo neo 7 lúc trước không bị nhưng dạo gần đây khi cắm tai nghe vào điện thoại thì nó bị lỗi cảm ứng dù k động j vào điện thoại không biết có cách nào sữa chữa k mong tgdd tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.46152,
+         "id": "1023800",
+         "field_search": "question",
+         "question": "Admin cho e hỏi là e xài oppo neo 5 được 1 thời gian và thường xuyên cập nhật ứng dụng mới , nhưng thường xuyên bị không phản hồi về các ứng dụng như : Facebook , Zalo , google , YouTube ,...và cách ứng dụng khác , vậy cho e hỏi là bị gì , nguyên nhân và cách sửa chữa...! E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.458117,
+         "id": "1024338",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại oppo a57. Cứ mỗi lần e cắm xạc pin vào máy là máy tự khởi động lại. E nghĩ là tại nguồn điện nhưng e đổi chỗ cắm điện thì cứ cắm xạc vào máy là máy lại tuwj khởi động lại. Máy e bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.453754,
+         "id": "772668",
+         "field_search": "question",
+         "question": "Anh or chị cho em hỏi hiện tại em đang dùng iPhone 5S lock nhật em không dùng được sim điện thoại tại nước mình bây giờ em phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.44571,
+         "id": "1165205",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 7 32gb đôi lúc sóng yếu mạng hay chập chờn wifi cũng chậm lý do tại sao bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.2296,
+         "id": "771124",
+         "field_search": "question",
+         "question": "Em đang xài iPhone 5s. Không biết sao sạc điện thoại lúc đầu tăng, được một lúc thì pin giảm xuống. Vậy là bị gì? Sửa cách nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.208248,
+         "id": "1014661",
+         "field_search": "question",
+         "question": "cho e hỏi hãng điện thoại mobell là do nước nào sản xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.116814,
+         "id": "1158333",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại như vậy là sao ạ? Sao e không thể chụp hay quay video bằng camera của điện thoại??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.091038,
+         "id": "996900",
+         "field_search": "question",
+         "question": "E ms mua điện thoại htc10 evo E dùng dc 2 hôm nhưng e thấy máy hao pin quá  vì vậy e hỏi là do lỗi máy hay làm xao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.079134,
+         "id": "1000573",
+         "field_search": "question",
+         "question": "Cho e xin hỏi?Hiện tại e đang dùng samsung j2 prime. Mà sao tin nhắn không gửi đi được. Đến bất kỳ số nào. Nhưng bỏ vào điện thoại khác gửi đi đượcCài đặt lại như thế nào ạ. Cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.059483,
+         "id": "1135130",
+         "field_search": "question",
+         "question": "Đt e là xiaomi mi3 điện thoại cắm sạc đồng thời bật nút nguồn nhưng máy không lên hình là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.037548,
+         "id": "779646",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e đang dùng điện thoại iphone 5s mà jo e quên nick ID apple với cả mật khẩu giờ ko biết có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.976025,
+         "id": "819217",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ. em dùng iphone 5s mà do mới đổi mật khẩu mà em không nhớ nên điện thoại em bị vô hiệu hóa. bên thegioididong có sữa chữa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.968214,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.930954,
+         "id": "1140004",
+         "field_search": "question",
+         "question": "E đang xài cái SS J7 prime nhưng bình thường sạc điện thoại xong ko sao.Nhưng hnay điện thoại nó sạc xong kêu tít tít to hiện nếu bạn cần cuộc gọi khẩn cấpRùi tự khóa màn hình chính bằng ứng dụng nào trên CHPlay lạ tự cài Password trên màn hình mà  không phải do e tạo hay tải về Ko vào được xong điện thoại tự reset hiện hình Android.Xong thì dt reset như mới mua mà e không bấm chức năng cài đặt khôi phục gốc của điện thoại. Lỗi này là do sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.876326,
+         "id": "1010661",
+         "field_search": "question",
+         "question": "Em đang xài Q vita S lúc trước điện thoại e sạc khoảng 3h là đầy pin nhưng giờ sạc rất lâu mới đầy em muốn hỏi lý do và cách khắc phục vấn đề này ạ!  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.866102,
+         "id": "1140921",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao điện thoại Oppo a3s 16G mà chỉ xài được có 8G thôi ạ Làm sao để mở thêm G ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.857569,
+         "id": "785547",
+         "field_search": "question",
+         "question": " Tôi đang xài điện thoại iphone 5s hiện máy đang có tình trạng chai pin vậy cho hỏi ở TGDD có thay pin iphone không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.849815,
+         "id": "1142249",
+         "field_search": "question",
+         "question": "Em đang dùng đt samsung A7. Mua đc hơn 2 tháng. Chơi game free fire rất thường xuyên bị đứng. Lý do tại sao vậy ad. Dù pin vẫn còn 85%.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.823223,
+         "id": "1137316",
+         "field_search": "question",
+         "question": "Ad ơi, tình hình là tháng trước e có mua cái samsung galaxy j6 pro tại TGDĐ cho cha e, mà sáng nay cha e lỡ tay làm rớt điện thoại vào xô nước, e đã tháo sim và thẻ nhớ ra hết rồi còn pin e hk tháo dc vì điện thoại nguyên khối, giờ cho e hỏi e phải xử lý làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.82227,
+         "id": "1006135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sao em không nhận được mail trên điện thoại ạ,em đang xài iphone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.817413,
+         "id": "789784",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qua em bị tắt màn hình, em lấy điện thoại khác gọi thì vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như vậy? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e mới biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, vậy điện thoại e có thể bị sao ko ạ??? QTV tư vấn giúp e với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.73823,
+         "id": "1138437",
+         "field_search": "question",
+         "question": " điện thoại đang dùng đột nhiên tự tắt nguồn là do vấn đề gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.714128,
+         "id": "806736",
+         "field_search": "question",
+         "question": "Em xài  iPhone 6s  e tắt điện thoại đi thì không có wifi. Anh chỉ dùm e cách cài đặt điện thoai luôn luôn có wifi trong máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.697355,
+         "id": "1007392",
+         "field_search": "question",
+         "question": "E xài oppo f1s, lúc bật 3g thì hiện h+ r xài một lúc thì lại không có kết nối nên e tắt đi mở lại thì không hiện h+ nữa, phải tắt điện thoại một lúc sau mở lại 3g thì mới hiện h+. Cho e hỏi có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.681417,
+         "id": "1133444",
+         "field_search": "question",
+         "question": "Chào admin. E mới mua 1 con j7 pro vào tháng 5 vừa rồi ,nhưng tai nghe đi cùng vs điện thoại hiện đang bị lỗi rất khó nghe .liệu tai nghe của e có được bảo hành không? Và nếu có hoặc không thì lý do vì sao và phải làm những gì? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.621025,
+         "id": "1022658",
+         "field_search": "question",
+         "question": "Cho e hỏi , e đang xài điện thoại Samsung s3 , những ứng dụng như don rác, tăng tốc mình tai ứng dụng nào tốt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.566826,
+         "id": "1017042",
+         "field_search": "question",
+         "question": "điện thoại em ip 5s bị hư phần cứng nên giờ e mua vừa đưa điện e với bù tiền trả góp theo tháng để e đổi ip 5s cũ được k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.490732,
+         "id": "833706",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 4 thường của em bị nhiểm 7 virus thì phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45618,
+         "id": "1136995",
+         "field_search": "question",
+         "question": " cho e hỏi điện thoại Lenovo p70a thì xài dây sạc nào được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.427973,
+         "id": "1144672",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình sử dụng điện thoại oppo f5, vì yêu cầu công việc mình đôi lúc cần phải tắt nguồn điện thoại đi, mình đã sử dụng tổ hợp phím nguồn + phím tăng âm để tắt điện thoại nhưng sau khi tắt nguồn, điện thoại lại tự khởi đông lại. Mình muốn tắt điện thoại hoàn toàn thì phải làm gì và nếu tắt máy hoàn toàn thì có bị gì không? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.385706,
+         "id": "1133375",
+         "field_search": "question",
+         "question": "Xin chào, cho em hỏi e đang xài điện thoại iphone 6,sao em có lưu tên trong danh bạ nhưng khj người ta trả lời tin nhắn lại thì chỉ hiện số điện thoại không có tên, em phải cài đặt sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.371294,
+         "id": "765127",
+         "field_search": "question",
+         "question": "Em xài iPhone 4S, điện thoại em báo có virus, pin xài rất nhanh hết từ 100% mà còn 20% thôi ạ với lại cứ khoảng 5 phút thì điện thoại tự tắt nguồn, cho em hỏi điện thoại em có bị nhiễm virus thật không ạ và em phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.344305,
+         "id": "1024277",
+         "field_search": "question",
+         "question": "Cho em hỏi . Năm nay e 19t e đã được mua điện thoại trả góp chưa ạ . E đang làm việc tại công ty Nhất Tín",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.337381,
+         "id": "1145425",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại iphone6 plus . Do máy chỉ được một sim nên mình thường xuyên thay sim liên tục. Như vậy có ảnh hưởng gì đến máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.312696,
+         "id": "1155834",
+         "field_search": "question",
+         "question": "Cho e hỏi Iphone X e xài nhanh bị nóng máy, là do dòng máy X như vậy hay tại lỗi máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.263622,
+         "id": "1017151",
+         "field_search": "question",
+         "question": "Khi mất phiếu bảo hàn rồi có được đổi điện thoại trong 1 tháng k ạ? Vì điện thoại e mua hơn 1 tuần mà nó bị tắt nguồn khi đang sử dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.258368,
+         "id": "994522",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đaq xài iphone 5s. Hiện tại facebook máy em đang bị lỗi ( viết status không có phông nền màu). Bây giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.190392,
+         "id": "1020834",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại của e bị trầy 4 cái gốc của điện thoại có cách nào để thay ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.179127,
+         "id": "1009994",
+         "field_search": "question",
+         "question": "Cho e hỏiE có mua điện thoại tại thegioididong.com nhưng em thấy điện thoại của em bị hao pin không hợp lý,  e muốn gởi bảo hành tại hãng oppo có được không ạk, thời gian bảo hành là bao lâu? Trong lúc em gởi bảo hành em có được phép mượn 1 điện thoại khác ở cửa hàng sử dụng không ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.14413,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.120874,
+         "id": "1168649",
+         "field_search": "question",
+         "question": "E ơi a là Khải 0983509138:A mới mua điện thoại xiaomi redmi 7, giờ a muốn tắt nguồn hoặc khởi động lại vẫn không được, a ấn nguồn thì nó lại hiện \"Trợ lý\". Vậy e hướng dẫn cho a cách thoát trợ lý, có gì cho nhân viên kỹ thuật gọi cho a nhé. Anh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.089174,
+         "id": "1146571",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang sài điện thoại oppo A39 nhưng e tạo email ko dx.nó cứ báo lỗi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.047903,
+         "id": "1150235",
+         "field_search": "question",
+         "question": "điện thoại htc one m8 của e Khi e đang sạc và đèn sáng báo pin vào như bình thường nhưng sau 2 giờ sạc e rút phích cắm.Mặc dù đã rút dây ra , đèn vẫn sángko tắt nguồn được Sử dụng các nút nguồn + giảm âm lượng cũng không hoạt động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.017658,
+         "id": "796876",
+         "field_search": "question",
+         "question": "Chào QTV e đang dùng 1 cây iphone 5 ..... lúc chưa sạc điện thoại thì e vẫn tăng giảm âm lượng bình thường nhưng khi cắm sạc xong thì e bấm giảm âm lượng không được (nút không lờn không kẹt) .. Vậy là bị sao ạ.. nếu thay thì thay bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.003462,
+         "id": "929040",
+         "field_search": "question",
+         "question": "E đang dùng iphone 6s, máy rất ok. Không hiểu sao hôm nay e gọi cho bạn thì e vẫn nghe tiếng bạn nhưng em nói bạn ko nghe. Dù là facetime hay messenger hay gọi hình thường. Vậy là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.000679,
+         "id": "987540",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi điện thoại của mình là iphone 5s bị tắt nguồn mình mở nguồn lại nhưng chỉ hiện logo táo được 2s là lại tắt luôn ( mình cắm sạc khá lâu và mở lại nguồn nhưng vẫn chỉ hiện logo táo đc 2s là lại tắt ) trường hợp này là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.99131,
+         "id": "1015620",
+         "field_search": "question",
+         "question": "E quê ở Phú Yên. Hiện tại e chưa đủ 20t và đang làm việc tại Thành phố Hồ Chí Minh. Em muốn mua 1 chiếc điện thoại trả góp thì phải làm thế nào ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.991081,
+         "id": "755019",
+         "field_search": "question",
+         "question": "Cho em hỏi, e sửa dụng iphone 5s khi sửa dụng tự nhiên mở máy không được, tắt nguồn cũng không được, như vậy là máy bị gì, và khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.990822,
+         "id": "929028",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao pin của e vẫn tốt mà tụt pin hoài,không dùng cũng tụt. Hay do e mới cập nhật IOS 10.2 ạ. Điện thoại e là Ip 5s ạ. Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

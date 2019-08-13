@@ -1,0 +1,801 @@
+{
+   "id_query": "1149933",
+   "total": 32363,
+   "total_current": 100,
+   "max_score": 97.46716,
+   "origin_question": "cho mình hỏi mình mới mua mobel rook 3 lúc chiều,nhưng ng nhà ko vừa ý ,mình định đổi sang nokia 150 thì tính như thế nào ạ",
+   "hits": [
+      {
+         "score": 32.217464,
+         "id": "1149744",
+         "field_search": "question",
+         "question": "Cho mình hỏi,mình mới mua samsung a9 chiều hôm nay,giờ mình muốn đổi trả lại sang máy xaomi mi8 có được ko,chi phí như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.541561,
+         "id": "1000743",
+         "field_search": "question",
+         "question": "bạn ơi ! chiều nay mình mới mua s8+ bên bạn ! bjo mình muốn chuyển danh bạ từ nokia 515 sang s8+ thì làm như thế nào hả bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.56818,
+         "id": "1024238",
+         "field_search": "question",
+         "question": "alo bạn cho mình hỏi .mình vừa mua cái nokia 5 được 2 ngày mình mua trả góp . bây giờ mình cảm thấy ko vừa ý mình muốn đổi sang cái sony xperia xa1 urtra . thì sẽ bị mất bao nhiêu phần trăm vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.810272,
+         "id": "1134860",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là. Mình mới mua dt a7 tại tgdd được 3 ngày, giờ tính đổi sang oppo f9 được ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.42469,
+         "id": "1155774",
+         "field_search": "question",
+         "question": "Shoo cho mình hỏi.  Mình mới mua chiếc OPPO A3s về bây giờ muốn đổi sang chiếc VSmart joy 1+ thì giao dịch như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.066154,
+         "id": "993452",
+         "field_search": "question",
+         "question": "Đổi lại  máy??? Em vừa mua máy oppo a37(neo9) nhưng em cãm thấy không ưng ý. Em muốn đổi lại máy mới có được không ạ. Nếu được mình sẻ phải làm thủ tục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.987051,
+         "id": "1149455",
+         "field_search": "question",
+         "question": "cho em hỏi là hôm qua 11/2/2019 e có mua 1 điện thoại nokia 130 , nhưng không ưng ý nên nay em muốn đổi trả và mua lại mẫu nokia 150 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.816072,
+         "id": "1164286",
+         "field_search": "question",
+         "question": "mình có mua 1 máy Nokia 105 cho người có tuổi dùng nhưng người ý vẫn chê  chữ bé không nhìn được mình muốn đổi sang máy Nokia A1 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.754383,
+         "id": "1021409",
+         "field_search": "question",
+         "question": "Đổi nokia 3 mới mua được 2 tháng lấy nokia 5 mới thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.526089,
+         "id": "1000023",
+         "field_search": "question",
+         "question": "Mình mua đt galaxy A520 nhưng bị lỗi do nhà sản xuất. Đã đổi 3 lần nhưng vẫn bị lỗi đấy. Bây giờ mình muốn đổi sang model khác (galaxy j730) có đc ko ạ. Đkien đổi ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.359873,
+         "id": "974405",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình vừa mua một chiếc ip7 màu đen 32g. nhưng về mình lại muốn đổi sang màu khác ko biết có đổi lại đk ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.235561,
+         "id": "1134072",
+         "field_search": "question",
+         "question": "mình mới mua 1 em j2 pro2018  dc 3 ngày mình muốn đổi sang j6 thì phí hao mất nhìu ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.743307,
+         "id": "766922",
+         "field_search": "question",
+         "question": "Mình vừa mua 6s Plus tại TGDĐ máy có seal nhưng mình không thấy tem bảo hành 1 đổi 1 của nhà phân phối máy này là máy như thế nào vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.737022,
+         "id": "989161",
+         "field_search": "question",
+         "question": " cho mình hỏi một chút, mình mới mua máy tính trả góp 3 hôm, bây giờ mình muốn chuyển qua trả hết luôn thì thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60137,
+         "id": "1152683",
+         "field_search": "question",
+         "question": "mình mới mua đt Realme c1 hôm qua cho em gái mình , nhưng nó ko ưng ý , mình muốn đổi qua máy nokia 7 plus cũ với hình thức trả góp có dc ko ạ ? mình ở đồng nai , tp biên hoà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.271305,
+         "id": "999093",
+         "field_search": "question",
+         "question": "mình vừa mua con  nokia 3 tìm mãi không biết chụp màn hình thế nào ạ! nhờ add hướng dẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.216629,
+         "id": "1017895",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về việc đổi trả máy tính bảng. Mình mua máy tính bảng được 3 tháng rồi bây giờ  muốn đổi cái khác được 0. Nếu được cách thức đổi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.145096,
+         "id": "1150593",
+         "field_search": "question",
+         "question": "Mình vừa mới mua Xiaomi Mi 8 được vài ngày, bây giờ mình muốn đổi sang iphone 7 plus thì có được không và hình thức như thế nào, nếu được thì có mất phí đổi không và phí đó là bao nhiêu, mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.04519,
+         "id": "1158130",
+         "field_search": "question",
+         "question": "Mình mới mua xiaomi m8i được tầm 2 tháng giờ muốn đổi sang A7 sam sung thì bên mình thu mua máy như thế nào vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.414307,
+         "id": "1163161",
+         "field_search": "question",
+         "question": "Mình mới mua máy Nokia 3.1 32g khoảng đc 15 ngày , giờ mình ko muốn sài dòng máy này nữa thì bên mình thu mua lại giá như thế nào ạ . Mình mua 2.930.000 bằng tiền mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.102764,
+         "id": "996660",
+         "field_search": "question",
+         "question": "Tôi có mua sản phẩm bên nhà mình, ip7 plus ý ạ. Được gần tuần nay rồi. Khi tôi mang tai nghe ra dùng thì hư một bên. Vậy tôi có được đổi khôg ạ. Và làm như thế nào để đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.094534,
+         "id": "820473",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Điện thoại Asus của mình vừa mua khoảng 3 tháng bây gìơ mình muốn đổi sang điện thoại iphone 5 mình cần trả bao nhiêu nữa vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.089863,
+         "id": "802712",
+         "field_search": "question",
+         "question": "E mua một chiếc ip5s ở TGDD ngày 5/3/2016 nhưng khj vừa sạc pin vừa sử dụng thì điện thoại lúc được lúc ko như là bị loạn cảm ứng z đây có phải là lỗi do nhà sản xuất ko ạ . E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.053001,
+         "id": "1022926",
+         "field_search": "question",
+         "question": "Em mới mua con HP Pavilion 14 bf019TU i3 7100U chiều naySau khi về xài thử e thấy ko ưng ý nên định đổi lại con khác có bị gì ko ạ xin mọi người tư vấn giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.008606,
+         "id": "1165297",
+         "field_search": "question",
+         "question": "Mình mua A8 star máy đổi trả từ ngày 10012019 giờ muốn đổi sang not 8thì tính như nào nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.905724,
+         "id": "1134200",
+         "field_search": "question",
+         "question": "Mình mua đt samsungA7(mua máy cũ ) đc 1 ngày, nhưng sóng của đt lúc yếu lúc mạnh ,giờ mình muốn đổi lại để bù tiền mua con f9 thì giá như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.66356,
+         "id": "1162639",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua góp con samsung a50 mới được 3 ngày màu xanh giờ muốn đổi sang màu đen thì được không ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.663485,
+         "id": "782122",
+         "field_search": "question",
+         "question": "mình vừa mua ip 6s lúc mình chưa lên 9.2 thì máy dung vẫn bt nhưng mình vừa lên 9.2 thì dùng bị lỗi phần trăm pin như kiểu máy dùng lâu ngày bị pin ảo ấy thì phải làm như thế nào, tắt máy bị bật lại lúc sau lại bị :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.659794,
+         "id": "1154360",
+         "field_search": "question",
+         "question": "Mình mới mua đth S10, giờ mình muốn đổi sang S10 được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.654272,
+         "id": "790462",
+         "field_search": "question",
+         "question": " Em muốn cài lại máy tính như lúc mới mua thì làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.508348,
+         "id": "1133939",
+         "field_search": "question",
+         "question": "Mình muốn đổi từ f7 128gb sang f9 thì bù bao nhiêu tiền?  Mình mua f7 từ lúc mới ra.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.464346,
+         "id": "1162471",
+         "field_search": "question",
+         "question": "Mình mới mua con samsung A10 nhưng muốn đổi con redmi 7 thì thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.364124,
+         "id": "1138520",
+         "field_search": "question",
+         "question": "mình mua ip6 bị lỗi pin. mua được 6 tháng. cho hỏi mình có được đổi sang máy mới ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.352169,
+         "id": "1153820",
+         "field_search": "question",
+         "question": "Mình muốn hỏi mình mới mua iPhone xs max 256g mới mua được 3 ngày giờ mình muốn đổi lại iPhone 7plus thì bên shop có hỗ trợ k.và giá chênh lệch thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.328724,
+         "id": "1165291",
+         "field_search": "question",
+         "question": "Mình mua A8 star máy đổi trả từ 1012019 máy vẫn dùng tốt kg chầy xước muốn đổi sang not 8 thì tính như nào nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.313307,
+         "id": "1136022",
+         "field_search": "question",
+         "question": "mình vừa mua xiaomi redmi note 6 pro nhưng mình muốn đổi lại sang xiaomi redmi note 5 thì có được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.206354,
+         "id": "906967",
+         "field_search": "question",
+         "question": "Cho mình hỏi chuyển đổi thông tin ID Apple canada về VN như thế nào vậy ad. Lúc trước mình chuyển sang canada để tải ứng dụng miễn phí giờ cần chuyển về VN nhưng không được. Mong giúp đỡ ạ !!'nn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.101938,
+         "id": "834503",
+         "field_search": "question",
+         "question": "Mình vừa cập nhật ip5s 16g len ios 9.3 xong thì hiện lên bảng cập nhật nhà cung cấp nhưng khi mình ấn vào cập nhật thì không thấy j xảy ra nên mình tắt mạng vậy cho mình hỏi dt mình có bị j không và cập nhật nhà cung cấp là như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.020391,
+         "id": "999532",
+         "field_search": "question",
+         "question": "Mình mua s8+, hôm đầu tiên bắt đầu sử dụng vó cuộc gọi mình nghe thì thấy người ta nói. Nhưng mình nói thì đầu dây bên kia k nghe đc. Rồi trong 9 ngày sử dụng ngày nào cũng bị 2,3 lần. Mình mang đi đổi trả. Đến máy s8+ này cũng vẫn bị lỗi như vậy. Cho mình hỏi bây giờ mình muốn chuyển sang dòng máy khác thì tính như thế nào...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.87318,
+         "id": "1007434",
+         "field_search": "question",
+         "question": "Hôm nay mình có ra mua một cáp chuyển đổi của bên mình nhưng mua nhầm sang loại dùng cho loa ngoài, giờ mình muốn đổi lại sang loại dùng cho máy tính thì có đổi được không? Với chi nhánh mua và chi nhánh đổi có bắt buộc phải cùng chỗ không? Vì mình check thì chỗ mình mua lại không còn mà chỗ khác thì còn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.807821,
+         "id": "778716",
+         "field_search": "question",
+         "question": "Cho mình hỏi loa ở lap dù luôn để 1 mức âm lượng nhất định nhưng nghe nhạc hay xem phim đều bị lúc nhỏ lúc lại to như mức mình chỉnh ban đầu.lỗi này khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.746782,
+         "id": "1016316",
+         "field_search": "question",
+         "question": "xin hỏi chính sách mua cũ đổi mới laptop của bên mình như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.745447,
+         "id": "1158269",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy mobell s60 vào ngày 173 vừa rồi bây h mình muốn đổi sang realme c1 thì cần phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.736721,
+         "id": "1144082",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy tính dell minh mua khoảng 3,5 tháng nhưng đã bảo hành 3 lần nay mình muốn đổi trả máy thì  có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.695637,
+         "id": "1149177",
+         "field_search": "question",
+         "question": "mình vừa mua y72019 muốn đổi sang y9 2019 thì bù bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.576893,
+         "id": "1002414",
+         "field_search": "question",
+         "question": "Mình mới mua máy samsung J7 prime được gần 1 tháng. Sạc và tai nghe đã dùng và hộp và giấy mua hàng mình vất đâu k nhớ nữa. Bh mình muốn đổi sang J7 pro thì như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.561766,
+         "id": "998704",
+         "field_search": "question",
+         "question": "Mình đang dùng s8 đen mình muốn đổi sang màu tím khói đc k đc đổi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.534506,
+         "id": "1009273",
+         "field_search": "question",
+         "question": "cho hỏi điện thoại  mobel s30 mới mua có cần sạc 3 lần 8h không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.519094,
+         "id": "1154999",
+         "field_search": "question",
+         "question": "Xin hỏi nếu mình đặt chuyển sản phẩm cũ về cửa hàng gần mình thì mình thanh toán phí giao hàng trước đúng không? Thanh toán như thế nào? Nếu mình ra xem sản phẩm, không vừa ý có bắt buộc mua không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.499311,
+         "id": "1161791",
+         "field_search": "question",
+         "question": "Mình mua nokia 6.12018 ngày mua 522019 giá 4.990.000 nay muốn đổi sang nokia 6.1 plus thì phải thêm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.472246,
+         "id": "1140343",
+         "field_search": "question",
+         "question": "Add con J7 pro của mình còn thời hạn bảo hành 3 tháng giờ mình muốn đổi ngang con A7 xanh dương thì tính như thế nào ạ? Còn nếu mình bán lại con J7 pro giá ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.383608,
+         "id": "1020604",
+         "field_search": "question",
+         "question": "mình mới mua máy J3 hôm qua, mình có thể đổi sang J5 đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.374249,
+         "id": "1004646",
+         "field_search": "question",
+         "question": "mình mới mua một máy nhưng lại muốn đổi sang máy hãng khác. Mình trả lại máy mới mua và thêm tiền cho máy khác vậy có được ko  ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.345924,
+         "id": "1007251",
+         "field_search": "question",
+         "question": "  Admin cho mình hỏi,máy mình như thế này có hỗ trợ 4g ko,tại vì mình đang định mua sim 4g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.326267,
+         "id": "782391",
+         "field_search": "question",
+         "question": " Mình mới mua ip6s bên tdtt về nhà mình không dùng được 3D touch thì phải làm thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.321102,
+         "id": "1011589",
+         "field_search": "question",
+         "question": "Chào bạn. Bạn cho mình hỏi chút mình mới mua máy Sony L1 từ ngày 8/8/2017.nhưng giờ mình muốn đổi sang máy Samsung J2 thì đổi được không nhỉ bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.312588,
+         "id": "1157945",
+         "field_search": "question",
+         "question": "Em có được nhờ một người mua hộ cho một chiếc laptop. Nhưng em lại không ưng ý lắm và muốn đổi. Em đã xài được khoảng 3 tuần, không biết nếu đổi lại thì giá cả sẽ như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.294758,
+         "id": "1152485",
+         "field_search": "question",
+         "question": "Hiện tại mình đang đùng đt xiaomi mi a2 vừa mua ( góp ) được 1 tháng nhưng do như cầu cần lượng pin lớn hơn mình đổi sang xiaomi redmi note 6 pro, thì mình phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.287104,
+         "id": "1139850",
+         "field_search": "question",
+         "question": "Mình vừa mua máy xong nhưng do chồng mua nên ko đúng ý mình. Giờ mình muốn đổi lại máy khác thì có được hưởng những khuyến mãi mua online giá rẻ hiện tại không. Và phải bù bao nhiêu % giá trị máy. Ví dụ mình mua ss j4+ giá 3490k mình muốn đổi ss j6 giá khuyến mãi online 3290k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.264198,
+         "id": "1000956",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua máy Nokia 5 mà mang về dùng mới vài tiếng thấy ko thích thì giờ mình mún đổi máy ss j7 prô có mất phí ko .nếu mất thì bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.246752,
+         "id": "1017373",
+         "field_search": "question",
+         "question": "mình mua 5s tại shop vào tháng 5. giờ mình muốn theo chính sách đổi trả để mua sang 6 plus thì thủ tục như thế nào vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.24452,
+         "id": "756320",
+         "field_search": "question",
+         "question": " Mình mua iphone 6s trả góp trong 3 tháng thì tính như nào vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.234152,
+         "id": "991775",
+         "field_search": "question",
+         "question": "Mình mới mua đt oppo f3 trả góp được 1 tuần. Bây giờ mình được ng nhà cho cái đt iphone nên muốn bán lại oppo f3 cho tgdd. Mình muốn hỏi đt trả góp thì tgdd có mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.207127,
+         "id": "1153378",
+         "field_search": "question",
+         "question": "xin chàoCho mình hỏi mình đang dung SamSung Galaxy Note 8.Mình muốn đổi sang Note 10 thì có đổi cũ láy mới dc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.170834,
+         "id": "989150",
+         "field_search": "question",
+         "question": "Mình mua sony xa1 xài mới hơn 1tháng mà bị lỗi cảm ứng ko bấm đc số 0 và chữ p.loa  có lúc ko nghe đc phải khởi động lại mới nghe đc.phím tăng giảm am lượng củng bị lỗi.đem ra thêgioididdong thì bảo vừa hết hạn đổi máy mới.mà đem về xài cũng ko đc.đem đi bảo hành thì xong chắc cũng đc vài bữa.vậy tgdd có thể đổi máy mới cho mình ko vi mới xài hơn 1tháng vừa hết hạn đổi máy mới.vi đây lài lỗi nhà sản xuất.bỏ tiền ra mua máy mà vậy mình ko hài lòng.mình ở tỉnh gia lai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.121119,
+         "id": "999289",
+         "field_search": "question",
+         "question": "cho mình hỏi lỗi kết nối SSL này là thế nào ạ mình mình vào mạng bằng wifi thì vẫn bình thường nhưng tắt wifi sang 4G dùng thì mạng cứ báo như vậy vậy cách khắc phục là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.024458,
+         "id": "1014310",
+         "field_search": "question",
+         "question": "Cho e hỏi bên ad ktra giùm e số dt 0937365105 mua dt nokia hiệu gì bên mình thế ạ. Tại e định mua bao da nhưng quên mã nokia . Thanks. Ktra giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.004108,
+         "id": "1163783",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi là mình vừa mới mua một con redmi note 6 pro hàng cũ ở chi nhánh 8d nguyễn thị minh khai. Bây giờ mình muốn đổi qua redmi note 7 không biết có được không ạ và hình thức như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.99724,
+         "id": "1000444",
+         "field_search": "question",
+         "question": "mình đang có ý định mua Asus Zenfone Live thì cho mình hỏi khi down các ứng dụng chụp ảnh như B612 hay Snow thì chất lượng camera sẽ giống như camera thường hay sẽ khác đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.963749,
+         "id": "989781",
+         "field_search": "question",
+         "question": "Cho mình hỏi tài khoản Apple id của mình ko tải được ứng dụng Apple của nhà phát triển như ITunes U thì phải làm thế nào. Mong admin xem hình hướng dẫn giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.960869,
+         "id": "1159976",
+         "field_search": "question",
+         "question": "cho hỏi hôm nay nhà mình mua nhầm 1 cái samsung tab A6 giá 3tr290 giờ mình mún đổi máy đó sang ipad giá 8tr đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.902037,
+         "id": "1146792",
+         "field_search": "question",
+         "question": "Em mới mua trả góp chiếc y7 pro 2019.Máy không bị lỗi gì cả nhưng em thấy chưa ưng ý nên muốn đổi sang chiếc nokia 5.1 plus.Ad cho em hỏi là em phải bù tiền bao nhiêu để đổi qua chiếc nokia được.em mua chiếc y7 từ ngày 15.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.857128,
+         "id": "1000339",
+         "field_search": "question",
+         "question": "Mình vừa mới mua điện thoại samsung j2 prime cách đây hơn 2 thángVà tự nhiên dạo này máy mình bị lỗi như sau. Gọi videocall thì ng bên kia thấy hình mình rất tối mặc dù có đủ điều kiện sáng. Nhưng khj mình sử dụng máy ảnh thì vẫn ok. V cho hỏi. Lỗi như v là ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.793959,
+         "id": "769777",
+         "field_search": "question",
+         "question": "  Mình định mua cái iPhone 5 bị khóa iCloud nhưng không biết mở khóa như thế nào giúp mình đi các bác. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.78233,
+         "id": "771281",
+         "field_search": "question",
+         "question": "Làm sao để xác định nó có bị lỗi win không ạ? Ví dụ như khi gõ chữ thì nó không ra đúng ý mình, chuột lap bị đơ (cắm chuột ngoài thì lúc đầu ổn nhưng lúc sau lại bị đơ hoặc chạy loạn) và vào web thì nó không chuyển đến trang mình cần hoặc có mới chuyển được thì lại lag về tag mới?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.757051,
+         "id": "1000320",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy nokia 3 của em mới mua phần vỏ sau bị ọp ẹp thì em làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.719313,
+         "id": "993167",
+         "field_search": "question",
+         "question": "Mình mới mua tai nghe ở đây cách đây 3 ngày, mình đeo ko hợp, bây h tới đổi thì có đc hoàn tiền ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.70693,
+         "id": "1006127",
+         "field_search": "question",
+         "question": "Mình ko để ý nhỉ, trc giờ có bị thế đâu. Giờ sang máy khác nó thế. Bực quáCả nhà cho e hỏi e dùng iPhone mà sao e lưu nhắc nhở lưu ngày giờ xong thoát ra mà nó chẳng báo. Cứ mặc định ở 1 ngày và 1 giờ đấy là sao? Hay phải chỉnh tuỳ chọn nào mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.696918,
+         "id": "831474",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là tn zalo đã gửi và đã nhận thì khác nhau như thế nào. Tn ở trạng thái đã gửi thì ng nhận có biết là m gửi tn cho họ ko, hay khi nào \"đã nhận\" mới biết được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.683681,
+         "id": "994441",
+         "field_search": "question",
+         "question": "mình mới mua j7. giờ mình muốn đổi sang j7 pro thì phương thức đổi là ntn z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.664366,
+         "id": "1154806",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 con iphone xr 64gb, hàng cũ, cho mình hỏi nếu hành bị lỗi thì đổi trả như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.614025,
+         "id": "1154093",
+         "field_search": "question",
+         "question": "Thế giới di động  mình mở cũng lúc wifi và dữ liệu, có nghĩa là mình sài wifi thôi nhưng khi tắc wifi thì nó lại không chuyển sang dữ liệu như nokia 6 (2017) và mình phải tắc mở lại dữ liệu nó mới hiện 4g và thấy cũng hơi bất tiện. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.609356,
+         "id": "1011403",
+         "field_search": "question",
+         "question": "mình xài điện thoại mobel s30, mình đã tắt wifi lẫn định vị, 3g nhưng khi vào càiđặt->pin xem chi tiết thì thấy wifi vẫn chạy làm dẫn đến hao pin. vậy cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.54223,
+         "id": "1018388",
+         "field_search": "question",
+         "question": "cho hỏi trong chính sách đổi trả chỉ ghi là lỗi của nhà sx thì đc đổi và trả giá còn 80%, thế lỗi từ nhà phân phối thì tính thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.524866,
+         "id": "780626",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s global là gì? Ý nhĩa có nó là như thế nào ạ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5017,
+         "id": "1133391",
+         "field_search": "question",
+         "question": "Mình vừa mua con Note 9, mình cắm sạc 3 4 tiếng đồng hồ mà sạc ko đầy được đt, phải rút ra cắm lại mới sạc tiếp được, bỏ sạc qua đêm sáng ra chỉ được 27% pin, rất bực mình. Cho mình hỏi lỗi này mình được đổi máy mới hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.494816,
+         "id": "994267",
+         "field_search": "question",
+         "question": "Mình mới mua con Xaomi 4x ngày 15/6/2017 tuy nhiên mình đang muốn trả lại để đổi sang mua dùng con Sam sung j7 prime, vì sợ nhà có trẻ em dùng nhỡ hỏng khó thay thế, bảo hành sửa chữa linh kiện. Vậy cho mình hỏi giờ mình trả lại con xaomi và lấy con j7 thì thủ tục và giá bị trượt thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.46403,
+         "id": "877823",
+         "field_search": "question",
+         "question": "mình xài icloud chung vs 1 ng. vừa rồi tình cờ biết dc người đó vào xem tn zalo của mình nhưng mình ko hề hay biết. cho mình hỏi có phải do xài icloud chung k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.438076,
+         "id": "1016263",
+         "field_search": "question",
+         "question": " cho mình hỏi điện thoại Nokia 5 mới mua có cần sạc 3 lần đầu 8 tiếng k ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.390709,
+         "id": "1160463",
+         "field_search": "question",
+         "question": "hi addmin. hiện tại dt A50 của mình mua ngày 23/3 đến nay chưa được 1 tháng. nhưng mình thấy có hiện tượng. cắm sạc có lúc nhận lúc không nhận. nếu đem lại cửa hàng nơi mình mua sau kiểm tra nếu phát hiện lỗi thì có thể đổi lại được không. vì điiện thoại mới mình không đòng ý với việc để lại bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.351936,
+         "id": "757095",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để kết nối iPhone 5S với máy tính. mình đã cài iTunes nhưng khi kết  nối thì trên PC không hiện link để copy ảnh từ iPhone sang máy tính được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.33986,
+         "id": "1010165",
+         "field_search": "question",
+         "question": "Xin chào. Hiện mình đang sử dụng chiếc Galaxy S8+. Lúc mua có bảo hiểm rơi vỡ. Máy mình giờ đã rơi vỡ kính lưng và trầy xuốc khung viền. Nên mình hỏi muốn thay mới sẵn đỗi màu cho chiếc đt thì bảo hiểm rơi vỡ được tính như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.305496,
+         "id": "1133291",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi sau khi chặn 1 ng trên fb. Mình bỏ chặn nhưng nhắn tin message cho ng đó ko dc vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.27259,
+         "id": "801544",
+         "field_search": "question",
+         "question": "cho mình hỏi cách đổi toàn bộ chữ từ tiếng anh sang tiếng việt của laptop dell 3542 thì làm như thế nào , cảm ơn các bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.21374,
+         "id": "770787",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 6 hàng đã qua sử dụng lúc mua ko để ý lúc về mới biết là vỏ hộp của mình ko có imei gì hết là sao vậy. Hàng của mình có phải công ty hay xách tay vậy? Đang phân vân quá mong sớm đc các qtv hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.210663,
+         "id": "1145703",
+         "field_search": "question",
+         "question": "mình mới dùng IP XS Max mà muốn đổi thành nhạc chuông mặc định của IP 7 thì làm thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.17366,
+         "id": "1021502",
+         "field_search": "question",
+         "question": "cho mình hỏi root máy thì có còn đựoc bảo hành ko vậy?mình xài nokia 3 mua hôm 119 và còn bao hành 10tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.147778,
+         "id": "948440",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Mình mới mua laptop ở tgdd, nhưng k biết vì sao máy tính sài được 3 ngày thì máy giật lag. Scan thì k thấy virus... A, chị nào giúp e với. Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.134193,
+         "id": "1134222",
+         "field_search": "question",
+         "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

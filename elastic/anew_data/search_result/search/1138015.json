@@ -1,0 +1,801 @@
+{
+   "id_query": "1138015",
+   "total": 26930,
+   "total_current": 100,
+   "max_score": 51.433487,
+   "origin_question": "Tại sao không nhận được tin nhắn zalo điện thoại oppo neo 7s vậy",
+   "hits": [
+      {
+         "score": 24.863987,
+         "id": "801175",
+         "field_search": "question",
+         "question": " Tại sao mình đăng xuất zalo roi nhưng người khác nhắn tin tới vẫn nhận được tin nhắn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.68689,
+         "id": "819648",
+         "field_search": "question",
+         "question": " Em vừa lên Win 10 mà hiện tại Zalo của em không nhận tin hay trả lời tin nhắn được. Vậy em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.663197,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.420979,
+         "id": "833691",
+         "field_search": "question",
+         "question": "tại sao trên thông báo zalo trên điện thoại của tôi là : có tin nhắn mới, nhung vào zalo lại không co tin nhắn mới nào cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.222538,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.026115,
+         "id": "803187",
+         "field_search": "question",
+         "question": " Sao khi tắt ứng dụng zalo thì không nhận được thông báo khi có tin nhắn mới vậy... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.933565,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.708588,
+         "id": "1006089",
+         "field_search": "question",
+         "question": "Ad cho e hỏi sao zalo e k nhận được tin nhắn .Mà khi mở ứng dụng lên moi nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.48901,
+         "id": "806977",
+         "field_search": "question",
+         "question": " Xóa tin nhắn zalo trên máy tính thì trên điện thoại các tin nhắn zalo đó còn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.059465,
+         "id": "1151754",
+         "field_search": "question",
+         "question": "Mình không nhận được tin nhắn và cuộc gọi zalo khi tắt màn hình, chỉ nhận được khi mở sẵng ứng dụng vậy phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.783278,
+         "id": "836720",
+         "field_search": "question",
+         "question": " xóa tin nhắn zalo trên PC thì tin nhắn trong điện thoại có mất không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.74894,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.661345,
+         "id": "799757",
+         "field_search": "question",
+         "question": " Có phải khi bị chặn tin nhắn zalo thì có ghi dòng chữ  xin lỗi !hiện tại tôi không muốn nhận tin nhắn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.427336,
+         "id": "1011069",
+         "field_search": "question",
+         "question": "tôi không thể gởi tin nhắn trên zalo PC . tất cả đều được đồng bộ với điện thoại. (điện thoại sử dụng bình thường) . khi gõ tin nhắn trên zalo không có tác dụng gì không xóa được không gởi được.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41654,
+         "id": "1140926",
+         "field_search": "question",
+         "question": "Khi gửi nhầm tin nhắn qua zalo cho người khác mà họ chưa nhận được, tôi đăng xuất zalo thì người đó còn nhận được tin nhắn đó không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.166344,
+         "id": "959972",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể xem được các tin nhắn trong nhóm zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.916613,
+         "id": "902061",
+         "field_search": "question",
+         "question": " Xóa tin nhắn zalo được kết nối điện thoại với máy tính thì làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.823013,
+         "id": "1154016",
+         "field_search": "question",
+         "question": "Tôi đang dùng điện thoại galaxy S8+ mua ở TGDĐ mới dùng được mấy thang hiện nay máy đang gặp lỗi nhận tin nhắn. cứ mỗi ngày lại phải khởi động lại máy mới nhận được tin nhắn là bị làm sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.795559,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.774355,
+         "id": "762590",
+         "field_search": "question",
+         "question": " Cho tôi hỏi điện thoại Oppo neo 7 bỏ thẻ nhớ 8GB được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.760506,
+         "id": "1135138",
+         "field_search": "question",
+         "question": "em đã cài zalo trên điện thoại và cả pc , nhưng khi xóa tin nhắn bằng điện thoại thì tin nhắn trên pc cũng biến mất , giờ phải làm sao để khi xóa tin nhắn trên điện thoại mà pc lại không bị mất ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.68259,
+         "id": "804824",
+         "field_search": "question",
+         "question": " Em muốn hỏi là khi mình chặn zalo người khác nếu mình nhắn tin cho họ họ có nhận được tin nhắn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.552639,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.519394,
+         "id": "1013574",
+         "field_search": "question",
+         "question": "Hướng dẫn sửa lỗi không thông báo tin nhấn Zalo oppo neo 7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.487438,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.479763,
+         "id": "830993",
+         "field_search": "question",
+         "question": " Tại sao Oppo neo 7 của e gửi tin nhắn k đc..cứ báo bị lỗi là s ad.giúp e cách khắc phục  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.35096,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.331774,
+         "id": "1159426",
+         "field_search": "question",
+         "question": "Ad cho e hỏi sao tin nhắn điện thoại của e tại sao ko hiện Thoòng báo v ạ  Sài oppo a57",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.328129,
+         "id": "1133791",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lumia 540 zalo không nhận được cuộc gọi đến khi khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.249294,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.158228,
+         "id": "915322",
+         "field_search": "question",
+         "question": " Sao không thể lưu ảnh trong tin nhắn zalo facebook được vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06698,
+         "id": "1009387",
+         "field_search": "question",
+         "question": "Điện thoại oppo f1s tin nhắn đến mà không nghe rung chuông",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.828869,
+         "id": "815939",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy bữa nay điện thoại iphone 4s của em gửi tin nhắn cho mấy bạn được rồi nhưng bạn đó vẫn không nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.767,
+         "id": "779791",
+         "field_search": "question",
+         "question": " iPhone 4 sao gửi tin nhắn mà người nhận không nhận được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.765305,
+         "id": "834883",
+         "field_search": "question",
+         "question": " tại sao em đã bật hết thông báo trong zalo nhưng sao lại k nhận dc thông báo khi mỗi lần tin nhắn tới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.72346,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.612484,
+         "id": "794996",
+         "field_search": "question",
+         "question": " Tại sao tôi sạc pin điện thoại oppo neo 7 mà khi sạc tôi cầm điện thoại mà pin không vô lại còn bị giật điện ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.552412,
+         "id": "815803",
+         "field_search": "question",
+         "question": "Em xài điện thoại mobiistar touch s07, mỗi lần gửi tin nhắn là không được, nó cứ hiện lên: ''Hiện không thể gửi tin nhắn, dịch vụ không khả dụng. tin nhắn sẽ được gửi khi dịch vụ khả dụng.'' là sao ạ. Điện thoại màu trắng và nhìn như điện thoại samsung bên dưới vậy ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.551062,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.478096,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.476725,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.377733,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.374327,
+         "id": "946314",
+         "field_search": "question",
+         "question": " sao oppo a39 tin nhắn và tin nhắn zalo kêu nhu nhau lại ko đổi dc là sao ko đổi dc vô lý quá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.272512,
+         "id": "778700",
+         "field_search": "question",
+         "question": " Tại sao iPhone 6s gửi tin nhắn lại có 2 màu xanh dương và xanh lá cây. Xanh dương người nhận nhận không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.252169,
+         "id": "835894",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi xíu. Tại sao khi mình nhắn tin bằng điện thoại cho bạn mình, thì nó lại hiện trên cả tin nhắn và zalo luôn. Ad giúp monhf với. Thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.146198,
+         "id": "1133793",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lumia 540 zalo không nhận đươc cuộc gọi đến khi màn hình khóa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.138939,
+         "id": "968567",
+         "field_search": "question",
+         "question": "em quên mật khẩu zalo và yêu cầu mã xác nhận để tạo mật khẩu mới nhưng không nhận được tin nhắn. phải làm sao ạ, help me!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.109148,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.877588,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.797283,
+         "id": "1019627",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi một chút về Zalo ạ . Zalo điện thoại em từ hôm cập nhật thì mất hết tất cả tn cũ , em vào phần sao lưu phục hồi lại được tin nhắn cũ nhưng lại bị mất hết tin nhắn hiện tại luôn :((((( Cho em hỏi có cách nào để khôi phục lại các tin nhắn đó không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.663904,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.477818,
+         "id": "997246",
+         "field_search": "question",
+         "question": "Tại sao nhắn tin mặc định của máy galaxy J2 prime không gửi tin nhắn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.412144,
+         "id": "753936",
+         "field_search": "question",
+         "question": "Có ai cho mình hỏi với. Tại sao mình đang sử dụng Viber bình thường thì đột nhiên lại chỉ nhận được tin nhắn còn nhắn tin báo đã chuyển nhưng bên kia không nhận được? XIn vui lòng giúp với hiện tại mình rất cần sử dụng Viber xin liên hệ số điện thoại 0916882xxx, mình sẽ gọi lại cho các bạn cứ yên tâm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.373486,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.298018,
+         "id": "763145",
+         "field_search": "question",
+         "question": " Cho em hỏi Oppo Neo 7 muốn để chữ kí tin nhắn phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.269537,
+         "id": "906308",
+         "field_search": "question",
+         "question": " Cho em hỏi là nếu muốn xóa tin nhắn trên zalo mà người nhận đã nhận được thì phải làm cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.225775,
+         "id": "1020506",
+         "field_search": "question",
+         "question": "Oppo neo 7 lấy dây sạc dự phòng. sạc cho điện thoại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20916,
+         "id": "571622",
+         "field_search": "question",
+         "question": " Tại sao Facebook không trả lời tin nhắn được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.140987,
+         "id": "748639",
+         "field_search": "question",
+         "question": " Oppo Neo 7 sao không gọi được video call vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.124607,
+         "id": "1016505",
+         "field_search": "question",
+         "question": " Sao mà điện thoại của em là PHILIPS sao ko nhắn tin đc a chỉ nhận tin trong messenger thời có dịch vụ thì cũng ko có  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.116978,
+         "id": "811548",
+         "field_search": "question",
+         "question": "Ad ơi mình muốn đăng xuất nick zalo tren mot chiếc điện thoại khác bằng máy tính có được không? Bởi vì mình nt băng may tinh mà tin nhắn cua ngưòi gửi đến máy kia vẫn nhận được liệu có dăng xuất zalo ở dt đấy bằng máy tính có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.085634,
+         "id": "892551",
+         "field_search": "question",
+         "question": "Hi chi mình hỏi thông tin viberSo dt: 0939455252 mình tại sao nhận duoc tin nhắn từ bạn bè, nhưng khi mình gửi lại tin nhắn được mà bên kia không nhìn thấy tin nhăn mình gửi, bạn có thể giúp mình không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.081245,
+         "id": "747885",
+         "field_search": "question",
+         "question": " Bạn ơi điện thoại oppo neo 7 có 3g không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.049751,
+         "id": "1006131",
+         "field_search": "question",
+         "question": "điện thoại  oppo neo 5 đổi lấy oppo neo 7 thì bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.028429,
+         "id": "1141880",
+         "field_search": "question",
+         "question": "Ad cho hỏi, mình bị mất tin nhắn zalo trên điện thoại nhưng vẫn còn tin nhắn trên máy tính. Có cách nào để copy từ máy tính sang điện thoại để tiện xem lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.00764,
+         "id": "1140807",
+         "field_search": "question",
+         "question": "sao zalo của mình không mở được tin nhắn vậy?nó chỉ hiện một khung màu trắng bên cạnh như vậy. ấn chuột vào tin nhắn mà không mở được thì làm thế nào ?mong ad chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.00352,
+         "id": "1137205",
+         "field_search": "question",
+         "question": "E k nhận đc thông báo từ zalo. Chỉ khi e mở zalo lên mới thấy đc tất cả tin nhắn. E đang sử dụng oppo f3. Nhờ ac hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.003084,
+         "id": "831457",
+         "field_search": "question",
+         "question": " Sao em xem tin nhắn trên zalo không được. Nó cứ báo là không có sóng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.911573,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.89554,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.641073,
+         "id": "789346",
+         "field_search": "question",
+         "question": " Cho e hỏi samsung a5 2016 gửi hình trong tin nhắn zalo đã nhận được rồi nhưng sau đó lại báo lỗi là bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.637817,
+         "id": "998166",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại samsung j7 của em báo có tin nhắn chưa đọc nhưng khi mở lại ko có tin nhắn nào chưa đọc cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.625021,
+         "id": "814080",
+         "field_search": "question",
+         "question": "A oi giúp e với , bạn bè gởi tin nhắn trên zalo cho e thì nó báo \" xin lỗi , tạm thời chúng tôi ..... \" , nhưng e nhắn tin lại thì bạn bè e nhận được , bạn e hỏi e có chặn tin nhắn không thì e dzo xem không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.59667,
+         "id": "947059",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Tại sao mình đăng nhập zalo trên thiết bị mới thì toàn bộ tin nhắn trên thiết bị cũ lại không xem được. Cho hỏi tại sao. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.553595,
+         "id": "873174",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào nhắn tin sms messenger miễn phí mà em k bít cài đặt như thế nào để nhắn tin miễn phí ở oppo neo 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.510447,
+         "id": "1016705",
+         "field_search": "question",
+         "question": "Cho em hỏi trên j7 pro có tiến trình chạy nền không ạ? Tại sao phải vào ứng dụng thì mới nhận được tin nhắn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50984,
+         "id": "1006064",
+         "field_search": "question",
+         "question": "Điện thoại Mobistar B242i nhắn tin không gõ dấu được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.501263,
+         "id": "803260",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình dùng 5s. Khi mình chặn 1 sđt và số điện thoại đó vẫn nhắn tin cho mình. Thì.sau khi mình bỏ chặn số điện thoại đó. Mình có nhận đuọc tin nhắn của họ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.389154,
+         "id": "993205",
+         "field_search": "question",
+         "question": "Cho em hỏi khi mua máy mới về thì nhận được tin nhắn kích hoạt imei bảo hành thành công, vậy tin nhắn đó có tính phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.36192,
+         "id": "778713",
+         "field_search": "question",
+         "question": " Quản trị viên Tin nhắn iPhone 6s sao có hai màu xanh dương và xanh lá cây. Xanh dương người nhận không được tin nhắn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.314756,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.314417,
+         "id": "831401",
+         "field_search": "question",
+         "question": "Điện thoại của mình hãng coolpad, mà tin nhắn bị lỗi chỉ với một người, còn nhắn cho người khác thì không sao, cho mình hỏi điện thoại mình bị làm sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.303143,
+         "id": "828592",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại e không thông báo tin nhắn zalo, thì làm sao ạ. E đã làm theo mấy cách trên mạng chỉ mà cũng không được. Xin chỉ giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.299002,
+         "id": "828716",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không gửi đc tin nhắn, không vào được các trang mạng như FB,...khi gửi ttin nhắn hoặc truy cập mạng em đều nhận được thông báo vị trí của bạn không xác định.em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.292862,
+         "id": "1002002",
+         "field_search": "question",
+         "question": "Cho hỏi...nếu bị chặn tin nhắn trên oppo thì có gửi đc tn k? Tại mình gọi thì bị chặn, nhắn tin thì báo gửi đã nhận nhưng k hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.266651,
+         "id": "1149960",
+         "field_search": "question",
+         "question": "Zalo của mình bật wifi thì không nghe được tin nhắn thoại..bật 3G thì mới nghe đc nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.241966,
+         "id": "832720",
+         "field_search": "question",
+         "question": " Cho mình hỏi? Tại sao hình gửi qua tin nhắn zalo lại tự lưu vào máy vậy? Và cách khắc phục như thế nào? Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.22228,
+         "id": "991174",
+         "field_search": "question",
+         "question": " Em cần mua sạc điện thoại Oppo neo 7 giá bao nhiêu vậy a chị ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.203373,
+         "id": "676651",
+         "field_search": "question",
+         "question": " Tại sao tôi không gửi được tin nhắn đến đầu số 191 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.1628,
+         "id": "886031",
+         "field_search": "question",
+         "question": "Cho mình hỏi dùng 1 điện thoại mà truy cập vào hai tài khoản Zalo sau khi nhắn tin bằng tk Zalo 1 đọc xong xóa đi luôn thì có khôi phục lại những tin nhắn đã xóa bằng tài khoản zalo thứ 2 ko?(trên cùng 1 điện thoại)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.145206,
+         "id": "1140531",
+         "field_search": "question",
+         "question": "Tại sao thời gian trên messenger của e bị sai ạ ví dụ như hiện tại là 14h35 mà nhận đc tin nhắn lại hiển thị tg nhận tin nhắn là 16h30 là sao ạ và khắc phục thế nào ? em dùng laptop ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.138601,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.10898,
+         "id": "1023959",
+         "field_search": "question",
+         "question": "cho mình hỏi  tại sao khi thấy 1 tin nhắn lạ mới gửi tới Zalo được khoảng 30 phút nhưng khi mình mở tn ra xem được 1-2s thì zalo thông báo là tài khoản này đang khóa là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.102993,
+         "id": "847442",
+         "field_search": "question",
+         "question": " Không biết bị gì mà tin nhắn zalo của tôi xem không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.094517,
+         "id": "1159267",
+         "field_search": "question",
+         "question": "không xem được ảnh trong tin nhắn zalo sau khi sao lưu chuyển sang máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.085266,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.073414,
+         "id": "762287",
+         "field_search": "question",
+         "question": " Tại sao khi mình cài viber trên laptop thì nó lại không đồng bộ tin nhắn và cuộc gọi trên điện thoại của mình nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.067965,
+         "id": "743354",
+         "field_search": "question",
+         "question": " Giúp mình tắt rung khi nhận tin nhắn messenger facebook, điện thoại iphone 6.Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.98881,
+         "id": "768525",
+         "field_search": "question",
+         "question": "Ad giúp mình tắt âm thanh và chế độ rung khi có tin nhắn zalo trên iPhone 6S với (cuộc gọi và tin nhắn điện thoại vẩn bình thường nha)?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

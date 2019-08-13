@@ -1,0 +1,801 @@
+{
+   "id_query": "1012160",
+   "total": 30363,
+   "total_current": 100,
+   "max_score": 78.88736,
+   "origin_question": "chào.cho mình hỏi mình muốn mua máy hawel GR5 PRO 2017 TRẢ TRƯỚC 0VÀ GÓP 12 THÁNG ĐƯỢC KHÔNG?",
+   "hits": [
+      {
+         "score": 29.041945,
+         "id": "1161427",
+         "field_search": "question",
+         "question": "Oppo f11 pro mua trả gópTrả trước 10 và góp 12 tháng đc không shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.761503,
+         "id": "993229",
+         "field_search": "question",
+         "question": "Mình muốn mua GR5 2017 trả góp thì cần những gì v ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.15489,
+         "id": "1006429",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua trả góp samsungj7 pro , mình là sinh viên thì có gói trả góp lãi suất 0% không ạ và các gói trả góp 6 tháng và 12 tháng là như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.793245,
+         "id": "1149454",
+         "field_search": "question",
+         "question": "Mua Iphone 8 Plus trả góp 12 tháng, trả trước 10 có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.443165,
+         "id": "1155758",
+         "field_search": "question",
+         "question": "mình muốn mua xiaomi note6 pro  trả góp 12 tháng, hiện tại mình không ở quê nên chỉ có hộ khẩu công chứng không biết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96014,
+         "id": "1134260",
+         "field_search": "question",
+         "question": "mình muốn mua con xiaomi mi 8 lite không càn trả trước trả góp 12 tháng thì lãi xuất bao nhiêu và mỗi tháng cần trả bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.798513,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.185266,
+         "id": "792988",
+         "field_search": "question",
+         "question": "Em muốn mua laptop asus a540 gia 9tr4 trả góp trước 1tr5 góp trong vòng 12 tháng được không em có cmnd và giấy phép lái xe?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.396301,
+         "id": "1137706",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn mua điện thoại Huawei Y9 trả góp, trả trước 3tr, trả trong 4 tháng thì mỗi tháng trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.087172,
+         "id": "999416",
+         "field_search": "question",
+         "question": "Cho em hỏi là oppo f1s 2017 mua trả góp lãi xuất 0 thì 1 thán trả góp bao nhiêu tiền ạ trong vòng 12 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.019802,
+         "id": "1159486",
+         "field_search": "question",
+         "question": "Xin chào Shop. Hiện mình muốn mua samsung note 8 mới. Mình thấy có chương trình trả góp 0% qua thẻ ngân hàng, thời hạn trong 12 tháng. Mình muốn biết số tiền cần trả trước là bao nhiêu, hàng tháng góp bao nhiêu và số tiền góp hàng tháng thông qua thẻ hay tiền mặt. Mong được phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.877285,
+         "id": "1012456",
+         "field_search": "question",
+         "question": "Chào shop, mình muốn mua máy cũ iPhone 6S 32GB Rose Gold (mã sp: #7456752) = 9.610.000₫thì có trả góp được không?- Nếu trả góp thì thấp nhất mấy tháng. mình muốn trả số tháng thấp nhất- Trả góp trước bao nhiêu tiền, và mỗi tháng trả bao nhiêu tiền ạ.Shop tính giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.692112,
+         "id": "752453",
+         "field_search": "question",
+         "question": "Mình muốn mua iPhone 6s64gb trả góp. Vậy cho mình hỏi có tính lãi suất không, nếu mà tính thì bao nhiêu ( trong vòng 12 tháng ) ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.458519,
+         "id": "774285",
+         "field_search": "question",
+         "question": " Mình muốn mua iPhone 5S trả góp mình trả trước 2 triệu được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.384857,
+         "id": "834377",
+         "field_search": "question",
+         "question": "https://www.thegioididong.com/laptop/acer-e5-573g-i5-5200u-4gb-500gb-vga2gb-win10Mình muốn mua cái mày. nhưng hộ khẩu giấy chứng mình ở Kiên Giang.Nhưng mình muốn mua tại Bình Dương được không. Theo gói của ACS trả trước 10% góp trong 12 tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.305939,
+         "id": "784777",
+         "field_search": "question",
+         "question": " cho mình hỏi... ngày mai mình muốn mua iPhone 5s trả góp trả trước 0  có được không ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.244276,
+         "id": "794911",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad khoảng 4tr rưỡi. Mình trả trước 1 tr thì hàng tháng mình phải trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.241005,
+         "id": "1018134",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, Neeua mua trả góp. Ví dụ như điện thoại có giá 5990k. Mình phải trả trước 20% giá sản phẩm. Và mình phải trả góp mỗi tháng 593k trong vòng 12 tháng. Khi trả xong 12 tháng thì dư ra 2.324k. Vậy số tiền dư sau khi mình trả xong là bên TGDĐ trả lại cho khách hàng hay là giữ lại ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.075115,
+         "id": "1140901",
+         "field_search": "question",
+         "question": "Mình muốn trả góp Iphone Xs 64g thì chỉ trả tối đa trong vòng 12 tháng thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.003506,
+         "id": "1135192",
+         "field_search": "question",
+         "question": "Mình muốn mua máy xiaomi redmi not 5 trả góp kh biết có cái cách trả góp nào. Ví dụ như trả 4 tháng thì đóng trước bao nhiêu mỗi tháng trả bao nhiêu lãi bao nhiêu. Rồi cái gói trả khác thì sao. Mua máy mà không cần trả trước thì sao. Mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.962622,
+         "id": "1005114",
+         "field_search": "question",
+         "question": "cho hỏi mình có mua trả góp nhưng lâu mình không trả vì không có điều kiện , mình mới trả hết bên ngân hàng khoảng 1 tháng trước . bây giờ mình có thể mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.815784,
+         "id": "1134803",
+         "field_search": "question",
+         "question": "tôi muốn mua 1 máy samsunggalaxy A7 trả góp qua thẻ tín dụng sacobank thời hạn 12 tháng cho tôi hỏi mỗi tháng sẽ góp bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.74279,
+         "id": "1138240",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp j6 được 1 tháng. Bh mình muốn đổi j6 này xang máy khác được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.624949,
+         "id": "1167646",
+         "field_search": "question",
+         "question": "Cho mình hỏi .mình muốn mua iPhone trả góp . iPhone xmax . Mình đưa trước 30 được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.574862,
+         "id": "771356",
+         "field_search": "question",
+         "question": " Mình mua trả góp điện thoại iphone 6s trả được 4 tháng giờ mình muốn mua tiếp có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.514673,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35989,
+         "id": "1014777",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi. Mình mới mua huawei gr5 2017 được 1 tháng. Mình muốn bán lại cho của hàng thì được hoàn tiền bao nhiêu ℅ vậy. Máy mình để lại phụ kiện dùng cho con mate 8 nên chỉ có máy trần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.275354,
+         "id": "1166022",
+         "field_search": "question",
+         "question": "ad cho e hỏi, muốn mua trả góp con A50, mình có chọn trả trước bao nhiêu  được không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.19597,
+         "id": "1160462",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mà mua iphone trả góp , trả trước bao nhiêu ạ , và trả góp bao nhiêu tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.184269,
+         "id": "993135",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Em ở tỉnh,  muốn mua trả góp trong vòng 4 tháng ở TP. Hcm có dc ko,  thứ tục cần gì.  Lúc trước e có trả góp 6 tháng ở bên mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.171019,
+         "id": "1159260",
+         "field_search": "question",
+         "question": "cho e hỏi oppo f11 pro trả lãi xuất 0 mình trả trước bao nhiu góp bao nhiu tháng 1 tháng bao nhiu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.169992,
+         "id": "1014294",
+         "field_search": "question",
+         "question": "Mình mua trả trước 50 còn lại mình trả trong 4 tháng dc ko vậy. Samsung a7 2017. 6.150k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.10709,
+         "id": "1142727",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu em mua trả góp đt và trả trước 40%và góp 12 tháng, và số tiền còn lại trả góp hàng tháng em có thể trả theo từng tháng. Nhưng nếu còn góp khoảng 4 tháng phải góp nữa mới xong mà em có tiền đủ trả hết luôn trong 1 lần thì có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.022657,
+         "id": "1007406",
+         "field_search": "question",
+         "question": "Tôi muốn góp Samsung s8 đưa trước 20 góp 12 tháng có giấy điện và hộ khẩu giấy cmnd được không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.009758,
+         "id": "766447",
+         "field_search": "question",
+         "question": " Cho em hỏi là mình muốn mua trả góp iPhone 6S máy đổi trả thì mình trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.939184,
+         "id": "778586",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp iPhone 5s thì cần những gì mình đã đã từng mua trả góp cách đây 2 tháng và không được chấp nhận liệu có được mua trả góp nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.874035,
+         "id": "987975",
+         "field_search": "question",
+         "question": " Em có sổ hộ khẩu photo đủ 16 trang và CMND, e muốn mua điện thoại Huawei GR5 2017 Pro được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.8161,
+         "id": "999052",
+         "field_search": "question",
+         "question": "Mẹ Mình mua góp dùm iphone 6 32GB giá 8.990k và trả góp 8 tháng dùm mình vì mình chưa đủ tuổi và đã trả được 1 tháng và ngày 8/7/2017 mình sẻ đóng là tháng thứ 2 và mình thấy iphone 6s plus 32GB lên kệ với giá là 14.990k ... mình muốn trả dồn hết 1 lần tiền góp iphone 6 trong vòng 7 tháng nữa được không ??? và mình có thể bán lại máy iphone 6 rồi bù tiền để lên iphone 6s plus không ? và cần đem những gì để trả góp hết 1 lần ?Máy được sử dụng vào ngày 13/5/2017 nếu bán lại TGDD thì mất bao nhiêu % ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.749628,
+         "id": "1020503",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua đt trả góp thì mình có thể trả trước hạn được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.664873,
+         "id": "1021108",
+         "field_search": "question",
+         "question": "Mình đặt mua trả góp oppo f3 nhưng giờ muốn đổi sang j7 pro được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.61697,
+         "id": "745116",
+         "field_search": "question",
+         "question": "Mình muốn mua iPhone 6s Plus màu Gold trả góp 12 tháng, bằng thẻ tín dụng VPB mình phải làm gì, chuẩn bị gì,  điện thoai mình 0903333xxx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.541233,
+         "id": "1141229",
+         "field_search": "question",
+         "question": "Dell Vostro 14-3468 giá 13tr790, trả trước 5tr516, góp 6 tháng,đã đóng 1 tháng đầu 1tr700 Em muốn muc Macbook Air i5 (2017) theo hình thức trả góp ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.523466,
+         "id": "758941",
+         "field_search": "question",
+         "question": "Em hỏi em là sinh viên năm nhất em muốn mua iphone 6 plus 16gb. trả góp trong vòng 12 tháng. vậy em phải đóng trước bao nhiêu vậy ạ. 1 tháng em phải trả bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.459883,
+         "id": "772989",
+         "field_search": "question",
+         "question": "Xin hỏi mình đang có hợp đồng trả góp iPhone 6s 16GB của Home credit, mình đã trả được 1 tháng, muốn hỏi mình còn mua trả góp được nữa không? Tiền sử tài chính tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.426975,
+         "id": "1001886",
+         "field_search": "question",
+         "question": "hệ thống cho mình hỏimình muốn mua 1 em iphone 6 32 ghe mà xám , mà mình tháng này ko có trả trước 30% , nhưng nếu 1 tháng mình trả 1500k thì lãi có thay đổi gì ko ạhay thời gian 12 tháng mình trả 6 tháng thì có thay đổi nhiều không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.385227,
+         "id": "759625",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi , mình muốn mua IP6 S Plus 128 GB , thì bên Shop có gói trả góp 0% , trả trước 30% thanh toán trong từ 6 - 9 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.380976,
+         "id": "1009165",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua trả góp cái ipad 2017 nay mình đã trả đc 4 tháng còn lại 8 tháng nữa nếu mình trả luôn 1 lần 8 tháng này thì có giảm tiền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.254425,
+         "id": "781709",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad mini 2 cho mình hỏi số tiền trả góp mỗi tháng mình thanh toán ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.178139,
+         "id": "1006559",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp sn xperia XZ  thấy giá 10.990 vậy mua trả gop thì phải trả bao nhiu trước và hàng tháng phải trả bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.151472,
+         "id": "1020132",
+         "field_search": "question",
+         "question": "ad cho em hỏi là nếu giờ em muốn mua j7 pro theo phương thức trả góp thì phải trả trước bao nhiêu và mỗi tháng trả bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.146883,
+         "id": "1008184",
+         "field_search": "question",
+         "question": "Mình mới mua máy j7 prime trả góp đã đưa trước 1 triệu 500 muốn đổi máy j7 pro thì mình mất 20% tiền giá gốc máy hay mất 20% tiền mình đưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.140556,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.126633,
+         "id": "1006516",
+         "field_search": "question",
+         "question": "em chỉ có cmnd + bằng lái mà không đem sổ hộ khẩu thì có mua được oppo f3 gói trả trước 2 triệu và góp 12 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.092628,
+         "id": "1159772",
+         "field_search": "question",
+         "question": "E hỏi e sinh ngày 12 tháng 3 năm 1999. E đứng tên mua trả góp được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.076855,
+         "id": "1000340",
+         "field_search": "question",
+         "question": "cho hỏi mình có đặt mua trả góp Samsung J7 Pro bên TGDD. Mình muốn nhận máy vào ngày mai thì ngày mai làm hồ sơ vay trả góp có kịp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.06896,
+         "id": "1147582",
+         "field_search": "question",
+         "question": " Mình muốn mua iPhone 7plus 32Gb gop 12 tháng trả 30. Có đc ko vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.014523,
+         "id": "1155802",
+         "field_search": "question",
+         "question": "E muốn mua trả góp asus zenfone max pro m2 bây giờ e muốn ứg trước 2 triệu và trả góp trog 9 tháng thì sao ạVà thủ tục là những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.888481,
+         "id": "1023715",
+         "field_search": "question",
+         "question": "Xin chào.Cho mình xin hỏi mình có mua 1 điện thoại samsung j7prime ở thế giới gì động. Đến nay đc 9 tháng. Giờ mình muốn bán lại cho cửa hàng thế giới di động. Có được không ạ.Ad trả lời nhanh cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.886396,
+         "id": "1000623",
+         "field_search": "question",
+         "question": "Mình đặt trước j7 pro hôm nay 7/7 hẹn lấy hàng , giờ thấy máy này có chương trình trả góp 0% mình có được làm trả góp ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.878166,
+         "id": "1145511",
+         "field_search": "question",
+         "question": "Trả góp 0% trong 12 tháng vậy mình có thể sử dụng thêm chương trình khuyến mãi thu điện thoại cũ đổi mới hay không?và có trả trước bao nhiêu % không,cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.817173,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.631369,
+         "id": "784887",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp iPhone 6s 64g pink,trả góp 12th,hộ khẩu tphcm,mình phải trả trước bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.572638,
+         "id": "1021518",
+         "field_search": "question",
+         "question": "Cho thi hỏi, thi mua điện thoại trả góp 0%  tại TGDĐ trong thời hạn 6 tháng, thi đã trả được 2 kỳ và còn 4 kỳ phải thanh toán. Vậy 4 kỳ này thi muốn chuyển sang trả góp 12 tháng được không, nếu được thì phí và lãi trả như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.559671,
+         "id": "1014992",
+         "field_search": "question",
+         "question": "Mình muốn mua sim vina Bum50 của TGDD co máy điện thoại của mình mua 12 tháng rồi tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.53284,
+         "id": "1141850",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình nua máy trả góp nhưng giờ mình muốn đổi trả để mua máy khác thì có được áp dụng như mua trả thẳng không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.50619,
+         "id": "995895",
+         "field_search": "question",
+         "question": "Mình muốn mua góp dt j7 pro đưa trước bao nhiu  v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.426344,
+         "id": "1010241",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình mua trả góp điện thoại 6 tháng nhưng sau đó có việc nên mình chỉ muốn trartrong 4 tháng thì các tháng sau mình tăng tiền lên trả có được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41097,
+         "id": "1163792",
+         "field_search": "question",
+         "question": "dạ cho mình hỏi, mua góp Ip XSMAX 64G trả trước 15trieu, số còn lại góp hàng tháng trong 6 tháng. Có bảng giá góp không ạ? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.395592,
+         "id": "1133344",
+         "field_search": "question",
+         "question": "mình muốn mua con xiaomi redmi 5 này mà trả trước 349 nghìn trả trong 9 tháng có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.358627,
+         "id": "1143018",
+         "field_search": "question",
+         "question": "cho e hỏi nếu muốn mua iphone 7 trả góp thì mình trả trước bn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.358349,
+         "id": "997388",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua đt cũ trả góp samsung j7 prime nhưng mình muốn mua trả góp thêm samsung j2 prime có được không hả tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.344275,
+         "id": "1011298",
+         "field_search": "question",
+         "question": "Cho hỏi mua trả góp điện thoại Bphone 2017 lãi suất 0 trả góp trong mấy tháng? và trả như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.323023,
+         "id": "1002597",
+         "field_search": "question",
+         "question": " Em muốn mua máy tính bảng trả góp, có cần trả trước không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.302248,
+         "id": "1011486",
+         "field_search": "question",
+         "question": "Mình muốn mua iphone7 32GB. Mình  có  cmnd và hộ khẩu nguyên cuốn công chứng Có mua trả góp được khôngnếu dc Mình  trả  10% mình  muốn góp trong 9 tháng Thì lãi suất thế  nào  .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.277002,
+         "id": "1151209",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình mới mua trả góp samsung Note 9 chưa được 1 tháng,trả trước 9 triệu và đã đóng được 1 tháng rồi, hiện tại mình muốn đổi sang Samsung note 10 thì cần bù bao nhiêu tiền và điều kiện như thế nào ạ!! tình trạng máy k bị trầy xước và hư hỏng bất kì phần nào vì mình mới mua chưa được 1 tháng ạ!! mong ad trả lời sớm ạ!! tks ad trước!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.274591,
+         "id": "1000093",
+         "field_search": "question",
+         "question": ". ví dụ như h muốn mua trả góp 1 con OPPO F1s mà trả trước 4tr còn bao nhêu tháng sau trả đủ có được không nhỉ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.273706,
+         "id": "1020169",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn mua điện thoại vivo v5 trả góp thì trả trước bao nhiêu và góp mấy tháng ah  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.257996,
+         "id": "1135744",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp huawei  nova 3i trả trước 0%  trong vòng 6 tháng gói lãi suất 1% của NH FE CREDIT vậy cho mình hỏi khj đi mình mang gplx + giấy cmnd có dc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.201641,
+         "id": "877872",
+         "field_search": "question",
+         "question": " Mình muốn mua iPhone 5s trả góp, trả trước không đồng. Vậy mình cần những điều kiện gì. Xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.157217,
+         "id": "1146258",
+         "field_search": "question",
+         "question": "mình muốn biết cách thức trả góp như thẻ nào? Hàng tháng trả bao nhiêu của máy  Điện thoại Huawei Y7 Pro 2019 màu đỏ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.126015,
+         "id": "1166741",
+         "field_search": "question",
+         "question": "Mình mua máy trả góp nhưng bây giờ muốn trả lại máy và chịu phí thì tgdd sẽ hoàn lại tiền cho mình và mình vẫn trả góp hàng tháng hay là ntn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.099228,
+         "id": "1154179",
+         "field_search": "question",
+         "question": "Máy mình mua là a8 star, mình còn 2 tháng trả góp, giờ mình thanh toán luôn 2 tháng góp còn lại rồi mình A8 star lên a50 có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.080011,
+         "id": "991344",
+         "field_search": "question",
+         "question": "QTV cho em hỏi: em muốn mua xiaomi redmi not4 hoặc huawei GR5 2017 trả trước 0đ đc ko ạ. Em có CMND và SHK. Em ở thành phố lao cai ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.072468,
+         "id": "997317",
+         "field_search": "question",
+         "question": " Bên mình có dán cường lực của máy huawei gr5 2017 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.015472,
+         "id": "1020828",
+         "field_search": "question",
+         "question": "cho mình hỏi mua điện thoại trả góp  góp được 1 tháng rồi trả hết số còn lại nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.989105,
+         "id": "1007319",
+         "field_search": "question",
+         "question": "Nều mua trả góp có thể trả trước 50 ,còn số tiền góp trong vòng 3 tháng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.863604,
+         "id": "995872",
+         "field_search": "question",
+         "question": "em muốn mua trả góp, nhưng trả trước 20 có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.856464,
+         "id": "1169261",
+         "field_search": "question",
+         "question": "Chào các cô,chú nhé Cho mình hỏi nhờ với bên các bạn có máy điện thoại xiaomi rem not 7 bản 32g giá bao nhiêu mình muốn mua trả góp trước mình cũng mua trả góp 1 máy nhưng trả song lâu rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.811127,
+         "id": "1009669",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi.  E có mua ĐT oppo f3 trả góp 0 đồng ở tgdđ rạch giá,  góp 12 tháng,  đã góp 1 tháng. Bây h em mún đổi sang điện thoại khác thì có được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.80611,
+         "id": "1159227",
+         "field_search": "question",
+         "question": "Dạ chào shop! Mình muốn đổi samsung a7  2018 lấy samsung a50 sao ạ? Điện mình mua trả góp 0%, giá 6.990.000 góp trong 4 tháng, mình góp được 1 tháng. Sdt: ××××087538.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.780422,
+         "id": "789842",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua cái điện thoại góp bên HomeCredit được 4 tháng rồi bây giờ em muốn mua trả góp thêm cái iphone 6 Plus nữa được không ad, em phải trả trước tối thiểu là bao nhiêu %?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.77433,
+         "id": "795842",
+         "field_search": "question",
+         "question": "laptop mình mua trả góp còn 2 tháng nữa góp xong. mua dc 7 tháng còn bảo hành. máy ASUS do cấu hình máy yếu nên mình muốn đổi lấy máy mới được không. nếu được thì chịu lỗ % và bù thêm tiền so với giá trị máy mới đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.767334,
+         "id": "1012663",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Samsung s7 có cần trả tiền trước k ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.757444,
+         "id": "1158455",
+         "field_search": "question",
+         "question": "em ơi cho anh hỏi nến như đặt trả góp máy điện thoại oppo F 11 pro thì trả trước bao nhiêu trả trong vòng mấy tháng hả em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.700172,
+         "id": "1156501",
+         "field_search": "question",
+         "question": "Xin chào, mình muốn mua SS note 8 trả góp. Mình có sẵn bản gốc CMND, BLX. Số tháng trả góp 6 tháng của Home Credit. Mong nhận được tư vấn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.686737,
+         "id": "1166926",
+         "field_search": "question",
+         "question": "Báo giá giúp mình nếu mình mua Samsung Galaxy S10 trả góp 0% 12 tháng bằng thẻ tín dụng Citibank/HSBC thì mỗi tháng phải trả bao nhiêu và tổng tiền là bao nhiêu nha. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.676655,
+         "id": "1151802",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn mua con zenfone max pro m2 thì trả góp mỗi tháng bao nhiêu và trong bao nhiêu tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.644638,
+         "id": "996573",
+         "field_search": "question",
+         "question": " Mình mua c9 pro đổi trả. Giờ mình muốn đổi máy khác được kh?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.62615,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "954097",
+   "total": 32401,
+   "total_current": 100,
+   "max_score": 128.65173,
+   "origin_question": "Nhờ shop tìm giúp cho mình con laptop hỗ trợ tốt đồ họa, lập trình, có thể giải trí với các game khá nặng như liên minh trong tầm giá sinh viên với ạ ( 14tr) !! Tks shop.",
+   "hits": [
+      {
+         "score": 40.94168,
+         "id": "929742",
+         "field_search": "question",
+         "question": " Admin cho em hỏi trong tầm giá 46 triệu thì có laptop nào hổ trợ chơi game đồ họa ở mức trung bình khá không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.274654,
+         "id": "994638",
+         "field_search": "question",
+         "question": "Nhờ các anh chị ở thegioididong tư vấn giúp em cấu hình laptop có khả năng chơi một số game đồ họa cao (như gta5, liên minh huyền thoại), chạy tốt photoshop..v..v..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.399475,
+         "id": "1017660",
+         "field_search": "question",
+         "question": "Mình cần mua một cái laptop trong tầm giá từ 10-15 triệu phù hợp với việc làm đồ họa nhiều phiền QTV tư vấn giúp mình nếu có thể thì tìm giúp mình laptop của hãng Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.614193,
+         "id": "1000090",
+         "field_search": "question",
+         "question": "tư vấn giúp tôi laptop có card đồ họa mạnh nhất phù hợp với nhu cầu chơi game nặng trong khoảng giá 20 triệu trở xuống đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.50624,
+         "id": "772578",
+         "field_search": "question",
+         "question": "loại máy này sài có tốt cho việc học, làm việc hay giải trí k qtv.. có thể chs các game nặng đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.22101,
+         "id": "868219",
+         "field_search": "question",
+         "question": "Mình đang tìm kiếm một mẫu laptop giá dao động 15tr (rẻ hơn càng tốt) phù hợp với việc sử dụng đồ họa và có dung lượng lưu trữ lớn. Các bạn giúp mình chọn một máy nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.04879,
+         "id": "1161170",
+         "field_search": "question",
+         "question": "Em là sinh viên không biết em nên chọn con laptop nào vừa chơi game và vừa lập trình được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.824287,
+         "id": "750340",
+         "field_search": "question",
+         "question": "em là sinh viên ngành cơ-đtử với số tiền khoảng 14tr thì em nên mua laptop nào cho việc học và chơi game (LoL, một số game có dung lượng khoảng 8gb hoặc hơn,...) và máy có hỗ trợ card màn hình rời thì càng tốt? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.59286,
+         "id": "1016809",
+         "field_search": "question",
+         "question": "Nên mua máy tính Asus hay Dell thì tốt hơn ạ? Mình cần dùng máy có thể làm đồ họa tốt. Giá tầm 13tr ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.56721,
+         "id": "995068",
+         "field_search": "question",
+         "question": "mình dùng lap top dell với bộ chip intel pentium N3700 1,6ghz trong quá trình chơi game liên minh huyền thoại thấy fps được 30 mình muốn cải thiện tốc độ chơi game của laptop có thể dùng thêm card đồ họa rời được không và dùng loại card nào cho hợp lí",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.04953,
+         "id": "797914",
+         "field_search": "question",
+         "question": "Em đang cần mua laptop phục vụ cho nhu cầu học tập...em học ngành kỹ thuật điện chủ yếu là các phần mềm mô phỏng và đồ họa như: autocad, matlab, simulink,...có một số phần mềm hơi nặng tầm 8-10GB ...tầm giá khoảng 12-13 triệu, có bàn phím số càng tốt...nhờ mọi người tư vấn giúp em ạ!!! em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.001945,
+         "id": "1151994",
+         "field_search": "question",
+         "question": "shop cho em hỏi trong tầm giá 7tr có smatphone nào hỗ trợ công nghệ sạc không dây không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.19957,
+         "id": "1017539",
+         "field_search": "question",
+         "question": "Ad cho em hỏi có dòng Laptop dưới 10tr nào có thể chơi game Liên Minh Huyền thoại kiểu đồ họa trung bình không cần đồ họa cao ạ.....Mong ad cho e xin ý kiến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.192986,
+         "id": "1134214",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em cần tìm một máy tính laptop bất cứ hãng nào giá tầm 13 triệu đổ lại chiến tốt game Liên Minh Huyền Thoại với cấu hình thấp FPS:60, mong anh, chị tư vấn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.85527,
+         "id": "849688",
+         "field_search": "question",
+         "question": "Em muốn học lập trình và em định mua 1 chiếc laptop rẻ thôi vì nhà nghèoanh/chị có thể tư vấn cho em laptop nào hỗ trợ tốt việc lập trình không ạvà cấu hình tối thiểu cho việc lập trình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.433613,
+         "id": "882545",
+         "field_search": "question",
+         "question": "Tìm mua con laptop tầm giá 10 đến 12tr .Cấu hình vừa đủ đáp ứng vs 2 yêu cầu sau\"1.Cho thằng sv năm nhất học cơ khí đồ họa nhẹ nhàng như Autocad thôi.ko cần card đồ họa cao siêu2.Có cổng HDMI để kết nối vs con smart Tv ở nhà cho ông bà xem cải lương.Rất mong Ad và các ae giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.878948,
+         "id": "761167",
+         "field_search": "question",
+         "question": "Quản trị viên ơi. Mình muốn mua Laptop dưới 15 triệu mà cấu hình đủ chơi game liên minh huyền thoại, Fifa..v...v. Và đồ họa đẹp . Mong quản trị viên tư vấn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.423584,
+         "id": "772569",
+         "field_search": "question",
+         "question": "Chào Quản trị viên Cho mình hỏi với dòng máy này có thể chơi được những loại game như liên minh huyền thoại được không ạ :",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.11031,
+         "id": "1006993",
+         "field_search": "question",
+         "question": "Laptop nào có hổ trợ âm thanh nghe nhạc tốt, giá thành phù hợp sinh viên ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.09215,
+         "id": "834388",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang muốn mua laptop thì nên mua máy của hãng nào để đáp ứng tối ưu nhất cho nhu cầu giải trí như chơi game online, xem phim,lên mạng vừa nếu muốn có thể kết hợp cho việc học ở mức giá vừa phải dành cho học sinh sinh viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.04559,
+         "id": "995863",
+         "field_search": "question",
+         "question": "lỗi này là bị sao vậy ạ e đăg nhập vào icloud mãi mà nó toàn bị như vậy chán chẳg muốn dùg ip nữa nên gửi hỗ trợ nhờ các anh chị bên kĩ thuật của shop thegioididong giúp đỡ với ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.873695,
+         "id": "835650",
+         "field_search": "question",
+         "question": "mình đang dự định mua laptop để phục vụ cho nhu cầu giải trí như lướt web, xem phim và chơi game như liên minh huyền thoại,fifa oline 3 ở tầm giá khoảng từ 8 đến 12 triệu thì nên mua máy của hãng nào là tốt nhất, mình đang phân vân giữa dell và asus mong hãy tư vấn cho mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.834274,
+         "id": "880151",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về máy laptop cấu hinh thế nào thì chạy tốt các CT đồ họa như corel, photoshop, autocad. Tư vấn giúp mình nhé. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.594318,
+         "id": "840093",
+         "field_search": "question",
+         "question": " các quản trị viên tư vấn giúp em vài loại laptop có thể chơi game fifa online 3 mượt có giá tầm 15,5 triệu trỡ xuống ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.455828,
+         "id": "754594",
+         "field_search": "question",
+         "question": " Shop cho em hỏi có laptop nào rẻ chơi được game liên minh huyền thoại không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.42965,
+         "id": "1011864",
+         "field_search": "question",
+         "question": "Kiếm giùm e cái laptop 8tr trở xuống chơi đc các game như đột kíck.liên minh huyền thoại khi để đồ họa trung bình đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.402252,
+         "id": "1155949",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop nào  hợp giá tiền học sinh sinh viên mà tải đc liên minh huyền thoại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.241083,
+         "id": "1012002",
+         "field_search": "question",
+         "question": "anh/chị QTV tư vấn giúp e với ạe đang muốn mua điện thoại trong tầm giá từ 3-7tr. cấu hình máy tốt để chơi đc các game nặng, ram khoảng từ 3-4gb, ít tốn pin,chơi game ít có hiện tượng giật lag.mà hơn nữa có nút home để cảm biến vân tay nữa ạ.v thì cho e hỏi trong tầm giá ấy có điện thoại nào phù hợp với e k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.074326,
+         "id": "786716",
+         "field_search": "question",
+         "question": "Qvt ơi có laptop nào chơi game liên minh huyền thoại mượt ở đồ họa trung bình mà màng hình 15.6 in. Có giá 12.13 triệu trở xuống không vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.864227,
+         "id": "750721",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi! Em là sinh viên và em đang cần mua gấp laptop để phục vụ cho việc học tập ( bản vẽ chi tiết, thiết kế) và giải trí (chơi game online, lướt web, game nặng). em nhớ anh(chỉ) tư vấn giùm em laptop phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.82958,
+         "id": "1151688",
+         "field_search": "question",
+         "question": "E mún mua laptop có thể chơi game pubg, liên minh tầm giá 1215tr thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.547392,
+         "id": "998621",
+         "field_search": "question",
+         "question": "Ad tư vấn dùm. Mình đang cần mua laptop chủ yếu để chơi game nặng như Liên Minh Huyền Thoại, Fifa Online 3.... Mua laptop nào là tốt!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.3809,
+         "id": "1005745",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire SF514 51 72F8 i7 7500U có hỗ trợ card đồ họa rời không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.957952,
+         "id": "1019625",
+         "field_search": "question",
+         "question": "shop mình có máy nào chơi liên quan tốt mà giá 1tr3 trở xuống ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.808723,
+         "id": "1002801",
+         "field_search": "question",
+         "question": "Trong tầm giá từ 8-10tr (có thể hơn 1 tí) có laptop nào phù hợp cho SV học Đồ hoạ, Công nghệ thông tin k ạ. Ad tư vấn hộ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.492865,
+         "id": "1005775",
+         "field_search": "question",
+         "question": "Laptop HP Envy 13ab003TU i7 7500U có hỗ trợ card đồ họa rời không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.492865,
+         "id": "1005845",
+         "field_search": "question",
+         "question": "Laptop Lenovo Yoga 900 13ISK i7 6500U có hỗ trợ card đồ họa rời không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.462446,
+         "id": "750505",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài game Liên minh miễn phí vào laptop cho em không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400164,
+         "id": "1156851",
+         "field_search": "question",
+         "question": "A50 với a7 chiếc nào chơi game tốt nhất và chiếc đó chỉ trong tầm giá 6.990.000",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.385176,
+         "id": "890173",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách mua laptop. M ình mua laptop từ 15 triệu đổ lại thì có thể chạy tốt các phần mềm đồ họa như autoCad, solidworks không, và nên mua những hãng nào? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.30833,
+         "id": "1022627",
+         "field_search": "question",
+         "question": "Hi mọi người. Có ai gặp vấn đề như thế này không trợ giúp em với ạ. Mạng của e hoàn toàn ổn định luôn. Nhờ kỹ thuật hỗ trợ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.153425,
+         "id": "877925",
+         "field_search": "question",
+         "question": " a ơi em có nhu cầu mua máy giá tầm 12 triệu yêu cầu đồ họa vì e phải xài các phần mềm như cad nhiềua tư vấn giúp e cái ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.023846,
+         "id": "856178",
+         "field_search": "question",
+         "question": " Nhờ shop kiểm tra hạn bảo hành iphone giúp mình với số imei là 358352065452024. cám ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.966183,
+         "id": "1166396",
+         "field_search": "question",
+         "question": "Chào shop. Mình mới mua máy mastel 10. Nhưng mình thấy máy kết nối wifi quá yếu, hay bị ngắt. Cùng 1 vị trí thì ss j3 bắt khá tốt. Cho hỏi do máy như vậy hay là bị lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.96249,
+         "id": "1160240",
+         "field_search": "question",
+         "question": "Trong chỉnh sửa ảnh mình muốn tải thêm sticker trang trí nhưng máy cứ báo lỗi Samsung account đã có trong trình quản lý tài khoản. Xin hỗ trợ giúp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.954279,
+         "id": "886970",
+         "field_search": "question",
+         "question": " Mình muốn hỏi với giá tầm 10 tr , có thể chọn dòng laptop 2 in 1 nào tốt không? Có màu trắng không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.952518,
+         "id": "1147184",
+         "field_search": "question",
+         "question": " Trong phân khúc 4tr500k thì em có thể mua máy nào tốt để chơi các loại game nặng và pin lâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.91917,
+         "id": "889769",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có laptop nào tầm dưới 10tr mà chơi game mượt không nhỉ, đặc biệt là game liên minh huyền thoại.. tư vấn cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.808945,
+         "id": "1008342",
+         "field_search": "question",
+         "question": "Cho tôi hỏi điện thoại nào chơi game nặng tốt với giá từ 2 đến 3 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.703701,
+         "id": "1006641",
+         "field_search": "question",
+         "question": "Cho em hỏi mua laptop pin khoảng 5 đến 6 tiếng, core i5 trở lên, card đồ họa rời, màn hình 15.6 inch, RAM 4GB trở lên, có hỗ trợ SSD; giá 20 triệu trở lại; và không chơi game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.626633,
+         "id": "1021947",
+         "field_search": "question",
+         "question": "Tư vấn giúp mình laptop nào tầm 34tr có thể chơi được Liên Minh ổn nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.624495,
+         "id": "783095",
+         "field_search": "question",
+         "question": "Cho em hỏi trong tầm giá 10tr thì có máy Laptop nào có thể chịu nổi game Minecraft khi đã cài modpacks, RA 3,...(những game tương đối nặng) khi chơi mà không lag không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.618917,
+         "id": "1007724",
+         "field_search": "question",
+         "question": "Anh chị tư vấn dùm em những mẫu laptop giá tầm 20tr  30tr dành cho dân đồ họa ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.56573,
+         "id": "1149320",
+         "field_search": "question",
+         "question": "Em muốn mua 1 đt 2 sim với pin trâu có thể chơi đc những game nặng như PUBG hay asphalt 9 với liên quân mà giá dưới 10 triệu em nên mua cái nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.495134,
+         "id": "1022290",
+         "field_search": "question",
+         "question": "Em là sinh viên, hiện h em cần tìm mua 1 laptop có thể đáp ứng đc việc học, và cũng có thể chơi game đc. Anh chị nào biết có thể tư vấn giúp em với. Mà nếu rm mua trả góp thì em có đc nhận quà tặng kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.429222,
+         "id": "780158",
+         "field_search": "question",
+         "question": "Mình vừa mua laptop ASUS có tặng office mà nhân viên chưa cài mã kích hoạt vậy mình có thể liên hệ với ai để được hỗ trợ không do tôi ở xa ko đến được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.42372,
+         "id": "1012674",
+         "field_search": "question",
+         "question": "em muốn cài game liên minh huyền thoại thì bên mình có hỗ trợ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.418818,
+         "id": "1131399",
+         "field_search": "question",
+         "question": " Êm muốn tìm con máy chơi pubg mobile được nhưng giá rẻ sinh viên ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.408384,
+         "id": "1143741",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại dùng pin tốt, trong tầm giá từ 3 - 4 triệu, Shop tư vấn mình loại nào ok ? Pin khoảng bao lâu ? Chủ yếu FB, Youtube, Zalo, chụp hình. Ko game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.229216,
+         "id": "1161401",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại nào chơi game tốt giá rẻ tầm 23 triệu ạ? Mong anh chị tư vấn rõ với nói tên giúp em ạ!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.163239,
+         "id": "1151555",
+         "field_search": "question",
+         "question": "Bây h mình muốn mua laptop có card đồ họa mx150 chip i5 trở lên cofee lake càng tốt ạ.  Bên mình còn hàng như vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.107847,
+         "id": "1168116",
+         "field_search": "question",
+         "question": "Hi ! Mình có mua IPX bên shop hồi tháng 3 vừa rồi . Gio dùng minh thấy camera mờ hơn những IPX cùng loại . Thì trong trường hợp này shop có hỗ trợ gì ko ? Hay sao ạ ? 0908376785",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.057554,
+         "id": "832030",
+         "field_search": "question",
+         "question": " Có máy laptop nào chạy tốt cho cấu hình game nặng không ạ. Giá khoảng 510 triệu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.966928,
+         "id": "831000",
+         "field_search": "question",
+         "question": " Ad cho em tham khảo laptop nào chơi được Liên Minh huyền thoại ạ giá cả vừa phải thôi ạ vì em đang là sinh viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.919188,
+         "id": "860131",
+         "field_search": "question",
+         "question": " Lập tài khoản id trong máy cho mình với!mình lập mãi ko được giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.905928,
+         "id": "1014950",
+         "field_search": "question",
+         "question": "Tìm giúp một laptop có thể đáp ứng nhu cầu chơi Liên Minh Huyền Thoại giúp vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.892485,
+         "id": "793963",
+         "field_search": "question",
+         "question": " Em muốn mua 1 laptop tầm giá từ 7 triệu đáo lại thị hãng nào tốt ạ. add giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.864962,
+         "id": "902250",
+         "field_search": "question",
+         "question": " Nhờ các bạn quản trị viên tìm dùm mình PC hoặc Laptop nào có thông số như ảnh dưới đây. Cảm ơn thegioididong.com !!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.862057,
+         "id": "760694",
+         "field_search": "question",
+         "question": " Shop cho em hỏi có laptop nào rẻ chơi được liên minh huyền thoại không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.837496,
+         "id": "773988",
+         "field_search": "question",
+         "question": " laptop Acer sao không cài được mu origin vn nhi với các game khác, vd haflif cf hay cài đặt phần mềm lập trình cnc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.807756,
+         "id": "1135717",
+         "field_search": "question",
+         "question": "Ad cho hỏi e muốn chơi fifa online 4 với liên minh huyền thoại và nếu có thể thì cả pupg nữa cho e hỏi trong tầm giá 10-20 triệu có nhũng máy nào có thể đáp ứng được yêu vầu này không ạMong được ad giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.806335,
+         "id": "1117960",
+         "field_search": "question",
+         "question": " intelR UHD graphics 620có học được các ngành kĩ thuật với xử lí đồ họa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.797056,
+         "id": "1001912",
+         "field_search": "question",
+         "question": "E là học sinh mới chuẩn bị học đại học ngành lập trình máy tính ad cho e hỏi dòng máy nào giá từ 12-15tr phù hợp với   việc học lập trình của e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.773836,
+         "id": "946466",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mua máy ram 4gb giá dưới 10tr không nóng máy vs nhanh hết pin hỗ trỡ mo ứng dụng tốt vs đọc bản vẽ đồ họa thiết bị văn phòng thì mua loại nao hỗ trợ cho các ứng dụng trên ak.em cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.747524,
+         "id": "802274",
+         "field_search": "question",
+         "question": "Chào tư vấn viênem là sinh viên trường ĐHĐTem muốn mua laptop để hỗ trợ việc học nhưng do gia đình khó khăn. Vậy cho em hỏi có dịch vụ gì hỗ trợ cho em không hay chương trình gì đó..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.676542,
+         "id": "828901",
+         "field_search": "question",
+         "question": " mún mua máy tính có thể chơi được game nặng như liên minh huyền thoại hay là máy nào dậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.676186,
+         "id": "786485",
+         "field_search": "question",
+         "question": " Mình muốn mua một chiếc laptop giá dưới 10 triệu , chơi tốt game Truy Kích. Bạn nào giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.633783,
+         "id": "1151665",
+         "field_search": "question",
+         "question": "Cho xin hỏi là tôi nên mua laptop hãng nào tốt nhất để lập trình game vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.522818,
+         "id": "1134909",
+         "field_search": "question",
+         "question": "thế giới di động hiện nay 30/11/2018 có chương trình khuyến mãi hay hỗ trợ cho sinh viên khi mua laptop tại thế giới di động không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.468908,
+         "id": "759197",
+         "field_search": "question",
+         "question": "Tôi là sinh viên muốn mua máy laptop đùng vẽ đồ họa có được ưu đãi nhiều không ? Khi mua trả góp tôi phải làm những thủ tục gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.412376,
+         "id": "851997",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc laptop khoảng 14tr phục vụ việc chơi game giải trí học hành ạ. mọi người tư vấn mình vớià hãng máy tính được ưa chuông nhất bây giờ là dell phải ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.398273,
+         "id": "1009867",
+         "field_search": "question",
+         "question": "em là tân sinh viên học chuyên ngành kinh doanh đang có nhu cầu muốn mua laptop trong tầm từ 10tr-15tr. mong anh/chị có thể tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.33407,
+         "id": "1022698",
+         "field_search": "question",
+         "question": "Mình muốn tìm 1 laptop sdung mướt cho việc thuyết trình làm powerpoit,word ... giá tầm   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.332441,
+         "id": "1014442",
+         "field_search": "question",
+         "question": "Mình cần tư vấn mua laptop tầm 13 14 triệu, các điệu kiện là: màn hình 15inch full HD, ram(Ram ddr4) với ổ cứng có thể nâng cấp, core i5-7200U tảng nhiệt tốt, ad giúp với nha! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.304163,
+         "id": "1140473",
+         "field_search": "question",
+         "question": "Nhờ ad tư vấn mình mua smartphone chơi game nặng như liên quân ổn định",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.300182,
+         "id": "1151016",
+         "field_search": "question",
+         "question": "AD ơi tui muốn hỏi điện thoại nào chơi game tốt tầm giá 4 AD Tìm cho mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.020561,
+         "id": "804928",
+         "field_search": "question",
+         "question": "bạn có thể giới thiệu giúp mình laptop nào có thể.....chơi game onl,lướt wed mượt, bộ nhớ tốt và có camera tốt.....giá dưới 9tr ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.986837,
+         "id": "999744",
+         "field_search": "question",
+         "question": "E cần tìm mua 1 laptop có thể chơi dc Liên Minh Huyền Thoại & Fifa Online 3. Admin tư vấn cho e 1 vài loại đi ạ. Tks Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.94342,
+         "id": "821654",
+         "field_search": "question",
+         "question": " Em muốn mua laptop giá trung bình phù hợp với cv của 1 sinh viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.93683,
+         "id": "986980",
+         "field_search": "question",
+         "question": "Cho mình hỏi bi gi ạ nhờ chỉ giúp minh với !!!!!!!!!!!!!!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.933992,
+         "id": "776040",
+         "field_search": "question",
+         "question": "Chào anhEm có thắc mắc sau mong quản trị viên giải đáp thắc mắc hộ em: khi em truy cập trình duyệt web như chrome hay internet explorer thì web báo máy em bị nhiễm n con virus, cần phải tải và diệt virus ngay, sau đó bắt đầu đến ngược trong khi 360 security của em quét liên tục k tìm ra con virus nào. Như thế là như thể nào? Mong quản trị viên giải đáp giùm em. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.92626,
+         "id": "1163096",
+         "field_search": "question",
+         "question": "bên shop có hỗ trợ nâng cấp lên iso 12 cho ip 6plus lock k ? liên hệ sdt mình để tư vấn 0794474976",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.872139,
+         "id": "1164454",
+         "field_search": "question",
+         "question": "Mình mua redmi 4a tại shop. Bây giờ pin bị phồng shop có hỗ trợ thay không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.798594,
+         "id": "844695",
+         "field_search": "question",
+         "question": " Cách giảm đồ họa game outlast để có thể chơi mượt hơn trên pc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.795294,
+         "id": "1017051",
+         "field_search": "question",
+         "question": "admin cho em hỏi em muốn nộp đơn xin việc vào vị trí cộng tác viên giám sát camera....em sinh viên đại học sinh năm 1999 mà yêu cầu là từ 1996-1998...vấn đề này có thể giải quyết dc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.564083,
+         "id": "917162",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với. Sao mình out cái tài khoản game center ra nó lại báo thế này \" tài khoản của bạn không thể liên lạc với ứng dụng trợ giúp và không cho đăng xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.299316,
+         "id": "1021480",
+         "field_search": "question",
+         "question": " Cho hỏi phiếu giảm giá học sinh sinh viên có giảm giá cho laptop không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.272345,
+         "id": "995520",
+         "field_search": "question",
+         "question": "Cho mình hỏi trong tầm từ 3tr4tr thỳ nên mua máy nào là tốt nhất. tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.271976,
+         "id": "1000664",
+         "field_search": "question",
+         "question": "e cần mua 1 con laptop giá tầm 15tr đổi lại dell hoặc asus    Core i5 hoặc i7  Ram 4G GDDR3L trở lên  Card đồ họa có chip xử lý đồ họa riêng biệt (GPU) có số bit 128 trở lên  Ổ cứng có dung lượng 500GB trở lên thêm một ổ cứng SSD để cài đặt phần mềm.  Màn hình 15.6 có độ phân giải 1920 x 1080",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

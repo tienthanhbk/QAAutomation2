@@ -1,0 +1,801 @@
+{
+   "id_query": "844250",
+   "total": 34461,
+   "total_current": 100,
+   "max_score": 124.08941,
+   "origin_question": "Cho hỏi IP 3GS 6.x bây giờ lag và văng hầu hết các ứng dụng tải về vậy nếu em vào AppStore mua một ứng dụng nào đó thì khi mua như vậy ứng dụng có bị lag và văng không ạ ?",
+   "hits": [
+      {
+         "score": 72.1939,
+         "id": "790225",
+         "field_search": "question",
+         "question": "Cho hỏi em xài Iphone 3GS 6.1.6 16gb sao mà xài ứng dụng nào cũng bị lag máy em ít ứng dụng lắm có cái văng ra luôn tắt hết ứng dụng chạy ngầm cũng vậy, có thể nói 99% các ứng dụng trên AppStore mà iphone này tải về được xài đều văng và lag rất nhiều ( nặng hay nhẹ đều hoàn toàn như vậy ) không một ứng dụng nào mà xài Bình thường được . Mong giúp đỡ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.380173,
+         "id": "804499",
+         "field_search": "question",
+         "question": "Em xài IPhone 3gs ios 6.1.6.Không biết điện thoại em nó bị gì mà cứ lag kinh khủng mặc dù rất ít ứng dụng nhưng vẫn vậy hầu như 99% ứng dụng trên appstore mà điện thoại này tải về đều lag và out ra và em đã thử dùng các biện pháp thông thường như: Tắt ứng dụng chạy nền ...,.cũng như không.Em đã reset mỏi tay thì chã có gì là thay đổi.Em đã hỏi TGDĐ thì bảo máy em cấu hình yếu em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.44618,
+         "id": "832120",
+         "field_search": "question",
+         "question": "sao iphone 4 vào tất cả ứng dụng về camera sao nó hay lag vậy em có tắt hết ứng dụng chạy ngầm rồi mà vẫn lag giúp em về?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.225796,
+         "id": "801940",
+         "field_search": "question",
+         "question": "BQT cho em hỏi là : tại sao em lại bị văng ứng dụng khi vào những ứng dụng như là : youtube , facebook , messenger , zalo , nói chung là những ứng dụng cần internet mới sử dụng được thì bị văng ra ạ ? Giúp em với BQT....!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.05584,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.492786,
+         "id": "820030",
+         "field_search": "question",
+         "question": " Cho e hỏi e dùng iphone 4 tải ứng dụng từ app sau khi tải về máy vào tì bị văng ra ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.122368,
+         "id": "907750",
+         "field_search": "question",
+         "question": "Máy ip 5 SE của em hơi lag..và những ứng dụng tải về không hiện ra ở màn hình..dù đã máy báo là tải xong..vậy cho hỏi là máy bị hư phần nào..và tgdt có hỗ trợ sữa chữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.88881,
+         "id": "753199",
+         "field_search": "question",
+         "question": "Em xài IP 3GS IOS 6.1.6 không bít tại sao chơi game nào hay sử dụng phần mềm nào nặng hay nhẹ cũng lag và out có cái vô out liền có cái vô lag rất lag và cũng out may mắn không out thì cũng lag nặng mặc dù máy rất ít ứng dụng chỉ 2-3 ứng dụng tải về do lag quá nên không thèm tải thêm nữa đến nỗi vô safari cũng lag và out nữa . Được sự hỗ trợ của TGDD 1 tháng trước em đã reset toàn bộ theo lời Anh/chị nhưng không có một chút gì cải thiện . Mong sự giúp đỡ của Anh/chị !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.84424,
+         "id": "1160985",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tý nhé: khi em vào chia đôi màn hình xong và chạy 2 ứng dụng trên màn hình, nếu em nhấp vào ứng dụng trên thì ứng dụng dưới không chạy và sử dụng ứng dụng dưới thì ứng dụng trên dừng, như vậy cách khắc phục thế nào chỉ giúp em vơi. Em đang xài tap A6 spen. ( chọn ứng dụng nào thì ứng dụng đó chạy, còn không chọn thì không chạy). Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.810726,
+         "id": "1142661",
+         "field_search": "question",
+         "question": "Máy Lumia 730 vào facebook ở web và ứng dụng bị vănh ra mang máy ra tiệm chạy lại phần mềm sài được lúc giờ lại bị văng ra.trong lúc văng ra có báo tải ứng dụng nhưng vào cữa hàng tìm không có facebook để tải.mong anh chị giải đáp giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.775734,
+         "id": "797840",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng iphone 5 lock nhật, em tải 1 ứng dụng về máy nhưng khi mở ứng dụng thì toàn bị văng ra ngoài. Anh chị tư vấn cho em cách khắc phục với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.7613,
+         "id": "1018113",
+         "field_search": "question",
+         "question": "E dc A trai cho máy iphone 6 plus, nhưng khi e tải ứng dụng về, tên của ứng dụng lại là tiếng Hàn, trong khi ID của e là Id việt và appstore cx là appstore việt, vậy e phải làm thế nào ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.572224,
+         "id": "1017936",
+         "field_search": "question",
+         "question": "chào ban nha cho mình hỏi ạ mình đang tải ứng dụng trên iphone 6 plus và nếu tắt màn hình thì ứng dụng đó có còn tự tải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.545586,
+         "id": "883645",
+         "field_search": "question",
+         "question": " Mình mới xoá cydia và bây giờ máy mình ko tải đc bất cứ ứng dụng nào từ appstore là sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.217422,
+         "id": "776446",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 6S mới đây mới bị tình trạng vào Facebook và các trang liên quan đến mạng thì bị văng ra ngoài, em đã xoá bớt ứng dụng và khởi động lại máy rồi vẫn bị như vậy là làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.007423,
+         "id": "751946",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS,em có format 1 lần và bây giờ mỗi lần vào App Store tải ứng dụng thì nó cứ báo nhập mật khẩu ID Apple của người khác.vậy giờ em muốn tạo ID Apple của mình để tải ứng dụng được không các bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.797256,
+         "id": "1161359",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt lenovo a5000 bị văng ra khỏi các ứng dụng như game và các ứng dụng hệ thống (như mục cài đặt, youtube, ch play...) là sao v. Mình đã khởi động lại nhiều lần vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.951653,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.78926,
+         "id": "1146881",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao laptop dell của em cứ bị giật lag khi xài ứng dụng ạ? Em có thử chạy lại win r mà tải autocad về nó vẫn bị giật lag ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.543613,
+         "id": "814647",
+         "field_search": "question",
+         "question": " Mình đang sử dụng Iphon 3gs 16gb IOS 6 mình muốn cài lên IOS 7 để được tải một số ứng dụng vậy có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.02748,
+         "id": "938059",
+         "field_search": "question",
+         "question": "em đang xài phone 4 và em mới đi reset lại máy và bây giờ em tải zalo và các ứng dụng khác thì nó để là không thể tải zalo vào lúc này và mấy cái ứng dụng khác cũng vậy xin AD chỉ giúp em với em phải làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.752853,
+         "id": "993514",
+         "field_search": "question",
+         "question": "ID ơi cho mình hỏi mình đang xài iphone6 nhưng tại sao mình vô appstore tải ứng dụng không được vậy ạ. Mình tải tất cả ứng dụng như: facebook, messenger, snow,... mình bấm vô tải cái nó xoay để tải về rồi sao đó ngưng trở lại như củ không xoay và cho tải nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.74633,
+         "id": "1156196",
+         "field_search": "question",
+         "question": "Bị như vậy thì làm sao hết được không tải được ứng dụng nào cả  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.031925,
+         "id": "1166108",
+         "field_search": "question",
+         "question": "Máy em tải ứng dụng nhẹ thì tải được mà các ứng dụng nặng thì lại bị như thế này thì làm thế nào ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.031773,
+         "id": "778569",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua con iPhone 5 em đã quên kiểm tra icloud về thì em lở tay out ra khi nhập icloud mới của em vào để cập nhật tải ứng dụng nó báo bảo em phải nhập icloud của chủ trước mới cho phép cập nhật hay tải ứng dụng. Bây giờ em phải làm thế nào để cập nhật với tải ứng dụng được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.029438,
+         "id": "832955",
+         "field_search": "question",
+         "question": " Cho hỏi sao em vào Appstore tải các ứng dụng về mà không được. Tài khoản của bạn bị vô hiệu hóa phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.901226,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.795483,
+         "id": "751165",
+         "field_search": "question",
+         "question": " Bây giờ iOS chỉ cho tải ứng dụng trong kho ứng dụng là tạm thời hay là luôn luôn như vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.535522,
+         "id": "999065",
+         "field_search": "question",
+         "question": "Là như thế này ạEm đang dùng chiếc zenfone c, hôm trước em có root máy và dùng ứng dụng titanium backup để gỡ bỏ và tắt 1 số ứng dụng trong hệ thống sau đó gỡ luôn titanium backup. Bây giờ nó bị lỗi không thể cài đặt được ứng dụng. Vậy cho em hỏi làm thế nào để giải quyết vấn đề này ạ ? nếu chạy lại chương trình thì có được không ạ ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.45175,
+         "id": "1016416",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.413567,
+         "id": "819683",
+         "field_search": "question",
+         "question": "Khi vào appstore để tải ứng dụng về máy iphone 4 mà sao không tải được..? xuất hiện ĐANG CHỜ mà mãi không thể hiện thị ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.071617,
+         "id": "1014421",
+         "field_search": "question",
+         "question": "Sony M4 em vừa mua được một tuần, thì camera báo \" camera đang bị sử dụng bởi một ứng dụng khác. Vui lòng tắt ứng dụng đó và thử lại \", em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.896587,
+         "id": "1161314",
+         "field_search": "question",
+         "question": "Cho hỏi là e muốn ẩn ứng dụng trên điện thoại j5 prime nhưng khi muốn mở lại ứng dụng thì phải vào cài đặt bỏ ẩn ứng dụng, sau khi sử dụng xong thì phải vào cài đặt và ẩn lại.Nên có cách nào để em mở ứng dụng mà em đã ẩn một cách nhanh chóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.782917,
+         "id": "815337",
+         "field_search": "question",
+         "question": "Cho mình hỏi , mình có mua điện thoại HTC One M8 Eye , và mua thêm thẻ nhớ 64g , nhưng khi mình down các Ứng dụng trên mạng về thì chỉ xài hết 16G bộ nhớ trong Đt mình, vậy nếu mình ra cửa hàng thegioididong và cài đặt Game + Ứng dụng thì có chuyển qua tất cả qua thẻ nhớ SD của mình không, hay chỉ tải về bộ nhớ trong, cảm ơn rất nhiều ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.723343,
+         "id": "1163492",
+         "field_search": "question",
+         "question": "Xin hỏi có ứng dụng android  nào fake ip ko ạ? Mình đã tải về nhiều ứng dụng nhưng vẫn là ip của Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.71567,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.699833,
+         "id": "1016419",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6s plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.61194,
+         "id": "1004892",
+         "field_search": "question",
+         "question": "Chào các admin. Em đang dùng iPhone 5s em muốn khoá một số ứng dụng như facebook, tin nhắn, ảnh,. ..... Vậy có ứng dụng nào để cài mã khoá không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.567,
+         "id": "1000774",
+         "field_search": "question",
+         "question": "Cho em hỏi, em vừa mua một chiếc Sony xperia XA của tgdd về được một hôm thì máy bị giật lag liên tục. Một ngày phải tắt mở nguồn 2-3 lần. Cho em hỏi cách khắc phục nha !* Em đã tắt ứng dụng nguồn và cài đặt phần mềm dọn rác nhưng vẫn không hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.497955,
+         "id": "1160101",
+         "field_search": "question",
+         "question": "Tại sao Samsung A50 tải file từ Google chrome khi tải lưu vào bộ nhớ trong thì bình thường còn tải lưu vào thẻ nhớ thì Google bị văng ta hiện thông báo ứng dụng tiếp tục dừng. Vào Chrome mục tải xuống mở file vừa tải cũng bị văng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.26871,
+         "id": "766389",
+         "field_search": "question",
+         "question": "cho mình hỏi khi ứng dụng cùa iphone của khách hàng sao lưu với itunes của nhân viên kĩ thuật mà không có ứng dụng đó thì sao trên ip lại không bị mất ứng dụng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.20193,
+         "id": "751734",
+         "field_search": "question",
+         "question": "Máy em (win 8) ram có 2GB chạy lúc nào cũng 70%Ram trên lên, vào ứng dụng lúc nào cũng bị chạy hoặc bị văng ra ngoài, em mới bảo hành về và cài win cách đây 1 ngày, có cách nào khắc phục tình trạng này không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.11428,
+         "id": "937755",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi sao em ko tải ứng dụng trên appstore dk,cứ load dk 1 tí lại có thông báo ko thể tải về ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.10755,
+         "id": "832467",
+         "field_search": "question",
+         "question": " cho em hỏi sao iphone 4 của em tại tất cả ứng dụng camera em vào đều bị lag giật khi quay. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.977158,
+         "id": "1138216",
+         "field_search": "question",
+         "question": "E mới mua oppo a3s mà khi tải file từ facebook xuống thì máy hiện k có sẵn ứng dụng nào để mở tập tin này. Vậy là sao ạ và e có cần tải thêm ứng dụng gì k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.93958,
+         "id": "1023800",
+         "field_search": "question",
+         "question": "Admin cho e hỏi là e xài oppo neo 5 được 1 thời gian và thường xuyên cập nhật ứng dụng mới , nhưng thường xuyên bị không phản hồi về các ứng dụng như : Facebook , Zalo , google , YouTube ,...và cách ứng dụng khác , vậy cho e hỏi là bị gì , nguyên nhân và cách sửa chữa...! E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.901638,
+         "id": "588145",
+         "field_search": "question",
+         "question": "Các bước thực hiện như sau:: Tiếp theo bạn chọn vào .: Nhập mật khẩu để khóa ứng dụng.: Một danh sách các ứng dụng hiện ra để bạn có thể khóa, ví dụ ở đây mình sẽ khóa ứng dụng App Store để không cho người được mượn cài đặt thêm ứng dụng mới và không cho phép gỡ bỏ ứng dụng thì mình sẽ chọn như hình.Nếu bạn muốn gỡ bỏ việc khóa ứng dụng thì bạn cũng thực hiện lại các bước tương tự và kích hoạt lại các ứng dụng mà bạn đã khóa.Chúc các bạn thành công!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.681683,
+         "id": "1001361",
+         "field_search": "question",
+         "question": "Làm sao để chuyển ứng dụng và tải ứng dụng qua thẻ nhớ vậy????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.56815,
+         "id": "868806",
+         "field_search": "question",
+         "question": "Trong iphone 4s, phần cấu hình Ephipstore bị hết hạn thì phải làm sao, em không thể vào appstore tải ứng dụng được nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.31818,
+         "id": "814911",
+         "field_search": "question",
+         "question": " cho e hỏi iPhone 5 của e gần đây vào các ứng dụng đang chạy mà nó lại bị văng ra ngoài làm ntn e có thể khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.243626,
+         "id": "1133581",
+         "field_search": "question",
+         "question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.062595,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.999435,
+         "id": "926336",
+         "field_search": "question",
+         "question": "Cho em hỏi cách quay màn hình iphone 5s như thế nào vậy ạ? Em có tải ứng dụng Shou về, nhưng khi quay xong thì không thấy chỗ lưu lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.95748,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.818447,
+         "id": "847304",
+         "field_search": "question",
+         "question": "Iphone 3gs 6.1.6 khi vào app tải youtube thì bị thông báo BẠN PHẢI NÂNG CẤP LÊN IOS 8.0 HOẶC PHIÊN BẢN MỚI HƠN ĐỂ TẢI ỨNG DỤNG NÀY,và rất rất nhiều ứng dụng khác điều bị như thế .xin quản trị viên giúp đỡ làm sao để khắc phục ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.792156,
+         "id": "795893",
+         "field_search": "question",
+         "question": "hiện tại mình đang sử dụng sản phẩm Apple iPhone 5s của thegioididong..mình luôn thắc mắc về hiệu năng của pin...nên mình muốn hỏi iphone 5s có nên sử dụng các ứng dụng bảo vệ pin và các ứng dụng đó là những ứng dụng nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.77351,
+         "id": "774534",
+         "field_search": "question",
+         "question": "Em xài iPhone 4 iOS 7.1.2 nhưng tải cam360 về thì xài không được. Thử lên tải ứng dụng appstorevn để tải các ứng dụng khác thì cũng không được luôn.Cho rồi hỏi làm sao để em tải được các ứng dụng trên appstorevn hay phải root máy.Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.61908,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.543846,
+         "id": "1014431",
+         "field_search": "question",
+         "question": "Làm cách nào để gỡ hoàn toản các ứng dụng của máy được cài sẵn mà khi khôi phục cài đặt gốc nó không bị cài lại nữa ạ! Vì mấy ứng dụng đó không cần thiết và nó chiến ram với bộ nhớ quá,bởi đó là dịch vụ của nhà sản suất cài thêm vào và có thể gỡ cài đặt vậy làm thế nào để nếu khổi phục cài đặt gốc mấy ứng dụng đó không còn suất hiện nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.513428,
+         "id": "1163065",
+         "field_search": "question",
+         "question": "Ad cho tôi hỏi, ip của t khi tải ứng dụng mới trên appstore nó hiện bảng thông báo điều khoản và chính sách đã thay đổi mời đọc và nhấn đồng ý. Nhấn đồng ý xong nó lại ra mục tải lại hiển thị bảng thông báo như trên , cứ như thế mãi.còn ứng dụng gỡ rồi tải lại thì ok",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.36799,
+         "id": "1149919",
+         "field_search": "question",
+         "question": "máy mình là ip4. tải 1 số ứng dụng về nhưng nhấn vào ứng dụng thì lại bị quay về màn hình chính. có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.33695,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.3061,
+         "id": "772407",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 3s mà lên 6.1 thì có tải được các ứng dụng và game không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.234776,
+         "id": "995833",
+         "field_search": "question",
+         "question": "- Mh đag sử dụng ip6+ và cho mh hỏi là tsao khi mh tải ứng dụng trên asari về máy mh lại không thể tải đc như thế này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.160667,
+         "id": "1016675",
+         "field_search": "question",
+         "question": "Minh tải ứng dụng trên ch play về thì tải xong thì ứng dụng đó tự mở dù minh đang mỏ ứng dụng khác muốn khắc phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.14968,
+         "id": "915425",
+         "field_search": "question",
+         "question": " Sao không thể viết nhận xét trên app store trong khi đó đã tải xong và cài đặt ứng dụng thành công mà vẫn bị như vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.148952,
+         "id": "1139592",
+         "field_search": "question",
+         "question": "Em vừa mua realme c1 và có tải ứng dụng khoá màn hình, Nhưng điện thoại cứ thông báo \" Quyền trình điều khiển thiết bị đang bật, chạm để tắt \" và nếu em tắt thì ứng dụng này dùng k đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.100113,
+         "id": "995970",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua samsung j5 prime được một tuần, nhưng bây giờ chẳng may tay e ấn mạnh vào màn hình máy thì màn hình nháy liên tục và tự động chuyển( nhảy) hết từ ứng dụng này sang ứng dụng khác xong 1 lúc lại bt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.09687,
+         "id": "801201",
+         "field_search": "question",
+         "question": " Như này là sao vậy ad? Sao vẫn còn tài khoản của cửa hàng bắt buộc khi em mua ứng dụng của AppStore vậy   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.052963,
+         "id": "1022718",
+         "field_search": "question",
+         "question": "điện thoại j1 2016 của e hiển thị chế độ an toàn dưới góc trái của màn hình, e không thể mở được các ứng dụng tải về như zalo, messenger và nhiều ứng dụng khác nữa, như vậy là máy e bị làm sao ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.003918,
+         "id": "751765",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi? điện thoại iPhone 4s em mua được mấy tháng, bây giờ em truy cập vào Google Play để tải trò chơi và nhiều ứng dụng khác, nhưng khi mua điện thoại về e không biết mật khẩu ID Apple.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.981606,
+         "id": "766901",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPad mini1 của mình hiện tại đang dùng phiên bản ios 9.1 thời lượng sử dụng pin liên tục được 7 tiếng. Như vậy pin có ổn không, giờ mình lên ios 9.2 có được không. Vì có đôi khi mình sử dụng một số ứng dụng nó hay văng ra.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.90325,
+         "id": "1020526",
+         "field_search": "question",
+         "question": "Mình dùng ip5. Tại sao khi vô appstore tải ứng dụng thì tốc độ tải rất chậm dường như là ko chạy% trong khi đó mình vô ytb xem phim vẫn bt. Thế là sao ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.81529,
+         "id": "1163095",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải ứng dụng về nó hiện điều khoản và dịch...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.74597,
+         "id": "1151248",
+         "field_search": "question",
+         "question": "cho mình hỏi là trên pc Win 10, mình cài ứng dụng Bluestack, Coc Coc, và một số phần mềm khác dưới quyền Admin, nhưng khi chuyển sang tài khoản User khác thì không thấy ứng dụng đó nữa, làm cách nào để mình có thể chạy các ứng dụng đó trong tài khoản User khác mà không phải cài thêm cho nặng máy không? xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.656315,
+         "id": "810099",
+         "field_search": "question",
+         "question": "Xin hỏi hệ điều hành iOS App Store khi cài đặt ứng dụng báo lỗi \"ứng dụng này đòi hỏi phải có iOS 8.3 hoặc mới hơn bạn phải cập nhật lên iOS 8.3 để tải về và sử dụng ứng dụng này \"chỉnh lại như thế nào Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.636246,
+         "id": "1007707",
+         "field_search": "question",
+         "question": "Hiện tại em sài j5 prime, em muốn tải game về nhưng đt cứ thông báo đầy bộ nhớ trong khi đó ngoài màn hình chỉ hiện ra 1 số ứng dụng MXH như fb, mess, insta,...và cũng chỉ có 1 game. Trước đó em cũng có tải skype về sau đó đã xoá nhưng ko hiểu sao vẫn còn nằm trong mục ứng dụng và ko thể gỡ bỏ được, chỉ có nút bật và buộc dừng. Em cũng tính chuyển những ứng dụng MXH vào thẻ nhớ nhưng cũng ko chuyển được, ko có nút chuyển luôn. Vậy giờ ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.633972,
+         "id": "1023738",
+         "field_search": "question",
+         "question": "ad cho e hỏi :'sao khi cập nhật ios 11 thì tải ứng dụng nó sao sao ý??Bấm tải rồi, nó hiển thị là đang chờ, để mãi cũng đang chờ dù có một cái, bấm vào icon của ứng dụng đó thì chuyển thành đang tải chạy qua được xíu. Mà để cả buổi cũng như vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.561947,
+         "id": "776281",
+         "field_search": "question",
+         "question": " Cho hỏi xóa ứng dụng iCloud cũ và tải lại bằng iCloud mới sao không sử dụng được vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.488647,
+         "id": "814883",
+         "field_search": "question",
+         "question": "khi mình tải bất cứ ứng dụng nào về cũng bắt mình nhập tài khoản và mật khẩu mới được tải, mình mua máy 1phone 4s nhưng ko có biết tk và mật khẩu tải điền vào thì phải lấy lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.465744,
+         "id": "996970",
+         "field_search": "question",
+         "question": "Tôi dùng ip5s,khi tôi tải các ứng trên appstore xong xoá đi tải lại nó kh đòi mk hay vân tay nữa,có các nào làm khi tải ứng dụng gì cx cần vân tay kh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.422424,
+         "id": "1155921",
+         "field_search": "question",
+         "question": "Chào anh / Chị. Cho em hỏi lap của em không thể tải được ứng dụng trong microsoft store. Khi search ứng dụng cần tải là không hiện ra ứng dụng cần tìm và không cho phép tải. Anh/ chị có thể trả lời thắc mắc của em được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.39048,
+         "id": "855150",
+         "field_search": "question",
+         "question": " Mình muốn cài đặt hỏi mật khẩu khi mua ứng dụng trên AppStore trong IPad Air 2 thì làm như thế nào??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.23824,
+         "id": "725803",
+         "field_search": "question",
+         "question": "Nếu bạn đang sở hữu một Smartphone của hãng  haycó  thì bạn có thể tải ngay ứng dụng  để biến chiếc điện thoại thành Remote Tivi cực đơn giản bạn nhé. Đầu tiên, bạn vào cửa hàng CH Play tải ứng dụng  .Sau khi đã tải ứng dụng, bạn chọn mở ứng dụng  .Khi đã vào ứng dụng bạn nhấn chọn Chọn mục Chọn Bạn thử kết nối với tivi bằng cách lựa chọn thay cácNếu Model nào đã kết nối được thì bạn chọn  là hoàn thành và bạn đã có thể sử dụng Smartphone để điều khiển Tivi nhé.một số dòng điện thoại Samsung có hỗ trợ hồng ngoại như  một số dòng điện thoại HTC như Chúc bạn thực hiện thành công!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.23114,
+         "id": "799050",
+         "field_search": "question",
+         "question": " iphone 6 sau khi chạy lại ứng dụng thì bị vấn đề ở cài đặt các ứng dụng không tồn tại có thể khắc phục được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.184475,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.17355,
+         "id": "962914",
+         "field_search": "question",
+         "question": " Làm thế nào để tải ứng dụng cho iPhone 3gs mà đơn giản nhất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.166428,
+         "id": "874790",
+         "field_search": "question",
+         "question": " tại sao em không tải được ứng dụng zalo vậy ạ. phần mềm 8.1 đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.133522,
+         "id": "767993",
+         "field_search": "question",
+         "question": "Ad cho e hỏi các ứng dụng văn phòng gần giống như word, excel, powerpoint mà cửa hàng thế giới di động cài dặt miễn phí cho laptop mua tại tgdđ là ứng dụng gì vậy, làm việc có được như office 2003, 2007, .... không? nếu vào sử dụng có thể đánh chữ bằng tiếng việt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.101074,
+         "id": "1014976",
+         "field_search": "question",
+         "question": "cho em hỏi em có mua con htc 10 desire pro ak ad thì về sử dụng khi tải ứng dụng thường hiện lên lớp phủ màn hình em muốn tắt nó thì phải như thế nào ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.040157,
+         "id": "1163903",
+         "field_search": "question",
+         "question": "làm sao để bật được quyền truy cập ứng dụng khi hiện ra câu \"àm sao để tắt nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó\"? tôi đã cố gắng tìm cách giải quyết nhưng không thành, thậm chí rết cả điện thoại vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.994694,
+         "id": "1144357",
+         "field_search": "question",
+         "question": "Lỗi không tải được ứng dụng trên ch play, mã lỗi 490, ứng dụng nào cũng ko tải đượcKhắc phục như nào vậy ad, em dùng máy redmi 5 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.989857,
+         "id": "849621",
+         "field_search": "question",
+         "question": "em đang dùng Masstel N470 nè .Máy lag lắm cahyj chậm nx.tốc độ CPU chỉ cos1.GHz Ram 512mb chạy chậm lắm.! nhiều lần chơi game mà máy tự khởi động lại.chơi game khi ra ứng dụng thì thì màn hình có màu xanh đen,tý nữa bật lên lại thì vẫn màu ấy chờ một thời gian dài thì mới bật lên mạn hình đc lại.Có cách nào cho máy chạy nhanh hơn và khắc phục các lỗi đó ko? Máy đó thì có thay CPU tốc độ lớn hơn đc ko?? Và còn có một lỗi nx là khi đang chơi game hay chạy một ứng dụng thì nó cứ hiện ra cái chữ \"hiện ứng dụng ko phản hồi bạn có muốn đóng ứng dụng\" làm sao để khắc phục đây???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.95943,
+         "id": "874648",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy oppo815 máy dạo này chạy chậm và không tải được các ứng dụng do không đủ dung lượng. Vậy em nên làm thế nào để sử lý ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.949795,
+         "id": "783495",
+         "field_search": "question",
+         "question": "Xin cho em hỏi.Ứng dụng em phanh tròn màu đỏ e xoá hoài nó vẫn xuất hiện..Ứng dụng nó bị gì và cách xoá ứng dụng đó như thế nào xin tgdd giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.879772,
+         "id": "772816",
+         "field_search": "question",
+         "question": " Em dùng iPhone 5, khi vào Apple Store tải game và các ứng dụng thì máy báo lấy không thể kết nối với Apple store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.86993,
+         "id": "876685",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút: em mới mua 6 plus bên mình, các ứng dụng khác bật lên thì vẫn bính thường nhưng chỉ riêng ứng dụng facebook bật lên thì màn hình đen 1 lúc rồi mới mở đc ứng dụng ra? E đã xoá đi cài lại mà vẫn vậy? Vậy có cách nào giải quyết ko ak? Thanks ac nhiều!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.843082,
+         "id": "920468",
+         "field_search": "question",
+         "question": "Chào ad? Mình có mua iphone 6s+ cũ và khi test imei thì nó bảo là đã bị thay thế, vậy thì cho mình hỏi nếu ko unlock imei lại thì mình có update đựoc các phần mềm ứng dụng cũng như hệ điều hành ios không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.82537,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

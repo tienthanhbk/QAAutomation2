@@ -1,0 +1,801 @@
+{
+   "id_query": "789774",
+   "total": 34814,
+   "total_current": 100,
+   "max_score": 214.11232,
+   "origin_question": "Em mới mua lại 1 chiểc iPhone 5 về dùng được ít ngày thì cháu nhỏ nghịch nhập sai mật khầu .em mang ra thợ thì họ chạy lại lại phần mềm và nâng cấp lên ios9.2.1 em về sử dụng thì thấy nhiều lúc máy bị đơ và duyệt wet chậm không xem phim được .em muốn hỏi máy e đã gặp vấn đề j .bây giờ e khôi phục cài đặt thì máy có trở về phần mềm cũ được không .và khi khôi phục có bị treo không vì e không biết kiểm tra jb .máy em là phiên bản quốc tế vì em dùng được nhiều mạng .các anh giúp em",
+   "hits": [
+      {
+         "score": 82.33164,
+         "id": "764451",
+         "field_search": "question",
+         "question": "Chào anh chi ở tgdd. Em có vấn đề mong được tư vấn ạ. e mang chiếc ịphone 4s ra cửa hàng sửa chữa tư nhân cạnh nhà hạ phần mềm vì đã trót dại lên 9.0.2, thế nhưng không dc, lai làm chết máy luôn, về lại 9.0.2 cũng không được. Máy bây giờ không lên được, anh chi tư vấn giúp em xem co khắc phục được không ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.10406,
+         "id": "775742",
+         "field_search": "question",
+         "question": "Em mua máy cũ iPhone 4S dùng một thời gian máy bị treo, em chạy lại phần mềm thì iPhone bị vô hiệu hóa mà em là không nhớ mật khẩu iCloud, vậy có bẻ khóa được không và phí là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.38115,
+         "id": "1014526",
+         "field_search": "question",
+         "question": "E đang dùng oppo f1s được một thời gian và có nâng cấp phiên bản mới nhất. Nhưng do bị lỗi về nhắn tin nên e đã cài về khôi phục cài đặt gốc nhưng lại k thể xem phim trên các trang web. Vậy giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.47809,
+         "id": "928919",
+         "field_search": "question",
+         "question": "Chào anh/chị.Em mới mua máy iphone 6s hôm 19/10 vừa rồi đến nay là được 2 tháng. Cách đây khoảng 1 tháng, máy em có hiện tượng bị lỗi loa. Cụ thể là loa bị rè, phát tiếng rất to khi cắm tai nghe. Có lúc còn bị mất hẳn loa, khi goi điện thoại phải bật loa ngoài, còn nếu không thì không nghe thấy gì hoặc bị rè rất khó chịu. Em có mang máy đến Trung tâm BH thì có chị bên Bảo hành bảo em là có thể máy em bị xung đột phần mềm. Cần đặt lại cài đặt. Xong chị ấy đặt lại cài đặt cho em thì em mang về dùng ko thấy hiện tượng ấy nữa. Khoảng được 2 tuần sau thì lại bị lại. Sau khi khởi động lại máy thì lại trở về bình thường nhưng vài ngày sau lại bị lại. Hiện tại máy em đang là ios 10.0 và em ko muốn nâng cấp phần mềm. Vậy cho em hỏi máy em bị sao ạ.Em đã từng mua 1 máy 6s hồi tháng 8 vừa qua nhưng cũng bị lỗi loa rè như vậy. Và đây là cái máy thứ 2 của e cũng bị lỗi như vậy. Và máy em là máy bóc hộp mới nguyên ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.311935,
+         "id": "797717",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s về chưa được 15 ngày nhưng lên mạng máy chạy rất chậm lúc chạy được lúc không được , thử dùng nhiều wifi các chỗ nhưng vẫn như thế vậy thì e có thể xuống đổi máy khác được k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.24889,
+         "id": "998982",
+         "field_search": "question",
+         "question": "Em có có iphone 5 dùng 1 thời gian e cảm thấy nó chạy chậm lên e khôi phục cài đặt gốc và sau khi khôi phục nó không nhận đc sim nữa nó ko nhận sim thì ko cài đặt đc máy mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.35773,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.06,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.749306,
+         "id": "742925",
+         "field_search": "question",
+         "question": "Em có 1 máy iPhone 4, máy em bị hỏng và đem ra tiệm thì họ bảo lỗi phần mềm, phải chạy lại máy, khi đó điện thoại em đang dùng iCloud là  P****@iCloud.com nhưng khi em ra lấy máy thì họ bảo e nhập icloud bắt đầu bằng chữ \"c\" là c*****@icCoud.comEm có thể reset máy và nhập iCloud của e không? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.08327,
+         "id": "1135165",
+         "field_search": "question",
+         "question": "Em dùng samsung s8+ không xoay được màn hình sau khi cập nhật ạ. Em đã thử khôi phục lại cài đặt gốc rồi sau khi khôi phục thì xoay được bình thường một lúc thì lại không xoay được nữa. Em mới mua máy được 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.32913,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.25107,
+         "id": "836979",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi cách đây 1 tháng em có mua điện thoại iPhone 5s trả góp phiên bản quốc tể cách đây mấy bữa em có down trò chơi offline về thì máy hay bị đứng và trục trặc, e có lên thế giới di động  hỏi thử biết là lỗi phần mềm máy. Vậy cho em hỏi em có thể đổi máy mới được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.106,
+         "id": "1011423",
+         "field_search": "question",
+         "question": "Điện thoại A5 2016 bị khởi động lại thất thường.Em dùng điện thoại được hơn nửa năm, gần đây khi kết nối wifi lên mạng hoặc thao tác với điện thoại nhiều thì máy thường tắt nguồn khởi động lại. Có khi đang gọi điện máy cũng tự động khởi động lại. Cho em hỏi có phải lỗi do phần mềm hay virus và cách khắc phục. Em cảm ơn ạ. (Em đã mang máy ra TGDĐ　để được tư vấn và đã được nhân viên hỗ trợ nâng cấp phần mềm nhưng không hiệu quả)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.936584,
+         "id": "1024108",
+         "field_search": "question",
+         "question": "Em dùng Iphoen 6 Plus, hôm nay em có update máy lên IOS 11 nhưng vì lag giật, giảm hiệu năng máy nên em đã sử dụng phần mềm 3utool để về lại IOS 10.3.3. Nhưng khi em kích hoạt lại Iphone thì bị báo lỗi 'Khoogn thể kích hoạt iPhone của bạn vì khoogn thể kết nối với máy chủ kích hoạt\". Em sử dụng mạng wifi để active bình thường, bấm 'Thử lại\" nhiều lần nhưng vẫn không active lại máy được. Anh/chị tư vấn giúp em với, em đang rất lo lắng ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.924805,
+         "id": "780539",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em xài iPhone 5 đã jailbreak, do em không biết khi muốn gỡ phần mềm jailbreak ra khỏi máy đã bấm Cài Đặt Chung > Đặt Lại > Xóa Tất Cả Nội Dung Và Cài Đặt , bây giờ máy em bị treo táo phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.51598,
+         "id": "927247",
+         "field_search": "question",
+         "question": "Em đang xài Win 10 bản quyền có sẵn từ khi mua laptop ạ. Nhưng giờ em cài nhiều thứ quá và quản lý không tốt dẫn tới máy bị đầy và xung đột các phần mềm với nhau, dùng control panel để gỡ thì không hết sạch được và còn bị đơ khi uninstall.Em muốn dùng chức năng Reset PC là một cách rất tốt, nhưng không biết dùng xong thì win 10 bản quyền có bị mất hay thiếu thốn gì không ạ?Mong các anh chị tư vấn sớm giúp em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.9146,
+         "id": "991873",
+         "field_search": "question",
+         "question": "lúc mua máy là ios 9, giờ e đã nâng cấp lên mới nhất thì khôi phục cài đặt gốc có về ios 9 k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.93067,
+         "id": "1160161",
+         "field_search": "question",
+         "question": "Máy em cài đặt phần mềm Unikey bảng gõ tiếng việt nhưng phần mềm làm cho máy chậm và có nhiều lúc em gõ nó không theo chính tả mà nhảy chữ lum la. Em không gở cài đặt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.86443,
+         "id": "841487",
+         "field_search": "question",
+         "question": "hôm bữa em có mua cái laptop . về thì em có tải trên mạng về tệp tin nâng cấp win 10 home của em thành win pro . nhưng chỉ được 15 ngày thôi . sau 15 ngày thì máy em có 1 ít lỗi. như hiện cái thông báo nhập produckey khác . không tải được ứng dụng trong stone. nên em đặt lại máy . giờ mất key win home,office và diệt vi rút . bây giờ em nên làm gì để trở lại như trước ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.86428,
+         "id": "1016217",
+         "field_search": "question",
+         "question": "Em mua nokia3 được 15 ngày .nhưng giờ cứ cắm sạc là điện thoại đơ .lúc thì vào phần biết tin nhắn nhảy loạn xạ .em khôi phục cài đặt gốc cũng không được .vậy em đổi trả máy khác có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.48794,
+         "id": "992611",
+         "field_search": "question",
+         "question": "Máy e đang sài là ip6s. Sau một thời gian tìm hiểu về những tính năng mà ios11 đem lại thì e mới thử nâng cấp lên xem sao. K ngờ thì hậu quả để lại là máy bị đơ và khó sài quá,e muốn phát điên lên mất. E có nghe nói là mình có thể kết nối với máy tính và tải phần mềm gì đó về để có thể kéo lại xuống ios 10.3.2 được. Cho e hỏi TGDĐ có thể giúp e đc k ạ??Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.3933,
+         "id": "1017802",
+         "field_search": "question",
+         "question": "cho em hỏi là e dùng máy oppo f1 plus, sau khi khôi phục cài đặt gốc, cài lại apps thì có messenger bị lỗi load không được, có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.34447,
+         "id": "796537",
+         "field_search": "question",
+         "question": "iphone 4s của em mới mua dùng được một thời gian thì cứ thấy yêu cầu cài đặt phần mềm gì đó em không nhớ.em đồng ý cài đặt sau đó máy bị treo hoàn toàn,như vậy là bị thế nào,sửa chữa ra sao và chi phí nhiều không ạ.Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.93148,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.78749,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.58351,
+         "id": "992598",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại phần mềm ban đầu mà mình chưa cập nhật vì máy bị giật, lag thì làm như thế nào ạ?em dùng iPhone 5s 16G Chính hãng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.58167,
+         "id": "760465",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi là em có 1 máy tính bàn chạy hệ điều hành Windows 8 em nâng cấp lên WIndows 10 thành công rồi em xóa phiên bản cũ bây giờ em khôi phục cài đặt gốc ( Xóa toàn bộ tệp tin) như vậy có vấn đề gì không qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.49779,
+         "id": "796925",
+         "field_search": "question",
+         "question": "Em muốn quay một bộ phim ngắn bằng con iphone 6s.. nhưng không biết dùng phần mềm quay phim nào chuyên nghiệp nào...ATV có thể tư vấn giúp e vài phần mềm được không?? E cám ơn nhiều!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.33564,
+         "id": "841404",
+         "field_search": "question",
+         "question": "cho em hỏi chút ạ. e đang sử dụng máy Laptop Lenovo IdeaPad 100S 11IBY Z3735/2GB/32GB/Win10 mua bên hàn quốc , em muốn cài word, excel, unikey để em dùng thì có cài được không ạ, hay máy tính này có thể cài hẳn về tiếng việt với các chức năng trên không ạ. nếu được thì em mang tới địa điểm nào ạ. thế giới di động có được không ạ. em đã mang ra quán sửa máy tính nhưng họ bảo máy tính của em không có ổ cứng nên không cài được ạ. nếu em biết không cài được như thế thì em cũng không mua. mong các anh chị giải đáp giúp em với ạ. Chân thành em cảm ơn các nh chị nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.3303,
+         "id": "756549",
+         "field_search": "question",
+         "question": "Cho em hỏi iPad của em quên mất iCloud và bây giờ không mở máy được, vậy nếu em mang lên TGDD anh chị giúp em được không ạ? Máy phiên bản quốc tế ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.16466,
+         "id": "813012",
+         "field_search": "question",
+         "question": "Em đang dùng máy tính bàn ASUS , hôm nay khi em đang dùng thì mấy hơi đơ nên em tắt máy đi nhưng khi bật nên thì màn hìn tối không nên được , em bật lại mấy lầ nhưng đều không lên .Cho em hỏi máy em gặp vấn đề gì và khắc phục ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.16001,
+         "id": "836761",
+         "field_search": "question",
+         "question": "Máy mình là máy Lenovo a7010 . Mình mới nâng HDH từ 51 lên 6.0 .Thì thấy không chơi được nhiều game nữa, và máy nhanh nóng. Mình muốn cài đặt về 5.1 thì phải làm sao? Mình khôi phục cài đặt thì nó vẫn ở 6.0.😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.12406,
+         "id": "761896",
+         "field_search": "question",
+         "question": " Em bị mất iPhone 5 em có cài iCloud. Bây giờ em muốn khoá máy lại nhưng họ chưa bật mạng thì có khoá được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.113785,
+         "id": "988561",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy a9 pro của em lúc mới mua về em xóa ảnh thì ngày mai nó khôi phục lại còn bây giờ xóa ảnh tại sao không khôi phục lại nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.04559,
+         "id": "1140248",
+         "field_search": "question",
+         "question": "Chào QTV, laptop asus em mua ở cửa hàng mình được 1 năm nhưng giờ chạy rất chậm thì em mang ra cửa hàng xem máy giúp em gặp vấn đề gì được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.91577,
+         "id": "765186",
+         "field_search": "question",
+         "question": "Hiện tại em có iphone 5s máy lock bây giờ em muốn chuyển lên bản Quốc tế thì làm như thế nào ạ và khi chuyển lên có phải nâng cấp không và máy dùng có ổn định không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.870415,
+         "id": "995945",
+         "field_search": "question",
+         "question": "em có 1 chiếc iphone 6s không hiểu sao e khôi phục lại thì bị treo iphone ở màn hình. báo kết nối với itune dù khôi phục lại nhiều lần cũng không được.máy cũng không lên màn hình sử dụng như bình thường nhờ anh chị giup em với em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.81054,
+         "id": "760788",
+         "field_search": "question",
+         "question": "Dạ em đang sử dụng 1 cái iphone 4 phiên bản 7.1.2 và một cái iphone 4s phiên bản 8.2 . Không biết máy em có thể jailbreak bằng phần mềm nào dễ nhất vậy vì em có máy nhà admid giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.61819,
+         "id": "910822",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tí. E vừa nâng cấp phần mềm 10.1.1 cho iPhone 5s mà máy dùng lag Và chậm tiêu hao pin nữa. Giờ e mun nâng cấp cún lại phần mềm cũ được ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.56761,
+         "id": "740015",
+         "field_search": "question",
+         "question": "EM dùng iphone 5 ,đã jaibreck sau khi em xóa tất cả và đặt lại thì máy bị treo táo Ad có thể hướng dẫn em cách khắc phục được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.55175,
+         "id": "1022148",
+         "field_search": "question",
+         "question": "em đặt lại máy và các phần mềm word, excel, power point bị mất đi, có thể hướng dẫn em cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.47608,
+         "id": "840418",
+         "field_search": "question",
+         "question": "Mình sử dụng máy Laptop Asus X553M Win8.1 with Bing. Có cài đặt Bitdefender và gói Office 365 mua tại TGDĐ. Hiện tại, mình muốn khôi phục lại máy vì máy có hiện tượng chậm. SỬ dụng chế độ khôi phục giữ lại các tệp cá nhân thì nó vẫn xóa đi các phần mềm khác như Bitdefender và Office 365. Vậy cho mình hỏi, mình muốn giữ lại hai ứng dụng này (nếu giữ lại được tất cả ứng dụng thì càng tốt) thì mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.459015,
+         "id": "794445",
+         "field_search": "question",
+         "question": "Mình mới mua cái ip 5s 16gb mới 100% giá 8tr490 tại thế giới di động . về thì bị đơ máy , khóa màn hình thì bị nháy lên 1 cái mới tắt . Lỗi phần mềm . ra thế giới di động làm đủ cách : khôi phục cài đặt gốc . chạy lại máy , reset máy , nhưng chỉ hết lúc đó mang về nhà xài lại bị tiếp . làm sao để đổi máy khác dc .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.31027,
+         "id": "822904",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang dùng Iphone4 máy vẫn dùng bình thường nhưng đã có tài khoản Icloud. Tài khoản đó không phải là của em, giờ em muốn khôi phục lại cài đặt có khôi phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.91137,
+         "id": "898177",
+         "field_search": "question",
+         "question": "AD cho em hỏi. e có 1 tk icloud đăng nhập trên ip5s. e mua 1 chiếc ip6 về. e reset ip6 và khôi phục ip6 bằng icloud. giờ 2 ip đã giống hệt nhau. em nhận được thông báo nhập mật khẩu icloud. e vào cài đặt và nhập xong thì cả 2 ip bị đẩy ra và yêu cầu nhập id passwuod. e nhập vào thì nó báo không đúng. trong khi e không thay đổi mật khẩu icloud, e bị 2 lần rồi, mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.87576,
+         "id": "927652",
+         "field_search": "question",
+         "question": "Em sử dụng máy samsung galaxy tab 4.7 t231 vừa rồi em root được và dùng phần mềm root explorer để xóa các tệp không cần thiết của hệ thống để máy có bộ nhớ nhiều hơn nhưng em lại xóa nhầm tệp của hệ thống bây giờ mày hiện lên dòng chữ tiến trình com.android.systemui đã dưng và không vào được màn hình chính,em đã hard reset và vào đến phần cài đặt ngôn ngữ thì không vào được nữa,em đã thử cài lại rom qua odin nhưng máy không nhận cáp usb nên em đã cài rom qua thẻ nhớ ngoài những máy vẫn báo lỗi không cài được.vậy mong các pro nào biết chỉ giúp em với em xin chân thành cảm ơn.số điện thoại của em:0167436xxxx.gmail:parksoora88@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.79221,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.7431,
+         "id": "872993",
+         "field_search": "question",
+         "question": "Chào anh chị, em có điều lo sợ về iphone 5 của em, em muốn nhờ anh chị giúp em ạ. Iphone em hay dùng 3G, lúc đầu mua về thì khi em cài 3G bật lên thì vẫn dùng bình thường, nhưng dạo 2 tháng nay. Mỗi khi em cài 3G, bật dữ liệu di động lên thì không hiện thấy, thế rồi cứ tắt nguồn bật lên thì hiện. Mà dạo này em tắt nguồn rồi bật nguồn, phần nút mở máy trên đầu càng ngày bị lờn đi, có khi bật máy lên không được, phải ấn mạnh mới lên. Thậm chí giờ tắt nguồn bật lên cũng khó khăn lắm. Em lo lắm anh chị ạ, xin hãy giúp em làm sao khôi phục lại lỗi 3G bất thường này ạ. Em cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.70117,
+         "id": "814486",
+         "field_search": "question",
+         "question": "Cách đây 1 tháng e có mua máy tính xách tay hiệu HP dòng Stream 13, màu hồng với giá 4.990.000. Sau 1 tháng sử dụng e cảm thấy không thích lắm, phần vì dung lượng ít, và phần vì lâu lâu máy hay bị giật nhẹ. Cho em hỏi giờ em muốn bán máy lại cho TGDĐ có đc không? Và trả bao nhiêu phần trăm tiền cho em?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.31588,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.00473,
+         "id": "838359",
+         "field_search": "question",
+         "question": "các anh cho em hỏi, em dùng laptop asus GL552JX i7, mà em muốn dùng win 10 mà khi cài xong và cài driver xong thì màn hình bị bể định dạng, cho dù em có cho về định dạng nhỏ nhất thì khi tắt máy rồi mở lại nó chuyển về như khi mới cài win xong. ai có cách nào khắc phục được tình trạng này không? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.9402,
+         "id": "819523",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước em có tải ảnh từ máy tính thông qua itools vào điện thoại iphone 6, bây giờ em muốn xóa mà không xóa trên đt đc, đã mang ra cửa hàng dùng phần mềm kết nối với máy tính để xóa ảnh, khi đó điện thoại báo đã xóa được hình ảnh ra khỏi máy rồi, em vào máy kiểm tra cũng không còn thấy hình nữa, nay điện thoại lại trở về những ảnh đó như cũ, chưa được xóa hình nào cả. Em không có sử dụng tài khoản icoud? Xin hỗ trợ giúp em có cách nào xóa vĩnh viễn những hình đó không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.887054,
+         "id": "996432",
+         "field_search": "question",
+         "question": "Cho em hỏi , điện thoại em là j7 prime , tại sao em tải phần mềm về thì nó chỉ hiện lên màng hình chờ không có ở màn hình chình giờ muốn gở cài đặt thì vào CHPlay để tìm tên ứng dụng đó mới gở cài đặt được . Trong khi đó lúc trước máy em không có bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.796974,
+         "id": "762750",
+         "field_search": "question",
+         "question": "Em đang xài Laptop Dell lúc trước em đã tạo tài khoản mirosoft và tải ứng dụng về máy được,nhưng ngần đây lên cửa hàng tải ứng dụng về thì tài khoản mirosoft lại báo tải về không được,nó cứ báo lỗi. Em cũng thử đăng xuất,đăng nhập lại mà vẫn không được. Ngày giờ kiểm tra thiô bẫn đúng.Xin QTV giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.68586,
+         "id": "1153632",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng samsung j7 pro. em tải hình ảnh từ google về máy nhưng khi em vào file mở thư mục tải về ra thì không xem được ảnh. Em đã thử tải lại và khởi động lại máy vẫn không mở được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.63167,
+         "id": "753850",
+         "field_search": "question",
+         "question": "QTV cho em hỏi. Em đang sử dụng laptop Acer Aspire E5 571 core i5 4210U CPU 1.70 GHz  2.40 GHz, mua tại TGDD. Lúc mua cài sẵn win 8.1 Single Language bản quyền . Sau đó em update lên win 10 và dùng một thời gian thấy nó rất chậm và hay bị đơ . Bây giờ em muốn cài lại win 7 thì làm thế nào ạ? Và sau khi cài lại có bị mất bản quyền win không? Vì máy em không có bản backup win 7. Rất mong được sự tư vấn của A/C kỹ thuật. Em xin trân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.58969,
+         "id": "737482",
+         "field_search": "question",
+         "question": "Em quên mật khẩu iCloiud của 4s nhưng máy vẫn nhập icloud em quên mật khẩu. Sau đó máy em bị vô hiệu hoá . Anh cho em hỏi em đã thay đổi lại mật khẩu icloud đó bằng mật khẩu mới . Vậy khi em chạy lại phần mềm thì máy bắt buộc nhập mật khẩu icloud thì em có nhập được mật khẩu mới để mở máy hay không. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.588486,
+         "id": "790899",
+         "field_search": "question",
+         "question": "Em có máy iPhone 5:cho em hỏi là sao em nâng lên iOS 9.2 thì wifi kém và chập chờn ạ có về được bản 8.1 hay nhỏ hơn 9 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.48129,
+         "id": "1147072",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em dùng con 6sp quốc tế , em muốn chạy lại phần mềm thì có bị ảnh hưởng gì hk ! Có bị khoá mấy ko ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.39378,
+         "id": "832711",
+         "field_search": "question",
+         "question": "em moi khôi phục cài đặt gốc cho đt, máy yêu cầu nhập mật khẩu ID APPLE và mật khẩu cloud, em thực hiện thao tác nhưng máy báo ID APPLE không đúng, trong khi đó e kiểm tra CLOUD của em là chính xác , Mng được tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.27115,
+         "id": "775945",
+         "field_search": "question",
+         "question": " Em đang dùng ipad Air 2 và lỡ tay xoá camera360, giờ em muốn khôi phục lại phần mềm này thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.24248,
+         "id": "1143049",
+         "field_search": "question",
+         "question": "điện thoại e dùng là oppo a83. e mang qua hàn quốc dùng thì 1 tháng đầu vẩn bình thường. sau thì nó tự chuyển qua ip hàn quốc luôn, e khôi phục lại mở lên nó vẩn tự chuyển qua ip hàn, giờ em lên ch play toàn game hàn thôi. làm sao để máy về nhưu cũ  hả ad. e đã dùng mọi cách fake ip về việt nam những vẩn k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.23152,
+         "id": "807893",
+         "field_search": "question",
+         "question": " Máy em chạy lại phần mềm xong em quên mật khẩu iCloud không vào được máy sao giờ giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.19637,
+         "id": "1145006",
+         "field_search": "question",
+         "question": "+ tôi muốn cài phần mềm win bản quyền thì bao nhiêu tiền, và khi tôi đổi sang máy tính khác thì tôi có dùng được phần mềm bản quyền đó nữa ko?+ và cài phần mềm office bản quyền thì bao nhiêu tiền , khi đổi sang máy tính khác có dùng lại phần mềm đó được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.1442,
+         "id": "891261",
+         "field_search": "question",
+         "question": "TGDD cho em hỏi.Em mua Ip5s chưa được 1 tháng ,mà về dùng thấy sạc nhanh đầy pịn và cũng rất nhanh hết pin.Với lại khi sạc thì máy rất nóng.vậy em hỏi nếu máy em bị như thế thì có đổi máy mới được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.10181,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.06304,
+         "id": "1154740",
+         "field_search": "question",
+         "question": "Em có cài đặt ứng dụng driver booster 6.3 sau đó cập nhật driver cho máy. Sau khi cập nhật xong thì máy em bị mất mạng, mất âm thanh, chuột không di chuyển được và em cũng không biết còn bao nhiêu lỗi nửa nhưng trước mắt có 3 lỗi nghiêm trọng như v. Dùng trình tự sửa lỗi của máy cũng không fix được. Trước khi cập nhật driver em không sao lưu driver nên không quay về bản cũ được giờ lại không có mạng nửa. Có cách gì để giúp em không ạ. Em cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.94364,
+         "id": "935963",
+         "field_search": "question",
+         "question": "em có down window7backgroundchager vào năm ngoái để dùng khá tốt. nhưng năm nay khi em muốn thay đổi lại thì nó không dùng đc nữa và em đã uninstall app đi bằng program and feature. Nhưng khi em down lại app đấy và cài đặt thì app không cài được và báo 1 trong các phần mềm vẫn đang chạy sẵn, đúng là khi em bật máy thì cái ảnh em đặt từ năm ngoái vẫn giữ nguyên.. Vậy phải làm thế nào để cài lại app đấy ạ /?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.94082,
+         "id": "1142661",
+         "field_search": "question",
+         "question": "Máy Lumia 730 vào facebook ở web và ứng dụng bị vănh ra mang máy ra tiệm chạy lại phần mềm sài được lúc giờ lại bị văng ra.trong lúc văng ra có báo tải ứng dụng nhưng vào cữa hàng tìm không có facebook để tải.mong anh chị giải đáp giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.89483,
+         "id": "1167762",
+         "field_search": "question",
+         "question": "E đag dùng Xiaomi remid note 5 bản quốc tếE đã nâng lên Android P 9.0 betaBh em muốn về lại 8.1 global có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.82779,
+         "id": "1024275",
+         "field_search": "question",
+         "question": "mình dùng máy tính dell vostro i3 sau khi tắt máy mở lại thì ngày giờ bị trở lại năm 2010 nếu không cài đặt ngày giờ lại thì không thể bắt wifi là sử dụng mạng đc cho hỏi máy mình bị sao và cách khắc phục nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.71646,
+         "id": "1013241",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng Oppo F3 Plus, em muốn cài đèn flash cho tin nhắn và cuộc gọi nhưng không được. Em có tải 1 số phần mềm nhưng chỉ đk 1 ngày lại phải vào cài đặt lại, ad có thể hướng dẫn e được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.6928,
+         "id": "946203",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 prime đang dùng lại bị treo máy k tắt nguồn được, máy đơ có phải lỗi phần mềm lớn k ạ. Cho e hỏi cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.62457,
+         "id": "782344",
+         "field_search": "question",
+         "question": "Iphone 4S của em em mới cài đặt Asphalt vào, ( trước vẫn chạy như trâu và chắc chắn vẫn chạy được) rồi bị đơ một lúc do em bật nhiều chương trình quá, sau đó em tắt màn hình rồi bật lại nhập mật khẩu bình thường thì thấy máy treo, như bình thường vẫn làm em lại tắ màn hình để nhập lại tuy nhiên máy không hiện lên gì nữa, cắm vào máy tính vẫn hiện bình thường như thế này là xung đột phần mềm đúng không ạ, em cần phải làm gì để thoát khỏi tình trạng này, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.621284,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.57626,
+         "id": "764623",
+         "field_search": "question",
+         "question": "các bác cho em hỏi cái.em đang dùng iPhone 5s lock nhật.e lỡ xóa hết cài đặt khi khởi động treo máy.e có làm theo hướng dẫn là restore lại máy.các bước làm ok đến chỗ khôi phục nó báo là khôi phục và sao lưu đên phiên bản ios 9.2.e đang dùng 8.4 e muốn giữ máy ở 8.4 thì phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.560455,
+         "id": "994031",
+         "field_search": "question",
+         "question": "Xin cho em hỏi về virus trên MacBook pro.Chị em có 1 cái MacBook pro nhưng ko biết nhiều về máy tính nên tải+cài cái này, cái kia về, nên giờ máy xuất hiện nhiều file lạ trên màn hình.Chị em đã để máy như vậy rất lâu rồi (khoảng hơn 6 tháng rồi, vì thấy tùm lum trên máy tính hết nên mới hỏi em, từ đó em mới biết)Xin cho em hỏi - nếu em reset về cài đặt gốc liệu có hết virus hay không ạ?- liệu để virus lâu trên máy tính như vậy, đã có hư hỏng phần mềm/ phần cứng gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.53284,
+         "id": "1022228",
+         "field_search": "question",
+         "question": "Admin ơi, vì máy chậm nên em có xem hướng dẫn là reboot system gì đó để máy về lúc mới như sản xuất. Máy s3 của e cũng cũ nên chạy chậm. E làm như trong bài có chỉ thì bây h nó lại hiện cái thôg tin che màn hình  và khi tắt màn hình bật lại thì nó chạy vô màn hình chính =>> màn hình khóa không hoạt động. Làm ơn giúp em với huhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.49226,
+         "id": "754388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Trước em dùng iphone4 có tài khoản icloud. Bây giờ em dùng sang ip5 e chuyển dữ liệu icloud từ ip4 sang ip5. Bây giờ hiện tại thì máy em đang có 2 bản sao lưu 1 của máy cũ và 1 của máy mới em đang dùng. Mà em muốn xoá dữ liệu của bản sao lưu trước đây vì khi chuyển sang máy mới  em muốn sao lưu lại các dữ liệu mới thì ko được vì bản sao lưu của ip cũ đầy rồi. Vậy ad cho me hỏi em xoá bản sao lưu cũ đi liệu có mất danh bạ ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.487724,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.48486,
+         "id": "777203",
+         "field_search": "question",
+         "question": "mình dùng 5s lên 9.1 thì bị treo phần điện thoại.muốn gọi điện thì phải vào dạnh bạ để gọi.mình đã khởi động lại máy và cài đặt lại cài đặt gốc nhưng vẫn bị.máy mình mua cũ của người khác vậy mình muốn mang máy lên TGDD để kỹ thuật viên kiểm tra giúp mình có được ko vậy add.cảm ơn add nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.478905,
+         "id": "774567",
+         "field_search": "question",
+         "question": "khi em quyên mật khẩu khoá màn hình và sau khi nhập quá nhiều lần iPhone 5s 16g không còn báo nhập mật khẩu nữa em đã đi chạy lại phần mềm và giờ iPhone của em hỏi nhập tài khoản iCloud để kích hoạt iPhone. Em bị quyên tài khoản va mật khẩu iCloud nên ko biết cách nào để kích hoạt lại iPhone của minh. Hỏi a chị xem có cách nào để kính hoạt lại được iPhone của e ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.3511,
+         "id": "790173",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em bị khoá tài khoản icloud do nhập sai nhiều lần vì ông anh ko nhớ mật khẩu. Giờ e cầm lại máy thì e biết mật khẩu nhưng không mở khoá tài khoản đc. Câu hỏi bảo mật thì khi lập tk thì e lại ghi linh tih nên giờ không nhớ. Vậy e có cách nÀo mở khoá tài khoản lại ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.31006,
+         "id": "1023702",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút em sử dụng ứng dụng google photo để lưu ảnh được nhiều nhưng e mới lưu được 1 nửa số ảnh thôi dung lượng của Google photo thì còn nhiều, khi em tải tiếp lên thì máy báo lỗi không tải lên phương tiện được. Em đã tắt máy đi khởi động lại mà vẫn không thực hiện được, ad giúp em với ạ. Máy em dùng là samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.30436,
+         "id": "825783",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi là Reset lại máy Iphone 5 mà đang chạy 9.3 thì nó có khôi phục lạo IOS cũ không anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.22396,
+         "id": "970755",
+         "field_search": "question",
+         "question": " Em bị treo itunes đơ máy giờ phải làm sao mới khôi phục máy lại bình thường được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.193504,
+         "id": "841184",
+         "field_search": "question",
+         "question": "TREO MÁYChào mọi người, mong mọi người cho em xin ý kiến ạ.Em có 1 máy laptop ASUS P550LDV i5 4G 4210U. Trước giờ em sử dụng hay bị lỗi treo máy. Lúc không treo thì vài tháng vẫn không thấy theo, nhưng khi đã treo thì ngày treo mấy lần.Em thấy trên internet có nhiều trang họ bảo khắc phục bằng cách tắt bớt ứng dụng và mở task manager lên.... nhưng thực tình thì em toàn phải tắt máy bằng cách giữ nút nguồn. Nguyên nhân là khi máy em treo thì không sử dụng được bất kì phím nào kể cả sử dụng chuột. Nó giống như dạng chụp ảnh màn hình vậy đấy.Em có dùng 1 số ứng dụng của MS để test lại đĩa cứng thì thấy vẫn tốt. Virut thì em quét thường xuyên. Em lo ngại là do cây RAM mới gắn thêm của em.Lần trước do đi công tác xa, máy em nóng do keo tản nhiệt đã lâu, em đã tự thay keo nên giờ không còn bảo hành chính hãng nữa. Giờ muốn kiểm tra máy thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.17879,
+         "id": "828429",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài đặt 3G trên iphone! Nhưng khi cài đặt xog thì vô facebook không được, vô bất kì trình duyệt web nào cũng k được! E thử mượn máy nhỏ em thì lại vô được! Cho e hỏi nguyên nhân vì s máy e k vào đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.03077,
+         "id": "1150831",
+         "field_search": "question",
+         "question": "E đang dùng iphone 5s đang ở bản ios 10.2.1 pin mới thay độ chai pin 0% Máy có chơi game liên quân mobile gặp tình trạng đánh đc 1 trận lại tự thoát ứng dụng và phải vào lại game để đánh trận khác E muốn chạy lại phần mềm cho máy để nó lên ios 10.3.3 được không ạ và giúp e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.007385,
+         "id": "926156",
+         "field_search": "question",
+         "question": ". Cho em hỏi, em dùng máy tính nhưng em lỡ xóa các file (cụ thể hơn là hình ảnh) thì bây giờ có phần mềm nào khôi phục hình ảnh em đã xóa không ạ (cụ thể là ảnh đã xóa vĩnh viễn). Em dùng Win7, xin cám ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.98752,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.97764,
+         "id": "1163676",
+         "field_search": "question",
+         "question": "laptop của em sặc đến 60% thì không sặc được nữa. em kiểm tra cục sạc và coi lại các cài đặt trong máy thì không thấy có có vấn đề gì ạ. cho em hỏi là laptop của của em bị gì ạ? có phải pin bị hư không ạ?em xài máy HP, hệ điều hành win10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.93389,
+         "id": "1023733",
+         "field_search": "question",
+         "question": "Anh/ c cho e hỏi: em mua iphone 6 64g trả góp tại của hàng thế giới di động nhưng về kiểm tra imei thì e thấy máy đã được kích hoạt và hết hạn bảo hành của apple rồi.Em muốn mua máy mới chứ k phải máy cũ. Bây giờ e muốn đổi sang máy khác được k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.92086,
+         "id": "782099",
+         "field_search": "question",
+         "question": "Em có mua laptop Dell inspiron 3543 RAM 4G ở shop và đã được cài sẵn win 8.1 bản quyền sau đó thì em có up lên win 10. Cách đây vài ngày em có cài bản win 7 professional mà là bản 32 bit nên em thấy rất phí RAM. Vậy bây giờ cho em hỏi là em mang máy ra shop thì shop có thể cài lại bản win cũ được không ạ ?. Nếu được thì mang ra chi nhánh nào cũng được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.83146,
+         "id": "831995",
+         "field_search": "question",
+         "question": "Em hiện đang dùng iphone 4s phiên bản 9.2 ạ. Nhưng e sạc pin vẫn có tia sét tức là thông báo đã sạc, nhưng lúc thì tăng % pin lúc thì chỉ sạc được 87% và không đầy được đến 100%. Vì sao lại thế ạ? Liệu có phải máy e bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.6787,
+         "id": "1022638",
+         "field_search": "question",
+         "question": "cho em hỏi là em dùng app mp3 cũ vì cái mới em không xài được nhưng đăng nhập nó kêu không kết nối máy chủ gì đó trong khi đó thì wifi full lun cực mạnh mà hk được em đã xóa đi cài đặt lại kiểm tra wifi mà cũng không được mong add giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.67328,
+         "id": "989182",
+         "field_search": "question",
+         "question": "Máy e đã jb và e không biết nghịch vào ifile gì và bây giờ không bật được 3g . Mong ad có thể chỉ giúp e cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.59361,
+         "id": "815387",
+         "field_search": "question",
+         "question": " Em đang dùng Iphone 5S . Em đã nâng cấp nên 9.3 bây giờ e muốn hạ về 9.2.1 có được không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.58721,
+         "id": "846705",
+         "field_search": "question",
+         "question": "cho em hỏi các anh chị câu hỏi là. laptop hp của em nó tại cái gae gì đấy về máy thì được nhưng mà cài đặt thì gặp vấn đề.cho em hỏi có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

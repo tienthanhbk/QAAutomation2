@@ -1,0 +1,801 @@
+{
+   "id_query": "1163053",
+   "total": 32336,
+   "total_current": 100,
+   "max_score": 67.613785,
+   "origin_question": "Chào bạnBạn có thể tư vấn cho mình giá thay pin điện thoại iphone 6 16G tại cửa hàng mình được không?",
+   "hits": [
+      {
+         "score": 32.30024,
+         "id": "1135793",
+         "field_search": "question",
+         "question": "chào bạnbạn có thể gửi cho mình báo giá của điện thoại samsung j2 prime được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.24495,
+         "id": "1005010",
+         "field_search": "question",
+         "question": "Cửa hàng mình có dịch vụ thay pin cho điện thoại iphone 5s không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.835768,
+         "id": "1163084",
+         "field_search": "question",
+         "question": "Xin chào!!! Bạn có thể tư vấn cho mình được không ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.627836,
+         "id": "999390",
+         "field_search": "question",
+         "question": "chào cửa hàng, cửa hàng cho hỏi bên mình có thay pin cho 6s không và có thay thì thay ở đâu? mình hiện ở tx sơn tây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.534868,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.507492,
+         "id": "1134749",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn thay pin điện thoại iphone 5, cửa hàng bên các bạn có dịch vụ này không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.463097,
+         "id": "1006606",
+         "field_search": "question",
+         "question": "xin chào! ad cho hỏi bên cửa hàng có thay pin cho điện thoại Sony C3 ko? nếu có thì giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.455078,
+         "id": "997211",
+         "field_search": "question",
+         "question": "cho em hỏi là bên mình có hỗ trợ thay pin chính hãng iphone 5s 16G không ạ? Điện thoại không phải mua tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400646,
+         "id": "1006389",
+         "field_search": "question",
+         "question": "tư vấn cho mình điện thoại giá dưới 5tr trả góp 0 chơi game mượt pin trâu được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.889606,
+         "id": "1150082",
+         "field_search": "question",
+         "question": "Cục xạc iphone 6 bên mình giá như thế nào ạ.Co thể tư vấn cho em đucợ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.37004,
+         "id": "757370",
+         "field_search": "question",
+         "question": " AD ơi cho mình hỏi tại cửa hàng TGDĐ có thay được màn hình iPhone 5 không? Và giá khoảng bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.072943,
+         "id": "997417",
+         "field_search": "question",
+         "question": "Em muốn mua máy laptop cho nhân viên văn phòng dùng. tầm giá 6- 8 triệu . Số lượng 6-8 máy. Cửa hàng tư vấn cho mình với ạ.Email. : hcns.hcm.anmac@gmail.comSDDT của  em hiện tại không dùng được. nên  không cho mình thông tin được, Mong sớm nhận được hồi âmTrân trọng,!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.817226,
+         "id": "845873",
+         "field_search": "question",
+         "question": " Chào TGDđ , mình mua ip 5s tại cửa hàng cách đây 6 tháng , mình muốn bán lại cho cửa hàng có đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.789745,
+         "id": "1159828",
+         "field_search": "question",
+         "question": "Cho mình hỏi về vấn đề trả góp điện thoại nova i3 tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.457487,
+         "id": "1149556",
+         "field_search": "question",
+         "question": "Mình  muốn  mua  latop giá  tầm  5  6 triệu chơi  gam tốt Có  thể  tư  vấn  cho mình  k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.279016,
+         "id": "1161896",
+         "field_search": "question",
+         "question": "Cửa hàng mình có thay pin xiaomi redmi 6 không ạ . Pin máy em sạc rất lâu vô",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.207146,
+         "id": "748014",
+         "field_search": "question",
+         "question": " Cho hỏi, Cửa hàng của mình có thay pin cho iPhone 5 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.071764,
+         "id": "1018496",
+         "field_search": "question",
+         "question": "Cho e hỏi mình có thể thay pin mới cho điện thoại tại thegioididong không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.87711,
+         "id": "1004445",
+         "field_search": "question",
+         "question": "cho mình hỏi! mình mua 1 chiếc điện thoại tại thế giới di động hiệu HTC butterfly S mà bây giờ bị chai pin. Mình có thể thay pin được không, nếu thay thi giá pin là bao nhiêu. mong Add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.86272,
+         "id": "755979",
+         "field_search": "question",
+         "question": "Cho mình hỏi hôm qua mình có đặt hàng chiếc iPhone 6 16g tại TGDD Gia Nghĩa hôm nay vào hok thấy nữa không biết còn hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.838285,
+         "id": "1135412",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 6mình cảm giác pin của điện thoại hơi kém. mình nghe nói có chương trình thay pin giá ưu đãi. không biết tggd có chương trình này không và nếu thay pin cho iphone 6 thì giá cả như thế nào, thời gian bao lâu, bảo hành ra sao?Nếu được thì mình mang qua để thay luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.412127,
+         "id": "1154563",
+         "field_search": "question",
+         "question": "chào bạn, bạn có thể tư vấn dùm mình về laptop dành cho học sinh sinh viên được không vậy? tại mình muốn mua lap nhưng không rành lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.355892,
+         "id": "1001004",
+         "field_search": "question",
+         "question": "Pin điện thoại qmobi vista của em bị nở vậy có thể nhờ cửa hàng chuyển vào hãng để thây pin được không ạ. Điện thoại mua ở cửa hàng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.319338,
+         "id": "759945",
+         "field_search": "question",
+         "question": " Cho em hỏi tí ad, iPhone 6 của cửa hàng mình bán xuất xứ từ những quốc gia nào vậy ad? Tư vấn giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.28054,
+         "id": "1004291",
+         "field_search": "question",
+         "question": "Khi là khách hàng thân thiết vậy mua điện thoại tại cửa hàng có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.19584,
+         "id": "1007814",
+         "field_search": "question",
+         "question": " Chào Ad, cho mình hỏi hiện tại Iphone 6 64G Pin chai 3  thì giá bao nhiêu.  Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.13865,
+         "id": "794559",
+         "field_search": "question",
+         "question": " Cho mình hỏi hiện tại cửa hàng còn iphone 6 phiên bản 128GB không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.137074,
+         "id": "994525",
+         "field_search": "question",
+         "question": "Chào TGDD mình có con iphone 5s. Mình muốn thay pin cho nó bên TGDD có hỗ trợ thay pin không nhỉ. Mình có thể tới đâu để thay được nhỉ. Mình cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.999828,
+         "id": "1154289",
+         "field_search": "question",
+         "question": "Chào bạn!!!!!!!Cho mình hỏi điện thoại huawei nova 3i bây giờ của cửa hàng bán giá bao nhiêu vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.893103,
+         "id": "961118",
+         "field_search": "question",
+         "question": " Bên mình có nhận thay kính cường lực ipad không? và có thể cho mình số điện của cửa hàng nào ở Đông Anh được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.883024,
+         "id": "1003800",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình muốn mua điện thoại trả góp có thể tư vấn giúp mình dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.868397,
+         "id": "775764",
+         "field_search": "question",
+         "question": " Cửa hàng mình có pin của iphone 4s không nhỉ. Giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.805965,
+         "id": "1138198",
+         "field_search": "question",
+         "question": "Mình xài xiaomi redmi note5 hiện có thể điện thoại pin mình bị chai nên mình muốn thay pin.Bên tgdd có hổ trợ thay pin không. Sản phẩm mình mua tại tgdd. Và giá thay pin là bao nhiu. Hiện tại mình thất nghiệp nên cần hỏi giá để chuẩn bị tiền. Giá cao quá mình củng phải cân nhất. Nên muốn biết giá. Mong tgdd hổ trợ giúp mình. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.688644,
+         "id": "1139112",
+         "field_search": "question",
+         "question": "Mình mới mua con SAMSUNG GALAXY J8 tại TGDĐ được hơn 3 tháng, giờ mình không thích muốn đổi sang  SAMSUNG GALAXY A6+. Cửa hàng tư vấn mình nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.596281,
+         "id": "1165985",
+         "field_search": "question",
+         "question": "Xin chào.Hiện tại mình có nhu cầu mua điện thoại gấp. Nhu cầu dùng điện thoại của mình là nghe, gọi, lướt web, và đặc biệt là chụp ảnh bằng CAMERA SAU khi đi du lịch ( điều quan trọng nhắc lại 3 lần). Mình không cần máy cấu hình mạnh lắm.Bạn có thể tư vấn cho mình điện thoại trong tầm giá dưới 6-7tr.Mình đang phân vân: Samsung A20/ A10   -  Nova 3i - Xiaomi note 6 pro - và Xiaomi note 7(nhưng đợi mãi chẳng có hàng mà mình cần mua gấp).Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.587748,
+         "id": "1006621",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hang mình có thay pin Htc M7 không ạ, và thời gian thay pin thì mất bao lâu mới có thể lấy máy được, cho xin giá cả luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.522448,
+         "id": "999381",
+         "field_search": "question",
+         "question": "chào cửa hàng cho mình hỏi mua máy mơi  tại thế giới có đc giảm giá không. mình là khách víp của thế giới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.416945,
+         "id": "774503",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có bán pin iphone 4s không vậy. Mình mới thay pin 4s mà vẫn bị hết pin rất nhanh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.220078,
+         "id": "996199",
+         "field_search": "question",
+         "question": "A7 2105 có  thể  thay  pin được  không  ạ h  nhờ  cac anh chi có  thể  tư  vấn  giúp  em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.087763,
+         "id": "1152021",
+         "field_search": "question",
+         "question": "mình mới mua điện thoại realme 2 tại cửa hàng điện máy xanh.vẫn trong thời gian 1 đổi 1 trong vòng 1 tháng.vậy cho hỏi mình có thể đổi sang điện thoại khác được không hay chỉ đổi được máy mới cùng hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.969315,
+         "id": "1135392",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại cũ Huawei Nova 3 giá 7.290.000 đồng ở cửa hàng có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.908049,
+         "id": "1160634",
+         "field_search": "question",
+         "question": "Xin chào ad. Ad có thể tư vấn cho em điện thoại nào trong tầm giá 8tr mua mới có thể chơi liên quân, onl fb ytb trong khoảng 2-3 năm nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.883137,
+         "id": "993623",
+         "field_search": "question",
+         "question": "Tư vấn cho mình điện thoại nào có âm thanh tốt giá từ 1  2 triệu với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.882595,
+         "id": "798143",
+         "field_search": "question",
+         "question": " iPhone 6 Plus 16GB giá nhiêu màu xám bạn tư vấn cho mình với mình tính mua 1 con để sử dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.86413,
+         "id": "1014395",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên cửa hàng còn pin thay thế cho lumia 1520 không, với loa thoại của nó bị hư, bên tddd có sửa được không? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.772009,
+         "id": "799961",
+         "field_search": "question",
+         "question": "Chào TGDĐ mình có mua 1 chiếc Ipad air tại cửa hàng khác, nhưng lại không viết được hoá đơn, vậy TGDĐ có thể viết hoá đơn giúp mình được không?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.767778,
+         "id": "795177",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ở cửa hàng có bán ốp nhôm cho iphone 5 không ạ.....viền nhôm ở cạch viền điện thoại em bị móp vs sứt sát nhiều lắm...em muốn thay 1 cái mới....QTV tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.731846,
+         "id": "1156814",
+         "field_search": "question",
+         "question": "mình muốn mua điện thoại từ 4 đến 5 triệu. Shop có thể tư vấn giúp mình được không ạ. Mình chỉ cần đt chụp ảnh đẹp, đời mới, cấu hình cao, pin bền.Cảm ơn shop ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.611912,
+         "id": "837485",
+         "field_search": "question",
+         "question": "e mua iphone 5s tại thế giới đi động, được 1 năm rưỡi, nay pin nó bị phồng, đẩy màn hình ra, cho e hỏi cửa hàng có nhận sửa không? và giá thay pin iphone chính hãng là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.61144,
+         "id": "1143901",
+         "field_search": "question",
+         "question": "Ad tư vấn giúp em loại điện thoại giá tầm 6 triệu loại nào tốt nhất ạtạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.514101,
+         "id": "1162902",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có thay kính iphone X không ạ? Nếu có thì giá và mất bao lâu ạ. Mình ở Hóc Môn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.495083,
+         "id": "1142349",
+         "field_search": "question",
+         "question": "Chào anh chị, có cách nào mua đặt mua hàng ở cửa hàng mình mà không cần số điện thoại không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.468863,
+         "id": "1161683",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay pin Iphone 6 không plus thì mức giá như thế nào bạn ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.467503,
+         "id": "1135106",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng iphone 6 mình muốn thay pin để tăng dung lượng thì có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.440884,
+         "id": "998284",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 5s, điện thoại của mình hay bị nóng máy và tụt pin nhanh mặc dù k dùng, mình đã thay pin điện thoại nhưng tình trạng chỉ đỡ hơn chứ k được khắc phục, vậy cho mình hỏi là điện thoại mình có vấn đề gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.416729,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.312984,
+         "id": "1139387",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5s bị chai pin, giờ thay mới được không ạ? giá thay pin là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.300207,
+         "id": "1017860",
+         "field_search": "question",
+         "question": "Mình tham gia chương trình mua hàng online được giảm giá của thẻ nhớ 16Gb nhưng mình lỡ tay xóa tin nhắn xác nhận rồi giờ phải làm sao để nhận được hàng. Tin nhắn báo là ngày 1 có thể đến cửa hàng nhận thẻ nhớ. Ad tư vấn giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.290773,
+         "id": "989828",
+         "field_search": "question",
+         "question": "em muốn mua 1 chiếc điện thoại giá từ 3 đến 5 triệu chơi game tốt pin khỏe với màn hình to thì anh chị có thể tư vấn cho em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.264313,
+         "id": "1135795",
+         "field_search": "question",
+         "question": "chào bạn, bạn có thể gửi cho mình báo giá của điện thoại samsung j2 prime qua mail tuyetlinhk59gmail.com được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.188158,
+         "id": "1134675",
+         "field_search": "question",
+         "question": "Chào Anh/chị..hiện tại em muốn mua điện thoại giá từ 6 triệu đến 8 triệu,mà em không biết nên mua loại nào xài cho tốt em mong anh/chị tư vấn giúp em với ạ..em cám ơn anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.154524,
+         "id": "1133893",
+         "field_search": "question",
+         "question": "điện thoại thor plus pin 6.200 mha cửa hàng mình có bán ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.121912,
+         "id": "1016723",
+         "field_search": "question",
+         "question": "Cho  e hỏi cửa hàng mình có bán pin điện thoại Asus 4 đời đầu tiên không ạ? Loại pin 1200 mAh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.074047,
+         "id": "748732",
+         "field_search": "question",
+         "question": " Cho em hỏi ở thế giới di động mình có thay pin điện thoại iphone 4. không? Mà nếu có thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.0559,
+         "id": "1161505",
+         "field_search": "question",
+         "question": "cho mình hỏi mình muốn thay pin điện thoại samsung galaxy A8 giá của pin điện thoại là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.01242,
+         "id": "1015406",
+         "field_search": "question",
+         "question": "Tại sao một số điện thoại cũ hỗ trợ giá sốc còn lại thì không ạ? Em cần tư vấn mua iphone 7 cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.989864,
+         "id": "780655",
+         "field_search": "question",
+         "question": " Chào Ad,Nhờ bạn tư vấn giúp mình về cách sạc pin iPhone 5s lần đầu.Cảm ơn bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.959255,
+         "id": "1016367",
+         "field_search": "question",
+         "question": "Cửa hàng của mình có sườn máy sony c6603 không?có thì có thể cho mình giá tham khảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.920004,
+         "id": "998739",
+         "field_search": "question",
+         "question": "Bạn ơi bạn có thể tư vấn giúp mình 1 chiếc điện thoại bên bạn có giá rơi vào khoảng 4-5tr mà có pin trâu  hoặc pin không trâu nhưng có công nghệ sạc nhanh và chụp ảnh đẹp mà thích hợp chơi game không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.88673,
+         "id": "1155020",
+         "field_search": "question",
+         "question": "Mình muốn mua đt giá tầm 3tr, dung lượng lớn, pin tốt, âm thanh tốt , nhỏ gọn, bạn có thể tư vấn cho mình 1 dòng phù hợp nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.885006,
+         "id": "1134841",
+         "field_search": "question",
+         "question": "Cho em hỏi là cửa hàng mình có thay màn hình iphone không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.866003,
+         "id": "830102",
+         "field_search": "question",
+         "question": " Mình muốn hỏi CH có iPhone 5 32gb không . mình muốn được tư vấn về giá đt cũ và mới luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.850605,
+         "id": "751103",
+         "field_search": "question",
+         "question": " Mình muốn thay pin iphone 5 giá bao nhiêu. Báo giá cho mình biết được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.844458,
+         "id": "1016395",
+         "field_search": "question",
+         "question": "Mình định bán lại điện thoại Samsung Galaxy J5 Prime với giá khoản 5.000.000 được không hay ra ngoài cửa hàng định giá..?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.81909,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75094,
+         "id": "1137243",
+         "field_search": "question",
+         "question": "Bên mình có thay pin iphone 6 plus k ạ? Nếu có giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.741096,
+         "id": "1133989",
+         "field_search": "question",
+         "question": "Có thay pin iPhone 6 ko ạ điện thoại iPhone 6 của e bị chai pin rồi nên cần thay bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.676046,
+         "id": "1021880",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có mua điện thoại bên Điện máy xanhnhưng giwof mình muốn đổi sang máy khác, mình muốn bán lại điện thaoij cho của hàng, rồi đổi sang mua máy khác tại cửa hàng có được k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.667404,
+         "id": "992070",
+         "field_search": "question",
+         "question": "mình có 6 triệu nên mua máy chính hãng gì? mọi người tư vấn dùm mình được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63397,
+         "id": "1151767",
+         "field_search": "question",
+         "question": "Chào AdminMình cần mua 1 chiếc iPhone 7 plus mà mình hiện nay đang ở tại thị xã Giá Rai, Bạc Liêu vậy cửa hàng thế giới di động tại thị xã Giá Rai có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.631668,
+         "id": "1158670",
+         "field_search": "question",
+         "question": "Mình mới mua samsung a7 2018 tại cửa hàng, và được khuyến mãi 1 phiếu mua hàng trị giá 500k.  Vậy bây giờ mình mua đồng hồ thông minh tại cửa hàng thì có dùng được phiếu này không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.62791,
+         "id": "754818",
+         "field_search": "question",
+         "question": " Màn hình cảm ứng iPhone 6 của mình có vấn đề. Mình muốn thay màn hình mới thì giá tầm bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.606596,
+         "id": "765633",
+         "field_search": "question",
+         "question": "Không biết cửa hàng thế giới di động có đổi các điện thoại không ý em là bây giờ em đang dùng iphone 5s 16g muốn lên iphone 6s 64g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.509932,
+         "id": "1023158",
+         "field_search": "question",
+         "question": "cho mình hỏi cửa hàng còn bán pin của điện thoại samsung galaxy note 3 N900 không vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.505018,
+         "id": "998838",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Em đang xài iphone 6 plus ạ. Điện thoại em bây giờ cắm sạc thì nó hiện lên hình sét (là đang sạc) nhưng nó không lên phần trăm pin. Mà cứ cắm như vậy thì có thể xài được nhưng rút ra thì lại tuột pin ạ. Ad có thể tư vấn cho e đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.465754,
+         "id": "930585",
+         "field_search": "question",
+         "question": " chào ad cho mimhf hỏi bên mình có thay kính iphone 5s ko nhỉ. có thể báo giá cho mình xin dc không ạ. xn cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.454676,
+         "id": "1005233",
+         "field_search": "question",
+         "question": "Xin chào! Mình có mua 1 laptop Dell Inspiron 15-3552 ở cửa hàng vào tháng 2/2017, hiện tại mình muốn bán lại, ko biết cửa hàng thu lại với giá thế nào? Mình đã mất hóa đơn, cửa hàng có thu lại dc ko?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.395597,
+         "id": "1168204",
+         "field_search": "question",
+         "question": "Cho hỏi là có thể thay màn hình điện thoại Samsung J5 Prime ngay trực tiếp tại cửa hàng TGDĐ hay không và nếu không thì thời gian mất bao lâu? Hiện tại ở chi nhánh Bắc Sơn - Lạng Sơn có thể thay luôn màn hình trong ngày không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.385212,
+         "id": "1154367",
+         "field_search": "question",
+         "question": "cho e hỏi . mua điện thoại samsung galaxy A50 128GB có thể đặc hàng tại cửa hàng trực tiếp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.378304,
+         "id": "1009289",
+         "field_search": "question",
+         "question": "ad cho e hỏi cửa hàng mình còn iphone 6 plus cũ bán k và giá bán bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.343815,
+         "id": "781545",
+         "field_search": "question",
+         "question": " Xin hỏi. Ở mình có thay vỏ iphone 5 không cửa hàng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.309849,
+         "id": "1136403",
+         "field_search": "question",
+         "question": "Điện thoại e là hưawei y6, mới mua được vài tháng mà hiện tại e sạc pin nó ít dô pin AK, cho e hỏi ở cửa hàng mjh có giải quyết vấn đề này đc hok AK, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.300566,
+         "id": "1019411",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại của tôi là ip6s đang bị lỗi mà không mua tại cửa hàng của thế giới di động vậy tôi có thể gửi cửa hàng để bảo hàng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.246267,
+         "id": "1140341",
+         "field_search": "question",
+         "question": "Hi. Cho mình hỏi mình muốn thay Pin điện thoại SumSung Galaxy A8 giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.208332,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.170532,
+         "id": "1137242",
+         "field_search": "question",
+         "question": "Cho mình hỏi có cửa hàng thay pin Ip5 ở Huế k và thời gian thay là bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.169098,
+         "id": "1001644",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại  Bavapen B42m  bên cửa hàng còn hàng không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.148657,
+         "id": "996555",
+         "field_search": "question",
+         "question": "Bên cửa hàng mình có thay màn hình cảm ứng iphone 7 ko ạ? Nếu có giá bao nhiệu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.127005,
+         "id": "821093",
+         "field_search": "question",
+         "question": "Chào AD, Chuyện là lúc trước mình có mua laptop Samsung ở bên bạn (hình như năm 2013 ),giờ thì pin laptop bị hư nhưng không biết thay pin ở đâu, AD vui lòng tư vấn giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

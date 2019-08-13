@@ -1,0 +1,801 @@
+{
+   "id_query": "1004936",
+   "total": 24067,
+   "total_current": 100,
+   "max_score": 71.89701,
+   "origin_question": "Pin dt xperia m5 của mình bị hao pin giờ mình muon thay pin phải mất bao lâu",
+   "hits": [
+      {
+         "score": 27.581139,
+         "id": "1159182",
+         "field_search": "question",
+         "question": "Pin của máy Xaomi A2 Lite bị hao pin nhanh thì có thay được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.561533,
+         "id": "1013097",
+         "field_search": "question",
+         "question": "Sony xperia c3 d2502 bị hao pin rất nhanh khi khóa màn hình, nhưng khi dùng thì hao pin lại chậm, hầu như không tốn nhiều pin, dùng được lâu. Làm sao để sửa lỗi hao pin khi tắt màn hình dù không làm gì, tại sao khi sử dụng lại tốn ít pin hơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.181904,
+         "id": "1144387",
+         "field_search": "question",
+         "question": "Dạ em có mua điện thoại MEIZU M5 bên mình, em muốn thay pin của điện thoại thì giá bao nhiêu vậy ạ ? Và tầm bao lâu thì em lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.800482,
+         "id": "1157543",
+         "field_search": "question",
+         "question": "samsung a50 sài trong bao lâu hết pin ạ , pin sài được nửa ngày là hết pin, vậy có hao pin không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.762865,
+         "id": "743879",
+         "field_search": "question",
+         "question": " Pin của máy Sony m5 có thay được không em muốn thay pin thì làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.69558,
+         "id": "998738",
+         "field_search": "question",
+         "question": "TGDĐ bên bạn có thây pin đt zenfone 5 k bạn, và thay pin mất bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.468193,
+         "id": "1159419",
+         "field_search": "question",
+         "question": "e muốn thay pin J5 Prime thì mất khoảng bao lâu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.380266,
+         "id": "1135446",
+         "field_search": "question",
+         "question": "Cho mình hỏi phí thay pin iphone 6 plus với ạ?và phait mất bao lâu mới xong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.20798,
+         "id": "1148836",
+         "field_search": "question",
+         "question": "iphon 6 lên 12.1.4 hao pin nhanh quá hạ về 12.1 giúp mình với dùng 1 phút mất 1% pin cùng thời gian để máy chờ hao 4% pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.068039,
+         "id": "787858",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 4s, không biết tại sao pin dt hao rất nhanh, thậm chí ko dùng gì cũng hết, và bây giờ thì dt mình ko sạc pin được, mỗi lần cắm sạc thì dc 30 giây dt tự động tắt nguồn rồi khởi động lại, cứ lặp đi lặp lại như v. có phải bị hư pin không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.911928,
+         "id": "1164816",
+         "field_search": "question",
+         "question": "cho e hỏi là dt zenfone sạc k vô pin với sạc pin  lâu lắm giờ e phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.663235,
+         "id": "907105",
+         "field_search": "question",
+         "question": " Pin iPhone 4s dùng 2h hao pin 50 có vấn đề gì không và nếu thay pin mới là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.592989,
+         "id": "1006621",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hang mình có thay pin Htc M7 không ạ, và thời gian thay pin thì mất bao lâu mới có thể lấy máy được, cho xin giá cả luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.955046,
+         "id": "1133847",
+         "field_search": "question",
+         "question": "cho hỏi ở tgdd có nhận thay pin ip5 không ạ? và thay mất bao nhiêu lâu? giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.948513,
+         "id": "1010394",
+         "field_search": "question",
+         "question": "- Đt của mình là Mobell Nova P2 và dung lượng pin là 4000 mAh, mà bây giờ pin ko còn trâu như khi mới mua và hao pin rất nhanh đôi khi vừa sạc xog xài đc vài phút đã thông báo là pin còn 15%...?! Pin rất thất thường có khi pin đang yếu pin vừa mới cắm sạc thì pin đã gần đầy.??!- Khi mình tải ứng dụng Battery Docter về đt rồi vô chỗ chi tiết pin thì lại hiện là pin có 1000 mAh.???- Bh mình phải làm sao...?! Và thay pin cho đt của mình thì tốn bao nhiêu tiền.??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.848713,
+         "id": "1158743",
+         "field_search": "question",
+         "question": "Máy mình là ss s7 sạc pin lâu đầy và gọi điện messger hay bị nóng máy là do pin bị chai hay sao ạ? Thay pin lâu không thì lấy được và cho mình giá nhé?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.432682,
+         "id": "756001",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn thay pin iPhone 5s vì nó bị chai pin máy mình thì hết bảo hành. giờ gửi shop thay pin cho mình được không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.121836,
+         "id": "1137242",
+         "field_search": "question",
+         "question": "Cho mình hỏi có cửa hàng thay pin Ip5 ở Huế k và thời gian thay là bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.088621,
+         "id": "1139387",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5s bị chai pin, giờ thay mới được không ạ? giá thay pin là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.036648,
+         "id": "852840",
+         "field_search": "question",
+         "question": "Cho mình hỏi,iphone 5s của mình bị vào nước, pin hỏng thay pin xong điện thoại vẫn nhận sạc nhưng không lên phần trăm pin có phải bị hỏng ic sạc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.866112,
+         "id": "1166178",
+         "field_search": "question",
+         "question": "Cho minh hỏi thay pin Mi A1 thì mất bao nhiêu và bao lâu mới lây điện thoại được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.81999,
+         "id": "908628",
+         "field_search": "question",
+         "question": " Laptop Dell của mình bị pin ảo từ 40 chạy xuống 7 và hết pin luôn? giờ phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.81283,
+         "id": "1158898",
+         "field_search": "question",
+         "question": "Cho mình hỏi Samsung Note 8 dung lượng pin là 3300 sẽ sử dựng được bao lâu? Hiện máy đang sử dụng rất hao pin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.742096,
+         "id": "1004445",
+         "field_search": "question",
+         "question": "cho mình hỏi! mình mua 1 chiếc điện thoại tại thế giới di động hiệu HTC butterfly S mà bây giờ bị chai pin. Mình có thể thay pin được không, nếu thay thi giá pin là bao nhiêu. mong Add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.661547,
+         "id": "1163813",
+         "field_search": "question",
+         "question": "Adm ơi cho mình hỏi mình mới thay pin ip6s plus mad đung nhanh tụt pin lắm ạ liệu có phải thay phải pin ko chất lượng ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.649578,
+         "id": "770803",
+         "field_search": "question",
+         "question": " Pin iPhone 5 giá bao nhiêu vậy? và thay bao lâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.544357,
+         "id": "996665",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao dt ss j7 của mình lúc mơí xài thì sạc tầm 2 tiếng rươĩ là đầy pin nhưng giờ mình phải sạc tới 4 đến 5 tiếng mơí đầy pin ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.544044,
+         "id": "999793",
+         "field_search": "question",
+         "question": "E muốn thay pin vs nắp pin xperia z1. Hết tầm bn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.491995,
+         "id": "1161318",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin iphone 7 bị chai cỡ bao nhiêu phần trăm thì nên thay pin mới ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.45734,
+         "id": "999675",
+         "field_search": "question",
+         "question": "Cho em hỏi thay pin của oppo r829 là bao nhiêu ạ. Khoảng bao lâu thì có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.43371,
+         "id": "1161505",
+         "field_search": "question",
+         "question": "cho mình hỏi mình muốn thay pin điện thoại samsung galaxy A8 giá của pin điện thoại là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.432152,
+         "id": "1163577",
+         "field_search": "question",
+         "question": "Samsung A8 của tôi sạc pin rất lâu hoặc nhiều khi cắm sạc rất khó. vậy có phải chuôi cắm sạc của máy có vấn đề không? Nếu tôi muốn bảo hành thay mới thì mất bao lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.303928,
+         "id": "1135427",
+         "field_search": "question",
+         "question": "Thay pin  7plus thủ tục và giá bao nhiêuThời gian bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.217371,
+         "id": "770303",
+         "field_search": "question",
+         "question": "  Vì sao iPhone 4S nóng máy hao pin và thay pin rồi mà không hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.115524,
+         "id": "1161896",
+         "field_search": "question",
+         "question": "Cửa hàng mình có thay pin xiaomi redmi 6 không ạ . Pin máy em sạc rất lâu vô",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.001493,
+         "id": "1009695",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình sạc dc 100% pin , mình sử dụng thì pin ko giảm đến 1 lúc sau thì nó tự động hết pin rồi tắt nguồn luôn, như v là pin mình bị hư phải ko ad, mình thay pin mới dc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.877413,
+         "id": "807097",
+         "field_search": "question",
+         "question": "mình đang xài iPhone 4, mình muốn cài đặt 1 số app mà nó báo phải ios 8.0 mới cài được, vậy cho mình hỏi iPhone 4 của mình lên ios 8.0 được không và nếu cài thì mất bao nhiêu, có bị hao pin hay gì không, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.869408,
+         "id": "1007555",
+         "field_search": "question",
+         "question": "s6 edge của em mới thay pin nhưng vẫn hao pin rất nhanh dù không làm gì tắt wifi độ sáng min vẫn tụt pin nhanh ad à  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.823883,
+         "id": "1003676",
+         "field_search": "question",
+         "question": " cho xin hỏi mình sài máy ipad sạc pin thế nào mới đúng không bị chai sạc pin phải bền lâu hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.803837,
+         "id": "752723",
+         "field_search": "question",
+         "question": " Em muốn thay pin điện thoại iPhone5 thì giá bao nhiêu??? Thấy rồi xài có lâu hết pin không???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.659708,
+         "id": "1002356",
+         "field_search": "question",
+         "question": "Thay pin chính hãng cua iphone 5 giá bao nhiêu ạ và thay trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.657352,
+         "id": "1157414",
+         "field_search": "question",
+         "question": "Oppo a37 Xài bao lâu thì thay pinPin sạc khá chậm và máy xả pin rất nhanh ạVà có thay dc pin k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.637617,
+         "id": "1135412",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 6mình cảm giác pin của điện thoại hơi kém. mình nghe nói có chương trình thay pin giá ưu đãi. không biết tggd có chương trình này không và nếu thay pin cho iphone 6 thì giá cả như thế nào, thời gian bao lâu, bảo hành ra sao?Nếu được thì mình mang qua để thay luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.615688,
+         "id": "1000777",
+         "field_search": "question",
+         "question": "Sony xperia z1 thay pin có được không vậy.........................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612991,
+         "id": "1167775",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại pin của em đã bị chai rồi nên em muốn thay pin khác ở TGDĐ có pin của dòng Xiaomi hông ạ máy của em là Xiaomi Redmi Note 4x và thay mất khoảng bao nhiêu ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.58502,
+         "id": "1001917",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ở TGDĐ có thay pin zenfone 2 phiên bản 5'5 inch không ạ? Nếu có thì giá cả thế nào và mất bao lâu ạ? Số seri của máy F4AZFG06Z494 .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56788,
+         "id": "790696",
+         "field_search": "question",
+         "question": "Admin ơi cho mình hỏi là mình mới đi thay pin hồi sáng nay , có phải là pin có vấn đề khôg mà hao nhanh vậy ? Mình dùng 4s . Ios 9 . Từ 100% -20% chỉ được 66 phút . Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.544176,
+         "id": "792016",
+         "field_search": "question",
+         "question": " Cho em hỏi bây giờ iPhone của em bị chai pin ròi có thay pin được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.53664,
+         "id": "1133626",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi với mình thấy các b chia sẻ pin của iphone xs max rồi khoẻ . Nhưng phone của mình pin k được khoẻ . Trung bình 6h . Với hay bị hao pin trong chế độ chờ . Máy mình bản úc . Xin các b tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.331306,
+         "id": "781160",
+         "field_search": "question",
+         "question": "Ad ơi iPhone 5 của mình khi không sài là nó bị nóng và hao pin và khi sử dụng thì pin hết nhanh hơn nữa là bị sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.263098,
+         "id": "1008493",
+         "field_search": "question",
+         "question": "Mình đang xài máy Lumia 730 nhưng Pin của mình bị hư r k biết bên anhchị có thay pin giúp mình đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.256672,
+         "id": "765792",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi 1 chút nhé : Con iPhone của mình dùng cũng được 1 thời gian rồi.. Lâu lâu nó bị sập nguồn, báo cần phải sạc.  Mình sạc rồi bật máy lên luôn thì thấy còn 31%. Rút sạc ra lại dùng đc bình thường. Như vậy có phải do pin chai không ạ ?? có cần thay pin không Admin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.253162,
+         "id": "781964",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 5 và cũng bị báo có virut bị cảnh báo là sẽ hao pin và mất danh bạ và mình kiểm tra lại cũng thấy danh bạ bị mất đi vài số. liệu có phải máy mình bị nhiễm virut thạt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.21428,
+         "id": "790321",
+         "field_search": "question",
+         "question": "Như trong hình là mình phải mua pin mới phải không ad? cho mình hỏi luôn là pin mới của inspiron 5521 gía bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.137075,
+         "id": "786938",
+         "field_search": "question",
+         "question": "admin giúp mình với! iphone 5 của mình. dùng phần mềm iboot check thì pin nó bị chai. mình đi thay pin. nhưng từ khi thay pin máy mình liên tục bị reset. sạc pin thì phần trăm không thay đổi. dùng cũng không giảm. đã test lại 5 cục pin mà vẫn gặp tình trạng này. mình đã restore lại máy. upđate lên ios 9.2.1 mà không được. liệu có phải nguyên nhân tại phần cứng không! mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.129581,
+         "id": "774503",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có bán pin iphone 4s không vậy. Mình mới thay pin 4s mà vẫn bị hết pin rất nhanh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.115505,
+         "id": "1161056",
+         "field_search": "question",
+         "question": "Xin hỏi TGDĐ có nhận thay pin cho Xperia XA không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.0803,
+         "id": "994798",
+         "field_search": "question",
+         "question": "Tại sao dt ip5s của mình đang sạc pin bị mất vân tay và rút sạc ra là mất vân tay luôn..có sửa đc k moi ng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.99826,
+         "id": "1138198",
+         "field_search": "question",
+         "question": "Mình xài xiaomi redmi note5 hiện có thể điện thoại pin mình bị chai nên mình muốn thay pin.Bên tgdd có hổ trợ thay pin không. Sản phẩm mình mua tại tgdd. Và giá thay pin là bao nhiu. Hiện tại mình thất nghiệp nên cần hỏi giá để chuẩn bị tiền. Giá cao quá mình củng phải cân nhất. Nên muốn biết giá. Mong tgdd hổ trợ giúp mình. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.994186,
+         "id": "781146",
+         "field_search": "question",
+         "question": " Ad ơi iPhone 5 của mình khi không sài là nó bị nóng và hao pin nguyên nhân là sao vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.94985,
+         "id": "1133989",
+         "field_search": "question",
+         "question": "Có thay pin iPhone 6 ko ạ điện thoại iPhone 6 của e bị chai pin rồi nên cần thay bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.895695,
+         "id": "1150199",
+         "field_search": "question",
+         "question": "Em xài xiaomiredmi note 5a prime . Bây giờ điện thoại em bị chai,phồng pin thì bên TGDĐ có dịch vụ thay pin không ạ và không biết mất bao nhiêu thời gian ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.87907,
+         "id": "1150484",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình sony Xperia sạc 1 giờ chỉ được 50 pin, vậy máy mình có bị gì không nếu bị gì tư vấn cho mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.877531,
+         "id": "742034",
+         "field_search": "question",
+         "question": "  Cho mình hỏi máy iPhone 5s mình để qua đêm bị hao 4 pin có việc gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.77676,
+         "id": "1011385",
+         "field_search": "question",
+         "question": "1 giờ 20phut  hao hụt 10 pin khi sử dụng facebook vậy thì pin ổn không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.71773,
+         "id": "863788",
+         "field_search": "question",
+         "question": "mình dùng iphone 5s phần mềm của mình là IOS 9.3.3 mà nó hao pin quá, mình không dùng để ở chế độ máy bay mà vẫn hết pin nhanh chỉ trong vong 5 tiếng.giờ mình phải làm sao, giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.671345,
+         "id": "1151000",
+         "field_search": "question",
+         "question": "Lap của mình trước nay đang sài thì bị sập nguồn, muốn sài thì phải vừa sạc. Máy mình bị gì vậy ạ. Với nếu pin hư thì thay bao nhiêu. Máy mình là asus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.670332,
+         "id": "998147",
+         "field_search": "question",
+         "question": "Bộ sạc của e mới mua bây giờ sạc bị chậm hao pin thì có được bảo hành k ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.521713,
+         "id": "1157495",
+         "field_search": "question",
+         "question": "mình có mua dell inspiron 7460 còn bảo hành. cho mình hỏi là pin bị chai thì mang tới bên mình bảo hành cho ạ. nếu thay pin có mất phí k. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.470352,
+         "id": "1164048",
+         "field_search": "question",
+         "question": "Gần đây đt e sạc pin hơi lâu đầy ạ. E sài đt oppo f1s có phải là do sài lâu r nên tuổi thọ pin giảm nên là sạc lâu vô k ạ. Nếu thay pin thì có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.38175,
+         "id": "1155990",
+         "field_search": "question",
+         "question": "Em muốn thay pin laptop acer ạ liệu em thay pin dữ liệu trong lap có bị mất đi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.362635,
+         "id": "778531",
+         "field_search": "question",
+         "question": "Chào ad cho mình hỏi là iPhone 5 của mình bị hao pin khi không sử dụng mà sử dụng thì pin hết nhanh hơn xài được tí là hết nguyên nhân là sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.322445,
+         "id": "803223",
+         "field_search": "question",
+         "question": " Mình muốn mua pin cho dell inspiron 5521 15.6 inch, loại pin tốt nhất thì giá bao nhiêu và bao lâu thì có hàng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.314194,
+         "id": "1018480",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi tại sao lúc mình để hiện phần trăm pin máy lại hao pin hơn lúc không để hiện Máy mình lg k10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.307001,
+         "id": "1019633",
+         "field_search": "question",
+         "question": "pin zen 2 muốn thây là bao nhiêu tiền vậy shop, và mất bao lâu mới song",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.20967,
+         "id": "840782",
+         "field_search": "question",
+         "question": "laptop của mình cắm sạc thì ở biểu tượng pin hiện \"plugged-in, charging\" nhưng để bao nhiêu lâu % pin cũng không tăng lên. xin các bạn tư vấn giúp máy mình bị lỗi gì và cách khắc phục. mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.160389,
+         "id": "1135947",
+         "field_search": "question",
+         "question": "mình muốn thay pin iphone 6s. bên mình có không, giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.13534,
+         "id": "1162315",
+         "field_search": "question",
+         "question": "Hi ad, cho mình hỏi, lúc trước mình có mua đt Oppo F1S của TGDD, h bị chai pin vs hỏng màn hình, ad hỏi giúp mình thay pin và màn hình mới giá bao nhiêu vs nha. Many thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.07628,
+         "id": "968374",
+         "field_search": "question",
+         "question": "Shop ơi, điện thoại iPhone 5 của em hình như bị chai pin , hay bị hết pin . Trung tâm có bán pin thay thế không ? nếu có thì khoảng bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.069784,
+         "id": "1160464",
+         "field_search": "question",
+         "question": "Mình sài samsung j7pro giờ mình sạc pin thì màn hình dt ko tắt nó sáng hoài cho hỏi máy bị gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96879,
+         "id": "1015942",
+         "field_search": "question",
+         "question": "Cho e hỏi thay pin Sony Xperia c3 giá báo nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.960989,
+         "id": "766193",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin, pin lên lâu rồi bị đứng và thay vào không lên pin mà lại xuống nhanh như trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.926643,
+         "id": "1023203",
+         "field_search": "question",
+         "question": "máy ko sạc vô pin nhưng cắm điện xài trực tiếp thì vẫn bình thường ? có phải thay pin ko và thay pin laptop DELL INSPIRON N4050 giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.895775,
+         "id": "806361",
+         "field_search": "question",
+         "question": " IPhone 5s thì sạc bao lâu thì đầy pin vậy qtv pin còn 19 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.861723,
+         "id": "1152429",
+         "field_search": "question",
+         "question": "Tôi dùng ss a7 2018 duoc 1 tuần nhưng máy hao pin qua, chế dộ chờ 1h mất 1 pin xin hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.861149,
+         "id": "867083",
+         "field_search": "question",
+         "question": "Tôi mua iphone chính hãng tại thế giới di động. và còn đang trong thời gian bảo hành Gần đây tôi thấy iphone của mình hao pin quá nhanh tôi muốn bảo hành pin iphone của mình thì phải làm thế nàoXin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.851643,
+         "id": "1013948",
+         "field_search": "question",
+         "question": "AD cho mình hỏi IPhone 6 của mình bị mất mật khẩu giờ mình muốn chạy chương trình mất bao nhiêu tiền và thời gian bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.792353,
+         "id": "766241",
+         "field_search": "question",
+         "question": "Ad cho em hỏi. Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin,pin  lên lâu rồi bị đứng và thay vào đó pin không lên mà lại xuống pin nhanh như trên. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.780481,
+         "id": "1158841",
+         "field_search": "question",
+         "question": "6s plus của mình phát wifi 30’ sụt pin từ 72% xuống còn 21 . sau khi tắt nguồn đi bật lại thì lại tuột tiếp từ 21% xuống 8% khi mình đi bộ về đến nhà trong quá trình đó mình cũng bật wifi liên tục , pin của mình bị chai 17% với lại máy mình là máy chính hãng mua được 4 năm rồi liệu sụt pin nhanh có phải chỉ là do pin hay là cả do main đã hao hụt ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.769884,
+         "id": "1022411",
+         "field_search": "question",
+         "question": "Mình dùng iphone 6s plus dạo gần đây thấy pin rất mau hết sạc đầy 100 % chỉ dùng được 2,5h thời lượng sạc pin cũng lâu hơn bình thường. Sạc từ 1% đến đầy pin mất khoảng 5 tiếng. Haizz điện thoại mình bị sao thế mọi người giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.72807,
+         "id": "1000059",
+         "field_search": "question",
+         "question": "Cho tui hỏi thay pin ZenFone 3 5.5 giá bao nhiu và trong bao lâu mới lấy máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.706501,
+         "id": "1001559",
+         "field_search": "question",
+         "question": "Cho hoi e muon thay pin  a7 2015 thi bnhiu tien ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.702707,
+         "id": "1164454",
+         "field_search": "question",
+         "question": "Mình mua redmi 4a tại shop. Bây giờ pin bị phồng shop có hỗ trợ thay không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.682974,
+         "id": "830930",
+         "field_search": "question",
+         "question": " Cho em hỏi thế giới di động của mình có thay pin iphone5 không? va giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.65195,
+         "id": "1164148",
+         "field_search": "question",
+         "question": "Nếu thay pin chính hãng cho ip x thì có bị mất áp suất  mất chống nước của máy không  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.645023,
+         "id": "797427",
+         "field_search": "question",
+         "question": " Mình định mua iPhone 6s với nhu cầu lướt web,xem phim thì pin của máy có thể hoạt động bao lâu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.6117,
+         "id": "850170",
+         "field_search": "question",
+         "question": " cho mình hỏi tgdd có thay pin iphone 5 không? nếu thay thì bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.591257,
+         "id": "1133726",
+         "field_search": "question",
+         "question": "thegioididong có thay pin điện thoại oppo R8001 không ạ? giá là bao nhiêu và thời gian thay trong bao lâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.549278,
+         "id": "1010810",
+         "field_search": "question",
+         "question": "Dt sony xperia xa e mua dk 4 thang bây gjo xai mau het pin wa z....",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1152055",
+   "total": 22994,
+   "total_current": 100,
+   "max_score": 94.80997,
+   "origin_question": "Chào mấy anh Chị. Tôi  29t.đang làm ở tiền giang.tôi tính mua 1 laptop trả góp.không biết cần những giấy tờ gì.",
+   "hits": [
+      {
+         "score": 41.3329,
+         "id": "908767",
+         "field_search": "question",
+         "question": " Mua laptop cần những giấy tờ gì vui lòng cho biết và cần những giấy tờ gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.73635,
+         "id": "1138538",
+         "field_search": "question",
+         "question": " tôi muốn mua trả góp điện thoại thì cần những giấy tờ gì và lãi suất như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.484566,
+         "id": "1010747",
+         "field_search": "question",
+         "question": "Qtv cho hỏi Mua trả góp thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.316803,
+         "id": "1005054",
+         "field_search": "question",
+         "question": "Chào TGDD! Em muốn hỏi là với người chử đủ 18 tuổi muốn mua điện thoại trả tiền tại chỗ thì cần những giấy tờ thủ tục gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.297356,
+         "id": "996023",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp ở sóc sơn hà nội thì cần những giấy tờ gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.18856,
+         "id": "1141240",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp thì cần những giấy tờ gì vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.24399,
+         "id": "1013110",
+         "field_search": "question",
+         "question": "cho em hỏi thủ tục mua trả góp cần những loại giấy tờ gì ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.09356,
+         "id": "1169290",
+         "field_search": "question",
+         "question": "E muốn mua trả góp máy ip xs thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.09356,
+         "id": "1007186",
+         "field_search": "question",
+         "question": "t muốn mua trả góp oppo f3 thì cần những giấy tờ gì vậy b",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.85696,
+         "id": "1023067",
+         "field_search": "question",
+         "question": "ad cho e hỏi e đang ở Lâm Đồng muốn mua trả góp thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.82798,
+         "id": "1013104",
+         "field_search": "question",
+         "question": "Máy này trả góp 0 cần những giấy tờ gì nhỉvdhdhdhdbdsbsbsvv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.706415,
+         "id": "998640",
+         "field_search": "question",
+         "question": "em 20 tuổi , muốn mua trả góp iphone 6s plus cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.262318,
+         "id": "1134826",
+         "field_search": "question",
+         "question": "Cho e hỏi, muốn mua dt trả gopsbeen mình thì cần những loại giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.227915,
+         "id": "1164565",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp thì cần giấy tờ gì vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.595106,
+         "id": "993673",
+         "field_search": "question",
+         "question": "Add muốn mua trả góp thì cần những gì ạ     Quê e ở huế nhưng e đang ở vũng tàu  e chỉ có giấy chứng minh nhân dân  K có  giaya tờ xe cx k có giấy tờ điện nước   e muốn mua trả góp thì phải làm s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.490498,
+         "id": "995613",
+         "field_search": "question",
+         "question": "Cho em hỏi là bao nhiêu tuổi thì được mua trả góp và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.307367,
+         "id": "1009729",
+         "field_search": "question",
+         "question": "cho em hỏi dịch vụ trả góp ạ? thủ tục và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.964453,
+         "id": "992004",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mu trả góp oppo a39 thì e cần những giấy tờ gì ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.76617,
+         "id": "770971",
+         "field_search": "question",
+         "question": " Em là 1 học sinh lớp 12, em muốn mua iPhone 5S 8tr4 trả góp thì cần có những giấy tờ gì và trả góp như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.514711,
+         "id": "764664",
+         "field_search": "question",
+         "question": " Mua iPhone 6s rose gold cần những giấy tờ gì vậy Shop. MÌnh chỉ có hộ khẩu ở tỉnh và CMnd thôi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.454327,
+         "id": "1018242",
+         "field_search": "question",
+         "question": "E muốn mua ip 5s thì cần những giấy tờ và trả trước bao nhiêu a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.432516,
+         "id": "760912",
+         "field_search": "question",
+         "question": " Cho em hỏi năm nay em 18t mà mua iPhone 5s gold 16gb trả trước 4 triệu thì cần những giấy tờ gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.3042,
+         "id": "999445",
+         "field_search": "question",
+         "question": "Cho e hỏi là e bị mất tờ giấy trả góp ạ. Thì bây giờ e ra đóng tiền trả góp ở ngoài tgdd thì k cần giấy tờ có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.925852,
+         "id": "1138530",
+         "field_search": "question",
+         "question": "Cho em hỏi, hiện tại em đang là sinh viên muốn trả góp điện thoại thì cần những giấy tờ gì (giấy tờ nào công ty tài chính giữ và giấy tờ nào được mang về) và có được hưởng ưu đãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.631489,
+         "id": "1015058",
+         "field_search": "question",
+         "question": "Cho e hỏi mua trả góp thì mình cần nhữg giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400658,
+         "id": "1155520",
+         "field_search": "question",
+         "question": "Đặt trước trả góp asus m1 max pro như thế nào . Lãi suât bao nhiêu trả trong mấy tháng. Cần giấy tờ gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.165249,
+         "id": "1000321",
+         "field_search": "question",
+         "question": "muốn mua trả góp điện thoại không lãi xuất thì cần giấy tờ gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.140266,
+         "id": "1144365",
+         "field_search": "question",
+         "question": "Chào AdMình muốn mua điện thoại IP7 ở thế giới di động bằng hình thức trả góp qua Home credit hoặc FE credit. Thì cần những giấy tờ gì? và thủ tục thanh toán hằng tháng sẽ như thế nào?Cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.552631,
+         "id": "803760",
+         "field_search": "question",
+         "question": "Em muốn mua Laptop Asus A540LA i3 4005U/4GB/500GB/Win10với hình thức trả góp thì cần những giấy tờ gì ạ. hiện em là sinh viên tại hà nội, em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.305077,
+         "id": "1011579",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp thì cần những giáy tờ gì và trả góp như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.249775,
+         "id": "1010581",
+         "field_search": "question",
+         "question": "CHo hỏi neeis em mua sản phảm sony xz dual trả góp 0 trả trước 30 thì cần mang theo những giấy tờ nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.968824,
+         "id": "989281",
+         "field_search": "question",
+         "question": " AnhChị cho em hỏi, cần có giấy tờ gì khi mua điện thoại trả góp tại cửa hàng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.863644,
+         "id": "775557",
+         "field_search": "question",
+         "question": "Tình hình là em muốn mua 1 cái iPhone 5s 16g. Cho em hỏi hiện tgdd có chương trình trả góp 0đ hay không và cần những giấy tờ nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.582,
+         "id": "1003387",
+         "field_search": "question",
+         "question": "e muốn mua iphone 6s 32G thì cần những loại giấy tờ gì ạ mh cần trả trc tối thiểu bao nhiu %...e 21t đi lm hưởg lươg.. thág trc chị e có mua hàng trả gop bên tgdd...bên a chị coa thể đối chiếu thôg tin...mong ace tư vấn rõ ràng giùm em xin tks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.453806,
+         "id": "1158030",
+         "field_search": "question",
+         "question": "cho em hỏi. những giấy tờ cần để mua góp có cần đi photo công chứng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.287842,
+         "id": "989924",
+         "field_search": "question",
+         "question": "Mình mua điện thoại trả góp dưới 5rtr, mình có cần đưa trước bao nhiêu ? Thủ tục nhanh không và cần có những loại giấy tờ nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.060648,
+         "id": "775922",
+         "field_search": "question",
+         "question": " Cho em hỏi mua laptop trả góp có GCM với giấy tờ xe không cần hộ khẩu được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.981604,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.80258,
+         "id": "1001075",
+         "field_search": "question",
+         "question": "Cho em hỏi giấy tờ để mua trả góp galaxy s8 gồm những gì. Em thấy có cmnd và gplx sao e mang ra lại kêu cần thêm hộ khẩu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.701502,
+         "id": "994008",
+         "field_search": "question",
+         "question": " Em muốn mua đt trả góp , không trả trước , cần giấy tờ sao hả? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.661837,
+         "id": "994296",
+         "field_search": "question",
+         "question": "cho mình hỏi khi mua trả góp mình cần giấy tờ gì và phải trả như thế nào? khi mua mình có cần trả trước không? neu minh muon mua oppo f3 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.530535,
+         "id": "1159727",
+         "field_search": "question",
+         "question": "Iphone 7 plus cũ có hổ trợ trả góp 0 k ạ, và cần giấy tờ gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.523233,
+         "id": "996958",
+         "field_search": "question",
+         "question": "em 20t đang là sv có thể mua đt trả góp đc k ak . e chưa có bằng lái xe thì cần những giấy tờ j ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.253254,
+         "id": "1142748",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại trả gớp em cần giấy tờ sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.835546,
+         "id": "1020623",
+         "field_search": "question",
+         "question": "Chào thegioididong ạ . Em mua trả góp ip6s 64gb trả trong vòng 12 tháng vậy 1 tháng trả bao nhiêu ? Và giấy tờ như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.792034,
+         "id": "1008422",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mua trả góp thì cần giấy tờ s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.754745,
+         "id": "1152868",
+         "field_search": "question",
+         "question": "Chào anh /chị.mình đang tính mua trả góp 1 laptop .mình chỉ cần mang cmnd+bằng lái xe và trả trước ví dụ 30% tiền.là có thể làm thủ tục nhận máy ngay đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.647055,
+         "id": "754874",
+         "field_search": "question",
+         "question": " Chào ad. Cho mình hỏi, mình muốn mua điện thoại iphone 6s trả góp. thủ tục và giấy tờ cần chuẩn bị như thế nào ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.514053,
+         "id": "1134703",
+         "field_search": "question",
+         "question": " Mua trả góp thì Cửa hàng có giữ lại giấy tờ gì ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.412466,
+         "id": "814913",
+         "field_search": "question",
+         "question": " Đem laptop đi bảo hành thì cần mang theo giấy tờ hay gì không ạ? Và thời gian bảo hành cần bao lâu?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.38217,
+         "id": "1012693",
+         "field_search": "question",
+         "question": "Cho e hỏi Mua hàng trả góp ở thế giới di động khách hàng cần kí mấy tờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.241386,
+         "id": "1139405",
+         "field_search": "question",
+         "question": "Cho em hỏi là trước em vừa trả góp xong 1 con samsung note fe bây giờ em muốn mua trả góp tiếp samsung note 9 thì có cần phải xác nhận lại giấy tờ không ạ. giấy tờ trả góp cũ em vẫn còn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.213625,
+         "id": "1008999",
+         "field_search": "question",
+         "question": "em định mua redmi 4a trả góp tại tân châu An Giang ạ ! Có thể giúp em cần đem giấy tờ gì và trả góp ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.192064,
+         "id": "1004647",
+         "field_search": "question",
+         "question": "chào anh chị cho em hỏi em muốn mua điện thoại tra góp 0đ thì có được ko và thủ tục cần những gì ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.165154,
+         "id": "1138482",
+         "field_search": "question",
+         "question": " Bao nhiêu tuổi mới được mua điện thoại trả tiền mặt và mua điện thoại trả tiền mặt cần những thông tin gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.991865,
+         "id": "1155605",
+         "field_search": "question",
+         "question": "bữa em có đặt trước 1 điện thoại samsung A50. Em mua theo phương thức vay trả góp. giờ em qua bên cửa hàng đặt cọc cần mang theo giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.906544,
+         "id": "832097",
+         "field_search": "question",
+         "question": " Em mua trả góp laptop cần những gì và không trả trước có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.89969,
+         "id": "1024178",
+         "field_search": "question",
+         "question": "Em muốn vay tiền mặt ở tgdd thì Phải cần những gì ạ mong a chị tư vấn giúp em!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.897186,
+         "id": "999178",
+         "field_search": "question",
+         "question": "tôi muốn mua samsung galaxy s8 plus , trả góp và trả trước 30% , ngoài cmnd và sổ hộ khẩu ra thì tôi còn phải chuẩn bị giấy tờ gì nữa vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.861149,
+         "id": "1161565",
+         "field_search": "question",
+         "question": "Điều kiện trả góp hồm những gì. E đang muốn mua 1 cái đt và muốn trả trước 0 đồng thì cần làm những gì và ntn để được trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.827175,
+         "id": "999118",
+         "field_search": "question",
+         "question": "em mạng điện thoại J7 Prime bị vỡ màn hình đến cơ sở TGDĐ để chuyển về bảo hành thì cần những giấy tờ gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.66493,
+         "id": "991343",
+         "field_search": "question",
+         "question": "ip6 thì cần những giấy tờ ntn ạ? công chứng hay gốc ạ? em là sv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5789,
+         "id": "1006194",
+         "field_search": "question",
+         "question": "Em là tân sinh viên, em muốn mua điện thoại trã góp được không ạ? Nếu được thì cần những loại giấy tờ nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.291948,
+         "id": "994536",
+         "field_search": "question",
+         "question": "Chào anh chị em muốn mua cái ASUs zenphone 3 loại 5tr mấy mà mua trả góp anh chị có thể hướng dẫn cho em ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.200148,
+         "id": "1000256",
+         "field_search": "question",
+         "question": "xin chào!em cần anh chị tư vấn mua trả góp sp ip 6 32G ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.01462,
+         "id": "1022217",
+         "field_search": "question",
+         "question": "cho mình hỏi.mình có hồ sơ trên thế giới di động .giờ mình muốn mua điện thoại trả góp vậy có cần đem giấy tờ gì nữa khong vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.978136,
+         "id": "796504",
+         "field_search": "question",
+         "question": "Bữa em có cắt 1 cái sim ở thế giới di động. Gắn vào 5s. Sim viettel . Cắt bị hư. Sim đó em không xài 1 thời gian. Giờ mua điện thoại em cắt nhưng hư. Em không có đăng kí giấy chứng minh. Không biết được những liên lạc gần nhất. Không biết có làm lại sim được không. Máy anh máy chị trả lời giúp em nha...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.886677,
+         "id": "788623",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi.. Em mới mua máy Iphone 5s Gray 16GB ở Thế Giới Di Động... Em Còn toàn bộ giấy tờ,phiếu bảo hành, máy còn mới như vừa mới mở hộp.Giờ em muốn trả lại cửa hàng để hoàn tiền thì e chịu lỗ bao nhiều % và tính sao ạ.. 2 tuần trước e mua là 8 Triệu 490 nghìn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.881977,
+         "id": "793008",
+         "field_search": "question",
+         "question": "Hi chị, em vừa mới mua Iphone 5s bên cửa hàng, em muốn chuyển sim Micro thành sim nano để bỏ vào điện thoại, em xài mạng mobi, thì em có thể ra TGDD để làm lại sim không ? Và cho hỏi là cần những giấy tờ gì? ( Em đã bị mất CMND).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848997,
+         "id": "1152898",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình có nhu cầu mua góp A3s 16Gb, zậy cần những giấy tờ gì để góp, mình chỉ có CmND, bằng lái(B2) thì đang chờ Sở GTVT cấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.810854,
+         "id": "977043",
+         "field_search": "question",
+         "question": " Làm sao để đổi sim 4g vay the gioi di động, có cần thông tin, giấy tờ gì không ha ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.53337,
+         "id": "998445",
+         "field_search": "question",
+         "question": "E muốn mua trả góp nhưng ỗ e giờ  dùng thẻ card để thu tiền điện chứ ko dùng hóa đơn.vậy e có thể thay bằng giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.311974,
+         "id": "1139956",
+         "field_search": "question",
+         "question": "Dạ em chào anh (chị) ạ!Hiện tại em đang dự tính mua trả góp điện thoại realme 2.Em có các loại giấy tờ sau:Hộ khẩu đã photo công chứng từ 31/7 tức k quá 6 tháng.Chứng minh nhân dân bản gốc. (Năm sinh 1997)Thì không biết bên mình có hổ trợ được cho em hông ạ. Nếu được. Em muốn tới trực tiếp cửa hàng để làm thủ tục không cần xét duyệt online thì bao lâu mới được \"cầm máy\" ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.149446,
+         "id": "1022450",
+         "field_search": "question",
+         "question": "mình mới đổi dt l61y dt khác (1 đổi 1). tgdd có đưa cho 1 tờ giấy để ký tên thì là tờ giấy gì aj. có phải phiếu yêu cầu đổi tra ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.964428,
+         "id": "1167196",
+         "field_search": "question",
+         "question": "Chào anh chị E tên Linh 19 tuổiE cần đc tư vấn trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87636,
+         "id": "1147673",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại trả góp qua thẻ tín dụng. Ko biết thủ tục cần những gì bạn nhi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.748173,
+         "id": "759197",
+         "field_search": "question",
+         "question": "Tôi là sinh viên muốn mua máy laptop đùng vẽ đồ họa có được ưu đãi nhiều không ? Khi mua trả góp tôi phải làm những thủ tục gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68999,
+         "id": "1018221",
+         "field_search": "question",
+         "question": "Mình có mua macbook air ở tgdđ giờ mình muốn mang máy tới tgdđ để chạy lại chương trình giúp mình thì có cần mang theo giấy tờ hay gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.524956,
+         "id": "873968",
+         "field_search": "question",
+         "question": " Em cần mua phần mềm diệt virut cho máy tính mà không biết mua loại nào, anh chị tư vấn em với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52186,
+         "id": "990333",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tháng trước tôi có mua Sản phẩm Oppo F3 bên mình nhưng là màu trắng. Tôi đã dùng được 3 tuần rồi. Hiện Oppo ra phiên bản màu đen. Tôi không biết bên mình có hỗ trợ việc đổi sản phẩm không. Nếu  có tôi phải làm những gì và có mất phí đổi trả hay những gì khác không ạ?  Tôi chờ câu trả lời từ bên mình. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.471697,
+         "id": "994734",
+         "field_search": "question",
+         "question": "Em chưa đủ tuổi để mua trả góp. Phụ huynh đứng ra làm thủ tục trả góp thì có phải đến tận nơi để làm thủ tục không ạ hay chỉ cần em mang giấy tờ đi thôi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.43883,
+         "id": "1139243",
+         "field_search": "question",
+         "question": " chào ad.. cho e hỏi xíu được không ạ... nếu e muốn mua điện thoại trả góp thì cần những gì ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.397886,
+         "id": "993469",
+         "field_search": "question",
+         "question": "E sinh năm 1994. Giấy tờ hiện có là sổ hộ khẩu và cmnd số tiền e muốn trả trước là 7tr2.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.340536,
+         "id": "1142349",
+         "field_search": "question",
+         "question": "Chào anh chị, có cách nào mua đặt mua hàng ở cửa hàng mình mà không cần số điện thoại không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323544,
+         "id": "991112",
+         "field_search": "question",
+         "question": " Tôi muốn mua điện thoại trả góp phải làm sao ? Mà lúc mua có cần tiền mặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.302359,
+         "id": "997086",
+         "field_search": "question",
+         "question": "Xin chào các anh chị ! Tôi tên Tùng. là giáo viên. Nhà ở huyện Châu Thành, tỉnh Sóc Trăng. Tôi muốn mua trả góp smart phone Galaxy C9 pro. Nếu có đủ CMND, hộ khẩu, hóa đơn tiền điện hàng tháng thì phải trả trước bao nhiêu tiền và trả thêm bao nhiêu tháng nữa, mỗi tháng sau đó gởi bao nhiêu?Cám ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.262573,
+         "id": "995943",
+         "field_search": "question",
+         "question": "trước tôi có mua một con chuột ở cửa hàng,nhưng giờ nó bị hỏng thì tôi muốn bảo hành thì cần những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.242554,
+         "id": "996232",
+         "field_search": "question",
+         "question": "A chị ơi nếu mua Hàng online có đầu đủ giấy hộ khẩu giấy cmnd mà giấy điện có mà làm mất có mua Hàng trả góp dc hk a chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.227583,
+         "id": "1018211",
+         "field_search": "question",
+         "question": "tôi cần làm  những gì để được khuyến mãi cho sinh viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.112228,
+         "id": "743943",
+         "field_search": "question",
+         "question": " tôi cần mua Iphone 5S, trả góp điều kiện ra sao?, tôi có cần trả trước tiền mặt khi bắt đầu mua máy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.108017,
+         "id": "1002434",
+         "field_search": "question",
+         "question": "giờ em muốn mua máy đã qua sử dụng mà trả góp thì cần làm những bước gì ạ. em ở hà giang. em cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.087511,
+         "id": "774401",
+         "field_search": "question",
+         "question": " Em đang đi làm muốn mua trả góp iPhone 5 thì cần những gì và trả góp trước bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.040909,
+         "id": "1144971",
+         "field_search": "question",
+         "question": "Chào ad, Em đang có ý định bán máy cũ để mua góp ViVo11i, thế em cần làm những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.04037,
+         "id": "968456",
+         "field_search": "question",
+         "question": "Em muốn cài zalo trên macbook phải làm sao?mấy anh chị giúp em với mới mua cái macbook ở thế giới di động về không biết cài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.03056,
+         "id": "1001703",
+         "field_search": "question",
+         "question": "ad cho mk hỏi là khi mua máy thì mk nhận được những giấy tờ gì liên quan đến máy ạ...hóa đơn như thế nào ạ ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.022387,
+         "id": "990397",
+         "field_search": "question",
+         "question": "Chào anh/chịHiện nay em cần mua 1 chiếc laptop tầm 7 triệu để thiết kế nội thất. Chủ yếu là em sử dụng sketchup. Mong anh/chị tư vấn giùm ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.022367,
+         "id": "1166951",
+         "field_search": "question",
+         "question": "Xin chào, tôi có mua 1 cái dell 7577A i7 cách đây 1 nam, giờ tôi muốn nâng cấp RAM cho nó mà ko muốn mất bảo hành thì tôi phải nâng ở đâu, anh (chị) có thể hướng dẫ tôi không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.991577,
+         "id": "1154343",
+         "field_search": "question",
+         "question": "Mình mua đt đc gần 1 tháng và muốn trả lại thì mất phí bao nhiêu ạ. Và trả lại cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.947725,
+         "id": "1011728",
+         "field_search": "question",
+         "question": "Chào anh / chị,Tôi làm rơi điện thoại Samsung J7 Pro thì gặp tình trạng như hình. (vùng quầng đen)Tôi vừa mua 1 tháng. Nếu vậy sửa bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

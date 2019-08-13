@@ -1,0 +1,801 @@
+{
+   "id_query": "831489",
+   "total": 31080,
+   "total_current": 100,
+   "max_score": 132.76901,
+   "origin_question": "tôi mua 1may ip4s dùng đc 2 tháng thì bị lỗi..giờ thế giới di động đang nhận máy của tôi để bảo hành..giờ tôi muốn mua trả góp ip5s ..vậy thế giới di động mua lại ip4s của tôi đc bao nhiêu?",
+   "hits": [
+      {
+         "score": 62.774403,
+         "id": "1002330",
+         "field_search": "question",
+         "question": "Tôi muốn bán ĐT Sony Z5 dual, tôi mua ở thế giới di động được khoảng 8 tháng, thì được bao nhiêu tiền? Để tôi mua trả góp Samsung s8?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.57818,
+         "id": "994988",
+         "field_search": "question",
+         "question": "Xin cho hỏi , tôi có mua bên cửa hàng thế giới di động một ipad air. bây giờ tôi muốn hỏi bên thế giới di động có thu mua lại ipad air cũ không? Ipad   air này là tôi mua bên thế giới di động. Vì hiện tại tôi muốn mua đổi sang Ipad New 2017 wifi 32G của bên thế giới di động luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.227123,
+         "id": "1019411",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại của tôi là ip6s đang bị lỗi mà không mua tại cửa hàng của thế giới di động vậy tôi có thể gửi cửa hàng để bảo hàng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.928894,
+         "id": "786905",
+         "field_search": "question",
+         "question": " Tôi mua máy iPhone 6 ở Thế Giới Di Động, tôi muốn nhờ thế giới di động cài đặt nhạc chuông dùm tôi có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.64023,
+         "id": "1001855",
+         "field_search": "question",
+         "question": "Tôi có mua trả gó đt j5 primer của cty tài chính Fe, góp 5 tháng, nay tôi muốn thế giới di động thu máy lại để tôi đổi sang dòng đt khác được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.336834,
+         "id": "799328",
+         "field_search": "question",
+         "question": "Tôi mới mua máy iphone 5s tại thế giới di động nhưng chưa dùng tôi muốn bán lại thì cửa hàng có mua lại không?và bị trừ bao nhiêu phần trăm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.814716,
+         "id": "1004906",
+         "field_search": "question",
+         "question": "máy samsung của tôi mua ở thế giới di động cà mau vào tháng 6 này, vậy tôi có thể đem bán lại cho thế giới di động hồ chí minh ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.23183,
+         "id": "867083",
+         "field_search": "question",
+         "question": "Tôi mua iphone chính hãng tại thế giới di động. và còn đang trong thời gian bảo hành Gần đây tôi thấy iphone của mình hao pin quá nhanh tôi muốn bảo hành pin iphone của mình thì phải làm thế nàoXin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.280224,
+         "id": "862945",
+         "field_search": "question",
+         "question": "Tôi mua iPhone 6s ở thế giới di động dùng được một thời gian rồi nhưng máy tôi bị rơi nhiều xước hết vỏ. Bây giờ tôi muốn đi thay vỏ khác thì có được bảo hành không và có mất tiền không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.160385,
+         "id": "991633",
+         "field_search": "question",
+         "question": " Tôi cần mua điện thoại trả góp, lên trên Thế Giới Di Động mua được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.15514,
+         "id": "1008633",
+         "field_search": "question",
+         "question": "Xin hỏi: tôi có mua trả góp ở thế giới di động . Thời gian góp là 8 tháng.  Hiện tôi đã góp được 4 tháng.  Tôi muốn vay tiền mặt của ngân hang có được ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.09429,
+         "id": "1137262",
+         "field_search": "question",
+         "question": "Máy sam sung j8 tôi mua 10 hôm. Lắp 2 sim khi dùng gọi điện lúc sim 1 dùng được thì sim 2 không dùng được và ngược lại. Ra thế giới di động (điểm tôi mua máy) kỹ thuật ở đó bảo lỗi phần mềm và xử lý. Giờ dùng 3 hôm lại bị lỗi như vậy. Tôi thấy máy lỗi lại bị vậy nên tôi có 2 nội dung hỏi tư vấn:1. Máy tôi có đủ điều kiện đổi máy j8 khác không? Nếu không được vì sao?2. Vì không dùng được, tôi trả máy. Tôi mua được 10 hôm. Tôi bị mất bao nhiêu % giá trị máy?Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.944862,
+         "id": "799172",
+         "field_search": "question",
+         "question": "Ôi có mua ở siêu thị Thế Giới Di Động sao đỏ chí linh hải dương một chiếc iphone 6s 64gb ngày 22-11-2015 sử dụng 2 tháng đầu rất ổn định ,sang tháng thứ 3 có hiện tượng tụt pin rất nhanh,tôi gửi đi bảo hành mất 2 tuần thì tôi nhận về dùng thì vẫn bị như vậy,tôi lại mang ra siêu thị Thế Giới Di Động lần thứ 2 vẫn chưa được,tôi sạc 100% lúc 2h chiều không lắp sim và không dùng để trong tủ đến 9h sáng hôm sau thì tắt nguồn ,nếu dùng thời gian rất ngắn tôi lại mang ra cửa hàng lần nữa thì yêu cầu bảo hành lần 3 (số lần sửa c) vậy tôi còn phải bảo hành đến bao giờ nữa thì được Thế Giới Di Động cho tôi biết.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.840977,
+         "id": "1020915",
+         "field_search": "question",
+         "question": "Cho hỏi tôi mua máy samsung tad A 2017trả góp được 4 tháng bây giờ tôi thanh lý vậy có thể bán lại cho thế giới di động ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.705322,
+         "id": "1148662",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi tôi mua điện thoại tại thế giới di động phiên bản của tôi đang làios 12.1.3 tôi muốn quay lại phiên bản thấp hơn là ios 11.4 có dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.98668,
+         "id": "916569",
+         "field_search": "question",
+         "question": " tôi có mua laptop tại thế giới di động, hiện máy tôi đang chạy win10, tôi muốn cài lại win 7 có đượ không?xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.74738,
+         "id": "1021490",
+         "field_search": "question",
+         "question": "bao giờ sam sung j3 ở quận bắc từ liêm , thế giới di động  87 tân xuân có hàng , để tôi mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.630997,
+         "id": "887170",
+         "field_search": "question",
+         "question": "tôi mua máy tính laptop X550C bên điện máy xanh năm 2013giờ máy bị lỗi win, tôi muốn qua bên thế giới di động cài lại win 7. tôi có được cài miễn phí hay không? và nếu mất phí thì hết bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.511948,
+         "id": "1139829",
+         "field_search": "question",
+         "question": "Tôi bị hack tài khoản Facebook. Thế giới di động có thể giúp tôi lấy lại tài khoản đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.46791,
+         "id": "998106",
+         "field_search": "question",
+         "question": "Sao tôi mua galaxy s8 ở thế giới di động trong tháng 6 này . mua hình thức trả góp . sao k thấy có quà của samsung nhỉ . tôi k nhận đc kính thực tế ảo hay bất kỳ quà gì khác. Mong ad giải thích giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.394268,
+         "id": "1156244",
+         "field_search": "question",
+         "question": "XIN CHAO TTDD HIỆN TẠI MÁY TÔI MUA Ở THẾ giới di động dc 6 tháng và bị xước viền vây tôi muốn thay hết bao nhiêu tiền oppo f9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.344486,
+         "id": "1006675",
+         "field_search": "question",
+         "question": "Tôi muốn mua sim mobi big tại thế giới di động, thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.33413,
+         "id": "1162741",
+         "field_search": "question",
+         "question": "Dear Thế Giới Di Động,Tôi có mua một laptop envy 13 tại Thế Giới Di Động vào hồi tháng 9/2018. Hiện tại, màn hình máy tính của tôi có xuất hiện 2 vết đốm sáng trên màn hình. Thì không biết là lỗi này do nguyên nhân gì? Và tôi có thể mang ra để nhờ nhân viên tư vấn và bảo hành được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.3299,
+         "id": "1138404",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại oppo a3s 16gb tại thế giới di động giờ tôi muốn đổi oppo a3s 32gb cáp thêm tiền được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.30109,
+         "id": "833098",
+         "field_search": "question",
+         "question": " Cho tôi hỏi ở thế giới di động có bán iPhone 6s trôi bảo hành không . Nếu có thì tôi sẽ mua với giá 5 triệu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.268837,
+         "id": "1143039",
+         "field_search": "question",
+         "question": "tôi muốn mua thẻ game garena  thì ở thế giới di động có bán không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.233627,
+         "id": "988854",
+         "field_search": "question",
+         "question": " Thế giới di động có thu mua dt lenovo lại ko Mình mua ở thế giới di động giờ Mình bán lại có đc ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.222225,
+         "id": "798585",
+         "field_search": "question",
+         "question": "Tôi mơi mua lại 1 chiếc điện thoại ip5s của người quen,người ấy nói là mua ở thế giới di động và đưa hóa đơn ra. Nhưng tôi k biết có phải mua ở thegiodidong thật không. Vậy tôi viết tin nhắn này mong cửa hàng xác nhận giúp tôi. Dưới đây là ảnh phiếu mua hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.133667,
+         "id": "1013518",
+         "field_search": "question",
+         "question": "tôi co mua sony X tại the gioi di động, vào hôm 18 giờ tôi ko thích muốn trả lại thì sẽ khấu trừ bao nhiêu tiên vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.69907,
+         "id": "993184",
+         "field_search": "question",
+         "question": "tôi vừa mua máy asus model A441U tại thế giới di động trà...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.29204,
+         "id": "1006374",
+         "field_search": "question",
+         "question": "Mình mới mua máy được 2 hôm tại thế giới di động muốn trả lại thế giới di động mua k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.15057,
+         "id": "1155588",
+         "field_search": "question",
+         "question": "Mình mua máy mobell s60 ở thế giới di động, bảo hành còn hơn 10 tháng không có bất kì lỗi nào thì giờ thế giới di động có hỗ trợ mua lại ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.447136,
+         "id": "770309",
+         "field_search": "question",
+         "question": " Tôi mua iphone 6plus ở thế giới di động quãng bình,bây giờ vì điều kiện nên muốn bán lại thì shop có thu hồi không ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.97464,
+         "id": "783427",
+         "field_search": "question",
+         "question": " Iphone 6s plus tôi mua ở thế giới di động hơn 1 tháng mặt sau tự tróc sơn có được bảo hành không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.947247,
+         "id": "1167053",
+         "field_search": "question",
+         "question": "Điện thoại f9 còn bảo hành mua ở thế giới di động bây giờ em muốn bán để mua đt f11 thì tgdđ thu vào bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.07637,
+         "id": "790548",
+         "field_search": "question",
+         "question": " Tôi muốn mua chiếc iphone 5s bản quốc tế thế giới di động có bán không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.015648,
+         "id": "992908",
+         "field_search": "question",
+         "question": "tôi muốn mua sạc điện thoại J5ngoài thế giới di động tại Long an có bán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.87528,
+         "id": "1012012",
+         "field_search": "question",
+         "question": "Tôi mới mua một điện thoại samsung c9 pro ở thế giới di động hôm 23/07....Giờ tôi thấy ko hài lòng chất lượng lắm, nên muốn đổi sang samsung s8..Vậy tôi có thể đổi và các thêm bao nhiêu tiền nữa vậy công ty?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.804653,
+         "id": "1006978",
+         "field_search": "question",
+         "question": "muốn kiểm tra xem tôi đã mua những sản phẩm gì từ thế giới di động thì làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.688766,
+         "id": "767915",
+         "field_search": "question",
+         "question": " Laptop của mình mua ở điện máy xanh. Giờ bị lỗi win hay sao á. Nên mình hỏi giờ ra thế giới di động bảo hành được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.523537,
+         "id": "1014458",
+         "field_search": "question",
+         "question": "Điện thoại của tôi hiện vẫn đang trả góp từ thế giới di động nhưng bị rơi nứt màn hình tôi có thể đổi mới chiếc đt được không ? Và bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.478863,
+         "id": "1016148",
+         "field_search": "question",
+         "question": "cho tôi hỏi iphone 6s đài loan thay màng hình tại thế giới di động thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.40218,
+         "id": "1024397",
+         "field_search": "question",
+         "question": "Tôi mua iphone6plus tại cửa hàng thế giới di động hưng phú có số điện thoại đăng ký bảo hành 0903942190 tôi muốn tìm lại số imei xin gọi số ime cho tôi qua id thư này vì điện thoại tôi bị mất tôi muốn bật tìm iphone và khóa vô hiệu hóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.28176,
+         "id": "1156092",
+         "field_search": "question",
+         "question": "Đt Ss J7 Prime của tôi sao không kết nối wifi với thiết bị camera trên xe hơi để trích xuất dữ liệu được, trong khi máy ss J5 prime thì được. 2 máy tôi đều mua ở Thế Giới Di Động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.97281,
+         "id": "1002352",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại OPPO A37 tại cửa hàng Thế giới di động chi nhánh Thị trấn Đông Hưng- Thái Bình vào tháng 8/2016, hiện tại tôi phát hiện điện thoại bị lỗi màn hình. Vậy tôi còn được kiểm tra và bảo hành k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.866367,
+         "id": "1018807",
+         "field_search": "question",
+         "question": "Cho e hỏi, mk mua điện thoại ở thế giới di động nầy mà qua quán thế giới di động khác bảo hành đc ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.308037,
+         "id": "1012011",
+         "field_search": "question",
+         "question": "Tôi mới mua một điện thoại samsung c9 pro ở thế giới di động hôm 2307",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.154537,
+         "id": "1149267",
+         "field_search": "question",
+         "question": "E có mua bản quyền win 10 của thế giới di động, giờ e mua 1 máy khác của thế giới di động và lấy lại key trên máy cũ để cài lại vào máy mới được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.109203,
+         "id": "877024",
+         "field_search": "question",
+         "question": " tôi muốn bán lại Iphone 6s 64gb mua ở thế giới di động 4 tháng trước. xin hỏi giá cả như thế nào? Máy không trầy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.097294,
+         "id": "846617",
+         "field_search": "question",
+         "question": "dạ QTV cho mình hỏi là máy mình là iphone 4s mua ở thế giới di động là 4900000 còn bào hành đến hết 31/12/2016 vậy giờ mình muốn bán lại máy cho thế giới di động thì máy mình còn lại dc bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.974815,
+         "id": "1023576",
+         "field_search": "question",
+         "question": "Tại sao khi điện thoại của tôi tự nhiên khởi động lại , đôi lúc chơi game tự động thoát ra . Tôi đã thử reset lại nhưng vẫn không được . Tôi thử tháo sim và chơi game thì máy không bị đứng và thoát ra nữa . Vậy điện thoại tôi bị hư gì vậy là do sim hay do máy . Tôi xài asus zenfone 3 max 5.5 mới mua ở thế giới di động thủ đức .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.947357,
+         "id": "995173",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước có mua điện thoại bên thế giới di động, giờ em muốn bán lại thì bán đc bnhiu vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.79052,
+         "id": "996984",
+         "field_search": "question",
+         "question": "Tôi mua một máy điện thoại Iphone 7plus số imai 353816083234288 sau 2 tháng sử dụng, pin bị tiêu hao nhanh. tôi gửi bảo hành ngày 7/6/2017 đến ngày 26/6 /2017 tôi nhận được máy. Sáng 27/6 tôi rút sạc lúc 6h mức pin 100%, khong sửa dụng để theo dõi, lúc 8h50 mức pin còn 88%. Trong khi đó máy iphone 6 củ tôi cũng tiến hành như thế và còn 100% pin. Tôi muốn hỏi chất lượng bảo hành như thế là như thế nào?. máy mua mới 100% được 3 tháng thì mất gần 1 tháng mang đi bảo hành. khi bảo hành xong thì vẫn sụt giảm pin như vậy thì Thế giới di động có trách nhiệm gì đối với khách hàng, uy tín của TGDD có đảm bảo không? khi bảo hành TGDD có thay thế hay làm gì cho máy của tôi không?Số điện thoại liên lạc 0912036431",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.494686,
+         "id": "1010282",
+         "field_search": "question",
+         "question": "ad cho em hori em đang trả góp ở thế giới di động còn 2 tháng nữa mấy hết hạn hợp đồng giờ em muốn mua trả góp dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.43519,
+         "id": "991874",
+         "field_search": "question",
+         "question": " Máy em mua ở Thế giới di động được 1 năm rồi. Mà giờ bị hư màn hình, Thế giới di động có thu lại không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.345123,
+         "id": "1014250",
+         "field_search": "question",
+         "question": "cho tôi hỏi ,  điện thoại samsung galaxy j7 pro tôi bị rớt nhẹ màn hình bị nhoe màu một chút  ở góc nhưng vẫn sử dụng bình thường tôi đi bảo hành xem sửa đc không trong lúc họ bảo hành nhân viên gọi điện cho tôi bảo không sửa được phải thay màn hình hết 1 triệu 7 , tôi bảo không thay dùng như thế cũng đc nhưng giờ về thế giới di động trả tôi điện thoại màn hình không lên được, họ bảo bị màn hình trong bị hư nên thời gian sau bị như thế, TÔI KHÔNG CHẤP NHẬN , VÌ LÚC TÔI BẢO HÀNH MÀN HÌNH VẪN SÁNG BÌNH THƯỜNG, NHOE MÀU RẤT NHẸ , KHÔNG VỠ. SAO MÀN HÌNH TỐI ĐEN  ĐÚNG LÚC THẾ, TÔI MUỐN HỎI RÕ RÀNG VỚI NGƯỜI ĐẠI DIỆN CHO HÃNG ĐT SAMSUNG THÌ LÀM THẾ NÀO Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.318314,
+         "id": "996695",
+         "field_search": "question",
+         "question": "Hiện tại tôi đang sử dụng galaxy j7 2016, hôm bữa trời mua tôi có lấy ra để dò đường về nhà thi điên thoại tắt không mở lên được. Vậy bây giờ tôi có thể lên chỗ thế giới di động để sửa lại hay phải sửa ở mấy tiệm ngoài kia?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.247494,
+         "id": "998100",
+         "field_search": "question",
+         "question": "mình đang có 1 cái điện thoại samsung a7 2016 còn bảo hành. Muốn bán lại cho thế giới di động thì mua khoảng bao nhiêu nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.22345,
+         "id": "1148730",
+         "field_search": "question",
+         "question": "tôi mới mua 1 điện thoại sony xz2 tại thế giới di động ngã ba trị an. Nay điện thoại của tôi bị bootloop ko sử dụng dc. Tôi muốn đi bảo hành nhưng làm mất hóa đơn thanh toán. Số điện thoại của tôi là 0329188687( số trc đổi đầu số là 0129188687).Tôi tên là Đoàn Xuân Hùng.Vậy anh(chị) tôi có thể đi bảo hành tại tgdd dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.17402,
+         "id": "993190",
+         "field_search": "question",
+         "question": "mình mua hàng ở cửa hàng thế giới di động bên TP.HCM và giờ hàng bị lỗi mình bảo hành ở bất kì cửa hàng thế giới di động nào trên toàn quốc được đúng k ạ ? mình hiện đang ở Biên Hòa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.146225,
+         "id": "996167",
+         "field_search": "question",
+         "question": "Em múôn hỏi là.  Em mua máy ở thế giới di động gìơ em muốn bán lại máy lại cho thế giới di động.  Điện thoại em còn bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.951977,
+         "id": "1016987",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao tôi đến thanh toán trả góp tại Thế giới di dộng ở Sài Sơn, Quốc Oai, Hà Nội mà lại không chấp nhận thẻ Visa của tôi? Trừ khi thẻ tôi quá hạn mức hoặc không có thiết bị quẹt thì không dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.73034,
+         "id": "1160445",
+         "field_search": "question",
+         "question": "Giờ e muốn bán lại cái sony e mới mua ở thế giới di động được 5 có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.71195,
+         "id": "766510",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, mình mua iPad air 2 của Thế giới di động nhưng giờ muốn bán thì người mua cứ hỏi sao không có số imei?Mình không rành, và không biết vì sao mình lại không kiếm được imei trên iPad air 2 wifi của mình.Vậy làm sao mình có thể check được bảo hành vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.47735,
+         "id": "1160405",
+         "field_search": "question",
+         "question": "Ho em hỏi em mua dt samsung gls A6+ ở thế giới di động chưa được 1 năm .bây giờ thế giới di động thu lại khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.183662,
+         "id": "748525",
+         "field_search": "question",
+         "question": " Cho e hỏi cách kiểm tra IMEI để xem bảo hành của HTC mua tại thế giới di động? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.073795,
+         "id": "987143",
+         "field_search": "question",
+         "question": "Chào shop. Mình muốn bán máy tính bảng Tab A6, mua ở thế giới di động tháng 15 năm 2106. còn bảo hành, bây giờ shop thu lại bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.802906,
+         "id": "777025",
+         "field_search": "question",
+         "question": "Tôi có cái iPad mini 2 wifi, bị vỡ kính màn hình, cảm ứng vẫn còn bình thường. Không biết thế giới di động có nhận sữa chửa không? iPad này của người bạn nước ngoài cho tôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.744774,
+         "id": "916969",
+         "field_search": "question",
+         "question": "Mình mua iphone 5s tại tgdd đc 1 tháng bị lỗi sạc k vào đưa máy đi bảo hành thì hãng gọi nói máy bình thường, về dùng đc mấy ngày lại bị lỗi cũ, lại giui đi bảo hành rồi lại ns máy bình thường giui lại về cho mình, về vẫn đag bị lỗi cũ giui đi tiếp lần 3. Lần này hãng lại ns máy bị oxi hóa chỗ tiếp xúc pin và từ chối bảo hành cho tôi trog khi máy tôi ms mua 1 tháng k bị rơi nước, thời gian bảo hành còn nhiều hơn thời gian sử dụng máy. Bảo hành kiểu gì vậy, vậy 2 lần đầu máy tôi bình thường thế lỗi đó do đâu . Giờ k bảo hành cho tôi. Tgdd làm ăn kiểu gì vậy . số imel của máy 352083078281250.sđt liên lạc của tôi 01263038633",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.698494,
+         "id": "1013917",
+         "field_search": "question",
+         "question": "nếu mua máy cũ từ thế giới di động này chuyển về thế giới di động khác có đc chuyển về ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.697205,
+         "id": "1013106",
+         "field_search": "question",
+         "question": "Em mua laptop ở thế giới di động..vậy thế giới di động có bảo dưỡng.vệ sinh laptop không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.69399,
+         "id": "1166211",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là bên thế giới di động có nhận chuyển tiền vào tài khoản ngân hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.571438,
+         "id": "839040",
+         "field_search": "question",
+         "question": " Thế giới di động có bán laptop cũ k z xin cảm ơn.Có đc mua laptop trả góp không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.476665,
+         "id": "1141927",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động,Tháng 06/2018 tôi có mua laptop Dell ở Thế Giới Di Động trên đường Nguyễn Sơn.Sau đó về ít dùng nên không để ý.11/2018 tôi bắt đầu sử dụng và để ý máy chỉ cần mở ứng dụng nào đó tốn một chút RAM thì máy kêu rất to và tắt cái phụp.Xin lưu ý là các ứng dụng này tốn rất ít RAM (mà máy cũ của tôi ko hề gặp tình trạng tự tắt). Kể cả mở Google Chrome nhiều khi cũng tự tắt.Tôi có liên hệ bảo hành bên Dell. Họ bảo cuối tháng 12 có linh kiện về để sửa. Nay họ bảo 11/02, lúc đó gần Tết.Rồi nếu tới đó lại trì hoãn tới tháng 06 ko sửa thì coi như tôi mua máy về và quăng một xó không xài được.Tôi rất bực mình (22/12 tôi đến Thế Giới Di Động mua thêm laptop khác để xài vì ko chờ được).Tôi muốn hỏi có cách nào Thế Giới Di Động thu lại laptop Dell này không, giá dĩ nhiên không bằng giá lúc tôi mua. Vì tôi không thể ôm máy này hoài được và tôi không thể chờ Dell mãi mãi.Số điện thoại của tôi: 0988892100.Xin hãy kiểm tra tháng 06/2018 tôi có mua một laptop Dell và 22/12/2018 tôi phải mua laptop khác (nhãn MSI) cũng tại Nguyễn Sơn vì quá bực mình.Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.2175,
+         "id": "909819",
+         "field_search": "question",
+         "question": " Máy e mới mua ở thế giới di động,nhưng bây giờ dùng thì k sử dụng đc phím ctrl c là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.195343,
+         "id": "1143601",
+         "field_search": "question",
+         "question": "Mua sam sung j8 tại thế giới di động sẽ được bảo hành bao nhiêu tháng ạ , mình mua máy từ tháng 92018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.160572,
+         "id": "1018760",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy ở thế giới Di Động nhưng hết bảo hành.. máy nova f7 .. giờ muốn thay loa với vỏ máy thì của hàng có sửa chữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.011166,
+         "id": "1147410",
+         "field_search": "question",
+         "question": "E muốn mua sạc của laptop asus X540LA vậy giá bán tại thế giới di động là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.996475,
+         "id": "1011835",
+         "field_search": "question",
+         "question": "Tôi mua chiếc galaxy j7 prime tháng 12 năm trước lúc đó có bảo hành rơi vỡ màn hình. Sao nhân viên bên thế giới di động bảo không có là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.744568,
+         "id": "1149677",
+         "field_search": "question",
+         "question": "Tôi muốn đổi galaxy a6 lấy a7 chi phí bao nhiêu .máy của tôi sử dụng được ba tháng  nếu thế giới di động có máy đã qua sử dụng mà còn 80hoac 90%cũng được chi phí cho máy mới và máy cũ là bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.6811,
+         "id": "986018",
+         "field_search": "question",
+         "question": " Em muốn hỏi thế giới di động iPhone 6 giá bao nhiêu ạ ???Và em muốn trả góp thì trả trước bao nhiêu?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.679485,
+         "id": "1161866",
+         "field_search": "question",
+         "question": "Chào Thế giới di động!Cho tôi hỏi iPhone có mã là MN8Y2QLA là thị trường nước nào vậy?Tôi xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.55544,
+         "id": "756739",
+         "field_search": "question",
+         "question": " Tôi muốn mua iphone 5s trả góp thì làm thế nào và trả trước bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.45626,
+         "id": "1164561",
+         "field_search": "question",
+         "question": "Tôi có mua máy được 7 ngày. Máy bị lỗi wi-fi.  Tôi đổi trả có đc không. Và nếu ko thấy lỗi tôi đổi máy mới thì mất bao nhiêu phần trăm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.443375,
+         "id": "1021449",
+         "field_search": "question",
+         "question": " châu thế giới di động cho tôi hỏi từ vinh xuân lên trà ôn bao nhiu ký lô mét  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.386017,
+         "id": "1022523",
+         "field_search": "question",
+         "question": "Laptop window 10 của em bị 2 sọc trên màn hình bây giờ em đem ra sửa nhưng không phải mua ngoài thế giới di động vậy sửa khoảng hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.383465,
+         "id": "1024003",
+         "field_search": "question",
+         "question": "Tôi mới mua đồng hồ apple watch của thegioididong chưa được 1 tháng với phương thức trả góp ? Bây giờ tôi muốn trả lại sản phẩm thì nhận bao nhiêu tiền ? Và tôi vẫn phãi đóng tiền phải góp hàng tháng sau khi nhận được tiền hoàn lại 80% từ thegioididong đúng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.073063,
+         "id": "1015902",
+         "field_search": "question",
+         "question": "Chị ơi. Hồi trước em có mua đt oppo f1s ở thế giới di động. Mà giờ em muốn bán thì với giá bao nhiêu vậy chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.068382,
+         "id": "988540",
+         "field_search": "question",
+         "question": "Chào AD!Cho tôi hỏi làm sao để reset password trên PC win10? Khi tôi nhập mật khẩu báo lỗi là mật khẩu không đúng! Vậy có cách nào để cài đặc lại. Mong thế giới di động giúp đỡ tôi! Chân thành cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.87334,
+         "id": "778374",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi tôi có mua máy laptop Acer tại thế giới di động giờ bị bể màn hình có thay được không; bàn phím bị kẹt nhiều nút có sửa được không và có nâng cấp win 8 bản quyền lên win 8.1 ở thế giới di động được không? cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.854168,
+         "id": "997562",
+         "field_search": "question",
+         "question": "Con HTC Desire 630 của e do trẻ con nghịch nên đã nhập sai hình vẽ mk quá số lần cho phép nên máy giờ bị khóa (máy vẫn còn bảo hành) . Vậy cho tôi hỏi ó cách nào để khắc phục không ạ?Cảm ơn thế giới di động nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.846348,
+         "id": "761327",
+         "field_search": "question",
+         "question": "Mình mua máy tính asus, nhưng bây giờ mất giấy mua bán máy không biết Thế giới di động có lưu thông tin mua bán máy không để mình bảo hành?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.828136,
+         "id": "1000984",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động. Em có mua 1 chiếc máy tính hiệu ASUS tại thế giới di động ở Tây Ninh. Hiện bàn phím của máy em đã bị hư một vài phím. Máy vẫn còn bảo hành, vậy nếu em muốn sửa chữa lại máy thì có mất phí hay không? Nếu mất thì có thể là bao nhiêu? Em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.823315,
+         "id": "1014102",
+         "field_search": "question",
+         "question": "Em có một máy xiaomi redmi 4a mua ở thế giới di động môi Tuấn trước bay giờ em bản lại dược bảo nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.822582,
+         "id": "1135719",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng máy s8plus mua của TGDĐ . Giờ tôi muốn đổi sang iphone XS ( tôi mua luôn bên TGDĐ ) thì bên TGDĐ thu lại máy s8plus của tôi giá ntn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.813934,
+         "id": "995041",
+         "field_search": "question",
+         "question": "e mới mua tab E 9.6inh mua ngày 1552017 nay muốn bán lại thì thế giới di động sẽ mua lại bao nhiêu ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.795044,
+         "id": "1161885",
+         "field_search": "question",
+         "question": "Tôi không thể sử dụng Word,Excel,Power Point,Access có sẵn trên laptop của mình được.Microsoft bắt buộc tôi phải mua chúng. Tôi vừa mua laptop tại Thế giới di động vào ngày 13/4/2019. Và giờ tôi không thể sử dụng Office có sẵn là như thế nào? Một số laptop khác có thể sử dụng tích hợp Office có sẵn,còn tôi thì tại sao lại không có? Tôi cần một lời giải thích cho vấn đề này.Dòng máy của tôi :HP Pavilion X360 14-cd0082TU",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.708736,
+         "id": "1016219",
+         "field_search": "question",
+         "question": "Tôi mua trả góp oppo f1s(2017) được 4thang. Tôi đã trả xong. tôi muốn chuyển sang A5(2017) có đc ko. Nếu dc thì làm như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.67183,
+         "id": "1140214",
+         "field_search": "question",
+         "question": " Xin tư vấn cho tôi chương trình cũ đổi mới ở thế giới di động ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

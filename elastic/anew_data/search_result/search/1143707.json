@@ -1,0 +1,801 @@
+{
+   "id_query": "1143707",
+   "total": 30647,
+   "total_current": 100,
+   "max_score": 45.1723,
+   "origin_question": "cho mình hỏi là sao mình xóa ảnh trên iphone mà trên icloud cũng mất vậy",
+   "hits": [
+      {
+         "score": 25.719238,
+         "id": "988608",
+         "field_search": "question",
+         "question": "Làm sao để ảnh trên icloud không bị mất khi xóa ảnh ở trong ip ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.200811,
+         "id": "806797",
+         "field_search": "question",
+         "question": "Chào ad? mình xài điện thoại ip5, nhưng hình ảnh mình đã xóa trong \"đã xóa gần đây\" luôn, cách dây cũng 5 tháng, không sao lưu trên icloud. vậy mình có thể lấy lại hình được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.004139,
+         "id": "1152885",
+         "field_search": "question",
+         "question": "Em muốn hỏi là máy em dùng icloud, em tắt đồng bộ ảnh icloud, sau đó xóa ảnh trên iphone thì khi bật đồng bộ ảnh icloud lên hoặc back up lại thì hình đã đồng bộ trước đó nhưng bị xóa ở iphone thì trên icloud còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.02477,
+         "id": "840401",
+         "field_search": "question",
+         "question": " cho em hỏi khi xóa dữ liệu trên icloud thì trên iphone còn dữ liệu k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.981598,
+         "id": "759376",
+         "field_search": "question",
+         "question": " Ad ơi cho hỏi mình mới mua cái iPhone 5s mà có tài khoản iCloud mà giờ mình muốn xóa tài khoản iCloud được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.813292,
+         "id": "907836",
+         "field_search": "question",
+         "question": "Chào ad! Em muốn hỏi khi dùng iphone và có tài khoản icloud. Nếu xóa ảnh trên iphone thì tại tài khoản icloud có còn ảnh đó nữa hay không? Thank ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.72639,
+         "id": "805823",
+         "field_search": "question",
+         "question": " Tại sao mình không xóa được ảnh và STT trên Zalo làm cách nào để xóa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.688662,
+         "id": "765451",
+         "field_search": "question",
+         "question": "Cho e hỏi cách xem ảnh đã lưu trên icloud và nếu đã đưa lên icloud thì khi xoá ở album ảnh có mất trên icloud k?rất mong được hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63435,
+         "id": "1135138",
+         "field_search": "question",
+         "question": "em đã cài zalo trên điện thoại và cả pc , nhưng khi xóa tin nhắn bằng điện thoại thì tin nhắn trên pc cũng biến mất , giờ phải làm sao để khi xóa tin nhắn trên điện thoại mà pc lại không bị mất ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.494963,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.379288,
+         "id": "845189",
+         "field_search": "question",
+         "question": "Cho hỏi sau khi báo mất iPhone trên iCloud thì các trang mạng xã hội trên iPhone bị mất người lấy cắp có thể sử dụng được không ah? Và mình có thể đăng nhập iCloud trên thiết bị khác được nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.372677,
+         "id": "792013",
+         "field_search": "question",
+         "question": "Cho mình hỏi tí tài khoản icloud với tài khoản appstore trên mạng là 1 tài khoản đúng hok tgdđ tại lỡ tạo tài khoản icloud mà quên mất?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.320648,
+         "id": "826462",
+         "field_search": "question",
+         "question": " Cho em hỏi khi đã xóa ảnh trong album rồi ma lát ảnh trên zalo vẫn còn.?cách xóa như thế nào để mất hoàn toàn??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.237867,
+         "id": "1168374",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em sd iphone 5S, bây giờ máy em sắp hết dung lượng, vậy nên em đã sao lưu và đồng bộ dữ liệu ảnh, .... vào icloud rồi, vậy em có thể hỏi là nếu em xóa hết hình bên app ảnh của iphone thì bên icloud có mất luôn không ạ? Em cảm ơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.100412,
+         "id": "752491",
+         "field_search": "question",
+         "question": " Cho mình hỏi là có khôi phục được tin nhắn đã xóa trên iPhone không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.073427,
+         "id": "1006773",
+         "field_search": "question",
+         "question": "Làm sao để biết hình ảnh danh bạn đã đc lưu vào icloud trên iphone vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.015566,
+         "id": "807443",
+         "field_search": "question",
+         "question": " AD cho mình hỏi mình muốn xóa xóa tài khoản FB của chủ cũ trên iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.711496,
+         "id": "1156579",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đã đăng xuất iCloud trên ip7 sang ip5, hình ảnh trong máy ip7 mình không sang qua máy ip5 mà trong khi đó danh bạ vẫn sang bth, cho hỏi bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.638172,
+         "id": "965183",
+         "field_search": "question",
+         "question": " Cho e hỏi là có thể khôi phục lại những bức ảnh đã xóa trên iphone từ rất lâu được không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.611942,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.576443,
+         "id": "917441",
+         "field_search": "question",
+         "question": " Em mới mua điện thoại thấy có icloud trên máy lỡ xóa mất có bị sao k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.540857,
+         "id": "887926",
+         "field_search": "question",
+         "question": "Em lỡ xoá tin nhắn hình ảnh trong cuộc hội thoại trên Viber . Em cũng đã xoá ảnh gốc trên iPhone 5s và iCloud . Làm cách nào em có thể lấy lại ảnh đó trên viber ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.515379,
+         "id": "1135057",
+         "field_search": "question",
+         "question": "mình vừa mua máy mới .và đăng nhập icloud lại trên máy mới thì k có hình ảnh . và trên iphone báo dung lượng icloud đầy .mong ad chỉ mình cách khắc phục !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.37603,
+         "id": "1166313",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn tìm lại ảnh trên máy ssj7 prime thì làm sao ạk. E vào thùng rác mà báo là k tìm thấy mục nào bị xóa là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.374815,
+         "id": "764893",
+         "field_search": "question",
+         "question": " Mình đã sao lưu ảnh lên iCloud, thì làm cách nào để vào xem lại ảnh trên iCloud bằng điện thoại nhanh nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.219067,
+         "id": "1143250",
+         "field_search": "question",
+         "question": "chụp ảnh trên iphone bị ngược là sao vậy mấy anh chị??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.179794,
+         "id": "764757",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên iCloud rồi mà khi mình vào iCloud.com để xem ảnh thì mục hình ảnh trống nhỉ? Mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.177168,
+         "id": "1023692",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang xài máy samsung A3 do mình bấm nhầm vào nút xóa ảnh nên giờ những ảnh mình chụp trên máy bị xóa hết có cách nào lấy lại được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.173214,
+         "id": "815240",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đăng nhập icloud và tải những bức hình lên đám mây nhưng sau đó đứa em gái vào xóa tất cả ảnh trên ipad và vào xóa tất cả bức ảnh gần đây trong album đã xóa gần đây. em vào icloud kiểm tra tất cả bức hình trên đó, em không thấy ảnh. xin giúp em giải đáp thắc mắc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157122,
+         "id": "873201",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn tải app V tảivề máy iphone của mình mà sao tìn không tháy trên itune story vậy ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.146584,
+         "id": "803947",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại iPhone 6 plus, làm thế nào để mình khóa đc icloud trên máy tính. Mình không mong sẽ tìm lại được, nhưng nếu có người dùng đt của mình mà k có mật khẩu, vân tay và icloud thì cũng không thể sử dụng được phải k add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.106903,
+         "id": "764747",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên icloud rồi mà khi mình vào iloud.com để xem ảnh thì mục hình ảnh trống nhỉ? mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.083157,
+         "id": "751796",
+         "field_search": "question",
+         "question": "Xin ae giúp mình có cây iPhone mà trước đây mình không có tài khoản iCloud nhưng máy của mình bây giờ bị xóa mất mà mình không có tài khoản.Vậy mình muốn hỏi là liệu có biết được ai và người đó ở đâu xóa không? Giúp mình với xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.941122,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.929512,
+         "id": "852379",
+         "field_search": "question",
+         "question": "ad ơi mình hỏi nhé.Tại sao ảnh đại diện của bạn mình đã đổi trên facebook rồi mà sao trong messenger lại chưa cập nhật ảnh đại diện vậy ? cho mình cách khắc phục với mình dùng ip 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.920542,
+         "id": "1167288",
+         "field_search": "question",
+         "question": "Điện thoại samsung j4 của mình thông báo đầy bộ nhớ nên mình đã vào \"file của bạn\" trên máy và ấn xóa mấy cái ở bộ nhớ trong. Mãi sau mới biết bị mất hết ảnh ở thư viện máy ảnh. Vậy cho mình hỏi cách khôi phục lại ảnh với ạ. Ở thùng rác k có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.888376,
+         "id": "913631",
+         "field_search": "question",
+         "question": "ảnh trên icloud của mình 3,9 GBmình đăng nhập tài khoản icluod vào máy mới để tải ảnh trên icluod về.khi xem quản lí dung lượng máy ảnh chiếm có 1,8 gb.trong khi trên icluod là 3,9 gbmà trong ảnh vẫn đủ ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.876362,
+         "id": "751656",
+         "field_search": "question",
+         "question": " Tại sao không thể xóa ảnh đã chụp trên iphone... ad giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.790766,
+         "id": "1140884",
+         "field_search": "question",
+         "question": "Cho mình hỏi có người gửi kb trên zalo cho mình nhưng lát mình vô xem lại thì mất hết là tại sao vậy làm sao để xem lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.708557,
+         "id": "783336",
+         "field_search": "question",
+         "question": "Muốn mở khoá icloud cần phải làm gì?Tôi mới bị mất một chiếc điện thoại iphone có cài đặt icloud nhưng trong khoảng 1h icloud trên máy đã bị phá cho hỏi bằng cách nào mà người kia có thể phá icloud nhanh như vậy ??? Lúc phát hiện bị mất tôi có vào máy tính báo mất trên ứng dụng icloud và đã cho khoá iphone nhưng ngay thời gian 15 phút tôi đăng nhập lại icloud mà không được vì tài khoản đã bị xoá?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.703388,
+         "id": "773907",
+         "field_search": "question",
+         "question": "a chị cho em hỏi là khi em đăng xuất tài khoản iCloud thỳ trên máy báo bạn mướn xóa tất cả dữ liệu trên ip hay là vẫn còn luwu trên ip... em muốn xóa tất cả trên ip này nhưng em qua đt khác em đăng nhập tài khoản icoul này có mất tất cả dữ liệu ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.617453,
+         "id": "904170",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi đăng bài trên zalo. Sau đó mình xóa liền mà bài viết vẫn hiển thị ở bảng tin của người khác. Làm sao để xóa hẳn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.61284,
+         "id": "1163637",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để chuyển từ dạng mới mà Samsung cho cập nhật về dạng cũ, cảm giác kéo sang ngang không được tiện, kéo lên trên để xóa cũng khá bất tiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.551723,
+         "id": "944887",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại ảnh đã xóa trên iphone 6 ( mới xóa 2 ngày và xóa cả trong mục hình ảnh mới xóa luôn rồi ) giờ có cách nào không vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.533033,
+         "id": "1142577",
+         "field_search": "question",
+         "question": "Mình đánh rơi iphone bị hỏng,số điện thoại đăng ký icloud trc đây thì mình ko dùng nữa, vậy có cách nào lấy lại ảnh trên icloud ko?Mong mọi người ai biết chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.51848,
+         "id": "767107",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là mình mới mua iPhone 5S mà kết nối wifi yếu lắm nghe nhạc mà bị đứt khúc mình tưởng là wifi yếu nhưg khi lấy thêm chiếc iPhone 5S hai chiếc cũng mở một bài hát trên mạng mà máy mình bị còn máy kia không bị gió mình hỏi QTV có được đổi máy khác không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.511768,
+         "id": "803172",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi facebook của mình đang bình thường sao bậy giờ vào lại thành ''facebook for business: Tiếp thị trên facebook'' là sao k xem được ảnh cũng như chat với bạn bè nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.471462,
+         "id": "987059",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình đã chạy lại chương trình của máy iphone 5 mà trong khi đó mình đã quên mật khẩu icloud của mình luôn r. Mình cũng đã mất luôn email khi lập cái icloud đó vậy bây h còn cách nào để mình có thể chạy lại chương trình đc ko hay là từ bỏ chiếc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.396614,
+         "id": "1154327",
+         "field_search": "question",
+         "question": "Khi mình làm bài post trên Instagram mình có thêm mô tả và tags nhưng ko hiểu sao khi đăng thì lại bị mất hết ( ko có tags và mô tả chỉ có ảnh ). Xin cho hỏi là Instagram của mình bị sao vậy và cách khắc phục là j vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.357248,
+         "id": "759322",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi:Nếu mình bị mất iPhone mà mình đăng nhập trên iCloud.com để xóa iPhone thì kẻ trộm có cách nào có thể dùng điện thoại được nữa không? nếu trường hợp mình nhận lại được iPhone đó thì mình có thể tiếp tục sử dụng sau khi đã thực hiện xóa iPhone hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.355307,
+         "id": "875986",
+         "field_search": "question",
+         "question": " cho mình hỏi sao lưu ảnh từ messenger về kho ảnh iphone mà sao ảnh cứ tự nhân đôi lên vậy mọi người ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.292482,
+         "id": "826094",
+         "field_search": "question",
+         "question": " Boss cho mình hỏi mình muốn mở khoá trên iCloud trên ip5s giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.252071,
+         "id": "1001418",
+         "field_search": "question",
+         "question": " cho em hỏi. em không may xóa hết ảnh trên máy j5. vậy làm sao thì có thể lấy lại được anh ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.251148,
+         "id": "929881",
+         "field_search": "question",
+         "question": " Bạn ơi sao trên iphone mình gửi hình ảnh trên messenger, zalo qa cho bạn bè kh đc v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.225744,
+         "id": "904613",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình mất điện thoại Iphone 6 plus mình có khóa màn hình và dùng icloud thì khi mình xóa iphone thì pass màn hình có mất ko người lấy trộm máy có dùng dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.182932,
+         "id": "785838",
+         "field_search": "question",
+         "question": "Tôi bị mất iPhone 6 tình trạng máy có wifi và icloud nhưng mà máy không bật định vị và tôi cũng có vào iCloud khóa máy với xóa dữ liệu vậy thì kẻ trộm máy tôi restore iPhone lại có sử dụng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.144884,
+         "id": "876483",
+         "field_search": "question",
+         "question": "Tại sao viber trên lumia 1520 không có tiếng việt? Xóa rồi tải lại cũng vậy . Ngôn ngữ máy của e là tiếng việt mà. Nó toàn hiện tiếng pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.112041,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.093029,
+         "id": "925813",
+         "field_search": "question",
+         "question": "admin cho mình hỏi: sao icloud của mình sao lưu ảnh đc 2 máy iPhone 6s mà mình nhập vào iPhone 7 plus sao k thấy sao lưu ảnh đc vao máy nhi? admin giải thích dùm minh với đc k?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.003382,
+         "id": "864077",
+         "field_search": "question",
+         "question": "Mình có kb trên zalo những người đó không đồng ý mà cũng không xóa bây h mình không thể kb thêm vì zalo báo đã quá số người gì đấy, mình phải làm sao đây... Mà zalo sau bao lâu mới tự hủy kb vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.93102,
+         "id": "767600",
+         "field_search": "question",
+         "question": "Trên Laptop có phần mềm iTools rồi mà khi cắm jack vô để tải dữ liệu như hình ảnh, video hay xóa dữ liệu mà sao không truy cập vô File được, cũng không coi được hình ảnh luôn, nhờ add chỉ dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.855974,
+         "id": "1143152",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại ngày 5/1/2019 và bản sao lưu trên itunes của mình từ ngày 20/11/2018 cơ. Tuy nhiên trên Apple Watch của mình vẫn còn tin nhắn và ảnh tới lúc mình mất điện thoại cơ. Vậy mình có thể lấy lại tin nhắn và ảnh từ Apple Watch sang điện thoại mới được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80057,
+         "id": "1133754",
+         "field_search": "question",
+         "question": "khi mình xóa tài khoản zalo trên điện thoại thì tài khoản zalo trên máy tính có bi mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.76165,
+         "id": "885947",
+         "field_search": "question",
+         "question": " Tgdd có thể chỉ cho tôi cách xoá ảnh trên icloud iphone 6 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.723284,
+         "id": "1163728",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao mình dowload trong CH play mà ko có biểu tượng trên màn hình? Vào mới tải cũng phải vào CH play mới vào được. Dt mình là huawei P30 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.69396,
+         "id": "1137946",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, hiện tôi đang sử dụng j7 prime. Khi tôi xóa ảnh trên google photo thì trong bộ sưu tập của tôi cũng bị xóa. Có cách nào để xóa ảnh trên google photo nhưng trong bộ sưu tập của tôi vẫn còn không vậy. Dù tôi đã tắt đồng bộ nhưng vẫn bị...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.654907,
+         "id": "1169273",
+         "field_search": "question",
+         "question": "Hi Cho mình hỏi. Làm thế nào để xóa cuộc trò chuyện trên zalo của máy tính mà zalo trên điện thoại vẫn được lưu lại?.điện thoại của mình là huawei nova 31. Mình đăng nhập lên chiếc điện thoại hãng khác thì xóa cuộc trò chuyện trên pc thì điện thoại vẫn còn, mình nghĩ là lỗi do điện thoại. chỉ mình cách khắc phục nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.654282,
+         "id": "825431",
+         "field_search": "question",
+         "question": "Baj ơi có zalo pc nào mà mình xóa tb trên đt trên oc vẫn lưu k vì mình dùng pc là chính. B có thể gửi phiên bản đó cho mình đx k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.649065,
+         "id": "777780",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình bị mất iphone 5s đã khóa máy bằng icloud nhưng khi lấy lại được nó lại yêu cầu mở khóa itunes trên máy tính là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.639778,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60866,
+         "id": "804074",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5s mới jeaback để cài ảnh đại diện video trên facebook, mấy tài khoản facebook khác đăng nhập trên điện thoại mình đều thay ảnh đại diện bằng video rồi, mà chỉ mỗi nick facebook mình là không thấy để up video đại diện thôi. Mình không hiểu sao luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.558212,
+         "id": "801792",
+         "field_search": "question",
+         "question": " Khi đăng nhập icloud trên máy tính để tìm iphone mà không có thiết bị nào là sao hả ad ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.554523,
+         "id": "1158356",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi là instagram của mình mỗi lần up ảnh lên rồi nó tự xóa ảnh đó luôn... bây giờ mình phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.542381,
+         "id": "1013142",
+         "field_search": "question",
+         "question": "cho mình hỏi mình lỡ xóa mất danh bạ trên máy samsung galaxy S7, và tài khoản samsung cloud lại tự động sao lưu danh bạ mới, vậy có thể khôi phục được danh bạ của mình không vậy? Nếu có thì làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.486094,
+         "id": "1148923",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn xóa ứng dụng mặc định trên galaxy note 3 làm sao hả bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.483807,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.472183,
+         "id": "941214",
+         "field_search": "question",
+         "question": " cho em hỏi làm sao quai video trên iphone vậy mình hiện đang xài iphone 4..??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.471523,
+         "id": "1143708",
+         "field_search": "question",
+         "question": "Em đang xài ip6splus , dung lượng icloud của máy cứ báo đầy do lượng ảnh lên đến gần 4gb , h em muốn tắt tính năng Ảnh icloud cho trống dung lượng , thì toàn bộ ảnh trên điện thoại e còn hay sẽ bị mất ạ ? Tại bạn em cũng tắt tính năng này nhưng tắt ngay từ đầu nên ảnh nó vẫn lưu trên đt bình thường ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.465742,
+         "id": "822680",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn thay đổi id appe để tải app trên ios 9.3.1 thì làm như thế nào? Mình tìm mãi mà không thấy mục itunes and appstore đâu cả. Trên ios 9.2 trở xống nó nằm dưới mục cài đặt icloud mà lên 9.3 thì lại mất tích.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.421892,
+         "id": "779077",
+         "field_search": "question",
+         "question": " Cho mình hỏi cái ứng dụng massenger của mình cài trên iPhone 4s hiện tại không hiển thị nút gọi nữa là sao vậy?thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.37991,
+         "id": "1155278",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.378187,
+         "id": "953137",
+         "field_search": "question",
+         "question": "Chào ad, cho mình hỏi mình cài zalo trên pc nhưng mình vừa bị mất máy. Vậy phải làm sao để khóa tài khoản zalo trên pc bị mất được ạ? Mong nhận được câu trả lời sớm từ ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34247,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.33802,
+         "id": "856362",
+         "field_search": "question",
+         "question": "Chọn Erase iphone ( xóa iphone ) để xóa mọi dữ liệu bên trong máy thì icloud bên trong máy còn không hay cũng bị thoát hay xóa luôn vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.334827,
+         "id": "1148305",
+         "field_search": "question",
+         "question": " Cho em hỏi em muốn xoá ảnh trong máy nhueng kh xoá trên icloud thì làm sao ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.334465,
+         "id": "752257",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn tìm lại mật khẩu icloud nhưng vào mail lại kooo đk trên máy báo là mail của mình là (n......ilcoud.com)mà mình koo có mail nào có chữ cái n là sao hả bạn mong giải thích giúp?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.31735,
+         "id": "871965",
+         "field_search": "question",
+         "question": " Cho e hỏi cách làm sao để khắc phục ảnh bi zoom trên iphone 5s phiên bản 9.3.3 vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.298306,
+         "id": "762670",
+         "field_search": "question",
+         "question": "Chào mừng bạn đến với app Ảnh App Ảnh kết nối liền mạch với Thư viện Ảnh iCloud bao gồm tất cả ảnh và video được lưu trữ trên iCloud và luôn cập nhật trên web, iPhone, iPad, iPod touch và máy Mac. Để sử dụng app Ảnh, hãy vào Cài đặt iCloud trên thiết bị iOS, chạm vào Ảnh và bật Thư viện Ảnh iCloud. Trên máy Mac, hãy mở app Ảnh, vào Tùy chọn và bật Thư viện Ảnh iCloud. *Ảnh iCloud yêu cầu phiên bản iOS 8.1 trở lên, hoặc OS X Yosemite 10.10.3 trở lên.,,,,, dong chữ này xuất hiện khi vào xem ảnh,, tôi khong rõ xin hỏi , cảm ơn ,,, xin chỉ cách xem ảnh trên icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.288168,
+         "id": "991050",
+         "field_search": "question",
+         "question": "Em lỡ xóa tài khoản icloud trong máy làm mất hết ảnh trong kho ảnh icloud rồi ạ. Có cách nào khôi phục lại ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.279562,
+         "id": "1155282",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.235132,
+         "id": "998437",
+         "field_search": "question",
+         "question": "Ad ơi, cho mình hỏi mình có mua thêm 50gb icloud để sao lưu từ iphone cũ sang mới, ip mới đã có đầy đủ ảnh rồi, mình huỷ gói 50gb thì có bị mất hết ảnh ở máy mới ko ạ? Cám ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.197756,
+         "id": "751612",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.197756,
+         "id": "751160",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.14876,
+         "id": "1150817",
+         "field_search": "question",
+         "question": "Cho mình hỏi tin nhắn trên zalo mình đã thu hồi rồi, nhưng khi thu hồi xong thì mình xóa. Cho mình hỏi là nếu như vậy thì bên được gửi còn thấy tin nhắn của mình ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.143208,
+         "id": "844725",
+         "field_search": "question",
+         "question": " Cách xóa ảnh trên Auto Backup điện thoại của e là Samsung Galaxy Grand neo? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.133314,
+         "id": "1166822",
+         "field_search": "question",
+         "question": "cho mình hỏi chút . mình lỡ xóa gh chú trên cloud ở iphone bây gio có cách nào khôi phục lại ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.119371,
+         "id": "814579",
+         "field_search": "question",
+         "question": "Chào bạn. mình muốn hỏi chút là chồng mình cũng dùng Zalo, mình cũng dùng mà sao mình lưu số của chồng mình trong danh bạ rồi mà sao mình không thấy cập nhật danh bạ là số của chồng mình trên Zalo hay do chồng mình đăng ký bằng máy tính bảng nên không hiện lên điện thoại mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.112272,
+         "id": "992031",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách nút hẹn giờ chụp ảnh trên iphone 4 nằm ở đâu ạ ? Mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.07405,
+         "id": "888297",
+         "field_search": "question",
+         "question": "1. Cho tôi hỏi: tôi dùng mất iphone 6 rồi mua lại iphone 6 dùng chung một icloud. Nay bị báo icloud đã đầy, trong đó iphone cũ 4,8Gb, (hình 1) vậy tôi xóa dung lượng trên iphone 2 (hình 2) để giải thoát bộ nhớ có ảnh hưởng gì không vây (kèm hình) .rất mong được phản hồi, ĐT: 0985027327, kybv.dnpc@gmail.com2. tôi muốn đổi pass icloud nhưng chưa biết cách thực hiện.3. Nâng cấp tài khooản icloud thì cần thẻ tín dụng và tài khoản nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

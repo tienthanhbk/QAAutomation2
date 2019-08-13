@@ -1,0 +1,801 @@
+{
+   "id_query": "993112",
+   "total": 34333,
+   "total_current": 100,
+   "max_score": 133.09952,
+   "origin_question": "AD ơi, tại sao mỗi khi em tắt máy nó lại hiện lên \" Getting windows ready don\"t turn off your computer\" tầm 10p sau mới tắt máy hẳn vậy có sao không ạ, làm thế nào để khắc phục điều này vậy, e cám ơn nhiều ạ.",
+   "hits": [
+      {
+         "score": 59.941586,
+         "id": "994855",
+         "field_search": "question",
+         "question": "nếu báo \"getting windows ready don't turn off your computer\" là update win, vậy muốn biết chừng nào update hoàn tất, nghĩa là update xong hoàn toàn, thì làm sao biết vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.937157,
+         "id": "1013816",
+         "field_search": "question",
+         "question": "Máy tính của e khi tắt xuất hiện dòng chữ preparing to configure windows dont turn off your computer là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.484123,
+         "id": "890720",
+         "field_search": "question",
+         "question": "ad cho em hỏi, laptop của e tn tắt máy không đc mà lại hiện dòng chữ \" working on updates 57% complete. Don''t turn off your complete . Với nhiều lúc máy chạy rè rè . Như vậy là máy bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.74942,
+         "id": "1141274",
+         "field_search": "question",
+         "question": "máy em mơi mua hôm qua hôm nayem khởi động lại thì nó hiện xanh “ windows ready don’t turn off your computer” nhưng không hiện %  Máy em nó để như vậy tầm 15p rồi nó tắt màn hình đen nhưng nút home vẫn còn sáng , mãi không lên phải làm sao đây ạ . với máy em đang còn ít pin em có nên mở máy để như vậy rồi cắm sạc vào đợi ko ạ ? Mong nhận hồi đáp em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.820526,
+         "id": "1139012",
+         "field_search": "question",
+         "question": " Ad cho hỏi e mở máy tính lên nó bảo getting windown realy donnt understan your computer như vậy là sao vậy à ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.627346,
+         "id": "804557",
+         "field_search": "question",
+         "question": "Laptop asuss k555L core i5 của e khi khởi động nó để là: we couldn\"t complete the updates undoing changes don\"t turn off your computer. là bị gì vậy a?? cách khắc phục ntn a???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.013264,
+         "id": "744710",
+         "field_search": "question",
+         "question": "laptop em sao tắt và khởi động lâu..khi khởi động nó để we couldn't complete the updates.undoing changes.don't turn off your compurter và chạy phần trăm hoài mà không lên thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.141193,
+         "id": "874741",
+         "field_search": "question",
+         "question": "mỗi lần mở là máy em hiện lên như thế này, cho em hỏi nó bị lỗi gì vậy anh/chị, làm sao em có thể khắc phục?em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.599323,
+         "id": "1155349",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy tính hp ở thế giới di động cài win 10 bản quyền đã hơn 1 năm và hết bảo hành. Máy chạy rất chậm, khi em restart máy thì nó hay báo getting window ready dont turn off computer. Và máy ram 4g nhung chi nhận 2,07 gb là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.350887,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.0892,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.052757,
+         "id": "850940",
+         "field_search": "question",
+         "question": "À, máy VAio Win8 em mua đc 1 năm, hồi trc anh của em có chạy lại chương trình của máy, sau khi chạy lại xong, em tải game hay trình duyệt cốc cốc đều không đc, ý em là tải về được nhưng sau khi Turn off máy thì dữ liệu App hay Game em đã tải bị mất sạch. Có khi em xài xong, tắt máy, thì nó Hiện lên cái dòng chữ gì mà Confiring Feature Window được 15% rồi có dòng chữ don't turn off your computer. Rồi sau khi em mở máy lên thì game em tải mất sạch",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.83163,
+         "id": "1019193",
+         "field_search": "question",
+         "question": "Chào ad...em mới mua laptop dell inspiron 3467 ở tgdđ... Máy e mỗi lần mở lên nó cứ hiện cái review settings không tắt được phải tắt máy mở lại... giờ phải khắc phục sao ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.07836,
+         "id": "1133631",
+         "field_search": "question",
+         "question": "Anh chị ơi mỗi khi em bật ứng dụng Liên Quân thi thoảng máy tự tắt và lên nguồn. Lỗi này khắc phục thế nào ạ. Máy em ssj3 pro ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.561455,
+         "id": "1020703",
+         "field_search": "question",
+         "question": "laptop em đang dung có tình trạng tắt đột ngột, nhiều lúc em mới mở máy lên chưa mở ứng dụng là nó lại tắt roogi, máy bị vậy là bị lỗi gì vậy ạ, rồi ra thế giới di động có bảo hành k. e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.00354,
+         "id": "922755",
+         "field_search": "question",
+         "question": "Chào Ad, hiện tại cái ip 5s của mình gặp vấn đề là mỗi lần gõ văn bản là lại hiện ra giọng nói. vậy làm sao để tắt được nó ah xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.68217,
+         "id": "840001",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 3gs của em sau khi tắt nguồn mở lên thì màn hình trở thành màu xám rồi nó hiện cái bảng gì đó như vậy làm sao để khắc phục nó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.873978,
+         "id": "1007671",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng máy galaxy s3 sau khi root máy xong khởi động lại máy nó lag vậy cho e hỏi làm sao để khắc phục ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.374374,
+         "id": "1022199",
+         "field_search": "question",
+         "question": " máy mình như thế này là bị làm sao vậy?? cho mình cách khắc phục với. cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.015682,
+         "id": "1006933",
+         "field_search": "question",
+         "question": " Mỗi lần gửi hình là nó hiện ra như vậy. Phải làm sao để tắt nó đi ạ.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.922573,
+         "id": "814038",
+         "field_search": "question",
+         "question": "iPad em đang dùng bỗng dưng tắt nguồn,sau đó em đè thử nút Home với Lock,máy hiện logo apple rồi tắt rồi lại hiện rồi tắt,chừng 10' thì máy tắt nguồn hẳn,không mở lên được,em phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.587112,
+         "id": "1152005",
+         "field_search": "question",
+         "question": "dạ mong anh/chị chỉ em cách tắt bàn phím trên màn hình vì mỗi lần em mở máy nó đều hiện lên, mỗi lần vậy em đều tắt đi nhưng cứ mở máy lên là nó lại lên ạ. Mong anh /chị giúp em, em xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.46352,
+         "id": "1005970",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng máy samsung j5 prime nhưng tự dưng máy xuất hiện vết đỏ ở 4 góc màn hình, để một thời gian thì lại không thấy nữa hiện tượng này là máy bị làm sao và cách khắc phục như thế nào ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.368183,
+         "id": "778086",
+         "field_search": "question",
+         "question": "Máy tính windows 8 khi khởi động hiện lên updating your system rất lâu không xong thì phải làm sao ạ?cứ hiện lên 1%,có cách nào làm mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35792,
+         "id": "1162257",
+         "field_search": "question",
+         "question": " em bị lỗi này sao khắc phục ạ em windows 10 em reset máy lại tự nhiên bị vậy mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.355247,
+         "id": "847290",
+         "field_search": "question",
+         "question": " Ad cho em hỏi lớp phủ màn hình là gì ạ và làm sao đẻ tắt nó vì em cứ bị nó hiện lên hoài . cám ơn ad ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.260883,
+         "id": "1014630",
+         "field_search": "question",
+         "question": "   hiển thị phần ngủ màn hình làm sao ạ? Để điều chỉnh lại thời gian nhiều hơn là sau 30giây nó tự tắt ?! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.246124,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.135136,
+         "id": "910468",
+         "field_search": "question",
+         "question": " Làm sao để tắt được thông báo này trên đt lenovo A1000? Nó cứ hiện mỗi khi nhấn vào 1 link nào trên fb . cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.116047,
+         "id": "1164386",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.01361,
+         "id": "1156629",
+         "field_search": "question",
+         "question": "tại sao em gửi lời kb mà nó hiện vậy, ad có cách khắc phục nào ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.897467,
+         "id": "767084",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.83812,
+         "id": "999195",
+         "field_search": "question",
+         "question": "chào ad hiện tại e đang sài con ip 6se để chế độ máy bay khi ngủ mai e mở lên sim nó hiện sim bị khóa không biết có khách khắc phục nào không ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.736916,
+         "id": "921573",
+         "field_search": "question",
+         "question": " Ad ơi tại sao sau khi khởi động lmhtnos lại hiện ra dòng này vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.668238,
+         "id": "1009712",
+         "field_search": "question",
+         "question": "ad cho e hỏi vs ạ... e dùng máy sony xperia xa ultra lên androi 7.0 thì nó xuất hiện vạch đỏ phía bên phải màn hình... tắt máy khởi động lại thì nó mất đi... xog rồi một thời gian hiện lại.... vậy làm thế nào để tắt cái vạch màu đỏ đó đi ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.591145,
+         "id": "950745",
+         "field_search": "question",
+         "question": "  Laptop của e nó báo như thế nào là sao vậy ạ? Có cách khắc phục không ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.590235,
+         "id": "903050",
+         "field_search": "question",
+         "question": " cho e hỏi máy e mở task manager không được. Vậy phải khắc phục như thế nào ạ !? e cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.486774,
+         "id": "993471",
+         "field_search": "question",
+         "question": "máy iphone5s của e bị vậy làm sao khắc phục vậy ạ. e mua máy này ơ chổ ad á ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.452393,
+         "id": "1162835",
+         "field_search": "question",
+         "question": "Làm sao để hiển thị phím tắt ứng dụng trên màn hình khóa Samsung A5 ạ? Mình đã bật hai phím tắt rồi, cũng thử khởi động lại máy nhưng hai phím tắt vẫn không hiện ra trên màn hình khóaVà vấn đề nữa là trong phần cài đặt, những tên mục nào quá dài sẽ bị thay băng dấu ba chấm phía sau, làm sao để khắc phục chuyện này ạ?Mình cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.436646,
+         "id": "1142277",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop của e khi khởi động lên nó tự động vào Www2.savemax.store sau đó ní tắt máy luôn. Cho e hỏi khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.264984,
+         "id": "765952",
+         "field_search": "question",
+         "question": "Em mua laptop HP được 4 tháng và mấy hôm gần đây nó có hiện dòng thông báo \"your windows license will expire soon \" như vậy là bị sao ạ , và có cách khắc phục không . Em xin cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.257284,
+         "id": "830128",
+         "field_search": "question",
+         "question": "chào acmáy e sài win 10 ,mỗi lần tắt máy đều hiện update and shut down nên 10' mới tắt máy đc, ac cho e hỏi có cách nào sửa dc k ạ? e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.067528,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.041899,
+         "id": "1144374",
+         "field_search": "question",
+         "question": "Tại sao cục sạc loptop khi ghim điện nó có đèn và khi ghim vào máy thì đèn bị tắt là bị sao vậy ạ,cần hướng dẫn cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.822588,
+         "id": "1159335",
+         "field_search": "question",
+         "question": "Chào adAd cho em hỏi em đang dùng Oppo F1s nhưng không hiểu sao lâu lâu cái nút tăng âm lượng lại kiểu như liệt Đã vậy nếu cố nhấn thì nó sẽ giảm âm lượng Ad cho em hỏi máy em nó bị làm sao vậy ạ ?Làm thế nào để khắc phục lỗi đó ạ ?Thank ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.598257,
+         "id": "900853",
+         "field_search": "question",
+         "question": "  Lúc sạc pin thì màn hình hiển thị như thế này. Rồi mình turn off đi. Giờ mình muốn turn on lại thì làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.58555,
+         "id": "991364",
+         "field_search": "question",
+         "question": "cho e hỏi sao iphone 5 của e hiện lên chữ \"phụ kiện này có thể k được hỗ trợ\"mà e nhấn mãi không thể nào tắt đượcchỉ cho e làm thế nào để tắt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.577665,
+         "id": "756251",
+         "field_search": "question",
+         "question": "Cho tôi hỏi sony z3 khi bật camera lên khoảng 1,phút nó báo camera sẽ tự tắt để máy nguội bớt rồi nó tự tắt. Vậy có cách nào khác phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.556442,
+         "id": "892230",
+         "field_search": "question",
+         "question": "chao ad ạ. e đang sài laptop dell ạ. khi e tắt máy vầ gập lại sau đó mở lên thì nó tự động mở nguồn ạ, có cách nào tắt chức năng đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.410862,
+         "id": "1013377",
+         "field_search": "question",
+         "question": "em dùng htc m7 và khi ấn nút nguồn để tắt máy thì nó luôn tự động tắt nguồn sau đó chập chờn liên tục cho đến khi khởi động lại, nó cứ nháy sáng lên xong tự tắt tiếp ấy. Máy em bị sao thế ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.382154,
+         "id": "837659",
+         "field_search": "question",
+         "question": "Ad ơi làm ơn chỉ cho em cách khắc phục lỗi mỗi khi em đăng bài viết trên Facebook là cái màn hình của em nó cứ run run vầy là sao ad. Em xài hệ điều hành Windows Phone 8.1 và sử dụng trình duyệt Internet Exploer để đăng bài viết trên Facebook.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.364412,
+         "id": "824789",
+         "field_search": "question",
+         "question": "CHO EM HỎI TẠI SAO VIBER Ở SINGAPORE KHI NGƯỜI ĐÓ NGƯỜI TA ĐÃ OFF ĐI LÀM TẮT 3G WIFI HẾT R NHƯNG VẪN CÒN TRỰC TUYẾN CỠ 25P SAU HOẶC CÓ NHIỀU LÚC 14,15,20,5P SAU MỚI HIỆN LÊN TRỰC TUYẾN LẦN CUỐI VÀO LÚC.... ? EM THẮC MẮC LÀ TẠI SAO LẠI NV Ạ ? Giống như hình ảnh bên dứoi là ng đó gửi cho em kết thúc cuộc nói ch lúc 8:38 mà 8:52 mới off ạ ? TRẢ LỜI GẤP GIÚP EM VỚI NHÉ AD :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.178467,
+         "id": "1008506",
+         "field_search": "question",
+         "question": "Ad ơi chữa hộ em với, chẳng biết sao mà nó cứ báo như vậy miếc. Em vào bật lại rồi tắt nhưng vào ứng dụng nó củng báo như vậy nữa !? Tắt đi bật lại nhiều lần mà củng không được ạ ? Mong ad sớm phản hồi. Em cảm ơn ạ ! Em dùng J7 Prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.16066,
+         "id": "784238",
+         "field_search": "question",
+         "question": "Ad ơi máy iphone 4 của em đang xài bình thường rồi e tắt máy mà em mở lại nó không lên lại luôn,em dùng mọi cách cũng không lên được .ad cho em hỏi là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.111689,
+         "id": "944672",
+         "field_search": "question",
+         "question": "Ad ơi... e dùng máy Dell Latitude E6400. Gần đây máy cứ hiện quảng cáo ở góc phải màn hình. Lúc trước tắt nó cứ hiện lại. Bây giờ tắt không được luôn. Với vào Cốc Cốc, Chrome, Computer, control panel... đều không được. Nó hiện vòng tròn (kiểu đang chạy) xong tắt luôn, chứ không hiện cửa sổ ạ. Ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.010828,
+         "id": "1156295",
+         "field_search": "question",
+         "question": "Xin chào TGDDCho e hỏi cái này ạE đang xài máy HTC derise 10 pro Sao máy e mỗi lần tắt máy hay khởi động lại hơn 10 phút mới lên nguồn và cầm máy nghe nóng lắm.Xài pin tới 60% là nó tuột nhanh lắm có khi 50% rồi 40% là tắt nguồn luôn Cho e hỏi máy bị hư pin hay là nguồn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.964828,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.93172,
+         "id": "1138183",
+         "field_search": "question",
+         "question": "Iphone 6 của em tắt nguồn gần 4 tháng, làm như vậy có sao không ạ, khi bật nguồn lại nó có lên không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.80954,
+         "id": "998471",
+         "field_search": "question",
+         "question": "T dùng máy zen 3 5.5. Sau khi cập nhập lại máy thì máy chỉ hiển thi sim2 còn sim 1 thì không hiển thị. Vậy khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.804342,
+         "id": "872993",
+         "field_search": "question",
+         "question": "Chào anh chị, em có điều lo sợ về iphone 5 của em, em muốn nhờ anh chị giúp em ạ. Iphone em hay dùng 3G, lúc đầu mua về thì khi em cài 3G bật lên thì vẫn dùng bình thường, nhưng dạo 2 tháng nay. Mỗi khi em cài 3G, bật dữ liệu di động lên thì không hiện thấy, thế rồi cứ tắt nguồn bật lên thì hiện. Mà dạo này em tắt nguồn rồi bật nguồn, phần nút mở máy trên đầu càng ngày bị lờn đi, có khi bật máy lên không được, phải ấn mạnh mới lên. Thậm chí giờ tắt nguồn bật lên cũng khó khăn lắm. Em lo lắm anh chị ạ, xin hãy giúp em làm sao khôi phục lại lỗi 3G bất thường này ạ. Em cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.76837,
+         "id": "1021562",
+         "field_search": "question",
+         "question": "Cho em hỏi tý Tại Sao Khi em Vừa mở máy galaxy not5 Ra là Thấy nó hiện lên Cài Cá ứng dụng Cho em hỏi làm Sao tắt được Vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.72354,
+         "id": "831808",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao khi download trên microsoft nó lại chỉ hiện lên 1mb mà mãi không tải được chút nào ạ. E dùng máy dell và win 10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.59557,
+         "id": "846264",
+         "field_search": "question",
+         "question": "Cho em hỏi máy laptop của em khi mở máy lên kêu 5 tiếng bíp liên tục nhưng sau khi em tắt máy rồi mở lên lại thì nó lại không kêu nữa! Vậy cho em hỏi máy em có bị gì không ạ! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.537565,
+         "id": "1137730",
+         "field_search": "question",
+         "question": "Máy e samsung J7, khi tắt máy thì nó tự động tắt nguồn và phải khởi động lâu mới lên, em phải làm sao !?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.514418,
+         "id": "779706",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone tự dưng tắt nguồn bật chi hiện màn hình táo, máy nóng và chạy trương trình rất chậm, vậy máy em bị gì và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.50842,
+         "id": "992804",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi..mình mới mua ip6s plus tại TGDĐ được tầm một tuần...hiện tại mình gọi facetime, facetime audio cho người khác được, nhưng khi họ gọi lại thì máy luôn báo đang kết nối, mình tắt đi gọi lại cho ngta thì được, cho mình hỏi cách khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.46775,
+         "id": "1160015",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy mình khi nhấn nút nguồn nhưng ko tắt mà còn vào Google .làm thế nào để nó tắt nguồn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.387362,
+         "id": "1001372",
+         "field_search": "question",
+         "question": " Làm sao để tắt Logo Camera 360 khi chụp vậy ạ. Nó cứ hiện lên làm che mất 1 số chi tiết bức ảnh ấy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.327965,
+         "id": "929442",
+         "field_search": "question",
+         "question": " cho em hỏi cách khắc phục cái này ạ. làm thế nào để tại ứng dụng này ạ. em xin cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.289549,
+         "id": "894417",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. Máy laptop asus mới mua khi tắt máy để cập nhật và tắt máy, em chọn cập nhật và tắt máy sao lâu quá vậy. Em xảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.260885,
+         "id": "1019540",
+         "field_search": "question",
+         "question": "Mỗi khi mình muốn xoá ảnh trong album thì máy đều hiện ra là 'Không thể xoá. Vui lòng thử lại.' Vì sao lại như vậy và cách khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.219603,
+         "id": "771216",
+         "field_search": "question",
+         "question": " Điện thoại Oppo R1001 sao tự tắt nguồn và mở lên thì nó hiện lên chữ Oppo rồi nó tắt lại ạ, sao bị hoài vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.218521,
+         "id": "786877",
+         "field_search": "question",
+         "question": "Cho e hỏi máy laptop cứ chạy updates làm sao để tắt ạ? Còn backup nữa, nó chiếm rất nhiều dung lượng của máy(1/2 ổ D:) hầu như máy e chẳng có nhìu dữ liệu để sao lưu đến như thế. Phải làm sao để tắt hai thứ đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.16872,
+         "id": "994222",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em sử dụng từ 15-20p thì nó tự động tắt máy rồi khởi động lại thì làm cách nào để khắc phục vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.125488,
+         "id": "1136867",
+         "field_search": "question",
+         "question": "Máy em lâu lâu hay bị tắt nguồn nhưng khi em muốn mở nguồn lại không lên , phải đợi khoảng 10p mới mở đc em phải nhấn tất cả các nút cùng một lúc nó mới lên. Cho em hỏi máy e bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.08841,
+         "id": "1022884",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi. E đang dùng đt oppo a39. Nhưng kg hiểu sao máy của e bây giờ cứ hiện lên đã phát hiện một con virus hoài thôi. E đã thử diệt theo yêu cầu của máy, nhưng ngày hôm sau lại như vậy. Xin hỏi anh chị giờ e phải làm sao để khắc phục ạ?  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.978258,
+         "id": "883684",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi tại sao tự nhiên máy nó hiện như này rồi e quên mất địa chỉ ID Apple rồi, giờ cách khắc phục như nào ạ add phản hồi lại dùm e vs @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.968546,
+         "id": "832095",
+         "field_search": "question",
+         "question": "vì sao ở quán internet tôi đã đăng video được 65% và 14p để nó được đăng lên, nhưng tôi lỡ tay tắt máy và chơi tại nhà, vào xem thì nó vẫn chưa được đăng lên, làm cách nào để khắc phục tình trạng này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.949257,
+         "id": "1134799",
+         "field_search": "question",
+         "question": "điện thoại android cứ tắt nguồn mở lên lại hiện đang khỏi động android. làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.941904,
+         "id": "810731",
+         "field_search": "question",
+         "question": "Em đã cài đặt lại win trên thegioididong.com tại trà vinh cách đây khoảng 30 ngày nhưng bây giờ máy em nó để như thế này : your windows license expires on saturday , April 16, 2016 contact your system admin to get a key giờ em phải làm sao ạ ? với lại hình như là cài win = usb à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.94047,
+         "id": "1149702",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy iphone của e đã xoá ID aple này vi quen mk và thay thế ID khác nhưng khi vào app để tải ứng dụng thì lại bắt nhập ID cũ . lm cách nào để khắc phục vậy ạ. mong ad trả lời cho e sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.91763,
+         "id": "756938",
+         "field_search": "question",
+         "question": "AD ơi máy mình dạo này bị lỗi này, giúp mình với. khi khởi động của sổ search result luôn hiện ra (hình 1), tắt mãi mới được, thỉnh thoảng lại hiện lại. còn trong trinh duyệt web mỗi khi đánh chữ thì được mấy kí tự thì nó nhảy đến hiện trong hộp thoại mình khoanh vòng đỏ trong hình 12. Mình cài lại win cũng vẫn bị, cài win khác (win xp) vẫn bị, vào mini win xp hộp thoại vẫn hiện ra, hiện tại mình đang dùng win 7. Nếu mình tắt tính năng windows search thì khởi động xong máy báo lỗi windows search và máy không cho làm việc (kích chuột không được). nếu các bạn biết lỗi gì chỉ mình với, cảm ơn AD nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.88579,
+         "id": "1154101",
+         "field_search": "question",
+         "question": "máy có hiện chữ activate windows bên góc phải thì làm sao vậy AD. bên mình có hỗ trợ giúp cái này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.858133,
+         "id": "1006966",
+         "field_search": "question",
+         "question": "ah ơi  sao máy của em khi mở tab mới côc côc thì hiện lên một loạt số 2 em phải  xóa mới truy cập trang muốn truy cập. Vậy là sao ạ và phải sửa nhủ thế nào ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.775476,
+         "id": "1143529",
+         "field_search": "question",
+         "question": "cho e hỏi cái samsung note 4 e nó cứ lên được 2 3s rồi lại tắt nguồn ... ở biểu tượng sóng đth nó hiện cái biểu tượng chặn ... sạc đầy rồi mở nguồn thì nó lên mỗi lần mỗi mức pin khác nhau..lm sao khắc phục đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.734287,
+         "id": "1144708",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, khi mình gửi kết bạn trên zalo pc thì nó báo lỗi như vậy, là bị làm sao vậy ad, khắc phục như thế nào, ad chỉ mình mới, cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.712631,
+         "id": "1157665",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Oppo neo 9 em đang vừa sạc vừa dùng tự dưng nó tắt nguồn. Xong em rút sạc ra bật nguồn lên thì nó treo logo sạc. Không sạc nó vẫn treo logo vậy có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.700256,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.684116,
+         "id": "1161627",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro, tại sao trước kia tôi tắt hết đa nghiệm bật chế độ máy bay để qua đêm thì không bị tụt pin. Còn bây giờ t cũng làm vạy nhưng sao bị tụt pin vậy. Chỉ tôi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.674309,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.659767,
+         "id": "1002023",
+         "field_search": "question",
+         "question": "e đang xài zenfone go, sau khi cập nhật hệ thống thì máy cứ khởi động lại đến khi thấy logo asus thì lại tắt và khởi động lại mãi như vậy là bị j và làm sao khắc phục vậy mấy ac ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.653908,
+         "id": "1134100",
+         "field_search": "question",
+         "question": "Em sử dụng sam sung j3 pro. Hồi trước khi em đang sử dụng thì mày tắt hoài. Em có hỏi bên mình thì được bảo là reset lại máy. Em đã làm theo. Nhưng sau khi reset xong thì máy em ngốn pin rất nhiều. Em không biết làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.604364,
+         "id": "1145931",
+         "field_search": "question",
+         "question": "cái SS tab A6 của em lúc em tắt nguồn r bật lên thì màn hình màu xanh dương r có biểu tưởng dowload với hàng chữ Dowloading.. Do not turn off target. cho e hỏi máy e có bị sao kh ạ. hay chỉ đang cập nhật th?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.51127,
+         "id": "931775",
+         "field_search": "question",
+         "question": "Ad ơi! Cho e hỏi xíu ạ . laptop của e là dell vostro 3458 để máy ở chế độ sleep sau đó bật lại thì bị mất âm thanh. restart thì lại có tiếng bình thường. e muốn khắc phục lỗi này thì phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.505737,
+         "id": "1011459",
+         "field_search": "question",
+         "question": "Khi ấn nút home để mở máy, điện thoại của mình nháy lên 1 phát rồi sau đó mới hiện ra chỗ để nhập mật khẩu mở máy.Kiểu như đang tắt màn hình rồi bật sáng thì nó đều bị như thế.Làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.500504,
+         "id": "1156641",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro tại sao khi sạc lại có hiện tượng máy nóng. Và cục sạc cũng nóng vậy. Tôi ko có sài óp cho máy. Cách nào để khắc phục vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.496538,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.488827,
+         "id": "1147094",
+         "field_search": "question",
+         "question": "Sau khi em ấn shutdown để tắt máy tính thì bây giờ mở nguồn không lên được. Em xài máy acer. Phải làm cách nào để máy tính lên nguồn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.481686,
+         "id": "942968",
+         "field_search": "question",
+         "question": "Máy e bị thế này vào facebook tự nhiên nó k chạy được bản tin sau đó tầm 30s thì nó hiện lên facebook không phản hồi sửa thế nào ạ BAVAPEN B505",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

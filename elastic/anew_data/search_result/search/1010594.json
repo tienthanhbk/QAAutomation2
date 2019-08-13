@@ -1,0 +1,801 @@
+{
+   "id_query": "1010594",
+   "total": 29364,
+   "total_current": 100,
+   "max_score": 77.2464,
+   "origin_question": "Làm sao để cài đặt icon trên bàn phím của máy tính bảng nhỉ mà không cần phải tải gì hết nhỉ ?",
+   "hits": [
+      {
+         "score": 31.67298,
+         "id": "862141",
+         "field_search": "question",
+         "question": " galaxy s7 của mình bị mất icon trong bàn phím trên Facebook. giờ mình phải làm sao để tìm lại đc icon ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.420721,
+         "id": "995183",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi, bên bạn có sản phẩm bàn phím máy tính không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.12244,
+         "id": "1167063",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để chọn mặc định một bàn phím cho iPhone nhỉ, mình có tải Google Keyboard mà mỗi khi nhập tin nhắn xong thoát ra sau đó vào lại thì trở lại bàn phím iPhone như cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.983696,
+         "id": "823104",
+         "field_search": "question",
+         "question": " Mật khẩu IdApple Iphone6 sao tải cái gì về phải cần mật khẩu Id mà tôi không biết mật khẩu id nhỉ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.486355,
+         "id": "882448",
+         "field_search": "question",
+         "question": " Mình muốn mở đèn bàn phím Dell 14 3452 phải làm như nào bạn nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.06297,
+         "id": "1136997",
+         "field_search": "question",
+         "question": "Máy tính bàn, em lỡ tắt hết cổng USB trong BIOS. Giờ không dùng được bàn phím và chuột, muốn vào lại BIOS để mở lên. Nhưng cổng USB đã tắt hết nên ko thể dùng chuột + phím để vào. Lại không có bàn phím cổng PS2. Giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.649517,
+         "id": "760725",
+         "field_search": "question",
+         "question": " Làm sao tắt được bàn phím laptop Asus khi ở chế độ máy tính bảng Win 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.382715,
+         "id": "897698",
+         "field_search": "question",
+         "question": "Máy tính của e mua ở tgdd. Mỗi lần e tải ứng dụng gì trên 200MB là máy nó lag. Em phải làm gì để nó hết lag mà máy vẫn tải dc nhiều phần mềm nặng hơn. Máy của em là dell insprion 15 3000 series",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.273214,
+         "id": "1145498",
+         "field_search": "question",
+         "question": "Máy tính bảng android của em chỉ có mỗi nút nguồn, không có phím âm lượng và phím home, vậy làm sao để hard reset nó.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.580536,
+         "id": "745001",
+         "field_search": "question",
+         "question": " e muốn đặt lại bàn phím như bàn phím chuẩn thì phải làm sao ạ? lam ơn giúp e   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.495,
+         "id": "875953",
+         "field_search": "question",
+         "question": "Làm sao để không hiện nhấn dãn hoặc hình ảnh mình gửi hoặc nhận trên trang chủ messrger nhỉ? Mình đã tải lại messrger rồi mà vẫn vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.466051,
+         "id": "885628",
+         "field_search": "question",
+         "question": " Mình không xem hết trang cá nhân trên Zalo được là lỗi gì nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.245052,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.199274,
+         "id": "807704",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao máy tính bảng của mình lại không cài đặt messenger được??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.199047,
+         "id": "1142430",
+         "field_search": "question",
+         "question": "Sao note8 của mình xuất hiện bàn phím mờ mờ khi ở ứng dụng khác hoặc màn hình nhỉ? Vui lòng giúp đỡ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.908718,
+         "id": "1136838",
+         "field_search": "question",
+         "question": " Tại sao máy của mình tải Zalo về lại không hiện trên màn hình mà phải vào cài đặt mới mở được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.90804,
+         "id": "752666",
+         "field_search": "question",
+         "question": " Máy em notebook khóa bàn phím nhưng khi cài đặt talkback rồi em moi không được rồi làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.868095,
+         "id": "978995",
+         "field_search": "question",
+         "question": " tại sao máy tính của mình chạy win10 không vào được store nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.70512,
+         "id": "935005",
+         "field_search": "question",
+         "question": "Tại sao em xem ảnh trên máy tính từ điện thoại gửi qua Messenger thì nó rất mờ nhỉ? E xem trên điện thoại rất nét, e cũng cài đặt tải ảnh lên HD cả rồi. Chỉ khi xem trên máy tính mới bị thôi, tức là máy tính xem ảnh từ messenger do điện thoại tải lên thì rất mờ ạ! Giúp e khắc phục với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.544783,
+         "id": "1016599",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên mình có kinh doanh bàn phím kết nối máy tính sẽ bảng không vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.53258,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.409975,
+         "id": "1152109",
+         "field_search": "question",
+         "question": "Cho hỏi làm sao lấy lại dữ liệu khi khôi phục cài đặt gốc máy tính bảng Lenovo TB3710l mà không nhớ tài khoản gmail.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.392385,
+         "id": "997149",
+         "field_search": "question",
+         "question": "Làm sao để thay đổi hình nền trên bàn phím của samsung galaxy J2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.330042,
+         "id": "1008489",
+         "field_search": "question",
+         "question": "Cho mình hỏi mọi khi bấm *098# và gọi là nó hiện lên cái bảng này và bàn phím để bấm số mà sao giờ mất bàn phím rồi không nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187181,
+         "id": "872484",
+         "field_search": "question",
+         "question": "Bác nào cho e hỏi là e dùng ip 6s mà làm đủ mọi cách k kích hoạt được facetime là sao nhỉ?? Trong cài đặt cũng không có chỗ để bật facetime luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.154758,
+         "id": "786243",
+         "field_search": "question",
+         "question": " cho tôi hỏi làm thế nào để chọn chuột phải trên bàn phím ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.082838,
+         "id": "1139994",
+         "field_search": "question",
+         "question": "sao e mua con xs max tgđ mà trên tai thỏ cái đèn gì ấy không nháy nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.906717,
+         "id": "1017983",
+         "field_search": "question",
+         "question": "Mình dùng con j7 pro. bạn mình lén cài theo dõi điện thoại của mình, mình đã cài đặt gốc lại điện thoại rôi, mà sao bạn mình vẫn bảo là bạn vẫn đang theo dõi được mình, bạn mình bảo cài lấy ip gì gì đấy.cho minh fhoir bây giờ mình làm gì để chặn được theo dõi đó nhỉ, cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.725052,
+         "id": "999388",
+         "field_search": "question",
+         "question": "mình cần dán mặt sau màn hình và dán bàn phím cho laptop dell Ins N3558 màn hình 15.6 inch thì có k và giá bao nhiêu nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.71408,
+         "id": "872279",
+         "field_search": "question",
+         "question": " Mọi người cho hỏi cái sao mình cài đặt facebook lại không được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.684523,
+         "id": "1003848",
+         "field_search": "question",
+         "question": "Oppo f1s ko có bàn phím tiếng nhật , cho mình hỏi có cách nào cài đặt vừa sử dụng đc tiếng nhật vừa sử dụng được tiếng việt ko , mình tải bàn phím trên app store về chỉ dùng được tiếng anh và tiếng nhật thôi , muốn sử dụng tiếng việt phải vô cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.58676,
+         "id": "1004591",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào để tải nhạc trên itunes store mà không cần máy tính không ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.567726,
+         "id": "1135489",
+         "field_search": "question",
+         "question": "Làm sao để tắt rung khi nhấn bàn phím trên huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.54228,
+         "id": "949540",
+         "field_search": "question",
+         "question": " Mình mới dinh 1 em dell inspiron 5559. và cách tắt đèn bàn phím như nào nhỉ. tks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.502708,
+         "id": "1004158",
+         "field_search": "question",
+         "question": "điện thoại oppo k hiện chữ trên bàn phím thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.337328,
+         "id": "789925",
+         "field_search": "question",
+         "question": " QTV chỉ em sao tải game rùi mà vào không đc, em cung4 làm tương tự như trên Máy tính bàn thì đc. em xài DELL I5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333086,
+         "id": "766941",
+         "field_search": "question",
+         "question": " Tớ dùng iPhone 6plus sao tới cài facetime mà ko có số dt mà máy dùng nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.26082,
+         "id": "761383",
+         "field_search": "question",
+         "question": " Máy điện thoại iPhone của tôi không trượt để mở máy được là sao nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.232677,
+         "id": "1145354",
+         "field_search": "question",
+         "question": "cho em hõi a7 2018 của em có phải bị lỗi bàn phím không : khi comment trên youtube máy không hiện ra dòng chữ mình đang nhập, trên instagram cũng không thể thấy phần tin nhắn mình đang nhập cũng như trong story,... đã thử xóa và cài đặt, khởi động máy lại nhưng vẫn không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.227026,
+         "id": "915504",
+         "field_search": "question",
+         "question": "  Mình muốn cài star menu rộng ra ntn làm kiểu gì bạn nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064014,
+         "id": "1145560",
+         "field_search": "question",
+         "question": "Làm sao để tắt rung bàn phím khi chát trên xiao mi8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.01597,
+         "id": "868340",
+         "field_search": "question",
+         "question": " Tên laptop dell này là gì ạ??e cần thay bàn phím mà k biết tên chính xác của nó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.990637,
+         "id": "1020554",
+         "field_search": "question",
+         "question": "máy mình bị ẩn hết tất cả ứng dụng, k có gì hiện thị trên màn hình cả. mình phải vuốt từ trên xuống để vào cài đặt rồi cài cử chỉ chuyển động màn hình tắt để mở các ứng dụg. bây giờ phải làm sao để nó hiện ứng dụng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.986362,
+         "id": "1009929",
+         "field_search": "question",
+         "question": "Mình đang xài ss j3 2016, sau khi mình cài đặt laban key thì vẫn sử dụng bàn phím laban key bình thường, nhưng sau khi tắt điện thoại đi rồi mở điện thoại lên nó lại hiện là bàn phím samsung. Mình thấy rất phiền phức cứ mỗi lần như vậy là mình phải vô cài đặt chỉnh lại bàn phím của laban key. Mong admin có cách nào để chuyển sang vĩnh viễn bàn phím của lanbankey không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.858849,
+         "id": "1001556",
+         "field_search": "question",
+         "question": "Em muốn cài bàn phím tiếng Nhật cho j5 2016 thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5165,
+         "id": "1009008",
+         "field_search": "question",
+         "question": "Tại sao máy tính của e mỗi lần bật đôi khi lại bấm bàn phím hãy gõ chữ không được hay dùng các kí hiệu trên bàn phím cũng k đc , e dùng fn+inter num lk cũng không đc rất bực mình phải khởi động lại mới bình thường lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.427868,
+         "id": "910603",
+         "field_search": "question",
+         "question": " Máy tính của mình màn hình ko sáng bàn phím sáng, m cần bảo hành thì hình thức thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.419205,
+         "id": "845349",
+         "field_search": "question",
+         "question": "Mình có một cái laptop Dell, bàn phím bị bụi nên phím Y bị khó bấm, mình hỏi thợ sửa vi tính thì họ nói phải thay bàn phím luôn, nhưng mình nghĩ họ muốn làm tiền nên lên đây hỏi cho chắc, mình phải làm gì đây :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.364513,
+         "id": "901524",
+         "field_search": "question",
+         "question": "Máy tính của mình đã cài ngôn ngữ tiếng việt và chọn bàn phím qwetty nhưng sao vẫn ko viết được tiếng việt. minhf đã thử tải unikey nhng vẫn không viết tiếng việt được. giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.290136,
+         "id": "1164168",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, làm sao để cài đặt đc phần mềm đã tải về trên máy Huawei p30 live",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28797,
+         "id": "762287",
+         "field_search": "question",
+         "question": " Tại sao khi mình cài viber trên laptop thì nó lại không đồng bộ tin nhắn và cuộc gọi trên điện thoại của mình nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.103071,
+         "id": "763320",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính của em bây giờ xem phim trên mạng hay tải về máy đều xem không đươc vậy phải làm sao để máy bình thường lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.068691,
+         "id": "1133770",
+         "field_search": "question",
+         "question": "tại sao em tìm mãi trên oppo f9 mà không thấy chỗ để cài bàn phím âm thanh. khi ấn chỉ thấy rung chứ ko thấy âm thah là sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.051231,
+         "id": "779395",
+         "field_search": "question",
+         "question": " Chào bàn tại sao trên điện thoại iphone 5 của tôi không cài đặt được cydia ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.04131,
+         "id": "866439",
+         "field_search": "question",
+         "question": " Mình muốn cài đặt mà iPhone 3gs để tải trò chơi làm sao hả bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.961283,
+         "id": "1020401",
+         "field_search": "question",
+         "question": "ad cho mình hỏi chút, sao phím chữ T của mình gõ T mà nó teoanf nhảy lên thành TE  là sao nhỉ ? mình sửa mà k được, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.901302,
+         "id": "1024207",
+         "field_search": "question",
+         "question": "Add cho hỏi tại sao có những icon khi tải nó lại báo, gói nầy không có trong vùng của bạn, là sao để tải đc icon đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.897642,
+         "id": "873943",
+         "field_search": "question",
+         "question": "Ad cho e hỏi , tại sao mình tải app trên appstore mà cứ để \" không phải lúc này - Thử lại\" Hoài z á ?? K tải đa j hết , làm sao để khắc phục tải app đa đây ?! Giúp e vs , huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.78206,
+         "id": "1149679",
+         "field_search": "question",
+         "question": "Em dùng máy tính bảng samsung galaxy tab e tải ứng dụng mà nó cứ báo mã lỗi 910 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.721613,
+         "id": "918023",
+         "field_search": "question",
+         "question": " cho em hỏi làm sao để mở đèn bàn phím máy dell 5548 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.648579,
+         "id": "992505",
+         "field_search": "question",
+         "question": "sao ko thấy trả góp của acs nữa nhỉ? sao ko thấy trả góp của acs nữa nhỉ?   sao ko thấy trả góp của acs nữa nhỉ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.634943,
+         "id": "831274",
+         "field_search": "question",
+         "question": " cho em hỏi máy tính của em là lenovo làm thế nào để cài đặt ngôn ngữ của máy là tiếng việt và gõ tiếng việt trên word? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.502098,
+         "id": "1135269",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để bật màn hình sáng lên khi không cần dùng đến nút nguồn dùng chi galaxyj8 nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.440798,
+         "id": "756730",
+         "field_search": "question",
+         "question": " Khi xóa cài đặt lại tất cả các ứng dụng của hệ điều hành iOS chúng ta cần phải làm gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.360819,
+         "id": "1150956",
+         "field_search": "question",
+         "question": "làm thế nào để tải ảnh trên mạng về máy oppo f7. mình tải về mà nó không hiển thị trong thư mục ảnh? phải làm sao để mở ảnh vừa tải về đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.327206,
+         "id": "1007889",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy J1.6 của mình lại không thể tải được ứng dụng Fl Studio Mobile trên Appvn nhỉ? Mong TGDD hỗ trợ giúp mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.326708,
+         "id": "777497",
+         "field_search": "question",
+         "question": " Cho em hỏi bàn phím laptop của em nhấn nó nhảy tùm lum phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.270227,
+         "id": "1146910",
+         "field_search": "question",
+         "question": "Làm sai để root samsung galaxy tab 3v mà không cần máy tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.260044,
+         "id": "1137883",
+         "field_search": "question",
+         "question": "ad ơi làm sao để đặt mật khẩu thư mục onedrive trên máy tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.250122,
+         "id": "742153",
+         "field_search": "question",
+         "question": " Hệ điều hành iOS 9 chưa hoàn thành thì tung ra thị trường làm gì để máy bị lỗi thế nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.243692,
+         "id": "816344",
+         "field_search": "question",
+         "question": " cho em hỏi bàn phím laptop dell 3521 có hổ trợ đèn bàn phím không ạ... nếu có thì làm sao để bật ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.218033,
+         "id": "1134617",
+         "field_search": "question",
+         "question": "Bạn ơi mình có samsung J3 mà muốn truy xuất vào phần cứng của đt để để xóa một số ảnh của zalo mà không cần máy tính thì làm sao à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.206053,
+         "id": "822498",
+         "field_search": "question",
+         "question": " Có cách nào cài cydia cho ios 7 trên iPhone 4 8GB mà không cần máy tính không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.198013,
+         "id": "1156447",
+         "field_search": "question",
+         "question": "Anh em cho hỏi làm sao để hiển thị  pin con samsung a50 nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.17314,
+         "id": "1155072",
+         "field_search": "question",
+         "question": "Em mua laptop ở tgdd cũng lâu rồi hết bảo hành rồi mà giờ nó bị hỏng bàn phím với sạc bên mình có hỗ trợ giúp em đặt mua bàn phím laptop với sạc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.08636,
+         "id": "791535",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5, mình thử chuyển bàn phím sang tiếng hàn cho vui, nhưng khi vào siri thì toàn thấy tiếng hàn dù mình đã xoá tiếng hàn ở cài đặt bàn phím rồi, làm sao để trở lại như cũ đc, giúp vs!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.071493,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.059902,
+         "id": "987343",
+         "field_search": "question",
+         "question": "minh cần tìm laptop chạy i5, bàn phím nổi vì máy nhà mình bàn phím dẹp quá gõ ko nhanh được, giá tầm 9-10tr, à bây giờ đa số laptop đều là pin liền hay sao vậy admin, nếu pin liền vậy hư thì mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.041317,
+         "id": "886827",
+         "field_search": "question",
+         "question": " Mình muốn lưu video tải về từ ứng dụng smart surfer sang camera roll trên ios thì làm cách nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.034126,
+         "id": "812132",
+         "field_search": "question",
+         "question": " iphone 3 có cài đặt được không nhỉ ai pít cho xin câu trả lời xin tks  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.026115,
+         "id": "885715",
+         "field_search": "question",
+         "question": " cho em hỏi cách mở wifi trên máy tính bàn trường hợp ko có biểu tượng wifi thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.025314,
+         "id": "797921",
+         "field_search": "question",
+         "question": " Muốn cài đặt vinavideo về máy tính laptop phải làm ntn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.986269,
+         "id": "1006218",
+         "field_search": "question",
+         "question": "Tại sao ss ga la xy j2 prime em mới tải có 2 ứng dụng mà đã hết dung lượng vậyLàm sao để có thêm dung lượng vậyHoặc để tải về thẻ nhớ thù cần làm gì vậyChỉ e với xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.969902,
+         "id": "966453",
+         "field_search": "question",
+         "question": " Cho hoi sao e bi the nay k the tai dc nhỉ a giúp em với giờ nó cứ bắt như vậy mà k biết cài đặt  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.966232,
+         "id": "781591",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi mình có mua con iPhone 4 mà khi mình vô mục cài đặt -> cài đặt chung -> bàn phím thì không có gì với lại mình vô phần sử dụng thì nó bị văng ra màn hình chính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.953114,
+         "id": "1009105",
+         "field_search": "question",
+         "question": "Mình chỉ tải mấy ứng dụng nhẹ nhưng vẫn bị đầy dung lượng. Làm thế nào để khắc phục đc nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.939417,
+         "id": "1158908",
+         "field_search": "question",
+         "question": "Mình làm theo mọi chỉ dẫn rồi nhưng sao không gọi được FaceTime trên ip x ad nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.90885,
+         "id": "1143210",
+         "field_search": "question",
+         "question": "Cho e hỏi máy tính bảng loại nào có thể gắn thêm bàn phím rời vào dùng giống laptop được ạ và bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.895706,
+         "id": "868099",
+         "field_search": "question",
+         "question": "Cho hỏi hôm trước máy tính của em cài lại máy tính như ban đầu, giờ thì máy gặp vấn đề là không cài được hình nền, mình phải làm sao, máy có báo Active setting gì đó.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.875244,
+         "id": "830896",
+         "field_search": "question",
+         "question": " Em tạo ID cho iPhone 5s nhưng hình thức thanh toán là visa,amex...mà ko có mục không. vậy thì phải làm sao nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.872528,
+         "id": "838489",
+         "field_search": "question",
+         "question": " làm thế nao để mở được đèn bàn phím của may dell 3557 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.783031,
+         "id": "761301",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em có phải chính hãng không ạ. với lại em tải iOS 9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt, cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.781794,
+         "id": "780587",
+         "field_search": "question",
+         "question": "Mình đang cập nhật ios 9.2.1 về máy ipad của mình nhưng đang tải thì bị cúp wifi và mình còn tắt bớt máy ứng dụng cho đỡ nặng máy và xoá luôn cài đặt khi đang tải về, thế có bị sao không ?Khi đó cài đặt không thành công vì không đủ pin mà số pin đó mình dùng để chơi game, làm thế có bị hỏng hóc gì không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.778143,
+         "id": "1146691",
+         "field_search": "question",
+         "question": "Cho em hỏi ạLàm sao đổi emoji trên bàn phím của máy oppo a71k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.749432,
+         "id": "743648",
+         "field_search": "question",
+         "question": "Tại sao youtube trên máy tính bảng mobell tab 8i cũng như điện thoại vậy ? Còn máy tính bảng khác thì không giống với cái mobell ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.699385,
+         "id": "791565",
+         "field_search": "question",
+         "question": " Cho e hỏi khi bình luận trên zalo nhấn gửi ở bàn phím sao không gửi đc. Cứ phải bấm phím gửi ở trên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6598,
+         "id": "744312",
+         "field_search": "question",
+         "question": " Cần mua máy tính bàn như thế nào để chơi game đột kích? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.65964,
+         "id": "1009107",
+         "field_search": "question",
+         "question": " Mình chỉ tải mấy ứng dụng nhẹ nhưng vẫn bị đầy dung lượng. Làm thế nào để khắc phục đc nhỉ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.658422,
+         "id": "863665",
+         "field_search": "question",
+         "question": "Laptop của mình, mỗi lần mình click chuột trái vào file nó hiện ra bảng propeties, bàn phím đánh chữ cũng ko được luôn, chuột phải vẫn hoạt động bình thường, làm sao bây giờ, giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

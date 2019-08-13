@@ -1,0 +1,801 @@
+{
+   "id_query": "1009730",
+   "total": 23828,
+   "total_current": 100,
+   "max_score": 69.55254,
+   "origin_question": "Tui bị mất sim rồi bị hách nick zalo lm thế nào để lấy lại được đây",
+   "hits": [
+      {
+         "score": 38.064137,
+         "id": "1139866",
+         "field_search": "question",
+         "question": " Mất nick zalo mất luôn sim rồi làm sao mới lấy lại được tài khoản zalo đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.286953,
+         "id": "882073",
+         "field_search": "question",
+         "question": " Em đăng ký nick Zalo bằng số điện thoại mà giờ e bị mất số điện thoại rồi làm sao lấy lại được nick ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.093094,
+         "id": "790393",
+         "field_search": "question",
+         "question": "Ad ơi,nick zalo kủa e bị hack đồ 1chuog trih trug thương,cái zalo đởi tên thành Thư Bảo Mật.rất đen là e bị mất sim đkí zalo,vậy ad cho e hỏi có cách nào lấy laj nick zalo k,cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.200985,
+         "id": "815093",
+         "field_search": "question",
+         "question": "Nếu zalo của em bị hack, nhưng xui 1 cái là đã mất sim từ lâu, phải làm thế nào để xóa luôn tài khoản hoặc lấy lại mật khẩu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.11777,
+         "id": "849474",
+         "field_search": "question",
+         "question": " em bị hỏng sim muốn lấy lại mật khẩu zalo em phải làm thế nào?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.721178,
+         "id": "944538",
+         "field_search": "question",
+         "question": "Em bị mất mk zalo. Sđt e dùng để đăng kí zalo bây giờ e ko còn sử dụng nữa . e muốn hỏi làm thế nào để e lấy lại zalo cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.151909,
+         "id": "863770",
+         "field_search": "question",
+         "question": " làm ntn nào để lấy lại mk zalo ,mà sim đk là sim 3g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.064512,
+         "id": "1161405",
+         "field_search": "question",
+         "question": "Nick fb của e hình như là bị khóa. Mà e login bằng yahoo,  lâu quá rồi e cũng quên tài khỏan yahoo. Không biết còn cách nào để lấy lại nick được kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.750425,
+         "id": "825668",
+         "field_search": "question",
+         "question": "Hình ảnh trên Zalo của em bị người khác lấy và tạo tài khoản mới rồi lấy đăng hình em và đăng bậy bạ e phải làm sao để khoá nick Zalo người đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.738214,
+         "id": "840623",
+         "field_search": "question",
+         "question": " m co con iphone 5s cài maatj khẩu giới hạn rồi bị quên mất giờ làm thế nào để lấy lại đk mật khẩu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.725634,
+         "id": "957473",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại, khi đăng nhập zalo trên điện thoại mới thì cuộc trò chuyện cũ bị mất hết, có cách nào để lấy lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.566998,
+         "id": "1169318",
+         "field_search": "question",
+         "question": "Zalo em bị đăng xuất ra. Mà em không nhớ mật khẩu, sdt zalo cũng bị mất. Vậy em làm cách nào lấy lại mật khẩu hay làm sao để biết được sdt trên để đăng ký lại sdt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.471943,
+         "id": "614581",
+         "field_search": "question",
+         "question": " Mình lắp sim vào dt mà mất hết danh bạ thì làm thế nào để lấy lại  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.393238,
+         "id": "840644",
+         "field_search": "question",
+         "question": "Mình bị mất sđt và bị hack nick zalo, bị dùng làm việc xấu với bạn bè trong danh bạ! Mình muốn lấy lại zalo ntn khi ko co sđt? Nhờ hỗ trợ! Cảm ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.347523,
+         "id": "943747",
+         "field_search": "question",
+         "question": "Em có 1 đứa bạn nó biết mật khẩu của acc em nên nó xóa nick em rồi…. giờ Em muốn lấy lại nick zalo và dữ liệu khi đã bị khóa 48h có cách nào không… huhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.019184,
+         "id": "819186",
+         "field_search": "question",
+         "question": " Zalo của mình bị hack nên bị mất hết ảnh giờ làm sao mình lấy lại ảnh được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.989347,
+         "id": "1155105",
+         "field_search": "question",
+         "question": "Lm thế nào để xem được đánh bạ trên sim điện thoại Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.790117,
+         "id": "811128",
+         "field_search": "question",
+         "question": " Cách lấy lại mật khẩu Zalo số điện thoại bị mất làm sao lấy lại được chỉ giúp em  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.508799,
+         "id": "870682",
+         "field_search": "question",
+         "question": " Máy iPhone của mình bị mất mật khẩu iCloud có làm cách nào để lấy lại. Hoặc thay thế linh kiện được ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.493782,
+         "id": "872000",
+         "field_search": "question",
+         "question": " Nick Zalo của em bị như thế này làm sao để sửa ad. Em cám ơn!   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.35271,
+         "id": "819187",
+         "field_search": "question",
+         "question": " Zalo của mình bị hack nên bị mất hết ảnh giờ làm sao mình lấy lại ảnh được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.163078,
+         "id": "904915",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng ký lại nick zalo khi nick tự đăng xuất và khi đăng nhập lại thì kg được mật dù là mật khẩu đúng .. vạy phải xử trí như thế nào? nhờ tổng đài giải đáp gium !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.920301,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.826721,
+         "id": "772172",
+         "field_search": "question",
+         "question": " Mình bị mất danh bạ do khôi phục cài đặt trên điện thoại Sony Z2 làm cách nào để lấy lại được danh bạ bị mất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.704342,
+         "id": "909485",
+         "field_search": "question",
+         "question": "Mình bị mất sim , nhưng vẫn nhớ pass , và mình vẫn đang sài ZALO bình thường khi ko cần sim , mình đăng nhập bằng cách điền số đt và pass thôi , mà sim đó chưa đăng ký . Bây giờ mình đăng ký lại sim thì có xảy ra vấn đề gì không ??? và nếu mình muốn dùng sim khác để đăng nhập nick zalo cũ thì có làm đc ko ? ( kiểu như muốn đổi số đt nhập này qa số đt đăng nhập khác mà nick vẫn là nick cũ ấy ) .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.296276,
+         "id": "992740",
+         "field_search": "question",
+         "question": "Cho e ?? T bị mất cái apple đt iPhone 4 rồi sao lm lại đc zay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06557,
+         "id": "1156339",
+         "field_search": "question",
+         "question": "Facebook em bị xác minh danh tính 7 lần rồi.  Nếu lần sau k lấy lại được em lập nick mới có bị checkpoint xác minh danh tính nữa k.  Nghe thấy bảo lập lại bị lập nữa lại bị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.855858,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.801725,
+         "id": "906868",
+         "field_search": "question",
+         "question": "Facebook em bị như thế này là thế nào ạ. Các thông tin đều bị mất hết id và pass cũng bị thay đổi bây giờ làm thế nào mới khôi phục lại tài khoản trong khi em cài phê duyệt đăng nhập mà không hiểu vì sao vẫn bị hách như thế này các sdt gmail khôi phục cũng bị xoá hết mong có được sự trợ giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.69725,
+         "id": "1135316",
+         "field_search": "question",
+         "question": "Cho hỏi ad. Bị hack email và mật khẩu có lấy lại dc k. Email đó có đăng kí fb nên giờ mất nick fb.k có cách nào vô lại dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.690035,
+         "id": "835718",
+         "field_search": "question",
+         "question": " Tôi quên tài khoản iCloud làm như thế nào mà lấy lại được tài khoản để mở được iphone 4S đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.559391,
+         "id": "1018692",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏiEm xài a7 2016 sao lâu lâu nó cứ bảo không có thẻ sim vậy? Em dùng cây lấy sim lấy ra rồi để lại như cũ thì xài được...nhưng nó bị quài à phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.440512,
+         "id": "1143519",
+         "field_search": "question",
+         "question": "Làm sao để lấy lại mật khẩu facebook mà mất sim đăng ký",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369127,
+         "id": "1161833",
+         "field_search": "question",
+         "question": "ad cho em hỏi lỗ để lấy khe sim em dùng tăm cắm vào rồi nó bị dính ở phía trong thì có cách nào lấy ra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.351654,
+         "id": "1168714",
+         "field_search": "question",
+         "question": "Em dùng Mi a2 lite ạSau khi e update phiên bản mới thì bị mất hết ảnh cũ ạ. Làm thế nào để lấy lại ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.282572,
+         "id": "1010607",
+         "field_search": "question",
+         "question": "Ad ơi mình có một tài khoản bị khóa đã 2 tháng nay rồi.Giờ mình lấy email đăng ký tài khoản đó lập nick khác được không ad? Mình thấy sđt đăng ký đc 2 nick.K biết email thì thế nào trong trường hợp nick đang bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.97491,
+         "id": "806540",
+         "field_search": "question",
+         "question": " Em bị mất mật khẩu Zalo mà còn mất luôn sim thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.967491,
+         "id": "1167135",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu cây tăm bị dính vào khe chọt sim thì làm sao để lấy ra đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.913904,
+         "id": "817956",
+         "field_search": "question",
+         "question": " E đăng hình lên Album Zalo nhưng bị xóa, có cách nào lấy lại được hình ảnh không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.896784,
+         "id": "1016344",
+         "field_search": "question",
+         "question": "Làm sao để lấy lại sóng khi đt bị mất sóng vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.645292,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.623522,
+         "id": "1155312",
+         "field_search": "question",
+         "question": "Em bị mất điện thoại Samsung j6 làm cách nào để lấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.601288,
+         "id": "1162480",
+         "field_search": "question",
+         "question": "Inphone bị quá iCloud nên Ko lập được nữa Bh lm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.558096,
+         "id": "918034",
+         "field_search": "question",
+         "question": " Tài khoản zalo bị khoá,phải làm cách nào để mở lại được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.475151,
+         "id": "1138643",
+         "field_search": "question",
+         "question": "E bị mất nick facebook e muốn lấy lại nick yêu cầu gửi lại mã, nhập mã thì cứ bị như v là s v ạE đg xài samsung galaxy J7 prime do facebook mặc định nên em không xóa đượcAi biết giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.472622,
+         "id": "1019872",
+         "field_search": "question",
+         "question": "Tôi bị mất số tài khoản của mua góp đt . Làm sao để lấy lại được số tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.410152,
+         "id": "840653",
+         "field_search": "question",
+         "question": "Cho toi hỏi neu 2 nick wechat đỗi số điện thoại nick này qua nick kia va ngược lại nhung nick kia bi mất sdt , nick này đổi được số điện thoạiMà nick kia đăng nhập ko được va ko có liên kết số điện thoai muốn lấy lại thi làm sao. Xin tran trong cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.390398,
+         "id": "1135263",
+         "field_search": "question",
+         "question": "Điện thoại bị thay đổi số xuống 10 số,  em đkis facebook bằng 11 số lâu rồi. Nếu em cứ để vậy, cũng k kết nối gmail. Khi bị hư đthoai, hay bị out nick ra khỏi đt thì nhập phần đăng nhập số nào,  có mất nick k vì số đt bị khác mà k sửa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.293976,
+         "id": "822548",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất mặt khẩu iCloud em muốn lấy lại làm cách nào và phần mềm diệt virus thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.268353,
+         "id": "774457",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6. Máy em có dùng tài khoản iCloud và mật khẩu mở máy, nhưng em lại không bật 3g. Em có đi làm lại sim rồi. Em có bật tìm ip rôi, giờ em làm sao để có thể lấy lại được máy mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.258453,
+         "id": "1022277",
+         "field_search": "question",
+         "question": "cho mình hỏi máy tính bảng của mình là Acer có wifi mà ko nhận thẻ sim rút ra cắm lại nó báo : Sim popup...... rồi tắt nguồn làm thế nào để có mạng đây ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.241714,
+         "id": "903849",
+         "field_search": "question",
+         "question": "Tháo sim đã đăng ký njck zalo và lắp sang máy mới. Trong trường hợp máy cũ vẫn còn ứng dụng zalo và có mật khẩu để mở. Vậy người sử dụng máy cũ có sử dụng được nick zalo của tôi hoặc đọc được tin nhắn trước đây của máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.240705,
+         "id": "777780",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình bị mất iphone 5s đã khóa máy bằng icloud nhưng khi lấy lại được nó lại yêu cầu mở khóa itunes trên máy tính là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.183979,
+         "id": "879081",
+         "field_search": "question",
+         "question": " em đi sửa điện thoại bị thay mất tài khoản icuod giờ muốn lấy lại icoud cũ thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.170214,
+         "id": "1149000",
+         "field_search": "question",
+         "question": "em có 1 nick Facebook liên kết với instagram, không hiểu sao em bị report mất nick fb, và bây giờ em cứ vào instagram là bị như thế này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.130384,
+         "id": "1009445",
+         "field_search": "question",
+         "question": "Mn cho e hỏi là tại sao nick fb nó cứ yêu cầu là xác nhận ảnh xong rồi khoá luôn nick lại. E bị 2 lần rồi. Mỗi nick chỉ dùng đc khoảng mấy ngày là bị. Hay do điện thoại bị ls ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.129826,
+         "id": "812788",
+         "field_search": "question",
+         "question": "bạn cho hỏi là mất máy mất sim, bây h làm sim số khác có dùng được zalo bằng số điện thoại cũ không, nếu số cũ khóa rồi có dùng zalo dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.0742,
+         "id": "845524",
+         "field_search": "question",
+         "question": " Mất mật khẩu tài khoản google của iPhone thì phải làm như thế nào để lấy lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.06723,
+         "id": "831797",
+         "field_search": "question",
+         "question": "E quên mk facebook, đó nhập sai quá nhiều lần lên đăng nhập tạm thời bị chặn. Bây e pải lm thế nào ạ, muốn lấy lại mk thì ntn ạ???? Thak ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.95319,
+         "id": "872327",
+         "field_search": "question",
+         "question": "mình mới bị mất cái ip6. giờ về nhà đăng nhập tk icloud k được, mình nghi bị hack rồi. tất cả các dữ liệu dđã bị mất hết.giờ có cách nào khôi phục lai cái tk icloud dể lấy lại danh bạ và các dữ liệu. thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.862253,
+         "id": "855130",
+         "field_search": "question",
+         "question": "Em bị mất 5s 16G ios bản gốc, em đã tạo icloud nhưng giờ ko nhớ ID, chưa xác nhận mail thì phải làm thế nào để lấy lại tài khoản ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.704847,
+         "id": "877412",
+         "field_search": "question",
+         "question": "Cho e hỏi. Zalo e pị ngta đoán đc mật khẩu rồi zô phá tùm lum đổi mật khẩu lun,sim e đăng kí vẫn còn nhưng nó bị mất sóq gọi vào đc.e địh đi khôi phục lại sim,vậy tài khoản zalo có còn đc k ạ ?? :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.696127,
+         "id": "918768",
+         "field_search": "question",
+         "question": "Giúp mình với ạ!!!mình bị mất điện thoại và đã gọi tổng đài để khóa sim vậy tài khoản zalo của mình có được an toàn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.691645,
+         "id": "920043",
+         "field_search": "question",
+         "question": "Xin số tại đang xài tự nhiên có người nhận tin báo là trúng thưởng rồi bắt tôi làm theo chỉ dẫn sao, tôi đã bị lừa nên ko làm theo bây giờ tài khoản tôi bị khóa rồi xin hỏi cách nào để tôi lấy lại tài khoản zalo vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.626503,
+         "id": "814457",
+         "field_search": "question",
+         "question": " Sao Zalo bị khóa mà không sử dụng lại được bị hack co no phá lại rồi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.61884,
+         "id": "1019919",
+         "field_search": "question",
+         "question": "mình nạp thẻ điện thoại bị sai mã rồi bị khóa sim, chỉ nghe được chứ k gọi đi được. gọi đi thì họ bảo tài khoản của bạn đang tạm khóa. làm thế nào để mở đc nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.591467,
+         "id": "1144479",
+         "field_search": "question",
+         "question": "Fb e bị báo cáo mạo danh và họ yêu cầu đưa giấy tờ để xác nhận nhầm lẫn nhưng giờ vẫn ko lấy lại đc mà nick báo cáo lại là một nick khác của e nhưng e đâu báo cáo đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.568924,
+         "id": "1146582",
+         "field_search": "question",
+         "question": "Em rất hay bị facebook xác minh danh tính,  em sợ sẽ bị nữa,  giờ em phải làm sao đây ạ,  huhu,  em k muốn mất nick",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.564987,
+         "id": "1018353",
+         "field_search": "question",
+         "question": "Cách đây 5 thág, e có mua sim gọi nội mạg 10 miễn phí 1 năm, nhưg gần đây gọi lại bị mất tiền là sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.466808,
+         "id": "929864",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s nhưng khi lắp sim vào thì mất hế danh bạ. giờ làm sao để lấy lại danh bạ được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.413206,
+         "id": "920255",
+         "field_search": "question",
+         "question": " tôi bị hack zalo toi muốn huy nick thi phai lam sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.403591,
+         "id": "1146766",
+         "field_search": "question",
+         "question": "Oppo f9 bị mất có cách nào lấy lại dữ liệu trên máy đc ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.358236,
+         "id": "763578",
+         "field_search": "question",
+         "question": "Thấy con iPhone của em hơi chậm chậm, nên ấn tắt nguồn, sau đó bật lại thì nó chỉ hiện quả táo được 5 giây, rồi quả táo lại mất, rồi lại hiện lên, rồi lại mất... nó cứ nhấp nháy thế suốt 2 tuần nay rồi. Làm sao để nó lên đây bây giờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.347792,
+         "id": "1155126",
+         "field_search": "question",
+         "question": "Em bị xác minh danh tính facebook tới 7 lần.  Và lần này k vượt qua được,.  Nếu em lập nick facebook mới ngay bằng điện thoại của nick facebook mới bị khóa do xác minh danh tính đó,  thì tương lai có bị xác minh danh tính nữa k.  Thấy nhiều bạn nói lập lại bị,  rồi lập nữa lại bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.341557,
+         "id": "1007950",
+         "field_search": "question",
+         "question": "E bị quên mật khẩu id giờ muốn lấy lại mật khẩu id sam sung a3 thế nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.31463,
+         "id": "836786",
+         "field_search": "question",
+         "question": " Tôi báo chế độ iphone bị mất bây giờ tìm được làm thế nào để mở máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.288239,
+         "id": "1166691",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi Zalo của mình sdt mực khẩu điều đúng tại sao ko vô dc sdt Zalo này mình bị mất rồi zay làm sao vào Zalo của mình dc đây xin chỉ đùm cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.287743,
+         "id": "1007576",
+         "field_search": "question",
+         "question": "anh chị ơi, em của em nó lấy sim micro gắn vào khe sim standard rồi, em ko lấy ra được. Anh chị có cách nào ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.269312,
+         "id": "772058",
+         "field_search": "question",
+         "question": "Em bị hack nick iCloud dựa vào gmail em lấy lại được tài khoản nhưng iPhone của em bảo không thể sử dụng tài khoản này để mở iPhone này là làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.240633,
+         "id": "881718",
+         "field_search": "question",
+         "question": " mình mới mua tài khoản zalo của người ta để chơi game, có cách nào để ng ta không lấy lại được không admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.236052,
+         "id": "770163",
+         "field_search": "question",
+         "question": "Mình bị mất iPhone 5 nhưng mình không bật 3G bây giờ mình làm thế nào để khóa máy đây liệu tên đó có mở được khóa và dùng máy của mình được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.215715,
+         "id": "1137290",
+         "field_search": "question",
+         "question": "Tôi quyên mất mật khẩu email trên facebook làm cách nào để lấy lại được mật khẩu đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.200151,
+         "id": "1010114",
+         "field_search": "question",
+         "question": " Cho sao máy hay bị mất 1 sim zak. Tình trạng hơn 1 tuần rồi. Khi ko chạy ứng dụng nào cũg bị là sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.195244,
+         "id": "1017964",
+         "field_search": "question",
+         "question": "Em bị mất điện thoại . Vì sim số đẹp nên em muốn làm lại. Ở chi nhánh Bình Chánh có hỗ trợ làm lại sim không ạ ? Nếu có thì cần như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.083519,
+         "id": "960576",
+         "field_search": "question",
+         "question": "Instagram của e bị như thế này ....Mà e ko nhớ email vs số điện thoại lúc đăng ký ....vậy e làm sao mới lấy nick lại dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.079441,
+         "id": "894423",
+         "field_search": "question",
+         "question": "Ad ơi e ngày xưa chơi clash of clan tren IOS nhưng mà ko đăng kí game Center mà chơi bằng tài khoản máy hnay thoát ra và bị mất nick có các nào lấy lại ko ạ e xem cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.95855,
+         "id": "966405",
+         "field_search": "question",
+         "question": "Mình bị mất zalo vì khóa sim và quên mật khẩu. Giờ mình muốn tìm lại danh sách bạn bè tren zalo cũ mà ko có lưu số diện thoại. Vậy mình có cách nào tìm dc ko. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.943346,
+         "id": "826462",
+         "field_search": "question",
+         "question": " Cho em hỏi khi đã xóa ảnh trong album rồi ma lát ảnh trên zalo vẫn còn.?cách xóa như thế nào để mất hoàn toàn??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.85281,
+         "id": "841465",
+         "field_search": "question",
+         "question": "e gửi ảnh trên zalo cho 1 người bạn rồi xóa ảnh gốc trên máy. muốn lên zalo lấy lại thì đề lỗi ko hiện ảnh để tải về đc. có cách nào khôi phục lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.821093,
+         "id": "916927",
+         "field_search": "question",
+         "question": "Tui bị không nhớ mail giải cứu cho id appleAd giúp tui thiết lập lại được không, và lại câu hỏi bí mật của tui sao tui không nhập được câu hỏi, toàn thấy chỗ nhập câu trả lời thôi là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.819437,
+         "id": "1136307",
+         "field_search": "question",
+         "question": "cho e hỏi  e bị mất nick facebook ad có tìm lại dùm e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.799767,
+         "id": "946914",
+         "field_search": "question",
+         "question": " Sdt của mình bị cắt giờ muốn lấy lại wechat làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.787474,
+         "id": "844933",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình chặn bạn trên zalo, sau đó mình hủy kết bạn xóa các liên lạc rồi, giờ làm thế nào để kết bạn lại được trên zalo với bạn đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.775744,
+         "id": "746369",
+         "field_search": "question",
+         "question": "  Em mất mậy khẩu Apple giờ muốn lấy lại thì làm thế nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.771044,
+         "id": "793383",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại 5S tại shop xài chưa được 3 days thì bị mất vậy hỏi shop có cách nào lấy lại được không mình có bật tìm IPhone và có iloud và khóa vân tay ở ngoài rồi !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.76835,
+         "id": "1161024",
+         "field_search": "question",
+         "question": "Mình dùng oppo a7. Mới mua tại thế giới di động được 1 tháng. Hôm nay máy bị chập chờn mất sóng liên tục mặc dù vẫn nhận thẻ sim. Làm thế nào để khắc phục sự cố này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.758266,
+         "id": "890209",
+         "field_search": "question",
+         "question": "lúc trước khi mua máy, máy có microsoft office, nhưng bị lỗi win và đi cài lại, thì bị mất luôn, e phải làm sao để lấy lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.719536,
+         "id": "846037",
+         "field_search": "question",
+         "question": " Làm thế nào để viết dk chữ trên phần tìm kiếm quanh đây trên zalo hả ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.700197,
+         "id": "846892",
+         "field_search": "question",
+         "question": " tui muốn mua 1 cái laptop để chơi mượt game CF ,LMHT , VẬY tui nên mua cái nào, hãy tư vấn cho tui, hiệu nào cũng được ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

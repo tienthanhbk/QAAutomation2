@@ -1,0 +1,801 @@
+{
+   "id_query": "1160302",
+   "total": 27902,
+   "total_current": 100,
+   "max_score": 81.749886,
+   "origin_question": "Cho e hỏi ký hiệu kế bên wifi là gì v...làm s để tắt nó...e xài ipad wifi 2018 nha",
+   "hits": [
+      {
+         "score": 26.995447,
+         "id": "1155082",
+         "field_search": "question",
+         "question": "Ủa anh chị sao wifi của e nó cứ bật tắt hoài vạyE đag xài đt Samsung Galaxy A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.075706,
+         "id": "940003",
+         "field_search": "question",
+         "question": "Ac cho e hỏi là : e có một ngừoi bạn xài icloud cua e. Giờ e ko muốn nó xài chung nữa thì phải làm s ạ. Trong ứng dụng Tìm iphone nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.933868,
+         "id": "1154890",
+         "field_search": "question",
+         "question": "cho e hỏi ipad wifi cellular 2018 có nghe gọi đc như 1 chiếc đt ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.302063,
+         "id": "1141451",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao j2 pro mình xài  wifi mà wifi chỉ cách 7 bước chân thì nó mất lun cây sóng . Lại gần thì nó có sóng nhiều khi nó còn ở mức thấp nhất của wifi . Đt khác kết nối tầm xa thì vẫn full sóng wifi . Cho hỏi đt j2 pro 2018 mình bị sao ạ ad trl giúp . Mạng wifi trog nhà nha ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.285633,
+         "id": "1016482",
+         "field_search": "question",
+         "question": " Ad ơi. Fb của e nó bị như v là s vậy ad. Cứ đag tải mãi thôi,  e thử xóa đi tải lại mà vẫn k đc,  tắt nguồn tại lại mà vẫn như v. Wifi nhà thì vẫn ổn định.  Nó chỉ mới bị đây thôi.  Mong ad giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.257242,
+         "id": "1165975",
+         "field_search": "question",
+         "question": "Add cgo e hỏi là e sài đt j7 prime e khôi phục cài đặt gốc máy e bị ẩn wifi add cho e hỏi là e phải làm ntn để máy e hết bị ẩn wifi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.122383,
+         "id": "790977",
+         "field_search": "question",
+         "question": " 4s của mình ko bắt đc wifi nút wifi bị xám. cho e hỏi là nó bị gì và có cách khắc phục ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.821512,
+         "id": "1148160",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho e hỏi ạ....e k thể bật wifi lên được nữa ạ, khi bật lên thì nó cứ tắt ạ...e đang xài samsung j8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.647045,
+         "id": "1015375",
+         "field_search": "question",
+         "question": "Em xài j5 prime. Tắt 3g wifi và  để  chế  độ tiết  kiệm  pin r mà  vẫn  hao 20 phần  trăm pin là s vậy  a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.43661,
+         "id": "1000280",
+         "field_search": "question",
+         "question": "cho e hỏi e xài 6plus khi kết nối mật khẩu wifi được, mấy khác cũng kết nối wifi y vậy, vẫn để chế độ wifi mở. nhưng lần sau đt e lại k kết nối được wifi đó ạ, fai đăng nhập mật khẩu để kết nối lại là như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.230515,
+         "id": "831371",
+         "field_search": "question",
+         "question": " cho hỏi iPad mini WiFi model A1455 là iPad mini CDMA , iPad mini GSM hay iPad mini WIFI ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.039974,
+         "id": "875134",
+         "field_search": "question",
+         "question": " Em xài ip4s. Nhưng bị mất nút bật tắt wifi? là bị gì vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.957254,
+         "id": "1014428",
+         "field_search": "question",
+         "question": "  Ad ui. Cho e hỏi. Đt e bị v. K sửa để v sài lun có s k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.93867,
+         "id": "1144499",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài ip7 plus.e có chụp chân dung hiệu ứng chiều sâu, chụp xong vẫn là là ảnh chân dung nhưng sau vài giờ lại thành ảnh thường không có hiệu ứng chiều sâu. Cho e v đt e có vấn đề gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.488165,
+         "id": "1154708",
+         "field_search": "question",
+         "question": "Cho hỏi mình sử dụng a7 2018 mới mua chưa được 1 tháng nó bị có wifi kết nói được  có wifi không kết nối được .nó tự động bật tắt như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.334078,
+         "id": "999905",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi tại sao máy của e xài được khoảng 301h là tự động tắt v??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.098755,
+         "id": "1023808",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e tải youtube rồi có video ngoại tuyến rồi mà khi tắt wifi là ko vào được video ngoại tuyến vậy nó cứ nói là không có kết nối trong khi máy cũ của e vào mà ko có wifi bình thường mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.085709,
+         "id": "926975",
+         "field_search": "question",
+         "question": " add ơi e đang sài ip4s ạ, wifi nhà e vẫn bật nhưng sao máy e kh nhận được tín hiệu có wifi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.031904,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.987707,
+         "id": "806736",
+         "field_search": "question",
+         "question": "Em xài  iPhone 6s  e tắt điện thoại đi thì không có wifi. Anh chỉ dùm e cách cài đặt điện thoai luôn luôn có wifi trong máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.830309,
+         "id": "1002260",
+         "field_search": "question",
+         "question": "Cho e hỏi là muốn xoá nhạc chuông trên ip6 làm s v ạ? Tại lúc đầu e có tải cái garageband về mà e xoá ứng dụng đi nhạc chuông kh có bị mất giờ e muốn xoá đi làm s v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.757994,
+         "id": "764573",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e đang xài iPhone 5 ios7 muốn nâng cấp lên ios9 bằng wifi thao tác bên trong cài đặt ở máy đc ko ạ và có bị vấn đề gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75161,
+         "id": "1138931",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e bị gì mà khi nạp tiền vào game để mua là nó bị v ạ sài oppo a83  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.745066,
+         "id": "1018918",
+         "field_search": "question",
+         "question": "cho e hỏi bên của hàng có bán but s pen note 5 ko v.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.602259,
+         "id": "1144060",
+         "field_search": "question",
+         "question": " cho e hỏi e xài oppo f9 nhưng tự nhiên hiện khả năng truy cập thì làm sao để tắt nó đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.538002,
+         "id": "1135060",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại xaomj e mới mua xài ch được 2 tháng. Và ngủ thì nó có dấu hiệu tuột pin từ từ. Lí do và khắc phục s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.468388,
+         "id": "1144965",
+         "field_search": "question",
+         "question": "Dt xiaomi mi8 lite có camera hơi lồi. Ad cho e hỏi thiết kế như v nó có chống trầy camera kh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.462555,
+         "id": "1162605",
+         "field_search": "question",
+         "question": "anh ơi cho e hỏi ,e có i phone 5 s mà ruotj nó bị hư thì e làm gì hã a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.440453,
+         "id": "822708",
+         "field_search": "question",
+         "question": "s lumia của e vào facebook k đc ạ?? nó ghi k thể kết nối dữ liệu, mà trong khi đó e xài wifi, messenger củg k đc lun! e thử khởi động lại mk củg k đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.432814,
+         "id": "906546",
+         "field_search": "question",
+         "question": " Cho e hỏi là ipad xách tay khi xài có cần bẻ khóa hay làm j để xài đc ở VN ko vậy adb ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.404003,
+         "id": "1156356",
+         "field_search": "question",
+         "question": "em sử dụng Nokia 8.1 android 9 tự nhiên không kết nối được wifi trong khi laptop em để kế bên vẫn kết nối đươc thì máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.388391,
+         "id": "993742",
+         "field_search": "question",
+         "question": " Mấy a ơi cho e hỏi đây là lỗi gì ạ? Cứ nhấn zo ok là nó tự tắt kh cho install. Cách khắc phục lỗi này s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.385326,
+         "id": "998636",
+         "field_search": "question",
+         "question": "Điên thoại samsung s7 edge có hiện ký hiệu được khoanh tròn mầu vàng như ảnh kèm theo. Ký hiệu trên là gì? Làm thế nào để gỡ bỏ được? Giúp tôi nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.374306,
+         "id": "1144888",
+         "field_search": "question",
+         "question": " Cho e hỏi e đang xài ip7 plus.e có chụp chân dung hiệu ứng chiều sâu, chụp xong vẫn là là ảnh chân dung nhưng sau vài giờ lại thành ảnh thường không có hiệu ứng chiều sâu. Cho e v đt e có vấn đề gì không ạ? Khởi động lại máy vẫn còn bị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.306932,
+         "id": "818630",
+         "field_search": "question",
+         "question": "wifi nhà em mới đặt lại mật khẩu. nhưng khi máy tính nhà em kết nối thì ko hiện ô để nhập mật khẩu. bắt wifi nhà hàng xóm vẫn bình thường. cho e hỏi đây là lỗi của mt hay lỗi cả wifi ạ? và em cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24565,
+         "id": "1002263",
+         "field_search": "question",
+         "question": "Cho hỏi là muốn xoá nhạc chuông đt làm s v ạ? Lúc đầu e cài ứng dụng garageband mà e lỡ xoá cái ứng dụng đi mà bây giờ nhạc chuông kh xoá đc ạ? Mình làm s v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.169823,
+         "id": "1007239",
+         "field_search": "question",
+         "question": "add cho e hỏi. máy e là samsung j7 prime lúc trước sài bin bình thường. hôm qua mới cập nhât thỳ máy dù không làm gì bin vẫn tụt . bị v là s add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.132454,
+         "id": "771226",
+         "field_search": "question",
+         "question": " E dùng DELL tại sao đang dùng mạng wifi nó cứ để NOT AVAILABLE là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.121134,
+         "id": "1162960",
+         "field_search": "question",
+         "question": "E đang xài ipad 2017 , tự nhiên sạc k vô , dù thử 2 củ và 2 dây đều là xin của ipad vẫn k đc ( bạn e dùng ipad 2018) thì sạc vô hết . Mà ipad e sạc bằng sạc dự phòng thì đc . E k biết lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.069845,
+         "id": "911370",
+         "field_search": "question",
+         "question": "   Ad cho e hõi ... Zalo này bị sau v ạ??? hồi trưq đến h nó cứ như v hoài ạ... kết nối wifi cũng kh đc  kì v ad???! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.024387,
+         "id": "828490",
+         "field_search": "question",
+         "question": " cho mình hỏi messenger để là đang đợi mạng...mình xài wifi nhà...vậy là do messenger có vấn đề hay wifi có vấn đề ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.900694,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.7973,
+         "id": "800179",
+         "field_search": "question",
+         "question": "Cho e hỏi trên máy ipad mini 2 bị lỗi gì mà lúc e vào youtube thì cứ báo là lỗi tải dù có wifi đầy đủ,và e đăng nhập vào tài khoản google trên máy thì nó hiện lên 1 bảng trắng cứ chạy vòng vòng,sau một lúc thì nó tự động tắt,e đã thử rất nhiều lần nhưng không được.Mong tgdd giải đáp giúp! E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.501694,
+         "id": "1021659",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao điện thoại huawei y5 2017 e mới mua được gần 1tháng kết nối wifi bình thường nhưng cách đây hai ngày thì kết nối được nhưng khồng dùng được wifi ạ, kết nối wifi rồi nhưng lại ghi là không kết nối wifi nào hết và bên cạnh hiện lên dấu \"!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26325,
+         "id": "835459",
+         "field_search": "question",
+         "question": " Cái lap nhà e HP 450 ko biết bị v như thế nào ạ ,cho e ỏi bị v phải làm s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.239405,
+         "id": "867759",
+         "field_search": "question",
+         "question": "Cho e hỏi e đag sài lv 117 loại máy tính bảng khi xem video thì khoảng 5 giây thì nó lại tự động dừng em nhấn vào play nó chạy tiếp khoảng 5 giây sau nó lại dừng em đag sài wifi tốc độ 25mb/s. Vậy cho em hỏi youtube bị s vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.232336,
+         "id": "850691",
+         "field_search": "question",
+         "question": " E xài ip5s. Hôm qua e ngủ quên có để điện thoại kết nối Wifi suốt đêm mà ko xài ! Vậy điện thoại e có bị sao ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.154926,
+         "id": "918241",
+         "field_search": "question",
+         "question": " cho e hỏi iphone bị tắt nguồn mà màn hình hiện lên màu xanh là bị gì v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.137749,
+         "id": "934865",
+         "field_search": "question",
+         "question": "Cho e hỏi cái này nha : e xài laptop dell buồn quá e lấy laptop ra chơi khoảng 30 phút tắt đi , em xài ít thời gian vậy có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.12655,
+         "id": "791338",
+         "field_search": "question",
+         "question": " A cho em hỏi máy e bị gì mà wifi không bật được mà bật wifi nhanh thì bị đen ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.101906,
+         "id": "1153038",
+         "field_search": "question",
+         "question": "cho hỏi làm sao để tắt được hình ở trên bên phải màn hình này vậy ,điện thoại oppo f9 nha. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.10035,
+         "id": "1163538",
+         "field_search": "question",
+         "question": "A7 2018 của tôi không tìm được wifi tại nhà của tôi, muốn có wifi lại phải khởi động lại, trong khi các mạng wifi bên cạnh vẫn tự cập nhật, cho hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.075966,
+         "id": "781367",
+         "field_search": "question",
+         "question": " Cho hỏi iPhone 4s. Tối ngủ còn 49 pin tắt wifi hết rồi nha . Sáng dậy còn 42 có sao không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.998934,
+         "id": "1017622",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e xài grap nó kêu là tắt lớp mở màn hình là sao z mong trả lời nhanh giùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.847275,
+         "id": "837236",
+         "field_search": "question",
+         "question": " Điện thoiaj lenovo A7000 plus hiển thị tốc độ mạng bên cột mạng wifi, làm sao để tắt ạ?? 0.27ks..0.0 ks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.778625,
+         "id": "736183",
+         "field_search": "question",
+         "question": "E mới mua ip6s nh về nhà kết nôi wifi 1 luk lai khác bị bật ra ngoài. Tắt wifi đi xong bật lại, lại kết nối được tiếp nhưng 1 lúc sau lại bị mất kết nối wifi. Máy e vừa mua được 2 ngày. Như vậy là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.771156,
+         "id": "1147745",
+         "field_search": "question",
+         "question": "Samsung j5 không nhận được tính hiệu wifi làm sao để khắc phuc sự cố này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.757244,
+         "id": "797524",
+         "field_search": "question",
+         "question": " Cho e hỏi iPhone 4s của e tự nhiên bị tắt nguồn là nó bị gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.734253,
+         "id": "1138438",
+         "field_search": "question",
+         "question": "tài khoản e bị google baó là bị vô hiệu hóa e phải khắc phục lm s v afile:///C:/Users/Administrator/Documents/Bandicam/bandicam%202018-12-16%2009-47-38-555.jpg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.68252,
+         "id": "771240",
+         "field_search": "question",
+         "question": " Bên Thegioididong.com có thu mua lại iPad không vậy, iPad Mini 1 WiFi 16GB? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678516,
+         "id": "736848",
+         "field_search": "question",
+         "question": "A.c trong BQT cho e hỏi. Với Ip 4s ngoài lỗi cháy ic wifi ra thì còn lỗi gì làm cho máy k tìm được wifi nữa k ạ???Mong trả lời sớm từ a.c​​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.667198,
+         "id": "978161",
+         "field_search": "question",
+         "question": "Hiện tại e đag xài ip4, nhưng lỡ xóa mất facebook mà tải lại thì nó đòi ios 8.0 mới tải đc. V bây h phải làm s mới tải lại đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.65492,
+         "id": "855528",
+         "field_search": "question",
+         "question": "e có một chiếc iphone, hầu như ko sử dụng, cũng đã tắt wifi và bluetooth, nhưng sau khi sạc đầy thì nó tự động hết dần pin qua mỗi ngày. Cho e hỏi như vậy có bình thường ko ạ? nếu ko thì cách khắc phục là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.616001,
+         "id": "1142443",
+         "field_search": "question",
+         "question": "Làm sao để chỉnh góc trái iPad thành chữ ipad, wifi về trái, giờ về chính giữa như bình thường dược ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57502,
+         "id": "1156044",
+         "field_search": "question",
+         "question": "Em muốn ban lại sản phẩm ipad 2018 wifi 32gb đã mua tại thegioididong có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.532454,
+         "id": "1019140",
+         "field_search": "question",
+         "question": "Cho e xin hỏi hiện e đang bên cambodia và e có đang xài sim metfone bên đây,xin cho hỏi e làm sao để sim e có thể gọi và nt cho việt nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.493587,
+         "id": "752362",
+         "field_search": "question",
+         "question": " Iphone6 tắt rồi mà wifi và giữ liệu cứ tự động bật mọi người cho học chút mẹo với nha ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.45972,
+         "id": "750273",
+         "field_search": "question",
+         "question": " Làm sao để phát wifi trên ipad air 2 ios 9.1 . Ipad của em không có  điểm truy cập cá nhân .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.412548,
+         "id": "1139757",
+         "field_search": "question",
+         "question": "Máy tính bảng iPad Wifi 32GB 2018. 8.990.000 giảm 4 rồi còn được mua trả góp ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.367918,
+         "id": "913392",
+         "field_search": "question",
+         "question": " Cho mình hoi bên mình ccó bán iPad Mini 16GB Wifi 3G  4G cũ k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.349579,
+         "id": "816847",
+         "field_search": "question",
+         "question": " Iphone 5 kết nối wifi khôg được là sao ạ...gần 3m mới xài được..trườg hợp này phải làm sao ạ giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.325981,
+         "id": "1152302",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em bấm vào find my mobile trên j7pro thì nó để 403 cấm là s v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.231848,
+         "id": "787116",
+         "field_search": "question",
+         "question": "Laptop hp palvilion 15\" cua e tai sao ko the vao mang iternet duoc mac du wifi nha e rat tot?? Anh chi chi cho e voi! Cam on!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.219566,
+         "id": "924455",
+         "field_search": "question",
+         "question": "lỗi 502 trong zalo là gì các bạn, mình ngồi kế cục wifi mà nó báo đường truyền không ổn định (lỗi 502) , trong khi các ứng dụng khác vô mạng vẫn xem bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.219442,
+         "id": "791478",
+         "field_search": "question",
+         "question": " Anh ơi Cho e hỏi cách bật wifi mạnh cho iphone 4s và làm như thế nào để tải game ứng dụng nhanh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.187128,
+         "id": "995839",
+         "field_search": "question",
+         "question": " cho em hỏi biểu tượng chỗ khoanh màu là gì và tắt nó làm sao????? ad chỉ dùn em e cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.133121,
+         "id": "1150407",
+         "field_search": "question",
+         "question": "Khi mua ipad wifi 128g. Sẽ đựơc tặng kèm theo gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.093998,
+         "id": "1018596",
+         "field_search": "question",
+         "question": "Cho e hỏi máy đt HTC Desire 326G của e ko bật được wifi là bị sao ak. Bật on xong lúc sau nó trở về off.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.08945,
+         "id": "1022114",
+         "field_search": "question",
+         "question": "Cho e hỏi coi youtube từ từ bị tắt hình là s z chỉ e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.084627,
+         "id": "1152779",
+         "field_search": "question",
+         "question": "Xin chào mnE mới mua 1 con huawei y7 pro 2019 mới mua thì chơi liên quân bt mà sài khoản nữa tháng e thấy nó bị chậm lại khoản 2 giây mà WiFi full thằng kế bên vẫn bình thường mà sau e bị khựng lại ko biết có phải do máy ko e xin giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.03532,
+         "id": "935148",
+         "field_search": "question",
+         "question": "Cho em hỏi sao cái ipad 3 của em tất cả các wifi đều kết nói được chỉ riêng môt cái wifi kết nói kh được mặc dù e đã khôi phuc cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.012054,
+         "id": "1011350",
+         "field_search": "question",
+         "question": "Cho e hỏi e ms mua con a5 2017 mà cục sạc dính nước nên h mỗi lần e sạc thì nó báo phát hiện độ ẩm v h s ạ bên mình có sửa đc hk ạ hay pải mua ms ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.9804,
+         "id": "1011403",
+         "field_search": "question",
+         "question": "mình xài điện thoại mobel s30, mình đã tắt wifi lẫn định vị, 3g nhưng khi vào càiđặt->pin xem chi tiết thì thấy wifi vẫn chạy làm dẫn đến hao pin. vậy cho hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.905827,
+         "id": "1022277",
+         "field_search": "question",
+         "question": "cho mình hỏi máy tính bảng của mình là Acer có wifi mà ko nhận thẻ sim rút ra cắm lại nó báo : Sim popup...... rồi tắt nguồn làm thế nào để có mạng đây ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.848057,
+         "id": "878502",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone của em cứ mỗi lần xạc pin đầy thì nó lại mất wifi khi tắt nguồn mở lại rồi mới có. Cho em hỏi làm cách nào để hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.846722,
+         "id": "1001768",
+         "field_search": "question",
+         "question": "màn hình của e tự nhiên nó có lằn sọc là bị gì v anhh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.8441,
+         "id": "1157687",
+         "field_search": "question",
+         "question": "e mới mua đt A7 2018 sử dụng được 1 tuần thì thấy jack cắm tai nghe là 3.5mm tai nghe 3.5mm mỗi lần cắm vào tai nghe nó dễ bị tuột lắm ạ. e k biết là do thiết kế máy hay do lỗi jack sạc v ad? e sử dụng tai phone của samsung có sẵn trong hộp phụ kiện luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.839989,
+         "id": "1136123",
+         "field_search": "question",
+         "question": "mình vừa mới mua con máy A7 2018 luôn tự sập nguồn và không nhận wifi là làm sao...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825153,
+         "id": "754773",
+         "field_search": "question",
+         "question": " IPad mini 2 wifi 16g nên xài iOS 8 hay 9 để máy chạy êm và mượt nhất. Mong được sớm hồi âm. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.820852,
+         "id": "997537",
+         "field_search": "question",
+         "question": "Ad cho e hỏi nó e đag cầm con j7 prime mỗi lần tải ứng dụng về là nó kêu tắt lớp phủ j e tìm k đc ạ gửi ảnh cho ad xem mà nó cũng kêu v lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.797897,
+         "id": "1022550",
+         "field_search": "question",
+         "question": "cho e hỏi là đth j7 pro thiết kế nó hơi cong ra phía sau 1 tí phải ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.789757,
+         "id": "813185",
+         "field_search": "question",
+         "question": "cho em hỏi e có con ip6 plus đang xài bình thường. tự nhiên chế độ bật wifi bị mờ ko bật được. e thử tắt nguồn khởi động lại thì bị treo táo, nhưng cắm xạch lại lên. rút xạc ra một lúc lại tắt nguồn.được đâu khoảng một ngày thì treo táo luôn. không nhận itunes luôn. nó cử treo một lúc lại khởi động lại và vẫn treo táocho e hỏi nó bị lỗi gì được ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.719082,
+         "id": "804543",
+         "field_search": "question",
+         "question": "QTV cho e hỏi máy lap e khi cai lên 8.1 thi bat wifi yếu . nhưng gần đây nó không bắt dc wifi cách nó 5-6 mét lun ,va khi dc thi mot lát sau lại bi lỗi limited",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.683983,
+         "id": "828836",
+         "field_search": "question",
+         "question": " Máy e không nên face bằng 3g được nhưng wifi vẫn được có cách gì để khắc phục không ạ ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.640732,
+         "id": "751528",
+         "field_search": "question",
+         "question": "Tôi muốn mua một iPad Pro 128G Wifi+4G và bút. Giá của mỗi món là bao nhiêu? Tôi có thể đăng ký tại Phan Thiết được không ?Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.606754,
+         "id": "936731",
+         "field_search": "question",
+         "question": "Cho em hỏi: cái iPad 4Có phải khi đặt lại-->> xóa nội dung và đặt lại cài đặt gốc thì iPad e sẽ trở về như là mới k? Có phải giống như iPad em bị người khác cài k cho vào wifi của người đó, nếu e cài lại là có nghĩa e đã xóa thông tin mọi thứ của iPad và em có thể vào dc wifi người đó đúng k? Em muốn tìm cách thay đổi giống như là IT hay ID j đó của máy..Em cảm ơn :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.604275,
+         "id": "1145585",
+         "field_search": "question",
+         "question": "cho e hỏi samsung a8 2018 giá bn ạ?bên mình có chương trình khuyễn mãi gì k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60086,
+         "id": "1013987",
+         "field_search": "question",
+         "question": "máy asus của e bị lỗi ở phần wifi. e đang dùng thì bỗng dưng nó tự tắt r tự bật. em đã reset máy rất nhiều nhưng máy vẫn bị nhảy ở phần wifi. em nghĩ lỗi này ở điện thoại chứ ko phải ở ổ wifi. mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.593315,
+         "id": "1006994",
+         "field_search": "question",
+         "question": "Tôi muốn đăng ký Wifi mạng Viettel cho số máy điên thoại di động thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

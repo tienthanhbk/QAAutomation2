@@ -1,0 +1,801 @@
+{
+   "id_query": "1158450",
+   "total": 32349,
+   "total_current": 100,
+   "max_score": 95.08096,
+   "origin_question": "cho e hỏi, e mua đt mới, e có thể chuyển tất cả dữ liệu  bao gồm tin nhắn zalo qua đt mới dc k ạ từ 5s sang ip X",
+   "hits": [
+      {
+         "score": 37.598812,
+         "id": "1137205",
+         "field_search": "question",
+         "question": "E k nhận đc thông báo từ zalo. Chỉ khi e mở zalo lên mới thấy đc tất cả tin nhắn. E đang sử dụng oppo f3. Nhờ ac hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.351784,
+         "id": "1156469",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình vừa mua đt mới ạ.. mình có thể chuyển toàn bộ tin nhắn sms từ máy cũ sang máy mới đc k ạ ? Máy cũ mình là ip6 máy mới là oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.795383,
+         "id": "1143423",
+         "field_search": "question",
+         "question": "Cho e hỏi là đt e đã có icloud rồi mà giờ e muốn sài chung với chị e vậy khi e đăng xuất icloud của e thì có bị mất tất cả dữ liệu trong đt e k ạ hay vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.664757,
+         "id": "1157166",
+         "field_search": "question",
+         "question": "Nếu e bị kẻ gian lấy đt uy hiếp, e muốn xoá tất cả dữ liệu trong đó thì làm thế nào ạ? Đt e là ss j7 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.081745,
+         "id": "614699",
+         "field_search": "question",
+         "question": " làm sao để chuyển mạng dữ liệu di động đt từ chữ E sang H?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.521988,
+         "id": "773907",
+         "field_search": "question",
+         "question": "a chị cho em hỏi là khi em đăng xuất tài khoản iCloud thỳ trên máy báo bạn mướn xóa tất cả dữ liệu trên ip hay là vẫn còn luwu trên ip... em muốn xóa tất cả trên ip này nhưng em qua đt khác em đăng nhập tài khoản icoul này có mất tất cả dữ liệu ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81248,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.68287,
+         "id": "1023637",
+         "field_search": "question",
+         "question": "Cho e hỏi cách nào chép danh bạ từ đt ip4 sang đt samsung bật nắp dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.370033,
+         "id": "743229",
+         "field_search": "question",
+         "question": " E dùng đt lgx145 làm sao để chuyển dữ liệu trên đt sag thẻ nhớ đấy ạ? Giúp e với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.982353,
+         "id": "1143927",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi về chuyển dữ liệu từ máy sang thẻ nhớ sd, em đang xài máy htc desire 620 dual sim, có khe thẻ nhớ và thông tin máy có hỗ trợ thẻ nhớ, nhưng e có làm theo hướng dẫn chuyển dữ liệu thì k có chức năng chuyển sang thẻ sd, cho e hỏi dòng máy này có hỗ trợ chuyển k ạ? bộ nhớ máy đã đầy rồi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.958775,
+         "id": "1154610",
+         "field_search": "question",
+         "question": "E đag dùng máy mobistar x. E k nhận đc thông báo có tin nhắn . Khi mở ứng dụng mới thấy tin nhắn. Chỉ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.78093,
+         "id": "1001741",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng đt android, khi đang xuất ra zalo và dùng zalo trên ipad thì bị mất hết tin nhắn cũ, mà phần tn đó nếu thoát ipad qua lại android cũng k còn, có cách nào đồng bộ tin nhắn 2 máy k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.681215,
+         "id": "1016109",
+         "field_search": "question",
+         "question": "e dùng đt samsung j5 2015, e mới mua thẻ nhớ 16g nhưng e k chuyển được sang chế độ lưu vào thẻ nhớ.Đt thì k còn dung lượng trống.Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.482632,
+         "id": "1140916",
+         "field_search": "question",
+         "question": "E đang sài j3 pro. E muốn chuyển những tập tin dữ liệu qua thẻ nhớ làm cách nào ạ. ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.455685,
+         "id": "831819",
+         "field_search": "question",
+         "question": "mấy ac cho e hỏi vs ak,e mới mua đt ip 6s plus giá 21.790 dc 2 tháng,bây giờ e muốn bán lại lỗ bao nhiêu % ạk,e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.985455,
+         "id": "996207",
+         "field_search": "question",
+         "question": "E mới mua đt dc 2 tuần do lỗi của nhà sản xuất e có đem đổi dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.738249,
+         "id": "811094",
+         "field_search": "question",
+         "question": " cho e hỏi cách dùngWallet trên iphone5s và cách chuyển dữ liệu từ điện thoại qua máy tính thông qua trình duyệt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.545752,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.32407,
+         "id": "754388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Trước em dùng iphone4 có tài khoản icloud. Bây giờ em dùng sang ip5 e chuyển dữ liệu icloud từ ip4 sang ip5. Bây giờ hiện tại thì máy em đang có 2 bản sao lưu 1 của máy cũ và 1 của máy mới em đang dùng. Mà em muốn xoá dữ liệu của bản sao lưu trước đây vì khi chuyển sang máy mới  em muốn sao lưu lại các dữ liệu mới thì ko được vì bản sao lưu của ip cũ đầy rồi. Vậy ad cho me hỏi em xoá bản sao lưu cũ đi liệu có mất danh bạ ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.278198,
+         "id": "1168993",
+         "field_search": "question",
+         "question": "Tai sao e đang kí Zalo ma k có chỗ nhập ma xát nhân..đt hư hay Zalo e mới mua 24h",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.165785,
+         "id": "1160098",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua dt sam sung a50 tối qua giờ e muốn đổi qua đt a7 128g được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.02566,
+         "id": "829919",
+         "field_search": "question",
+         "question": "cho e hỏi là tin nhắn zalo đã xóa .. khi đăng nhập vào đt khác nó có hiện lên lại k ạ ,... tại e thấy lúc e đăng nhập zalo qua đt khác thì tin nhắn cũ vẫn còn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.709726,
+         "id": "1014761",
+         "field_search": "question",
+         "question": "cho e hỏi e SN 1997 thì có thể mua trả góp đụơc k ạ. nếu được e có thể mua đt gúa bao nhiêu ạ. CMND  BLX",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.587029,
+         "id": "1003284",
+         "field_search": "question",
+         "question": "E mới trả góp xong đt ngày hôm qua, vậy khoảng bao lâu thì e mới được mua trả góp sp mới v a.c?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.544128,
+         "id": "1023587",
+         "field_search": "question",
+         "question": "E mua đt iphone 6 chưa đc 1 tháng nhưng mà đt để qua đêm lại bị hao hụt pin mặt dù đã tắt tất cả các ứng dụng cho e hỏi tai sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.425987,
+         "id": "938189",
+         "field_search": "question",
+         "question": "Cho e hỏi đt ip của e khi vào facebook, zalo,...hiện Kết...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.30866,
+         "id": "1001520",
+         "field_search": "question",
+         "question": "E mới mua đt J7 Prime cỡ 1 tháng. Lúc mua có dán mặt trước sau của đt luôn. Giờ e có thể dán lại mặt sau đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.229153,
+         "id": "1146280",
+         "field_search": "question",
+         "question": "Cho e hỏi cách chuyển dữ liệu trong máy sang thẻ nhớ của oppo a83 như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.100464,
+         "id": "815293",
+         "field_search": "question",
+         "question": " Em dùng đt Wing V50 mà mỗi khi Zalo có tin nhắn thoại đến thì e lại k thể nào nghe được. Làm sao để khắc phục đây ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.059145,
+         "id": "778271",
+         "field_search": "question",
+         "question": "E xài ip 4 e nt vs Sđt của ip 5 đang bình thường nhưng hồi sau e nhắn tin cho số đó thì dược gọi được còn số đó nhận dc tin nhắn trả lời lại báo đã gửi nhưng qua máy e lại k nhận đc gọi dô máy e vẫn dc. Cho e hỏi lý do tai sao. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.006132,
+         "id": "1158567",
+         "field_search": "question",
+         "question": "cho e hỏi bên shop có đt iphone x nào chưng bày bán trả góp giá mới khong ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.77693,
+         "id": "867904",
+         "field_search": "question",
+         "question": " Admin cho hỏi. Mình muốn chuyển dữ liệu từ máy tính sang lumina 950, vậy cáp chuyển dữ liệu có chưa? Xin cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.763603,
+         "id": "1146996",
+         "field_search": "question",
+         "question": "Cho e hỏi.  E daq có góp. 1 cái đt j7pro sắp xoq. Vs vay bên ngân. Hàng 10tr e có thể mua góp s9 dc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.719978,
+         "id": "819956",
+         "field_search": "question",
+         "question": " Cho e hỏi muốn chuyển dữ liệu từ thẻ nhớ ưa bộ nhớ iPhone phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.534637,
+         "id": "938193",
+         "field_search": "question",
+         "question": "cho em hỏi đt ip của e khi vào facebook, zalo,...hiện kết nối với Itunes để sử dụng thông báo đẩy. em đã vào cài đặt mở tất cả nhưng vẫn ko hiện thông báo khi có tn tới. nhờ chỉ giúp e ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.481062,
+         "id": "928129",
+         "field_search": "question",
+         "question": " E mới mua dt iPhone 5s hôm qua giờ có bán lại dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.436613,
+         "id": "1159341",
+         "field_search": "question",
+         "question": "tại sao e bật tất cả nút thông báo.. nhưng mỗi khi tin nhắn đến messenger hay zalo .. tại sao máy k hiển thị? e đang dùng xs max. ad giúp e!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.432812,
+         "id": "1156176",
+         "field_search": "question",
+         "question": "Cho e hỏi đt ss galaxy A7 2018 của e. Bị lỗi 2G.( E ) như hình. E đã mang đt ra tgdd nhờ mang đi bảo hành. Mới lấy về tình trạng trên vẫn tái phát ạ. Xin cho e hỏi tinbf huống như này có trả lại đt dc k ạ. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.049658,
+         "id": "1003964",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao zalo máy tính của mình không hiển thị tin nhắn mới, mỗi lần xem tin nhắn phải vào đt để xem ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.949703,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.936377,
+         "id": "823204",
+         "field_search": "question",
+         "question": "cho em hỏi, nếu em đến cửa hàng của mình liệu anh chị nhân viên có thể giúp em sao lưu tin nhắn từ iphone cũ sang iphone mới được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.930296,
+         "id": "1023026",
+         "field_search": "question",
+         "question": "Oppo A37 có hiện tượng tự chuyển vùng dữ liệu internet từ sim1 sang sim 2 là bị sao ạ. Cách giải quyết ntn. E cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.857317,
+         "id": "1021181",
+         "field_search": "question",
+         "question": "E có thể cọc để mua iphone x rồi lúc lấy iphone mới e có thể bán lại iphone 7 plus để bù thêm tiền dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.726498,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.719814,
+         "id": "1156518",
+         "field_search": "question",
+         "question": "E mới mua Đt được 4 bữa nhưng bị lỗi nóng máy và không tải game được.....và đã đổi 1 lần....bây giờ Lại lỗi là không chơi game được và không nhận được tin nhắn......cho e hỏi em đổi đt hãng khác được không ạ đt e mua là oppo a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.570686,
+         "id": "776203",
+         "field_search": "question",
+         "question": " Cho e hỏi e dùng iPhone 5 mà nhắn tin cứ có từ xoa trèm vào là không thể gửi tin được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.555546,
+         "id": "1001434",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi e mới mua oppo f3 nhắn tin bàn phím cứ bị nhảy sang chữ khác vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.43874,
+         "id": "1016679",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao hình ảnh của máy android của mẹ e lại chuyển sang hết của máy android của e thế ?? e ko thề chuyển dữ liệu của máy. Mong hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.418955,
+         "id": "949203",
+         "field_search": "question",
+         "question": " Cho e hỏi cái này ạ đt e là ip5s , khi nghe nhạc e nghe taig tai nghe của đt oppo thì có ảnh hưởng j tới ip k ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.34502,
+         "id": "1006089",
+         "field_search": "question",
+         "question": "Ad cho e hỏi sao zalo e k nhận được tin nhắn .Mà khi mở ứng dụng lên moi nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.324448,
+         "id": "931101",
+         "field_search": "question",
+         "question": " cho hỏi người dùng Tango có thể xuất dữ liệu lịch sử cuộc gọi và tin nhắn ra filegửi qua mail được không?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.317318,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22424,
+         "id": "1016813",
+         "field_search": "question",
+         "question": "Cho e hỏi..  J5 prime khi selfie chế độ ảh bị ngược kó thể khắc phục như thế nào để chế độ ảh selfie như những dòng đt Samsung khác k ạk..  Kòn nếu đt đã sử dụg trong 1 tháng đổi trả sang dòng đt mới như oppo đc k ạk??  .. Chi phí đổi trả là bao nhiêu..  Mong sớm nhận được phản hồi từ a/c..  E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.209452,
+         "id": "927969",
+         "field_search": "question",
+         "question": " cho e hỏi e mới mua máy iphone 6 bên nhật. giờ e gửi tin nhắn k được, nó ycau địa chỉ email mms mà e nhập mãi k đk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14543,
+         "id": "1003329",
+         "field_search": "question",
+         "question": "E mới mua đt galaxy j2 frime cho e hỏi pin xài đc bao lâu z. S máy e mau hết à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.140907,
+         "id": "994663",
+         "field_search": "question",
+         "question": "E mua ĐT A37fw chưa được 1 tháng thấy màng hình không được tốt.  Giờ e muốn đổi mới nhưng e có thể đổi lấy ĐT A37 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.014404,
+         "id": "1008841",
+         "field_search": "question",
+         "question": "cho e hỏi , đt e là htc one m7 xách tay , e mới khôi phục cài đặt góc , khi điện thoại thì đt các đầu số bình thường mà có riêng đầu số 09 là k đc , nó tự chuyển thành 01 và k điện đc , phải cài đặt gì lại k ạ ? e c.ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.9971,
+         "id": "995375",
+         "field_search": "question",
+         "question": "Cho e hỏi e sd đt lenovo A7000 lúc trước di chuyển ứng dụng sang thẻ SD đc mà sao từ khi nâng cấp hệ thống thì phần đó bị mất luôn , k còn hiện lên chữ di chuyển sang thẻ SD nữa có phải là do lỗi nâng cấp hệ thống k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.99628,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.96527,
+         "id": "1159079",
+         "field_search": "question",
+         "question": "Chào anh/chịEm mới mua điện thoại a50 128gb cách đây 15 ngày mà sao đt em lâu lâu bị lỗi cảm ứng cụ thể như em nhắn tin bấm chữ a sau đó nó nhảy loạn lên ( chữ u i) k biết bên mình kt lại giùm e dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.82139,
+         "id": "1001526",
+         "field_search": "question",
+         "question": "Cách chuyển dữ liệu nhạc hình ảnh từ máy sang thẻ sd và mỗi lần tải đều qua thẻ sd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.784603,
+         "id": "1015655",
+         "field_search": "question",
+         "question": "Hiện mình đang sử dụng Iphone 6S Plus . Muốn mua máy IPhone 7 Plus. Cho hỏi có chuyển được các tin nhắn SMS, Zalo,Viber sang máy mới được không vậy. TKs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.78262,
+         "id": "998727",
+         "field_search": "question",
+         "question": "Xin chào ạ..cho e hỏi e mới mua đt oppo a37 ..có dán màn hình dc bảo hành 3 tháng vậy trong 3 tháng nó k bị chày xước gì có nên đem dán lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.686142,
+         "id": "907941",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao e cập nhật zalo lên phiên bản 5.8.5 mới nhất .mà giờ có tin nhắn mới gửi đến lại ko thấy hiên thông báo vậy àk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.631567,
+         "id": "862506",
+         "field_search": "question",
+         "question": "Hoàng Long- cho e hỏi, bạn e nó có share cho e 1 cái video ngắn trong tin nhắn riêng trên zalo, nhưng nó ko có trang wep nào hết, ấn zô là xem thôi, vậy để làm sao mới có thể tải và gửi cái video tương tự và gửi vào tin nhắn trên zalo...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.525866,
+         "id": "1003695",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách chuyển dữ liệu từ máy sang thẻ của điện thoại j7 pro. Thanks  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.484898,
+         "id": "828826",
+         "field_search": "question",
+         "question": "Ip 5s e mua ở tgdd đc hơn 1 tuần. Lúc đầu chơi game bt k sao. Gio e chơi game n cứ bị thoát ra ạ? Ip của e vẫn để iOS 9.2.1 như từ lúc mua chứ k nang cấp gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.437613,
+         "id": "1156808",
+         "field_search": "question",
+         "question": "Đt e oppo a3s hêzt dung lượng đt e có thể mua thẻ nhớ gắn vào k sj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.373997,
+         "id": "809136",
+         "field_search": "question",
+         "question": " Làm sao để chuyển dữ liệu từ ip4s qua xiaomi mi4s? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.36757,
+         "id": "1150387",
+         "field_search": "question",
+         "question": "E đang dùng ss glx s9+ mỗi lần bật dữ liệu di động thì máy k bật mà phải khởi động lại máy mới có dữ liệu ạ. Hướng dẫn e cách khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.261322,
+         "id": "1004802",
+         "field_search": "question",
+         "question": "đt e bảo hành sửa mà theo thông tin là bị hư bên trong, không biết e có thể biết thêm thông tin k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.24833,
+         "id": "855722",
+         "field_search": "question",
+         "question": " Em muốn chuyển dữ liệu từ iPhone 6 sang LG vu. Có ứng dụng nào giúp em chuyển được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.235924,
+         "id": "846756",
+         "field_search": "question",
+         "question": "Các anh chị cho e hỏi với. Em dùng oppo F1, e đã bật chế độ chạy nền cho ứng dụng zalo rồi mà khi có tin nhắn vẫn k nhận đc thông báo. chỉ khi e vào ứng dụng zalo thì mới nhận đc thông báo ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.227064,
+         "id": "1154413",
+         "field_search": "question",
+         "question": "ip 7+ của e khi vừa đánh liên quân hoặc xem youtube khoảng 5p thì bị rất nóng, e mag ra cửa hàng kiểm tra giúp em dc k ạ, và mất khoảng bao lâu (e mua đt ở tgdd)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.20163,
+         "id": "885514",
+         "field_search": "question",
+         "question": " Cho e hỏi, e dùng iphone4 khi gọi messenger thì người bên kia k nge gì cả, mà khi gọi số đt bình thường lại nge dc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.197365,
+         "id": "922753",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng iPhone 5s vào phần tin nhắn soạn tin mới rồi viết Sđt người nhận chỉ viết đc 1 , 2 số đầu xong màn hình đứng im k nhắn đc nữa mog đc giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.177553,
+         "id": "1163298",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao e mới mua sim Viettel từ tgdd mà đã có tài khoản zalo đã xài rồi ? Sim mới mua luôn á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.175726,
+         "id": "1151683",
+         "field_search": "question",
+         "question": "Hello tgdd, cho e hỏi bên mình có đầu chuyển đổi từ đầu lightning của ip sang đầu usb type c của android không ạ, e xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.130003,
+         "id": "1137766",
+         "field_search": "question",
+         "question": "E mới mua cái đt nova2i đc 2 thángCòn bảo hành đầy đủ. Full boxE vấn đề là e mún đổi cái đt nova 3i thì có thể bù thêm tiền hay là cách nào đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.119822,
+         "id": "817646",
+         "field_search": "question",
+         "question": "Em có nhắn tin cho 1 tài khoản zalo bị khóa! Mà số điện thoại lập tài khoản ấy h đã đk dùng để lập tk zalo khác! Thì liệu nd tn e gửu cho tk bị khóa kia, tài khoản mới có đọc đk k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.064339,
+         "id": "1157127",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd.  e mua đt nova 3i lúc mới ra đến nay muốn đổi v15 thì tgdd có thu lại ko. Và thu lại bao nhiêu %. Đt e sử dụng kỹ, chỉ bị trầy nhẹ ở 1 góc, còn lại như mới. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.990026,
+         "id": "998081",
+         "field_search": "question",
+         "question": "Em dùng Mobiistar Lai Yuna 1 , sử dụng thẻ nhớ 8G nhưng dữ liệu vẫn chỉ lưu vào bộ nhở của máy và k chuyển qua bộ nhớ ngoài là thẻ nhớ đc. Thẻ nhớ của e cũng dùng lâu r, nhưng vẫn tốt với những điện thoại khác. Vậy làm sao để khắc phục ạ? Mua thẻ nhớ mới có chuyển dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.950481,
+         "id": "851073",
+         "field_search": "question",
+         "question": " e mới cập nhật lại phần mềm iphone bị mất hết dữ liệu có cách nào lấy lại đc k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.924637,
+         "id": "736120",
+         "field_search": "question",
+         "question": " A ơi cho e hỏi e đang xài ip5. E muốn tạo album ảnh từ máy tính sang đt thì ntn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.855114,
+         "id": "1001055",
+         "field_search": "question",
+         "question": "xiaomi 4a của e cắm tai nghe nhạc xem phim bình thuờng như khi gọi video call thì chỉ nghe bên kia nói mình nói lại ngta k nghe dc e đã kiểm tra micro trog cuộc gọi tất cả nhưng vẫn k dc máy e mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.854847,
+         "id": "1142870",
+         "field_search": "question",
+         "question": "Cho e hoi tgdd nhan vien kỷ thuat có hổ trợ chuyển danh ba từ máy nokia 150 sang máy iphone 6 plus dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.84769,
+         "id": "1012367",
+         "field_search": "question",
+         "question": "Cho e hỏi e có con Sony xa mới mua đồ 2 tuần nó bị lỗi không gửi được tin nhắn thì làm nền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.832308,
+         "id": "1020317",
+         "field_search": "question",
+         "question": "Cho em hỏi đt ss j5 prime của e bị mất, làm sao để e lấy lại dữ liệu và danh bạ trên samsung driver",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.826849,
+         "id": "955487",
+         "field_search": "question",
+         "question": " Cho hỏi cắm cáp sạc từ điện thoại vào laptop bị lỗi ko chuyển dữ liệu từ laptop sang thẻ nhớ được.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.816847,
+         "id": "833691",
+         "field_search": "question",
+         "question": "tại sao trên thông báo zalo trên điện thoại của tôi là : có tin nhắn mới, nhung vào zalo lại không co tin nhắn mới nào cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.81656,
+         "id": "1014746",
+         "field_search": "question",
+         "question": "E muốn hỏi chút là e mới mua ĐT đã hai tháng h muốn đổi máy khác thì mất bao nhiêu phần trăm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.760614,
+         "id": "1167174",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e mới mua trả góp 1 chiếc đt ở bên mình mad k said nữa muốn bán lại giá đc k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.743351,
+         "id": "893876",
+         "field_search": "question",
+         "question": "Cho e hỏi là tình trạng là cái zalo e sao tự nhiên nó không thông báo khi có tin nhắn tới nào vào zalo nó mới thấy, xin bên tgdd chỉ e cách khắc phục ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.710457,
+         "id": "1014435",
+         "field_search": "question",
+         "question": "Hôm trước e có mang đt ra cửa hàng để sữa. Mà về vẫn gặp tình trạng nv. Đt e mới mua chưa được 1 tháng có thể 1 đổi 1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.664824,
+         "id": "1140908",
+         "field_search": "question",
+         "question": "Cho em hỏi sao không thể di chuyển hình ảnh từ đt sang thẻ nhớ được . Với thẻ nhớ cũng không xóa hay di chuyển được ảnh ạ . Đt : ss galaxy a7 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.630308,
+         "id": "820150",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là đt ip5s của e sao khi e nhấn vào 4 góc của đt thì có 1 góc kêu nhỏ mà e nhge nói ip là k bị như z không lẻ đt e bị thay màn hình à mong ad sớm tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60613,
+         "id": "1004596",
+         "field_search": "question",
+         "question": "E dùng samsung j2 prime. Tại sao e chuyển dữ liệu ứng dụng từ thiết bị sang bộ nhớ ngoài rồi mà sao dung lượng trên thiết bị vẫn như cũ là sao nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.592234,
+         "id": "1151740",
+         "field_search": "question",
+         "question": "dt e sam sung s8 mua dc 12th roi h e muon đổi ngang qua s8 mới thì bù bao nhieu tjen ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.520178,
+         "id": "1147236",
+         "field_search": "question",
+         "question": " Cho mình hỏi có chuyển đc tin nhắn SMS từ IP5s qua IP6 không ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

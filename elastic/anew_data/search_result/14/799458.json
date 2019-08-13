@@ -1,0 +1,801 @@
+{
+   "id_query": "799458",
+   "total": 27692,
+   "total_current": 100,
+   "max_score": 106.71989,
+   "origin_question": " Chào bạn. Cho mình hỏi bên bạn có thay pin IP 5S không ? Và nếu có thì giá bao nhiêu ? Cảm ơn. ",
+   "hits": [
+      {
+         "score": 49.954403,
+         "id": "795121",
+         "field_search": "question",
+         "question": " Chào bạn. mình có máy tính lenovo g480 bị ẩm mên, muốn thay mên mất khoảng bao nhiêu vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.24827,
+         "id": "1154887",
+         "field_search": "question",
+         "question": "ở cửa hàng mình có bán iphone 7 plus 64G chính hãng không? và nếu có thì giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.161842,
+         "id": "803622",
+         "field_search": "question",
+         "question": " Chào bạn cho mình hỏi oppo r5 có chụp ảnh bằng gậy tự sướng được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.99996,
+         "id": "814689",
+         "field_search": "question",
+         "question": "khi gửi tin nhắn trên facebook mà bạn mình chưa đọc vậy nếu mình xóa facebook đi thì bạn mình có đọc được tin nhắn đó không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.809093,
+         "id": "1015357",
+         "field_search": "question",
+         "question": "xin chào. Cho mình hỏi tgdd có tải nhạc không? cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.698376,
+         "id": "838621",
+         "field_search": "question",
+         "question": " cho hỏi có iphone 5 thường củ giá bao nhiu vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.903053,
+         "id": "799863",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở cửa hàng của mình có cài đặt microsoft office mới cho máy tính không ạ. Máy tính e không có mua ở cửa hàng của mình, nếu cài thì có tốn phí là bao nhiêu ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.32876,
+         "id": "1144071",
+         "field_search": "question",
+         "question": "Bạn có thể kiểm tra cho mình là pin iphone mình mới thay có chính hãng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.736847,
+         "id": "795124",
+         "field_search": "question",
+         "question": " Cho mình hỏi thế giới di động có loại iphone 5s 16GB màu trắng 99 không vậy? Và mức giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.21325,
+         "id": "991268",
+         "field_search": "question",
+         "question": "chào bạn! miǹh đang dùng ip6 plus nhưng máy của mình đang bị hỏng nut home và mất dấu vân tay mình muốn trung tâm này sửa chữa thì mất bao lâu thời gian và giá sửa cái đó là bao nhêu vầy mình ko mua ở đây cho lên ko có bảo hành vs lại máy của mình bị cong mên nữa.!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.063137,
+         "id": "1016810",
+         "field_search": "question",
+         "question": "Bạn có thể tư vấn cho mình tầm giá 2tr5 thì điện thoại nào tốt để chơi liên quân không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.842464,
+         "id": "842014",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop có pin rời khi sử dụng mình tháo pin ra và cấm dây sạc vào sài trực tiếp được không ạ . Và nếu được thì máy khi sài có bị sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.63402,
+         "id": "990929",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình có thay màn hình ip5s k ạ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.60501,
+         "id": "1020751",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là điện thoại em có dùng được bút cảm ứng không ạ và giá của bút cảm ứng là bao nhiêu tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.438778,
+         "id": "777043",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, mình mới mua iPhone 4s, nhân viên có cài đặt sẵn iCloud, giờ mình muốn thay đổi mật khẩu iCloud nhưng máy hỏi 2 câu hỏi bảo mật: tên người bạn thân và công việc mơ ước. không biết câu trả lời mặc định là gì ạ. mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.79823,
+         "id": "1145648",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi công suất thực pin6s của mk là 1760mah nhưng cuông suất thiết kế của mình lại có 1690mah là sao ạ? mình mới sạc 5 lần ạ. và mình mới thay pin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.387524,
+         "id": "1014781",
+         "field_search": "question",
+         "question": "Mình mất khay sim zenfone 3 5\"5 vậy tgdd có hàng thay thế ko ạ. Nếu có thì bao nhiêu và bao lâu ạ, monh được ad phản hồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.29426,
+         "id": "1011942",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình vừa mua latop Dell Vostro 3568. Mình muốn hỏi làm thế nào để kéo dài tuổi thọ pin? Bạn bán hàng khuyên vừa sạc pic vừa sử dùng. Lâu lâu hãy xả pin một lần? Như vậy có đúng không? Mình tìm trên google có nhiều kiểu ngược nhau quá. Cảm ơn ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.54342,
+         "id": "1018167",
+         "field_search": "question",
+         "question": "Nếu mình laptop cũ thì mình có thể yêu cầu chuyển laptop về địa phương được không? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.060623,
+         "id": "1140841",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi. M cần mua 1 máy cũ mà chụp ảnh ban đêm vs bạn ngày đẹp tầm dưới 6triệu thì có máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.94875,
+         "id": "801649",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi trên tgdd có bán iPhone 5s cũ không vậy giá dao động là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.04515,
+         "id": "1143900",
+         "field_search": "question",
+         "question": "Cho hỏi có nhập sản phẩm trên note 7 ko vậy.nếu có thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.01752,
+         "id": "857250",
+         "field_search": "question",
+         "question": " Thấy điện thoại bạn mình ai gọi đến chỉ cần đặt lên tai rồi nghe. Mình sài ip 5s có cài đc k nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.824066,
+         "id": "1010933",
+         "field_search": "question",
+         "question": "Chào qtv. Cho mình hỏi m muốn trả đt 3max5.5 mà lúc m mua là 5.490 thế giờ nếu trả thì tính theo giá đó hay giá hiện yại. M k còn hộp còn tất cả vẫn đầy đủ phíu quà tặg cũg k còn. M nhờ qtv tính giúp mình còn được bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.79881,
+         "id": "845710",
+         "field_search": "question",
+         "question": "Cho mình hỏi, lí do tại sao khi có tin nhắn mới trên messenger của facebook mình không nghe tiếng chuông thông báo có tin nhắn đến, và không hiện dấu hiệu gì để biết là có tin nhắn cho đến khi mình click vào messenger thì mình mới thấy được tin nhắn. Và không có thông báo nên mình không biết được bạn mình có nhắn tin cho mình, đến khi click vào thì đã quá muộn để trả lời.Mình có tham khảo nhiều cách trên google và thử kiểm tra điều chỉnh mà sao cũng không cải thiện được. Nhờ TGDD xử lí dùm tình trạng này.Many Thanks.Thu NĂm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.4582,
+         "id": "962449",
+         "field_search": "question",
+         "question": "Bạn ơi,mình sửa lại quốc gia trên tài khoản id apple,vậy là hắn bắt phải có visa.Bây h phải làm sao ạ?mình cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.53087,
+         "id": "888779",
+         "field_search": "question",
+         "question": " Bên mình có hỗ trợ chạy lên ios 10 cho 6plus lock ko bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.20431,
+         "id": "1011616",
+         "field_search": "question",
+         "question": "Mình có chiếc Asus_Z00VD mà bị hư jack sạc, mình muốn sửa lại TGDD sửa được không và chi phí bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.066936,
+         "id": "1003348",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình muốn thay pin đt zenphone5 mất khoảng bao lâu và khoảng bao nhiêu tiền ạ? (ad cho con số ước lượng cũng dk ạ, nếu đắt quá thì mình đổi dt lun 😂) mình ở HCM nhé, tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.87739,
+         "id": "996103",
+         "field_search": "question",
+         "question": "Cho e hỏi . Màn hình ip của e bị bung nhưng vãn cảm ứng đc thì mình có dán lại đc k ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.67362,
+         "id": "781959",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị rót nước bây giờ không có sóng thì bị hư gì và giá sữa chữa là bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.672844,
+         "id": "1010744",
+         "field_search": "question",
+         "question": "cho hỏi nếu không mua điện thoại bên cửa hàng thì có được đổi không vì tôi có một cái lumia?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.556713,
+         "id": "799822",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi con vostro 3458 của mình có cấu hình như sau thì thế nào ạ?RAM 4GB - 2x1.6ghz (max 2.7)Vga : intel 6000 - Nvidia gt 820M 2GbHdd 500gb -5400I5-5250u",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.434357,
+         "id": "1156388",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có thể game không ạ có thì em lên mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.35651,
+         "id": "1012024",
+         "field_search": "question",
+         "question": "Em mới mua cái đt trả góp. Cửa hàng có quảng cáo mua thẻ nhớ đc giảm giá. Nhưng vì đt nếu gắn thẻ nhớ thì chỉ gắn đc 1 sim đt, và ngược lại. Nhưng bây giờ e không xài thẻ nhớ nữa, muốn đổi cái loa bluetooth đc ạk. Nếu đc thì thời hạn có thể đổi trong vòng bao lâu. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.135296,
+         "id": "797191",
+         "field_search": "question",
+         "question": " A ơi cho e hỏi ở tgdđ có nhận bẻ khoá macbook xách tay ko a. Nếu có thì phí khoảng bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.613117,
+         "id": "992039",
+         "field_search": "question",
+         "question": "Cho mình hỏi là nếu 2 thiết bị của apple dùng chung tài khoản icloud và đồng bộ hình ảnh thì các hình ảnh của mình chụp sẽ tự động tải qua máy kia và khi mình xóa hình thì máy kia có bị xóa luôn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.55946,
+         "id": "1158021",
+         "field_search": "question",
+         "question": "cho em hỏi, giờ nếu bán j7 pro thì với giá bao nhiêu vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.55462,
+         "id": "999421",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là laptop E5-575G-515A- Ram: 4gb- VGA: GeForce 940mx- Chip: core i5 6200uCủa em có thể nâng chip lên core i7 được không ạ?Và nếu nâng được chip thì giá là bao nhiêu?mong QTV giúp đỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.170174,
+         "id": "1023503",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi con dell inspiron 5468 của em có gắn thêm đx thanh ram k , Nếu đx thì cho e hỏi nó dùng ram loại gì với lại chỗ của mình có dịch vụ gắn thêm ram cho laptop k để e biết ạ, cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.968098,
+         "id": "1020943",
+         "field_search": "question",
+         "question": "cho e hỏi hiện tại các cửa hàng bán lẻ của bên mình có còn bán cục pin rời của Lumia 540 không ạ? em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.754326,
+         "id": "803975",
+         "field_search": "question",
+         "question": "Anh cho em hỏi bên anh có lắp RAM không ạ.máy em chỉ có 1 khe cắm RAM và e muốn thay thanh RAM 2GB thành 4GB hoặc 8GB thì bao nhiêu ạ.(máy em là máy để bàn nhé a)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.753395,
+         "id": "833190",
+         "field_search": "question",
+         "question": " Nếu thay pin Laptop, máy của em là Vostro 2420, thì giá tầm bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.612316,
+         "id": "1144454",
+         "field_search": "question",
+         "question": "chào ad .cho em hỏi cửa hàng mình có ổ cứng SSD k ạ .và giúp em tư vẫn chút ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.356735,
+         "id": "787008",
+         "field_search": "question",
+         "question": " cho hỏi bên mình có thay màn hình iPad không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.31338,
+         "id": "952711",
+         "field_search": "question",
+         "question": "Mình có con Iphone 5s 32g bị hư. Bật nguồn nó hiện lên quả táo 1 - 2s xong xanh màn hình rồi tắt. Mình muốn đảm bảo nên cho mình hỏi thegioididong có sửa chữa không ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.908901,
+         "id": "779037",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5 lock , mới mua nhưng máy báo có sóng và kiểm tra tài khoản được nhưng gọi và nhắn tin không được như vậy là máy bị gì vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.74108,
+         "id": "1004008",
+         "field_search": "question",
+         "question": "E có cái asus zenfone 2 z008d,máy bị bể kính nếu thay thì giá cả ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.69779,
+         "id": "799320",
+         "field_search": "question",
+         "question": " Minh cần 1 id apple đẻ tải 1 app free, anh chị hay bạn nào có có thể cho mình xin được không. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.636503,
+         "id": "770003",
+         "field_search": "question",
+         "question": "Ad và Các bạn cho mình hỏi  Mình sài Windows 7, máy dell. Mình sài khoảng 1 tháng máy chạy vẫn ngon. Nhưng sau khi sài được đến tháng thứ 2 thì máy bị lỗi khởi động.lúc đó, mình khởi động lên đến cái windows thì máy bị lỗi màn hình xanh»ngúm rồi tự khởi động lại. Mình không chuyên về máy tính cho lắm, mong các bạn và ad giải quyết dùm mình...thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.60486,
+         "id": "882089",
+         "field_search": "question",
+         "question": " Bạn cho Mình hỏi làm sao sử dụng phwone tracker trên iphone.cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.569101,
+         "id": "790060",
+         "field_search": "question",
+         "question": " Cho mình hỏi màn hình iphone 5s giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.553692,
+         "id": "991778",
+         "field_search": "question",
+         "question": "có galaxy note 7 ban chưa? để mua, nếu có bao giờ mới phat hành nhỉ ? đặt trước để mua có được không ? giá bản là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.501774,
+         "id": "809291",
+         "field_search": "question",
+         "question": " Ad cho hỏi mình có iphone 5s bị khóa cloud thì phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.384361,
+         "id": "805037",
+         "field_search": "question",
+         "question": "Tình hình là sạc con ip4 của em bị hỏng giờ em mua dầ cáp không thì có sạc được pin không ạ,và giá cuả cap sạc ip4 là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.364481,
+         "id": "996455",
+         "field_search": "question",
+         "question": "BẠN ƠI MÁY MÌNH HỎNG KHÔNG KHỞI ĐỘNG ĐƯỢC CÓ CÁCH NÀO SỬA KO MÀ MUỐN ĐI CHẠY PHẦN MỀM ĐIỆN THOẠI THÌ PHẢI ĐEM ĐI ĐÂU ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.359411,
+         "id": "1137119",
+         "field_search": "question",
+         "question": "Mình mua laptop và có cài win 10 bản quyền của tggd. Sau lần bị hư phần mềm thì mình có cài lại win 10 crack. Nay mình muốn khôi phục và đóng phí để mở khóa tiếp tục xài bản quyền. Bên tggd có hỗ trợ không ạ? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.332932,
+         "id": "1136563",
+         "field_search": "question",
+         "question": "xin chào có thể cho mình hỏi về sản phẩm xiaomi mia2 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.290028,
+         "id": "1161842",
+         "field_search": "question",
+         "question": "Thay màn hình oppo f1s tại thế giới di động có đk lấy máy không ạ. Và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.219187,
+         "id": "940422",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có nhận thay màn hình iPhone 5 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.144337,
+         "id": "1168231",
+         "field_search": "question",
+         "question": "Ad cho hỏi mình dùng iphone 6 lock. Giờ đt rất lác giật. Cho hỏi nếu chạy lại chương trình thì đt có nhận sim ghép không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.01946,
+         "id": "845317",
+         "field_search": "question",
+         "question": "Chào ạ.mình hay quét zalo để kết thêm bạn bè.nhưng gần đây kết bạn khoảng 4-5 ng lại hiện thị \" đường truyền k ổn định\" trong khi wi-fi chạy rất mạnh.cho mình hỏi cách giải quyết ntn.cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.004635,
+         "id": "1008792",
+         "field_search": "question",
+         "question": "samsung j7 pro có trương trình trây góp không lãi xuất không ạ , nếu có mình phải trả trước bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.994257,
+         "id": "1004159",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bảng cink có chơi đc liên quân và cf mobile k e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.86643,
+         "id": "837026",
+         "field_search": "question",
+         "question": " Cho em hỏi ở cửa hàng có mở icould iphone 4 k ạ?nếu có khoảng bao nhiêu tiền z. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.863098,
+         "id": "1144400",
+         "field_search": "question",
+         "question": " Redmi note 7 tgdd có nhập về không vậy, nếu có thì bao giờ có ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.810667,
+         "id": "1158553",
+         "field_search": "question",
+         "question": "máy tôi không báo tin nhắn. khôi phục cài đặt rồi, có nghe nhưng vài ngày sau thì không thấy đâu nữa. các bạn giúp tôi với nhé. chứ thấy bất tiện quá. cám ơn các bạn nhiều ^!^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.76243,
+         "id": "806394",
+         "field_search": "question",
+         "question": " Mình muốn thay màng hình lâptop cảm ứng của asus bên cty có hỗ trợ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.713821,
+         "id": "817450",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn thay đổi thẻ sim trong ip 5s thì đến thegioididong.com làm được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.690338,
+         "id": "908731",
+         "field_search": "question",
+         "question": " Xin hỏi pin macbook air 2015 bên mình có không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.513727,
+         "id": "815340",
+         "field_search": "question",
+         "question": "em tên vinh cho em hỏi thế giới di động có thay pin iphone không a?. nếu mua ở nơi khác có được thay ở đây khổng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.505718,
+         "id": "1143443",
+         "field_search": "question",
+         "question": "Bên mình còn bán OPPO A71 ko ạ ? và giá bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.458832,
+         "id": "1141389",
+         "field_search": "question",
+         "question": "Chào TGDD,Mình được người quen cho Ipad 3 và đã đăng nhập icould. Nhưng giờ mình quên mật khẩu và người tặng cũng quên.Ipad mình đang sài ios 8.0.2, xin hỏi TGDD có thể restore máy lại toàn bộ mà không cần icloud không ạ.Mình cám ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.355118,
+         "id": "995033",
+         "field_search": "question",
+         "question": "TGDD cho tôi hỏi, tôi mua dt asus ở TGDD, hôm nay tôi lở làm nứt màn hình, vậy cho hỏi tôi có gửi bảo hành được không?(máy còn trong thời gian bảo hành) và nếu tốn phí thì tôi phải tốn bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.343517,
+         "id": "989826",
+         "field_search": "question",
+         "question": "chào thegioididong. e có con iphone 5s gold, e khởi động máy lên thì màn hình màu đen, còn táo màu trắng, như kiểu của máy gray. còn dùng bình thường. shop cho e hỏi lý do là gì ạ. e cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.25416,
+         "id": "1010397",
+         "field_search": "question",
+         "question": "dòng iphone có áp dụng trả trước 0 k ad. nếu có thì tư vấn cho e và cần những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.24466,
+         "id": "1134356",
+         "field_search": "question",
+         "question": "cho em hỏi vs ạ có bán máy huawei y9 2019 k ạ và giá là bao hiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.192154,
+         "id": "1159157",
+         "field_search": "question",
+         "question": "shop cho mình hỏi, mình có đặt và cọc hàng huawei p30 lite thế khi nào mới có hàng vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.021675,
+         "id": "1001668",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình mới mua nhưng bị rơi bể mặt kính thì thay thế như thế nào? Giá bao nhiêu? Asus zenfone max 5.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.00814,
+         "id": "942971",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.970036,
+         "id": "810221",
+         "field_search": "question",
+         "question": " Điện thoại có bao giờ nhiễm virus không ạ? Nếu có thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.887339,
+         "id": "805102",
+         "field_search": "question",
+         "question": "Chào Thế giới di động,Cho mình hỏi tại sao mình nhập số thẻ visa để đăng kí itunes thì bị trừ $1 trong khi mình chưa mua bất kì app gì cả?Hi vọng TGDD có thể trả lời mình sớm.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.449873,
+         "id": "1142355",
+         "field_search": "question",
+         "question": "Lúc trước mình có dán mặt lưng điện thoại ở Thegioididong, bây giờ mình dán thêm mặt trước thì có được ưu đãi giá 15.000đ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.314152,
+         "id": "755237",
+         "field_search": "question",
+         "question": " Cho em hỏi bạn em vừa tặng 1 iPhone 6s plus 16g mà em không muốn dùng có thể trả lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.313059,
+         "id": "1151543",
+         "field_search": "question",
+         "question": "Mình đang dùng asus zenfone 4 max pro,khi cắm dây sạc thì có hiện tượng sạc chập chờn.mình đã thử đổi cục sạc và dây và thử luôn tắt nguồn điên thoại và bật lại.nhưng khi cắm dây sạc vào đèn màn hình máy sáng liên tục.v cho mình hỏi máy bị sao? Nếu bị hư chuôi sạc trong máy thì ở TGDD có mạch sạc cho asus zenfone 4 max pro hay k. Mình chỉ sạc bằng củ sạc và dây sạc kèm theo máy,k hề sử dụng củ sạc hay dây sạc của máy khác. Nếu có chip sạc của máy asus zenfone 4 max pro thì shop gọi cho mình với nha 0905347902 hay 0972565372.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.302958,
+         "id": "996356",
+         "field_search": "question",
+         "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.268326,
+         "id": "782210",
+         "field_search": "question",
+         "question": " QTV cho em hỏi bên mình có bán combo củ sạc với cáp của iPhone 5s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.202648,
+         "id": "835265",
+         "field_search": "question",
+         "question": " Cho mình hỏi là máy tính Acer aspire e5 có thể tháo pin ra và sạp trực tiếp vào máy được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.044094,
+         "id": "1144398",
+         "field_search": "question",
+         "question": " Tgdd có nhập redmi note 7 về không vậy. Nếu có giá là bnhiu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.95419,
+         "id": "993122",
+         "field_search": "question",
+         "question": "Cho mình hỏi,mình muốn đổi dt philips e103 sang dt khác thì có được không ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.916418,
+         "id": "996130",
+         "field_search": "question",
+         "question": "Cho e hỏi keep ứng dụng trên android có lưu tài liệu rồi không biết em khôi phục cài đặt gốc ( định dạng ) có mất tài liệu đó không nếu mất thì ai đó cho em cái ứng dụng lưu trữ văn bản trên hệ thống đám mây android em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.767855,
+         "id": "789804",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi nếu iphone em được reset lại bằng itunes rồi nhưng giờ em xóa itunes đó rồi em cài itunes lai cho may tính nữa thì có reset lại may nữa được không. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.733746,
+         "id": "1150272",
+         "field_search": "question",
+         "question": "Chào anh chị, hiện tại em đang muốn mua trả góp điện thoại Ip6 S 32GB. Cho em hỏi em có thể mua với gói trả trước 0đ ko và cần những giấy tờ gì ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.713457,
+         "id": "1007388",
+         "field_search": "question",
+         "question": "Add cho mình hỏi trên face book có những chương trình khuyến mại giảm giá điện thoại với điều kiện thích và chia sẽ thực hư là thế nào hả. Nhưng chương trình đó có phải do tgdđ đăng không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.655586,
+         "id": "747657",
+         "field_search": "question",
+         "question": " cho em hỏi iphone khi reset có mất unlock không ạ.em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.516785,
+         "id": "1001656",
+         "field_search": "question",
+         "question": "AD cho e hỏi cái.E Mới mua XA1 trả góp bên mình giờ e muốn thanh lý hợp đồng luôn và e muốn đổi sang điện thoại khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.399012,
+         "id": "763218",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s khi nào có chương trình giảm giá nữa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.339432,
+         "id": "1139594",
+         "field_search": "question",
+         "question": "ad ơi em hỏi bên tgdd ad có dán kính mỏng cho s9 ko ạ . nến có thì bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.331362,
+         "id": "1160086",
+         "field_search": "question",
+         "question": "Điện thoại mình là asus zenfone 3 max 5.5. Dạo gần đây, màn hình bị rối loank, có chỗ bị liêt, phím điều hướng ko nhấn đc. Cho mình hỏi là đt mk bị tình trạng j ạk. Nếu sửa chữa thì tốn bao nhiêu tiền ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1020919",
+   "total": 29163,
+   "total_current": 100,
+   "max_score": 58.846905,
+   "origin_question": "Da cho e hỏi ip của e nó bị sao z nó thỉnh thoảng lại hiện lên  ",
+   "hits": [
+      {
+         "score": 26.815363,
+         "id": "1160256",
+         "field_search": "question",
+         "question": "Sao con mi8 lite của mình thỉnh thoảng bị kiểu lấy đt từ trong túi quần ra là nó tự sáng màn hình ( đã tắt tính năng nhấc lên )...cho hỏi là bị lỗi hay sao ạ ( thỉnh thoảng nó vẫn tự sáng màn hình )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.02499,
+         "id": "817693",
+         "field_search": "question",
+         "question": "Cho e hỏi e đăng dùng iphone 5s thỉnh thoảng nó cứ trừ tiền của e ( 2500đ) gọi hỏi tổng đài thì tổng đài nói e sử dụng dịch vụ facetime và imessenger nên bị trừVậy cho e hỏi làm thế nào để khắc phục ạ chứ cứ thỉnh thoảng nó trừ 1 phát chắc e mua máy khác quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.483011,
+         "id": "1159030",
+         "field_search": "question",
+         "question": "Mấy chuyên gia cho e hỏi điện thoại của e tối hôm trước còn dùng được, đến sáng hôm sau thì bật lên nó lại bị đen hết màn hình ý nhưng màn hình vẫn sáng. Lúc khởi động lại thì thỉnh thoảng nó lại hiện lên chập chờn chữ vivo ..gì gì đó, xong lại đen hết màn hình. Mong các cao nhân tư vấn giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.3839,
+         "id": "1154077",
+         "field_search": "question",
+         "question": "Laptop e bị dính nút xuống. Thỉnh thoảng nó cứ tự cuộn xuống cuối trang là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.866142,
+         "id": "897835",
+         "field_search": "question",
+         "question": " Cho mình hỏi iphone 6 của mình tự dưng vào facebook thỉnh thoảng nó cứ tự tắt là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.153261,
+         "id": "834005",
+         "field_search": "question",
+         "question": " E xài Dell Vostro 2421..lúc khởi đọng nó hiện lên như z là bị gì z qtv???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.833355,
+         "id": "1018406",
+         "field_search": "question",
+         "question": "Ac  cho em hỏi sao máy oppoa37 em mới mua mà thỉnh thoảng nó hay bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.826664,
+         "id": "1010452",
+         "field_search": "question",
+         "question": "Cho e hỏi sao máy samsung galaxy j2 prime của e nó hiện như z ạ lúc nào coi video 360 là nó như z ạ có cách nào khác phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.77156,
+         "id": "1010673",
+         "field_search": "question",
+         "question": " aA ơi cho e hỏi vào cài đặt hình điện nó lại hiện lên như z koa cách nào khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.767027,
+         "id": "815157",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iphone của em dung ios9.2.1 thỉnh thoảng bị liệt cảm ứng song khoá máy bật lên lại được.dùng một lúc lại bị thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.600775,
+         "id": "890182",
+         "field_search": "question",
+         "question": " em bị khóa kích hoạt ip , e nhập đúng ID nhưng s nó hiện lên kh nhân ID của e v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.321012,
+         "id": "1009739",
+         "field_search": "question",
+         "question": "Cho em hỏi máy e bât mạng mà thỉnh thoảng lại bị tắt rồi lại nên làm sao để khác phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.116434,
+         "id": "1139962",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy em thỉnh thoảng nó bị đơ rồi thành cái màn hình xanh là bị làm sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.204725,
+         "id": "799719",
+         "field_search": "question",
+         "question": " Máy em thỉnh thoảng nó lại bị launcher loading .mặc dù đã reset mà vẫn không hết.giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.672588,
+         "id": "830612",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy ip của em ở ứng dụg mesenger có tin nhắn đến tại sao nó k hiện lên và k có chuông. Em đã bật hết âm lượng ở mesenger lên nhưng nó vẫn k có chuông và hiện lên tin nhắn đến. Ac giúp e vs ạ. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.641327,
+         "id": "938625",
+         "field_search": "question",
+         "question": "Iphone của mình mỗi khi cắm sạc thì wifi bị ngắt kết nối rồi kết nối lại luôn, cứ cách vài phút nó lại bị như thế. Trước ko chỉ khi sạc mới bị bây giờ thỉnh thoảng ko sạc nó cũng bị nhưng tần suất bị ít hơn. Vậy cho mình hỏi như thế là nó bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.43009,
+         "id": "780178",
+         "field_search": "question",
+         "question": "QTV ơi .. máy em chạy ios 9.2.1 thỉnh thoảng mở khóa màn hình thì máy rung lên . cho e hỏi thế là bị sao không ạ :) thanks AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.228598,
+         "id": "927885",
+         "field_search": "question",
+         "question": "Em có đang dùng iphone 6s .máy thỉnh thoảng loa bị dè.k nghe được.nói ng khác cũng k nghe được..cho em hỏi nó bị làm sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.144205,
+         "id": "1020603",
+         "field_search": "question",
+         "question": "Em có con Philips S398, Em mua cũng lâu rồi. Giờ nó bị tình trạng thỉnh thoảng màn hình nó bị mờ đi, kiểu phải nhìn nghiên thì ms thấy ạ.Em lấy tay ấn ấn vào góc bên phải thì nó sáng lên lại được. Thỉnh thoảng lại bị.Vậy em muốn khắc phục thì như thế nào ạ. Sửa ở đâu ạ, giá sửa tầm bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.1012,
+         "id": "1138370",
+         "field_search": "question",
+         "question": "E đang dùng ss A7. Thỉnh thoảng báo đầy bộ nhớ ss cloud là sao ạ? Trong khi ss cloud còn trống hơn 8gb?Với lại thỉnh thoảng đang dùng thì sập nguồn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.087345,
+         "id": "906794",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi với ạ. Em mua máy ip6 cũ. sau khi đã đăng nhập hết tài khoản của em vào máy rồi nhưng thỉnh thoảng vào album ảnh lại hiện lên 1 số ảnh không phải do máy e chụp là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.039743,
+         "id": "964278",
+         "field_search": "question",
+         "question": "Cho e hỏi ntn là kiểu j à?? Đag inb thì nick ng ta bị ntn e ko inb đc nữa. Nhưng sao vẫn hiện vừa mới truy cập và thỉnh thoảng hiện vừa truy cậo 5p trước???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.963634,
+         "id": "1150109",
+         "field_search": "question",
+         "question": "Em dùng htc one e8 . Máy em thỉnh thoảng đang dùng thì nó tự sập nguồn ,mở lên 1lúc lại tự sập nguồn. đoi lúc nó sập nguồn bật ko lên nguồn sạc cũng ko lên, để cho Nó hết kiệt pin sạc vô mới lên. Rồi cứ thế a. Vậy là sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.941532,
+         "id": "1134252",
+         "field_search": "question",
+         "question": "Em Có Một Chiếc honor 8 nhưng mà thỉnh thoảng nó tự khởi động r bị lỗi nó hiện ra cái gì đỏ có chữ bấm nút nguồn để rebot mong ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.49813,
+         "id": "1019869",
+         "field_search": "question",
+         "question": "cho e hỏi máy e bị như này e phải làm sao ạ ???E mới dùng được hơn 1 tháng mà thi thoảng nó nóng máy r nó tự động sập nguồn r ra hình như này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.308989,
+         "id": "1007956",
+         "field_search": "question",
+         "question": "e dùng samsung j2 prime e muốn hỏi sao thỉnh thoảng màn hình cảm ứng bấm không nhạy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.238293,
+         "id": "1011462",
+         "field_search": "question",
+         "question": "cho e hỏi sao pc của e nó chơi game liên quân trên nox thì đen thùi và những game khách thì cũng như z ạ vậy pc của e nó cần card đồ họa phải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.087988,
+         "id": "1153961",
+         "field_search": "question",
+         "question": "Cho e hoi sao ip cua e chup camera truoc khi luu hinh lại thì nó bị xoay nguoc. Chi e cach khac phuc di ạ.  E camon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06624,
+         "id": "1156134",
+         "field_search": "question",
+         "question": "Laptop HP của mình hay thỉnh thoảng chỗ wifi hiện lên gạch chéo, có khi mất luôn rồi tự có lại. Lại còn mạng chơi game khá yếu nhảy liên tục. Cho hỏi là bị gì và cách khắc phục? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.896988,
+         "id": "1150374",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có con pocophone F1 mà thỉnh thoảng nó bị out ứng dựng vậy lỗi này là do máy mặc định bị thế hay do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.850534,
+         "id": "919841",
+         "field_search": "question",
+         "question": "   Sao trên mess ip tài khoản của tui hiện lên giao diện này còn vào tài khoản khác nó lại bth chỉ mìh với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.747665,
+         "id": "1150426",
+         "field_search": "question",
+         "question": "E dùng samsung j4 e ko bt máy e bị j mà e bật bluetooth lên là nó chỉ hiện chữ bật r đợi rất lâu vẫn ko kết nối dc vs bluetooth khác thoát r vô lại là ch bật bật nữa cũng z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.600746,
+         "id": "1143836",
+         "field_search": "question",
+         "question": "Em sài máy masstel juno s6. Thỉnh thoảng trên màn hình lại xuất hiện 1 chấm trong trắng và khi kích vào nó thì thấy 1 trang quảng cáo. Làm sao để tắt nó đi ạ? Và cho em hỏi là có phải vì nó mà máy thường phát sinh các quảng cáo từ google không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.596922,
+         "id": "792224",
+         "field_search": "question",
+         "question": " Điện thoại ip của em sao vào Zalo binh luận thỉnh thoang cái nút gửi ấy nó k gửi đa binh luận là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.561497,
+         "id": "1020168",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi con wiko lenny 2 của e vào phần đặt lại điện thoại trên máy thì nó tắt nguồn và khởi động lại máy và vào phần recovery để factory reset cũng ko đc lun là nó bị j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.508577,
+         "id": "998047",
+         "field_search": "question",
+         "question": "Điệnthoại e nó có vấn đề, nó hiện lên thiết bị đang nóng e dô ứng dụng nào cũng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.501223,
+         "id": "1017622",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e xài grap nó kêu là tắt lớp mở màn hình là sao z mong trả lời nhanh giùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.278135,
+         "id": "1153303",
+         "field_search": "question",
+         "question": "Iphone 6 thỉnh thoảng mất âm thanh phải khởi động lại mới được e xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.122223,
+         "id": "1161251",
+         "field_search": "question",
+         "question": "Sao ip xs cua toi sac dc 80 pin là nó ngưng sạc z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.067163,
+         "id": "1014439",
+         "field_search": "question",
+         "question": " Tại sao e lại không gọi được và nó cứ hiện lên  không đăng kí vào mạng   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.97853,
+         "id": "999195",
+         "field_search": "question",
+         "question": "chào ad hiện tại e đang sài con ip 6se để chế độ máy bay khi ngủ mai e mở lên sim nó hiện sim bị khóa không biết có khách khắc phục nào không ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.953833,
+         "id": "1019756",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung j2prime nó cứ báo dung lượng sắp hết z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.944895,
+         "id": "1141776",
+         "field_search": "question",
+         "question": "ad cho em hỏikhi em xem video trên máy tính, ví dụ như trên facebook hay trên một số khóa học online thì nó hay bị nhòe nhòe chớp chớp tầm 1s rồi nó lại về bình thường. khi e xem trên youtube thì thỉnh thoảng cũng bị vậy nhưng ít hơn. Xem vid như vậy e thấy rất đau mắt và bất tiện ạ. cho e hỏi lỗi này là do đâu ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.926487,
+         "id": "1135244",
+         "field_search": "question",
+         "question": "Chào a/c e mới mua oppo f9 được hơn 1 tháng máy e lần nào quay video cũng bị giật là sao ạ, gọi thì thỉnh thoảng bị rè loa trong ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.877958,
+         "id": "1023438",
+         "field_search": "question",
+         "question": "cho em hỏi ip của e ddaayfpin mà tự sập k lên nguofn cắm sạc thì hiện tó xog mất hiện đang sạc xog lại hiện táo và cứ như thế là làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.814932,
+         "id": "951373",
+         "field_search": "question",
+         "question": "E hơi dốt về ip các bác cho e hỏi bị thế này là bị thế nào ạVân tay của e không nhậy mấy hôm qa e có xoá bỏ vân tay cũ đi đặt lại vân tay mới nhưng mà k được đặt gần xong ùi thì nó cứ chạy lại từ đầu nên giờ e gí vào vân tay nó k chạy nữa là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.809736,
+         "id": "874822",
+         "field_search": "question",
+         "question": "Cho e hỏi cái sao cái iphone 5s của e đang xài mà nó bị lật ngược màn hình lên . Dưới thì lên trên trên thì xuống dưới vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.774672,
+         "id": "1160573",
+         "field_search": "question",
+         "question": "chiếc sam sung A30 e mới mua mà thi thoảng cảm ứng nó bị loạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.753746,
+         "id": "1153665",
+         "field_search": "question",
+         "question": "E dung máy sam sung a7 cho e hỏi đồng hồ báo thức e kg cài nó cung hiện lên la lam sao vậy nhi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.679678,
+         "id": "830610",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi máy iPhone của em ở ứng dụg mesenger có tin nhắn đến tại sao nó k hiện lên và k có chuông. Em đã bật hết âm lượng ở mesenger lên nhưng nó vẫn k có chuông và hiện lên tin nhắn đến. Ac giúp e vs ạ. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.62381,
+         "id": "890286",
+         "field_search": "question",
+         "question": "Em có nhu cầu mua laptop dell tầm dưới 13 triệu. mục đích của e chuyên code ( e học cntt) thỉnh thoảng photoshop . Tư vấn giùm e với ạ . máy càng nhẹ càng tốt ạ ( mang đi lại cho tiện ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.598278,
+         "id": "1141250",
+         "field_search": "question",
+         "question": "cho e hỏi laptop của e mới reset lại thì Microsoft office bị lỗi nên mở word, excel không lên ạ. Nó cứ hiện dòng chữ this action is only valid for products that are currently in stalled.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.597967,
+         "id": "820150",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là đt ip5s của e sao khi e nhấn vào 4 góc của đt thì có 1 góc kêu nhỏ mà e nhge nói ip là k bị như z không lẻ đt e bị thay màn hình à mong ad sớm tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.585493,
+         "id": "1167099",
+         "field_search": "question",
+         "question": "Điện thoại em mua được 4ngày sao dùng nút nguồn thỉnh thoảng bị liệt chơi game thỉnh thoảng lại bị mất mạng bây giờ em muốn đi đổi thì đến điện máy xanh được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.577673,
+         "id": "1145063",
+         "field_search": "question",
+         "question": "Hiện tại e đang xài huawei nova 3e ah. Ko hiểu sao gần đây nó lại mất tính năng xạc nhanh. Cho e hỏi là nó bị gì và hướng giải quyết sao vậy ah. E chân thành cảm ơn nhiều ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.569984,
+         "id": "887216",
+         "field_search": "question",
+         "question": "cho e hỏi ip của e có ID sẳn rồi . giờ e tháo sim hiện tại ra và lắp sim khác zô , z có cần tạo ID mới k hay vẫn sử dung ID cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.521875,
+         "id": "1143529",
+         "field_search": "question",
+         "question": "cho e hỏi cái samsung note 4 e nó cứ lên được 2 3s rồi lại tắt nguồn ... ở biểu tượng sóng đth nó hiện cái biểu tượng chặn ... sạc đầy rồi mở nguồn thì nó lên mỗi lần mỗi mức pin khác nhau..lm sao khắc phục đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.48832,
+         "id": "1024324",
+         "field_search": "question",
+         "question": "Pc của e nó bị sao ý ạ , nó tự cài google chorme xong e xóa xong 1 vài phút hoặc 1 vài tiếng nó lại cài trở lại ạ v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.42965,
+         "id": "938189",
+         "field_search": "question",
+         "question": "Cho e hỏi đt ip của e khi vào facebook, zalo,...hiện Kết...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.329432,
+         "id": "1001977",
+         "field_search": "question",
+         "question": "ae cho e hỏi máy e sau khi bị sập nguồn thì bây giờ e mở lên nó lại hiện mấy ứng dụng như máy ảnh, đèn pin,..trong một vòng tròn và e muốn mở tin nhắn thì nó báo \"hãy mở nắp và mở khóa màn hình bảo mật\" là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.327597,
+         "id": "953281",
+         "field_search": "question",
+         "question": " Cho e hỏi sao fb của e nó lại mất biểu tượng kết bạn vs tin nhắn ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.289593,
+         "id": "1159245",
+         "field_search": "question",
+         "question": "E mua máy nokia 6.1  plus của tgdd Bảo hành còn đến 27.8 Giờ máy thỉnh thoảng bị khởi động lại và còn bị lag khựng nưa  Đã reste bao nhiêu lần Chán tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.28762,
+         "id": "1143049",
+         "field_search": "question",
+         "question": "điện thoại e dùng là oppo a83. e mang qua hàn quốc dùng thì 1 tháng đầu vẩn bình thường. sau thì nó tự chuyển qua ip hàn quốc luôn, e khôi phục lại mở lên nó vẩn tự chuyển qua ip hàn, giờ em lên ch play toàn game hàn thôi. làm sao để máy về nhưu cũ  hả ad. e đã dùng mọi cách fake ip về việt nam những vẩn k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20934,
+         "id": "1153518",
+         "field_search": "question",
+         "question": "cho e hỏi e có sài đt itel ă. E vô fb của e để đăg ảnh mà ko đc nó cứ đề thử lại , còn sử dụng đt khác vô fb là đc , z cái đó là do đt của e hay là do fb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.180304,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.152584,
+         "id": "896819",
+         "field_search": "question",
+         "question": " QTV ơi cho e hỏi thư viện ảnh của e bị z là sao ạ Làm sao để khắc phục ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.09056,
+         "id": "743838",
+         "field_search": "question",
+         "question": " Cho em hỏi sao laptop của em mở lên thì nó hiện như hình mà không lên vây nó bi gì vây anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.058842,
+         "id": "1138926",
+         "field_search": "question",
+         "question": "Anh ơi máy hưawei y9 sao lại ko chơi đc liền quân z anh mở lên nó hiện chữ liền quần r tối màn hình luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.050337,
+         "id": "831808",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao khi download trên microsoft nó lại chỉ hiện lên 1mb mà mãi không tải được chút nào ạ. E dùng máy dell và win 10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.02217,
+         "id": "1142183",
+         "field_search": "question",
+         "question": "E dùng huawei y5 II, e bật 3G lên bình thường hiện chữ H+ nhưng bây giờ nó chỉ hiện chữ E, cho hỏi muốn chuyển về chữ H+ thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.931873,
+         "id": "771216",
+         "field_search": "question",
+         "question": " Điện thoại Oppo R1001 sao tự tắt nguồn và mở lên thì nó hiện lên chữ Oppo rồi nó tắt lại ạ, sao bị hoài vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.924536,
+         "id": "1157933",
+         "field_search": "question",
+         "question": "add ơi cho e hỏi : e quên mk fb, giờ e muốn lấy lại bằng sđt nhưng nó ko hiện lên phần gửi mã mà nó chỉ hiển thị phần email nhưng e ko đăng kí email thì làm thế nào ạ.  E cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.90688,
+         "id": "1142277",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop của e khi khởi động lên nó tự động vào Www2.savemax.store sau đó ní tắt máy luôn. Cho e hỏi khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.851458,
+         "id": "1147177",
+         "field_search": "question",
+         "question": " cho e hỏi ip của e tự nhiên bị loạn cảm ứng là bị sao vậy ạ, e k để dính nước ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.824589,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.772366,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.76534,
+         "id": "1004600",
+         "field_search": "question",
+         "question": "cho e hỏi đt iphone nó bị phồng màn hình lên là bị j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.7297,
+         "id": "1167659",
+         "field_search": "question",
+         "question": "máy của em bị sao vậy ad ? Nó cứ bị hiện fb lên mà ấn vào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.708992,
+         "id": "773140",
+         "field_search": "question",
+         "question": " máy em mua dc 2 3 tháng j đó mà nay e mới sài camera h nó bị z là thế nào z ad.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.705404,
+         "id": "1160845",
+         "field_search": "question",
+         "question": "cho em hỏi e định nâng cấp win 7 lên win 8 nhưng nó lại hiện lên như thế này , em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.68033,
+         "id": "824777",
+         "field_search": "question",
+         "question": "Cho e hỏi IP 5s của e khi mở camera 360 lên chụp chưa tới 5p thì máy bị nóng rang lên là sao ạ? Còn khi sử dụng các chức năng khác thì ko bị sao hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.649445,
+         "id": "1153856",
+         "field_search": "question",
+         "question": "Cho e hoi e mua dt a7. sao tự dưng không vuốt màn hình từ trên xuống .nó cũng tự hiện lên màn hình ạ. Cài đat lại ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.640179,
+         "id": "992308",
+         "field_search": "question",
+         "question": "Iphone 6s thỉnh thoảng lại bị mất tiếng(tiếng bàn phím, khóa màn hình và cuộc gọi đến, tin nhắn...) mặc dù mình kiểm tra âm lượn đã bật lớn, gạt khóa âm lượng, không bật các chế độ không làm phiền, nguồn điện thấp. Rồi mình gạt qua gạt lại khóa âm lượn thì lại được. Vì cứ thỉnh thoảng nó lại bị nên mình không lường được cuộc gọi tin nhắn nên toàn bị nhỡ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.632915,
+         "id": "986301",
+         "field_search": "question",
+         "question": "Cho e hỏi là fb trên ip của e sao chỗ này nó không có phần messenger với lời mời kb ạ? Liệu đây có phải là bản mới nhất của fb k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.596333,
+         "id": "1003120",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi. Một máy ip 6 plus bị mất hiện ở chụp ảnh như z là s a. Vs ip 5s k nhận thẻ sim. Dù tắt nguồn bật lại cũng k đc. Thì ở tgdđ có sửa đc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.596043,
+         "id": "1018440",
+         "field_search": "question",
+         "question": "điện thoại của e là oppo r831. em mở nguồn lên thì nó chỉ rung rồi hiện chữ oppo. nó có hiện recovery mode, em đã bấm nút nguồn và nút tăng âm lượng nhưng nó lại hiện lên chữ factory mode. em bấm nút nguồn và nút giảm âm lượng thì nó lại hiện recovery mode. em muốn nghe cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.546076,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.54369,
+         "id": "1023304",
+         "field_search": "question",
+         "question": "Anh ơi em mua cái cáp sạc ip ở tgdd sao e sạc nó lâu lâu nó ko vô em đi lại đổi đc ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.541538,
+         "id": "792402",
+         "field_search": "question",
+         "question": "Cho em hỏi, lap em mới cài win8 lại, khi em mở lap thì nó hiện lên tên là Dell, trong khi lap của em là asus, nó bị j vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.496548,
+         "id": "818544",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao ip6 của e cài đặt ảnh người gọi mà nó k hiển lên màng hình khi có cuộc gọi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.473057,
+         "id": "784238",
+         "field_search": "question",
+         "question": "Ad ơi máy iphone 4 của em đang xài bình thường rồi e tắt máy mà em mở lại nó không lên lại luôn,em dùng mọi cách cũng không lên được .ad cho em hỏi là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.471981,
+         "id": "1022665",
+         "field_search": "question",
+         "question": "cho e hỏi camera trước (thường) ip5s của e mỗi khi chụp hình xong là tấm hình nó bị lật ngược từ phải sang trái,cho e hỏi nó bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.449009,
+         "id": "1161031",
+         "field_search": "question",
+         "question": "điện thoại của mình chỉ bật nguồn lên tầm được 1p là nó lại từ từ tối màn hình lại rồi sậpnguồn, hiện máy e đang bị lỗi j ạ, các cao nhân chỉ e với ạ. Máy e là vivo, hđh android ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.438385,
+         "id": "1164909",
+         "field_search": "question",
+         "question": "Tại sao xs max của e vừa mới mua ở tgdd e phát hiện máy gọi k rung e thử nhiều cách mà nó k rung là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.427782,
+         "id": "1146144",
+         "field_search": "question",
+         "question": "ad cho e hỏi cái này ?? e quên mk icloud mà h nó bị khoá . làm sao lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.427456,
+         "id": "797524",
+         "field_search": "question",
+         "question": " Cho e hỏi iPhone 4s của e tự nhiên bị tắt nguồn là nó bị gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.422926,
+         "id": "1001631",
+         "field_search": "question",
+         "question": "Điện thọai của e là hiệu .mobiistar laiz1 nó bị hư .sạt ko vào thỉnh thỏang rúc pin lai là hư cái gì ạ va sửa bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.411251,
+         "id": "995790",
+         "field_search": "question",
+         "question": "Cho e hỏi là e tati ứng dụng về xong nó bị thế này.xoá ứng dụnh thì nó k xoá đc  nó cứ hiện như vậy .k biết lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.39915,
+         "id": "827542",
+         "field_search": "question",
+         "question": " cho e hỏi tại sao máy tính của e vào phần downloads không được vào nó lại trở ra màn hình chính ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

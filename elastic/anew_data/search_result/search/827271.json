@@ -1,0 +1,801 @@
+{
+   "id_query": "827271",
+   "total": 32906,
+   "total_current": 100,
+   "max_score": 120.29682,
+   "origin_question": "e vừa mua asus K555L pin liền ở thế giớ di động, vì tính chất công việc phải sử dụng laptop liên tục suốt 8 tiếng 1 ngày, làm thể nào để pin không bị chai ạ, e cảm ơn ạ",
+   "hits": [
+      {
+         "score": 39.099804,
+         "id": "804426",
+         "field_search": "question",
+         "question": " Em nên sử dụng tế nào để pin laptop không bị chai ạ?Nếu pin bị chai thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.242554,
+         "id": "883210",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi . Em có đọc trên một vài trang web họ bảo rằng : Pin của laptop asus sẽ tự động ngắt sạc khi đầy 100% , khi đó chúng ta có thể để nguyên sạc trong ổ điện không cần rút ra và sử dụng máy bình thường vì lúc này máy không sử dụng điện từ pin mà sử dụng điện trực tiếp từ sạc . Cứ để nguyên như vậy không rút ra có thể xài được khoảng 5 ngày ( vì mỗi ngày pin sẽ xuống 1% do nuôi linh kiện ) . Khi còn 94% thì rút sạc ra và xài bình thường vì lúc này máy sẽ tự động kết nối sạc để sạc đầy lại 100% , nếu không rút thì máy sẽ vừa sạc vừa xả sẽ bị chai pin . Khi nào còn 10% thì sạc đầy và tiếp tục làm như trên , làm như vậy sẽ hạn chế số lần sạc pin giúp pin lâu chai . Cách sử dụng như vậy có đúng không ? Việc cắm sạc liên tục không rút ra khi pin đã đầy và dùng có ảnh hưởng gì không ? Em cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.307346,
+         "id": "835158",
+         "field_search": "question",
+         "question": " Laptop Asus P550L khi sử dụng mà cắm sạc pin để cả ngày có chai pin không ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.998707,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.097553,
+         "id": "839126",
+         "field_search": "question",
+         "question": "iphone của em mới mua nhưng sử dụng liên tục chỉ được tầm 4 giờ .. vậy pin có làm sao không ạ .. em mới chỉ mua ở thế giới di động hơn 1 tuần thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.64194,
+         "id": "1140261",
+         "field_search": "question",
+         "question": "laptop liền pin thì mình vừa sạc đầy pin sau đó cắm sạc dùng lâu rồi rút dây đem đi thì có bị chai pin không ạ ? giúp em với em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.01627,
+         "id": "1145770",
+         "field_search": "question",
+         "question": "mình mới mua iphone 7 plus cũ ở thế giới di động về sử dụng thì thấy pin mau hết. sau khi sạc và để điện thoại 1 đêm là mất 50% pin rồi . vậy thì phải làm thế nào ạ. cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.95157,
+         "id": "901667",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ! sạc laptop asus F454L (pin liền) e cắm sạc thỉnh thoảng pin không vào, hoặc có khi nhấp nháy đỏ báo pin, e cắm sạc khác cùng hãng thì vẫn sạc được bình thường ạ. e kiểm tra sac ở ngoài thì không có bị đứt dây hay như thế nào cả. thế h e phải làm sao ạ?cảm ơn ad!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.58084,
+         "id": "909766",
+         "field_search": "question",
+         "question": " Vừa sạc vừa sử dụng laptop pin liền có ảnh hưởng gì không ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.103024,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.528244,
+         "id": "832708",
+         "field_search": "question",
+         "question": "giúp e với! e đang dùng laptop asus! trong quá trình sử dụng trình duyệt nó cứ tự động mở thêm các tap blog hoặc trang wed nào đó liên tục! !giờ em muốn nó k tự động mở tap mới linh tinh thì phải làm xao ạ? e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.464695,
+         "id": "888722",
+         "field_search": "question",
+         "question": "cho em hỏi laptop X554LA 2560XD thiết kế pin liền hay pin rời ạ? nếu là pin liền thì sử dụng sao cho đúng cách ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.464626,
+         "id": "802712",
+         "field_search": "question",
+         "question": "E mua một chiếc ip5s ở TGDD ngày 5/3/2016 nhưng khj vừa sạc pin vừa sử dụng thì điện thoại lúc được lúc ko như là bị loạn cảm ứng z đây có phải là lỗi do nhà sản xuất ko ạ . E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.46414,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.165134,
+         "id": "870537",
+         "field_search": "question",
+         "question": " Hiện em đang xài laptop asus TP501UB. Mình vừa sử dụng vừa sạc có bi chai pin gì không a??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.99561,
+         "id": "1017821",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại J5 prime nhưng e đang thắc mắc làm sao để bật mạng di động cho 1 sim. vì khi chọn bật mạng di động ở sim 1 thfi sim 2 cũng hiện bật mạng di động. Hướng dẫn giùm e. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.66559,
+         "id": "812555",
+         "field_search": "question",
+         "question": "Ai có kinh nghiệm dùng lap hãng ASUS chỉ mình vớiMình mới mua con ASUS K541LN pin liền máy.tra trên web thì mỗi người một ý kiến,k biết nghe ai.Mọi người cho mình hỏi cách sạc pin với ạ,làm thế nào để pin không bị chai ạ :((Thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.224993,
+         "id": "1021805",
+         "field_search": "question",
+         "question": "Cho e hỏi samsung j5 2016 dùng ổn định thì bao nhiêu là hết pin ạ. E dùng chơi lên tục thì 2-3 tiếng là hết. Dùng tiết kiệm thì dc 1 ngày. Ko biết có phải chai pin ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.713343,
+         "id": "755443",
+         "field_search": "question",
+         "question": "Qtv cho tôi hỏi. Tôi dùng laptop Asus pin không thể tháo rời. Nếu laptop của tôi bị đơ, đứng máy thì tôi phải làm như thế nào để tắt máy hay khởi động lại máy. Vì không thể tháo pin ra như cách mọi người vẫn làm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.626543,
+         "id": "764859",
+         "field_search": "question",
+         "question": "Em mới mua Asus X453S, khi sạc đầy pin chỉ dùng được 2 tiếng liên tục đã cạn pin . vậy có phải là máy tính có vấn đề gì không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.62169,
+         "id": "800269",
+         "field_search": "question",
+         "question": " Pin laptop là pin liền sau này nếu pin chai có thay được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.481133,
+         "id": "1150891",
+         "field_search": "question",
+         "question": "Em vừa mơi mua ở thế giới di đông 1 con samsung note 8 hiện máy thì sài bình thường không lỗi. Chỉ có điều máy hao pin nhanh. Sài mạng 4G online liên tục hơn 3h cạn nguồn. Nếu như vậy e được đổi sang máy khác không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.424591,
+         "id": "1137046",
+         "field_search": "question",
+         "question": " Làm thế nào để biết PIN bị chai hay không và biết PIN hoạt động tốt hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.373865,
+         "id": "999914",
+         "field_search": "question",
+         "question": "Em xài note 3 cũng được 3 - 4 năm rồi. Ngày trước pin rất lâu xuống, e chơi game vs chat cả ngày mà điện thoại rất lâu hết pin. E luôn dùng sạc chính hãng của note 3 để sạc điện thoại. Nhưng từ ngày củ sạc đó bị hư, e cũng cho rằng sạc các dây sạc khác điện vẫn vô nên e ko mua dây mới. Nhưng khoảng 1 năm lại đây, e hay vừa sạc vừa sử dụng nên điện thoại rất lâu đầy, nhưng xuống pin nhanh lắm. E ko dám vừa chơi vừa sạc nữa, cũng như xóa và vô hiệu hết các ứng dụng chạy ngầm, giảm độ sáng các kiểu, nói chung e đã làm mọi cách có thể nhưng điện thoại vẫn xuống pin liên tục, ko xài gì cũng xuống. Cho em hỏi bây giờ e có nên thay củ sạc và pin luôn ko ạ ? Vì pin từ lúc mua đến giờ e ko hề đụng vào, chưa thay mới bao giờ, còn dây sạc thì chắc phải mua mới vì cái cũ hư rồi. E cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.352121,
+         "id": "878794",
+         "field_search": "question",
+         "question": "pin laptop lúc nào cũng cắm sạc và dùng trong 1 tuần mới rút sạc . nhiều lần như vậy pin có bị chai k ạ?, và những việc gây chai pin là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.2279,
+         "id": "1155487",
+         "field_search": "question",
+         "question": "Tôi vừa mua ip7plut 32G ở thế giới di động tôi dùng 3G vào mạng nhanh hết pin kinh khủng như ăn gém pin ý. Nếu vào liên tục chắc chỉ mấy tiếng là hết 100% pin. Bạn cho mình hỏi mình mua phải hàng nhái ip ko vậy. Nếu hàng xịn có nhanh bị hết pin như tôi nói ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.194523,
+         "id": "1140392",
+         "field_search": "question",
+         "question": "máy acer aspire E5576G52YQ vừa sử dụng vừa sạc có bị chai pin k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.728199,
+         "id": "1015315",
+         "field_search": "question",
+         "question": "Cho em hỏi, thế giới di động có bán pin laptop không ạ. nếu không có, cho em hỏi e có thế mua pin toshiba ở đâu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.390812,
+         "id": "1146546",
+         "field_search": "question",
+         "question": "Cho em hỏi với iphone 7 nếu sử dụng liên tục thì trong tầm khoảng bao nhiêu tiếng là hết pin thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.37711,
+         "id": "780372",
+         "field_search": "question",
+         "question": "Ad cho hỏi pin của máy Asus A556UF có rời k ạ, em hay sử dụng nhiều nhưng pin của máy chỉ có 2 cell, em sợ vừa sạc vừa dùng máy bị chai pin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.296515,
+         "id": "1140547",
+         "field_search": "question",
+         "question": "E mới mua nokia 7 plus dc 1 ngày . e chơi liên quân 1 trận có 15p thôi mà sao máy tuột đến 8% pin nhiều đén vậy ạ, phải chăng pin máy ko ổn định ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.017393,
+         "id": "1013331",
+         "field_search": "question",
+         "question": "E đi học 6 tháng k đc sử dụng đt, như vậy đt e có bị chai pin k ạ, có cách nào để khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.80906,
+         "id": "1013099",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Ngày mùng 8/8/2017 mình có mua đt a5 ở thế giới di động. Nhưng hiện nay dùng thì bị tụt bin quá nhanh. Trong vòng 1 tiếng k sử dụng, k bật mạng mà vẫn bị hao 30%. Vậy tôi hỏi có đc đổi 1 với 1 trong vòng 1 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.759592,
+         "id": "1163321",
+         "field_search": "question",
+         "question": "facebook em liên tục bị xác nhận danh tính, tạo tài khoản sử dụng chưa đầy năm phút lại bị xác nhận danh tính, facebook trước đây của em sử dụng hơn 1 năm không biết bên thế giới di động có hỗ trợ vấn đề này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.663485,
+         "id": "1013379",
+         "field_search": "question",
+         "question": "vừa xạc vừa xài laptop có bị chai pin không ạ em đang dùng laptop dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.59832,
+         "id": "852124",
+         "field_search": "question",
+         "question": "iphone 5s mới mua, sài 2 tiếng, gần hết pin e đem đi sạc, đang sạc thì máy chuyển sang màn hình xanh dương, khởi động liên tục, mà không lên. khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.583042,
+         "id": "1145267",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua ip 6s plus được 1 tháng, mấy ngày đầu xái pin vẫn tốt ko sao nhưng xài đc 1 tháng thấy tình trạng pin yếu dần xài hao pin hơn. V có phải bị lỗi hay chai pin không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.576008,
+         "id": "1009990",
+         "field_search": "question",
+         "question": "Em có mua một con máy tính bảng acer vẫn trong thời gian bảo hành em muốn thay pin cho máy tính bảng vì em thấy pin có thể đã bị chai vậy em thay pin có mất thêm khoản phí nào không ạ và sửa thì mất bao nhiêu ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.976128,
+         "id": "895656",
+         "field_search": "question",
+         "question": "Mình mới mua iphone 5s được 10 ngày, nhưng sử dụng liên tục khoảng 20phut, thì máy bị nóng nhiều. Trước đây e có sử dụng ip5s nhưng k bị lỗi như vậy.Zậy mình có thể đổi máy 5s khác được k?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.910059,
+         "id": "1023205",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mua máy asus zenphone live ngày 12/8/2017. Sau 1 khoảng thời gian sử dụng e cảm thấy ko phù hợp nên e muốn đổi trả lại có đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.897934,
+         "id": "1008480",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi là biểu tượng hình tròn gạch chéo trên thanh công cụ đó là gì v ạ nó nằm ở ngay sóng di động kh thể liên lạc đc vs ai. Làm cách nào để bỏ cái đó ạ. E sài ss j7pimre ạ. Giúp dùm e ạ e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.640018,
+         "id": "996825",
+         "field_search": "question",
+         "question": "Iphone 7 plus của em mua ở thế giới di động e đang sử dụng thì nó bị lên logo táo và để hình itune và ko thể khỏi động tgdd có thể bảo hành ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.601751,
+         "id": "771811",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus nhưng bị dính phần mềm virus mpc clearner vậy có cách nào để e xóa toàn diện nó hay không? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.513058,
+         "id": "882796",
+         "field_search": "question",
+         "question": "Chào add. Cho e hỏi xíu nha. Em mua latop tháng 9 này là được 2 năm rồi ở tgdd, máy e là máy ASUS, dạo này máy e có tính trạng là sạc điện mà pin k vô, nó cứ để mãi 0% ak. Cho e hỏi vậy máy e bị sao vậy add. Nếu e để tình trạng vừa cắm vừa sạc trong khi pin k vô, thì liệu có xảy ra vấn đề gì k, e cũng tính nếu thay pin mà sợ thay pin lâu, e đang trong thời gian cần latop sài mỗi ngày nên chưa di thay được, add tư vấn dùm e được k. Và liệu e thay pin như vậy đối với hãng ASUS tốn khoảng nhiêu tiền. Em cảm ơn nhiếu nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.484629,
+         "id": "814993",
+         "field_search": "question",
+         "question": "Em đang sử dụng con laptop asus F555L nhưng không biết bật tính năng đèn bàn phím ở đâu. Bác nào biết thì chỉ em với... Em cảm thông, ý lộn e cảm ơn :^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.460846,
+         "id": "1148389",
+         "field_search": "question",
+         "question": "E mua iphone 8 plus dùng gần 1 năm,mà đã chai 12 pin còn 88 là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.442364,
+         "id": "813024",
+         "field_search": "question",
+         "question": " em mới mua laptop ASUS F454L, cho em hỏi cách sạc pin cho đúng để pin có thể sử dụng tốt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.424828,
+         "id": "774648",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s ở thegioididong nhưng bây giớ máy bị loạn cảm ứng máy cứ nhảy loạn xạ thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.304153,
+         "id": "995963",
+         "field_search": "question",
+         "question": "em vừa cập nhập lên ios11.lúc setup thì chỗ ấn để tiếp tục bị che bởi thanh ứng dụng bên dưới,ko ấn dc. Ad cho e hỏi h phải làm tn ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.283228,
+         "id": "1159137",
+         "field_search": "question",
+         "question": "cho em hỏi cách sạc pin iphone dưới đây có đúng không ạ?  Cắm sạc vào và sạc đầy Sau khi sạc báo đầy pin, tiếp tục để pin được sạc thêm 2 tiếng hoặc hơn. Đối với máy đang bật, ngắt sạc ra và tiếp tục sử dụng. Khi thấy pin sắp hết, save lại công việc đang làm dở và đóng tất cả ứng dụng. Dùng pin cho đến khi máy sleep. Để máy sleep thêm 5 tiếng hoặc hơn. Cắm sạc cho đến khi pin báo đầy. Khi cắm sạc, các bạn có thể mở máy dùng như bình thường, ko sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.259672,
+         "id": "994070",
+         "field_search": "question",
+         "question": "Mình mua laptop Asus UX410 được 3 ngày mà pin đã chai mất 3, không biết có cách nào khắc phục không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.206646,
+         "id": "1016844",
+         "field_search": "question",
+         "question": "Thế giới di động ơi cho em hỏi em mua điện thoại sony XA được 6 tháng nhưng giờ pin bị chai, dùng được khoảng 2 giờ là hết sạch pin. không biết có được bảo hành không ạ? em cảm ơn sự phản hồi!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.196526,
+         "id": "1013080",
+         "field_search": "question",
+         "question": "Mình sử dụng laptop của hãng acer được mua xách tay về Việt Nam chưa xài đến 1 năm mà 4 ngày trước máy bị tình trạng đứng máy liên tục, giờ mỗi khi khởi động laptop đều trong tình trạng cập nhật hệ điều hành và bị đứng trong khi laptop đang cập nhật khiến việc cập nhật bị dừng lại và chờ lâu vân không hết. Không biết mình có thể mang đến thế giới di động xem giúp tình trạng máy để sửa chữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.151012,
+         "id": "1014846",
+         "field_search": "question",
+         "question": "cho e hỏi.. e có gửi 01 máy để sửa nhưng do công việc thứ 5 e phải đi công tác ở tây nguyên. em nhờ mấy anh chị kiểm tra dùm có sửa kịp ko ạ. nếu không kịp có thể gửi về dùm lại địa chỉ cũ để e nhận máy được e ạ. e xin cảm ơn. sdt 01636524876",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.117802,
+         "id": "790335",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng máy iphone 5, khi bật 3g thì sử dụng liên tục khoảng 3 4 giờ pin báo dưới 20% và máy có hiện tượng nóng, thì e tắt 3g để máy nghỉ, sau đoa cắm sạc lại thì thấy máy hồi pin lại khoảng 25-30% pin. Cho e hỏi máy e đang dùng là bị như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.002798,
+         "id": "767993",
+         "field_search": "question",
+         "question": "Ad cho e hỏi các ứng dụng văn phòng gần giống như word, excel, powerpoint mà cửa hàng thế giới di động cài dặt miễn phí cho laptop mua tại tgdđ là ứng dụng gì vậy, làm việc có được như office 2003, 2007, .... không? nếu vào sử dụng có thể đánh chữ bằng tiếng việt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.959497,
+         "id": "1141978",
+         "field_search": "question",
+         "question": " Cho em hỏi máy laptop dell vostro 5568 thì mình làm cách nào để cần làm gì để pin không bị chai ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.950693,
+         "id": "1022586",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi là con iphone 5 của e tự dưng bị khởi động lại mà không vào màn hình chính đc. cứ khởi động tới táo rồi tắt rồi khởi động lại liên tục như vậy ạ. pin của điện thoại e cũng đang bị chai nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.927124,
+         "id": "1012212",
+         "field_search": "question",
+         "question": "Hồ sơ của e trên hệ thống việc làm thế giới di động để tình trạng là lưu hồ sơ chứ ko còn để chờ duyệt nữa, nghĩa là e ko đk ứng tuyển tiếp tục vào thời gian ngắn nhất sắp tới hay sao ạ, mog a chị có thể giải đáp thắc mắc, vì có đưa số điện thoại bên phòg nhân sự e cũg ko liên lạc đk đâu ạ! Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.919365,
+         "id": "829016",
+         "field_search": "question",
+         "question": " Cho e hỏi e vừa mua cái máy tính asus windows 10 e su dụng thấy rất chậm e muốn chuyển xuống windows 8 có dc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.784771,
+         "id": "774547",
+         "field_search": "question",
+         "question": "cho e hỏi là máy 5s của e đã đi kiểm tra và chưa bị chai pin nhưng khi khóa màn hình không sử dụng thì nó lại tụt pin dần cho đến khi hết cạn , vậy máy e có bị lỗi gì không và có cần restore lại k ạ . e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.749432,
+         "id": "1144124",
+         "field_search": "question",
+         "question": "Chào anh chị!Cho em hỏi thế giới di động ở huyện Năm Căn hoặc Cái Nước , tỉnh Cà Mau có còn Điện thoại Vsmart Joy 1+ không ạ? Em cảm ơn. Chúc anh chị một ngày làm việc vui vẻ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.705212,
+         "id": "1019349",
+         "field_search": "question",
+         "question": "Cho e hỏi e có bảo hành máy và được mượn 1 máy để sử dụng nhưng vì có việc bận nên nhận máy trể hẹn thì có phải tốn phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.637524,
+         "id": "1011685",
+         "field_search": "question",
+         "question": "ad cho em hỏi !! e muốn mua laptop Acer Aspire A515 thanh toán trước 30% và góp 6 tháng !! em sinh ngày 28/8/1998 và công việc tự do !! thế có được mua góp không ? và có cần thủ tục gì ??? xin ad cho e câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.634743,
+         "id": "833578",
+         "field_search": "question",
+         "question": "Thế giới di động có nhận sửa iPhone lock bị hao nguồn khi không sử dụng lo. Dùng thì sử pin xuống bt nhưng để chờ không sử dụng pin tụt rất nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.623936,
+         "id": "916995",
+         "field_search": "question",
+         "question": "mình dùng laptop asus tp550lb, cứ dùng khoảng 30' thì máy bị loạn cảm ứng ở 1 điểm duy nhất( màn hình chạm liên tục vào 1 điểm), có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.59576,
+         "id": "1000497",
+         "field_search": "question",
+         "question": "Em dùng dt samsung j5 2015 . Cho em hỏi sạc qua đêm ( khoảng 7-8 tiếng) có làm chai pin không ạ . Em thấy dung lượng pin của em tuột nhanh hơn trước khoảng 2-5% pin ... có phải nguyên nhân do em sạc quá lâu không ạ ( em để quên sạc dt qua đêm khoảng 6 lần rồi ) . Và có cách nào để bảo quản pin lâu chai , hư,... không ạ . Mong anh chị trả lời giúp em . Em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.573812,
+         "id": "1143340",
+         "field_search": "question",
+         "question": "em mua máy tính ở thế giới di động, sau khi sử dụng vài ngày thi các phần mền như excel, word, powerpoint bị bản quyền, có dòng chữ Unlicensed product, không sử dụng được. ac có thể hỗ trợ cho em với được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.531595,
+         "id": "1011933",
+         "field_search": "question",
+         "question": "Pin sạc dự phòng mới mua về thì phải sạc pin sao để pin có thể sử dụng tốt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.43989,
+         "id": "996792",
+         "field_search": "question",
+         "question": "Thế giới di động có nhận thay pin ko ạ. Tại thế giới di đông uy tin hàng chất lượng nên muốn thay ở đó. Ra các quán  sợ ko đảm bảo về chất lượng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.315222,
+         "id": "576009",
+         "field_search": "question",
+         "question": "cho e hỏi asus zefon 5 e mua về thì e xài có cảm giác pin bị trôi đi rất nhanh...trong vòng 1 buổi sáng e nhắn tin đúng 1 lần và để đến trưa thì đã mất 5%...còn chơi game thì trong vòng 5 đến 10p thì mất tới 30% pin......cho e xin hỏi đấy là do pin của máy hay pin e bắt đầu bị chai pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.289011,
+         "id": "892232",
+         "field_search": "question",
+         "question": "máy tính e khi sạc hoặc sử dụng thì bị nóng ở bên phải touch pad, vậy có vấn đề gì với phần cứng không ạ? cảm ơn ad nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.264353,
+         "id": "1141332",
+         "field_search": "question",
+         "question": "cho mình hổi máy này pin liền, vậy có vừa sử dụng vừa cắm sạc được không vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.240349,
+         "id": "826284",
+         "field_search": "question",
+         "question": "máy tính dell của em nút nguồn cứ bị nhấp nháy đỏ có cách nào để khắc phục không ạ?nếu k khắc phục được thì e phải mua pin mới phải không ạ?nếu mua pin mới vậy pin máy tính dell là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.222849,
+         "id": "1161548",
+         "field_search": "question",
+         "question": "E đang dùng máy Nokia 3.1 máy e có hiện tượng pin đang ở 60% mà bị sập nguồn khởi động lại thì còn 1%. Bây h phải lm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.211,
+         "id": "802362",
+         "field_search": "question",
+         "question": "em có mua 1 cái laptop ở thế giới di động , nhưng do quá trình sử dụng nên máy có phần hơi chậm lại . win 8 bản quyền nhưng e đã lên win 10 thì có chạy lại chương trình cho em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.187723,
+         "id": "1143060",
+         "field_search": "question",
+         "question": "vsmast active 1 đc bán thế giới  di động chưa ạvà cho e hỏi cấu hình máy như thế nào ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.112547,
+         "id": "994109",
+         "field_search": "question",
+         "question": "Em là sinh viên năm 3 Xây DựngChuyên ngành của e là xây dựng dân dụng và công nghiệp. Vậy có thể cho e biết e nên mua laptop gì để phục vụ việc học và đi làm sau này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.083015,
+         "id": "834109",
+         "field_search": "question",
+         "question": "Xin chào Ad! Cho em hỏi là, e đang dùng đt iphone 5s vậy lần sạc pin đầu tiên có phải sạc pin 8-10 tiếng ko ạ!? Mà nếu lỡ ko sạc thì phải làm sao!? Có hậu quả gì ko ạ!? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.072899,
+         "id": "1150831",
+         "field_search": "question",
+         "question": "E đang dùng iphone 5s đang ở bản ios 10.2.1 pin mới thay độ chai pin 0% Máy có chơi game liên quân mobile gặp tình trạng đánh đc 1 trận lại tự thoát ứng dụng và phải vào lại game để đánh trận khác E muốn chạy lại phần mềm cho máy để nó lên ios 10.3.3 được không ạ và giúp e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.024576,
+         "id": "1161024",
+         "field_search": "question",
+         "question": "Mình dùng oppo a7. Mới mua tại thế giới di động được 1 tháng. Hôm nay máy bị chập chờn mất sóng liên tục mặc dù vẫn nhận thẻ sim. Làm thế nào để khắc phục sự cố này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.009834,
+         "id": "1151872",
+         "field_search": "question",
+         "question": "Mình dùng laptop HP 14 i5 đèn báo sạc pin liên tục nhấp nháy mặc dù đã sạc đầy pin, cho mình hỏi đây có phải lỗi không, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.00971,
+         "id": "1013774",
+         "field_search": "question",
+         "question": "các anh cho em hỏi chút ạ. em vừa mua đt iphone 7plus. khi đt còn 1% pin e cắm sạc lần đầu tiên. Sạc 19 tiếng mới được 50% pin. Như vậy là có vấn đề về pin hay bình thường vậy ạ? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.930193,
+         "id": "856027",
+         "field_search": "question",
+         "question": " máy tính e đang bị chai pin muốn thay pin thì chi phí khoảng bao nhiêu và có được bảo hành không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.91553,
+         "id": "836798",
+         "field_search": "question",
+         "question": " cho e hỏi pin máy asus E402 N3050 là pin liền hay rờiạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.893707,
+         "id": "838472",
+         "field_search": "question",
+         "question": "Máy macbook pro 2011 em mua không phải của cửa hàng, hiện đang bị hỏng pin em có thể đến thegioididong để thay pin máy được không ạ. Cảm ơn ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.860493,
+         "id": "1004445",
+         "field_search": "question",
+         "question": "cho mình hỏi! mình mua 1 chiếc điện thoại tại thế giới di động hiệu HTC butterfly S mà bây giờ bị chai pin. Mình có thể thay pin được không, nếu thay thi giá pin là bao nhiêu. mong Add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.833015,
+         "id": "991674",
+         "field_search": "question",
+         "question": "dạ, laptop của e là hãng dell core 5,e đã sạc pin cho máy đầy r, nhưng qa ngày hôm sau e sử dụng thì máy hết pin và bị nóng máy ở phần dưới lap, mong anh (chị ) giải đáp hộ e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.823885,
+         "id": "1134383",
+         "field_search": "question",
+         "question": "E dùng laptop asus a504l tại sao sau khi e gia hạn office 365 thi thanh cuộn chuột cảm ứng e ko dùng được nữa ạ.  E có mang ra thế giới di động rồi và mấy a ấy sửa cho e rồi nhưng được vài ngày thì nó lại ko hoạt động nữa. E phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.775696,
+         "id": "1164879",
+         "field_search": "question",
+         "question": "Em vừa mua con máy VsMART JOY 1+  sử dụng được 1 tuần  pin máy tận 4000 nhưng em cảm thấy pin máy hao rất nhanh em chỉ sử dụng Facebook và youtube mà pin chỉ chịu được 6 đến 7 giờ sử dụng thế máy có vấn đề về pin hay không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.75555,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.73069,
+         "id": "999901",
+         "field_search": "question",
+         "question": "Mình đang dùng ss j2 prime. Nếu chỉ sử dụng để lướt face đọc báo thì thời gian sử dụng pin có thể là bao lâu ạ? Vì mình cảm thấy pin hết khá nhanh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.695854,
+         "id": "878550",
+         "field_search": "question",
+         "question": "em nạp iphone khoảng 5 tiếng ,khi rút sạc ra máy báo cần để nguội iphone trước khi bạn sử dụng và em để suốt mười tám tiếng nhưng nó vẫn báo máy cần để nguội hiccc vậy e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.693779,
+         "id": "1134845",
+         "field_search": "question",
+         "question": "bây giờ mình muốn mua trả góp samsung galaxy j4 thì thủ tục như thế nào vậy ạ? mình có thể sử dụng bản photo có công chứng để mua trả góp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.693544,
+         "id": "1137809",
+         "field_search": "question",
+         "question": "Thế giới di động cho tôi hỏi?Tôi có mua điện thoại samsung j7 plus tại đây và đã sử dụng được tầm 4 tháng. Nay điện thoại KHÔNG BÁO RUNG được khiến những cuộc gọi để chế độ Rung và chuông nhưng chỉ còn chuông và rất bất tiện khi đi ngoài đường vì k hay cuộc gọi tới.Vậy thegioididong nếu bảo hành khoảng bao lâu? và tôi đang lo ngại là khi đem dt bảo hành thì k biết lấy điện thoại đâu để giải quyết công việc (do tính chất công việc rất cần điện thoại hỗ trợ. XIn cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.638287,
+         "id": "999854",
+         "field_search": "question",
+         "question": "dạ chào ad ạ e có mua trả góp bên thế giớ di động nhưng e bị mất máy giờ e muốn mua trả góp nữa được ko ạ e vẫn trả tiền đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.62672,
+         "id": "849299",
+         "field_search": "question",
+         "question": " làm sao để nhận biết pin iphone 5s bị chai, hư pin ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.624872,
+         "id": "1001349",
+         "field_search": "question",
+         "question": "Máy sony XA1 e mua đc 3tháng nhưng màn hình cảm ứng bị liệt  pin giống như muốn phù ( e ko cắm sạc chơi game ) . giờ e muốn bảo hành thì đi đâu bảo hành lấy liền đc ko vì e cần đt sài nên ko thể chờ mấy ngày đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.622416,
+         "id": "874461",
+         "field_search": "question",
+         "question": "e mới mua cái laptop về xạc kluôn k nghịch gì nhưng e xạc dc 5 tiếng thay vì 8 tiếng do bố e rút xạc ra bây giờ lap hết pin e xạc đến 10tieng dược k ạ mong nhận hồi âm sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

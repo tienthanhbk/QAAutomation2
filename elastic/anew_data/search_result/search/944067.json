@@ -1,0 +1,801 @@
+{
+   "id_query": "944067",
+   "total": 23896,
+   "total_current": 100,
+   "max_score": 208.2437,
+   "origin_question": "mình mở máy lên thì thấy dòng chữ: checking file system on C:the type of the file system is NTFS.volume label is windows 7one of your disks needs to be checked for consistency.... gíup mình với",
+   "hits": [
+      {
+         "score": 51.813515,
+         "id": "777448",
+         "field_search": "question",
+         "question": "chào hệ thống, mình đang xài laptop Dell Inspiron 15 (7537) và hình như pin có vấn đề, sạt không vô và nó hiện lên dòng (your battery has experienced a permanent failure and needs to be replaced. The system will power down when the AC adapter is unplugged.) Mong hệ thống phản hồi sớm nhất. xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.319187,
+         "id": "798453",
+         "field_search": "question",
+         "question": "Laptop của em thường hiện keep your pc on untill this is done ...of..sau đó working for updates ..% là lỗi gì hay sao ạmáy em win 8.1 và cách tắt update đấy tnao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.745285,
+         "id": "995169",
+         "field_search": "question",
+         "question": "Máy em bị lỗi windows 7 built 7601 this copy of windows is not genuine là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.22421,
+         "id": "860101",
+         "field_search": "question",
+         "question": "Trong laptop có ghi your windows license expires on 29/7/2016.Contact your system admin to get a product key. cái này là sao vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.185207,
+         "id": "915071",
+         "field_search": "question",
+         "question": "Laptop của em hiện dòng chữ: \"The AC power adapter wattage and type cannot be determinedthe battery may not charge.the system will adjust the performance to match the power available.\"QTV cho e biết nên xử lý thế nào? máy e còn b.hành có cần mang đi bảo hành không?E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.61264,
+         "id": "1140672",
+         "field_search": "question",
+         "question": "em có tải app nox về laptop nhưng không xóa được ạ . mỗi lần uninstall thì nó lại hiện thông báo \"close nox player before uninstallted\" và không thể xóa app ở ổ recovery và trên system được ạ. Mỗi lần vào recovery để delete nó đều hiện ra lỗi \"the action can't be complete because the folder or a file it is open in another program\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.10299,
+         "id": "851742",
+         "field_search": "question",
+         "question": "Máy Oppo R1k của mình bị lỗi '' Low battery, the battery is too low. Charge for a while before power on'', máy không vào pin và không khởi động được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.07696,
+         "id": "1005315",
+         "field_search": "question",
+         "question": "điện thoại của mình oppo neo 3 k831k bị lỗi low battery the battery is too low. charge for a while before power on . khi sạc pin thì màng hình hiển thị máy sạc không vào , hard reset thì failed chạy lại room cx vậy . mở máy thì k lên cứ chạy logo .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.999287,
+         "id": "999879",
+         "field_search": "question",
+         "question": "Xin hỏi điện thoại của mình là htc desire 360G, nhắn tin nhận cuộc gọi tới bình thường nhưng gọi đi thì không được. Báo lỗi: lack of ip prefix, ip prefix is not stored on the phone. Vậy là bị lỗi gì vậy?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.797237,
+         "id": "1140534",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi, sao mình cài đặt từ win 8 về lại win 7, khi chạy file Setup nó cứ báo lỗi như thế này (This App cant run on your PC, to find a version for your PC, check with the software publisher). Ad giúp mình cách cài lại Win 7 để dễ sử dụng hơn nhé. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.935299,
+         "id": "1141250",
+         "field_search": "question",
+         "question": "cho e hỏi laptop của e mới reset lại thì Microsoft office bị lỗi nên mở word, excel không lên ạ. Nó cứ hiện dòng chữ this action is only valid for products that are currently in stalled.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.210943,
+         "id": "1167714",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình mua Iphone xong và active xong kiểm tra số imei thì nó hiện ra thế này.  We’re unable to validate your product’s purchase date. Apple is unable to provide information about your service coverage. Please",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.901703,
+         "id": "810731",
+         "field_search": "question",
+         "question": "Em đã cài đặt lại win trên thegioididong.com tại trà vinh cách đây khoảng 30 ngày nhưng bây giờ máy em nó để như thế này : your windows license expires on saturday , April 16, 2016 contact your system admin to get a key giờ em phải làm sao ạ ? với lại hình như là cài win = usb à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.889874,
+         "id": "921495",
+         "field_search": "question",
+         "question": " Nếu laptop hiện dòng chữ Operating System not found thì phải làm sao vậy?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.51994,
+         "id": "778086",
+         "field_search": "question",
+         "question": "Máy tính windows 8 khi khởi động hiện lên updating your system rất lâu không xong thì phải làm sao ạ?cứ hiện lên 1%,có cách nào làm mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.963066,
+         "id": "896571",
+         "field_search": "question",
+         "question": "Máy mình không có iCloud, và mình đã tải iTunes về máy tính, đăng nhập vào Itunes. Nhưng khi mình cắm máy vào thì máy hiện lên dòng chữ \"To allow access, please respond on your iPad\" và load mãi. Cho hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.63176,
+         "id": "1013816",
+         "field_search": "question",
+         "question": "Máy tính của e khi tắt xuất hiện dòng chữ preparing to configure windows dont turn off your computer là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.13844,
+         "id": "1155152",
+         "field_search": "question",
+         "question": "Tải file xong, khi mở ra thì có dòng chữ không thể mở tệp là sao ạ? Máy itel A32F ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.023539,
+         "id": "839711",
+         "field_search": "question",
+         "question": "E vừa nâng cấp laptop lên win 10. Sau khi nâng cấp thì mở vẫn được microsoft word, excel,pp,..các thứ. nhưng khi lưu bài đó thì mở lên không được. chỉ có word là được thôi. mở pp hay excel lên nó báo là \" this app can't run on your PC. To find a version for your PC , check with the software publisher\" Mng chỉ e cách khắc phục vs ạ ???? T.T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.824808,
+         "id": "1140332",
+         "field_search": "question",
+         "question": "Máy báo lổi: htkk has stopped working a problem caused the program to stop working corectly. windows will close the program and notify you if a solution is avilable, vậy cho e hỏi khắc phục thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.731216,
+         "id": "867467",
+         "field_search": "question",
+         "question": "có hỏi cấu hình này ntn ạ sao duyệt 1 trang web nó cứ lag lag, ngày cả chỉ xem youtube mờ chỉ xem đc 480p, lúc trước thì bật 720p xem mượt quá trời lun, mong các qtv và các pro xem và nhận xét kỉ càng cho em ạOperating System: Windows XP Professional (5.1, Build 2600) Service Pack 3 (2600.xpsp_sp3_qfe.160331-0610)Language: English (Regional Setting: English)System Manufacturer: To Be Filled By O.E.M.System Model: To Be Filled By O.E.M.BIOS: Default System BIOSProcessor: Intel(R) Pentium(R) Dual CPU E2200 @ 2.20GHz (2 CPUs)Memory: 1790MB RAMPage File: 566MB used, 3119MB availableDirectX Version: DirectX 9.0c (4.09.0000.0904)DX Setup Parameters: Not foundDxDiag Version: 5.03.2600.5512 32bit UnicodeDxDiag Previously: Crashed in DirectInput (stage 1)Card name: Intel(R) G41 Express ChipsetManufacturer: Intel CorporationChip type: Intel(R) 4 Series Express Chipset FamilyDAC type: InternalDevice Key: Enum\\PCI\\VEN_8086&DEV_2E32&SUBSYS_2E321849&REV_03Display Memory: 1024.0 MBCurrent Mode: 1440 x 900 (16 bit) (60Hz)Monitor: Plug and Play MonitorMonitor Max Res: 1600,1200Driver Name: igxprd32.dllDriver Version: 6.14.0010.5402 (English)DDI Version: 9 (or higher)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.429132,
+         "id": "998064",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy của mình là Dell vostro 3568 máy xài bình thường thì mạng lag giật, mình shutdown máy đi.  Khi khởi động máy lại mình gặp lỗi your pc ran into a problem and needs to restart. you can restart, stop code: BAD SYSTEM CONFIG INFO.Phải sửa thế nào đây.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.983917,
+         "id": "783174",
+         "field_search": "question",
+         "question": " máy tính em liên tục hiện lên dòng chữ your windows license will expire soon ..lỗi này là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.968065,
+         "id": "817660",
+         "field_search": "question",
+         "question": "e đang sài laptop delle mở máy lên thì nó hiện lên\" bootmgr is compressedpress ctrl+alt+del to restart\"là sao vậy các a, và cách khắc phục cảm ơn các a nhìu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.32888,
+         "id": "874807",
+         "field_search": "question",
+         "question": "Máy ipad mình vừa báo mất hồi trưa giờ định mở lại quên mật khẩu. Máy ipad báo vô hiệu hoá ( kết nối với itunes) còn khi cắm kết nối usb lên máy tính itunes báo iTunes could not connect to Ipad because the Ipad is locked and in Lost Mode mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.966536,
+         "id": "1020813",
+         "field_search": "question",
+         "question": "Giúp máy huawei acsend g6 bật nguồn lúc thì treo logo líc thì treo chữ android.Restore đến rebooot system now thì vẫn bị treo.Có khi restore xog nó cho shutdown system now",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.846876,
+         "id": "800176",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình activation microsoft office 2010 bằng phần mềm office 2010 toolkit 2.1.2 thì không hiện chữ EZ-Activartor và Office 2010 installation was not detected in the system.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.383333,
+         "id": "790340",
+         "field_search": "question",
+         "question": "Operating System: Windows 10 Pro 32-bit (10.0, Build 10240) (10240.th1.150807-2049)Language: Vietnamese (Regional Setting: Vietnamese)System Manufacturer: Dell Inc.System Model: Latitude E5520BIOS: Default System BIOSProcessor: Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz (4 CPUs), ~2.3GHzMemory: 4096MB RAMAvailable OS Memory: 3242MB RAMPage File: 1242MB used, 3342MB availableWindows Dir: C:\\windowsDirectX Version: 11.1DX Setup Parameters: Not foundUser DPI Setting: Using System DPISystem DPI Setting: 96 DPI (100 percent)DWM DPI Scaling: DisabledMiracast: Not AvailableMicrosoft Graphics Hybrid: Not SupportedDxDiag Version: 10.00.10240.16384 32bit Unicodemáy như thế này chơi liên minh có bị giật không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.916822,
+         "id": "1148252",
+         "field_search": "question",
+         "question": "Máy laptop acer của mình bị lỗi màn hình xanh stop code : bad system config info mà nhấn vào system restore thì không được thì phải làm sao đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.897537,
+         "id": "1003240",
+         "field_search": "question",
+         "question": "Chào Ad, mình đang dùng điện thoại sam sung SM-G355H. Mình muốn xóa hình ảnh trong thẻ nhớ nhưng báo lỗi ko xóa được file \" cannot delete hình. jpg : the storage is write- protected. Remove the write-protection and try again. Xin Ad hướng dẫn giúp cách sữa lỗi. Thank you  Ad. Đây là hình ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.82932,
+         "id": "965192",
+         "field_search": "question",
+         "question": " Khi khởi động máy mình gặp lỗi your pc ran into a problem and needs to restart. you can restart. Phải sửa thế nào đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.462807,
+         "id": "758914",
+         "field_search": "question",
+         "question": "Chào Ban Quản Trị,iphone 4s của em bị lỗi như thế này thì sửa sao ạ em đã dùng tất cả các cách rồi , bị lỗi wifi không lên được location accuracy is improved when wifi is turned on​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.25196,
+         "id": "773636",
+         "field_search": "question",
+         "question": "Chào anh/chị em xin hỏi 1 vấn đề là sao em vào cửa hàng của Windows để tải trò chơi về nó hiển thị lên dòng chữ: The app couldn't be installed because the Windows Firewall service and try again. Vậy làm cách nào em mới tải được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.207201,
+         "id": "1022211",
+         "field_search": "question",
+         "question": "Ad cho mik hoi máy dell của mjk cứ dùng 1 lúc lại bị \" your pc ran into a problem and needs and to resat . We just colleting some erro info, and then we'll resat for you\" ( resat nhiều lần vẫn bị)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.051922,
+         "id": "1155383",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, mình mới mua samsung s10 , có một vấn đề là những file tệp được gửi lên hoặc được nhận trên fb , zalo tải về thì ko biết nằm ở đâu, theo các dòng sam sung trước mình dug thì nằm ở mục my file thư mục tải về, nhưng tìm mãi vẫn ko thấy file tải về ở đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.946566,
+         "id": "987264",
+         "field_search": "question",
+         "question": "Cấu hình máy e thế này có chơi dc game Playunknown's Battleground không ạ ?- Operating system :Windows 8.1 Pro 64-bit (6.3 , Build 9600 )-BIOS : InsydeH2O Version 03.73.069BCN91WW-Processor : Intel (R) Core (TM) i3-4030U CPU @ 1.90GHz ( 4 CPUs ) ~ 1.90GHz-Memory : 4096MB Ram-DirectX Version : DirectX 11-Name : NVIDIA GeForce 820M- Chip type : GeForce 820M- DAC type :Integrated RAMDAC",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.671368,
+         "id": "996572",
+         "field_search": "question",
+         "question": "cho mh hỏi: tại sao mh coppy bài hát từ máy tính qua thẻ sd thì windows media lại bào lỗi này \"Windows Media Player encountered a problem while playing the file.\" trong khi bên pc thì mh mở bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.303179,
+         "id": "1143372",
+         "field_search": "question",
+         "question": "mua lap về dùng được 1 năm rồi, lúc đầu thì windows defender vân dùng bình thường( quét virus,..) nhưng khi uldate lên thì nó thông báo lỗi bảo \"your Virus &threat protection is managaed by your organization\", mjh dịch ra được\"bảo vệ viruss & mối đe dọa của bạn được quản lý bởi tổ chức của bạn\" vậy là sao thế ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.084944,
+         "id": "873379",
+         "field_search": "question",
+         "question": "E vừa nâng cấp laptop lên win 10..Tải winrar hay game Liên minh huyền thoại hay tải word excel thì lúc tải xong thì trong thư mục download hiện ra không giống 1 tệp bình thường em tải lúc đang dùng win 7...kick vào thì nó ghi '' this app can't run on your PC. To find a version for your PC , check with the software publisher''..Lần nào cũng vậy..Mọi người chỉ em cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.740583,
+         "id": "838529",
+         "field_search": "question",
+         "question": "1. Mình có download file từ safari thì Ipad lưu ở đâu vậy ạ? Mình muốn mở file đó thì làm thế nào nhỉ?2. Mình có tải khá nhiều file. Mình muốn quản lí dữ liệu thì có cần phải cài ứng dụng nào không?3. Mình có tải 1 số file như nhạc, pdf lên Icloud Drive thì khi mở ứng dụng có thể đọc trực tiếp được không hay phải tải về (mình đã đồng bộ rồi)?Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.74049,
+         "id": "1162284",
+         "field_search": "question",
+         "question": "HelloDoes the huawei Y7 pro 2019 support 4G LTE in the 800MHz band B20 ?  this is European standard.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.30434,
+         "id": "754268",
+         "field_search": "question",
+         "question": "Làm sao để khắc phục lỗi setup was unable to create a new system partition or locate an existing system partition. khi cài win bằng usb , ổ cứng phần SATA trong bios không có IDE mode hay là ac gì đó mà chỉ có enable với disable ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.28985,
+         "id": "801316",
+         "field_search": "question",
+         "question": "mình đang dùng máy asus win 7 ,tại sao mình vào game world of tank được 1 lúc thì nó tự nhiên văng ra là sao vậy giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.231304,
+         "id": "1161375",
+         "field_search": "question",
+         "question": "Cho mình hỏi \"khi tải file về từ Facebook, gmail, tại sao mình k thể mở file đc ạ?\" Khi mình tải về thành công, ấn vào thông báo để lễ.mở file thì hiện \" không có sẵn ững dụng để mở file\" là như thế nào ạ? Rất mong nhận hồi đáp sớm. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05471,
+         "id": "1145535",
+         "field_search": "question",
+         "question": "Mình có con xaomi noet 4 mà cứ mở mạng lên máy báo dòng chữ nhỏ ở dưới ( tìm kiếm thiết bị lưu trữ hư hỏng. Thiệt bị của bạn hiện ko an toàn) mình kiểm tra rồi ko thấy gì cả.. Mong ad giải đáp giúp mình . mình cảm on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.988699,
+         "id": "788917",
+         "field_search": "question",
+         "question": "cho e hỏi laptop dell inspiron n5110 khi download app thì bị lỗi như thế này ạ:'IDM has been registered with a fake Serial Number or the Serial Number has been blocked.IDM is exiting...' rồi hiện ra bảng ' please enter your registration details in the corresponding fields and push OK button'",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.877684,
+         "id": "998438",
+         "field_search": "question",
+         "question": "Máy em là samsung j7 preme dạo này cứ 1lúc là nó cứ tự phát quảng cáo cho dù ở đâu cũng vậy, em ẩn đa nhiệm thì thấy file system os đang chạy. Cho em hỏi tại sao lại bị như vậy và làm sao để xóa nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.639254,
+         "id": "911209",
+         "field_search": "question",
+         "question": "Bạn của tôi có chiếc ĐT apple 5, nhờ tôi mở lại bài hát anh ấy đã ghi âm nhưng tôi không mở được. Bạn nào giúp tôi nhé. Tôi dùng máy Sam sung, mở xem lại phần mình đã ghi âm bằng cách mở mục file của tôi, vào âm thanh là thấy, nhưng với apple 5, tôi không tìm thấy file này. Cám ơn các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.53181,
+         "id": "772123",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách download google chrome với mình down nó toàn ghi không tìm thấy file chrome.exe thôi! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463106,
+         "id": "1146909",
+         "field_search": "question",
+         "question": "Mình xài oppo f1 mình muốn tăng cỡ chữ tất cả trong đt đền to lên. Kể cả chữ ngày tháng năm ngoài màn hình khoá cũng to lên mong mn giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.046177,
+         "id": "1015130",
+         "field_search": "question",
+         "question": "lỗi error loading media file could not be played trên androi xử lý sao vậy ??? cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.923822,
+         "id": "890720",
+         "field_search": "question",
+         "question": "ad cho em hỏi, laptop của e tn tắt máy không đc mà lại hiện dòng chữ \" working on updates 57% complete. Don''t turn off your complete . Với nhiều lúc máy chạy rè rè . Như vậy là máy bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.655416,
+         "id": "813328",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng Samsung a5 trước vẫn mở file word với excel bình thường, nhưng bây giwof lại không mở được nữa. máy báo là không định dạng được.mog ad giúp mình với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.59748,
+         "id": "757669",
+         "field_search": "question",
+         "question": " Cho mình hỏi Samsung glaxy j1 sao không tải được clash of clan vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.584455,
+         "id": "1146319",
+         "field_search": "question",
+         "question": " Máy tính laptop win 10 bị lỗi khi mở device manager báo lỗi this app has been blocked for your protection ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.473963,
+         "id": "1159826",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình tải cái file word về mà lúc mình vào xem thì nó hiện như thế, có một số file word khác thì mình tải được bình thường, nó hiện tải về hoàn tất mà mình vào xem thì không mở được file. Mình có thử tải cách khác là down trên máy tính xong gửi qua messenger fb rồi mình down về thì mở được bình thường. Nhưng vậy thì bất tiện lắm. Mình xài ss a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.454344,
+         "id": "931630",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em mở coccoc lên thì nó tự tải về một file vào lâu lâu thì nó tự mở lên cửa sổ mới chỉ em cách tắt nó với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.453953,
+         "id": "1159222",
+         "field_search": "question",
+         "question": "Mình có tải 1 file rar và bây giò muốn mở thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.452229,
+         "id": "936822",
+         "field_search": "question",
+         "question": "This site can’t be reached www.facebook.com took too long to respond.Try:Checking the connection   ERR_CONNECTION_TIMED_OUT , Không vào facebook được bằng máy tính.?.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.372835,
+         "id": "1152405",
+         "field_search": "question",
+         "question": "Em reset lại máy và sau đó tải movavi crack về máy. Trước khi reset máy em crack được nhưng sau khi reset thì file crack sau khi copy vào phần mềm thì không cho chạy và hiện lệnh \"you require permission from Destop-H76DPFU\\Nhung to make changes to this file\". Mong qtv giúp em sửa lỗi này với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.246834,
+         "id": "836759",
+         "field_search": "question",
+         "question": "Tại sao ip 4cdma mình báo lỗi itune store is unble to procees purchase at this time là sao ạTạo mới ko đc đăng tải gì cũng ko đc là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.243975,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.129017,
+         "id": "868075",
+         "field_search": "question",
+         "question": " Xóa 1 file mà Windows ngăn không cho xóa.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.09227,
+         "id": "792586",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi em mới tải game modren combat 5 cho iPhone 4s mà game nó xuất hiện chữ sorry. Modren combat requires at least an ipad 2 (of never ) iphone 4s (of never )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.930231,
+         "id": "903210",
+         "field_search": "question",
+         "question": "Em dùng win10 khi mở file ảnh không tìm thấy Window photo viewer. chỉ mở ảnh bang paint thôi ạ. giờ làm sao để em mở được file anh trên window photo viewer như các phiên bản win trước đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.773014,
+         "id": "980786",
+         "field_search": "question",
+         "question": " không đánh được chữ trong word 2016 cach khắc phục.. khi mở lên thì hiện dòng chữ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.720371,
+         "id": "1167330",
+         "field_search": "question",
+         "question": "cho mình hỏi Oppo A7 kiểu máy CPH1905 khi mở gmail file world hoặc excel không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.707285,
+         "id": "940149",
+         "field_search": "question",
+         "question": "AD cho mình hỏi sao len xem phim tren zing tv nó cứ load hoài khong xem được hình như nổi lên dòng chữ Right-click to run adobe flash player . giúp mình cách khắc phục nó với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.601358,
+         "id": "904406",
+         "field_search": "question",
+         "question": "Chào bạn, lúc trước mình nhớ zalo có cho gửi file word hoac excel nhung bây giờ mình không tìm thấy tính năng đó nữa. Vậy bây giờ mình muốn gửi file thì phải làm thế nào? Cảm ơn bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.586344,
+         "id": "779456",
+         "field_search": "question",
+         "question": " Xin lỗi cho mình hỏi Samsung Galaxy Tab e không tải clash of clans được vậy..? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.501112,
+         "id": "1164936",
+         "field_search": "question",
+         "question": "Mìnnh đang dùng xiaomi redmi 4A của shop nhưng nhỡ reset máy vì máy đơ xong nó báo this device is locked mình phải làm gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.48529,
+         "id": "1141537",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao dt ip 6 plus of e trong trợ năng k có hàng chưx đưa lên để bật để mở khoá nhanh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.482973,
+         "id": "943046",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính laptop win 7 và em muốn hỏi là trong file explore của máy tính khi kick chuột phải vào file thì thấy có chức năng send to để chuyển nhanh tập tin đến file nào đó nhưng em không biết là làm sao để thêm 1 thư mục mà em hay chuyển tệp đến thư mục đó vào trong danh sách của chức năng send to ạ , em đã làm theo nhiều cách hướng dẫn trên google nhưng đều không được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.330183,
+         "id": "772968",
+         "field_search": "question",
+         "question": "xin chao. cho toi hoi là khi cắm tai phone vào máy tính trước rồi khởi đông thì nghe được. còn khi mở file nhạc lên nghe mà mới cắm tai phone thì không nghe được, chỉ nghe loa ngoài của laptop. cho hỏi lỗi của phần cứng máy hay bị lỗi win. thanks your",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.309134,
+         "id": "975136",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với. File ghi âm dài hơn 2 tiếng của mình ở ip5 bị lỗi ko chạy, ko nghe được, trong khi các file mình ghi trước và sau file này vẫn nghe bình thường. Mình thử chia sẻ file sang thiết bị khác để nghe nhưng không được. Đây là file ghi âm quan trọng, có cách nào làm nó chạy được không?Mình cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.198372,
+         "id": "1135135",
+         "field_search": "question",
+         "question": "mình dùng s8 galaxy s8 cũng bị nỗi không phản hồi system rồi nó cứ tự khởi động lại máy liên tục thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.14143,
+         "id": "781379",
+         "field_search": "question",
+         "question": "Mình đang dùng máy IPHONE 3GS hồi đầu mình dung không bị làm sao nhưng về sau đầu tiên là game clash of clans mình đang chơi là bị thoát ra ngoài rồi đến các phần mềm trong máy mình ko hiểu nó bị làm sao! Bây giờ game clash of clans mình vào rồi bị văng ngay lập tức! Vậy mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.127327,
+         "id": "884574",
+         "field_search": "question",
+         "question": "Cho e hoi e dg xai laptop hp windown 10 ma gan the nho vo may vo file cua the bi tu dong thoat ra cho e hoi lm sao de e khac phuc no e cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.103258,
+         "id": "910785",
+         "field_search": "question",
+         "question": " khởi động laptop mà màn hình hiện lên  Operating system not found là bị lỗi gì vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.983961,
+         "id": "1012179",
+         "field_search": "question",
+         "question": "cho e hỏi máy của e về tới tgdđ phong điền cần thơ chưa?JDT010851708001494      ou chose a rating of - - very dissatisfied  Press ALT+F4 to close this window.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.981289,
+         "id": "1013673",
+         "field_search": "question",
+         "question": "máy tính của mình khi phải chuột vào file như hình ảnh, video, pdf, doc,... thì file explorer bị  not reponsding rồi tắt hẳn ra ngoài destop. mọi người có thể giúp mình được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.947088,
+         "id": "1166865",
+         "field_search": "question",
+         "question": "Hiện nay đã có nokia8 is finally chưa ạ .mình muốn đặt mua một cái chưng nào có hàng liên hệ cho mình theo đt 0915812789",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.94564,
+         "id": "757040",
+         "field_search": "question",
+         "question": "  Tại sao phần mềm Android 5.0.2 lại không tìm thấy game clash of clans trên CH Play? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.896177,
+         "id": "1140372",
+         "field_search": "question",
+         "question": "file tải từ CH play thì bình thường còn tải bên ngoài thì file được file khôngem tải gta san thì nó hiển lên nhưng chỉ bấm hủy được còn bấm vào cài đặt thì bị đứng hình không có chuyện gì xảy ra cả huawei nova 2i đã mở không rõ nguồn gốc rồi :(( @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.860851,
+         "id": "1014457",
+         "field_search": "question",
+         "question": "ad máy em bị lỗi type password to decrypt storage thì sửa sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.761282,
+         "id": "1015434",
+         "field_search": "question",
+         "question": "mình vô ổ đĩa C thấy đầy quá mình bấm xóa rồi lỡ xó hết mấy phần mềm quợt, excel, với mấy game rồi sao lấy file lại được qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.742104,
+         "id": "745560",
+         "field_search": "question",
+         "question": "em dùng itools để cắt nhạc xong, save vs import vào ip roi nhưng tại sao khi mở phần system sounds ở device ra vẫn không thấy nhạc em đã cắt a?​​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.730513,
+         "id": "863665",
+         "field_search": "question",
+         "question": "Laptop của mình, mỗi lần mình click chuột trái vào file nó hiện ra bảng propeties, bàn phím đánh chữ cũng ko được luôn, chuột phải vẫn hoạt động bình thường, làm sao bây giờ, giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.728817,
+         "id": "1157009",
+         "field_search": "question",
+         "question": "Mình dùng ss a5 2017. Khi tải file pdf về từ face về thì ko tìm thấy vị trí lưu trữ. Nhưng mở word thì hiện đường link lưu như này mà tìm mãi ko dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.693865,
+         "id": "1000080",
+         "field_search": "question",
+         "question": "Tại sao không thể mở \"File của bạn\" được vậy , tắt nguồn mở lại cũng không thể mở lên được , mong mọi người biết cách khắc phục , nó cứ nói là  :\"File của bạn đã dừng\" bấm quài không được luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.66875,
+         "id": "788265",
+         "field_search": "question",
+         "question": "hiện là em đang sử dụng win 10 giờ em muốn hạ cấp xuống win7 như trước nhưng em không có file windows.old với lại em cũng không có \"Go back to Windows 7\". Vậy giờ em phải sao. Trả lời em sớm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.66117,
+         "id": "1014037",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi. Giờ mình muốn xóa hay chuyển 1 file bất kì trong QUẢN LÝ FILE  của máy thì phải làm như thế nào ah. Mình đang dùng máy A5 2017, mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.522615,
+         "id": "819219",
+         "field_search": "question",
+         "question": "Chào các ace. E mới bị mất con ip6s e đã vào icloud.com để khóa máy rồi nhưng dường như nó biết mật khẩu mở màn hình of e nên vẫn thấy n vào dc. Giờ e đang muốn xóa dữ liệu of máy có dc ko ạ. Và nếu e xóa xong nó có dùng dc nữa ko ạ.! Thanks mọi người nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.500645,
+         "id": "1163654",
+         "field_search": "question",
+         "question": "cho mình hỏi ảnh và file tải về của samsung a10 lưu ở đâu vậy? minh tìm cả trong bộ sưu tập và cả trong file cũng k thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.480885,
+         "id": "946657",
+         "field_search": "question",
+         "question": "Khi mình tạo tài khoản Apple ID, verify tài khoản qua email xong rồi, vào các ứng dụng như app store nhận được thông báo: This apple ID has not been used ưith App Store, please review your account informationSau đó mình review, accept, nó hiện lên một bảng review your address (providing your method payment...)trong mục payment type mình chọn nonevà mình nhập đầy đủ mục billing address nhưng máy bắt buộc nhập mục \" to redeem a code or gift certificates enter it here\"mình không biết phải điền thế nào?giúp mình với.Cám ơn bạn nhiều )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.444366,
+         "id": "1155589",
+         "field_search": "question",
+         "question": "Máy em hay có tình trạng quá trình system không phản hồi vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.440321,
+         "id": "1158912",
+         "field_search": "question",
+         "question": "Mình xài mobiistat zumbo, chạy androi 7.0. Mình vào quản lý file nhưng ko xóa dc các file bỏ,file rác. Mình tháo thẻ nhớ ra gắn lại thì xóa dc. Nhưng cách này thì làm các ứng dụng mất dữ liệu cũ.Chạy 1 thời gian nó lại ko cho xóa. Mình có thử dùng ứng dụng quản lý file nhưng vẫn không dc. Mong dc giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.375902,
+         "id": "1165765",
+         "field_search": "question",
+         "question": "Chào ad!Mình có thắc mắc cần được tư vấn. Mình mua laptop tại tgdd được 2 năm và lúc mua về mình có thể dùng được word, PowerPoint,... nhưng sau đó không thể dùng được nữa. Mình có xem trong cài đặt thì có thấy ghi là Windows is actived. Không biết có phải hết hạn không hay như thế nào. Trường hợp như vậy mình có thể mang laptop đến tgdd được không ạ? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.364828,
+         "id": "1157474",
+         "field_search": "question",
+         "question": "Mình mới mua nokia 3.1, thời gian đâu thì không sao, nhưng sau lần sạc thứ 3, khi mình kiểm tra thẻ nhớ, trong thẻ vẫn có các file nhạc,phát riêng ừng file thì ok,nhưng mình không dùng các file nhạc đó làm nhạc chuông hay nghe tất cả nhạc cùng lúc được nữa, vì nó không hiển thị lên khi mình bấm vào dấu + ở bên góc phải màn hình phần ringtones, lúc mới mua về thì có hiển thị tát cả file nhạc. Vậy máy mình làm sao để nghe nhạc đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

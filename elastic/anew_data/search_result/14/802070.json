@@ -1,0 +1,801 @@
+{
+   "id_query": "802070",
+   "total": 22759,
+   "total_current": 100,
+   "max_score": 70.97035,
+   "origin_question": " Làm sao nhập tên của người ấy vào Zalo được mong giải đáp lẹ giùm cái? ",
+   "hits": [
+      {
+         "score": 36.4758,
+         "id": "802064",
+         "field_search": "question",
+         "question": " Làm sao nhập tên Zalo của người ây vào Zalo mình được xin chỉ giùm em? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.756462,
+         "id": "833698",
+         "field_search": "question",
+         "question": "Tại sao em đăng nhập zalo trên máy tính mà màn hình cứ hiển thi không lấy được thông tin người dùng và bắt đóng ứng dụng zalo là làm sao ạ??? Tối hôm trước em vẫn đăng nhập được bình thường ạ... Rất mong được giải đáp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.471165,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.520895,
+         "id": "989277",
+         "field_search": "question",
+         "question": "Máy em hiện giờ không đăng nhập được vào icloud, vào thì nó hiện ra như thế này ạ, em mong mọi người giải đáp hộ em lỗi này phải khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.218895,
+         "id": "998285",
+         "field_search": "question",
+         "question": "Tôi có samsung J7 prime muốn gọi video thì làm thế nào?Người khác dùng iphone gọi facetime cho mình không được là vì sao?Nhờ ad giải đáp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.260317,
+         "id": "1142244",
+         "field_search": "question",
+         "question": "Không xóa được faccboock trên samsung A8 là sao mong giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.233181,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52698,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.42678,
+         "id": "803755",
+         "field_search": "question",
+         "question": "TK Zalo của em tạm thời bị khóa.em không làm gì ảnh hưởng đến quy định khi dùng Zalo.em ko dùng zalo 1 ngày rồi em mở Zalo thì thấy phải đăng nhập,bình thường e mở Zalo là vào luôn,em nhập thì thông báo TK bị tạm khóa.Anh chị giải đáp cho em vấn đề này được không ạ? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.352928,
+         "id": "844359",
+         "field_search": "question",
+         "question": " Chào Ad...Mình muốn đổi tên của một người bạn của mình trong zalo, theo ý mình thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.240723,
+         "id": "1138904",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao zalo em lại thông báo có người khác đăng nhập trên thiết bị khác và bị đổi tên vậy ạ? Đổi tên em thành tên người đó và khi e đăng nhập lại thì bị mất hết dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.15354,
+         "id": "790240",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 4 cdama bỏ sim vào được không xin hỏi có gì mong mọi người chỉ giùm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.802376,
+         "id": "1160673",
+         "field_search": "question",
+         "question": "Ad cho hỏi làm sao để tăng đa nhiệm mi note 5 miui 10.2 ạ ??? Mong giải đáp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.693958,
+         "id": "1002975",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại xiaomi redmi note 4x của mình khi nhập sai vân tay nhiều là là nó bắt nhập lại mật khẩu, có cách nào khắc phục được không ạ, mong được giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.524813,
+         "id": "823250",
+         "field_search": "question",
+         "question": "Cho e hỏi..tại s máy em vẫn có chữ E và truy cập mạng bình thường nhưng không lên được messenger và facebook còn zalo thì lên được...nhập tài khoãn và mật khẩu vào thì nok cứ hiện \" vui lòq kiểmtra kết nối internet\"Vậy là sao? Mong giải đáp dùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.519228,
+         "id": "792224",
+         "field_search": "question",
+         "question": " Điện thoại ip của em sao vào Zalo binh luận thỉnh thoang cái nút gửi ấy nó k gửi đa binh luận là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37953,
+         "id": "880225",
+         "field_search": "question",
+         "question": "Cho tôi hỏi. Tôi có mua 1 cái laptop hiệu lenovo nhưng tải game trên sh play của loptop kog được mong mọi người chỉ cách tạo tài khoản giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.29632,
+         "id": "879666",
+         "field_search": "question",
+         "question": "Cho tôi hỏi . Tôi mới mua 1 cái máy loptop hiệu lenovo. Nhưng tải game trên sh play của máy tính không được. Mong mọi người chỉ giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.275606,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.018995,
+         "id": "874721",
+         "field_search": "question",
+         "question": " sao máy acer e5 573g i7 của em không có ổ D. mong anh chị giải đáp giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.931648,
+         "id": "820054",
+         "field_search": "question",
+         "question": "Mình vừa đọc bài \" hướng dẫn cách chép ảnh vào camera roll trên iphone \" mình làm bằng Itool . LÀm hết nhhững gì yêu cầu nhưng xem trên itool đã có hết hình ảnh rồi nhưng trong máy mình không có là sao ? Mong mọi người giải đáp . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.626259,
+         "id": "1136664",
+         "field_search": "question",
+         "question": " cho e hỏi htc 10 evo xem youtube được 2k không ạ?mong được giải đáp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.621752,
+         "id": "1143034",
+         "field_search": "question",
+         "question": "(Em có 1 vấn đề này cần giải quyết mong mấy ông ad giúp cho ạ)  Một hôm em tạo 1 tài khoản trên Vk ( Vkontakte), vào mục tạo em bấm đăng nhập Vk bằng Facebook và nó cho em1 cái tài khoản luôn   Giờ em không nhớ mật khẩu và tên tài khoản giờ phải làm sao đây ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.52205,
+         "id": "812339",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào để xóa tên zalo của người sử dụng sim trước khi mình sử dụng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.505262,
+         "id": "800754",
+         "field_search": "question",
+         "question": "Máy mình là iPad 2 , hôm trước mọi thứ vẫn bình thường, hôm nay vào youtube, zing mp3, ko phát được , những cái có sẵn thì vẫn xem được, đến wifi khác thì vào OK. Máy mình bị gì vậy, mình phải làm sao để máy sử dụng được wifi nhà đây?? Rất mong nhận được giải đáp thắc mắc, cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.384584,
+         "id": "958099",
+         "field_search": "question",
+         "question": "Mình nghĩ zalo nên thêm phần thay đổi số điện thoại giống facebook đi chứ. Một ngày nào đó người ta quên mật khẩu mà số điện thoại đăng kí đã bị mất và có ngươif khác sử dụng. Zalo chơi mấy năm liền. Không may có kẻ xấu vào zalo của người khác lừa đảo làm phiền bạn bef trong khi ních zalo là của mình.Hoặc khách hàng gọi tới tổng đài nhờ cho biết mã khóa vừa được gửi đến từ sim ấy thì cũng có khó khăn gì đâu ạ. Hôm qua em vừa vào được zalo. Có người vào zalo của em. Em vào lại thì mật khẩu không đúng. E cũng không hiểy zalo làm sao nữa. Tư vấn khách hàng thì chả ra làm sao. Em góp ý vậy ạ. Và giờ e muốn xóa tk zalo kia thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.343884,
+         "id": "773693",
+         "field_search": "question",
+         "question": "QTV cho em hỏi cái Oppo neo 7 của em vô zalo bấm dô phần kết bạn qua facebook sao nó để kết quả không phù hợp là sao vậy mong QTV chỉ giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.342087,
+         "id": "1010938",
+         "field_search": "question",
+         "question": "Mình đang dùng máy samsung galaxy j2,dạo này mình không vào được mục file của bạn. Khi vào máy báo hiển thị là file của bạn đã dừng,mong kỹ thuật viên giải đáp giúp,xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.235981,
+         "id": "939255",
+         "field_search": "question",
+         "question": " Làm cho zalo trên android của mình không hiện tên làm sao v ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.187035,
+         "id": "830538",
+         "field_search": "question",
+         "question": "máy mình cho người khác mượn rồi người ấy tạo 1 cái tài khoản icloud nhưng giờ không nhớ mật khẩu mà phần itunes & appstore chưa đang nhập giờ m muốn thay đổi tài khoản đó bằng tài khoản icloud cũ của m thì có làm được không? nếu làm được thì làm như thế nào ạ? thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.146627,
+         "id": "1138468",
+         "field_search": "question",
+         "question": "Tại sao số sim mình mới mua lại có tài khoản zalo của người khác. Giải thích đi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.119572,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.06779,
+         "id": "864904",
+         "field_search": "question",
+         "question": "Làm sao để tạo status dưới tên tài khoản??tôi thấy nhiều người trong frendlist có dòng status chạy dưới tên tài khoản zalo...xin hướng dẫn dùm mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.021492,
+         "id": "764747",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên icloud rồi mà khi mình vào iloud.com để xem ảnh thì mục hình ảnh trống nhỉ? mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.010014,
+         "id": "764757",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là sao mình đã tiến hành sao lưu ảnh lên iCloud rồi mà khi mình vào iCloud.com để xem ảnh thì mục hình ảnh trống nhỉ? Mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.629744,
+         "id": "1141676",
+         "field_search": "question",
+         "question": "Dạ, không phải là đề xuất thêm bạn ah, mà người ấy ở trong phần danh bạ Zalo và bạn bè của Zalo ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.609531,
+         "id": "841895",
+         "field_search": "question",
+         "question": " Máy tinhs dell này có tên cụ thể là gì? Xin thế giới di dộng giải đáp dùm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.596819,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.586927,
+         "id": "904915",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng ký lại nick zalo khi nick tự đăng xuất và khi đăng nhập lại thì kg được mật dù là mật khẩu đúng .. vạy phải xử trí như thế nào? nhờ tổng đài giải đáp gium !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.352217,
+         "id": "810054",
+         "field_search": "question",
+         "question": " Chi dùm e cách xem tin nhắn zalo của người khác khi dăng nhập đươc vào njk cua ho rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.34245,
+         "id": "855203",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi, iPhone 5s có hỗ trợ nhận chuột qua cáp otg không em có nhu cầu chơi game tập kích mong mọi người giải đáp ạ em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.3362,
+         "id": "754828",
+         "field_search": "question",
+         "question": "iPhone 5s của tôi đang sử dụng vô app store mà màn hình trắng không có hiện mấy mục tiềm kiếm hay nổi bật. mong được giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.274702,
+         "id": "904830",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập zalo pang sdt người yêu để theo dõi cô ấy chút xíu mak k có mật khẩu kung k thể hồi mật khẩu được.có cách nào đăng nhập bằng số điện thoại người ý xem tin nhắn được k z.mn pít chỉ giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.272364,
+         "id": "835839",
+         "field_search": "question",
+         "question": " IDM bị lỗi thì phải làm sao a, e muốn tải nhạc nhưng nó bắt phải nhập tên, serial number... cái đó nhập ntn a ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.24259,
+         "id": "909878",
+         "field_search": "question",
+         "question": "cá a/c cho em hỏi là làm sao để biết tk icloud của mình đang đăng nhập trên những máy nào ạ . e thấy máy của e báo về là tk của e đang bị dùng để đăng nhập cái gì ấy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.162407,
+         "id": "906827",
+         "field_search": "question",
+         "question": "Vì sao cái facebook e nó thế này khi e lấy lại mật khẩu nhỉ? Và tên đăng nhập tìm trên hệ thống cũng không có luôn? Mong được trợ giúp cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.145298,
+         "id": "1020457",
+         "field_search": "question",
+         "question": "Fb của mình không có cái bong bóng chat nhưng khi mình đăng nhập tài khoản khác vào cùng đt ấy thì lại có cái bong bóng . Mn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.052307,
+         "id": "1154155",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu như zalo đăng nhập dc vào 2 cái dt v làm cách nào để đăng xuất zalo của mình ra khỏi dt kia mà kg cầm dt kia đăng xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.968958,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.77262,
+         "id": "823330",
+         "field_search": "question",
+         "question": " Chào các bạn qtv, cho mình hỏi laptop mới mua nên sạc trong bao lâu vậy. Mong được giải đáp. Thanks. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.740765,
+         "id": "811033",
+         "field_search": "question",
+         "question": "Laptop của em bị hư màn hình. Nếu em muốn thay thì chi phí khoảng bao nhiêu vậy anh (chị)? Em dùng Dell Inspriron 3420. Xin giải đáp giùm em. Em cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.717373,
+         "id": "856051",
+         "field_search": "question",
+         "question": "Mấy anh chị ơi cho em hỏi .. e đang sài samsung galaxy a3 2016 . E đăng nhập vào fb và mes không được nhưng mật khẩu là đúng e có thử máy khác được . E thử vào zalo thì lại được .. Làm sao để giải quyết đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.70296,
+         "id": "776040",
+         "field_search": "question",
+         "question": "Chào anhEm có thắc mắc sau mong quản trị viên giải đáp thắc mắc hộ em: khi em truy cập trình duyệt web như chrome hay internet explorer thì web báo máy em bị nhiễm n con virus, cần phải tải và diệt virus ngay, sau đó bắt đầu đến ngược trong khi 360 security của em quét liên tục k tìm ra con virus nào. Như thế là như thể nào? Mong quản trị viên giải đáp giùm em. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.493673,
+         "id": "1137253",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng máy ip6 thường batn 64g, dạo này máy mình ko sao chép đc, mong bạn giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4799,
+         "id": "799368",
+         "field_search": "question",
+         "question": " Ai vào zalo của mình phải không mọi người..!!!!!!!!!!!!!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.42766,
+         "id": "940980",
+         "field_search": "question",
+         "question": " Con hp probook 4530s i5 chơi đc lmht ko ad .mong ad sớm giải đáp  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.426525,
+         "id": "1139051",
+         "field_search": "question",
+         "question": "Samsung galaxy a7 2018 của mình khi mua về nhập danh bạ từ google vào máy thì bị mất hết số chỉ còn tên. Bị như vậy xử lý thế nào. Mong nhận được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.336239,
+         "id": "1156087",
+         "field_search": "question",
+         "question": "E mới mua samsung galaxy A30. Gọi video bên facebook vs zalo bị hú.mong giải đáp sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.305188,
+         "id": "884011",
+         "field_search": "question",
+         "question": " Lỗi 2027 đăng nhập vào Zalo ko dk thì làm sao,mọi ng giúp mình voi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.285976,
+         "id": "1151121",
+         "field_search": "question",
+         "question": "cho mình hỏi con asus zenfone max pro m2 chỉ bán online th th hay có thể ra tận cửa hàng để xem và mua zậy mong mọi người hoặc shop giải đáp cho mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.255282,
+         "id": "999286",
+         "field_search": "question",
+         "question": "Tôi không chụp được màn hình đt samsung j5 prime. Khi bấm tổ hợp phím nguồn + home thì màn hình hiện lên trang tìm kiếm của google. Mong thegioididong giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.231152,
+         "id": "1024546",
+         "field_search": "question",
+         "question": "tình trạng tắt nguồn đột ngột của huawei y5 ii là sao ạ... không làm gì nó củng tắt có khi lỡ rơi nhẹ lên bàn hay cặp sách nó củq tắt nguồn... mong hỗ trợ giải đáp giúp e ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.179482,
+         "id": "1142932",
+         "field_search": "question",
+         "question": "Ad ơi laptop của mình sau khi đổi tên Users thì k đăng nhập vào máy được nữa, giúp mình mới với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.154515,
+         "id": "1165905",
+         "field_search": "question",
+         "question": "Mình dùng samsung j3 pro, mình đã chuyển 1 ứng dụng sang thẻ sd, nhưng dung lượng trống của máy không thay đổi và trong phần thẻ sd không có, vì sao vậy? Mong được giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.135016,
+         "id": "1015743",
+         "field_search": "question",
+         "question": "Mình muốn hỏi làm sao để xem được trạng thái và cập nhật của người khác trên zalo máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.02612,
+         "id": "755970",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là iPhone 5 của mình cứ bật 3g vào mạng khoảng 10-15 phút là nóng máy? có cách nào giúp mình khắc phục tình trạng này không? mong đươc giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.942372,
+         "id": "799092",
+         "field_search": "question",
+         "question": "Cho hỏi hiện tại zalo của mình được đăng nhập vào 1 laptop của người yêu mình và một dt của mình. vậy khi mình nt trên dt xong mình sóa đi trên laptop còn hiện hk vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.922124,
+         "id": "1007190",
+         "field_search": "question",
+         "question": "Ad giúp e cái này với. E mở khóa nhiều lần không được nên bị khóa. Em k nhớ tên đăng nhập của google",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.920478,
+         "id": "889767",
+         "field_search": "question",
+         "question": "Em chào mọi người ạ .dạ có thể cho Em hỏi Em đã đổi tên facebook nhưng sau đó mesenger vẫn giũe nguyên tên cũ là sao ạ .ai biết trả lời giùm Em với .em cảm ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.868698,
+         "id": "821121",
+         "field_search": "question",
+         "question": " Tên tài khoản icloud của tôi trùng với người khác có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.866491,
+         "id": "1137721",
+         "field_search": "question",
+         "question": " Tôi cần làm gì tiếp theo khi tôi đang loay hoay tạo mật khẩu để đăng nhập Zalo mong được tư vấn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.847891,
+         "id": "821786",
+         "field_search": "question",
+         "question": " Tại sao tài khoản Zalo .01225964xxx1 của tôi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.764197,
+         "id": "1012306",
+         "field_search": "question",
+         "question": "Máy samsung j7 pro của em mua được 1 tháng. Trong 3 ngày trở lại đây có hiện tượng sạc không vào pin dù trước đó khi cắm sạc thì máy báo đang sạc. Vậy có ván đề gì vậy mong ad giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.729657,
+         "id": "1151598",
+         "field_search": "question",
+         "question": "ad làm ơn giúp minhg với mình mời flash ip xog thì nó bảo active điện thoại mà nó bao p đăng nhập vào cái id apple của người khác mà hồi trước anh minhf mua ở bên phap gửi về mà ảnh ko liên hệ dc với chủ ip thì p lm sao ạ mong ad giúp mik",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.725826,
+         "id": "946270",
+         "field_search": "question",
+         "question": " Sao zalo của em khi người ta gửi yêu cầu kết bạn em nhận được thông báo mà không vào trả lời yêu cầu đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.719496,
+         "id": "1009589",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Tối hqua e có đặt onl 1 thẻ nhớ 16g. Tổng đài TGDĐ cũng đã gửi mã xác nhận và e cũng đã nhập vào khung r. Và TGDĐ trả lời là sẽ có nhân viên gọi điện hoặc có tin nhắn gửi lại để xác nhận 1 lần nữa. Nhưng hôm qua giờ k thấy gì. Tại e tính làm sớm để thứ 7 tuần này lại lấy cho tiện. Mong qtv giải đáp giùm e ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.696104,
+         "id": "1023317",
+         "field_search": "question",
+         "question": "Cái LG Lte2 của em tự nhiên đang ngon lành thì bị kêu nhập mật khẩu để giải mã bộ nhớ gì đó?? Vậy h em phải đi sửa làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.679457,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.634512,
+         "id": "758634",
+         "field_search": "question",
+         "question": "Cho hỏi cái ad mình mới đổi iPhone mình lắp sim vào thì thấy có cả danh bạ người khác làm thế nào để xóa danh bạ của người ấy đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.628017,
+         "id": "1003952",
+         "field_search": "question",
+         "question": "mình mới mua 1 sim mobifone ở thế giới di động nhưng về nhà đăng ký zalo bằng sđt đó thì hiện lên là tài khoản đã tồn tại, vậy là sao ạ, sim này có người dùng rồi sao còn bán ạ??? ai giải đáp giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.627955,
+         "id": "833696",
+         "field_search": "question",
+         "question": "Tài khoản Zalo của tôi đang kết nối giữa pc và iPhone rất tiếc - không biết tại sao tự nhiên PC không đăng nhập vào Zalo được nữa - iphone vẫn đăng nhập bình thường - khi PC đăng nhập Zalo thấy hiện dòng chữ: không có kết nối kiểm tra đường truyền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.623926,
+         "id": "1136082",
+         "field_search": "question",
+         "question": "Sao facebook em vào bảo mật và đăng nhập để xem vị trí đăng nhập mỗi phiên thì nó không đúng vậy khi thì tỉnh này khi tỉnh khác,  vậy sao em làm sao biết có người khác vào trộm nịck facebook của em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.562346,
+         "id": "841876",
+         "field_search": "question",
+         "question": "em đăng ký zalo bằng số điện thoại cũ. Bây giờ số điện thoại ấy bị nhà mạng thu hồi và khả năng có người khác sử dụng rồi. em muốn chuyển tài khoản zalo ấy sang số điện thoại mới em đang dùng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5551605,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.506569,
+         "id": "816474",
+         "field_search": "question",
+         "question": "em sử dụng 2 nick face, 1 cái dùng gmail để đăng nhập, 1 cái dùng sđt, hôm bữa cái nick dùng gmail kêu nhập sđt để bảo mật nên em nhập sđt của em (cũng là sđt để đăng nhập vào nick kia) xong ra ngoài đăng nhập vào nick kia kg được nữa, nó chỉ cho đăng nhập vào cái nick đc bảo mật . em đã vào cài đặt xóa sđt bảo mật đi và đợi 24h để xem vào đc nick kia hay kg nhưng vẫn kg đc . giờ em phải làm sao . xin giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.502485,
+         "id": "1003982",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc htc10 Evo của shop, ad cho e hỏi làm sao để chuyển ứng dụng và game từ bộ nhớ trong vào thẻ nhớ ạ....em tìm nhiều cách rồi mà vẫn không được...mong ad sớm chỉ giáo giùm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.498456,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.495569,
+         "id": "1160716",
+         "field_search": "question",
+         "question": "ad cho e hỏi e dùng samsung galaxy j5 prime vào ch play tải game pubg mobile, e dùng wifi và mạng khỏe. nhưng không hiểu sao tải đợi load, giải nén xong hết lại không thấy game đâu, bấm vào game pubg trên ch play lại hiện nút cài đặt. Mong dc giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.46365,
+         "id": "819392",
+         "field_search": "question",
+         "question": "Chào THẾ GIỚI DI ĐỘNG.Hiện tại máy mình mới up lên windows 10 thì không cài được OFFICE 2016, trong khi cái máy kia  thì cùng hệ điều hành ấy với bản office 2016 này. Thì vẩn cài đặt tốt, không có lỗi nào xảy ra. Em có cái hình báo lỗi khi cài đặt office, mong các anh chị kỹ thuật xem qua và giải đáp giúp xem máy em bị lỗi gì hay thiếu cái gì mà không cài được. Rất mong nhận được phương pháp khắc phục lỗi trên.Mong nhận được trả lời sớm nhất từ các kỷ thuậy TGDD.Thân chào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.459932,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.446927,
+         "id": "901715",
+         "field_search": "question",
+         "question": "Tại sao tài khoản zalo của em tự nhiên bị khóa mà em đăng nhập vào thì nó để là mật khẩu không đúng,,,,,,em đăng ký thì cũng không được,,,,để là sđt đã được đăng ký cần nhập mật khẩu,,,,,,,,như vậy em phải làm sao,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.418032,
+         "id": "874453",
+         "field_search": "question",
+         "question": "Tại sao vào zalo của người khác lại không xem được ảnh vậy. Vào rất nhiều nick để xem ảnh đều hiện thị không có ảnh. Mà người đó lại k chặn minh xem nhật kí hay gì hết .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.388561,
+         "id": "828488",
+         "field_search": "question",
+         "question": " Ad cho hỏi như này là bị sao vậy cứ đăng nhập vô là nó hiện ra như vậy ad giải đáp hộ em nhanh nha  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.372202,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.364331,
+         "id": "1135688",
+         "field_search": "question",
+         "question": "Facebook của em hôm nay báo bị tạm khóa do có người cố thử đăng nhập từ vị trí khác. Như vậy là sao ạ, cách giải quyết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.355014,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.310404,
+         "id": "1140807",
+         "field_search": "question",
+         "question": "sao zalo của mình không mở được tin nhắn vậy?nó chỉ hiện một khung màu trắng bên cạnh như vậy. ấn chuột vào tin nhắn mà không mở được thì làm thế nào ?mong ad chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.282869,
+         "id": "828417",
+         "field_search": "question",
+         "question": "mình xài điện thoại SONY XPERIA C2305 sao m ình không vào được album ảnh ,vào zalo và face book là bị đá ra .màn hình luôn hiện \" có lỗi xảy ra, vui lòng thử lại sau \" ,vào phần google+ cũng ko được ,mình đã đem ra tiệm chạy lại chương trình vẫn ko hết .xin cho lời giải đáp :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.260966,
+         "id": "775130",
+         "field_search": "question",
+         "question": " Sony z3 Không bật được wifi với bluetooth xin được giải đáp ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

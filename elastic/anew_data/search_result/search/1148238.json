@@ -1,0 +1,801 @@
+{
+   "id_query": "1148238",
+   "total": 22331,
+   "total_current": 100,
+   "max_score": 74.31506,
+   "origin_question": "Tôi cứ ấn vào úng dụng cuộc gọi là bị dừng lại nó báo điện thoại đã dừng",
+   "hits": [
+      {
+         "score": 32.732338,
+         "id": "1020535",
+         "field_search": "question",
+         "question": "Điện thoại ko nhận đc cuộc gọi từ số khác. Khi có cuộc gọi đến chỉ hiển thị rất tiếc, điện thoại đã bị dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.83557,
+         "id": "1024563",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi mà tải game về rồi mà vào game nó cứ hiện là game đã dừng lại là bị sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.064259,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.400333,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.195198,
+         "id": "1144916",
+         "field_search": "question",
+         "question": "xin cho hỏi về điện thoại redmi6. tôi sử dụng được khoảng 2 thán. nhận được thông báo cập nhật MIUI tôi đã đồng ý. nhưng đến 71,49% thì bị dừng lại. tôi phải làm sao vì màn hình báo không được tắt điện thoại khi cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.612206,
+         "id": "1020499",
+         "field_search": "question",
+         "question": "Khi người khác gọi đến thì vẫn nghe đc nhạc chờ. Nhưng điện thoại em lại hiện thị \" Rất tiếc, Điện thoại đã dừng lại\" và em ko thể nhận đc cuộc gọi. Ko biết đang bị tình trạng gì ạ. Điện thoại wIKO rainbow lite.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.432775,
+         "id": "780017",
+         "field_search": "question",
+         "question": "Hiện giờ, điện thoại của mình cứ hiện là bàn phím samsung đã dừng. Và ko thể sử dụng bàn phím được nữa. Điện thoại mình là V Plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.920475,
+         "id": "1142413",
+         "field_search": "question",
+         "question": "Tại sao khi cài ứng dụng xong rồi thì nó nói là CH play đã dừng  lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.908855,
+         "id": "1006631",
+         "field_search": "question",
+         "question": "Em sài điện thoại Samsung A8 đột nhiên một hôm em vào điên thoại để gọi thì nó nổi lên \"Điện thoại đã dừng\" lại ko nhấn thoát ra dc trừ khi restart lại điên thoại bây giờ điện thoại em ko thể gọi đc nữa ai bt cách giải quyết chỉ em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.822083,
+         "id": "807611",
+         "field_search": "question",
+         "question": "Cho e hỏi máy em là Oppo r1001, giờ bị hiện lên chữ \" rất tiếc, mở khóa nguồn gốc đã dừng lại\" và \" rất tiếc, com.oppo.exserviceui đã dừng lại\" vậy điện thoại e có sửa được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.515907,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.443296,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.334408,
+         "id": "1016515",
+         "field_search": "question",
+         "question": "Máy em nó cứ báo là dịch vụ google play đã dừng mà em đã làm đủ các cách mà k đc thì phải làm sao ạa huhu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.272352,
+         "id": "998706",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại của em dòng mobiistar LAI Z1 mới mua về mở google lên thì có thông báo là ứng dụng google đã dừng lại vậy máy đang bị như thế nào vạy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.847496,
+         "id": "1151793",
+         "field_search": "question",
+         "question": "Mình dùng đt sony xa ultra tự nhiên cứ hiện lên dòng thông báo \" rất tiếc google play services for instant apps đã dừng lại\" là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.676516,
+         "id": "1016160",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao khôi phục cài đặt gốc nó cứ bảo rất tiếc cài đặt đã dừng lại là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.53949,
+         "id": "1166139",
+         "field_search": "question",
+         "question": "Em tải game có dung luợng lớn như pubg hoặc free fire,... thì nó lại báo lỗi \"Rất tiếc, cửa hàng google play đã dừng lại\". Điện thoại em sử dụng là HTC One M8 có dung luợng 32GB em chỉ mới sử dụng 10 mấy GB thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.504269,
+         "id": "1016915",
+         "field_search": "question",
+         "question": "cho mình hỏi oppo neo 7 của mình cứ vào app nào là app đó bị dừng lại giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.440725,
+         "id": "997995",
+         "field_search": "question",
+         "question": "Cho e hỏi là tại sao e k vào đc file của bạn trên ss j2 vì nó cứ bảo là file của bạn đã dừng là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.290886,
+         "id": "1013023",
+         "field_search": "question",
+         "question": "cho tôi hỏi.máy điện thoại samsung J3.tôi mua ở cửa hàng tgdd khoảng 3 tháng.điện thoại tôi hôm nào củng hiện tiến trình android.process.media đã dừng là sao dã?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.243149,
+         "id": "1016358",
+         "field_search": "question",
+         "question": "Điện thoại mình khi mở lên nó hiện ra Rất tiếc, Q Launcher đã dừng lại thì làm thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.987946,
+         "id": "1136077",
+         "field_search": "question",
+         "question": "1/Tôi mua mới mua điện thoại samsung A7 được vài ngày nhưng nó không hiển thị cuộc gọi nhỡ. Khi tôi khôi phục lại cài đặt gốc thì nó đã hiện thị cuộc gọi nhỡ. Như vậy là máy bị lỗi hhay sao?2/ khi đang dùng điện thoại với mức độ sáng mà tôi chỉnh tự dưng màn hình nó tối lai. Vậy là chế độ của điện thoại là vậy. Hay do máy bị lỗi.Như vậy tôi có thể đổi điên thoại mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.87888,
+         "id": "1149506",
+         "field_search": "question",
+         "question": "Sao mình k tắt dc nfc trên s7 edge vậy ạ. Mình thử nhiều cách r vẫn k tắt dc nó cứ hiện thông báo nfc đã dừng đóng ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.808327,
+         "id": "1022325",
+         "field_search": "question",
+         "question": "Đt Xiaomi cứ nghe nhạc là bị dừng đột ngột 1,2s sống lại phát là sao vậy bị hoài à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.752674,
+         "id": "871244",
+         "field_search": "question",
+         "question": "Tình hình là bây giờ đt em vào messenger với facebook được luôn rồi ạ :( em đã làm đủ mọi cách mà cái anh hồi sáng chỉ em vẫn ko vào đc :( vào nó cứ báo \" Rất tiếc, Facebook đã dừng lại \" :( \" rất tiếc, Messenger đã dừng lại \" :((... Em đã khôi phục dữ liệu gốc rất nhiều lần rồi mà vẫn ko vào facebook với messenger đc :( Anh chị nào còn cách nào fix đc lỗi ko chỉ em với... Em cảm ơn trước !!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.597822,
+         "id": "1022338",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.540354,
+         "id": "1017048",
+         "field_search": "question",
+         "question": "Cho em hỏi s em vào cài đặt. Bấm vào sao lưu va cài đặt lại thì đt thoại báo la cài đặt đã dừng la s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.489006,
+         "id": "1141148",
+         "field_search": "question",
+         "question": "Máy Lenovo vào ứng dụng cửa hang may bao gloole play đã dừng lại làm sao mới khác phục đc z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.376606,
+         "id": "999927",
+         "field_search": "question",
+         "question": "em xài oppo a11w ạ...máy em bị bị dừng tât cả các ứng dụng.. và  hiện lên chữ com.google.process.gapps đã dừng lại.. bây giờ thì phải làm s thì mới có thể dùng lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.168716,
+         "id": "828759",
+         "field_search": "question",
+         "question": "Điện thoại Oppo neo 3 báo \" Rất tiếc, Swype for oppo đã dừng lại \" đang xài bình thường mà bị v hết dùng bàn phím được luôncho em hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.13155,
+         "id": "1017380",
+         "field_search": "question",
+         "question": "tại sao e phát trực tiếp trên youtube nó cứ bị Hệ thống UI đã dừng và k phát được v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.102798,
+         "id": "1157002",
+         "field_search": "question",
+         "question": "Điện thoại tôi là oppo A33W cứ điện là để mẹo bạn không thể gọi đi khi hạn chế cuộc gọi được bật mà tôi không biết tắc mong mn chỉ giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.094906,
+         "id": "973300",
+         "field_search": "question",
+         "question": "iFile là ứng dụng quản lý file cho iOS,tôi cài iFile cho iPhone chưa jailbreak, tôi làm như sau: Tải về file IPA ứng dụng iFile (). Tải về ứng dụng Cydia Impactor (). Kết nối máy iPhone của bạn với máy tính hay máy Mac, chạy Cydia Impactor. Sau đó cài file IPA của iFile vào máy của mình thông qua Cydia Impactor.Khi Cydia impactor chạy và báo GeneratingApplicasionMap thì dừng lại, tôi chờ 2h sau vẫn thấy vậy nên cài lại từ đầu thì đến đó lại dừng, tôi tải lại như bước 1,2,3 rồi làm lại vẫn thế, tôi vào trag khác tải và cài lại vẫn như vậy rồi dừng lại, vậy tại sao và xử lí thế nào, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.842165,
+         "id": "1011383",
+         "field_search": "question",
+         "question": "Điện thoại oppo f1s của mình khi có cuộc gọi đến chi đổ nhạc chuong vai giây rồi dừng đột ngôt mà chế độ rung vẫn hoạt động là do Nguyên Nhân gì vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.644247,
+         "id": "999216",
+         "field_search": "question",
+         "question": "mình vừa khoi phục cài đặt gốc thì bây giờ máy nó cứ hiện ra com.google.process.gapps đã dừng lai nó cứ hiện ra liên tục khắc phục ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.547346,
+         "id": "1011438",
+         "field_search": "question",
+         "question": "Điện thoại em khi cắm tai nghe nghe nhạc và khi tăng âm lượng thì máy báo UI hệ thống đã dừng là sao ạ? Điện thoại em là xong xperia c4 dual, à chỉ cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.468515,
+         "id": "1008645",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang sử dụng máy j5prime. Hình ảnh lưu trong album thì bị lỗi xem không được. Khi vào các ứng dụng trong máy hay mở gọi hoặc nt thì tự nhảy về màng hình chính. Báo là tiến trình androi đã dừng. Hi vọng được giải đáp sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.467665,
+         "id": "775315",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy S6. Gần đây khi đang nghe nhạc và xem video máy rất hay bị tự dừng, lúc ấn play lại chạy tiếp, cứ như mình vừa lỡ tay ấn vào nút pause thôi. Có khi chỉ vài phút sau lại ngừng tiếp. Cho em hỏi bị như vậy là làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.458414,
+         "id": "1023391",
+         "field_search": "question",
+         "question": "Em vào cài đặt rồi vào ứng dụng. Thì nó thoát ra màn hình chủ và thông báo là không may quy trình cài đặt dã dừng lại ai giúp em vs ạ. ( máy lg x power ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.444042,
+         "id": "1150663",
+         "field_search": "question",
+         "question": "Tôi vừa mới khôi phục lại cài đặt gốc cho điện thoại htc desire 628, nhưng khi vào cài đặt / Hiển thị và giao tiếp bằng cử chỉ lại xuất hiện Settings đã dừng không như mong muốn. Bạn có muốn gửi báo cáo lỗi cho HTC. Điều này sẽ giúp chúng tôi cải thiện chất lượng sản phẩm.GỬI BÁO CÁO     KHÔNG GỬI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.291777,
+         "id": "1167773",
+         "field_search": "question",
+         "question": "Vấn đề 1: Iphone 6 của em bỗng nhiên bị mất chế độ rung. Em không thể nhận được thông báo rung của tin nhắn hay cuộc gọi tới. Em đã thử lên mạng tìm nhiều cách giải quyết và làm thử nhiều lần nhưng không được. Vấn đề 2: em đặt báo thức nhiều cái và nó lặp lại nhiều lần, bình thường em bấm nút nguồn hay màn hình để dừng lại thì được nhưng vài hôm nay bấm nút nguồn hay màn hình để dừng lại thì không được và bị đứng máy. Điện thoại em mua ở tgdđ từ năm 2017 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.260893,
+         "id": "1165207",
+         "field_search": "question",
+         "question": "Điện thoại xiaomi noto 6 pro của tôi hiện tại hiển thị thông tin (dịch vụ google play đã dừng) làm sao để khắc phục lỗi này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.260668,
+         "id": "997710",
+         "field_search": "question",
+         "question": "Máy mình bị báo lỗi \" không may là quy trình bộ nhớ phương tiện đã dừng lại \". Cửa hàng với ứng dụng chụp ảnh, video đều không vào đc. Mình khôi phục cài đặt gốc máy vẫn báo lỗi. Phải làm ntn để máy hoạt động bt đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.253468,
+         "id": "1022668",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi sao e mỗi lần ấn vào biểu tượng file mà toàn hiện thì File của bạn đã dừng chứ kg vào đk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.093624,
+         "id": "1158864",
+         "field_search": "question",
+         "question": "Cho tôi hỏi. Hiện nay tôi dùng điện thoại redmi 5a khi gọi điện thoại cứ báo mạng đi động không khả dụng. Vậy bây giờ phải làm sao được ăn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.04801,
+         "id": "1024040",
+         "field_search": "question",
+         "question": "Máy e ko vào đc settings....Máy e là máy asus ạNó ghi là com.setting đã dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.010706,
+         "id": "1009811",
+         "field_search": "question",
+         "question": "Tại sao facebook tải về rồi mà vào thì cứ nói là \"rất tiếc, facebook đã dừng lại\" mà chuyển từ thé SD sang bộ nhớ trong thì ko dc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.955223,
+         "id": "1155329",
+         "field_search": "question",
+         "question": "Máy điện thoại tôi có nhạc cuộc gọi đến nhưng lại không có cuộc gọi nào, internet cũng không bật, chỉ có restart máy thì mới ok. Điện thoại tôi là Nokia 3. Nhờ ad giúp đỡ chứ thế nầy mệt lắm ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.911661,
+         "id": "1165683",
+         "field_search": "question",
+         "question": "Em dùng Asus Max ProM2. Hôm nay em mở khoá màn hình không được, nó không báo bị lỗi gì. Xong vào để tắt mở khoá thì nó báo 'Cài Đặt Đã Dừng'. Help, em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.770073,
+         "id": "1006699",
+         "field_search": "question",
+         "question": "Điện thoại sony XA của mình k phát đc loa ngoài. Chuông cuộc gọi tới và chuông báo thức k kêu. Mình khởi động lại thì bình thường 1 ngày lại bị lại. Hình như cứ sạc điện thoại là bị như thế. Giờ phải làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.741451,
+         "id": "767931",
+         "field_search": "question",
+         "question": "Mình muốn cái chuyển cuộc gọi sang số máy khác từ iphone 5 mà không thực hiện được.Mình đã vào phần cài đặt --> điện thoại --> chuyển cuộc gọi --> nhập số... thực hiện như hướng dẫn, xong thoát ra thì nó vẫn báo tắt phần \"chuyển cuộc gọi\".Nhờ bạn giúp mình cài đặt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.694565,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.675585,
+         "id": "1143595",
+         "field_search": "question",
+         "question": "Mình dùng Samsung Galaxy J5 2015 máy cứ thông báo \"tiến trình com.google.process.gapps đã dừng\" phải làm sao để khắc phục ạ? Tks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.421328,
+         "id": "700180",
+         "field_search": "question",
+         "question": "Mình gọi đến một số điện thoại mà lúc nào cũng báo bận (họ không chặn cuộc gọi của mình). Vậy có phải do mình ấn nhầm vào chỗ chặn không gọi được cho số đó không? Mình làm thế nào để bỏ đi được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.39104,
+         "id": "1160425",
+         "field_search": "question",
+         "question": "Cho hỏi là máy redmi note 6 pro sao không vô game được ạ chỉ hiện mỗi thông báo đã dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.36579,
+         "id": "1141386",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao điện thoại Xiaomi a2 lite tô mới mua ở TGDD 2 ngày mà hôm nay xài một lúc lại bị văng ra màn hình chính, màn hình bị để một chút, rồi nó hiện \" rất tiếc, người dùng hệ thống đã dừng lại\"  là thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.304846,
+         "id": "1016261",
+         "field_search": "question",
+         "question": "cho em hỏi oppo r827 của em nó cứ hiện rất tiếc status bar đã dừng lại cứ tắt lại hiện liên tục, em đã reset nhưng vẫn không được bây giờ phỉa làm sao ạ? Với lại imei 866890023517680 có phỉa là đã mua ở tgđ k ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.299614,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.117018,
+         "id": "909914",
+         "field_search": "question",
+         "question": "Tại sao khi mình đang xem video ngoại tuyến tự nhiên dừng lại k xem đc nữa sau đó mình lại tắt đi vào xem lại thì xem đc lúc tầm mấy giây nó lại tự dừng lại ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.00947,
+         "id": "1006125",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi là đt em nó hiện lên dòng chữ ch play đã dừng là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.007208,
+         "id": "1164860",
+         "field_search": "question",
+         "question": "Dạ điện thoại của em khi đang nghe nhạc thì hay bị dừng. Cho em hỏi cách khắc phục ạ. Điện thoại của em là samsung a50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.002506,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.997833,
+         "id": "1162168",
+         "field_search": "question",
+         "question": "Em xài điện thoại j7 plus ạ. Sau khi cập nhật lên phiên bản mới nhất cho điện thoại là điện thoại hay tự khởi động lại thất thường, và hay bị dừng ứng dụng. Em đã thử nhiều cách như khôi phục cài đặt gốc, chạy lại chương trình từ trung tâm bảo hành nhưng vẫn bị. Cho em hỏi giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.716513,
+         "id": "999639",
+         "field_search": "question",
+         "question": "Mình muốn tắt easytouch nhưng chạm vào thì nó hiện lên dòng chữ CÀI ĐẶT ĐÃ DỪNG bây giờ làm sao để tắt nó đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.704744,
+         "id": "1146840",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bảng asus ko vào đc các ứng dụng như facebook messenger snow b612 vào là tự động thoát ra và ghi là đã dừng ad chỉ em zới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.682434,
+         "id": "808631",
+         "field_search": "question",
+         "question": " các bạn cho mình hỏi tại sao khi gõ vào tìm kiếm laptop nó cứ hiện lên một dãy số 6 liên tiếp không dừng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.656715,
+         "id": "1155096",
+         "field_search": "question",
+         "question": "Điện thoại là asus sao mình cứ vào danh bạ gọi là nó hiện ra vậy. Làm sao để xóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.639994,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.617064,
+         "id": "1020967",
+         "field_search": "question",
+         "question": "máy em bị lỗi rất tiếc, quá trình com.google.processgapps đã dừng lại. em phải làm s ạ. Máy em là asus zenfone 4.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.599257,
+         "id": "1154425",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi cuộc gọi đến hoặc gọi đi bằng sim điện thoại, mà lại báo vào tin nhắn zalo. làm sao bỏ chế độ này. Điện thoại mình sam sung J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.46392,
+         "id": "872791",
+         "field_search": "question",
+         "question": " cho mình hỏi tại sao máy HTC826 cài được viber nhưng khi mở viber lại bị báo cáo dừng lại không lên vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.432434,
+         "id": "931706",
+         "field_search": "question",
+         "question": "Chào ad,tôi đang dùng ip 5s cho tôi hỏi có cách nào để tắt tính năng thông báo cuộc gọi đến không ạ.Mỗi lần có cuộc gọi đến là lại có giọng nói gì đó ý???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.339596,
+         "id": "1000097",
+         "field_search": "question",
+         "question": "tôi dùng oppo a37. tôi bị mất biểu tượng điện thoại và tin nhắn. tôi vào cài đặt- cài đặt bổ sung- quản lý ứng dụng- phần tất cả vẫn còn 2 biểu tượng này nhưng khi nhấp vào thì ko có chữ bật lại mà có chữ buộc dừng và tắt( tắt chử ẩn mờ) làm sao để tôi lấy lai 2 bieu tượng này ra màn hình để sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.336224,
+         "id": "867759",
+         "field_search": "question",
+         "question": "Cho e hỏi e đag sài lv 117 loại máy tính bảng khi xem video thì khoảng 5 giây thì nó lại tự động dừng em nhấn vào play nó chạy tiếp khoảng 5 giây sau nó lại dừng em đag sài wifi tốc độ 25mb/s. Vậy cho em hỏi youtube bị s vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.244352,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.191502,
+         "id": "1023319",
+         "field_search": "question",
+         "question": "Khi e reset laptops dell thì đang reset nó dừng lại, cái vòng tròn quay khi đang reset nó không chạy nữa là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.15945,
+         "id": "1162417",
+         "field_search": "question",
+         "question": "ban đầu là nó bảo ko đủ dung lượng, e đã thử vài cách thì tìm đc 1 cách là thoát khỏi tài khoản r vào lại. Nhưng khi nhấn dấu ba gạch thì đó ko phải tài khoản của e, khi nhấn \"tài khoản của tôi\" để đổi thì nó bảo CH Play đã dừng lại == nhưng mọi thứ vẫn hđ b.th trừ khi e nhấn vào tài khoản của tôi...giúp e vs ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157196,
+         "id": "1012388",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lenovo A90 của tôi bị mất âm khi có cuộc gọi đến, mặc dù khi tôi gọi đi thì vẫn nói chuyện bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.913696,
+         "id": "1003954",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ! Tôi đang dùng điện thoại Samsung galaxy j320g, khi ấn giữ trên màn hình thì điện thoại rung lên (vd khi muốn xóa tin nhắn trên Messenger hay Zalo thì phải ấn giữ vào tin nhắn để chọn chức năng xóa.. khi đó thao tác ấn giữ phím máy tôi cứ bị rung lên), tôi muốn tắt thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.907381,
+         "id": "1158093",
+         "field_search": "question",
+         "question": "Máy bị lỗi xài tí là bảo ứng dụng đã dừng, app nào cũng bị vậy. Lên google tìm cách, làm đủ các trò cũng ko khắc phục đc. (Thấy máy hết dụng lượng mỡ đã khôi phục cài đặt gốc, là tự nhiên nó bị vậy luôn) Máy MobiiStar E sellfie.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.897459,
+         "id": "817073",
+         "field_search": "question",
+         "question": "Lỗi Messenger của facebook , trên hệ điều hành AndroidMessenger của mình đã là ver mới nhất rồi nhưng khi thực hiện cuộc gọi video với bất cứ ai nó đều cho 1 cái thông báo như vầyRất tiếc bạn không thể thực hiện cuộc gọi :Họ không thể thực hiện cuộc gọi ngay bây giờVà người khác gọi đến mình cũng chẳng có thông báo , ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889706,
+         "id": "899580",
+         "field_search": "question",
+         "question": "Cho em hỏi máy  ấn mãi màn hình vẫn không lên được cứ tối om gọi điện thì nó vẫn lên màn hình. Để một lúc nó mới lên là do bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.822596,
+         "id": "1168828",
+         "field_search": "question",
+         "question": "Tôi dùng điện thoại oppo A3s mà sao cuộc gọi không sáng đèn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.799675,
+         "id": "1166371",
+         "field_search": "question",
+         "question": "Tôi có cuộc gọi đến, đã bắt máy nhưng chỉ nghe thấy đầu dây bên kia chứ không thể trả lời cuộc gọi được, làm sao để khắc phục điều này? Điện thoại xiaomi note 4.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.78396,
+         "id": "1168161",
+         "field_search": "question",
+         "question": "điẹn thoại mình không dừng được bài hát trên thanh thông báo phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76785,
+         "id": "1165204",
+         "field_search": "question",
+         "question": "Điện thoại xiaomi noto 6 pro hiện tại hiển thị thông tin dịch vụ google play đã dừng làm sao để khắc phục??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.70404,
+         "id": "1000080",
+         "field_search": "question",
+         "question": "Tại sao không thể mở \"File của bạn\" được vậy , tắt nguồn mở lại cũng không thể mở lên được , mong mọi người biết cách khắc phục , nó cứ nói là  :\"File của bạn đã dừng\" bấm quài không được luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.61131,
+         "id": "1147272",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi tại sao e gửi tin nhan mà hệ thông báo là Rất tiếc quá trình com.androi.phone đã dừng là sao Sonny C4 Dual",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.605997,
+         "id": "845375",
+         "field_search": "question",
+         "question": " Điện thoại tôi cuộc gọi đến màn hình không sáng. không biết ai gọi. Tôi dùng Oppo J5. Mod hướng dẫn giúp cái? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.43916,
+         "id": "1137809",
+         "field_search": "question",
+         "question": "Thế giới di động cho tôi hỏi?Tôi có mua điện thoại samsung j7 plus tại đây và đã sử dụng được tầm 4 tháng. Nay điện thoại KHÔNG BÁO RUNG được khiến những cuộc gọi để chế độ Rung và chuông nhưng chỉ còn chuông và rất bất tiện khi đi ngoài đường vì k hay cuộc gọi tới.Vậy thegioididong nếu bảo hành khoảng bao lâu? và tôi đang lo ngại là khi đem dt bảo hành thì k biết lấy điện thoại đâu để giải quyết công việc (do tính chất công việc rất cần điện thoại hỗ trợ. XIn cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.434748,
+         "id": "1135365",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em đang bị lỗi : DỪNG CUỘC GỌI KHI VIDEO CALL TRÊN MỌI ỨNG DỤNGem dùng con Lenovo S90 - A , đã nâng cấp androin của máy lên phiên bản mới nhất , update messenger,facebook,viber,skype,... lên mọi phiên bản mới nhất.Em gọi video call , trên máy vẫn hiện ra hình ảnh em , nhưng ko hiện ra hình ảnh người bên kia mà báo là : ĐANG CHỜ KẾT NỐI . xong rồi 5s nó tự động ngắt cuộc gọiEm đã thử dùng messenger, skype, viber,.. đều bị như vậy khi call = video, call thường rất okay.Admin giúp em vớiEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.402758,
+         "id": "1164527",
+         "field_search": "question",
+         "question": "cho mình hỏi cách chữa cài đặt, dịch vụ của google play đã dừng lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.39898,
+         "id": "1142329",
+         "field_search": "question",
+         "question": "Em dùng oppo a11w. Đang dùng tự nhiên nó hiện lên cái gì cũng rất tiếc đã dừng lại, vào cái gì cũng ko được, vào cài đặt cũng không được luôn. thử tắt nguồn rồi bật lại nhưng nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.392117,
+         "id": "1160942",
+         "field_search": "question",
+         "question": "Vì sao khi tôi tắt chuyển tiếp cuộc gọi thì máy báo là không tắt được chuyển hướng cuộc gọi đối với những cuộc gọi k trả lời và k được cung cấp bởi nhà mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.335768,
+         "id": "1167659",
+         "field_search": "question",
+         "question": "máy của em bị sao vậy ad ? Nó cứ bị hiện fb lên mà ấn vào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.324528,
+         "id": "872565",
+         "field_search": "question",
+         "question": " Cho mình hỏi là tại sao khi tải messenger về thì nhấn vào để chữ rất tiet messenger đã tạm dừng là sao chỉ mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.302599,
+         "id": "1005486",
+         "field_search": "question",
+         "question": "Điện thoại của em đang dùng thì máy báo Hệ thống đã dừng lại nên em tắt nguồn rồi khởi động lại. Nhưng khi khởi động thì máy đứng yên ở chữ ASUS đang chạy chứ không load tiếp, em phải làm sao ạ? Em hiện đang sử dụng zenfone c ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.240957,
+         "id": "1010938",
+         "field_search": "question",
+         "question": "Mình đang dùng máy samsung galaxy j2,dạo này mình không vào được mục file của bạn. Khi vào máy báo hiển thị là file của bạn đã dừng,mong kỹ thuật viên giải đáp giúp,xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.236477,
+         "id": "772813",
+         "field_search": "question",
+         "question": " Mình dùng Oppo Neo 5, Messenger của mình bị dừng, reset lại máy nhưng vẫn không vào được, làm thế nào được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

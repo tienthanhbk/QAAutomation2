@@ -1,0 +1,801 @@
+{
+   "id_query": "1165320",
+   "total": 34433,
+   "total_current": 100,
+   "max_score": 97.82919,
+   "origin_question": "máy tính em win10 khi không sạc pin thì độ sáng màn hình giảm xuống còn khi cắm sạc thì nó sáng hơn .có cách nào chỉnh cho độ sáng lại ko ạ",
+   "hits": [
+      {
+         "score": 48.060165,
+         "id": "946252",
+         "field_search": "question",
+         "question": "Mình dùng IPhone 6s. Máy mình bị lỗi chỉnh ánh sáng màn hình. Mình chỉnh max độ sáng mà màn hình vẫn bị tối. Vs độ sáng màn hình loạn lúc thì sáng lúc lại bị tối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.34255,
+         "id": "807978",
+         "field_search": "question",
+         "question": " cho e hỏi laptop asus tự chỉnh độ sáng màn hình khi chạm hai ngón lên touchpad thì chỉnh lại như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.467365,
+         "id": "1140487",
+         "field_search": "question",
+         "question": "E xài oppo A3s e muốn hỏi làm sao để chỉnh độ sáng màn hình lâu , nó chỉ sáng 15s mỗi lần e đều chỉnh 1' nhưng khi màn hình tắt thì cài đặt trở về 15s có cách nào chỉnh mặc định kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.16509,
+         "id": "815034",
+         "field_search": "question",
+         "question": "Độ sáng màn hìnhMáy của mình là iphone 4s sau khi mình chỉnh độ sáng của máy xuống dưới 30% thì màn hình đen xì không nhìn được gì nhưng máy vẫn hoạt động bình thường . Thế là máy mình bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.79215,
+         "id": "1161619",
+         "field_search": "question",
+         "question": "Cho em hỏi em có chiếc samsung s8 xài cũng hơn 1 năm rồi ạ đến nay em nó bị lỗi độ sáng ( em kéo giảm độ sáng gần cuối hoặc cuối nó k bị và kéo đến thanh cao nhất nó cung k bị ) nhưng khi em kéo ở mức giữa hoặc gần giữa độ sáng thì nó bị nhoè màn hình màu xanh lá ạ rất khó chịu . Cho em cách để fix nó lại được k ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.743683,
+         "id": "828907",
+         "field_search": "question",
+         "question": "Cài cái Intel Graphic cho lap win 8.1Độ sáng màn hình ở mức tối thiểu mà trong khi máy đã điều chỉnh đến mức tối đa.Xóa Graphic đi thì lại điều chỉnh bình thường.Ad có cách nào không xóa cái Graphic mà vẫn điều chỉnh độ sáng được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.802395,
+         "id": "754288",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao khi sạc pin, màn hình máy tính vẫn hiện vào điện nhưng trên thân máy lại không sáng phần sạc pin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.68945,
+         "id": "908798",
+         "field_search": "question",
+         "question": "Ad cho hỏi cái máy tính của t đang bị cái gì không, sạc pin mà nó báo không sạc. sạc vẫn sáng màn hình nhưng nó báo là (đã cắm vào, không sạc). máy tính dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.46949,
+         "id": "1154793",
+         "field_search": "question",
+         "question": "máy oppo A3s sao khi tôi tăng độ sáng màn hình lên thì lại bị đen màn hình vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.96306,
+         "id": "1150706",
+         "field_search": "question",
+         "question": "Samsung galaxy note8 của mình hiện tại bị tình trạng không tự động xoay màn hình được và bị tự động tối màn hình (dù tắt chế độ Bật sáng màn hình tự động) chỉnh thanh sáng tối cũng ko sáng lên được, phải reset lại máy thì màn hình mới sáng lên lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.887753,
+         "id": "748851",
+         "field_search": "question",
+         "question": " Laptop Dell 5548 Windows 8.1 đủ driver nhưng lại không chỉnh được độ sáng màn hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.838173,
+         "id": "1008397",
+         "field_search": "question",
+         "question": "Cho em hỏi. Galaxy A5 2015 của em bị nhấp nháy màn hình liên tục khi để chế độ sáng thấp nhất, để độ sáng cao hơn thì không thấy nháy. Màn hình cảm ứng vẫn bình thường. E đã cài đặt lại máy mà vẫn vậy. Đó có phải do lỗi phần cứng không. Có phải thay mới màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.51061,
+         "id": "815070",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi máy tính của em hãng Asuskhi cắm sạc thì nó chạy pin đc 1 lá thì ắt ko sạc nữa,sau khi chỉnh đi chỉnh lại ms sạc vào,kh ấy pin ra khỏi máy tính và cắm cục sạc vào thì ko đỏ,và đôi khi nó tự động tắt nguồn(ko rõ í do)ad giúp em vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.459698,
+         "id": "951655",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi con iPhone 6 của mh bị tuột giảm ánh sáng dù tắt chế độ tự động ánh sáng. Mh đã retors lại rùi nhưng ko dc.! Nhưng khi đổi cỡ chữ in đậm hoặc tắt đi thì máy sáng lại ..! Rùi lại bị giảm ánh sáng khi sdu một lúc ..!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.42353,
+         "id": "744428",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4s của em vẫn còn pin nhưng em không mở lên được sạc pin cắm vào nó kêu nhưng không sáng màn hình, có người gọi đến thì nó không kêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.090366,
+         "id": "910669",
+         "field_search": "question",
+         "question": "dạ cho em hỏi, laptop cua em có vấn đề về điều chỉnh độ sáng màn hình( em đã thử mọi cách nhưng nó vẫn duy trì 1 chế độ sáng cho dù có kéo max thanh chỉnh hay kèo tuộc dốc nó vẫn vậy) cho em xin í kiến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.048046,
+         "id": "1150107",
+         "field_search": "question",
+         "question": "Em mua laptop asus khoảng nửa năm thôi mà bây giờ laptop của em thường xuyên ko chỉnh được độ sáng ạ. Lúc thì chỉnh được, lúc thì độ sáng 0% với 100% cũng như nhau @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.64127,
+         "id": "1155734",
+         "field_search": "question",
+         "question": "Em dùng y9 chỉ lướt fb pin tụt khoảng 3p 4p 1% (bật chế độ tiết kiệm pin, màn hình chỉnh xuống hd+ và độ sáng khoảng 50%) thì có vấn đề không ạ, tại em dùng hằng ngày thấy máy tụt pin có vẻ nhanh so với dung lượng pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.50464,
+         "id": "1143773",
+         "field_search": "question",
+         "question": "Con j7 prime của em mấy ngày nay vẫn sạc bình thường nhưng sáng nay em cắm sạc thì pin nó không vào và khi tắt nguồn cắm sạc thì nó lại tự động lên nguồn, cho em hỏi nó bị gì vậy ạ ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.279694,
+         "id": "784200",
+         "field_search": "question",
+         "question": "máy tính t là asus tp500L. tự nhien màn hình máy tính t bị tối, t đã tăng độ sáng n k sáng lên mà giảm nó cũng vẫn thế. cho hỏi máy t bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.062878,
+         "id": "1157628",
+         "field_search": "question",
+         "question": "em mới mua máy ssa50 em ko để tự động chỉnh sáng tối màn hình mua về được hôm thì nó cứ nháy sáng tối liên tục hôm thứ 2 thì nó bị giảm hết độ sáng và em kéo sáng hết cỡ nó vẫn tối om kể cả nếu em có để auto sáng màn hình thì lúc đó em đứng ngoài trời nó cũng ko thể kéo tối hết cỡ thế được ( thanh kéo sáng tối thì vẫn max độ sáng mà màn hình vẫn tối om ) và em cảm thấy cam trước có vấn đề nó cứ chậm châm dealey kiểu gì ý. cho em hỏi là có ai bị giống em ko và thi thoảng mới bị thì mang ra chỗ bảo hành ngta test có ra luôn ko vì bt chẳng sao cả cứ thi thoảng mới bị mua máy từ hôm bắt đầu cho bán mà thấy buồn quá vì máy mới hầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.843323,
+         "id": "1152835",
+         "field_search": "question",
+         "question": "Cho em hỏi : latop của em cắm sạc vào thì đèn báo sạc vẫn sáng, vẫn có biểu tượng cái phích cắm ở biểu tượng pin sạc dưới góc phải màn hình, có chữ Plugged   in Charging  nhưng pin ko lên % nào thì là bị làm sao, và làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.528137,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.330814,
+         "id": "1002043",
+         "field_search": "question",
+         "question": "Chỉnh lại cường độ sáng đèn pin điện thoại samsung galaxy A5 2016 !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.275997,
+         "id": "1139589",
+         "field_search": "question",
+         "question": "Mình dùng a71 máy mình chỉnh chế độ thời gian sáng màn hình và chế độ rung khi chạm nhưng được một lúc máy lại tự động đặt lại như lúc ban đầu,  làm thế nào chỉ cần chỉnh một lần và dùng luôn được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.19575,
+         "id": "1150844",
+         "field_search": "question",
+         "question": "- Mình dùng SS J6 Sáng nay mình có update bản này thì khi bật màn hình (Ko mở khóa điện thoại) thì có bị tăng độ sáng hơn so với bình thường. Trước khi update k bị ạ. Cho mình hỏi đây có phải lỗi k ạ? Nếu muốn cho về bình thường thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.091427,
+         "id": "762063",
+         "field_search": "question",
+         "question": "Laptop của em mới cài lại win, sau đó em có chỉnh lại độ sáng thì nó bị tối mà hình luôn và không điều chỉnh được, mặc dù em đã chỉnh rất nhiều lần trong máy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.069332,
+         "id": "1160464",
+         "field_search": "question",
+         "question": "Mình sài samsung j7pro giờ mình sạc pin thì màn hình dt ko tắt nó sáng hoài cho hỏi máy bị gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.93999,
+         "id": "910603",
+         "field_search": "question",
+         "question": " Máy tính của mình màn hình ko sáng bàn phím sáng, m cần bảo hành thì hình thức thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.778988,
+         "id": "1138323",
+         "field_search": "question",
+         "question": "Xiaomi Mi A2 mình mới cập nhật lên androin 9 thấy rất ok nhưng  mà sao độ sáng bị giảm quá vậy? Lúc còn ở androin 8 độ sáng dùng 15-20% là sáng lắm rồi giờ lên 9 phải chỉnh lên tới 50% mới thấy đc như 15% độ sáng của androin 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.597973,
+         "id": "807109",
+         "field_search": "question",
+         "question": " ad sao em chỉnh độ sáng màn hình đủ cách mà vẫn k chỉnh được..ad gíup với....DELL inspiron 15 5000 series ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.482246,
+         "id": "1158723",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Đt e là hãng SamJ4+, vì e mới mua nên lúc sạc pin màn hình đt vẫn ở chế độ sáng với giao diện. Giờ e muốn tắt chế độ giao diện đó lúc sạc pin thì phải làm s???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.448288,
+         "id": "1009394",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí , mình đang sử dụng con S7 edge , mình đang để chế độ màn hình luôn sáng nhưng khi sạc thì màn hình cứ tự mở màn hình liên tục , cách khắc phục như thế nào vậy AD , thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.184517,
+         "id": "1011363",
+         "field_search": "question",
+         "question": "Em mới mua huawei Y5 2017 chưa được 2 ngày, tại sao pin tụt rất nhanh ngay cả khi tắt màn hình mặc dù em đã tắt hết wifi 3G và cho độ sáng về thấp nhất, còn khi sạc thì rất lâu, gấp đôi thời gian sạc cho loại pin 2400mAh mà vẫn chưa đầy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.092545,
+         "id": "919399",
+         "field_search": "question",
+         "question": "Hôm nay e có làm rơi chiếc 5s xuống đất khi chạm là mặt màn hình. Khi đấy thì màn hình của e tối đen, sau khi thử cắm sạc thì hình quả táo hiện lên nhấp nháy chứ ko lên bình thường. Sau 5p thì nó chỉ là màu đen nhưng mà sáng kiểu có đèn bên trong. còn rút sạc ra thì là màu đen hẳn. Liệu màn hình của e có hỏng ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.915924,
+         "id": "1158969",
+         "field_search": "question",
+         "question": "Chào Ac ạ , e có mua samsung A7 được 3 tháng đến nay nâng cấp lên androi 9.0 thì pin tụt rất nhanh ạ , E sạc 100% pin tắt hết ứng dụng chạy ngầm , giảm độ sáng tắt wifi , không sử dụng để sau khoảng 4 tiếng thì mất 40% pin máy thì nóng . Thì phải làm sao ạ , mọi khi em sạc đầy tắt đi  ( 7h đến 16h30 )sáng đến chiều k dùng tiêu tầm 6% pin thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.903507,
+         "id": "1143321",
+         "field_search": "question",
+         "question": "cho e hỏi máy e hiện như thế này thì làm sao để chỉnh độ sáng màn hình vậy ạ link ảnh https://www.upsieutoc.com/image/Gr8L8s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.83881,
+         "id": "992847",
+         "field_search": "question",
+         "question": "Mình mua ip 7 plus đc khoảng 3 tháng, mình sạc điện thoại qua đêm có sao không? vì mình thấy điện thoại của mình rất mau hết pin, nhất là khi vào safari, game, youtube,...vậy có cách nào khắc phục không? điện thoại mình để không sử dụng vẫn tuột pin. mình đã chỉnh độ sáng màn hình, không sử dụng 3G, tắt wf khi không cần, tắt chế độ tự động sáng khi cầm lên, tắt thông báo, tắt làm mới ứng dụng trong nền,...mong ad giải đáp giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.78268,
+         "id": "778496",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 64Gb tại Thegioididong.com được 3 ngày. Vấn đề mình gặp phải là máy sụt pin khá nhanh. Khi dùng ở chế độ bình thường (không wifi-3G, độ sáng 50% thì 2p giảm 1% pin. Khi pin còn khoảng 40% thì tốc độ giảm còn nhanh nữa. Đặc biệt là lúc pin còn khoảng 20% giảm về 0 rất nhanh. Mình đã cập nhật lên iOS 9.2.1Vậy Thegioididong.com cho mình hỏi cách khắc phục và bảo hành như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.668797,
+         "id": "1137984",
+         "field_search": "question",
+         "question": "cho e hỏi cách cài độ sáng màn hình laptop acer Aspire 5573znwxmi với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.498093,
+         "id": "1146082",
+         "field_search": "question",
+         "question": "e đang xài laptop win 8, gần đây máy có tự động điều chỉnh độ sáng, và e ko thể điều chỉnh độ sáng thủ công được nữa, vậy máy em bị lỗi hay là sao ạ, khắc phục ntn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.426193,
+         "id": "1005951",
+         "field_search": "question",
+         "question": "Điện thoại của mình là ss j5 2015. Vưag mới thay màn hình nhưng sau khi thay màn hình chỉ có 1 độ sáng ở mức sáng nhất dù mình đã có điều chỉnh thanh ánh sáng nhưng vẫn nv mình đã thử reset máy nhưng vẫn vậy? Giúp mình mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.07987,
+         "id": "1005269",
+         "field_search": "question",
+         "question": "ad ơi...chiếc j7 của e khi giảm độ sáng xuống thấp thì nó bị giật màng trắng ở màng hình...chướp nháy liên tục...xin hỏi ad máy e bị làm sao vậy...và khắc phục nó ntn?thanks ad ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.010384,
+         "id": "914957",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nhà e xài máy laptop dell khi máy bảo update thì em làm theo, nhưng khi update xong thì máy em không thể kết nối với wifi, điều chỉnh độ sáng , âm thanh... Ad giúp e tìm cách giải quyết với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.97467,
+         "id": "1135115",
+         "field_search": "question",
+         "question": "Cho hổ tgdđ có thay pin cho iphone 6plus k ạ . Và cho hỏi sao e sạc bằng sạc dự phòng đc 1 lúc thì hiện ra chữ : Phụ kiện không được hỗ trợ, trong khi pin sạc dự phòng vẫn sáng mãi mức độ pin . Vậy do cái gì ạ và cách khắc phụ ạ . Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.830925,
+         "id": "1155938",
+         "field_search": "question",
+         "question": "Samsung m20 sáng màn hình đột ngột khi đang lướt web. Duy trì sáng rồi tối dần ạ. Mình đã cài đặt chế độ sáng thích nghi ạ. Nó bị mấy lần r ạ. Mình mua chưa đc 2 tuần. Giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.672585,
+         "id": "1161823",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi c ách phục hồi thanh chỉnh độ sáng lại s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.183464,
+         "id": "1014097",
+         "field_search": "question",
+         "question": "ĐT của tôi tự bật  sáng khi đã cài đặt chế độ 15s,rất hao pin, xin hãy giúp tôi chỉnh lại, ĐT hãng Sam sung j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.120003,
+         "id": "1020997",
+         "field_search": "question",
+         "question": "em dùng s7 edge mà sau khi điện thoại về chế độ chờ em ấn nút home hoặc nguồn thì màn sau 2 giây gì đó mới sáng chứ không sáng ngay lập tức. cho em hỏi tại sao và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.947365,
+         "id": "1006917",
+         "field_search": "question",
+         "question": "Có cách nào khắc phục lỗi tự giảm đô sáng màn hình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.910072,
+         "id": "1024322",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy j5. Khi chiều em có bị đổ nước gần đt. Nhưng k bị dính đt nhiều. Hiện tại thì nếu em khóa màn hình thì không khóa được màn hình vẫn sáng ngay màn hình khóa. Hoặc tắt ròi thì lát lại sáng lên. Có khi đang xài thì lại tắt tối và lại sáng trở lại. Cho em hỏi là đt em đang gặp vấn đề thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.672497,
+         "id": "1004604",
+         "field_search": "question",
+         "question": "Ad em có con SS Smg360h 4.4.4 em up lên android 6.0 thì nó rất ổn và oke nhưng tắt màn hình nó chưa có hoàn toàn tắt mà chỉ sáng mờ mờ để qua đêm thì từ 100% sáng dậy thấy còn có 5x % rất là hao pin Nó sáng mờ mờ lúc d đầu e cx ko thấy khi tắt đèn đi ngủ thì em thấy cái gì sáng sáng mà cx ko để ý là cái dt nó sáng Cứ sáng thế này thì ai chịu nổi để qua đêm mất số lượng lớn % pin thế thì chịuAd giúp em vớiP/s nó chỉ sáng mờ mờ đen đen xám xám thôi chứ ko có sáng lắm để qua đêm mất nhiều % lắm ad Mog ad duyệt bài cx như đưa ra cái kết quả giùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.524704,
+         "id": "1157141",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, mình mới mua đien thoại nokia 8.1 , trên menu hỗ trợ có các icon khoá màn hình, âm lượng, gợi ý, chụp màn hình ... Nhưng tự nhiên sao tối mình sạc pin xong sáng dậy mở menu lên thấy xác icon rất to, âm lượng chia ra 2 icon tăng và giảm, độ sáng màn hình cũng vậy, chức năng smart lock mở ra ko có gì, sau khi reset lại thì smart lock đã có lại và đã nhận diện dc khuôn mặt, còn icon menu hỗ trợ ko như trước, nhờ AD hỗ trợ giúp mình, máy giờ dùng rất nóng, tks AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.350777,
+         "id": "1013316",
+         "field_search": "question",
+         "question": "Ad ơi e đang dùng 5s. Không hiểu sao lúc trc khi đi ngủ e thấy máy còn 56% mà sáng dậy đã tụt xuống còn 32%. E lại dùng tiếp đến lúc báo yếu mới sẠc. Vừa cắm sạc máy đã lên 34% là sao ạ. Hiện tượng này là chai pin ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.01074,
+         "id": "994335",
+         "field_search": "question",
+         "question": "giup em vs may iphone đang dung thì bi đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.93379,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.93379,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.803036,
+         "id": "1024208",
+         "field_search": "question",
+         "question": "Điện thoại samsung j7 prime của tôi dùng sạc chính hãng nhưng khi sạc ban đêm thì ko vào, nhưng sạc buổi sáng lại vào. Sao lại vậy ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.794895,
+         "id": "776031",
+         "field_search": "question",
+         "question": " Laptop của em sao không kết nối wifi được ạ và cũng không chỉnh độ sáng được luôn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.75142,
+         "id": "1162353",
+         "field_search": "question",
+         "question": "Em có cắm sạc Huawei nova 3i vào ổ điện thì có tiếng rè khét, có tia sáng, khi rút củ sạc ra thì 2 chân cắm của nó đen và lớp nhựa ở chỗ chân cắm bị phồng lên một chút, 2 chân cắm k bằng nhau. Vậy trong trường hợp này em phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.53621,
+         "id": "1161657",
+         "field_search": "question",
+         "question": "Tôi đang xài note 8 mua ở TGDĐ cách đây 1 năm ....trước giờ vẫn sử dụng bình thường... Nhưng khoảng 1 tuần nay máy tự nhiên mỗi buổi sáng thì tôi lại thấy máy tự điều chỉnh lại cài đặc (âm lượng nhạc tôi mở max ...ánh sáng màn hình tôi mở 10p) ...sáng ra âm lượng chỉ còn 50% ...ánh sáng màn hình chỉ còn 5s ...0988606465",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.271423,
+         "id": "806353",
+         "field_search": "question",
+         "question": "Laptop asus X450c của em khi mở máy lên thì đen thui màn hình là bị gì ạ? Khi mới mở nó vẫn sáng? TGDD có chạy win lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.196144,
+         "id": "1014041",
+         "field_search": "question",
+         "question": "cho mình hỏi là, cục sạc mình bị mất, nên mình mua ở ngoài 1 cục sạc khác, xài cũng tầm 1 tháng cũng ổn, nhưng hôm qua đt còn 8% pin, mình sạc vào thì nó ko lên % pin nào mà còn tuộc xuống 5%, biểu tượng sấm sét sạc thì vẫn có, lâu lâu sáng mình hình lên thông báo đang sạc mà cũng ko lên % nào, mình có mượn cục sạc pin khác thì sạc vẫn lên bình thương.... Nguyên nhân là đâu vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.038467,
+         "id": "912672",
+         "field_search": "question",
+         "question": " Cho mình hỏi sao iphone 6plus lên ios 10.11 sao không có chế độ tự sáng màn hình? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.94056,
+         "id": "1165469",
+         "field_search": "question",
+         "question": "Mk mới thay pin và cap sạc trong của ip6s Nhưng sau khi thay song thì mk sạc pin vào rất chậmMk vừa lướt fb vừa sạc thì 10 phút mới đc 1% pin có đôi khi còn giảm pinĐấy là mk đã thay cả củ sạc với dây sạc khác Khi mk thử cắm dây sạc cũ vào củ mới thì sạc ko được, nhưng cắm dây cũ vào củ cũ lại sạc đượcThi thoảng sạc đt thì báo là phụ kiện ko được hỗ trợMình cắm sạc đt bằng củ vs dây mới thì khi chạm vào màn hình hoặc giữ tay vào màn hình thì xuất hiện hiện tượng màn hình rung dật dữ dội và tự động vào các ứng dụng có trên màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.89467,
+         "id": "812538",
+         "field_search": "question",
+         "question": "em mới mua máy tính nhưng khi em sạc pin được một thời gian chưa đầy thì đèn sạc pin tắt đưa chuột tới hình sạc pin trên màn hình thì hiện lên chữ \"plugged in , not charging \" không vào pin nữa. chỉ có rút sạc ra cắm lại thì mới được.cho em hỏi máy bị lỗi gì vậy ạ.nếu mà cứ rút ra cắm vào mãi chắc máy sẽ nhanh chai pin mất. cách sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81495,
+         "id": "997013",
+         "field_search": "question",
+         "question": "Cho mình hỏi là Asus TP501UB có tự ngắt sạc khi sạc đầy k ạ. Vì mình thấy sạc đầy 100 thì máy vẫn hiện đèn LED sáng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.76089,
+         "id": "897297",
+         "field_search": "question",
+         "question": " em cần tắt chế độ điều chỉnh ánh sáng trên máy vi tính để bàn .tốt nhất là anh, chỉ đăng lên mạng hộ em nha ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.681007,
+         "id": "862851",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy oppo f1 được chừng q tháng nhưng sao máy của em nhanh hết pin vậy ạ . Từ lúc 22g điện thoại e còn 71% nhưng đến 6g thì xuống còn 20% mà các ứng dụng wifi 3g hay độ sáng e đều đã giảm rồi ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.666927,
+         "id": "995220",
+         "field_search": "question",
+         "question": "cho e hỏi , e đang dùng đt samsung j7 prime mới mua 6 tháng nhưng xuống pin rất nhanh! sáng 19% ko sử dụng gì cả và đóng hết ứng dụng cũng như độ sáng ở mức thấp nhất, nhưng đến trưa xuống còn 2%.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.575375,
+         "id": "1020780",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình dòng asus A556UA khi sạc đầy pin nó vẫn sáng đèn màu trắng thế là nó có ngắt sạc hay k ạ.nếu như k ngắt sạc có thể giúp mình cài tự động ngắt sạc khi đầy pin đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.549328,
+         "id": "1024618",
+         "field_search": "question",
+         "question": "Cho mk hỏi máy htc 630 bị lỗi phông chữ thì khắc phục sao? Và màn hình máy  hay sáng nhấp nháy ko ổn định? Lúc ở chổ sáng thì nó sáng lúc chổ tối thì nó tối . Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.547012,
+         "id": "862224",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng ip4. em sạc đầy 100% mà dùng đc vài phút nó đã sập nguồn báo hết pin . em cắm sạc tiếp thì nó lại hiện màn hình lên bt nhưng khi rút ra thì lại sập tiếp ạ . máy em có fai hỏng ic nguồn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.519608,
+         "id": "1159137",
+         "field_search": "question",
+         "question": "cho em hỏi cách sạc pin iphone dưới đây có đúng không ạ?  Cắm sạc vào và sạc đầy Sau khi sạc báo đầy pin, tiếp tục để pin được sạc thêm 2 tiếng hoặc hơn. Đối với máy đang bật, ngắt sạc ra và tiếp tục sử dụng. Khi thấy pin sắp hết, save lại công việc đang làm dở và đóng tất cả ứng dụng. Dùng pin cho đến khi máy sleep. Để máy sleep thêm 5 tiếng hoặc hơn. Cắm sạc cho đến khi pin báo đầy. Khi cắm sạc, các bạn có thể mở máy dùng như bình thường, ko sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.509743,
+         "id": "913672",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua máy hôm nay, mình thấy màn hình bị mờ chữ, chóa ánh sáng (không phải do bật độ sáng lớn) là do máy hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.47236,
+         "id": "855404",
+         "field_search": "question",
+         "question": "Máy mình 5s . mặc dù thay 4 quả pin rồi nhưng về ko dùng vẫn bị tụt thậm chí sạc đầy 100% và tắt hết ứng dụng và mạng . sáng ngủ dậy chỉ sau 7 tiếng mà pin tụt hơn 1 nửa . cho mình hỏi lỗi này là bị sao vậy . và khi sạc dây kết nối với củ sạc thì ko lên pin phải vừa dùng vừa sạc mới lên còn sạc bằng máy tính thì lên bình thương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.360718,
+         "id": "814671",
+         "field_search": "question",
+         "question": "Chào thegioididong. Tôi đang dùng máy HP Probook 450 G2, sau khi tôi cài lại win10 pro và cài đủ driver kể cả hotkey nhưng phím fn+f9,f10(tăng giảm độ sáng màn hình) và fn+f8(recorder) vẫn không hoạt động. Lúc trước máy chạy win8.1 thì vẫn bình thường. Xin giải đáp giúp tôi vấn đề này. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.23363,
+         "id": "913046",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy tính mình vừa cài win lại thì mình thấy chỗ sạc pin nó hiện dấu x đỏ vậy khi cắm sạc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.157032,
+         "id": "1134239",
+         "field_search": "question",
+         "question": "Tôi đang dùng Nokia 5.1Plus trong hôm nay tôi thấy có một lỗi là khi mình gọi màn hình nó đen hết không nhìn thấy gì cả, sau một khoảng thời gian tầm 30s có khi đến hơn phút thì tôi mới thấy màn hình nó sáng lại, vậy cho tôi hỏi cách khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.14019,
+         "id": "870928",
+         "field_search": "question",
+         "question": "cho em hỏi với ạ, máy của em là lap HP pavilion-14ab120TU, lúc mới mua về em có thể chỉnh đc độ sáng bằng phím f2 f3, nhưng sang ngày thứ hai lại không điều chỉnh được là sao ạ, với cả khi nhấn phím f4 lại ko hiện lên như hôm mới mua ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.115612,
+         "id": "1161807",
+         "field_search": "question",
+         "question": "cho e hỏi realme 3 lúc trc em cầm đt lên nhận diện khuông mặt là đt tự mở vào màng hình chờ. còn bây giờ thì nó nhận diện nhưng màng hình vẫn chắc phải bấm nút nguồn nó mới sáng lên. ad cho e hỏi cách chỉnh cho nó sáng lên khi đã nhận diện khuôn mặt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.062683,
+         "id": "781876",
+         "field_search": "question",
+         "question": "Cái ipad air 2 em mua hồi năm ngoái sài vẫn bình thường nhung hôm qua em để sạc qua đêm đến sáng em dậy thì thấy ipad không sạc được 1% em chơi còn 19% rồi sạc mà sáng dậy nó vẫn còn 19% là sao anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.975649,
+         "id": "1166218",
+         "field_search": "question",
+         "question": "Ad ơi, em có dùng mobistar e selfie, em sạc nó nhận một lúc sau nó lại k nhận, em thử lại lần 2 thù thấy máy nó ghi vào điện, nhưng trong sạc dự phòng thì k sáng đèn (Bth là nó sáng đèn và hiện số %). Em giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.94173,
+         "id": "773016",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5s được khoảng 10 ngày, nhưng tình hình là máy em xuống pin rất nhanh. Em sử dụng 3g thì chỉ được tầm 3h-3h15 phút thôi. Em đã tắt hết các ứng dụng chạy ngầm, độ sáng màn hình thấp nhất, thậm chí là mở chế độ pin thấp. Và khi em chụp ảnh liên tiếp khoảng 40 tấm, thì pin sụt từ 5-7% pin.. Vậy pin của em có vấn đề gi không ạ? Máy e chạy iOS 9.1.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.846441,
+         "id": "1142483",
+         "field_search": "question",
+         "question": "Điện thoại e là Oppo f7, dạo này khi e nhấc điện thoại lên hay đặt xuống thì màn hình đều sáng lên, lúc trước chưa từng bị như vậy. E tắt chế độ đó ở đâu vậy ạ, hay máy e có vấn đề j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.784834,
+         "id": "1134416",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e dùng là ss j2 prime hết pin sập nguồn e cắm sạc vào nó lên màn hình khóa nhưng vuốt để mở lại bị đứng màn hình. E tắt đi khởi động lại nhưng k ăn thua. Nó cứ sáng màn hình suốt e ấn nút tắt màn hình k đc. Sạc lâu nóng máy mà k đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.784647,
+         "id": "997959",
+         "field_search": "question",
+         "question": "Tôi dùng đt oppo F1 plus . Có cách nào mà làm đt khi cắm vào pc không sạc pin ko..  Sợ cắm đi cắm lại nó chai pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.750883,
+         "id": "824922",
+         "field_search": "question",
+         "question": "Mn cho e hỏi .máy tính của e khi ấn nút nguồn thì đèn vẫn sáng nhưng màn hình không lên , quạt không chạy .tại sao lại có hiện tượng này và cách sửa chữa ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.722435,
+         "id": "1130462",
+         "field_search": "question",
+         "question": " Sau khi update win 10 lên 1803 thì màn hình tôis hơn. dù đôn sáng luôn đẻ 100 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.713581,
+         "id": "1161873",
+         "field_search": "question",
+         "question": "ip8 của em dã sạc pin rồi tự dưng giảm còn 27, cắm sạc lại thì 100 cho em hỏi pin của em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.709549,
+         "id": "1152453",
+         "field_search": "question",
+         "question": "Mình đang xài nokia8, khi xài gần 1 năm thì máy hay có tình trạng tự khởi động lại máy, khi sạc thì không còn chế độ sạc nhanh. Như vậy là sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.644918,
+         "id": "1019927",
+         "field_search": "question",
+         "question": "Máy tính laptop Asus i3 mình mua ở tgdd ngày 14/01/2017. đến hôm nay bỗng dung chữ bị bóng mờ và màn hình bị mờ, khắc phục lỗi này như thế nào ạ, tư vấn cho mình với. đã chỉnh độ sáng tối màn hình nhưng không có tác dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.617958,
+         "id": "1004798",
+         "field_search": "question",
+         "question": "Arbutus AR3 Plus  để chế độ sáng max đèn luôn sáng 1h hết 17 pin là bt k hả a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.538353,
+         "id": "991428",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang dùng iphone5. Màng hình bị sọt khi máy nóng hoặc bât độ sáng trên 50%. Tắt nguồn mở lại thì bình thường, nhưng chỉ đc 1 lát thì lại sọt. Cho em hỏi nguyên nhân tại sao ạ? và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.460869,
+         "id": "1014069",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em asus x441ua không biết ở nhà ai chỉnh pin ở chế độ 77% sẵn sàng (không sạc pin) khi rút dây ra thì máy tự động tắt dù có sạc cũng ở một mức 77% ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.389753,
+         "id": "1141274",
+         "field_search": "question",
+         "question": "máy em mơi mua hôm qua hôm nayem khởi động lại thì nó hiện xanh “ windows ready don’t turn off your computer” nhưng không hiện %  Máy em nó để như vậy tầm 15p rồi nó tắt màn hình đen nhưng nút home vẫn còn sáng , mãi không lên phải làm sao đây ạ . với máy em đang còn ít pin em có nên mở máy để như vậy rồi cắm sạc vào đợi ko ạ ? Mong nhận hồi đáp em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.291985,
+         "id": "1164581",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có cái điện thoại Oppo N1 Mini lúc sáng hết pin tắt nguồn giờ thì sạc pin nó vào chế độ Recovery xong mình bấm reboot thì nó lại trở lại Recovery. Mình thấy vậy bấm nút Nguồn + tăng âm lượng giờ nó vào fastboot... Thử bấm nút nguồn 30s nó cũng không reset phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.282625,
+         "id": "1140262",
+         "field_search": "question",
+         "question": "Cho m hỏi cách cài  khi có thông báo màn hình sáng lên trên máy samsung a6 với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.26176,
+         "id": "1017021",
+         "field_search": "question",
+         "question": " Ad cho hoi win 10 làm sao cái độ sáng màn hình laptop ổn định vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

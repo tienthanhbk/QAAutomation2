@@ -1,0 +1,801 @@
+{
+   "id_query": "1134427",
+   "total": 30648,
+   "total_current": 100,
+   "max_score": 38.1547,
+   "origin_question": "Điện thoại em mua đã lâu nếu muốn mua pin có thể mua được không",
+   "hits": [
+      {
+         "score": 21.84558,
+         "id": "1021274",
+         "field_search": "question",
+         "question": "EM mua điện thoại hãng WIKO tại TGDD nhưng hiện tại pin bị hư. Vậy giờ em có thể mua pin ở TGDD được không ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.769733,
+         "id": "772648",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ có thay pin iPhone 4 không ạ ? Điện thoại của em mua lâu rồi nên đã hết bảo hành rồi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.676878,
+         "id": "1144387",
+         "field_search": "question",
+         "question": "Dạ em có mua điện thoại MEIZU M5 bên mình, em muốn thay pin của điện thoại thì giá bao nhiêu vậy ạ ? Và tầm bao lâu thì em lấy điện thoại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.185352,
+         "id": "1017576",
+         "field_search": "question",
+         "question": "0972229948 em mới mua con oppo f1s 2017 đã qua sử sụng em muốn hỏi pin máy em còn bảo hành trọng bao lâu , và nếu pin máy này sụt nguồn nhanh em có được đổi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.125786,
+         "id": "992632",
+         "field_search": "question",
+         "question": " nếu em mua điện thoại đã qua sự dụng mà về nhà e ko thích e có thể trả lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.761793,
+         "id": "1005329",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại trả góp,nhưng mà trong gói trả góp có phí bảo hiểm.mình có thể mua điện thoại trả góp nhưng không mua bảo hiểm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.638163,
+         "id": "1008756",
+         "field_search": "question",
+         "question": "nếu em chưa có tiền mặt mà em muốn mua 1 chiếc điện thoại khoảng 5-6 triệu liệ có thể mua được không vây.em có CMTND+sổ hộ khẩu chính chủ+thẻ bảo hiểm y tế.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.422613,
+         "id": "1001473",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nếu trước đó em đã mua trả góp 1 điện thoại nhưng chưa hết thời gian đáo hạn trả góp thì em có thể mua trả góp thêm một máy nữa được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.988165,
+         "id": "814381",
+         "field_search": "question",
+         "question": "Cho em hỏi là mua điện thoại đã qua sử dụng thì có được mua trả góp không ạ??? Em muốn mua 1 cái iphone 4s tại Trà Vinh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.817053,
+         "id": "1001004",
+         "field_search": "question",
+         "question": "Pin điện thoại qmobi vista của em bị nở vậy có thể nhờ cửa hàng chuyển vào hãng để thây pin được không ạ. Điện thoại mua ở cửa hàng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753582,
+         "id": "1007136",
+         "field_search": "question",
+         "question": "Mình muốn hỏi mình mới mua điện thoại htc evo 10 nhưng dùng không như mong muốn, mình có thể đổi điện thoại khác được không ? Và có bị trừ phí không. Điện thoại mình mua chưa được 24 giờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.734108,
+         "id": "1014259",
+         "field_search": "question",
+         "question": "Nếu em có mua miếng dán điện thoại bên ngoài nhưng ngại tay không dám dán, em có thể đến cửa hàng nhờ dán hộ được không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.406773,
+         "id": "993932",
+         "field_search": "question",
+         "question": "Em sinh năm 2000 đã có giấy chứng minh , vậy em có thể mua điện thoại củ giá 3050000d được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.197754,
+         "id": "1021789",
+         "field_search": "question",
+         "question": "em sinh ngày 951998.vay em có thể mua điện thoại trả góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.148335,
+         "id": "1009994",
+         "field_search": "question",
+         "question": "Cho e hỏiE có mua điện thoại tại thegioididong.com nhưng em thấy điện thoại của em bị hao pin không hợp lý,  e muốn gởi bảo hành tại hãng oppo có được không ạk, thời gian bảo hành là bao lâu? Trong lúc em gởi bảo hành em có được phép mượn 1 điện thoại khác ở cửa hàng sử dụng không ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.136488,
+         "id": "1014009",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss 2preim giá 2tr690...do bây giờ em ko muốn xài nữa nên có thể trả hàng hoàn tiền lại được ko ạ ... điện thoại em mua được tầm 1 tháng rữi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.051987,
+         "id": "1135290",
+         "field_search": "question",
+         "question": "Cho em hỏi ? Em muốn mua cục pin của điện thoại samsung core 2 có hàng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.998442,
+         "id": "1006194",
+         "field_search": "question",
+         "question": "Em là tân sinh viên, em muốn mua điện thoại trã góp được không ạ? Nếu được thì cần những loại giấy tờ nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.885838,
+         "id": "752723",
+         "field_search": "question",
+         "question": " Em muốn thay pin điện thoại iPhone5 thì giá bao nhiêu??? Thấy rồi xài có lâu hết pin không???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.876379,
+         "id": "1021887",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại cũ 5se có trả góp nhưng hiện tại em ở quảng nam mà điện thoại 5se bán ở tgdd Hà Giang vậy thì làm sao có thể mua được máy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.820515,
+         "id": "1144140",
+         "field_search": "question",
+         "question": "cho em hỏi là mua điện thoại trả góp thì có thể mua 2 cái điện thoại trả góp được không ạ?hay là chỉ được 1 cái?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.694565,
+         "id": "1004375",
+         "field_search": "question",
+         "question": "Điện thoại mới mua mà sao mau hết pin có phải bị pin ko ??? Có thể diện thoại khác ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.679455,
+         "id": "1013295",
+         "field_search": "question",
+         "question": "Tgdd ơi cho em hỏi nếu điện thoại mà bị chai pin ( pin em để không cũng mau hết nữa ) thì có được bảo hành k ạ ? Tại em mua đt mới chưa được tháng nữa  mà bị chai pin rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6573,
+         "id": "997335",
+         "field_search": "question",
+         "question": "Điện thoại đã mua ở thế giới di động được 2 ngày thì có thể đổi hoàn trả tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.497154,
+         "id": "991594",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp nhưng không có hộ khẩu gốc.chỉ có photocopy công chứng liệu có thể mua không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.313992,
+         "id": "913075",
+         "field_search": "question",
+         "question": "em đã mua office nhưng h quên mất tài khoản thì có thể lấy làm bằng số điện thoại không ạ nếu được thì tra giúp em số 0965674501. Em vẫn còn coa và mã kích hoạt thời gian xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.299997,
+         "id": "993935",
+         "field_search": "question",
+         "question": "Em sinh năm 2000 đã có giấy chứng minh , vậy em có thể mua điện thoại củ giá 3050000d  trả góp đc hk được ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.299057,
+         "id": "1158405",
+         "field_search": "question",
+         "question": "mình đang góp xe có thể mua góp điện thoại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.28829,
+         "id": "986143",
+         "field_search": "question",
+         "question": "em mua trả góp điện thoại chưa được một tháng giờ em muốn đổi sang điện thoại khác cũng trả góp có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.285791,
+         "id": "1022271",
+         "field_search": "question",
+         "question": "em đã nhận được điện thoại của nơi mua trả góp vậy e muốn biết đuyệt hay không thì như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.213736,
+         "id": "1139261",
+         "field_search": "question",
+         "question": " cho em hỏi..em muốn mua điện thoại trả góp và đang dùng thẻ agribank vậy có thể sử dụng dịch vụ này được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.200983,
+         "id": "1007031",
+         "field_search": "question",
+         "question": "Em mua trả góp điện thoại ở tgdd và giờ đã trả xong, samsung A5 (2017) của e đã sử dụng được 4 tháng, e muốn bán lại điện thoại được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.108492,
+         "id": "1014017",
+         "field_search": "question",
+         "question": "em muốn đặt pin laptop p550cxx837d được không ạ? nếu có giá bao nhiêu ? bảo hành bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.06964,
+         "id": "989828",
+         "field_search": "question",
+         "question": "em muốn mua 1 chiếc điện thoại giá từ 3 đến 5 triệu chơi game tốt pin khỏe với màn hình to thì anh chị có thể tư vấn cho em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.908516,
+         "id": "1004445",
+         "field_search": "question",
+         "question": "cho mình hỏi! mình mua 1 chiếc điện thoại tại thế giới di động hiệu HTC butterfly S mà bây giờ bị chai pin. Mình có thể thay pin được không, nếu thay thi giá pin là bao nhiêu. mong Add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895163,
+         "id": "1014722",
+         "field_search": "question",
+         "question": "em mới mua điện thoai iphone 7pls gold 128GB em muốn hỏi nếu như khi ip8 ra em muốn bán lại và các thêm tiền để mua ip8 vậy có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.873058,
+         "id": "1018090",
+         "field_search": "question",
+         "question": "Em có điện thoại OPPO F1 còn mới 90% không trầy xước,  không bị rớt . Em muốn hỏi bên thế giới di động thu mua lại không ạk , nếu được thì phỏng vấn khoảng bao nhiêu ạk . Em muốn bán để bù tiền mua OPPO F3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.8721,
+         "id": "1138684",
+         "field_search": "question",
+         "question": "Nếu em muốn đặt mua chiếc điện thoại Realme c1 thì phải làm sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.870588,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.79069,
+         "id": "1006679",
+         "field_search": "question",
+         "question": "em hiện là sinh viên.đã đủ 19t,em muốn mua điện thoại trả góp có được không...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.724068,
+         "id": "1163511",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại tầm 5tr bạn có thể giới thiệu cho mình được chứ thks!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.662313,
+         "id": "1023786",
+         "field_search": "question",
+         "question": "Em có 1 chiếc Samsung Galaxy J2 2015, sau 1 lần hao pin rất nhanh thì em đã thử xả cạn pin rồi nạp lại và nó không hao nữa và đứng luôn ở số pin hiện tại liệu có phải là pin ảo hay không, nếu có thì hãy cho em xin cách khắc phục, nếu như không khắc phục được thì có thể mua pin mới được không ạ? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.570202,
+         "id": "993088",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn mua một chiếc điện thoại có giá tầm  3,5 triệu có dung lượng pin lớn một chút   thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.513315,
+         "id": "1157469",
+         "field_search": "question",
+         "question": "E mua điện thoại j7 pro tuy là bây giờ đã hết bảo hành nhưng máy em bị hỏng màn hình có thể mang ra sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.489649,
+         "id": "1139243",
+         "field_search": "question",
+         "question": " chào ad.. cho e hỏi xíu được không ạ... nếu e muốn mua điện thoại trả góp thì cần những gì ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.480434,
+         "id": "1168965",
+         "field_search": "question",
+         "question": "mình muốn mua điện thoại trả góp . thì dùng hộ khẩu photo có được không . nếu được thì phải photo đủ 16 trang đúng không ? và có cần công chứng không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.454397,
+         "id": "1023584",
+         "field_search": "question",
+         "question": "Em muốn hỏi chương trình mua online l, mình đặt mua nhận ở cửa hàng. Vậy em có được xem và lựa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.441511,
+         "id": "995102",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại sony mới tại thế giới di động được 7 ngày,máy bị lỗi mang đi đổi lại.. về kiểm tra thấy máy đổi lại đã qua sử dụng , thời hạn kích hoạt bảo hành đã lâu.. thế mua điện thoại mới bị lỗi đổi điện thoại cũ à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.423883,
+         "id": "1011253",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài điện thoại zenfone 2 mua tại cửa hàng , bây giờ em muốn bán lại để đổi điện thoại mới có dc ko ( điện thoại em mua được 2 năm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.420273,
+         "id": "771356",
+         "field_search": "question",
+         "question": " Mình mua trả góp điện thoại iphone 6s trả được 4 tháng giờ mình muốn mua tiếp có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.419228,
+         "id": "1139274",
+         "field_search": "question",
+         "question": "cho em hỏi..em muốn mua trả góp điện thoại oppo f7 youth và đang dùng thẻ agribank ( success) vậy có thể sử dụng dịch vụ này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.385485,
+         "id": "1134187",
+         "field_search": "question",
+         "question": "Sam sung j8 của e mới mua mà nó cứ bắt nhập pin dù đã có vân tay, vân tay thì lâu lâu ms dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.376133,
+         "id": "987668",
+         "field_search": "question",
+         "question": "Có thể đổi điện thoại củ bù tiền để mua điện thoại mới không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.325457,
+         "id": "987018",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có thu mua điện thoại không ạ ? em đang xài sony xperia c4 , nếu có thu mua thì giá sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.305548,
+         "id": "1164415",
+         "field_search": "question",
+         "question": "anh ơi em có 1 cái samsung galaxy tab 3v mua đã lâu giờ pin bị chay phù thì giờ mang ra thế giới di động thay có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.290705,
+         "id": "1023431",
+         "field_search": "question",
+         "question": "Chào add, em muốn mua trà góp lãi suất 0% điện thoại Asus zenfone 4 max pro. Em có thể thay bằng lái xe bằng sổ hộ khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.278141,
+         "id": "1141548",
+         "field_search": "question",
+         "question": "Cho tôi hỏi nếu tôi muốn mua một chiếc điện thoại mà bên bạn ko có thì bên bạn có thể đặt về cho tôi đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.266262,
+         "id": "995399",
+         "field_search": "question",
+         "question": "em muốn hỏi là, nếu mua trả góp 1 lần rồi có mua được lần thứ 2 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.25412,
+         "id": "995637",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là nếu em không có hóa đơn điện thì có cái gì có thể thay thế để mua trả góp được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.252234,
+         "id": "1016467",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng máy lenovo, pin có vẻ bị phồng nên em muốn thay pin khác, nhưng tìm thì không thấy có bán pin của lenovo.Em có thể mua pin nào thay thế được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.250992,
+         "id": "1011152",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy ở tgdd thì muốn đổi máy mới có phải giá trị điện thoại giảm 10% rồi bù tiền vào máy khác đúng không ạ ?? Điện thoại em còn bh . Mua dc khoảng 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.235142,
+         "id": "999548",
+         "field_search": "question",
+         "question": "em hỏi em không mua điện thoại bên mình nhưng giờ em muốn bán bên mình để đổi lấy điện thoại khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.195368,
+         "id": "994591",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp 2 cái điện thoại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.185167,
+         "id": "1159781",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc vivo Y81  tại tgdd Nhưng cái sim mà em đăng kí mua điện thoại đó đã mất Giờ em muốn đổi số điện thoại khác được ko ạ Để tiện dán màn hình hay sửa chữa điện thoại chứ mất số điện thoại đó có vấn đề j nó khó cho em lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.176153,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.173122,
+         "id": "1014680",
+         "field_search": "question",
+         "question": "e muốn mua nokia 5 mà hổng biết pin sử dụng bình thường được bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.151426,
+         "id": "990376",
+         "field_search": "question",
+         "question": "Điện thoại mới mua được 3 ngày nhanh hết pin có được đổi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.120491,
+         "id": "996073",
+         "field_search": "question",
+         "question": "Cho e hỏi cái điện thoại samsung j7 6 e lúc mới mua sạc mau đầy pin lắm nhưng sài được 11 tháng thì sạc pin lâu đầy ạ . Có phải pin bị hư k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.07389,
+         "id": "1000400",
+         "field_search": "question",
+         "question": "Điện thoại oppo f3 em mới mua được vài ngày sau lướt facebook không ma pin tuộc .hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.034534,
+         "id": "1163382",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss A7 được hơn 10 ngày. Bây giờ em muốn đổi qua A50 thì có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.031868,
+         "id": "1160522",
+         "field_search": "question",
+         "question": "Anh,chị cho em hỏi ạ .Em mới mua 1 điện thoại Oppo A7 tại điện máy xanh.Nhưng sau khi sử dụng em thấy pin nhanh hết và nhanh nóng máy.giờ em có thể đổi qua hãng điện thoại khác được không ạ ?? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.99162,
+         "id": "1149595",
+         "field_search": "question",
+         "question": "Em mới mua chiếc điện thoại Oppo F9 10 ngày. Bây giờ em muốn đổi sang điện thoại Samsung được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.979269,
+         "id": "1013332",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp. không đưa trước. tối muốn mua bằng hóa đơn tiền điện nhưng của ba mẹ tôi liệu có được không shop??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.979076,
+         "id": "1156102",
+         "field_search": "question",
+         "question": "Em có con iphone 6 bị mất em ko cài mật khẩu và đã bị đăng xuất icloud máy e mua chính hãng bên tgdd vẫn còn bảo hành và giấy mua em muốn tìm điện thoại bằng imei có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.945421,
+         "id": "880491",
+         "field_search": "question",
+         "question": " Nếu em không bật find my phone trên điện thoại thì có thể tìm được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.93739,
+         "id": "1159531",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại pin tốt chơii game  mượt và chụp hình đẹp.. không biết nên chọn Oppo hay Vivo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.934065,
+         "id": "1156814",
+         "field_search": "question",
+         "question": "mình muốn mua điện thoại từ 4 đến 5 triệu. Shop có thể tư vấn giúp mình được không ạ. Mình chỉ cần đt chụp ảnh đẹp, đời mới, cấu hình cao, pin bền.Cảm ơn shop ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.918848,
+         "id": "1165111",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iphone 7plus 32G vào ngày 28/4, sau khi dùng em thấy pin có vấn đề, sạc đầy tận 3 - 4 tiếng và hết pin rất nhanh ( dù đêm không dùng thì từ 89% còn 30%). Cho em hỏi vấn đề này có thể đổi điện thoại mới được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.904774,
+         "id": "1147184",
+         "field_search": "question",
+         "question": " Trong phân khúc 4tr500k thì em có thể mua máy nào tốt để chơi các loại game nặng và pin lâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.88377,
+         "id": "1021716",
+         "field_search": "question",
+         "question": "Điện thoại mua được 2 tháng sử dụng giờ bị rỗng chui sạc pin vậy có được bảo hành không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.86097,
+         "id": "1163117",
+         "field_search": "question",
+         "question": "Điện thoại của e mua ở tgdd oppoF9 tháng92018Tgdd có mua lại không?  e muốn đổi điện thoại khác đuoc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.823217,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.773172,
+         "id": "996875",
+         "field_search": "question",
+         "question": "Nếu em ko mua máy ở thế giới di động thì có bán điện thoại ở đó được ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.766947,
+         "id": "992132",
+         "field_search": "question",
+         "question": "Cho em hỏi là bây giờ em muốn mua điện thoại samsunggalaxy j7 prime trả góp.Trả trước 0 có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.743456,
+         "id": "758358",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi,mình mua laptop đã lâu rồi mua ở quê, giờ mình vào tphcm mình muốn đem vào thegioididong sửa được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.732943,
+         "id": "992647",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi, chị em đang mua điện thoại trả góp, vậy có đứng tên mua được điện thoại trả góp nửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.71111,
+         "id": "904826",
+         "field_search": "question",
+         "question": " Điện thoại em bị chai pin..em có thể đem lại thegioididong thay được không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.688738,
+         "id": "1150247",
+         "field_search": "question",
+         "question": "e định mua điện thoại oppo f9 trả góp, e có thể trả trước 5.000.000 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.683071,
+         "id": "757629",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6s được 1 tuần điện thoại sạc khoảng 2h là đầy pin. cho em hỏi pin máy em có sao không mà nhanh đầy quá vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.67595,
+         "id": "1137295",
+         "field_search": "question",
+         "question": "Tôi vừa mới mua một điện thoại huawei y6 prim ở siêu thị mình nhưng pin điện thoại xuống rất nhanh thậm chí không dùng gì và cũng không bật mạng pin cũng xuống rồi vừa rút sạc điện thoại ra đã thấy hiện tượng cho pin vậy tôi muốn đổi lại có phải mất thêm tiền không và mất bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.657516,
+         "id": "1023782",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua pin mới thì cần chú ý đến những thông số nào để pin mới khớp với điện thoại??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.650686,
+         "id": "1152858",
+         "field_search": "question",
+         "question": "Em muốn mua đt pin sử dụng lâu chơii game mượt thì nên dùng đt nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.624216,
+         "id": "1019734",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e mới mua mà e thấy tụt pin nhanh thì có được đổi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.621458,
+         "id": "1023455",
+         "field_search": "question",
+         "question": "nếu em thanh toán hợp đồng củ thì có thể mua trả góp lại liền được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.595518,
+         "id": "1167078",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại mi 8 lite đã update lên android 9 mà muốn hạ xuống android 8 có được không ? Nếu hạ xuống thì cần bao lâu ?Điện thoại mình bị bể phần kính phía sau giờ muốn thay bên thegioididong có hổ trợ không hay phải ra nơi bảo hành xiaomi ơ hcm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.551231,
+         "id": "997033",
+         "field_search": "question",
+         "question": "Tôi có mua điện thoại ở TGDD tại thời điểm đó tôi chưa có nhu cầu mua sim GoGo 4g, bây giờ tôi lại có nhu cầu mua thì tôi có thể mua được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.539541,
+         "id": "754700",
+         "field_search": "question",
+         "question": "em muốn mua con laptop mà không biết mua loại nàp :) adm có thể hỗ trợ em được không ạ?Laptop em muốn mua chơi được game GTA V :) game này chạy trên win 7 thì phải ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.524534,
+         "id": "1153437",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại chơi game liên quân ổn định pin trâu để cày xuyên đêm khoảng 3 triệu thì nên mua máy nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.51383,
+         "id": "1143741",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại dùng pin tốt, trong tầm giá từ 3 - 4 triệu, Shop tư vấn mình loại nào ok ? Pin khoảng bao lâu ? Chủ yếu FB, Youtube, Zalo, chụp hình. Ko game.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

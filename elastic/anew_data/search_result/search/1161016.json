@@ -1,0 +1,801 @@
+{
+   "id_query": "1161016",
+   "total": 24789,
+   "total_current": 100,
+   "max_score": 79.40454,
+   "origin_question": "Chào tgdđ, mình đag xà nokia x6, m muốn tải ứng dụng về máy nhưng k tải đc",
+   "hits": [
+      {
+         "score": 26.360352,
+         "id": "995833",
+         "field_search": "question",
+         "question": "- Mh đag sử dụng ip6+ và cho mh hỏi là tsao khi mh tải ứng dụng trên asari về máy mh lại không thể tải đc như thế này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.302042,
+         "id": "752215",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao mình tải ứng dụng về bình thường nhưng k...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.277039,
+         "id": "1154020",
+         "field_search": "question",
+         "question": "dạ Em Chào AnhChị ạ.cho e hỏi là e đang dùng j7 pro ạ, nhưng phần play của e k tải ứng dụng về đc a ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.153381,
+         "id": "806897",
+         "field_search": "question",
+         "question": " Mình có tải zalo cho máy nokia 206 về máy mà ko dc? máy báo là khong hỗ trợ ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.97524,
+         "id": "806927",
+         "field_search": "question",
+         "question": " minh tải zalo vao nokia 206 về máy mà không được? máy báo ứng dụng ko hỗ trợ. Bạn giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.887949,
+         "id": "1145538",
+         "field_search": "question",
+         "question": "Tại sao máy mình k tải đc ứng dụng trên ch play vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.005606,
+         "id": "771732",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 3GS 32 GB chạy iOS 6.1.3 , mình tải ứng dụng trên appvn nhưng máy không tải về được. Giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.916443,
+         "id": "1140620",
+         "field_search": "question",
+         "question": "Mk muốn hỗ trợ tải game trên máy vivo nex a . mk tải về k cài đặt dk ứng dụng mong các b hỗ trợ mk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.895708,
+         "id": "1162129",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy nokia lumia 525 khi tải ứng dụng nó đề chữ: đang chờ xử lý mãi mà ko tải xuống đc; ứng dụng nào e tải cũng vậy ạ. Mong ad giúp cho ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.358639,
+         "id": "1024047",
+         "field_search": "question",
+         "question": "Tôi và bn đều dùng j5, bạn tôi thì tải đc nhiều ứng dụng còn máy tôi cứ tải ứng dụng là báo đầy k tải đc. Mong đội ngũ TGDD chỉ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.024506,
+         "id": "811993",
+         "field_search": "question",
+         "question": " em tải zalo về máy.hệ thống báo đã cài đặt,nhưng trên msy ko có ứng dụng zalo.e tải hoài mà ko đc,nv sao ah. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.01908,
+         "id": "834017",
+         "field_search": "question",
+         "question": "em đang sử dụng ipad mini . em muốn hỏi tại sao máy của em lại ko hiện các ứng dụng mà em đã tải về trên app store ??? tải về rồi nhưng lại ko tìm thấy trong máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.993055,
+         "id": "1024254",
+         "field_search": "question",
+         "question": "Cho mk hỏi : mk dùng đt samsung galaxy j2 prime mk chỉ tải về messenger nhưng khi muốn tải ứng dụng khác lại ko đc . Hãy chỉ cho mk cách giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.916367,
+         "id": "837103",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 6s plusM có tải viva video về máy ,có làm video đượcNhưng khi mình chèn nhạc lại k đượcToàn là nhạc của máy chứ k phải nhạc m đã tải về trong bộ nhớ máy là saoNhờ ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.908731,
+         "id": "997537",
+         "field_search": "question",
+         "question": "Ad cho e hỏi nó e đag cầm con j7 prime mỗi lần tải ứng dụng về là nó kêu tắt lớp phủ j e tìm k đc ạ gửi ảnh cho ad xem mà nó cũng kêu v lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.881765,
+         "id": "779719",
+         "field_search": "question",
+         "question": " CHo em muốn tải ứng dụng về máy iPhone mà vô tài khoản của TGDĐ daian090 mà em không có mật khẩu làm sao thấy được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.872007,
+         "id": "1158418",
+         "field_search": "question",
+         "question": "Chào ad, mình lỡ tay xoá ứng dụng Facebook, giờ muốn tải lại trên CH PLAY nhưng mà không thể tải lại được, nó cứ hiện ra là ứng dụng không tương thích với thiết bị (mình dùng Oppo a3s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.790632,
+         "id": "1140616",
+         "field_search": "question",
+         "question": "Mk muốn hỗ trợ tải game trên máy vivo nex a.mk tải về nhưng k cài đặt dk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.733307,
+         "id": "1024170",
+         "field_search": "question",
+         "question": " Mình đang sd đt j5 đã tải về chức năng diệt virus sao không mở đc ứng dụng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.659678,
+         "id": "781454",
+         "field_search": "question",
+         "question": " Máy mình khôg biết mất về cái gì mà mình muốn tải trò chơi hay ứng dụng về không được nữa , mình xài iPhone 5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.548765,
+         "id": "1007891",
+         "field_search": "question",
+         "question": "Iphone 4s tải ứng dụng trên google về lúc tải xong đang cài đặt . Máy lại báo là không thể tải ứng dụng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.54374,
+         "id": "1164949",
+         "field_search": "question",
+         "question": "đt nokia 220 tải video nhạc về xem dc k ạ mình tải mà mở tệp k dc dù đã chuyển qua nhạc mp4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.45806,
+         "id": "1002787",
+         "field_search": "question",
+         "question": "Ad ơi e muốn hỏi muốn viết kiểu như vậy nên tải ứng dụng gì về máy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.353811,
+         "id": "1011344",
+         "field_search": "question",
+         "question": "N cứ hiện đã tải về mà lúc e mở thì k có ứng dụng trên máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.34368,
+         "id": "1149919",
+         "field_search": "question",
+         "question": "máy mình là ip4. tải 1 số ứng dụng về nhưng nhấn vào ứng dụng thì lại bị quay về màn hình chính. có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.095083,
+         "id": "925075",
+         "field_search": "question",
+         "question": "Mình đag dùng ip6 khi mua máy mình thấy dung tích pin thiết kế là 1810mah nhưng sao khi mình tải ứng dụng Battery Life kiểm tra thì dung tích pin chỉ là 1751mah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.092466,
+         "id": "1133581",
+         "field_search": "question",
+         "question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.0585,
+         "id": "1016675",
+         "field_search": "question",
+         "question": "Minh tải ứng dụng trên ch play về thì tải xong thì ứng dụng đó tự mở dù minh đang mỏ ứng dụng khác muốn khắc phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.017145,
+         "id": "806900",
+         "field_search": "question",
+         "question": " Lần trước mình có tải về đc nhưng đã xóa đi giờ muốn tải lại zalo mà không được? bạn xem giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.013142,
+         "id": "917122",
+         "field_search": "question",
+         "question": "E đag sd đt oppo neon 7 lúc trước vẫn tải về đc các tệp tin word, pp,.. Trên fb hay mail nhưng giờ thì báo là không tải đc trang là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.953787,
+         "id": "1142516",
+         "field_search": "question",
+         "question": "A chị ơi cho e hỏi . Em sài nokia2 có nên tải ứng dụg dọn rác về k . Nếu có mình tải úng dụng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.871737,
+         "id": "830873",
+         "field_search": "question",
+         "question": " ad cho e hỏi với.e tải facebook về đám mây nhưng tải xong k tìm đc ở đâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.86608,
+         "id": "997328",
+         "field_search": "question",
+         "question": "Máy mastel có tải đc game hay ứng dụng j không ạ......nếu tải được thì tải thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.841686,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.725536,
+         "id": "993514",
+         "field_search": "question",
+         "question": "ID ơi cho mình hỏi mình đang xài iphone6 nhưng tại sao mình vô appstore tải ứng dụng không được vậy ạ. Mình tải tất cả ứng dụng như: facebook, messenger, snow,... mình bấm vô tải cái nó xoay để tải về rồi sao đó ngưng trở lại như củ không xoay và cho tải nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.684868,
+         "id": "1011913",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, cho mình hỏi. Mình mới dùng chiếc sam sung j3 pro, có phải tải ứng dụng quét vi rút không ? Nếu dùng thì tải phần mềm nào là tốt nhất. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.596024,
+         "id": "882712",
+         "field_search": "question",
+         "question": " Em muốn tải Mcaffe free về máy tính... vậy có tải dc không ạ..... có link tải k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.583796,
+         "id": "762603",
+         "field_search": "question",
+         "question": "Sao Samsung tab 4 7 inch tải ứng dụng về thẻ nhớ không được, chỉ tải về bộ nhớ máy, đầy là không tải về được, có cách nào tải trực tiếp về thẻ nhớ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.375782,
+         "id": "843931",
+         "field_search": "question",
+         "question": " Tại sao em tải Messenger lại về máy, mà máy lại ghi là không tải được ứng dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.296715,
+         "id": "1135021",
+         "field_search": "question",
+         "question": "E k tại đc ứng dụng yourube lm sao để tải chỉ dùm em voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.293747,
+         "id": "774534",
+         "field_search": "question",
+         "question": "Em xài iPhone 4 iOS 7.1.2 nhưng tải cam360 về thì xài không được. Thử lên tải ứng dụng appstorevn để tải các ứng dụng khác thì cũng không được luôn.Cho rồi hỏi làm sao để em tải được các ứng dụng trên appstorevn hay phải root máy.Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.251406,
+         "id": "978161",
+         "field_search": "question",
+         "question": "Hiện tại e đag xài ip4, nhưng lỡ xóa mất facebook mà tải lại thì nó đòi ios 8.0 mới tải đc. V bây h phải làm s mới tải lại đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.238188,
+         "id": "1004162",
+         "field_search": "question",
+         "question": "tôi không thể tải ứng dụng ch play bằng điện thoại nokia",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.198326,
+         "id": "1017936",
+         "field_search": "question",
+         "question": "chào ban nha cho mình hỏi ạ mình đang tải ứng dụng trên iphone 6 plus và nếu tắt màn hình thì ứng dụng đó có còn tự tải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.168024,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.140682,
+         "id": "1167891",
+         "field_search": "question",
+         "question": "Em bị lỗi là khi tải 1 ứng dụng về trên CH play nó cứ để là \"đang tải xuống\" nhưng nó cứ treo máy và không tải được  giúp em đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.114552,
+         "id": "1163492",
+         "field_search": "question",
+         "question": "Xin hỏi có ứng dụng android  nào fake ip ko ạ? Mình đã tải về nhiều ứng dụng nhưng vẫn là ip của Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.084341,
+         "id": "1020057",
+         "field_search": "question",
+         "question": "cho e hỏi ip của em hiện giờ tải ứng dụng rât chậm, thậm chí còn k tải đcAd có cách nào giúp e đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.993052,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.870026,
+         "id": "870373",
+         "field_search": "question",
+         "question": " Cho e hỏi đt microsoft 430 tải ứng dụng fb về ko đc ..hiện tại e dùng window10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.833607,
+         "id": "1167393",
+         "field_search": "question",
+         "question": "Mình muốn hỏi cách tải ứng dụng vào thẻ nhớ ở máy samsung j7 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.790665,
+         "id": "773274",
+         "field_search": "question",
+         "question": " Tải ứng dụng về máy Mobell Nova S làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.773052,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.736332,
+         "id": "819683",
+         "field_search": "question",
+         "question": "Khi vào appstore để tải ứng dụng về máy iphone 4 mà sao không tải được..? xuất hiện ĐANG CHỜ mà mãi không thể hiện thị ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68927,
+         "id": "740437",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. Em dung iphone 5s. Em muốn khởi động lại máy giống nhu lúc mới mua. Nhưng không muốn xóa mấy cái ứng dụng mới tải về thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.675434,
+         "id": "1022446",
+         "field_search": "question",
+         "question": " làm sao để cài CH play để tải các ứng dụng về máy tablet  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.670477,
+         "id": "1136222",
+         "field_search": "question",
+         "question": "tại sao A7 2018 k đổi đc font chữ mình tải về vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.66264,
+         "id": "1165059",
+         "field_search": "question",
+         "question": "mình đang dùng máy vivo y81 có dùng thẻ nhớ 32gb mà sao mình tải ứng dụng toàn về máy mình muốn chuyển sang thẻ nhớ cũng k được mỗi lần tải app mới đều bắt mình xóa dữ liệu cũ rất quan trong làm mình rất khó chịu ad có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.63642,
+         "id": "1145543",
+         "field_search": "question",
+         "question": "Tại sao không tải đc ứng dụng trên máy A8 2018 vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.623608,
+         "id": "1158635",
+         "field_search": "question",
+         "question": "Mình dùng các ứng dụng zalo viberKhi xem ảnh hoặc video thì nó tải về máyLàm sao có thể xem mà ko phải tải về lưu trong máy. Mình dùng sam sung notes 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.611103,
+         "id": "886827",
+         "field_search": "question",
+         "question": " Mình muốn lưu video tải về từ ứng dụng smart surfer sang camera roll trên ios thì làm cách nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.556538,
+         "id": "820030",
+         "field_search": "question",
+         "question": " Cho e hỏi e dùng iphone 4 tải ứng dụng từ app sau khi tải về máy vào tì bị văng ra ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.546358,
+         "id": "1003337",
+         "field_search": "question",
+         "question": "Cho em hỏi em đag sử dụng galaxy a5 2017 mà em tải nội dung trên google không đc. Giờ em phải làm sao để tải đc ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.38671,
+         "id": "1019660",
+         "field_search": "question",
+         "question": "Cách lưu ứng dụng tải về vào thẻ nhớ của oppo r7 ntn ạ. Lưu vao bộ nhớ dt hết lưu lượng rồi, e tải thêm kg đc ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.33244,
+         "id": "1139688",
+         "field_search": "question",
+         "question": "Mình bị lỗi sao lưu trên Nokia x6, nó cứ hiện như vầy nhưng k tạo file sao lưu lên gg drive được   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323376,
+         "id": "1011946",
+         "field_search": "question",
+         "question": "Nokia 5 có phần mềm dọn rác có sẵn trong máy ko hay phải tải về,neu phải tải về thì nên tải phần mềm nào tốt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.2701,
+         "id": "1009107",
+         "field_search": "question",
+         "question": " Mình chỉ tải mấy ứng dụng nhẹ nhưng vẫn bị đầy dung lượng. Làm thế nào để khắc phục đc nhỉ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.258984,
+         "id": "1020092",
+         "field_search": "question",
+         "question": "qtv giúp em khắc phục lỗi win 10 không mở đc store và các ứng dụng tải về từ store với lại lỗi k thể mở đc profile của tệp vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.247019,
+         "id": "1143511",
+         "field_search": "question",
+         "question": "Muốn cài đặt tin cậy ứng dụng bên ngoài khi tải về máy trên điện thoại realme 2 thì làm như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.227232,
+         "id": "830836",
+         "field_search": "question",
+         "question": "ad cho em hỏi em tải game trên máy tính asus . vì em mới mua máy . máy của nhật . em tải game đột kích về rồi nhưng khi tải xong thì vào k đc . xóa đi tải lại 2 lần mà vẫn vậy ạ . ad cho em hỏi có cách gì khắc phục k ạ , hay là máy k thể tải đc game ram4G bộ nhớ 500G win10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.20447,
+         "id": "839308",
+         "field_search": "question",
+         "question": "Mỉnh đang sử dụng ipad hệ điều hành IOS, mình muốn tải ứng dụng diệt virus với ứng dọn rác nhưnh mình không biết tải cái nào. Các bạn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.17548,
+         "id": "1009105",
+         "field_search": "question",
+         "question": "Mình chỉ tải mấy ứng dụng nhẹ nhưng vẫn bị đầy dung lượng. Làm thế nào để khắc phục đc nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1181,
+         "id": "867690",
+         "field_search": "question",
+         "question": "Dạ mình sử dụng samsung khi mình tải phần mềm viber về thì lại đòi thay đổi vị trí cài đặt mặc định ứng dụng... nên mình k thể tải về để rồi chuyển sang thẻ nhớ được. Ad có thể h.dẫn giúp mình được khôg ạ ? Cám ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.099024,
+         "id": "782371",
+         "field_search": "question",
+         "question": " Mình dùng ipad mini 2 muốn tải zalo nhưng tìm mãi không có. Bạn có thể hướng dẫn mình tải zalo về máy được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.02447,
+         "id": "1142926",
+         "field_search": "question",
+         "question": "Ad cho hỏi máy ip6 32g m mua đc 1 năm rồi dùng thì rất ok mà 2 tháng nay minh chơi ứng dụng liên quân thì chơi đc mưới mấy phút là bị ai ra khỏi ứng dụng muốn vào mà k vào lại thế xin hỏi à m mình có bị vấn đề gì thế nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.967028,
+         "id": "1158829",
+         "field_search": "question",
+         "question": "Máy samsung A30 có tgowif tiết mặc định ko ạ, mình tải về nhưng k cài đc vị trí. Nó cứ dò mà k ra xong nó ghi vt vớ vẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.950512,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.922949,
+         "id": "855363",
+         "field_search": "question",
+         "question": "chào a/c ạ😊em có một em iphone 3, cho em hỏi là:...- máy khôq thể truy cập mạq bằq tiền đc ạ, khi kết nối wifi thì đc ạ...-em khôq thể tạo tài khoản appstore đc...-khôq thể tải game hoặc ứng dụng về máy đc ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.861286,
+         "id": "999998",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi e đang sử dụng điện thoại samsung j5 prime. Khi tải ứng dụng ở CH play thì tải về máy nay em mún tải về thẻ nhớ thì cài đặc sao ạ mong ad giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.838377,
+         "id": "814231",
+         "field_search": "question",
+         "question": "Chào AD, mình muốn tải line về máy tính để có thể sử dụng trong quá tình làm vc, mình đã tải về nhưng ko biết đăng nhập ntn cả. Mình muốn đăng nhập bằng tk mình đang sd ở điện thoại nhưng mình lại ko nhớ tên đăng nhập và mật khẩu , chỉ có số dt thôi. Vậy Ad có thể hướng dẫn mình cách đăng nhập dk. Cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.831318,
+         "id": "876068",
+         "field_search": "question",
+         "question": " Cho em hỏi e vào app store nó lại k hiện thị hình ảnh . Tải ứng dụng xuống cũg k đc vậy    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.797714,
+         "id": "781933",
+         "field_search": "question",
+         "question": " iPhone của em muốn tải ứng dụng về đều bắt buộc phải nhập mật khẩu Apple là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.761433,
+         "id": "1154315",
+         "field_search": "question",
+         "question": "Cho hỏi đt lumia 625 có tải đc ứng dụng nào sử dụng hai tài koan cùng 1 lúc k giống như kiểu ứng dụng paraller space bên aridord k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.641909,
+         "id": "789898",
+         "field_search": "question",
+         "question": " Tại sao khi tải các ứng dụng trên appcola thì nó trả lời là k thể tải vào lúc này, Mình đang sử dụng iPhone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.635895,
+         "id": "814883",
+         "field_search": "question",
+         "question": "khi mình tải bất cứ ứng dụng nào về cũng bắt mình nhập tài khoản và mật khẩu mới được tải, mình mua máy 1phone 4s nhưng ko có biết tk và mật khẩu tải điền vào thì phải lấy lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.633816,
+         "id": "937755",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi sao em ko tải ứng dụng trên appstore dk,cứ load dk 1 tí lại có thông báo ko thể tải về ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6094,
+         "id": "762750",
+         "field_search": "question",
+         "question": "Em đang xài Laptop Dell lúc trước em đã tạo tài khoản mirosoft và tải ứng dụng về máy được,nhưng ngần đây lên cửa hàng tải ứng dụng về thì tài khoản mirosoft lại báo tải về không được,nó cứ báo lỗi. Em cũng thử đăng xuất,đăng nhập lại mà vẫn không được. Ngày giờ kiểm tra thiô bẫn đúng.Xin QTV giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.594898,
+         "id": "1021377",
+         "field_search": "question",
+         "question": "Cho em hỏi là có thể đổi ứng dụng tải về từ bộ nhớ trong sang tải ứng dụng về bộ nhớ ngoài( thẻ sd) được ko ạ em dùng htc 10 evo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.527395,
+         "id": "752208",
+         "field_search": "question",
+         "question": "Cho hỏi cách khắc phục ứng dụng bị mất icon? Khi tải về...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.512331,
+         "id": "883645",
+         "field_search": "question",
+         "question": " Mình mới xoá cydia và bây giờ máy mình ko tải đc bất cứ ứng dụng nào từ appstore là sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.485718,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.394836,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.392376,
+         "id": "1159635",
+         "field_search": "question",
+         "question": "Khi tải file về được. Nhưng khi xuất excel thì báo lỗi. Tải game cũng k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.389065,
+         "id": "784827",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone4s mình muốn hỏi muốn tải ứng dụng diệt virut thì vào đầu đề tài ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.38366,
+         "id": "1017801",
+         "field_search": "question",
+         "question": "Note 4 của e k vào đc messenger. Xóa đi tải lại thì CH Play thông báo là chương trình beta đã hết chỗ. Dù e xóa hết ứng dụng nhưng vẫn k vào đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.367805,
+         "id": "1156916",
+         "field_search": "question",
+         "question": "Chào TGDD:mình đang dùng nokia 3.1cập nhật androi 9(bản cập mới nhât cho nokia),mình có tải nhac trên zingmp3 về để cài làm nhạc chuong cho đt nhưng không cài đặt làm nhạc chuông không được,trước đó bản 8.1 thì cài được.Có phải bản 9.ko hỗ trợ...Vui lòng hướng dẫn cài nhạc chuông tải về từ zmp3.Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.3611,
+         "id": "998960",
+         "field_search": "question",
+         "question": "Galaxy j5 prime không có ứng dụng quản lý tải về hả add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.351383,
+         "id": "1165886",
+         "field_search": "question",
+         "question": "hiện tại mình đang sài samsunga6  ko biết bị gì mà mình tải game  với mấy ứng dụng về máy ko được vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.341778,
+         "id": "783181",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao iphone 5s của em tải karaoke connect thì máy báo là k thể tải ứng dụng lúc này ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

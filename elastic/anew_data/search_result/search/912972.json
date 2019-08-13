@@ -1,0 +1,801 @@
+{
+   "id_query": "912972",
+   "total": 32942,
+   "total_current": 100,
+   "max_score": 75.64105,
+   "origin_question": " Mình dùng iphone,mới tải vài app có vài MB mà trong máy đã sử dụng 2GB,có ai biết vì sao không ạ?? ",
+   "hits": [
+      {
+         "score": 24.361343,
+         "id": "1008689",
+         "field_search": "question",
+         "question": "Cho Em hỏi chút là Oppo neo 9 Em có tải vài app chụp và chỉnh sửa hình ! Nhưng khi chụp và chỉnh xong đã lưu hoàn tất rồi nhưng sao không có hình trong thư viện ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.31748,
+         "id": "1013398",
+         "field_search": "question",
+         "question": "Em có mua điện thoại Wiko Sunset 2 Ram 512MB sau 1 năm sử dụng không biết vì lý do gì mà bây giờ chỉ còn 463,54 MB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.102615,
+         "id": "1155302",
+         "field_search": "question",
+         "question": "Cho tôi vài cái ứng dụng tải app giống CH Play đi mấy ông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.10031,
+         "id": "741949",
+         "field_search": "question",
+         "question": " iPhone 6 của mình không sử dụng mà bị nóng máy và bị treo đèn pin có ai biết nguyên nhân gì không giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.051252,
+         "id": "793375",
+         "field_search": "question",
+         "question": " Cho mình hỏi với.mình đang dùng iPhone 5 mà khi tải ứng dụng nó chỉ quay tròn mà không chạy,ai biết chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.637424,
+         "id": "999535",
+         "field_search": "question",
+         "question": "máy em đang nghe nhạc khi chuyển bài thì tự dưng không nghe được báo lỗi liên tục mà toàn bài trong thẻ nhớ vào file trong thẻ nhớ để nghe thì nó bảo không có ứng dụng thực hiện trước đó em có xóa 1 vài ứng dụng nên không biết có phải vì thế nên lỗi không giờ không nhớ mấy ứng dụng đó nữa em đang dùng samsung galaxy j1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.505678,
+         "id": "767455",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: iPhone 5s sao nhanh hết pin, mình chỉ lướt Facebook mà máy được khoảng 15-20 phút là đã thấy nóng, mặc dù không có ứng dụng chạy ẩn, dịch vụ định vị và các ứng dụng không liên quan đã tắt hết. máy mình mới mua ở TGDD được vài ngày.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.494202,
+         "id": "1158919",
+         "field_search": "question",
+         "question": "mình mới dùng máy mi S2 lite vài ngày không biết ấn vào đâu giờ không gửi được tin nhắn tới 191  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.40177,
+         "id": "834017",
+         "field_search": "question",
+         "question": "em đang sử dụng ipad mini . em muốn hỏi tại sao máy của em lại ko hiện các ứng dụng mà em đã tải về trên app store ??? tải về rồi nhưng lại ko tìm thấy trong máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.374786,
+         "id": "996057",
+         "field_search": "question",
+         "question": "E xai cái Q edgy ko hiểu sao xài mới co vài phút là máy nóng hổi ,mất cảm ứng rọi lát sau lai sử dụng được ad có thể cho e biết tại sao lại vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.321266,
+         "id": "1165059",
+         "field_search": "question",
+         "question": "mình đang dùng máy vivo y81 có dùng thẻ nhớ 32gb mà sao mình tải ứng dụng toàn về máy mình muốn chuyển sang thẻ nhớ cũng k được mỗi lần tải app mới đều bắt mình xóa dữ liệu cũ rất quan trong làm mình rất khó chịu ad có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.22082,
+         "id": "1149644",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại toàn bộ số điện thoại mà em đã xoá trên Iphone, nhưng không biết rằng một vài số trong danh bạ chưa cập nhật icloud thì có khôi phục lại được không ạ @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.167303,
+         "id": "1012643",
+         "field_search": "question",
+         "question": "em có mua vài sản phẩm được bảo hành 1 năm nhưng hiện nay đã bị trục trặc, vậy liệu em có thể đem đến cửa hàng đổi mới được không ạ. thiết bị của em có 1 vài trầy xướt do sử dụng, rơi rớt thì vẫn được bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.830877,
+         "id": "751559",
+         "field_search": "question",
+         "question": "Mua máy mới thì mới được tặng quà hả shop? Mình mua cái iPad hàng đã qua sử dụng cũng không thấy được tặng gì. Vài ngày sau đổi lại iPhone 6s cũng không nhận được gì. Sao thấy trên TGDD nói tặng quà nhiu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.785748,
+         "id": "741947",
+         "field_search": "question",
+         "question": " iPhone 6 của mình không sử dụng gì mà bị nóng và bị treo đèn pin có ai biết nguyên nhân gì không? Giúp mình với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.702047,
+         "id": "836348",
+         "field_search": "question",
+         "question": " Máy em bị tình trạng không đăng nhập facetime được và báo lỗi sau vài giây ai biết chỉ em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.648241,
+         "id": "744951",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao cái iPhone 4s mình nó hiện lên cái nhiệt kế phần dưới ghi là bạn cần làm mát trước khi có thể sử dụng là sao ... Các bạn ai biết giúp mình với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.565104,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.39346,
+         "id": "1020667",
+         "field_search": "question",
+         "question": " Ad ơi cho hỏi wifi ổn định nhưng vài CH play tải app thì không chạy được ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.32328,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.171848,
+         "id": "1159000",
+         "field_search": "question",
+         "question": "Cho e hỏi làm cách nào để sử dụng id khác cho iphone mà trong khi máy có thể sử dụng được 3 id mà e dùng hết mà muốn dùng id khác phãi làm sao dùng được id khác ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.048758,
+         "id": "819300",
+         "field_search": "question",
+         "question": " máy của mình sao không tải ảnh lên facebook được. Có ai biết giúp mình với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.999983,
+         "id": "1013602",
+         "field_search": "question",
+         "question": "Mình đang sử dụng đt oppo joy 3 ( màu trắng) máy vẫn còn chạy tốt nhưng do bộ nhớ trong có 2GB yeu quá mình sử dụng không được. Mình muốn đổi máy khác có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.980694,
+         "id": "802474",
+         "field_search": "question",
+         "question": " Máy của em là máy uimi A3 e muốn xóa một vài sđt trong danh bạ mà ko biết làm ntn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.797373,
+         "id": "897255",
+         "field_search": "question",
+         "question": "Trước đây mình tải app Snow về dùng nhưng khi sử dụng sticker thì cái sticker nó lại hiện 1 nửa hình ở góc trái điện thoại. Vì ức chế nên mình đã xoá app =))Hôm nay, mình lại tải đi tải lại mấy lần cái app này và trường hợp lần này còn ghê gớm hơn. Khi mình bấm vào sticker, thậm chí nó còn tự động bị tắt ứng dụng và trở lại màn hình chính. Mình lên mạng tìm về lỗi snow và thấy một bạn có trường hợp giống mình trước đây. Bên dưới phần cmt có 1 bạn nói khởi động lại máy. Mình làm theo và khi quay lại vẫn chẳng thay đổi gì cả. Nên có ai biết cách khắc phục thì chỉ cho mình, hoặc nêu nguyên nhân để mình xem xét và không ngoan cố tải lại cái app này nữa (mình dùng iphone 4 nhé)Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.739851,
+         "id": "874804",
+         "field_search": "question",
+         "question": "Anh chị ơi máy iphone 5s của e đang xài phần mềm ios 9.3.4 e không biết tại sao nó dowload game từ app store xuống chậm lắm. Lúc mới mua về em tải asphlat 8 mất khoảng vài phút mà giờ e load lại đợi mấy giờ đồng hồ chưa xong nữa. Vậy là máy bị virus hả anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.73057,
+         "id": "830527",
+         "field_search": "question",
+         "question": "admin cho mình hỏi, đt iphone của mình báo tài khoản icloud đã đầy, mình có đăng nhập và trang web icloud, mình muốn xem hiện tại icloud của mình đang sao lưu những gì mà bị đày, vì máy mình chỉ cài vài chương trình cơ bản, hình ảnh và video thì mình tải hết lên phần mềm drop rồiThanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.583124,
+         "id": "998417",
+         "field_search": "question",
+         "question": "Mình có nên tải app diệt virus cho iPhone 6 ko, vì mình sợ có máy chậm hay j đó!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48567,
+         "id": "1164045",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em mới mua điện thoại samsung A10 mà không biết sao đèn pin bật nó không sáng mãi mà cỡ vài phút là nó tắt, có phải nó bị lỗi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.421839,
+         "id": "1018127",
+         "field_search": "question",
+         "question": "Máy t đâng dùng là samsung galaxy core prime. T thấy 1 vài loại máy samsung khác có phần theme trong cài đặt. Vậy sao máy t ko có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.360971,
+         "id": "1162507",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có tải app picsart về máy tính win 10 pro nhưng khi bấm vào được khoản 1 giây thì nó out ra. mình đã thử xóa rồi tải lại nhưng vẫn không được nó cứ bị out ra không lý do. có ai biết nó bị làm sao không chỉ giúp mình vói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.354984,
+         "id": "1000647",
+         "field_search": "question",
+         "question": "Mình có mua 1 laptop acer i5 của thế giới di dộng, sử dụng cũng được vài ba năm rồi. Hiện mình muốn mua 1 laptop mới cho nên mình băn khoăn không biết bên TGDĐ có thu mua lại laptop cũ hay không? Mong nhận được phản hồi sớm ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.20968,
+         "id": "806676",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi có ai biết ứng dụng nào để tải video từ trang web về cho iPhone không chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.208893,
+         "id": "1160606",
+         "field_search": "question",
+         "question": "a ơi cho e hỏi e mới mua máy huawei y9 đc vài ngày khi e tải các app trên ch play bị tình trạng này ạ nó cứ load vậy hoài ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.10865,
+         "id": "1160008",
+         "field_search": "question",
+         "question": "Máy e là iphone 5s chạy ios 11.4.1 phiên bản 16GB,gần đây e có kiểm tra trong phần dung lượng iphone thì thấy phần “khác” chiếm tới 6,88GB mà e có tham khảo trên mạng thì thấy thường phần này chỉ chiếm vài trăm mb.Cho e hỏi có cách nào để xoá bớt dung lượng mà phần này sử dụng mà không cần resert lại máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.104023,
+         "id": "1150632",
+         "field_search": "question",
+         "question": "Cho hỏi ĐT ASUS của tôi cách đây vài tháng sau khi cập nhật hệ thống thì các cuộc gọi đến chỉ hiện thị tên mà không hiển thị số điện thoại, vì có nhưng tên tôi lưu nhiều số (ví dụ 1 công ty khách hàng tôi lưu nhiều người) nên nhìn không biết là ai gọi. Có ai biết cách khắc phục không ạ, xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.074017,
+         "id": "1160533",
+         "field_search": "question",
+         "question": "Mình xài j7 prime nhưng mà 1 vài lần để lâu nó ko tắt. Ai pít giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.037588,
+         "id": "753746",
+         "field_search": "question",
+         "question": " Tại sao có số MB trong nhắc nhở và lịch ạ , làm sao để giảm số MB ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.008183,
+         "id": "872337",
+         "field_search": "question",
+         "question": "Cho hỏi con có 1 tài khoản iCloud nhưng nó đã bị mất rồi mà trong tàu khoản con có mua 1 app tính phí, giờ con tạo tài khoản iCloud mới, ứng dụng tính phí vẫn còn trong màn hình chính của con. Con muốn đưa app tính phí đó vào tài khoản mới mà không phải tốn tiền nếu sau này cần sử dụng! Có cách nào giúp không ạ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.001554,
+         "id": "915222",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi mình dùng iPhone 6 bản quốc tế nhưng sao mình vào AppStore k thể nào tải đc Nhaccuatui mình đã tìm nhưng k thấy trong khi đó ơn máy e mình cũng iPhone 6 lại có , như vậy là sao ai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.944767,
+         "id": "1149676",
+         "field_search": "question",
+         "question": "Chị em hỏi sao điện thoại em mới  về được mấy bữa tải được vài game rồi lại đầy máy có cach nào giúp em ko ạ em đang dùng Oppo A3S xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.90397,
+         "id": "1000956",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua máy Nokia 5 mà mang về dùng mới vài tiếng thấy ko thích thì giờ mình mún đổi máy ss j7 prô có mất phí ko .nếu mất thì bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87485,
+         "id": "831176",
+         "field_search": "question",
+         "question": "Mình có một thắc mắc là khi sử dụng laptop có hệ điều hành Windows 8 thì khi tải các ứng dụng từ cửa hàng lại không biết nó được lưu ở đâu, ai biết ở đâu chỉ mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.854298,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.847631,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.810278,
+         "id": "996863",
+         "field_search": "question",
+         "question": "e dùng ip 6 plus. 64gb. máy e bị full bộ nhớ trong khi máy e có 500 ảnh và quay video tự quay khoảng 2 tiếng. k có game và chỉ có vài ứng dụng nhẹ. các bác biết tại sao máy e full bộ nhớ k ạ. chỉ e với. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.79433,
+         "id": "867897",
+         "field_search": "question",
+         "question": "ad cho mình hỏi: mình dùng Microsoft Lumia 540 1 vài ngày trước trong messenger mình thấy có mục Video call.Hôm này mình bật lại sao không thấy nữa vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.787605,
+         "id": "915425",
+         "field_search": "question",
+         "question": " Sao không thể viết nhận xét trên app store trong khi đó đã tải xong và cài đặt ứng dụng thành công mà vẫn bị như vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.786865,
+         "id": "1016856",
+         "field_search": "question",
+         "question": "cho em hỏi e đag dùng s6 edge, mạc dù có tắt hết kết nối và đã tắt 1 vài ứng dụng chạy ngầm k dùng đến mà pin vẫn sụt nhanh lắm ạ, e sạc đầy 100% lúc 2h mà đến 4h đã mất hơn 10% pin mà k sử dụng đến máy, chuyển sang chế độ siêu tiết kiệm pin nhưng cũng sụt giảm pin trông thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.779207,
+         "id": "997069",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao oppo neo 7 của em không hề sử dụng mà bị rớt pin từ 64 xuống 16% vậy ạ ? Dù em đã khởi động lại vài lần nhưng vẫn bị như vậy với mất sóng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.767344,
+         "id": "913662",
+         "field_search": "question",
+         "question": "Mình dung galaxy tab 4. Tải ứng dụng facebook trên chplay dùng, nhưng vài ngày vào lại phải nhập lại mật khẩu để đăng nhập lại là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.74761,
+         "id": "1010975",
+         "field_search": "question",
+         "question": "e xài gionee j103 pro sao mà không di chuyển được các ứng dụng trong máy và không nhận được ảnh trong thư viện .... đã thử khôi phục máy lại nó trở lại bình thường và chỉ sau vài giờ nó lại bị giống v . có thể hướng dẫn e cách khắc phục được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70083,
+         "id": "1152814",
+         "field_search": "question",
+         "question": "Em mới tải 1 số app trên CH Play về máy nhưng khi mở app để sử dụng thì máy báo là ứng dụng không phản hồi. Vậy thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.663824,
+         "id": "951450",
+         "field_search": "question",
+         "question": "Tôi có đang dùng con ip 5s 32g hôm nâng cấp lên ios 10 dùng được khoảng 1 tuần r bị treo táo và đã restore lại r nhưng sao nó vài hôm lại bị treo táo click home+power vài lần thì mới mở lên được ạ v có cách nào khắc phục k ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.570623,
+         "id": "747942",
+         "field_search": "question",
+         "question": "Ad với mọi người cho em hỏi 1 tí ạ. Không biết có ai từng xem Kill Me Heal Me chưa, em mới xem xong và để ý thấy dàn laptop Samsung sử dụng trong phim vừa mỏng vừa đẹp, có vẻ hợp cho sinh viên và dân văn phòng. Em quên chụp ảnh lại rồi mà cũng không biết tìm tên máy ở đâu. Anh chị nào nếu đã xem qua và để ý biết tên máy thì cho em xin với ạ, vì em cũng đang định mua 1 con mà nhìn nó thì vừa mắt quá :DEm cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.539059,
+         "id": "1135486",
+         "field_search": "question",
+         "question": "Mình đang dùng máy Xiaomi Mi A2 mới mua khoảng 2 tháng pin 3010 mà sao mình sài thấy nhanh hết pin quá vậy có cách nào khắc phục không? Dùng khoảng vài tiếng là hết pin ,xem ytb 1h tốn khoảng 10% pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.531635,
+         "id": "871331",
+         "field_search": "question",
+         "question": "ad cho em hỏi là cứ mỗi lần đăng nhập icloud hay app thì \" không thể xác minh \" -------- \" Đã có lỗi khi kết nối vối máy chủ ID Apple \" chỉ giúp em vì mới biết sử dụng IP mặc dù e đã lên yahoo hay apple xác minh nhưng vẫn khộng hiệu quả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.520184,
+         "id": "1149484",
+         "field_search": "question",
+         "question": "Tôi dùng Samsung A7 mà vài ngày  23 ngày  máy đang dùng thì bị sập nguồn,tự khởi động lại.Muốn hỏi TGDD cách sử lý?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.515173,
+         "id": "877867",
+         "field_search": "question",
+         "question": "Tôi đã tải về ứng dụng typiora để thiết kế cho mình một bàn phím đẹp nhưng thiết kế xong thì không biết làm thế nào để sử dụng nó ad chỉ với máy toi dùng là iPhone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.50714,
+         "id": "1009437",
+         "field_search": "question",
+         "question": " Tại sao em chuyển có 1 ứng dụng hơn 25,00 mb mà nó ghi 111 mb vậy ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.486765,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.460424,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.429827,
+         "id": "858047",
+         "field_search": "question",
+         "question": "Em sài đt samsung j5 đời cũ. Bộ sưu tập e cứ tự động tải hình xung là bị sao v ạ. Hình fb. Hinh đã xóa tu lâu nay lại có.. xoa rôi vài giờ sai lại co. Ai giup em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.428528,
+         "id": "1010028",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại Sony xa dual f31116 - Mình dùng hết bộ nhớ trong giờ bỏ thẻ nhớ vào làm sao để chọn thẻ nhớ làm mặc định bạn :) vì khi tải app nó thường hiện lên đã hết dung lượng :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.428127,
+         "id": "1152585",
+         "field_search": "question",
+         "question": "Hi E mới mua điện thoại xs max 64gb mới sử ụng vài ngày e mới chơi game dc vài phút là điện thoại nó nóng lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.337671,
+         "id": "816424",
+         "field_search": "question",
+         "question": " mình sử dụng Viber của iPhone người ta gọi đến mà sao không có chuông bạn biết hướng dẫn mình với cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.333055,
+         "id": "1020874",
+         "field_search": "question",
+         "question": "E đang sử dụng ip6.Vài lần trước em có làm rơi máy vài lần r máy bắt đầu nháy màn hình liên tục. Lúc trước thì ít nhưng noa ngày càng nặng hơn. Vậy cho em hỏi máy bị sao và chi phí sưa thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.292513,
+         "id": "1164226",
+         "field_search": "question",
+         "question": "Vivo Y91 của em còn trống tận mấy chục GB mà tải game 1-2 GB thì tải vừa lâu mà tải xong lại không chơi đc, máy thì không hiểu vì lí do gì mà chậm cực kì, ứng dụng thì không nhiều với 2 game 1 app ngoài ra toàn app cơ bản có sẵn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.247656,
+         "id": "1142182",
+         "field_search": "question",
+         "question": "Do máy hay thẻ microsdMình dùng Nokia 5, vừa rồi máy k tải/update gì được hết (app nhỏ thì được) toàn bị lỗi đang chờ Wifi.:v Mình reset to default xong thì cái thẻ đầu tiên bị lỗi (command partition disk failed ) mua thẻ mới, làm bộ nhớ trong nhưng khi chuyển App qua thì không đủ dung lượng :)  Ai biết bị gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.240057,
+         "id": "896427",
+         "field_search": "question",
+         "question": " cho em hỏi cách sử dụng chuột không dây genius...em mới mua máy dell mà không biết dùng thế nào..em cảm ơn ạ!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.225433,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.107727,
+         "id": "1158635",
+         "field_search": "question",
+         "question": "Mình dùng các ứng dụng zalo viberKhi xem ảnh hoặc video thì nó tải về máyLàm sao có thể xem mà ko phải tải về lưu trong máy. Mình dùng sam sung notes 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045977,
+         "id": "781886",
+         "field_search": "question",
+         "question": "Em đang xài iPhone 5c ạ, có nhiều ứng dụng đã tải được về máy nhưng không hiểu tại sao khi click vào ứng dụng thì nó out ra màng hình menu. Ai giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.02246,
+         "id": "1154827",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại Nokia 6.1 Plus nhưng có một vài số điện thoại có trong danh bạ nhưng khi gọi đến mình không hiện tên. Nhờ bạn tư vấn cách khắc phụp dùm nhé. Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.013964,
+         "id": "922132",
+         "field_search": "question",
+         "question": "Cho em hỏi sau khi chạy lại chương trình thì máy em mất cydia,có ai biết vì sao không ạ?làm thế nào cài đặt lại?(em dùng ip4s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.999063,
+         "id": "1134219",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy moto g5s plus có chống bụi không. Mình mới sử dụng chưa được 1 tháng camera sau đã có bụi vào trong rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.994019,
+         "id": "767905",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5s đã tạo id apple bây giờ facetime phải sử dụng mail mà không sử dụng số điện thoại phải chỉnh thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.978722,
+         "id": "1158020",
+         "field_search": "question",
+         "question": "Mình mua điện thoại huawei Y9 2019 vài ngày trước tết tại thế giới di động  và đang trong thời gian bảo hành. Tai nghe có sẵn. Nhưng mới dùng được 1 thời gian đã hỏng. Lúc nghe được lúc không. Vậy mình có thể đổi lại tai nghe không ạ.  Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.918745,
+         "id": "1015251",
+         "field_search": "question",
+         "question": "Máy e đang dùng IPad mini 2Tất cả ứng dụng của e đều không được phép truy cập vào quyền riêng tưVí dụ: Ứng dụng Uber cần truy cập vị trí nhưng vào cài đawtj chỉ có quyền làm mới trong nền thôiMột vài ứng dụng sử dụng lâu hơn như fb thì có quyền thông báo, còn camera, mic, thư viện đều không có ứng dụng nào được phép truy cập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.814495,
+         "id": "1007060",
+         "field_search": "question",
+         "question": "Từ lúc e lắp thẻ nhớ vào máy là máy e bị hay khởi động lại, rồi 2 ứng dụng messenger và VSCO cứ bị như kia khi mở màn hình lên để 1 vài giây thì mới hiện hình lên bình thường, có khi còn mất luôn ở màn hình chính, có lúc thẻ nhớ còn bị tháo đột ngột xong vài giây sau là lại đã lắp thẻ nhớVậy máy e bị làm sao ạ? e dùng máy samsung galaxy j2 prime ạ, e mới mua máy được mấy ngày thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.808012,
+         "id": "1150237",
+         "field_search": "question",
+         "question": "Em dùng thẻ nhớ 32G cho điện thoại sasung j2 nhưng không biết cài đặt thế nào để sử dụng thẻ nhớ. Em đã định dạng thẻ nhớ nhưng vẫn không chuyển file từ máy sang được. Máy đã gần dùng hết 8G nên không tải được một số ứng dụng trên CHplay. Vậy em phải làm thế nào để dữ liệu thẻ nhớ chuyển vào bộ nhớ trong để có thể sử dụng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.803106,
+         "id": "1143590",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình đăng bài có kèm vài dòng cap nhưng chỉ đăng được ảnh còn dòng chữ bị mất, khi vào chỉnh sửa thì nó bảo là bị lỗi. Dù đã xoá ứng dụng rồi tải lại nhưng nó vẫn bị như vậy, không biết làm thế nào để khắc phục? Và sẵn tiện cho mình hỏi luôn là ins của mình tự động đi follow những người khác mặc dù mình không biết họ là ai, nhưng mà ngày nào cũng tự động follow bắt mình xoá muốn mệt người luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.802647,
+         "id": "777825",
+         "field_search": "question",
+         "question": "Có ai dùng iPhone 6s cho mình biết nó sạc bao lâu thời gian để đầy 100% pin vậy ạ...máy mình sạc hơn 3 tiếng mới đầy,mình lo lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798637,
+         "id": "922353",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi,Vấn đề 1: mình mới mua iphone 7 ở thế giới di động đường Nguyễn Thái Sơn, sao mình vào mục điều khiển công tắc nó bị ẩn như hình?Vấn đề 2: Mình vào mục cài đặt-->cài đặt chung--> bàn phím-->thay đổi văn bản: mình thấy có thông tin rồi trong khi mình mua máy mới nhưng lại có người đã cài đặt, vậy máy đã có ai sử dụng trước rồi hay sao. Mình rất tin tưởng vào thế giới di động vì vậy mình cần được giải thích rõ ràng.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76498,
+         "id": "758356",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, mình mới mua Sony C5 ultra được 1 tuần, trong quá trình sử dụng mình cảm thấy cảm ứng của máy không nhạy lắm đôi khi phải chạm mạnh thì mới được và đôi khi màn hình bị đơ phải vuốt hay chạm vài lần. Như vậy có phải là máy có vấn đề về lỗi kỹ thuật không hay đó là lỗi chung của dòng máy này ạ. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.705116,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6825,
+         "id": "1165105",
+         "field_search": "question",
+         "question": "mình vừa mua máy iphone x của hãng mới được lần sạc đầu tiên đầy pin mà máy không dùng bị tụt % pin không biết có sao không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.676409,
+         "id": "1165478",
+         "field_search": "question",
+         "question": "Em sài j5. Máy tải vài ứng dụng là đầy bộ nhớ. Có cách nào lm cho bộ nhớ lớn hơn hay giải phóng dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.62596,
+         "id": "772081",
+         "field_search": "question",
+         "question": "Chào quản trị viên: Mình mới mua iPad 3 mini được một tuần chưa sử dụng nhiều mới tải vài game nhẹ về cho trẻ chơi, giờ màn hình tối om không khởi động được. Nhờ quản trị viên tư vấn cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.614428,
+         "id": "783958",
+         "field_search": "question",
+         "question": " cho hỏi, khi laptop bi vô nước mà chỉ vài giọt nước thì có sao không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.610723,
+         "id": "1146131",
+         "field_search": "question",
+         "question": "Mình đang dùng Samsung Note9. Ad cho mình hỏi vì sao máy mình không có ứng dụng samsung pay ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.516914,
+         "id": "759467",
+         "field_search": "question",
+         "question": " iPhone 5s đã qua sử dụng có dùng cảm biến vân tay được không vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.513798,
+         "id": "1000755",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình ip6s plus. Mình để máy nơi bàn chẳng dùng đến nhìn lại thấy màn hình sáng,lúc đó phải bấm nút nguồn mới tắt. Mà mình cũng k bật chế độ đưa iphone lên là sáng. Thế mà bị từ lúc mua đến giờ bị vài lần rồi đấy. K biết máy mình có bị làm sao ko nữa. Đang lo lắng. Mong ad phản hồi. Thank's!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.487108,
+         "id": "891166",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy iphon 4 của mình cứ cập nhập phiên bản mới lại hiện dịa chỉ của cửa hàng mình mua,trong khi mình tải các ưngs dụng về từ app thì dùng địa chỉ google của mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.484528,
+         "id": "997579",
+         "field_search": "question",
+         "question": "cho mình hỏi: máy mình đang dùng là iphone 5 (A1429) ios 9.3.3. đã đổi sim 4G nhưng sao không sử dụng được 4G mà chỉ nhận sóng 3G.( đã bât LTE). xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.462704,
+         "id": "931763",
+         "field_search": "question",
+         "question": "Chuyện là mình có đứa bạn, cậu ấy dùng iPhone 5, ios mới nhất - cho tới hôm qua. Cậu ấy mở điện thoại lên thì thấy ngay lock screen bắt phải đăng nhập iCloud, mà cái đt này bạn ấy được cho lại nên chả biết acc là gì... Bạn nói bạn đó cũng thử vài tutorial trên mạng rồi, nhưng mà không được. Không biết các bác có cao kiến gì không ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.456905,
+         "id": "860489",
+         "field_search": "question",
+         "question": "Cho mình hỏi một vài thứ. Hôm qua mình mới update PCs từ win 8.1 lên win 10. Cơ mà sao mình vào Win Store tải ứng dụng thì không được và nó chỉ hiện cái hình như bên dưới. Mong nhận được hồi âm sớm nhất. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.425129,
+         "id": "915577",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng ip6s ban 10.1.1 mình tai facbook tren app họ ghi ( bạn phải cập nhập phiên bản mới nhất của ios mới sử dụng được app này ) là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.411762,
+         "id": "1165905",
+         "field_search": "question",
+         "question": "Mình dùng samsung j3 pro, mình đã chuyển 1 ứng dụng sang thẻ sd, nhưng dung lượng trống của máy không thay đổi và trong phần thẻ sd không có, vì sao vậy? Mong được giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

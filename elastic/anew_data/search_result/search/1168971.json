@@ -1,0 +1,801 @@
+{
+   "id_query": "1168971",
+   "total": 31508,
+   "total_current": 100,
+   "max_score": 74.31677,
+   "origin_question": "Mình dùng  ip5 thì lúc tải b612 hoặc snow thì nó hiện lên ứng dụng không tương thích là sao ạ? ",
+   "hits": [
+      {
+         "score": 30.182755,
+         "id": "1149892",
+         "field_search": "question",
+         "question": "em dùng f1s sao lại không tải được youtube vậy ạ ? nó để là ứng dụng này không tương thích với thiết bị của bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.438662,
+         "id": "1158418",
+         "field_search": "question",
+         "question": "Chào ad, mình lỡ tay xoá ứng dụng Facebook, giờ muốn tải lại trên CH PLAY nhưng mà không thể tải lại được, nó cứ hiện ra là ứng dụng không tương thích với thiết bị (mình dùng Oppo a3s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.556938,
+         "id": "814295",
+         "field_search": "question",
+         "question": "Tại sao tải ứng dụng cho ip5, nó cứ ghi như thế này thì làm sao anh.VD : \" không thể tải Zalo vào lúc này \" là sao anh , tải hoài mà vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.892897,
+         "id": "797991",
+         "field_search": "question",
+         "question": "Cho mình hỏi là khi mình download những ứng dụng trên safari như vshare hay hipstore thì tại sao nó lại hiện lên là không thể tải ứng dụng lúc này dù mình đã đổi DNS wifi nhưng nó vẫn thế??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.863146,
+         "id": "799383",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao mình dùng ip4s lúc đầu tải app về thì bỏ, hôm qua mình reset máy thì vào app store tải ứng dụng bấm nhận nó cứ load vòng tròn rồi ra lại chữ nhận ban đầu là lỗi không vậy ạ. Dùng wifi hay 3G cũng bị tương tự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02522,
+         "id": "752536",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: máy tính asus của mình vừa nâng cấp lên win 10 (bđ là 8.1) sau đó thấy không thích nên hạ cấp xuống win 8.1, nhưng asus smart gesture không tương thích nữa, mình đã gỡ bỏ rồi, giờ muốn tải lại ứng dụng đó trên win 8.1 thì làm sao? ý mình là tự tải đc không và tải phiên bản nào thì đc. cảm ơn đã giúp đỡ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.640406,
+         "id": "1169131",
+         "field_search": "question",
+         "question": "Mình sử dụng Iphone 5 (v.10.3.3) khi sử dụng các app để chụp ảnh như B612, SNOW, FACEU đều bị chậm khi mở ứng dụng (hiện màn hình đen) phải đợi một lúc khoảng 30s đến 1p thì mới hiện ra để chụp. Ai giải đáp giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.356493,
+         "id": "1155426",
+         "field_search": "question",
+         "question": "Mình dùng oppo f1s mà sao ko mở được you tube. Máy báo về cho mình là,ứng dụng không còn tương thích với thiết bị của bạn, là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.261827,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.225391,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.946812,
+         "id": "875812",
+         "field_search": "question",
+         "question": "Tớ đang đung iphone 4 , lúc tớ tải ứng dụng từ AppStore không tải được . Nó luôn hiện ra \" không thể tải ứng dụng vào lúc này \" , mình thử mọi cách hướng dẫn trên mạng đeu không được . Vậy thì phải làm sao an ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.450695,
+         "id": "1000444",
+         "field_search": "question",
+         "question": "mình đang có ý định mua Asus Zenfone Live thì cho mình hỏi khi down các ứng dụng chụp ảnh như B612 hay Snow thì chất lượng camera sẽ giống như camera thường hay sẽ khác đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.340708,
+         "id": "789898",
+         "field_search": "question",
+         "question": " Tại sao khi tải các ứng dụng trên appcola thì nó trả lời là k thể tải vào lúc này, Mình đang sử dụng iPhone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.155798,
+         "id": "1023088",
+         "field_search": "question",
+         "question": "Không thể sạc thiết bị. Đảm bảo bạn đang sử dụng pin và bộ sạc tương thích của samsung. Mình thử pin sang máy khác thì nó cũng hiện thế ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.130037,
+         "id": "1020526",
+         "field_search": "question",
+         "question": "Mình dùng ip5. Tại sao khi vô appstore tải ứng dụng thì tốc độ tải rất chậm dường như là ko chạy% trong khi đó mình vô ytb xem phim vẫn bt. Thế là sao ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.028017,
+         "id": "1158635",
+         "field_search": "question",
+         "question": "Mình dùng các ứng dụng zalo viberKhi xem ảnh hoặc video thì nó tải về máyLàm sao có thể xem mà ko phải tải về lưu trong máy. Mình dùng sam sung notes 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.24998,
+         "id": "993514",
+         "field_search": "question",
+         "question": "ID ơi cho mình hỏi mình đang xài iphone6 nhưng tại sao mình vô appstore tải ứng dụng không được vậy ạ. Mình tải tất cả ứng dụng như: facebook, messenger, snow,... mình bấm vô tải cái nó xoay để tải về rồi sao đó ngưng trở lại như củ không xoay và cho tải nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.890285,
+         "id": "786249",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tải 1 ứng dụng hay trò chơi nào đó trong appstore về máy thì vào phần nhận-> cài đặt load một lúc thì yêu cầu dùng ID Apple hiện có hoặc ID mới. Mình đăng nhập ID hiện có ko đc còn tạo cái mới thì nó cứ có phần Mã quà tặng Itunes và mã thư tín nhưng mình ko biết mã nó là gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.79809,
+         "id": "1141951",
+         "field_search": "question",
+         "question": "Sau khi tôi chạy lại chương trình của điện thoại , thì khi tải Instagram thì lại là thiểt bị không tương thích , vậy giờ tôi phải làm sao để tải app về máy thế shop ? ( Tôi dùng dòng Android )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.755692,
+         "id": "889172",
+         "field_search": "question",
+         "question": " sao em tải ứng dụng miễn phí, mà moi lần tải thì nó hiện như vầy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.525078,
+         "id": "766129",
+         "field_search": "question",
+         "question": "Tôi muốn tải ứng dụng của Hàn Quốc nhưng không thể tải được vì không tương thích với Việt Nam. Trong vpn one click lại không có quốc gia Hàn Quốc vậy tôi phải làm sao để tải được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.49753,
+         "id": "802900",
+         "field_search": "question",
+         "question": "Em đang dùng ip5, đang chạy ứng dụng ấn nút home để thoát ra thì không thoát được, khi ấn khoá màn hình thì không bật lên được nữa. Điện thoại của em như thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.422789,
+         "id": "794183",
+         "field_search": "question",
+         "question": " tại sao ỊPHONE 4s k tải được trò FIFA 16 Ultimate Team , nó báo là  App này không tương thích với thiết bị của bạn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.185427,
+         "id": "1007891",
+         "field_search": "question",
+         "question": "Iphone 4s tải ứng dụng trên google về lúc tải xong đang cài đặt . Máy lại báo là không thể tải ứng dụng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.936356,
+         "id": "1133581",
+         "field_search": "question",
+         "question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.913721,
+         "id": "1146391",
+         "field_search": "question",
+         "question": "Sao trong app strore của iphone 6 nó ghi có hỗ trợ cho iphone 6 mà lúc bấm cài đặt thì nó ghi pubg mobi ko tương thích thiết bị này là sao vậy ios 0.10 mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.879818,
+         "id": "766473",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ? Em đang dùng iPhone 5s trước đây em có mượn nick app của bạn để tải game và ứng dụng giờ em thay tài khoản app khi cập nhật ứng dụng thì nó lại hiện tài khoản cũ lúc ban đau tải game chứ không hiện tài khoản hiện tại em không thể cập nhật lên phiên bản cho các ứng dụng được mong anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.488008,
+         "id": "783181",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao iphone 5s của em tải karaoke connect thì máy báo là k thể tải ứng dụng lúc này ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.435438,
+         "id": "1013967",
+         "field_search": "question",
+         "question": "sao mình đăng nhập vào snow xong thì nó tắt k vào được nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.415874,
+         "id": "1153968",
+         "field_search": "question",
+         "question": "Điện thoại mình OPPO CPH 1821 không thể tải liên quân Ứng dụng báo ; sản phẩm không tương thích với điện thoại của bạn Sản phẩm không có sẵn ở quốc gia của bạn Cho em hỏi là sau a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.394255,
+         "id": "754066",
+         "field_search": "question",
+         "question": "Mình dùng Galaxy J2, mình chuyển ứng dụng mp3Zing sang thẻ nhớ rồi, nhưng sau đó tải nhạc thì sao nhạc đó lại lưu vào bộ nhớ máy chứ k lưu trên thẻ? tương tự B612 mình cũng chuyển sang thẻ nhớ rồi nhưng hình chụp xong cũng lưu trên máy?Bạn chỉ mình cách cài đặt để mọi dữ liệu của ứng dụng đều lưu trên thẻ với, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.330853,
+         "id": "999311",
+         "field_search": "question",
+         "question": "Mình muốn treo 1 ứng dụng hoặc 1 game trên oppo neo9 khi tắt màn hình ứng dụng hoặc game đó k bị đóng mở lên nó vẫn hoạt động thì nên làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.312101,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.279684,
+         "id": "920631",
+         "field_search": "question",
+         "question": " tại sao ip5 của em khi nâng cấp lên ios 10 thì vào phần giới thiệu nó lại báo là mạng không khả dụng là sao vay ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.2432,
+         "id": "1004625",
+         "field_search": "question",
+         "question": " SNOW ấy saoo mình bấm vào những cái hình ví dụ như là đầu to thì nó lại không hiện ra vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.166658,
+         "id": "1152373",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để cập nhật được YouTube trên oppo neo 9 ạ. Em vào thì nó bắt em cập nhật. Em cập nhật thì nó hiện. Ứng dụng không thích hợp với thiết bị của bạn. Như vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.107098,
+         "id": "832283",
+         "field_search": "question",
+         "question": "mấy a cho e hỏi e sài iphone 3 mà tải game trên app store nó cứ ghi là app này không tương thích với iphone này là sao zậy júp e zới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.09991,
+         "id": "796913",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dùng ip5 lock mà dùng máy được tầm 15 phút là thấy nóng máy rồi là bị làm sao ạ,tất cả các ứng dụng mình tắt hết máy mình k cài đặt nhiều ứng dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.98266,
+         "id": "1146840",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bảng asus ko vào đc các ứng dụng như facebook messenger snow b612 vào là tự động thoát ra và ghi là đã dừng ad chỉ em zới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.977102,
+         "id": "1004617",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao s7 edge của mình mỗi khi tải ứng dụng về nó hiện ra 2 ứng dụng lận. Mà mình xóa 1 cái thì mất cả 2 luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.967604,
+         "id": "945829",
+         "field_search": "question",
+         "question": "Ad cho e hỏi... tại sao e vào app tải game hay ứng dụng thì k sao nhưng vào cập nhật ứng dụng thì lại hiện lên chữ \" id apple bị vô hiệu hoá\" ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.94565,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.884521,
+         "id": "837387",
+         "field_search": "question",
+         "question": "Mình không thể tải các ứng dụng trên Iphone . Khi dăng nhập xong hiện lên bảng thông báo : không thể kết nối với Itunes store là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.875172,
+         "id": "761136",
+         "field_search": "question",
+         "question": "Em đang sài iphone 3G mà sao em không tải được ứng dụng trên Apple Store thế ạ, lúc em nhập gmail vào thì nó ghi là không chính xác mà sao em vẫn vào google được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.871887,
+         "id": "996787",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j2 prime chụp camera thường và camera snow b612 hay tất cả các camera khác hình đều mờ ko rõ nét. Nhất là snow và b612. Chụp có ánh sáng cao cũng vậy. Camera của máy em có phải bị hư không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.835754,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.784662,
+         "id": "1011344",
+         "field_search": "question",
+         "question": "N cứ hiện đã tải về mà lúc e mở thì k có ứng dụng trên máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.75627,
+         "id": "897255",
+         "field_search": "question",
+         "question": "Trước đây mình tải app Snow về dùng nhưng khi sử dụng sticker thì cái sticker nó lại hiện 1 nửa hình ở góc trái điện thoại. Vì ức chế nên mình đã xoá app =))Hôm nay, mình lại tải đi tải lại mấy lần cái app này và trường hợp lần này còn ghê gớm hơn. Khi mình bấm vào sticker, thậm chí nó còn tự động bị tắt ứng dụng và trở lại màn hình chính. Mình lên mạng tìm về lỗi snow và thấy một bạn có trường hợp giống mình trước đây. Bên dưới phần cmt có 1 bạn nói khởi động lại máy. Mình làm theo và khi quay lại vẫn chẳng thay đổi gì cả. Nên có ai biết cách khắc phục thì chỉ cho mình, hoặc nêu nguyên nhân để mình xem xét và không ngoan cố tải lại cái app này nữa (mình dùng iphone 4 nhé)Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.687595,
+         "id": "864701",
+         "field_search": "question",
+         "question": "cho tôi hỏi tôi đang dùng iphone 4s đang sạc pin thì bị tắt nguồn, lúc cắm sạc vào ổ điện thì nó không lên màn hình được mà đang sạc lúc thì lại nhấp nháy hiện lên apple cho tôi hỏi hiện tượng đó là sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.663845,
+         "id": "797155",
+         "field_search": "question",
+         "question": " E đang dùng ip5 ios9 sao k có ứng dụng hay phần mền gì tải được phim và video vậy ạ, trừ YouTube có chỗ tải, ac giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.640669,
+         "id": "1151606",
+         "field_search": "question",
+         "question": "mình dùng ss j4+ khi tải liên quân thử nghiệm qua apk đến lúc cập nhật thì bị báo \"Ứng dụng chưa được cài đặt\" là như thế nào ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.589577,
+         "id": "796187",
+         "field_search": "question",
+         "question": " Mình dang xài ip4 lúc mình lên safari để tải game về nó kêu mở trong one drive vậy còn ứng dụng nào khác để mở nó lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.535683,
+         "id": "790814",
+         "field_search": "question",
+         "question": "Iphone 4s .lúc vào ứng dụng thì nó tự sập nguồn.em bật nút nguồn lên thì nó bảo cấp sắc lúc em cắm sạc thì nó tự lên.lên rồi vào ứng dụng lại tất nhưng em cắm sạc vào thì lại vào được ứng dụng tháo sạc ra thì lại tắt ai biết không chỉ giùm em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.493,
+         "id": "1018471",
+         "field_search": "question",
+         "question": "E dùng oppo f1s .e dùng ứng dụng snow sao không tăt được chế độ 3s vậy . Đã làm theo hướng dẫn vào snow chô 3 chấm tăt rùi mà không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.492998,
+         "id": "996217",
+         "field_search": "question",
+         "question": "Tại sao cập nhật hệ thống galaxy note 4 thì máy báo lỗi mạng hoặc sever là sao ? Anh chị giải thích giùm với ạ! Hiện tại nó cứ báo như v hoài?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.491125,
+         "id": "874998",
+         "field_search": "question",
+         "question": "Tai sao khi mình tải ứng dụnh về 100% đang cài đặt điện thoại lại báo không thể cài đặt ứng dụng đó vào lúc này là sao ??? Minh dùng iphone nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.473358,
+         "id": "938461",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.378857,
+         "id": "938453",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.333048,
+         "id": "1008531",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình vào ứng dụng youtube thì nó hiện lên thế này và mình kiếm video nó cũng hiện lên như thế mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.301285,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.287264,
+         "id": "1149679",
+         "field_search": "question",
+         "question": "Em dùng máy tính bảng samsung galaxy tab e tải ứng dụng mà nó cứ báo mã lỗi 910 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.140528,
+         "id": "1158529",
+         "field_search": "question",
+         "question": "Dạ ac cho em hỏi máy em là realmec1 nảy em có xoá facebook mà giờ dowload lại thì tìm không thấy ở ch play tìm trên google thì thấy nhưng mà nó hiện là ứng dụbg không tuong thích là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.026306,
+         "id": "1023738",
+         "field_search": "question",
+         "question": "ad cho e hỏi :'sao khi cập nhật ios 11 thì tải ứng dụng nó sao sao ý??Bấm tải rồi, nó hiển thị là đang chờ, để mãi cũng đang chờ dù có một cái, bấm vào icon của ứng dụng đó thì chuyển thành đang tải chạy qua được xíu. Mà để cả buổi cũng như vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.009699,
+         "id": "765731",
+         "field_search": "question",
+         "question": "  Mình dùng iPhone 5 mình tải về thì bảo không tải được là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.001352,
+         "id": "863801",
+         "field_search": "question",
+         "question": " mình dùng ipaf mini 4 lúc tải các ứng dụng trên app rất chậm nhưng vào mạng với xem phim thì bt vậy cải thiện ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.979584,
+         "id": "1020207",
+         "field_search": "question",
+         "question": "M.n cho em hỏi là làm thế nào để tải  ứng dụng phiên bản cũ vì Hipstore bây giờ cấu hình hết hạn rồi :( mình muốn tải B612 phiên bản cũ cho iphone 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.963211,
+         "id": "772407",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 3s mà lên 6.1 thì có tải được các ứng dụng và game không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.949444,
+         "id": "876416",
+         "field_search": "question",
+         "question": "Mình dùng ip5 , lúc mình xem phim máy bảo bị nhiễm 6 con virus và sẽ làm hư hỏng pin . Mình tải cái phần mềm avira có khả dụng không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.895248,
+         "id": "917381",
+         "field_search": "question",
+         "question": "Lỗi không tải ip4 ios7.c hia sẻ không tải ip4 cho ios7.bạn có máy ip4s ip5 ios9 đăng nhập tài khoản appstore vào.khi bạn chọn 1 game ứng dụng vào tải lúc ít xoá đi không cần chờ tải xong chọn cập nhật chọn đã mua thấy game ứng dụng hình mũi tên.ip4s ip5 ios9 thoát ra tài khoản cho ip4 ios7 vào đăng nhập tài khoản chọn cập nhật chọn đã mua bấm hình mũi tên tải game ứng dụng xong.bạn phải tai nhiều game ứng dụng nhiều để dành cho ip4 ip4s ip5 ios7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.856289,
+         "id": "830984",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s tải ứng dụng wifi chỗ khác thì được, mà kết nối với wifi ở nhà thì lại k tái được. nó cứ hiện dòng chữ không thể tải ứng dụng vào lúc này. ( e thay đổi DNS của iphone 208.67.220.220) mà vẫn k được. ad giúp e cách khắc phục với ạ. e cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.809944,
+         "id": "774534",
+         "field_search": "question",
+         "question": "Em xài iPhone 4 iOS 7.1.2 nhưng tải cam360 về thì xài không được. Thử lên tải ứng dụng appstorevn để tải các ứng dụng khác thì cũng không được luôn.Cho rồi hỏi làm sao để em tải được các ứng dụng trên appstorevn hay phải root máy.Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.803986,
+         "id": "869545",
+         "field_search": "question",
+         "question": "bạn nào biết chỗ nào mua ram DDR3L uy tính chỉ mình với ? laptop lenovo thinkpad e460 sử dụng chip skylake thế hệ 6 thì dùng đc loại nào tương thích tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.649239,
+         "id": "1149566",
+         "field_search": "question",
+         "question": "Sao mình cài ứng dụng từ nguôn khác ngoài CH play nó đều hiện lên ứng dụng chưa được cài đặt ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.614006,
+         "id": "868410",
+         "field_search": "question",
+         "question": " Tại sao ai phone của e nó k tải đc messenger , goolle và một số ứng dụng khác a nó cứ hiện chữ đang chờ là sao ạ      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56945,
+         "id": "996432",
+         "field_search": "question",
+         "question": "Cho em hỏi , điện thoại em là j7 prime , tại sao em tải phần mềm về thì nó chỉ hiện lên màng hình chờ không có ở màn hình chình giờ muốn gở cài đặt thì vào CHPlay để tìm tên ứng dụng đó mới gở cài đặt được . Trong khi đó lúc trước máy em không có bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.442265,
+         "id": "794955",
+         "field_search": "question",
+         "question": "Em đang sử dụng iPhone 4 iOS 7.1.2 em muốn tải ứng dụng Google nhận mà cứ hiện lên thông báo là ứng dụng này đòi hỏi phải có iOS 8.0 như vậy thì phải làm sao xin giúp em?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.383244,
+         "id": "1021559",
+         "field_search": "question",
+         "question": "mình muốn hỏi Tại Sao Khi mở máy galaxy not5 Ra Là nó Cứ hiện lên Cài đặt Các ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37684,
+         "id": "877773",
+         "field_search": "question",
+         "question": "Máy mình là iphone 5 ios 10 cho mình hỏi mỗi lúc mình tải game trên appvn về là nó để không thể cài đặt ứng dụng vào lúc nàyMong admin chỉ mình cách sửa lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37627,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.332035,
+         "id": "1161521",
+         "field_search": "question",
+         "question": "Điện thoại oppo f3 cứ tải thêm ứng dụng (wattpad, waka, agribank,...) là bị liệt nút home xóa ứng dụng đó đi , khởi động lại thì lại dùng bình thường là bị sao ạ  😭😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.325766,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.313345,
+         "id": "1159826",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình tải cái file word về mà lúc mình vào xem thì nó hiện như thế, có một số file word khác thì mình tải được bình thường, nó hiện tải về hoàn tất mà mình vào xem thì không mở được file. Mình có thử tải cách khác là down trên máy tính xong gửi qua messenger fb rồi mình down về thì mở được bình thường. Nhưng vậy thì bất tiện lắm. Mình xài ss a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.281826,
+         "id": "1158453",
+         "field_search": "question",
+         "question": "Tại sao YouTube của tôi nó không còn tương thích với thiết bị Android của tôi nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.271303,
+         "id": "1156877",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.27009,
+         "id": "795010",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em muốn tải AppStorevn cho máy chưa jaibreak mà sao kích vào tải nó hiện lên dòng chữ này thì phải làm sao mới tải được ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.263714,
+         "id": "1002992",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải nhạccuatui về nhg khi mở nhạc thì nó k hiện ở trên nên mỗi lần muốn chuyển bài thì em phải vào lại ứng dụng vậy có cách nào cho nó hiển thị lên k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.260887,
+         "id": "1138216",
+         "field_search": "question",
+         "question": "E mới mua oppo a3s mà khi tải file từ facebook xuống thì máy hiện k có sẵn ứng dụng nào để mở tập tin này. Vậy là sao ạ và e có cần tải thêm ứng dụng gì k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.25232,
+         "id": "928434",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ restore lại máy không ạ ? , hay chỉ bảo hành máy mua ở đây thôi ạ. máy ip 5 của em sau khi tải phần mềm B612 vveef thì xuất hiện 1 hàng ngang ô vuông trắng, nên màn hình chỗ đõ bị liệt cảm ứng, còn các chỗ khác vẫn dùng bt ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.243101,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.221947,
+         "id": "1156921",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.221422,
+         "id": "990623",
+         "field_search": "question",
+         "question": "Mình có dùng ip5. Vào kiểm tra dung lượng máy thì thấy phần tin nhắn chiếm 1,1G bộ nhớ. Vào xem thì nó ghi là tin nhắn đã lưu, không thấy xoá được. Mặc dù mình đã xoá tất cả tin nhắn trên máy nhưng nó vẫn còn. Vậy phải làm sao để xoá được phàn cho. Xin ad giải thích",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.057018,
+         "id": "1144647",
+         "field_search": "question",
+         "question": "em có tải asphalt 8 về chơi nhưng hiện tại muốn root lại máy tính. em hỏi là tài khoản microsoft em có đăng nhập vào game và cả Xbox ứng dụng tương tự như CH play trò chơi thì khi root xong em tải lại và đăng nhập lài thì dữ liệu game những vật phẩm trong game còn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.041384,
+         "id": "880813",
+         "field_search": "question",
+         "question": " Sao xài lumia550 tải về ứng dụng như zalo nó cứ không được là sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032944,
+         "id": "771281",
+         "field_search": "question",
+         "question": "Làm sao để xác định nó có bị lỗi win không ạ? Ví dụ như khi gõ chữ thì nó không ra đúng ý mình, chuột lap bị đơ (cắm chuột ngoài thì lúc đầu ổn nhưng lúc sau lại bị đơ hoặc chạy loạn) và vào web thì nó không chuyển đến trang mình cần hoặc có mới chuyển được thì lại lag về tag mới?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.009684,
+         "id": "1162632",
+         "field_search": "question",
+         "question": "Tôi dùng dt oppo neo7 khi sạc nó hiện lên như trong hình có lúc thì nó tự chạy lên chạy xuống,k biết làm sao mong ad giúp dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.00345,
+         "id": "835992",
+         "field_search": "question",
+         "question": " Sao em tải game gta trên HiP4U về được mà khi cài đặt thì nó hiện len là không thể cài đặt vào lúc này như hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.952772,
+         "id": "1136585",
+         "field_search": "question",
+         "question": "Laptop của em lúc nào mở lên sử dụng 1 lúc thì lại như hình ạ. Google chrom thì kick cái gì nó cũng chuyển thành tải xuống hết ạ. Ví dụ e kick vào trang chủ facebook thì nó cũng tải xuống ạ. Ac nào có cách khắc phục ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.929716,
+         "id": "1014976",
+         "field_search": "question",
+         "question": "cho em hỏi em có mua con htc 10 desire pro ak ad thì về sử dụng khi tải ứng dụng thường hiện lên lớp phủ màn hình em muốn tắt nó thì phải như thế nào ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.907154,
+         "id": "1019689",
+         "field_search": "question",
+         "question": "Cho em hỏi!!! Em mới mua sasung galaxy J7pro ngày 3/9 nhưng mà điện thoại nhiều lúc nó thích thì nó sáng còn ko thì nó tối là sao vậy ạ. Cho em câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

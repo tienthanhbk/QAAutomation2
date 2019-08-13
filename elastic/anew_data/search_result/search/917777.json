@@ -1,0 +1,801 @@
+{
+   "id_query": "917777",
+   "total": 32815,
+   "total_current": 100,
+   "max_score": 118.740585,
+   "origin_question": "cho mình hỏi mình có 1 cái camera kỹ thuật số cắm vào cỗng usb thì laptop mình báo là USB drivers gi đó. có phải là mình cần cài USB video driver không?",
+   "hits": [
+      {
+         "score": 49.053116,
+         "id": "998666",
+         "field_search": "question",
+         "question": "USB 3G xài như thế nào? Có phải là chỉ cần mua cái USB đó rồi cắm vô LAPTOP là xài được luôn hay sao? Hay là cần đóng phí gì không? nếu có thì nó như thế nào? Mình tính mua USB 3G Viettel mà không biết hoạt động thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.512524,
+         "id": "1024041",
+         "field_search": "question",
+         "question": "chạy rom gốc cần cáp gì vậy ad và phải làm thế nào.có phải cáp usb cắm vào cổng usb không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.385227,
+         "id": "1014783",
+         "field_search": "question",
+         "question": "mình mới mu 3 cái usb sandisk nhưng giờ mình muốn đổi thành 3 cái usb khắc có được không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.672787,
+         "id": "837720",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi, mình mua laptop dell của shop nhưng không có giắc cắm mạng LAN, nếu mua cổng LAN ngoài cắm qua cổng usb thì giá bao nhiêu là rẻ nhất ạ? Cho mình link luôn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.8515,
+         "id": "927774",
+         "field_search": "question",
+         "question": " Shop cho mình hỏi mình muốn chạy mạng 3g cho laptop A540 thì mình phải mua thêm usb 3g phải k ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.8217,
+         "id": "815705",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop mình mua còn 2 ngày nữa là 1 tháng mà nó bị lỗi và đem lên bên hỗ trợ kỹ thuật. Hỗ trợ kỹ thuật báo là gữi về hãng để kiểm tra và bảo hành mà mình đang cần gấp. Bên thegioididong có cách nào hỗ trợ mình không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.652805,
+         "id": "1006930",
+         "field_search": "question",
+         "question": "1 cai usb 3.0 gắn vào cổng usb pc 2.0vậy usb sẽ chạy 3.0 hay 2.0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.77392,
+         "id": "1016625",
+         "field_search": "question",
+         "question": "AnhChị cho em hỏi bên mình có bán usb hút sóng wifi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.490208,
+         "id": "1147689",
+         "field_search": "question",
+         "question": "Cho mình hỏi tgdd có kinh doanh sản phẩm usb wifi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.19093,
+         "id": "815654",
+         "field_search": "question",
+         "question": "Cho hỏi laptop mình mua còn 2 ngày nữa là được 1 tháng mà máy bị lỗi và đem lên bên hỗ trợ kỹ thuật. Hỗ trợ kỹ thuật báo gữi xuống hãng đễ ktra bảo hành. Giờ mình cần laptop gấp. Phía bên TGDD có cấp nào giúp mình có laptop để đi làm trong thời gian bảo hành không z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.958893,
+         "id": "917203",
+         "field_search": "question",
+         "question": "Ban quản trị cho em hỏi. Laptop e đang sử dụng bình thuờng đột nhiên 2/3 cổng usb của máy không sử dụng đuợc. Cắm usb hoặc chuột vào không sử dụng được thì pgải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84807,
+         "id": "1164560",
+         "field_search": "question",
+         "question": "mình dùng xiaomi 8 và không kết nối được vs máy tính hiện máy nhưng ko vào xem được dữ liệu,khi cắm đt vào máy tính ko hiện báo kết nối usb để mình chọn,ở máy tính mình đã cài đủ drive mtp và các phần cần thiết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.826378,
+         "id": "1133998",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.799637,
+         "id": "993367",
+         "field_search": "question",
+         "question": "Cho mình hỏi Mình có con laptop lenovo ideapad 100s muốn khởi động nó bằng USB mà không được (tìm cách vào bios để chỉnh mà không được) ai biết chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.63979,
+         "id": "1006923",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao mấy ngày trước chuột usb e cắm vào cũng sử dụng đc ở chuột cảm ứng trên máy sao giờ cắm chuột vào sử dụng chuột bấm usb thì được còn bấm ở chuột cảm ứng thì không đc , còn nếu tháo chuột usb ra thì k còn con trỏ và cũng không điều khiển đc gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.617252,
+         "id": "894726",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là máy tính của em cổng usb 2.0 vậy có dùng được usb 3.0 không nếu được thì usb hoạt động như 2.0 hay 3.0 dạ em cảm ơn . em thấy nhiều hãng 2.0 với 3.0 theo anh chi cái nào tốt ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.189034,
+         "id": "1133999",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.121586,
+         "id": "1017302",
+         "field_search": "question",
+         "question": "sonny m4 aqua tui cắm vào máy tính không nhận usb có phải là do cáp không phải của máy nên không nhận hay sau chứ tui cắm vào mấy máy khác nhận bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.05323,
+         "id": "1159451",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có bán loại  USB Sandisk iXpand Mini cho iphone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.04828,
+         "id": "1133997",
+         "field_search": "question",
+         "question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.754162,
+         "id": "1167673",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi, bên mình có adapter sạc 2  3 cổng usb và dùng đầu dẹp ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.66375,
+         "id": "1014404",
+         "field_search": "question",
+         "question": "cho em hỏi em vừa mua máy acer f5 cài đầy đủ driver và các ổ usb vẫn hoạt động bình thường nhưng sáng nay em cắm tay cầm gamepad đang sử dụng bt vào chơi mà nó không nhận, lỗi not reconizing. Em có làm 1 số cách khắc phục mà vẫn không được!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.647028,
+         "id": "867462",
+         "field_search": "question",
+         "question": "Mỗi lần mình kết nối là máy lại hiện ra thế này, mấy hôm trước mình vừa lắp USB wifi vào máy vẫn dùng đc, đến hôm nay thì thế này là sao nhỉ? Với lại khi mình kiểm tra , máy còn thiếu 802.11n USB Wireless LAN Card, xin hỏi làm sao để có loại card này. Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.486412,
+         "id": "998111",
+         "field_search": "question",
+         "question": "Máy e là galaxy on7 2016 đã up rom tiếng việt. Nhưng bây giờ e muốn up rom khác. Khi cắm máy vào máy tính thì ko hiện cổng com. Mặc dù e đã cài driver và bật usb debug",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.385592,
+         "id": "1147324",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động tân phước có bán usb mạng k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.142324,
+         "id": "1162109",
+         "field_search": "question",
+         "question": "Chào ad, laptop mình sau khi nâng ram lên 8gb và chip từ i5 lên i7 thì usb, chuột dây, và bluetooth bị mất. Mình gỡ driver và update lại những vẫn hiện lỗi như ảnh. Giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.069288,
+         "id": "1145656",
+         "field_search": "question",
+         "question": "Máy e sau khi cài lại win 10, dùng 1 lúc thì gặp lỗi ko nhận usb chuột, e thử up driver mà ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.009544,
+         "id": "1009554",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính dell của mình dùng win 7 32bit khi cắm dây cáp usb kết nối với điện thoại thì máy tính báo lỗi và tự khởi động lại. Khắc phục giúp mình với. Cảm ơn nhiều1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.842136,
+         "id": "807088",
+         "field_search": "question",
+         "question": " admin cho hỏi máy e cắm vào pc thì không chuyền dữ liệu usb mà chỉ sạc pin . có cách nào giải quyết được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.694883,
+         "id": "1147737",
+         "field_search": "question",
+         "question": "ad giúp em được ko ạ. e sài laptop dell mà USB hiển thị lỗi USB not recognize.... mà e lên xem cách người ta hướng dẫn sửa phải có mục generic USB hub nhưng máy e ko có vậy phải xử lí thế nào ạ. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.579208,
+         "id": "1010767",
+         "field_search": "question",
+         "question": "Cho mình hỏi dây USB của samsung A5 2017 hiện tại bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.527445,
+         "id": "873806",
+         "field_search": "question",
+         "question": "AD coi giúp em cái USB dùm sao em đinh dạng USB mà nó cứ báo là Đĩa đã được bảo vệ cấm ghi. Em sao chép hoặc copy hay làm gì cũng không đc hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.28548,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.274544,
+         "id": "900851",
+         "field_search": "question",
+         "question": " Vậy để chiếu 1 tệp powerpoint từ trong email được lưu vào USB thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.859085,
+         "id": "991109",
+         "field_search": "question",
+         "question": "Mình có nhu cầu mua loa vừa sử dụng được bluetooth vừa sử dụng được usb chép file mp3 cắm vào và phát được nhạc. Giá từ 1tr tới 6tr.TGDD tư vấn mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.847397,
+         "id": "1134347",
+         "field_search": "question",
+         "question": "Xin hỏi ! Cài lại win 10 bằng usb thì có mất bản quyền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.744394,
+         "id": "844720",
+         "field_search": "question",
+         "question": " Laptop của tôi không kết nối được với chuột cổng USB thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.734524,
+         "id": "847971",
+         "field_search": "question",
+         "question": "cho em hỏi là điện thoại iphone cắm dây usb kết nối với máy tính để bàn để cài đặt trong itunes store thì có bị virus từ máy tính sang điện thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.54611,
+         "id": "1159662",
+         "field_search": "question",
+         "question": "cho mình hỏi làm thế nào để có thể chia sẻ inthernet từ điwwjn thoại huawei y9 sang laptop được ạ.chia sẻ qua cáp usb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.379936,
+         "id": "1140812",
+         "field_search": "question",
+         "question": "Bật tính năng \" Dùng làm điểm truy cập internet qua USB\" trên điện thoại anroid ấy?Cần có cáp USB hỗ trợ, bên shop có cáp như mô tả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.321869,
+         "id": "1006167",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi bên mình có USB 3g để bỏ sim dùng cho máy tính latop ko ah? nếu có giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.294527,
+         "id": "770853",
+         "field_search": "question",
+         "question": "Cho mình hỏi Dell vostro 3500 có micro để nói chuyện video call được không? Hay mình phải mua thêm 1 cái micro rời cắm vào. Cám ơn Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.163815,
+         "id": "928889",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại tddđ có laptop dell inspiron i5-7200u không ạ? Và nếu mình mua dell thì máy có cài sẵn chương trình cho mình không ạ? Mình mua về thì sử dụng liền hay có cần cài driver hay wireless không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.15978,
+         "id": "1142590",
+         "field_search": "question",
+         "question": "chào admin ở cửa hàng mình có bộ chuyên micro usb sang type C ko ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.928461,
+         "id": "995691",
+         "field_search": "question",
+         "question": "mình xài laptop dell...mà bàn phím laptop bị chạm phím...có cách nào để khoá bàn phím laptop lại..để mình sử dụng bàn phím usb rời được k...giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.922752,
+         "id": "836207",
+         "field_search": "question",
+         "question": "Mình có một cái Laptop, tên HP Pavilions 14. Mình nâng cấp Windows 10 tháng 7, năm 2015. Thấy máy chậm hôm nay mình tạo một USB cài Windows 10 từ Media Creaton Tool. Mình cài lại Windows 10 từ đầu vì mình gộp ổ Recorvery vô ổ G: rồi. Mình vô Wifi, Windows 10 trước khi cài lại bắt được 5 Wifi, sau khi cài lại còn 1 Wifi gần nhất, mà lại của hàng xóm, không phải của mình. Có thể giúp mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.852509,
+         "id": "891099",
+         "field_search": "question",
+         "question": "Em đang xài asus X555U . Gần đây em có tải 1 ứng dụng diệt virus cho USB và sau đó vào Firefox thì nó không hiện giao diện firefox nữa mà cứ hiện trang \"Linkzb\" , không tắt được . Cái đó là gì và tắt như thế nào ? Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.84336,
+         "id": "1143684",
+         "field_search": "question",
+         "question": "usb 3g khác gì usb phát wifi? laptop acer windown 10 muốn xài 3g thì mua mobi,vina...gì cũng đc hay sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.770258,
+         "id": "1012559",
+         "field_search": "question",
+         "question": "cho e hỏi. shop có bán usb dcom 4g k ạ. và giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.730347,
+         "id": "1145340",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop của mình là Asus Vivobook S15 X510UQR. Hôm qua mình cập nhật Win xong thì máy kêu khởi động lại máy. Khi khởi động lên thì bị mất Wifi. Mình đã dùng mọi cách để khắc phục nhưng không được. Sau đó cài Driver Wifi thì mới sử dụng được Wifi. Và tình trạng khi tắt máy mở máy lên vẫn mất Wifi, tiếp tục cài Driver mới sử dụng được Wfifi. Ngay cả phím chức năng Fn cũng vậy. Kỹ thuật viên có thể giúp mình giải quyết vấn đề được không. Mình xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.553679,
+         "id": "846387",
+         "field_search": "question",
+         "question": "Laptop có tìm được thiết bị Bluetooth (cụ thể là USB Bluetooth receiver) nhưng khi bấm connect thì báo lỗi không kết nối được. Xin chỉ dẫn giúp.Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.46707,
+         "id": "1142177",
+         "field_search": "question",
+         "question": "mình muốn kết nối nokia2 với laptop qua dây usb để lấy ảnh ra. nhưng khi kết nối thì điện thoại chỉ có xạc không thể kết nối với máy được? xin hỏi phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.189075,
+         "id": "909409",
+         "field_search": "question",
+         "question": " Mình bị lỗi không xem được video trên website ios 9Mình cần hỗ trợ từ nhân viên kỹ thuật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.02323,
+         "id": "841183",
+         "field_search": "question",
+         "question": "cho em hỏi khi kết nối USB Với máy tính để coppy nhạc và video từ máy tính qua điện thoại, đang coppy được 1 lúc thì nó báo \"thiết bị đã bị ngắt kết nối\" là sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.816458,
+         "id": "908545",
+         "field_search": "question",
+         "question": "Mình lỡ tay uninstall cái Intel Installation Framework Graphics Driver trên laptop, không biết có ảnh hưởng gì đến máy không? Mình có cần cài lại không và cài như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.695248,
+         "id": "1022888",
+         "field_search": "question",
+         "question": "Mình có đặt mua online 1 USB ở Siêu thi xã cổ đông,  sơn Tây, hà nội mà ko thấy gọi nhận hàng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.660654,
+         "id": "906788",
+         "field_search": "question",
+         "question": " Cho mình hỏi PCI Device là driver gì và nó quan trọng không tại laptop mình còn thiếu cái này. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.535133,
+         "id": "831302",
+         "field_search": "question",
+         "question": "Cho mình hỏi ,mình mua laptop trong tgdd,nếu máy có lỗi hay trục trặc gì,mình muốn chạy lại win,cài đặt phần mềm...mình mang đến cửa hàng của tgdd thì các bạn kỹ thuật viên của cửa hàng có hỗ trợ giúp mình không ak.Hay mình phải mang đi đâu.Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.442749,
+         "id": "1019164",
+         "field_search": "question",
+         "question": "Chổ mình có bán USB thu WIFI máy tính để bàn hok vậy ạh? và giá cả bao nhiêu?..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.064796,
+         "id": "837757",
+         "field_search": "question",
+         "question": "xin chào thế giới di động, lúc trước mình có mua laptop ở tgdd, và đc cài win bản quyền (win 8) sau đó thì nó đã update lên win 10, một số app mình cài lúc trước cũng mất luôn, vậy cho mình hỏi như v thì lap mình có cần phải cài phần mềm diệt virut k, hay là trong win đã có rồi,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.061922,
+         "id": "924314",
+         "field_search": "question",
+         "question": " Mình dùng GL31 không kết nối được với máy tính qua USB các bạn chỉ cho tôi với địa chỉ thangvan.pbgmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.878397,
+         "id": "1145679",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc e vào boot menu ấn vào usb boot để cài lại win sao nó cứ vào khởi động win vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.631456,
+         "id": "1151683",
+         "field_search": "question",
+         "question": "Hello tgdd, cho e hỏi bên mình có đầu chuyển đổi từ đầu lightning của ip sang đầu usb type c của android không ạ, e xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.477755,
+         "id": "758356",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, mình mới mua Sony C5 ultra được 1 tuần, trong quá trình sử dụng mình cảm thấy cảm ứng của máy không nhạy lắm đôi khi phải chạm mạnh thì mới được và đôi khi màn hình bị đơ phải vuốt hay chạm vài lần. Như vậy có phải là máy có vấn đề về lỗi kỹ thuật không hay đó là lỗi chung của dòng máy này ạ. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.441378,
+         "id": "938531",
+         "field_search": "question",
+         "question": "mình có 1 con iphon 5s mình mua 1 cap otg để sự dụng nhưng máy báo là nguồn điện không đủ để cấp cho mình hoại là nó bị gi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.380703,
+         "id": "807126",
+         "field_search": "question",
+         "question": " cho mình hỏi là tự nhiên laptop khi cắm heaphone vào thì không nghe được nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.378742,
+         "id": "1006624",
+         "field_search": "question",
+         "question": "siêu thị có kinh doanh microphone USB ko ạ..............................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.369831,
+         "id": "908557",
+         "field_search": "question",
+         "question": "máy lap top mới mua, nhưng trong ổ cứng khi chạy kêu kẹt kẹt vậy là bi gi?cho mình hỏi sđt anh hiếu làm kỹ thuật viên ở thế giới di dộng bên huế, bữa ảnh tư vấn cho mình, giờ mình muốn hỏi anh, về máy laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.23879,
+         "id": "988974",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi Máy mình là máy Iphone 5S có lần mình xem phim thì mình thấy camera của điện thoại hiện lên dấu chấm đỏ ở bên trong camera cho mình hỏi có phải máy mình bị ai theo dõi đúng không hay vì sao mà có dấu chấm đỏ (Lúc trước mình xem thì chẳng bao giờ thấy hiện cái dấu chấm đỏ đó)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.196997,
+         "id": "798155",
+         "field_search": "question",
+         "question": "Mua game Beach head ngoài shop nhưng về cài đặt xong thì không chơi được! Trước đây mua đĩa về thì chơi được. Bây giờ máy không có đĩa phải chuyển qua USB từ shop. Vậy là lỗi gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.151886,
+         "id": "838897",
+         "field_search": "question",
+         "question": "Sao zalo của mình đúng số đúng mật khẩu mà ko vào đc ạ. số đó là số việt nam giờ mình ko ở việt nam nữa nên bỏ số điện thoại đó đi rồi có phải vì vậy mà mình bị mất luôn zalo không ạ. đăng nhập vào hệ thống báo là thiết bị của bạn không được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.110529,
+         "id": "998413",
+         "field_search": "question",
+         "question": "TGDĐ có bán USB 3G không? E mua laptop ở nơi khác có thể đem đến TGDĐ sửa được không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.068983,
+         "id": "745160",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop của mình bị thiếu vài driver thì mình có thể ra thegioididong để nhờ họ cài giúp được không? Nếu cài thì mất phí bao nhiệu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.054132,
+         "id": "810637",
+         "field_search": "question",
+         "question": "Cho mình hỏi là con laptop lenovo ideapad 100s https://www.thegioididong.com/laptop/lenovo-ideapad-100s có thể chơi được lol k ah? Và thấy trên web ghi có 1 ưu đãi khi mua sản phẩm nhưng quà khuyến mãi gồm túi sleeve, usb 8g và 100gb onedrive cụ thể ở đây là như thế nào ah? Mong qtv giải thích giúp. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.040104,
+         "id": "786953",
+         "field_search": "question",
+         "question": "Bạn ơi, máy mình là iphone 5, mình muốn hỏi mình nhắn tin cho 1 số đt thì máy báo tin nhắn gửi thành công, mình gọi thì vẫn có chuông báo 1 hồi rồi mới thôi, nhưng 1 thời gian rồi mà ko thấy họ phản hồi gì cả, có phải số mình đã bị chặn???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.013012,
+         "id": "819720",
+         "field_search": "question",
+         "question": "Laptop em bị dính nước một tí ở bàn phím, máy vẫn bật được nhưng bàn phím không đánh được, cổng USB và chỗ cắm dây mạng không hoạt động. Cho em hỏi như thế có sao không , nếu có phí sửa chữa là bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.985106,
+         "id": "990843",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động có bán usb dành riêng cho ipad không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.926502,
+         "id": "1165910",
+         "field_search": "question",
+         "question": "Mình có đặt 1 điện thoại đơn hàng 27400433 tên Mai Phương. Mình muốn nhờ kỹ thuật viên giao để hỗ trợ cài đặt cho điện thoại luôn hộ mình. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.697048,
+         "id": "765046",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình dùng công cụ savior trên cốc cốc để tải video về, có một số video tải được, một số video khi tải thì máy thông báo \" không thành công - bị cấm \" dù cùng một nghệ sĩ. Vậy là sao ạ? có thể cho mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.664335,
+         "id": "1141292",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình dùng iphone 7plus lúc trước có quay mấy video nhưng giờ vào xem lại không được mà cần phải bật mạng mới cho xem là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.63713,
+         "id": "924735",
+         "field_search": "question",
+         "question": "cho mình hỏi là cô mình có cho 1 ip4s lock IOS 7, có mật khẩu đăng nhập vào màn hình nhưng quên mật khâu iclou và mail. Thì ip đó có nghe gọi hay tải app vài xài bình thường không. Có cần phải thoát icloud đó ra ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.56665,
+         "id": "896146",
+         "field_search": "question",
+         "question": " Anh chị ơi, cho e hỏi Boot máy tính Asus a450 như thế nào để có thể cài win 8.1 từ USB vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.514486,
+         "id": "801246",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ mình mới mua trả góp laptop Acer của TGDĐ hiện tại laptop của mình vào đọc báo hay 1 số ứng dụng khác thì máy thường xuyên bị treo máy hay nói cách khác là bị đơ máy trong 1 phút sau đó chạy bình thường. Vậy cho mình hỏi như vậy là bị sao mong các bạn hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.506922,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.483923,
+         "id": "1146429",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop mình trước đây chơi game ok nhưng đột nhiên nay vào game không được và máy báo là game bị đóng vì không tìm thấy thiết bị hoặc gặp vấn đề với diver . vui lòng cập nhật driver mới nhất hoặc phiên bản driver ổn định nhất. Ad có thể chỉ mình cách cập nhật driver hay không ạ. Mình sử dụng laptop HP. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45881,
+         "id": "778663",
+         "field_search": "question",
+         "question": "iphone 6 của mình báo pin yếu, dùng 1 lúc thì báo 1% rồi sập nguồn, cắm sạc vào lại báo 10% như cũ. Cái này cứ lặp lại mấy ngày nay rồi, có phải là bị pin ảo ko vậy ạ? Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.448809,
+         "id": "775339",
+         "field_search": "question",
+         "question": " cái laptop asus cắm tai nghe thì không nghe đc cài driver rồi cũng không nghe đc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.441345,
+         "id": "823912",
+         "field_search": "question",
+         "question": "Mình muốn hỏi khi mình lưu 1 số đt mới thì ít sau đó zalo thông báo 2 ng đã trở thành bạn bè mặc dù mình không hề gửi lời mời kết bạn. Như vậy có phải người kia đã lưu số của mình trước đó rồi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.43648,
+         "id": "842810",
+         "field_search": "question",
+         "question": "Add ơi em muốn cài win XP cho Chiếc laptop bằng USB nhưng khi boot USB thì den gần cuối nó hiện bra lỗi error:undetermined error while formating ạ em thử lại nhiều lần r vẫn bị. Đã tắt hết tuong lửa của window rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.4183,
+         "id": "1010121",
+         "field_search": "question",
+         "question": "Em có con qmobile glam hu cam ung bỏ đi thì phí cho em hỏi qmobile glam có usb otg ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.316166,
+         "id": "743876",
+         "field_search": "question",
+         "question": " Cho mình hỏi trên laptop cổng kết nối để USB 3.0 là gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.28977,
+         "id": "996632",
+         "field_search": "question",
+         "question": "Chào các bạn hỗ trợ kỹ thuật,Cho mình hỏi 1 vấn đề:Mình dùng mua iphone 6splus ở thế giới di động được khoảng 2 tháng rồi. Mấy hôm nay máy mình có hiện tượng là gọi điện thoại đi lần đầu thì không nghe thấy gì, tắt đi gọi lại thì được; tương tự cắm tai nghe vào lần đầu cũng không được, rút ra cắm lại vào thì được.Các bạn có biết lỗi này là gì và khắc phục được không?Mong sớm nhận được phản hồi từ các bạn.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.274426,
+         "id": "1015189",
+         "field_search": "question",
+         "question": "Điện thoại android của em nó hiện ở thanh pin là đang sạc pin mặc dù em không làm, vào xem pin thì nó bảo đang sạc usb là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.232307,
+         "id": "1011460",
+         "field_search": "question",
+         "question": "xin chào! anh chị cho em hỏi bên anh chị có bán USB 32 GB Kington không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.18092,
+         "id": "871914",
+         "field_search": "question",
+         "question": " Cho em hỏi USB của em nó bị dính Virus vậy có cách nào để cứu nó không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.15742,
+         "id": "1018006",
+         "field_search": "question",
+         "question": "Bác kỹ thuật cho em hỏi ty.Khi mình chụp ảnh bằng camera trước ảnh sẽ bị lật như mình đứng soi gương  đúng không ạVà khi mình chụp bằng camera sau anh có bị lật không ạVà mắt người nhìn sự vật thì sẽ giống cam trước hay cam sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.145748,
+         "id": "1136997",
+         "field_search": "question",
+         "question": "Máy tính bàn, em lỡ tắt hết cổng USB trong BIOS. Giờ không dùng được bàn phím và chuột, muốn vào lại BIOS để mở lên. Nhưng cổng USB đã tắt hết nên ko thể dùng chuột + phím để vào. Lại không có bàn phím cổng PS2. Giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.118765,
+         "id": "1010938",
+         "field_search": "question",
+         "question": "Mình đang dùng máy samsung galaxy j2,dạo này mình không vào được mục file của bạn. Khi vào máy báo hiển thị là file của bạn đã dừng,mong kỹ thuật viên giải đáp giúp,xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.092314,
+         "id": "1140811",
+         "field_search": "question",
+         "question": "shop có cáp usb chia sẻ internet từ điện thoại ra pc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

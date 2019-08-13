@@ -1,0 +1,801 @@
+{
+   "id_query": "824282",
+   "total": 31360,
+   "total_current": 100,
+   "max_score": 93.58368,
+   "origin_question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+   "hits": [
+      {
+         "score": 46.917664,
+         "id": "999015",
+         "field_search": "question",
+         "question": "Thegioididong ơi cho tôi hỏi mỗi khi xem video trên youtube thì các nút tua dừng video đều hiện lên như thế là bị vấn đề gì vậy? Hãy khắc phục dùm tôi. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.902645,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.795506,
+         "id": "817335",
+         "field_search": "question",
+         "question": "E xem video trên ứng dụng facebook của đt samsung s4 docôm thì bị mờ, k cho hình ảnh sắc nét. E xem trên đt khác thì nó vẫn nét ạ. Bây giờ thì e phải cài đặt như thế nào để xem video trên facebook được nét ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.33059,
+         "id": "1159888",
+         "field_search": "question",
+         "question": "Chào Thegioididong! Điện thoại mình là Sony M5, hiện nay đang gặp lỗi xem video ko được. Khi mở video trên facebook, youtube, hay các video khác trên máy đều bị màng hình xanh lá, vẫn nghe được tiếng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.97128,
+         "id": "1141429",
+         "field_search": "question",
+         "question": "Tôi muốn xem nội dung trong ICloud của bạn tôi nhưng tôi được biết khi dùng chung vậy thì khi nghe gọi thì hay máy đều hiện lên hết. Vậy làm cách nào để cho máy tôi hiện nội dung của bạn tôi thôi  nhưng máy bạn tôi thì ko hiện lên ( đại loại là xem trộm ); nếu tôi không dùng sim nữa chỉ để máy xem iCloud có thành công ko. Cảm ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.90114,
+         "id": "1019540",
+         "field_search": "question",
+         "question": "Mỗi khi mình muốn xoá ảnh trong album thì máy đều hiện ra là 'Không thể xoá. Vui lòng thử lại.' Vì sao lại như vậy và cách khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.832355,
+         "id": "763320",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính của em bây giờ xem phim trên mạng hay tải về máy đều xem không đươc vậy phải làm sao để máy bình thường lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.390648,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.384167,
+         "id": "1150457",
+         "field_search": "question",
+         "question": "hiện tại thì em đang sử dụng con oppo F7,  nhưng khi xem các tin trên story của insta hay fb gì thì đều k xem được trọn vẹn ảnh,  tất cả đều bị cắt xén đi mất 1 phần bao quanh ảnh, đây là lần đầu em xài oppo nên không biết phải làm thế nào, mong aec giup đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.30435,
+         "id": "910651",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy em hay bị xem video hoặc các clip ngắn ở trên youtube và tất cả các trang đều ko được vậy. Nó cứ đứng yên ở 0:0 giây. Trong album ảnh cũng xem không được. Ai biết lỗi gì chỉ em với :(. Ip6 ios10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.128532,
+         "id": "917672",
+         "field_search": "question",
+         "question": " Máy iphone 5s của mình khi xem video trên máy không xem được toàn màn hình là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.919693,
+         "id": "1142005",
+         "field_search": "question",
+         "question": "Em samsung j6 mình mua được 3 tháng nhưng giờ xem video thì chỉ được 50s là bị đứng,muốn xem tiếp thì phải nhấn play. Còn quay video thì chỉ lưu được khoảng +-50s là bị thoát ra, ko thể quay quá 1phut",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.182545,
+         "id": "1002930",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy mình là samsung galaxy j2. Từ lúc mua tới giờ mình không thể gọi video qua mess hay zalo đc, mỗi lần gọi video đều bị mất mạng, mất cả sóng đt vì mình xài 3g. Trong khi đó cùng loại nhưng máy bạn mình lại có thể gọi video bình thường. Ngoài ra tất cả đều sử dụng được bình thường. Vậy tại sao và phải khắc phục nó như thế nào để mình có thể gọi video bình thường? Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.927666,
+         "id": "999728",
+         "field_search": "question",
+         "question": "Em dùng dòng máy LG f160l tải ứng dụng quay video màn hình về sau khi quay xong vào xem thì ns hiện ra chữ tệp ko đc hỗ trợ là như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.737495,
+         "id": "832095",
+         "field_search": "question",
+         "question": "vì sao ở quán internet tôi đã đăng video được 65% và 14p để nó được đăng lên, nhưng tôi lỡ tay tắt máy và chơi tại nhà, vào xem thì nó vẫn chưa được đăng lên, làm cách nào để khắc phục tình trạng này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.697186,
+         "id": "999662",
+         "field_search": "question",
+         "question": "khi em vào youtube xem video thì chỉ nghe tiếng mà không thấy được hình. cho em hỏi làm sao để xem được hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.533802,
+         "id": "1146788",
+         "field_search": "question",
+         "question": "Máy Samsung j4 của e chỉ xem đc video 720p trên youtube có cách nào để xem video 1080p k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.517296,
+         "id": "874453",
+         "field_search": "question",
+         "question": "Tại sao vào zalo của người khác lại không xem được ảnh vậy. Vào rất nhiều nick để xem ảnh đều hiện thị không có ảnh. Mà người đó lại k chặn minh xem nhật kí hay gì hết .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.39915,
+         "id": "877007",
+         "field_search": "question",
+         "question": " Máy em oppo f1 khi xem video tren fb không hiện video khác như hình.....  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.287903,
+         "id": "922646",
+         "field_search": "question",
+         "question": "Tôi đang dùng máy iphone7Plus thinh thoang không xem dc video, kê ca video quay trên máy và trên youtube, phai khoi dong lại mới xem dc, sau đó vài ngày lại bị lại.thường xay ra khi pin thấp(dưới 40%)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.081238,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.937466,
+         "id": "1162269",
+         "field_search": "question",
+         "question": "Em xem video hoặc story trên fb , ins thì chữ luôn bị cắt đi k xem đc thì chỉnh sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.867176,
+         "id": "1009741",
+         "field_search": "question",
+         "question": "Cho mình hỏi,  mình đang sử dụng samsung j5 tại sao khi xem video trên tất cả các trang đều bị dừng.  Giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.75357,
+         "id": "897703",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 6s Plus lúc quay video trên máy mở lại thì ko xem được. Tất cả các video lúc trước quay cũng ko xem lại đc. Có cách nào khắc phục được ko vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.602737,
+         "id": "846769",
+         "field_search": "question",
+         "question": " tại sao e chụp nhiều ảnh trên máy tính nhưng xem lại thì các ảnh nó đều giống nhau ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.532005,
+         "id": "1000006",
+         "field_search": "question",
+         "question": "em dùng máy dell N7640 mà em xem video, nghe nhạc trên website cứ tầm 10 phút là không xem được. Nó cứ load như cái ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.365875,
+         "id": "1000983",
+         "field_search": "question",
+         "question": "Cho e hõi đt như thế nào mới xem được video 360 độ vậy ad ? Sony xa được ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.36526,
+         "id": "846588",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình và bạn ấy ko hủy kết bạn zalo nhưng tại sao mh vào dòng thời gian thì chỉ xem được ảnh thôi ạ. stt hay ghi âm đều ko xem được. cho mh hỏi vì sao lại vậy ạ. mh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.315468,
+         "id": "1019321",
+         "field_search": "question",
+         "question": "e mới mua một chiếc ss galaxy tab E về với mục đích để xem video học tập, website e xem là hocmai. tuy nhiên e không thể nào đăng nhập với tài khoản google trên app hocmai lecture, đăng nhập trên website hocmai thì chỉ xem được 1 đoạn video đầu ngắn, về sau là hiện dấu X lỗi không tải được video. Mong admin xử lí và đưa ra giải pháp giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.869392,
+         "id": "920665",
+         "field_search": "question",
+         "question": " Muốn xem ảnh bìa zalo cũ làm như nào hả bạn? và xem thời gian cập nhật ảnh bìa từ bao giờ như nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.675735,
+         "id": "1012446",
+         "field_search": "question",
+         "question": "E dùng ss... Đt e lúc trước vẫn xem được nhiều video trong 1 list nhưng bây giờ e chỉ xem được mỗi một cái thôi...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.494167,
+         "id": "1018768",
+         "field_search": "question",
+         "question": "e dùng ga A7 2016, cho hỏi sao e không xem được video trên google nhưng vẫn xem được trên youtube và các ứng dụng xem vid đã tải về ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.487534,
+         "id": "909362",
+         "field_search": "question",
+         "question": "Admin và các bạn giúp mình với. Mình xem video trực tuyến trên youtube hay bất cứ trang web nào đều bị tình trạng âm thanh đi trước hình ảnh. Mình đang xài win 10. Làm ơn trả lời giúp mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.383358,
+         "id": "1157859",
+         "field_search": "question",
+         "question": "A7(2018)Facebook mình phải bấm vào video mới xem được, điện thoại khác chỗ nào có video thì sẽ tự phát. Khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.256874,
+         "id": "1010017",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo F3 Khi tôi muốn tai video trên các trang mạng hoặc tai ảnh thì trên màn hình hiện ra chữ lưu nhưng bấm vào chữ lưu thì điện thoại vẫn không lưu đã Sao lưu và cài đặt lại thì nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.05957,
+         "id": "854989",
+         "field_search": "question",
+         "question": "Messenger trên iphone 4 của mình gần 1 tháng nay thì người khác gửi ảnh cho mình không xem được. Muốn xem phải lưu ảnh vào máy rồi mở ra xem nhưng chỉ có ảnh gửi rời mới lưu và xem đc. Mng giúp mình fix lỗi này với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.02449,
+         "id": "1139693",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng ip xsmax, khi xem ảnh trên fb ấn vào hình ảnh đều bị mờ, thoát ảnh đó ra vào xem lại thì mới nét. Mong add hướng dẫn cách khắc phục ạ. Thanks add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.022102,
+         "id": "949292",
+         "field_search": "question",
+         "question": "Facebook trên j5 prime mấy nay của e đều bị hiện tượng như vào các page trực tiếp xem hình đều bị loạn bài viết vs hình ảnh, ví dụ bài viết ảnh A loạn sang bài ảnh B, rồi cứ bị hiện các khoảng trắng lúc xem các bài viết như vậy. Đây là lỗi gì ạ 😣😣😣 Thử qua mạng nhiều chỗ đều bị như vậy, 3g cũng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.640182,
+         "id": "856805",
+         "field_search": "question",
+         "question": " Khi oppo F1 xem video phát trực tiếp trên fb lại bị mờ , hoặc xem video clip trên messenger lại mờ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.502193,
+         "id": "996114",
+         "field_search": "question",
+         "question": "em dùng điện thoại A3 những đoạn video em quay được bây giờ báo lỗi khi xem thì jo làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.37917,
+         "id": "885594",
+         "field_search": "question",
+         "question": "xem phim trên FPT Play và Trình phát video thì bị như vậy, xem youtube thì bình thường, để chế độ Full HD lun, mạng cũng mạnh, xem máy khác thì không bị là sao ạ. em đang dùng Yoga 500 14IBD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.351234,
+         "id": "1150188",
+         "field_search": "question",
+         "question": "Mk dùng ss a5. Sau khi gắn thẻ nhớ 16gb vào vẫn chụp ảnh bình thường nhưng khi xem lại thì k xem được ảnh. File ảnh vẫn còn nhủng k xem được là vì sao và có cách nào đê lấy lại ảnh k? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.34677,
+         "id": "899255",
+         "field_search": "question",
+         "question": "chào anh, chị. hiện tại e đang dùng asus X552LAV SX921D, lúc trước e mua máy cài win 8, khi e tải video về mở ra xem thì thấy cuối góc phải trên thanh taskbar có thấy 3 dòng chữ LAV, xem có thể stop thẳng trên màn hình (nó giống y như phần mềm media player classic), chỉ khác là khi mở ra có 3 chữ LAV dưới (em nhớ có nền màu xanh dương). Máy e bị hư phải chạy ctr lại rồi ngta cài cho em win 10, giờ em xem video k có cái LAV đó nữa, chỉ có movie&tv, photo, windows media thôi. Em rất thích cái LAV nhưng không biết làm sao để tìm được, mong add giúp em ạ. Chân thành cảm ơn add. :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.28586,
+         "id": "908987",
+         "field_search": "question",
+         "question": "Mình đang dùng ip5 mà thỉnh thoảng lại bị lỗi xem video ở tất cả các ứng dụng đều bị hiện tượng đứng hình video k chạy( kể cả ứng dụng video của ios) phải reset lại máy thì mới bình thường, cho mình hỏi lý do và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.24755,
+         "id": "867868",
+         "field_search": "question",
+         "question": "Mình có tải video lên youtube , nhưng nó chỉ cho xem trên máy tính , còn hạn chế xem ở một số thiết bị , làm sao để xem trên các thiết bị khác (điện thoại , máy tính) ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.12096,
+         "id": "912773",
+         "field_search": "question",
+         "question": " lam sao để xem video trên ipad air2 full mang hinh được .không còn đen ở trên dưới ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.023113,
+         "id": "995326",
+         "field_search": "question",
+         "question": "Tại sao xem video trên iPhone 6 mà không nghe được tiếng.,?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.955885,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.905684,
+         "id": "1002699",
+         "field_search": "question",
+         "question": "Em xài đt ss galxy J3... tại sao mỗi lần muốn gọi video cho ai đó đều không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.871262,
+         "id": "1142473",
+         "field_search": "question",
+         "question": "Điện thoại Xiaomi Mi8 lite của tôi khi chụp bằng chế độ thủ công thì máy đơ ra sau đó ảnh không xem được xin hỏi phải khắc phục như thế nào ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.840454,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.767721,
+         "id": "1001567",
+         "field_search": "question",
+         "question": "Cho em hỏi Em vào 1 trang wep để xem video trong trang wep đó bằng thư viện trình phát video mà nó báo là không thể mở videoLần trước thì em xem được video mà giờ k được Dien thoại của người khác thì xem được ...mong anh chị chỉ cho em cách cài đặt lại mục thư viện..trình phát video ạ.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.52073,
+         "id": "1139996",
+         "field_search": "question",
+         "question": "Có ai bị tình trạng như mình ko ad, máy mình oppo f5 (cph1723) 4gb ram, khoảng mấy tháng nay (đã 3 lần cập nhật của oppo vẫn ko hết) bị tình trạng treo video ko xem được, bất kể là video trên youtube (xem bằng trình duyệt uc browser, chrome, youtube) hay video đã lưu trong máy ? Mỗi lần bị như vậy mình phải restart lại mới hết rồi cũng bị lại ? Mong ad trả lời và tham khảo giúp mình ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.454687,
+         "id": "1135408",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy mobell nova i4 mỗi khi bật mạng lên thì máy lại bị đơ,xem video ko đc .Lam  Sao đe khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.379002,
+         "id": "1158635",
+         "field_search": "question",
+         "question": "Mình dùng các ứng dụng zalo viberKhi xem ảnh hoặc video thì nó tải về máyLàm sao có thể xem mà ko phải tải về lưu trong máy. Mình dùng sam sung notes 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.350416,
+         "id": "1004765",
+         "field_search": "question",
+         "question": "điện thoại em lỡ bật chế độ xem ảnh bằng máy in, vậy em muốn chỉnh xem trên bộ sưu tập thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.19143,
+         "id": "918678",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s, gần đây mỗi lần vào thư viện nhấp vào xem ảnh, video thì nó lại hiện lên dấu \"!\" phía dưới góc phải? Cho em hỏi là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.1021,
+         "id": "1010246",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung s8 plus, hiện tại ảnh và video nằm chung 1 thư mục. Làm sao để e tách được ra riêng ảnh với video ạ?. Tức là khi phát sinh 1 video mới thì máy mặc định sẽ vào thư mục video, chứ mình ko phải vô thư mục chung đó rồi di chuyển thủ công wa thư mục video vừa tạo ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.097853,
+         "id": "896404",
+         "field_search": "question",
+         "question": "Anh cho em hỏi tại sao, sau khi gọi video trên mesenger xong (trên đt ss glx j3) thì âm lượng nó cứ như vậy, khi nghe nhạc, xem phim... nó đều phát âm thanh bằng loa đàm thoại chứ không phải loa ngoài. Nó bị gì vậy ạ? Và cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.967802,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.910366,
+         "id": "1019904",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng đt Samsung Galaxy J2, hiện máy của em bị lỗi gì đó mà em mới chụp ảnh xong mở ảnh ra xem lại thì không mở được và hiện thông báo \"Không có mục nào trong bộ sưu tập\".Em mở bộ sưu tập và cả thẻ nhớ ra xem cũng không thấy có ảnh mới chụp? Em muốn hỏi làm thế nào để sửa được ạ? Cám ơn anh/chị nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.805292,
+         "id": "763041",
+         "field_search": "question",
+         "question": " Tôi có tài khoản iCloud rồi muốn xem lại thông tin phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.721775,
+         "id": "1151612",
+         "field_search": "question",
+         "question": "E sài đt realme c1 . Maya mua được khoảng 1 tháng... nhưng xem hình ảnh trên Facebook..hay tải ảnh về đt đều bị mờ dù k có bất kì và chạm mạnh nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.623396,
+         "id": "996723",
+         "field_search": "question",
+         "question": "Iphone xem youtube toàn màn hình mà bị lỗi như thế là sao ạ.Bên trên nó màu đen bên phải màu trắng video nào cx bị z ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.562424,
+         "id": "1011419",
+         "field_search": "question",
+         "question": "Các anh chị ơi lm ơn giúp e vs....E dùng máy tính bảng Samsung Galaxy Tab A6 quay được video nhưng khi xem lại màn hình đen sì, nghe được mỗi tiếng thôi!E cầm đi đến thế giới di động bảo họ giúp thì xem được 2,3 lần rồi lại bị như thế....Giúp em với ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.515924,
+         "id": "1151608",
+         "field_search": "question",
+         "question": "Tôi mới mua a7 2018 bản 128gb ngày 20.2.2019 tại thế giới di động phường 11 tp. Cao lãnh đồng tháp. Bây giờ máy xuất hiện lỗi youtube mỗi lần muốn xem clip phải lên ch play gở cài đặt ra cài lại mới xem được clip. Xem được vài lần lại bị đen thui như hình thế mình có thể đổi điện thoại khác cùng loại được ko.mình có đem điện thoại ra cửa hàng nhân viên kỹ thuật nói bị lỗi. Mak chẳng lẻ muốn xài youtube là phải setup lại sau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.510199,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.501678,
+         "id": "996992",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung galaxy a5 2016. Khi đang xem video trên youtube và facebook thì tự nhiên bị dừng kiểu như pause phải bấm tiếp tục mới xem tiếp được. Cứ 20s lại bị 1 lần.  Giúp mình tìm cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.482836,
+         "id": "1163470",
+         "field_search": "question",
+         "question": "máy e là ss j2 e vào bộ sưu tập để xem video n ghi la chrome đã dừng rồi n thoát ra màn hình chính k xem đc video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.16306,
+         "id": "1150369",
+         "field_search": "question",
+         "question": "Em dùng máy Mi Play mới mua vài ngày nhưng môi lần xem youtube được vài video thì máy đứng ko bấm được gì ngay cả nút tắt. Cứ mỗi lần v em đều ph đưa vân tay vào và bấm nút tắt thì nó mới khởi động nguồn lại. Bị cái này cx 3,4 lần rồi nên em xin ý kiến ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.148386,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.071068,
+         "id": "804074",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5s mới jeaback để cài ảnh đại diện video trên facebook, mấy tài khoản facebook khác đăng nhập trên điện thoại mình đều thay ảnh đại diện bằng video rồi, mà chỉ mỗi nick facebook mình là không thấy để up video đại diện thôi. Mình không hiểu sao luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.012623,
+         "id": "1151308",
+         "field_search": "question",
+         "question": "Tôi vừa mua điện thoại oppo a3s, giờ muốn xem các ứng dụng đang chạy trên Ram thì vào như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.995358,
+         "id": "1007753",
+         "field_search": "question",
+         "question": "tôi muốn kiểm tra xem điện thoại của tôi có bảo hiểm không ,, thì làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.869473,
+         "id": "1021801",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ: em và bạn trai dùng chung icloud, mà lại ko xem được tin nhắn imessage hay ảnh. Chỉ xem đc danh bạ và cuộc gọi thôi. Vậy làm cách nào để có thể xem được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.760996,
+         "id": "868824",
+         "field_search": "question",
+         "question": "Em đang sài đt Coolpad khi vào facebook thì kh xem đc video là sao ạ, lúc mới mua thì em vào facebook vẫn xem video đc nhưng tự nhiên bây h kh xem đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.744907,
+         "id": "894608",
+         "field_search": "question",
+         "question": " Tại sao đăng nhập vào id apple nó lại hiện ra chữ xem xét sau đó ấn chữ xem xét nó bảo điền thông tin như hình     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.73232,
+         "id": "751746",
+         "field_search": "question",
+         "question": " Tôi gởi ảnh trên photo của gmail bằng máy để bàn. Khi mở iphone thì xem bằng cách gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.662106,
+         "id": "1141292",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình dùng iphone 7plus lúc trước có quay mấy video nhưng giờ vào xem lại không được mà cần phải bật mạng mới cho xem là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.62049,
+         "id": "876286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. E đang xài iphone 6 sau nhiều lần sao lưu thì bây giờ vô album ảnh xem lại ảnh thì phải có 3g hoặc wifi thì mới xem rõ ảnh được còn nếu không có mạng thì hình ảnh rất mờ và hiện biểu tượng chữ i ở góc dưới bên phải màn hình. Có cách nào khắc phục tình trạng này không ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.593904,
+         "id": "1021015",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao khi down video từ cốc cốc về máy khi xem lại thì âm thanh và hình ảnh không khớp nhau ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.579021,
+         "id": "712410",
+         "field_search": "question",
+         "question": " Tại sao xem video trên điện thoại lại bị mờ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.494652,
+         "id": "1149782",
+         "field_search": "question",
+         "question": "có phần mềm nào có thể xem video trong thẻ nhớ trên samsung j7 pro ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.491867,
+         "id": "1156785",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng oppo f9 và khi xem story trên instagram hay facebook đều bị xén chữ 2 bên rìa, có cách khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.47003,
+         "id": "762670",
+         "field_search": "question",
+         "question": "Chào mừng bạn đến với app Ảnh App Ảnh kết nối liền mạch với Thư viện Ảnh iCloud bao gồm tất cả ảnh và video được lưu trữ trên iCloud và luôn cập nhật trên web, iPhone, iPad, iPod touch và máy Mac. Để sử dụng app Ảnh, hãy vào Cài đặt iCloud trên thiết bị iOS, chạm vào Ảnh và bật Thư viện Ảnh iCloud. Trên máy Mac, hãy mở app Ảnh, vào Tùy chọn và bật Thư viện Ảnh iCloud. *Ảnh iCloud yêu cầu phiên bản iOS 8.1 trở lên, hoặc OS X Yosemite 10.10.3 trở lên.,,,,, dong chữ này xuất hiện khi vào xem ảnh,, tôi khong rõ xin hỏi , cảm ơn ,,, xin chỉ cách xem ảnh trên icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.430897,
+         "id": "1010660",
+         "field_search": "question",
+         "question": "Em xài J7 10. Hông hiểu sao dạo này vào xem hình và video không được, máy hay tự động tắt cũng mở không được. Máy em bị gì và làm sao để khắc phục ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.42832,
+         "id": "997973",
+         "field_search": "question",
+         "question": "Thời gian gần đây thì con J7 prime của em hay xuất hiện lỗi khi lướt wed là hiện lên logo của loa kèm tiếng bíp rất khó chịu, nó làm đt đơ trong nữa giây làm hoạt động tải về trang wed hoặc xem video trên youtube bị đứng. Đặc biệt là khi xem video trên youtube nó xuất hiện liên tục làm video dừng rất nhiều lần. Mod giúp em với ạ. Loa trong và loa ngoài đt em bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.31496,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.149124,
+         "id": "831946",
+         "field_search": "question",
+         "question": " Vì sao facebook trên iphone 4 của tôi tối lại và hiện lên chữ đang chờ?Làm thế nào để sử dụng tiếp? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.133461,
+         "id": "1015743",
+         "field_search": "question",
+         "question": "Mình muốn hỏi làm sao để xem được trạng thái và cập nhật của người khác trên zalo máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.027435,
+         "id": "1148015",
+         "field_search": "question",
+         "question": "e dùng samsung j5 mà lúc xem video máy bị đứng hình thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.986225,
+         "id": "1161092",
+         "field_search": "question",
+         "question": "Cho e hỏi.e xem trên youtobe về cách chạy lại đt như ban đầu,xong e làm theo như trên youtobe.và e chạy lại thành công nhưng hk hĩu sao đt e bị mất một nữa số ảnh và video trong máy.vậy mấy ac có thể nghỉ cách cứu mấy tấm ảnh với video của e về được hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.925446,
+         "id": "771215",
+         "field_search": "question",
+         "question": " a qtv..em tải nhạc từ mp3 hay youtobe đều ko thể mở xem được ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.872778,
+         "id": "1157413",
+         "field_search": "question",
+         "question": "Mk dùng Oppo f9 dạo này vào youtobe xem thì xem video chính ở dưới lại không hiện các video khác mà xuống thằng phần comment luôn đã xoá đi tải lại vẫn không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.840822,
+         "id": "761756",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5 nhưng bạn bè gửi tin nhắn video đến qua zalo mình không xem được phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.77008,
+         "id": "1117031",
+         "field_search": "question",
+         "question": "Tại sao tivi vào xem youtube không được nên tôi đã vào cài đặt nhà máy để cài lại và giờ tivi bị rè mà vẫn xem không được? Khắc phục sớm giúp tôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.757002,
+         "id": "612899",
+         "field_search": "question",
+         "question": " tại sao em gọi line video xem được hình nhưng không nghe được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.741991,
+         "id": "1019775",
+         "field_search": "question",
+         "question": "Mình dùng j7 prime.. Khi mình xem Trực tiếp giải liên quân mobile ở Việt Nam or Đài Loan trên youtube thì ko dc... đều hiện lên báo lỗi r thử lại... Vậy bây giờ mình chỉnh sao đây ad...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.696056,
+         "id": "766598",
+         "field_search": "question",
+         "question": " Tại sao Sony M4 nghe nhạc được mà khi xem video lại không có âm thanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "820793",
+   "total": 26137,
+   "total_current": 100,
+   "max_score": 47.703007,
+   "origin_question": " Cho hỏi cách chụp màn hình đt nova i6..làm như thế nào? ",
+   "hits": [
+      {
+         "score": 30.431034,
+         "id": "829228",
+         "field_search": "question",
+         "question": " Cách chụp ảnh màn hình máy mobell nova i6 là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.545938,
+         "id": "999337",
+         "field_search": "question",
+         "question": "cho em hỏi  cách chụp màn hình nokia 3 làm thế nào     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.04889,
+         "id": "1000015",
+         "field_search": "question",
+         "question": " Mobell nova i6.vì em không nhớ mk khóa màn hình nên em set lại máy nó bị như thế đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.792109,
+         "id": "1147377",
+         "field_search": "question",
+         "question": "Cho em hỏi cách chụp màn hình samsung j2 core như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.497126,
+         "id": "795251",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách chụp màn hình Samsung Galaxy Tab 2 7.0 như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.88961,
+         "id": "998056",
+         "field_search": "question",
+         "question": "Cách chụp màn hình điện thoại itel1516 plus như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.014591,
+         "id": "1168191",
+         "field_search": "question",
+         "question": "Cho em hỏi đt samsung A30 chụp màn hình không được vì chính sách bảo mật thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.638315,
+         "id": "1007001",
+         "field_search": "question",
+         "question": "Cách chụp màn hình trên máy itel s11 là như thế nào vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.544743,
+         "id": "1147346",
+         "field_search": "question",
+         "question": "xin cho hỏi,cách chụp hình xóa phong trên dt Huawei nova 3i như thế nào để làm mờ hậu cảnh ạ.và điện thoại samsung A6 khi xac sao không có đèn báo nguồn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.394054,
+         "id": "1018462",
+         "field_search": "question",
+         "question": " Bấm nút nào để chụp ảnh màn hình máy mobell nova i4 ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.347477,
+         "id": "770725",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại FPT S550 có chụp màn hình được không ạ nếu được thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.027931,
+         "id": "952539",
+         "field_search": "question",
+         "question": " Chụp ảnh màn hình bằng samsung A5 2017 như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.941603,
+         "id": "787287",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn chụp màn hình Mobiistar lai yuna thì phai làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.706573,
+         "id": "871307",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách tắt tiếng chụp hình trên iphone 5s như thế nào ?giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60563,
+         "id": "870792",
+         "field_search": "question",
+         "question": " Làm thế nào để chụp màn hình máy Samsung tab E  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.601978,
+         "id": "1017866",
+         "field_search": "question",
+         "question": "bqt cho hỏi samsung galaxy j2 có chức năng chụp màn hình ko vậy và chụp màn hình bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.328033,
+         "id": "1009422",
+         "field_search": "question",
+         "question": "Cho em hõi làm thế nào để chụp ảnh màn hình trên NOKIA 5?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.018097,
+         "id": "997512",
+         "field_search": "question",
+         "question": "cho em hỏi máy samsung j5 pr của em đang chụp ảnh thì màn hình đơ và nó cứ sáng mãi như vậy, không khởi động lại đc như vậy là làm sao và cách sửa như thế nào ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.85169,
+         "id": "1013458",
+         "field_search": "question",
+         "question": "Cho mình hỏi Chụp màn hình máy oukitel c3 thế nào bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.784132,
+         "id": "842514",
+         "field_search": "question",
+         "question": " muốn chụp lại màn hình của Lai zumbo thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.728613,
+         "id": "997882",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt màn hình khóa oppo f1s như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.62538,
+         "id": "1005227",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để chụp ảnh màn hình trên điện thoại samsung android 6.0 vậy hả tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.588215,
+         "id": "1138181",
+         "field_search": "question",
+         "question": "Cho e hỏi samsung galaxy j6 chụp màn hình bằng cách vuốt 3 ngón tay được ko ạ.néu được thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.571318,
+         "id": "1019701",
+         "field_search": "question",
+         "question": "TGDD ơi, Samsung J7Pro có chụp màn hình bằng cách vuốt bàn tay được không vậy? Nếu có thì setting như nào thế? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.557579,
+         "id": "1153929",
+         "field_search": "question",
+         "question": "Làm thế nào để chụp ảnh màn hình trên điện thoại lenovo vaiber k5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.518112,
+         "id": "1135182",
+         "field_search": "question",
+         "question": "Cách chụp ảnh màn hình đt itel s42. Ai bik chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.426804,
+         "id": "1164937",
+         "field_search": "question",
+         "question": "Ek mún cài lại màn hình khóa trên huawel nova 2i thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35033,
+         "id": "1024309",
+         "field_search": "question",
+         "question": "Ad cho em  hỏi cách đổi màn hình khóa htc10 evo như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.344551,
+         "id": "1017790",
+         "field_search": "question",
+         "question": "chụp màn hình nokia 6 làm thế nào vậy bạn, chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.266352,
+         "id": "1139988",
+         "field_search": "question",
+         "question": "Bán lại máy cũ mua của tgdd giá như thế nào vậy. Huawei nova 3i. Nứt màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.838367,
+         "id": "949538",
+         "field_search": "question",
+         "question": " Chác chụp màn hình q mobile lunal như thế nào vui lòng chỉ giúp mình vơi ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.763105,
+         "id": "999464",
+         "field_search": "question",
+         "question": " Anh oi.cho em hoi máy em mobille nova i6 bi như the này anh có dc ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.63207,
+         "id": "1157964",
+         "field_search": "question",
+         "question": "Cho em hỏi ĐT hưawei nova i3 làm sao để biết màn hình còn zin kh ạTại em mua lại của 1 ng khác em thấy viền màn hình hơi hở 1 số chỗ và có đính kéo như đã thấy màn hình rồi ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.614603,
+         "id": "883804",
+         "field_search": "question",
+         "question": " Cho hỏi Samsung tab A6 7 có chụp màn hình ko ạ nếu có cho e hỏi cách làm !!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.505981,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036156,
+         "id": "1017969",
+         "field_search": "question",
+         "question": " F3 plus bị tình trạng chụp màn hình thế này. Bị lỗi đt hay sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.026981,
+         "id": "1013459",
+         "field_search": "question",
+         "question": "Chụp màn hình điện thoại oukitel c3 bằng cách nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.97623,
+         "id": "810787",
+         "field_search": "question",
+         "question": " Samsung galaxy j3 2016 camera trước chụp hình sao cứ bị lật nguộc cách chỉnh lại như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.87025,
+         "id": "783750",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách chụp màn hình Viettel V8514 là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.769972,
+         "id": "1022534",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách  chụp màn hình máy tinh bản itel it1730",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.753307,
+         "id": "773274",
+         "field_search": "question",
+         "question": " Tải ứng dụng về máy Mobell Nova S làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.751478,
+         "id": "1024172",
+         "field_search": "question",
+         "question": "mk sài đt mobistar lai yuna làm thế nào để bỏ khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.664936,
+         "id": "1152795",
+         "field_search": "question",
+         "question": "Cho tôi hỏi cách điều chỉnh chế độ thời gian khóa màn hình ở máy huawei gr5 như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.589272,
+         "id": "1159563",
+         "field_search": "question",
+         "question": " Máy e bị màn hình như thế này thì phải thay màn hình hay có cách nào khác không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.558521,
+         "id": "890704",
+         "field_search": "question",
+         "question": " Cách cài đặt tự động khoá màn hình trên IOS 10.0.1 như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.493685,
+         "id": "1143824",
+         "field_search": "question",
+         "question": "Cách đăng xuất Gmail trên điện thoại nova 3i như thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.475676,
+         "id": "1166323",
+         "field_search": "question",
+         "question": "Tgdd có miếng dán màn hình của đt huawei nova 2i không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.471807,
+         "id": "761230",
+         "field_search": "question",
+         "question": " Cho mình hỏi  camera trước của Samsung Galaxy J2  chụp hình ảnh bị lật ngược lại. cách chỉnh thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43741,
+         "id": "793984",
+         "field_search": "question",
+         "question": " Cho e hỏi cách chụp màn hình điện thoại Samsung galaxy J3 2016 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43533,
+         "id": "1164304",
+         "field_search": "question",
+         "question": "Làm sau chụp xóa phông trên Samsung galaxy a20 chụp xóa phông như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.409235,
+         "id": "1149323",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt mã pin mở khóa màn hình trên huawei nova 3i đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.165339,
+         "id": "1158953",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi cách chụp ảnh màn hình điện Asus Zenphone Max M1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.116888,
+         "id": "1001081",
+         "field_search": "question",
+         "question": "cách tắt lớp phủ màn hình ss galaxy s5 của nhật là như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.958743,
+         "id": "1144447",
+         "field_search": "question",
+         "question": " cho mình hỏi con đt Xiaomi redmi 6a sử dụng loại pin nào???Sạc như thế nào thì đúng cách??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.946922,
+         "id": "1020062",
+         "field_search": "question",
+         "question": "Cho em hỏi Muốn chụp ảnh màn hình neo7 thì làm sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7880535,
+         "id": "999575",
+         "field_search": "question",
+         "question": "Mình mới mua mobell nova i6 nhưng ảnh tải về lúc mở ra thì đen xì là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.778538,
+         "id": "1156135",
+         "field_search": "question",
+         "question": "anh, chị cho em hỏi cách chụp màn hình điện thoại samsung A72018 được không ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.774527,
+         "id": "995076",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi tầm 4tr5 thì nên mua đt nào cấu hình ổn, chụp hình đẹp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.647076,
+         "id": "1002576",
+         "field_search": "question",
+         "question": "đt mình là huawei j5, thẻ nhớ 8gb nhưng lúc nào bộ nhớ cũng đầy, muốn chụp ảnh nhưng nó báo ko thể lưu, mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.612718,
+         "id": "760964",
+         "field_search": "question",
+         "question": "Vậy chạy lại phần mềm có mất phí nhiều không qtv? máy Sony C4 có chức năng chụp ảnh màn hình không nếu có thì làm thế nào để chụp được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.604881,
+         "id": "1010178",
+         "field_search": "question",
+         "question": "Đt mobell nova i4 sau k sử dụng thẻ nhớ v?? Làm thế nào để sử dụng được thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.520445,
+         "id": "763868",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 6s cua mình đang chạy ios 9.1 khi ấn nút khóa màn hinh có lúc bị chớp màn hình 2 lần. bình thường chỉ cần ấn 1 cái là màn hình tắt luôn. giờ ấn khóa nó lại hiện thêm 1 lần nữa mới tắt màn hình. kiểu dạng như chụp ảnh màn hình vậy. cho e hoie là như thế là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.359878,
+         "id": "788037",
+         "field_search": "question",
+         "question": "QTV cho em hỏi giấy bảo hành miến dán màn hình laptop của em bị mờ chữ hết giờ em muốn đi dán lại màn hình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.326425,
+         "id": "1139260",
+         "field_search": "question",
+         "question": "tôi mua huawei honor band 4 ở TGDD vài ngày trước, cho hỏi có chức năng chụp ảnh từ xa không, và có thì chụp như thế nào, thấy ở hãng bảo có chụp hình từ xa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.313778,
+         "id": "1153825",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với. Đt nova 3i của e bị ám hình ứng dụng trước. Là bị làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.24422,
+         "id": "996536",
+         "field_search": "question",
+         "question": "Chụp màn hình máy mobiistar lai yuna x Chụp làm sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.232192,
+         "id": "648787",
+         "field_search": "question",
+         "question": " Cách chụp lại màn hình trên điện thoại mobiistar ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.132962,
+         "id": "1022438",
+         "field_search": "question",
+         "question": "Cho mình hỏi Điện thoại OBI Sf1 có chức năng chạm hai lần sáng  màn hình không. Nếu có thì làm như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.104643,
+         "id": "1011921",
+         "field_search": "question",
+         "question": "Chụp màn hình Nokia 5 thế nào nhỉ? Nhấn phím nguồn và âm lượng k thấy được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.088079,
+         "id": "1143933",
+         "field_search": "question",
+         "question": "Cách chụp màn hình, quay phim màn hình và ghi âm cuộc gọi của Nokia 8.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.086546,
+         "id": "581354",
+         "field_search": "question",
+         "question": "Mobiistar Touch BEAN 502C khi dùng Camera 360 chụp xong 1 ảnh thì bị đơ màn hình chụp và đứng ảnh đã chụp lúc đó. Không chuyển lại màn hình chụp như cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.084911,
+         "id": "1150824",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, làm sao để hiện nội dung của Messenger trên màn hình khóa của Nova 3i ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.014264,
+         "id": "1164280",
+         "field_search": "question",
+         "question": "ad cho hỏi xíu ạ. mình sài điện thoại huawei nova 2i mình cài phần mềm color flash launcher nó làm thay đổi giao diện màn hình mình và k cho mình gỡ cài đặt nó, mình muốn trở về giao diện cũ và gỡ cài đặt phần mềm đó thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.995402,
+         "id": "766902",
+         "field_search": "question",
+         "question": " Cách  Zoom khi chụp ảnh trên Ipad Air 2 như thế nào? Dùng phím tăng, giảm âm lượng không được vì nó chụp liên tục. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.987993,
+         "id": "1133963",
+         "field_search": "question",
+         "question": "Cách chia đôi màn hình oppo a37 là như thế nào ạ .s tìm mãi nhưng vẫn không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.821742,
+         "id": "1152573",
+         "field_search": "question",
+         "question": "mình dùng điện thoại samsung j3pro. tại sao khi tắt màn hình xong khoảng vào giây sau điện thoại tự động sáng màn hình nền và màn hình khóa. cho mình hỏi là vì sao và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.800943,
+         "id": "849951",
+         "field_search": "question",
+         "question": " Mình muốn đổi màu chữ ở màn hình khóa oppo F1thành màu đen thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.76237,
+         "id": "1166045",
+         "field_search": "question",
+         "question": "Xin chào ạ!  cho em hỏi làm thế nào để chia màn hình trên vivoY91C ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.715557,
+         "id": "1009394",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí , mình đang sử dụng con S7 edge , mình đang để chế độ màn hình luôn sáng nhưng khi sạc thì màn hình cứ tự mở màn hình liên tục , cách khắc phục như thế nào vậy AD , thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.694085,
+         "id": "761248",
+         "field_search": "question",
+         "question": " Ai chỉ em cách chụp ảnh màn hình Samsung Galaxy J2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.641588,
+         "id": "1012425",
+         "field_search": "question",
+         "question": "Hãy chỉ cho tôi Cách chụp màn hình điện thoại hãng itel dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.613312,
+         "id": "1000432",
+         "field_search": "question",
+         "question": "Mình muốn đưa đèn pin ra màn hình chính ở galaxy j5 2016 như trong hình thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6026,
+         "id": "791698",
+         "field_search": "question",
+         "question": "Sony m4 lúc đầu bị camera mờ, chụp hình như có màn sương. Sau khi reset máy thì chụp hình rõ. Cho hỏi tình trạng camera mờ có xảy ra nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.43463,
+         "id": "999093",
+         "field_search": "question",
+         "question": "mình vừa mua con  nokia 3 tìm mãi không biết chụp màn hình thế nào ạ! nhờ add hướng dẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.398445,
+         "id": "926336",
+         "field_search": "question",
+         "question": "Cho em hỏi cách quay màn hình iphone 5s như thế nào vậy ạ? Em có tải ứng dụng Shou về, nhưng khi quay xong thì không thấy chỗ lưu lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.380773,
+         "id": "1160044",
+         "field_search": "question",
+         "question": "Cho e hỏi muon bật pin  đt ssamssung a20 như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.362995,
+         "id": "1169194",
+         "field_search": "question",
+         "question": "Ad cho tôi hỏi làm thế nào để tắt mật khẩu màn hình khóa oppo f1 plus ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.360769,
+         "id": "1159494",
+         "field_search": "question",
+         "question": "ĐT Huawei y9 bị vỡ kính màn hình. E muốn thấy thấy thì thấy thì giá như thế nào. Và mất mất bao lâu vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.343248,
+         "id": "1009834",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em đang dùng là Lenovo A7010. Hiện tại máy em không thể download bất kỳ file gì cả trên web lẫn trên mail. Em chụp ảnh (máy ảnh và chụp màn hình) cũng không lưu được. Vậy cho em hỏi máy em bị lỗi gì và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.330351,
+         "id": "1134662",
+         "field_search": "question",
+         "question": "Hiện em đang dùng laptop ASUS X555U, gần đây màn hình máy tính của em thường xuyên xuất hiện tình trạng bị nhiễu, chập chờn. Cho em hỏi máy bị làm sao và cách giải quyết như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.329073,
+         "id": "944056",
+         "field_search": "question",
+         "question": " Cách tạo hình động cho iPhone IOS 10 như thế nào vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.306134,
+         "id": "1001027",
+         "field_search": "question",
+         "question": "xin chào cho hỏi TGDD có thay màn hình cảm ứng sony z5 ko ah, giá như thế nào ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.287814,
+         "id": "1131747",
+         "field_search": "question",
+         "question": "Dạ e muốn hỏi giữa samsung galaxy a6 và huawei nova y9 thì e nên chọn con nào? ( e muốn chơi game và chụp hình tốt 1 chút)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.258358,
+         "id": "882896",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop của em bị lỗi nhòe màn hình AOE , cách khắc phục thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.254965,
+         "id": "900853",
+         "field_search": "question",
+         "question": "  Lúc sạc pin thì màn hình hiển thị như thế này. Rồi mình turn off đi. Giờ mình muốn turn on lại thì làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.252349,
+         "id": "743199",
+         "field_search": "question",
+         "question": " Xin chào! Cho hỏi ở TGDĐ có thay màn hình IPhone 5s ko và giá cả như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.252349,
+         "id": "844488",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi cài cái thời tiết ra màn hình chính oppo f1 plus như thế nào ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.242237,
+         "id": "1161382",
+         "field_search": "question",
+         "question": ", Cho mình hỏi Làm thế nào để khắc phục để điện thoại Huawei Nova 3G được cho nó đỡ giật lag lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.210789,
+         "id": "1157393",
+         "field_search": "question",
+         "question": "QTV cho e hỏi, e xài đt J7 prime mới chụp hình xong nhưng lỡ tay xóa mất, ảnh chưa kịp đồng bộ với samsung Account, vậy có cách nào để lấy lại được tấm hình đó k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

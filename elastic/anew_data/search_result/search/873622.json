@@ -1,0 +1,801 @@
+{
+   "id_query": "873622",
+   "total": 28398,
+   "total_current": 100,
+   "max_score": 63.23466,
+   "origin_question": " Zalo không hiển thi bình luận phải làm sao?Đã khởi động lại ma cũng ko dc ",
+   "hits": [
+      {
+         "score": 22.31204,
+         "id": "809272",
+         "field_search": "question",
+         "question": " Bạn ơi tại sao mình ko đọc được bình luận trên zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.845692,
+         "id": "881894",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s khi trả lời tin nhắn thì bật bàn phím ảo không hiển thị mình phải làm sao? Mình đã khởi động lại máy nhiều lần vẫn không đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.444504,
+         "id": "877749",
+         "field_search": "question",
+         "question": " tại sao khi kết nối dc với mạng mà zalo của tôi ko thể tải dc bìn luận trên ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.304718,
+         "id": "1150242",
+         "field_search": "question",
+         "question": "máy em cứ dùng đc 1 lúc là đơ với lại có sọc xanh15s khởi động lại cũng ko đc thì phải làm sao ạ ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.092299,
+         "id": "809765",
+         "field_search": "question",
+         "question": "Chào ad, cho mình hỏi khi bị người khác chặn zalo của mình, thì họ có thể xem được bình luận của mình trên ảnh của họ không. Bình luận sau khi họ đã chặn zalo mình nhé. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.961357,
+         "id": "857176",
+         "field_search": "question",
+         "question": " Đưa 2 ảnh lên zalo mà bạn bè chỉ bình luận 1 trong 2 ảnh đó. Vậy làm thế nào xem được bình luận của từng ảnh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.688932,
+         "id": "827251",
+         "field_search": "question",
+         "question": "Tại sao mesenger của iphone không thông báo tin nhắn đến ạ ?Mình bật thông báo lên cũng không hiển thịXoá đi tải lại, khởi động lại máy, khôi phục lại máy cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.565346,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.561695,
+         "id": "791565",
+         "field_search": "question",
+         "question": " Cho e hỏi khi bình luận trên zalo nhấn gửi ở bàn phím sao không gửi đc. Cứ phải bấm phím gửi ở trên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.183899,
+         "id": "1139541",
+         "field_search": "question",
+         "question": "điện thoại j7 prime của e bị mất bàn phím, e đã tắt máy khởi động lại cũng k dc, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.97548,
+         "id": "951007",
+         "field_search": "question",
+         "question": " Có cách nào xem được bình luận của tất cả mọi người trên zalo mà không phải là bạn bè chúng không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.696115,
+         "id": "884832",
+         "field_search": "question",
+         "question": " Cho minh hỏisao để ngươi khác ko đọc đươc bình luận của minh trên zalo vậy ad oi??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.671143,
+         "id": "1022509",
+         "field_search": "question",
+         "question": "Add cho hỏi j7 pro sao k xóa dc các icon trên màn hình, và cũng k gỡ cài đặt dc trên màn hình ứng dụng luôn, đã khởi động máy lại..add giúp cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.176497,
+         "id": "934501",
+         "field_search": "question",
+         "question": "Iphone 7 của mình đang dùng bình thường thì bị mất 3g, mình đã tắt và bật lại,cài đặt lại mạng, khởi động lại máy đều không được,phai làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.162361,
+         "id": "1139433",
+         "field_search": "question",
+         "question": "Tôi có một page nhưng không hiểu tại sao những người khác bình luận bằng ảnh không được ngay cả tôi? Tôi đã thử nó báo lỗi \"đã có lỗi xảy ra\" chữ bình luận bằng chữ thì được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.136871,
+         "id": "760869",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 6S khi sạc pin vẫn hiển thị đang sạc, nhưng % không lên, nhưng tắt nguồn khởi động lại pin hiển thị gần sạc đầy nếu sạc tiếp % vẫn tăng bình thường vậy là sao. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.042944,
+         "id": "1140317",
+         "field_search": "question",
+         "question": "Cho e hỏi sao B612 của e lại bị chuyển sang chế độ chụp chân dung ạ, em đã thử tắt nguồn khởi động lại ko đc, cũng thử xóa phần mềm và tải lại cũng ko đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.040506,
+         "id": "801391",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Sau khi đã cài zalo trên laptop và quét QR xong và cũng đã đăng nhập thành công, nhưng sao mình ko thấy hiển thị các tin nhắn zalo trên laptop vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825665,
+         "id": "1144330",
+         "field_search": "question",
+         "question": "Em dùng máy tính bảng samsung, em đã không sử dụng 1 tuần rồi, bây giờ đem sạc thì mở máy không lên, khởi động nguồn cũng vậy. Em phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.780476,
+         "id": "1135149",
+         "field_search": "question",
+         "question": "Em đang sử dụng Đt Samsung J3 proĐang chơi bình thường thì tự nhiên Máy tự khởi động lại. Em cũng không biết đã cài đặt gì mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.656044,
+         "id": "767697",
+         "field_search": "question",
+         "question": " iPhone 5s lock máy ko khởi động được có icloud. Giờ phải làm thế nào để đăng xuất và khởi động lại máy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.633192,
+         "id": "938774",
+         "field_search": "question",
+         "question": "Máy a7 của mình đang dùng thì bị đơ màn hình, không tắt nguồn được, cũng không khởi động lại được thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.435112,
+         "id": "1009008",
+         "field_search": "question",
+         "question": "Tại sao máy tính của e mỗi lần bật đôi khi lại bấm bàn phím hãy gõ chữ không được hay dùng các kí hiệu trên bàn phím cũng k đc , e dùng fn+inter num lk cũng không đc rất bực mình phải khởi động lại mới bình thường lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.41267,
+         "id": "787858",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 4s, không biết tại sao pin dt hao rất nhanh, thậm chí ko dùng gì cũng hết, và bây giờ thì dt mình ko sạc pin được, mỗi lần cắm sạc thì dc 30 giây dt tự động tắt nguồn rồi khởi động lại, cứ lặp đi lặp lại như v. có phải bị hư pin không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.365713,
+         "id": "816253",
+         "field_search": "question",
+         "question": "Sao máy tính của e nó đang chạy bình thường mà tự nhiên nó lại chạy ra cái màn hình ngang là sao???với lại em khởi động máy lại nó cũng ko dk. màn hình nó tối thui à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.213076,
+         "id": "833698",
+         "field_search": "question",
+         "question": "Tại sao em đăng nhập zalo trên máy tính mà màn hình cứ hiển thi không lấy được thông tin người dùng và bắt đóng ứng dụng zalo là làm sao ạ??? Tối hôm trước em vẫn đăng nhập được bình thường ạ... Rất mong được giải đáp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.166817,
+         "id": "1157397",
+         "field_search": "question",
+         "question": "Em không biết do lỗi gìVào youtube xem được,nhưng nó không  hiển thị video mới bên dưới video đang xem.Chỉ hiển thị các bình luận dưới video đang xem thôi!Như hình bên dưới!Mong anh chị giúp em cho nó lại bình thường! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.135998,
+         "id": "988985",
+         "field_search": "question",
+         "question": "Thu 10 giờ trước   2 bình luận Mik ms mua góp cái zenfone 3max dc 3 ngày.. Giờ mik muốn đổi mấy khác dc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.086468,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.017275,
+         "id": "814078",
+         "field_search": "question",
+         "question": "Tôi dùng di động Asus khi vào zalo đọc báo cứ bị thông báo dọa máy của bạn chạy chậm và bắt cài theo hướng dẫn tắt đi khởi động lại nó lại xuất hiện .đành phải bỏ zalo tôi rất bức sức vậy hướng dẫn cho biết phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.994795,
+         "id": "843269",
+         "field_search": "question",
+         "question": " Tại sao zalo mình không ai biết mật khẩu mà lại hiển thị thông báo phiên bản đã hết hạn ạ? Làm mình hoang mang quá. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.953417,
+         "id": "1002920",
+         "field_search": "question",
+         "question": "em đang coi youtobe thì em tắt máy r đảo lại khởi động nguồn lại hk dc ă với em gấn chui sac vào cũng hk hiện lên j hết ạ có thể cho em bt phải làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.900267,
+         "id": "1023288",
+         "field_search": "question",
+         "question": "cho mình hỏi, minh mới mua J7, máy khi tắt nguồn khởi động lại thì chỉ hiển thị sim 2, còn sim 1 thì ko có. phải tháo sim ra lắp lại thì mới có. tại sao lại như vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.898731,
+         "id": "931341",
+         "field_search": "question",
+         "question": "  Em ko vào dc dù cho e đã reset máy và xoá Face tải lại cũng ko vào dc là sao. Mong ad giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.895521,
+         "id": "1135135",
+         "field_search": "question",
+         "question": "mình dùng s8 galaxy s8 cũng bị nỗi không phản hồi system rồi nó cứ tự khởi động lại máy liên tục thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.743986,
+         "id": "1167792",
+         "field_search": "question",
+         "question": "Điện thoại Samsung a6 của mình bị bật tắt wifi liên tục . Khởi động lại nguồn rồi mà vẫn không hết , khôi phục cài đặt mạng cũng không có tác dụng . Vậy phải làm sao ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.508556,
+         "id": "882463",
+         "field_search": "question",
+         "question": " cai gia lap anroi tren may tinh .ma sao kg vao zalo dc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.467516,
+         "id": "1144324",
+         "field_search": "question",
+         "question": "Cho em hỏi là ip 6 camera thường bị quay ngược thì làm thế nào ạ? Em đã khởi động lại và không được, em cũng tải thử app camera 360 về làm theo hướng dẫn cũng kg đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.440708,
+         "id": "1021033",
+         "field_search": "question",
+         "question": "Em mới mua đt Samsung galaxy A5 màu blue dùng rất mượt đến hôm nay em thấy nó hơi đơ lag nên e đã khởi động lại nhưng máy ko khởi động lại nữa. Em ko biết máy bị làm sao và e cần cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.436085,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.42626,
+         "id": "858132",
+         "field_search": "question",
+         "question": " Lam sao để tôi lấy lại hình ảnh của Zalo ngày 0806 2016 ma tôi đã xóa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.417305,
+         "id": "1156881",
+         "field_search": "question",
+         "question": "- Mình đang dùng Samsung galaxy A7 2018. Lỗi 4g toàn đao xg mạng E. - Khẳng định ko phải do mạng mình đăng ký 4G dùng suốt đổi sang máy này mới thế.- Mình cũng đã đợi bản cập nhật. Cũng đã cập nhật hết nhưng không sửa đc lỗi này. - Khởi động lại rất nhiều lần đc 1 lúc 4G lại đao xg E. Lúc cần sử dụng 4G lại phải khởi động lại. - Mình còn bảo hành đến 23/1/2020. - Mong bên Thế giới di động không trả lời chung chung như kiểu. Do mạng khu vực.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.247837,
+         "id": "1018472",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại oppo f3 nhưng khi mua ve gọi video trên zalo và mesenger đều nghe rất nhỏ dù đã tăg hết âm lượng bên kia nghe cũng rất nhỏ đường truyền mạng rất ổn định đã khởi động lại nguồn vẫn không hết là do sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.191118,
+         "id": "1144694",
+         "field_search": "question",
+         "question": "Mình đang dùng Oppo a3s. Sao mình dùng zalo nhưng không có thông báo khi có bạn bè bình luận về ảnh hay hoạt độnh của mình vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.14651,
+         "id": "1018447",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo F3 mỗi lần mình tra lời bình luận hoặc ai bình luận bằng nhãn dang trên Facebook là mình không thấy là sao vậy  Ad, mà dùng điện thoại khác thì thấy bình thường không bị Sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.079865,
+         "id": "1012416",
+         "field_search": "question",
+         "question": "Em mới mua cái j7 pro tại tgdd xài cứ khoảng 1 tuần là nó lại bị tình trạng ko vào ứng dụng dc phải khởi động lại mới xài dc, bị mấy lần rồi. Xin hỏi nếu đem máy ra thì có dc đổi lại máy mới ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.042519,
+         "id": "778355",
+         "field_search": "question",
+         "question": "iPhone 5 ios 9.2.1 tải appcola về dùng không được. Toàn bị văng ra khi vào dù đã trao quyền theo hướng dẫn. Mình đã khởi động lại máy hay xoá đi cài lại vẫn không khắc phục được. Vậy phải làm sao đây ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.978526,
+         "id": "1015244",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao e vào phần xim 3g.4g lại k bình luận dk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.965126,
+         "id": "816589",
+         "field_search": "question",
+         "question": "Cho hỏi mình dùng iphon 6+ mình gọi zalo, facebook, thi đầu dây bên kia k nghe dk ma minh vẫn nghe tốt, gọi điện bình thường thi bên kia cung nghe dk chi goi zalo với facebook ben kia la k nghe dk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.945561,
+         "id": "1005486",
+         "field_search": "question",
+         "question": "Điện thoại của em đang dùng thì máy báo Hệ thống đã dừng lại nên em tắt nguồn rồi khởi động lại. Nhưng khi khởi động thì máy đứng yên ở chữ ASUS đang chạy chứ không load tiếp, em phải làm sao ạ? Em hiện đang sử dụng zenfone c ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.934042,
+         "id": "941977",
+         "field_search": "question",
+         "question": "Điện thoại asus zenfone 2 của tôi khởi động ko lên nguồn, cắm sạc thì có sạc pin nhưng bấm nút nguồn để khởi động thì ko được, thi thoảng có khởi động được nhưng dùng cỡ 1 -2 tiếng thì lại sập nguồn. Vậy lỗi do đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.900793,
+         "id": "889924",
+         "field_search": "question",
+         "question": " laptop em khởi động lên cứ chạy Restart hoài không mở máy được phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.835763,
+         "id": "792224",
+         "field_search": "question",
+         "question": " Điện thoại ip của em sao vào Zalo binh luận thỉnh thoang cái nút gửi ấy nó k gửi đa binh luận là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.826504,
+         "id": "812845",
+         "field_search": "question",
+         "question": "Thi thoảng con 6s của mình có cuộc gọi đến nhưng k hiển thị người gọi điện mở màn cũng vậyTại sao lại như vậy và có cách nào khắc phục ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.775084,
+         "id": "795071",
+         "field_search": "question",
+         "question": "Tôi tải zalo về máy laptop và đã dùng điện thoại quét mã QR trên laptop và đã sử dụng zalo trên laptop tốt . Nhưng giờ không muốn sử dụng zalo trên laptop nữa tôi đã xóa biểu tượng zalo trên laptop rồi nhưng sao cứ mỗi lần tắt máy laptop rồi khởi động máy trở lại thì bảng zalo vần cứ còn trên laptop . Xin hỏi quản trị viên giờ muốn xóa vĩnh viễn zalo trên máy laptop thì phải làm như thế nào xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.769323,
+         "id": "842481",
+         "field_search": "question",
+         "question": "Cho em hỏiMáy đt em là iPhone 5s thì bỗng dưng máy lại không chụp hình đượcSau khi khởi động lai máy thì vẫn không chụp họ dc ạ thì em phải làm s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.716375,
+         "id": "807941",
+         "field_search": "question",
+         "question": "Máy Oppo r1001 hiển thị \"rất tiếc. com.oppo.exserveceui đã dừng lại\" thì phải làm sao, e đã khôi phục cài đạt gốc r mà không được, nó vẫn hiện lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.668716,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.666201,
+         "id": "998383",
+         "field_search": "question",
+         "question": "chao ban cho mình hỏi dt oppo r815 báo lỗi ko đủ dung lượng lỗi 506 là saotại mình vào zalo ko xem dc hình,và gui hình cũng ko dcra tiệm chạy lại chương trình rồi cũng ko dc luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.665162,
+         "id": "988586",
+         "field_search": "question",
+         "question": "wifi trên iphone 6 đang vào bình thường, tự nhiên lại bị mờ không xem được và cũng không vào được mục cài đặt, sau đó máy bị sập nguồn, có lúc hiện màu xanh, có lúc hiện màn hình màu trắng có hình ảnh táo khuyết, lại phải khởi động lại máy. Như thế máy bị làm sao và có cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.654352,
+         "id": "766952",
+         "field_search": "question",
+         "question": "Cho tôi hỏi iPhone 3 của tôi không gạt mở khóa màn hình được, dù tôi đã khởi động lại điện thoại, nguyên nhân làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.636153,
+         "id": "883222",
+         "field_search": "question",
+         "question": " Iphone 5 thường của mình khởi động lại rồi bị chớp màng hình bây giờ phải làm sao đây ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.634179,
+         "id": "1007651",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 đang dùng tự nhiên bị tắt tối đen màn hình và không khởi động lại được. Em đã thử xạc pin lại hơn nửa tiếng nhưng vẫn không khởi động được. Cho em hỏi nên làm sao bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.611272,
+         "id": "814418",
+         "field_search": "question",
+         "question": " Tại sao zalo lỗi ma không khắc phuc được vậy . Đăng ký mà cũng kiểm tra ngày và giờ vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.580442,
+         "id": "846506",
+         "field_search": "question",
+         "question": "moi nguoi oi giúp em với ~ chuyện là thế này thằng em của em nó làm sao lỡ xóa cái nvidia driver trong . nó bảo khởi động lại ! lúc khởi động lại thì bình thường tới chỗ vào windows thì đứng yên luôn ( trong khi đó tiếng vào windows vẫn bình thường ) nó ở tư thế đó ko vào windows luôn à mong ae giúp đỡ em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.549804,
+         "id": "1007829",
+         "field_search": "question",
+         "question": "xin chào các QTV cho em là máy em lenovo A6000 máy đang sài bình thường thì bị tắt nguồn và tự khởi động lại thì bị treo logo không thể vào màn  hình chính được.Vậy em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.522376,
+         "id": "1017871",
+         "field_search": "question",
+         "question": "Sony xz cua minh cứ khoảng 1 tuần lại mất sim 2. Khởi động lại máy lại nhận sim 2  bình thường. Mình thấy cũng có mấy người hay bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.498126,
+         "id": "787336",
+         "field_search": "question",
+         "question": " Cho hỏi e mới mua con oppo f1 ma tại sao gọi điện zalo facebook lại Ko được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4942,
+         "id": "1162848",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao tải hình trên zalo k thấy trong bộ sưu tập vậy,e sài s9,e đã khởi động lại vẫn k đc ạ,e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.477592,
+         "id": "831477",
+         "field_search": "question",
+         "question": "em xài iPhone 4 lâu lâu có hiện tượng bị sập nguồn, mở lên lại thì không bắt được wifi nữa phải khởi động lại mới bình thường được, cho em hỏi hiện tượng đó là gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.460328,
+         "id": "1144255",
+         "field_search": "question",
+         "question": "cho em hỏi e dùng nokia3 TA-1032 . Sao cắm sạc lại dùng bình thường nhưng khi rút sạc ra máy cứ khởi động đi khởi động lại ạ . Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.435051,
+         "id": "1159336",
+         "field_search": "question",
+         "question": "A.c cho e hỏi. Đt e a5 2017 . Mới gần đây cấm sạc nó vẫn để dô sạc vẫn để sạc nhanh bình thường ma sao hơn 10 phut mới dc 1% . E đã tháo chui sạc thổi sạch bụi cắm lại roi ma vẫn k dc. A.c giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.425934,
+         "id": "1156631",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn đi. tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.360766,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.35271,
+         "id": "946314",
+         "field_search": "question",
+         "question": " sao oppo a39 tin nhắn và tin nhắn zalo kêu nhu nhau lại ko đổi dc là sao ko đổi dc vô lý quá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.3524,
+         "id": "1136636",
+         "field_search": "question",
+         "question": "Cho em hỏi, sự cố này là sao vậy ạ? sao e tải bất cứ ứng dụng nào cũng đều gặp thế này. e làm mọi cách mà vẫn ko khắc phục được. e thậm chí là đã khởi động lại máy mà vẫn ko đc. e dùng Nokia lumia 530.. giúp e với!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.300997,
+         "id": "864077",
+         "field_search": "question",
+         "question": "Mình có kb trên zalo những người đó không đồng ý mà cũng không xóa bây h mình không thể kb thêm vì zalo báo đã quá số người gì đấy, mình phải làm sao đây... Mà zalo sau bao lâu mới tự hủy kb vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.295609,
+         "id": "851686",
+         "field_search": "question",
+         "question": "Anh ơi sao điện thoại em gui messerger không được  ak.nhan thi duoc.gui thi no bao dag ket noi ak .len laptop thi binh thuong.nhug ma giờ em  xoa messer rồi cai dac lai ma k cai dac dc,keu vui long kiem tra ket noi.trog khi do mag bih thg ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.290197,
+         "id": "1159787",
+         "field_search": "question",
+         "question": "khởi động lại samsung galaxy j7 2016 bị treo máy ta phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.252183,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.238563,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.227067,
+         "id": "944444",
+         "field_search": "question",
+         "question": "Mình dùng 6s, khi đăng hình thì nó báo là \"Không thể đồng bộ nhật ký lên máy chủ\". Mình đã xóa ứng dụng cài lại, tắt nguồn khởi động lại đều ko dc. Vui lòng hỗ trợ mình với. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.181488,
+         "id": "1011274",
+         "field_search": "question",
+         "question": "Em sài đt mobiistar lai yuna mỗi lần khởi động lại là nghe chuông ...Cách tắt chuông khi khởi động lại máy làm sao dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.150944,
+         "id": "909673",
+         "field_search": "question",
+         "question": " tại sao laptop của em sạc không vào điệnmặc dù đã cắm và thử khởi động lại máy rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.150076,
+         "id": "826713",
+         "field_search": "question",
+         "question": "Chào các bạn! Mình đang dùng iphone4, khi sạc pin % báo đầy rồi máy tự tắt nguồn. Mình bấm nút khởi động thì màn hình hiển thị rắc cắm và pin đã hết. Cắm nạp vào lại hiển thị pin hết, rất lâu máy không lên là bị sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.146364,
+         "id": "1000181",
+         "field_search": "question",
+         "question": "Xin cho em hỏi 1 chút ạ. E đang dùng j7 prime nhưng mấy hôm nay cứ sáng dậy là bị mất sóng. Ngày nào e cũng phải khởi động lại. Liệu có bị làm sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.142054,
+         "id": "1017268",
+         "field_search": "question",
+         "question": "   Facebook ko tìm thấy mục đã lưu video và ki hiển thi tab khán phá như hình trên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.134466,
+         "id": "944994",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi,mình đăng ảnh lên zalo có hình nhưng không like đc,cũng ko xóa đc là sao? Lại còn ghi ko đồng bộ vs máy chủ,mình đã cài đặt lại zalo+thử lại wifi nhưng từ qua đến giờ ko đc?? giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.126279,
+         "id": "1167787",
+         "field_search": "question",
+         "question": "Em muốn khởi động lại máy realme 3 thì làm sao ạ.........",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1136055,
+         "id": "1156634",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn một số ảnh, tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.106807,
+         "id": "914249",
+         "field_search": "question",
+         "question": "laptop của mình không khoong khởi động đc khi khởi động có lúc hiện 1 dấu _, có khi thì bắt nhấn Ctrl+Alt+Delete nhưng nhấn rồi vẫn hiện lại dòng đó nhấn mãi cũng không khởi động đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.092117,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0771265,
+         "id": "747056",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi, app store đang sử dụng bình thường nhưng sau đó vào lại thì hiển thị  kết nối được. Mình sử dụng wifi bình thường, ngày giờ không sai lệch gì hết. Trường hợp này phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.052055,
+         "id": "1141633",
+         "field_search": "question",
+         "question": "Xin chàoE dang su dung iphone 8.em muon dua wed ra man hinh chinh ma khong co nut doLam sao thi dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.040302,
+         "id": "1017027",
+         "field_search": "question",
+         "question": "Samsung A3 2017 tự khởi động lại liên tục nhưng cắm sạc thì hoạt động bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.01545,
+         "id": "1020443",
+         "field_search": "question",
+         "question": "Anh ơi điện thoại PhiLips của em vào khởi động lại nó hiện dùng chữ com.android.settings thì phãi làm sao đễ khởi động lại máy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.00424,
+         "id": "1133495",
+         "field_search": "question",
+         "question": "Máy samsung a7 2018 mới mua dc hơn 1 tuần dùng lâu máy tự động khởi động lại rồi khắc phục sao shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.967089,
+         "id": "1156386",
+         "field_search": "question",
+         "question": "mình bình luận trên một page cộng đồng và có người reply lại, nếu mình ẩn các bình luận đó của người kia thì người đó hay những người khác (có kết bạn với họ hay không) còn thấy nữa hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.951426,
+         "id": "1136575",
+         "field_search": "question",
+         "question": "Samsung j5 prime khi cập nhật phần mềm thì không còn hiển thị số thông báo tren fb..zalo...mesenger nữa ạ.....làm sao để hiển thị lại ạ ... e cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

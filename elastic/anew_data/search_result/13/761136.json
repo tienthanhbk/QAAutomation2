@@ -1,0 +1,801 @@
+{
+   "id_query": "761136",
+   "total": 33009,
+   "total_current": 100,
+   "max_score": 93.53132,
+   "origin_question": "Em đang sài iphone 3G mà sao em không tải được ứng dụng trên Apple Store thế ạ, lúc em nhập gmail vào thì nó ghi là không chính xác mà sao em vẫn vào google được ạ?",
+   "hits": [
+      {
+         "score": 44.539425,
+         "id": "1137694",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao mạng wifi em kết nối nó mạnh mà làm sao nó vào face lite hay tải ứng dụng trên google không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.480934,
+         "id": "931511",
+         "field_search": "question",
+         "question": "ad cho em hỏi, em mới đổi qua điện thoại khác và em lấu icloud cũ của em đăng nhập vào máy. Nhưng sao em ko tải ứng dụng được trên app store vậy ạ ? nó cư để là đang chờ mà không tải xong, chỉ giúp em, tk ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.964344,
+         "id": "814295",
+         "field_search": "question",
+         "question": "Tại sao tải ứng dụng cho ip5, nó cứ ghi như thế này thì làm sao anh.VD : \" không thể tải Zalo vào lúc này \" là sao anh , tải hoài mà vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.77445,
+         "id": "855558",
+         "field_search": "question",
+         "question": "Em muốn tải zalo trên PC bằng ứng dụng BlueStacks nhưng lúc cài đặt báo lỗi xác thực, cần đăng nhập vào tài khoản Google của mình. Là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.614742,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.041183,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.112946,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.09276,
+         "id": "798673",
+         "field_search": "question",
+         "question": "Cho hỏi ạ! Tại sao em ko thể tải thêm ứng dụng từ app store trên iphone 5s ạ, em bấm vào nút tải mà nó chỉ cứ quay quay ko dừng , và rất lâu nữa, còn khi ra màn hình chính thì nó hiện ra hình vuông trống và chữ đang chờ thôi. Đợi qua bao nhieu ngày rồi mà vẫn thế , gíup đỡ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.065334,
+         "id": "843931",
+         "field_search": "question",
+         "question": " Tại sao em tải Messenger lại về máy, mà máy lại ghi là không tải được ứng dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.8357,
+         "id": "811166",
+         "field_search": "question",
+         "question": "Em mới chạy lại máy, không được sao lưu mà có tài khoản id rồi đăng nhập vào nó bắt xác thực bằng 3 câu hỏi mà em lại quên , giờ làm sao để xác thực được ID đó ạ ? Gmail nó gửi máy cái điều khoản không thôi :( Iphone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.738518,
+         "id": "1139630",
+         "field_search": "question",
+         "question": "Sao khi em tải messager thì nó bấm vào không được và có dòng chữ : Yêu cầu xác thực. Bạn cần đăng nhập Tài khoản Google của mình . Mà trong khi đó em có tài khoản Google rồi ạ!Máy em là máy Oppo A57. Khắc phục giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.446445,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.338993,
+         "id": "751946",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS,em có format 1 lần và bây giờ mỗi lần vào App Store tải ứng dụng thì nó cứ báo nhập mật khẩu ID Apple của người khác.vậy giờ em muốn tạo ID Apple của mình để tải ứng dụng được không các bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.33799,
+         "id": "761150",
+         "field_search": "question",
+         "question": " Em vào tạo ID Apple mới mà sao điện thoại em nó ghi như thế này ạ iOS Update Required như vậy là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.27851,
+         "id": "1159027",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 plus mà tải mess không được, người ta bảo em phải đăng nhập vào iTunes store (mật khẩu id Apple) nhưng tài khoản Apple này bị khoá và em không nhớ lần đăng nhập, có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.934086,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.639137,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.0957,
+         "id": "998422",
+         "field_search": "question",
+         "question": "Em có tạo ID với cái đuôi là gmail.com nhưng khi xác nhận và đăng nhập vào gmail thì lại không được ạ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.7597,
+         "id": "931738",
+         "field_search": "question",
+         "question": "em dùng id cũ để nhập vào máy mới... nhưng chỉ vào đc icloud thôi ạ... còn vào itunes thì nó báo là \" ko thể xác minh, đã có lỗi khi kết nói với máy chủ id apple\".. vậy là sao ạ?.. giờ e ko vào app store để tải ứng dụng đc ạ... giúp e với..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.62591,
+         "id": "802848",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa tạo id apple iphone 4s mà sao cứ tải trò chơi về là nó báo xem xét lại, em làm rồi mà vẫn tải trò chơi về không được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.22705,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.17813,
+         "id": "1007891",
+         "field_search": "question",
+         "question": "Iphone 4s tải ứng dụng trên google về lúc tải xong đang cài đặt . Máy lại báo là không thể tải ứng dụng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.170486,
+         "id": "772816",
+         "field_search": "question",
+         "question": " Em dùng iPhone 5, khi vào Apple Store tải game và các ứng dụng thì máy báo lấy không thể kết nối với Apple store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.94259,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.909084,
+         "id": "1141561",
+         "field_search": "question",
+         "question": "Sao em không đăng nhập vào iTunes  App store được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.674,
+         "id": "845969",
+         "field_search": "question",
+         "question": "Cho em hỏi: tại sao e đăng ký ID APPLE , điền tt đầy đủ rồi mà sao đăng nhập vào tải zalo nó kêu là chưa sử dụng trước đây ở iTunes Store là sao vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.517403,
+         "id": "830984",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s tải ứng dụng wifi chỗ khác thì được, mà kết nối với wifi ở nhà thì lại k tái được. nó cứ hiện dòng chữ không thể tải ứng dụng vào lúc này. ( e thay đổi DNS của iphone 208.67.220.220) mà vẫn k được. ad giúp e cách khắc phục với ạ. e cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.20336,
+         "id": "835992",
+         "field_search": "question",
+         "question": " Sao em tải game gta trên HiP4U về được mà khi cài đặt thì nó hiện len là không thể cài đặt vào lúc này như hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.143787,
+         "id": "1009449",
+         "field_search": "question",
+         "question": "Ad cho em hỏi với ạ. Tại sao điện thoại j5 của em đang vào facebook thì không vào đc nữa. Mà trong khi đó em vào google vẫn vào bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.140926,
+         "id": "1157602",
+         "field_search": "question",
+         "question": "Em đang sài J7 prime, sao em ko thể bật được (hồi lâu có dùng mà giờ bị mất ) google now on tap được ạ ( cái nhấn giữ nút home ra quét màn hình ) mà nó lại vô ứng dụng google",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.122177,
+         "id": "1023742",
+         "field_search": "question",
+         "question": " E đang dùng ssj7, cho e hỏi sao lúc em nhập pass wifi rồi mà lại không ấn được vào chữ kết nối là bị sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.73215,
+         "id": "781886",
+         "field_search": "question",
+         "question": "Em đang xài iPhone 5c ạ, có nhiều ứng dụng đã tải được về máy nhưng không hiểu tại sao khi click vào ứng dụng thì nó out ra màng hình menu. Ai giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.636433,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.46899,
+         "id": "875812",
+         "field_search": "question",
+         "question": "Tớ đang đung iphone 4 , lúc tớ tải ứng dụng từ AppStore không tải được . Nó luôn hiện ra \" không thể tải ứng dụng vào lúc này \" , mình thử mọi cách hướng dẫn trên mạng đeu không được . Vậy thì phải làm sao an ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.277187,
+         "id": "1153363",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em là oppo f5 và sài cũng đã lâu rồi ạ mà sao nay em không mở khóa được bằng vân tay ạ em cái đặt thì nhập mật khẩu để vào cài lại nhưng nhập xong lại không vào được. Mong anh chị giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.21842,
+         "id": "831309",
+         "field_search": "question",
+         "question": " Cho em hỏiEm đang dùng iphone 5s hdh iOS 9.3.2,nhưng sao em truy cập vào App Store đợi rất lâu mà không load được ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.216393,
+         "id": "1163969",
+         "field_search": "question",
+         "question": "Em đang sài Oppo a3s ..em tải wechat về em đăng kí được rồi mà đăng nhập vào thì bảo là bị đáng ngờ ,bị chặn ..Add giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.169334,
+         "id": "763753",
+         "field_search": "question",
+         "question": "Em tạo id apple bằng máy tinh khi đăng nhập vào điện thoại thì nó hiệnid apple này chưa được sử dụng trước đây ở itunes store cần xem xét...Giờ em làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.088173,
+         "id": "873480",
+         "field_search": "question",
+         "question": "Hôm nay em có vào id apple, lúc xác minh câu hỏi bảo mật em quên mất, thế là bấm tùm lum, 1 lúc sau nó hiện ra 1 hộp thoại nói là do đánh sai nhiều quá nên giờ phải xác nhận lại bằng email cầu cứu. Vấn đề chính ở đây là em không nhớ được cái email đó, phải chi nó ghi rõ đằng này nó ghi a*****@gmail.com. Làm sao bây giờ TT-TT không có cái mail nó không cho xác minh luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.0294,
+         "id": "761142",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi iPhone 4S của em đang chạy Instagram  thì bỗng dưng bị treo lại, không thể ấn phím Home, khóa màn hình thì nó ko lên màn hình nhập passcode mà vẫn giữ nguyên ứng dụng Instagram. Gọi thử vào cũng không lên nổi. Như thế là bị làm sao vậy ạ và có cách gì sửa được không?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.011723,
+         "id": "938039",
+         "field_search": "question",
+         "question": "máy iphone của em mới reset lại mà bây giờ em tải zalo về mà nó để là không thể tải vào lúc này là bị sao vậy xin ad cho em biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.92873,
+         "id": "804389",
+         "field_search": "question",
+         "question": "CHo em hỏi là sao em thoát tài khoản itunes store của người trước ra rồi và đăng nhập tài khoản của em vào rồi mà bây giờ e cập nhật ứng dụng hay tải gì nó vẫn yêu cầu mật khẩu ních của người cũ kia.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.809803,
+         "id": "797180",
+         "field_search": "question",
+         "question": "em muốn hỏi tại sao lúc đầu em sài bằng tài khoản microsoft nhưng khi đổi lại làm tài khoản cá nhân thì lại không được ạ.nhấp vào sign in with microsoft accoutn instead nhiều lần mà không hiển thị gì hết.!!và không đăng nhập được store luôn ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.7871,
+         "id": "819683",
+         "field_search": "question",
+         "question": "Khi vào appstore để tải ứng dụng về máy iphone 4 mà sao không tải được..? xuất hiện ĐANG CHỜ mà mãi không thể hiện thị ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.776855,
+         "id": "788557",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ! em đang xài iphone 5 mà sao mỗi lần tải ứng dụng từ appvn là bị như vầy , em phải khắc phục như thế nào mới tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.734436,
+         "id": "771084",
+         "field_search": "question",
+         "question": " Khi Reset iPhone nó báo đang nhập iCloud, em nhớ rõ iCloud là vậy mà sao đăng nhập không được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.67855,
+         "id": "789898",
+         "field_search": "question",
+         "question": " Tại sao khi tải các ứng dụng trên appcola thì nó trả lời là k thể tải vào lúc này, Mình đang sử dụng iPhone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.610275,
+         "id": "847597",
+         "field_search": "question",
+         "question": "Iphone 4s của em mấy hôm trước còn tải ứng dụng từ wifi bình thường mà sao mấy ngày gần đây em tải ứng dụng từ app mà nó chỉ load chứ không tải về được. Anh chị giúp em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.481445,
+         "id": "855468",
+         "field_search": "question",
+         "question": "Em xài laptop hp khi em nhập gmail để đăng nhập vào store không biết sao khi tắt máy thì gmail em nổi lên và máy bắt buột phải nhập mật khẩu nếu em muốn bỏ phần gmail của em và phần nhập mật khẩu khi khởi động máy thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.46367,
+         "id": "1021352",
+         "field_search": "question",
+         "question": "máy em riset lại mà nó bắt nhập gmail mà quên thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.436337,
+         "id": "808375",
+         "field_search": "question",
+         "question": "Em đăng nhập facebook bằng máy tính thì phải nhập mật khẩu 2 lần mới vào được, còn trên điện thoại thì báo lỗi không thể đăng nhập, nhưng đăng nhập bằng ních khác thì vẫn vào bình thường. Em đã thử xóa ứng dụng và tải lại rồi vẫn không được. Cho em hỏi làm thế nào để khôi phục lại bình thường ạ. Em cảm ơnđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.31377,
+         "id": "795416",
+         "field_search": "question",
+         "question": " Em đang sử dụng chiếc iPhone 4 nhân mà sao em vào ứng dụng Camera thì nó lại bị giật và bị lắc nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.29496,
+         "id": "800146",
+         "field_search": "question",
+         "question": "Bộ phận kỹ thuật tgdd cho em hỏi , sao em lấy games free trên appstore về laptop rồi cài qua iphone khi vào games trên iphone nó vẫn báo nhập apple id là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.217968,
+         "id": "809604",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone của em kết nối wifi vào FB IG bth mà vào zalo lại hiện không kết nối trong khi 3G thì vẫn vào đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.209938,
+         "id": "988011",
+         "field_search": "question",
+         "question": "Tại sao ko thể nhận thư mới khi đăng nhập vào gmail trên iphone 6? Máy thông báo lỗi \"máy chủ thư \"imap.gmail.com\" không phản hồi. Xác minh rằng bạn đã nhập thông tin tài khoản chính xác trong cài đặt Mail\" là sao và cách khắc phục nó như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.183853,
+         "id": "807815",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em không tải nhạc vào itunes được ạ, em không lồng nhạc ở Vivavideo được em đang sử dụng điện thoại iPhone 6?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.118908,
+         "id": "1016678",
+         "field_search": "question",
+         "question": "Mình đang sài samsung galaxy j2 prime mà mình ko tải ứng dụng nào mà bộ nhớ máy vẫn tăng.lâu lâu vào xem bộ nhớ thì nó lại tăng là sao? xin chỉ dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.109516,
+         "id": "824007",
+         "field_search": "question",
+         "question": "Em sài điện thoại samsung bình thường vẫn dùng facebook nhưng cách đây 2 hôm thì không đăng nhập vào được nữa, cho e hỏi là có phải bị lỗi không ạ và tải ứng dụng fb khác thì làm như thế nào ạ ??? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.963955,
+         "id": "1017834",
+         "field_search": "question",
+         "question": "Điện thoại em là oppoa37f nó tự nhien ko cai đc ứng dụng trên ch play xong em đã gỡ dịch vụ của google giờ ch play ko cập nhập lại được mà em khôi phục rồi nó vẫn thế em cần câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.847397,
+         "id": "758584",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em muốn cập nhật ứng dụng nó lại ra cái id apple khác (điện thoại của em là hàng second hand) mà trong khi đó tải ứng dụng về thì nó lại ra id apple của em ạ?? Em muốn hỏi làm sao để out cái id apple thuyhang996cmt8@gmail.com ạ?? ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81969,
+         "id": "925521",
+         "field_search": "question",
+         "question": " Dạ cho em hỏi em nhập đúng tài khoản ip apple vẫn không vào được vậy cho em hỏi lý do bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.80854,
+         "id": "832283",
+         "field_search": "question",
+         "question": "mấy a cho e hỏi e sài iphone 3 mà tải game trên app store nó cứ ghi là app này không tương thích với iphone này là sao zậy júp e zới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.64266,
+         "id": "777307",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 Plus khi vào mạng thì không kết nối được wifi và khi vào bằng 3G thì dù vào trang nào vẫn hiện ra naptienvina là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.61982,
+         "id": "758615",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em lập mail trên vi tính rồi! Và sau khi nhập mail trên iPhone thì không được thư đến em phải làm sao! Em làm đi làm lại mà vẫn không dùng được mail trên iPhone của em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.586548,
+         "id": "819218",
+         "field_search": "question",
+         "question": " Em tạo được ID apple rồi đăng nhập app store nó hiện ra vậy thì làm sao ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.570267,
+         "id": "1017798",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: điện thoại của em oppo a37f vào CH play tải ứng dụng thì không tải được. Nó toàn nhấp nháy \"Đang tải xuống \" Đang chờ mạng\" nhưng không tải được. Em ra thử tải trên chrome cũng không được. Mong ad giúp em cách khác phục. Em cảm ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.540585,
+         "id": "1018738",
+         "field_search": "question",
+         "question": "Cho em hỏi đt của em bị gì vậy ạ,  reset lại rồi vẫn bị,  không đăng nhập vào được google,  google play,  youtube.... Em nên làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.529217,
+         "id": "1002984",
+         "field_search": "question",
+         "question": "sao em đăng kí tài khoản để đăng nhập ap store bước cuối xác minh email -nhập mã xog có dòng chữ itunes không thế nào ý vào lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.514153,
+         "id": "908011",
+         "field_search": "question",
+         "question": "Chào Thế Giới Đi Động em có thắc mắc là tại sao em không thể tải được ứng dụng trên app store,nó cứ yêu cầu xác nhận mua hàng mặc dù ứng dụng free,cái nào cũng như vậy,không nói cái ứng dụng thu phí,hiện tại e không thể cài bất cứ 1 app nào trên app store.Mong anh,chị giúp đỡ em,em cảm ơn rất nhiều !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.467102,
+         "id": "762750",
+         "field_search": "question",
+         "question": "Em đang xài Laptop Dell lúc trước em đã tạo tài khoản mirosoft và tải ứng dụng về máy được,nhưng ngần đây lên cửa hàng tải ứng dụng về thì tài khoản mirosoft lại báo tải về không được,nó cứ báo lỗi. Em cũng thử đăng xuất,đăng nhập lại mà vẫn không được. Ngày giờ kiểm tra thiô bẫn đúng.Xin QTV giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.385826,
+         "id": "832120",
+         "field_search": "question",
+         "question": "sao iphone 4 vào tất cả ứng dụng về camera sao nó hay lag vậy em có tắt hết ứng dụng chạy ngầm rồi mà vẫn lag giúp em về?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.342876,
+         "id": "790814",
+         "field_search": "question",
+         "question": "Iphone 4s .lúc vào ứng dụng thì nó tự sập nguồn.em bật nút nguồn lên thì nó bảo cấp sắc lúc em cắm sạc thì nó tự lên.lên rồi vào ứng dụng lại tất nhưng em cắm sạc vào thì lại vào được ứng dụng tháo sạc ra thì lại tắt ai biết không chỉ giùm em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.27764,
+         "id": "1164863",
+         "field_search": "question",
+         "question": "sao em không thể đăng nhập tài khoản google trên thiêt bị nó cứ báo là bị \"không thể đăng nhập vào thiết bị do thay đổi mật khẩu gần đây. vui lòng thử đăng nhập lại 24 giờ sau khi thay đổi mật khẩu được thực hiện\" mà e để qua mấy ngày mà vẫn vậy không thể đăng nhập vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.238804,
+         "id": "1143881",
+         "field_search": "question",
+         "question": "cho em hỏi là sao em ko đăng nhập được vào tài khoản facebook với ạ , có gủi mã các kiểu mà vẫn ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.205917,
+         "id": "800367",
+         "field_search": "question",
+         "question": " Cho em hỏi khi tải trò chơi nó hiện lên như thế này mà nhập hoài không được là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.172443,
+         "id": "755257",
+         "field_search": "question",
+         "question": "Em sài iPhone 5 sài vẫn bình thường em không làm rớt, hay va chạm mạnh gì cả. Sài bấm bình thường một lúc sau nó đơ màn hình cảm ứng không  bấm được nữa em tắt nguồn và khỏi động lại thì sài được một chút và tới bây giờ nó hay bị loạn cảm ứng đôi lúc đang sài nó lại nhảy lung tung và kéo không đi :< .=\"\" cho=\"\" em=\"\" biết=\"\" em=\"\" phải=\"\" làm=\"\" sao,=\"\" em=\"\" cám=\"\">",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.98895,
+         "id": "1023702",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút em sử dụng ứng dụng google photo để lưu ảnh được nhiều nhưng e mới lưu được 1 nửa số ảnh thôi dung lượng của Google photo thì còn nhiều, khi em tải tiếp lên thì máy báo lỗi không tải lên phương tiện được. Em đã tắt máy đi khởi động lại mà vẫn không thực hiện được, ad giúp em với ạ. Máy em dùng là samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.980661,
+         "id": "1023705",
+         "field_search": "question",
+         "question": "Các bác giúp em vs chuyện là em mới mua con iphone 5 mà tài khoản người ta em đã thoát vs xoá hết em nhập của em vô đầy đủ hết nhưng sao lúc em vào aap store em cập nhật ứng dụng lại bị bắt đăng nhập ID của ngươi bán cho em ạ các bác biết giúp hộ em cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.975758,
+         "id": "931568",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi sao chiếc iPhone 5s của em cập nhật ios qua OTA toàn bị lỗi không vậy?? Vào Appstore tải ứng dụng thì nó chỉ có 1 vòng tròn màu xanh xoay mãi mà k tải đc app luôn.. Vậy là sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.93023,
+         "id": "767235",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi là máy em hôm trước báo là tìm iPhone của bạn đã được vô hiệu hóa trên iPhone, xong rồi nick giờ đăng nhập iCloud vô không được nữa ạ, có cách nào lấy lại iCloud không ạ? Mà em vào chỗ quên mật khẩu ý, đăng nhập nó bảo là không phải ID Apple, rất mong Ad giúp đỡ ạ. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.926151,
+         "id": "1137892",
+         "field_search": "question",
+         "question": "Em sài Oppo A3s khi tải về thì không hiển thị lên màng hình chính nhưng vào tìm kiếm ứng dụng em vợ ra tên trò chơi đó thì nó ra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.908339,
+         "id": "833698",
+         "field_search": "question",
+         "question": "Tại sao em đăng nhập zalo trên máy tính mà màn hình cứ hiển thi không lấy được thông tin người dùng và bắt đóng ứng dụng zalo là làm sao ạ??? Tối hôm trước em vẫn đăng nhập được bình thường ạ... Rất mong được giải đáp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.89859,
+         "id": "794955",
+         "field_search": "question",
+         "question": "Em đang sử dụng iPhone 4 iOS 7.1.2 em muốn tải ứng dụng Google nhận mà cứ hiện lên thông báo là ứng dụng này đòi hỏi phải có iOS 8.0 như vậy thì phải làm sao xin giúp em?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.883894,
+         "id": "938480",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cái iphone 5 của em chỉ vào được camera còn vào các ứng dụng khâc gì không được về màng hình chính cũng không được, nút home cũng sài không được, tắt nguồn cũng không luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.87174,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.779099,
+         "id": "789549",
+         "field_search": "question",
+         "question": " Tại sao em đăng ký apple id rồi xác minh rồi luôn mà sao em tải game không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.757315,
+         "id": "780648",
+         "field_search": "question",
+         "question": "Em đang dùng ipad air 2 nhưng ko bít tại sao mỗi lần em tải game thì em nhập mật khẩu vào thì lại bị sai và không tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.702892,
+         "id": "1004967",
+         "field_search": "question",
+         "question": " Cho em hỏi sao em lập id apple mà tới chỗ xác minh email mà không được vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.651678,
+         "id": "795858",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em DK tài khoản app store nhưng em đăng nhập vào thì google bảo gmali em vùa tạo không tồn tại vậy là sao nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.636578,
+         "id": "1135296",
+         "field_search": "question",
+         "question": "Laptop Asus K401U của em khi pin trên 95% em cắm sạc vào thì không chuyển qua AC mà vẫn sạc là bị gì vậy ạ, lúc trước trên 95% thì nó sẽ chuyển qua AC ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.58792,
+         "id": "758771",
+         "field_search": "question",
+         "question": " Facebook em bị gì thế ạ  , đăng nhập trên máy tính vẫn bình thường mà sao trong iPad lại không được?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.511091,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.495026,
+         "id": "1023207",
+         "field_search": "question",
+         "question": " Orange em vào ứng dụng mà vào lại không được ai biết chỉ em với   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.492065,
+         "id": "1017413",
+         "field_search": "question",
+         "question": "Em đang sử dụng dt pantech V 955,giờ em muốn khôi phục lại cài đặt gốc,mà vào nó văng ra màng hình chính, không vào cài đặt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.43225,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.431488,
+         "id": "820468",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 3G của e cập nhật đến bản 4.2.1 rồi mà sao đăng nhập vào apple store thì nó bảo cập nhật đến ios mới nhất :(( ai biết chỉ e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.430115,
+         "id": "1158529",
+         "field_search": "question",
+         "question": "Dạ ac cho em hỏi máy em là realmec1 nảy em có xoá facebook mà giờ dowload lại thì tìm không thấy ở ch play tìm trên google thì thấy nhưng mà nó hiện là ứng dụbg không tuong thích là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.413813,
+         "id": "1164623",
+         "field_search": "question",
+         "question": "Làm sao để bật tính năng OK Google lên được ạ? Em vào mà nó cứ không cho bật. Oppo A3S, mong được các anh giúp đỡ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.374166,
+         "id": "792847",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5s 16g mới tạo tk ID apple mà vẫn không tải được game hay ứng dụng gì được hết cho hỏi la sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

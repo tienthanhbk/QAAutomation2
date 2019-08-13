@@ -1,0 +1,801 @@
+{
+   "id_query": "1163523",
+   "total": 17295,
+   "total_current": 100,
+   "max_score": 102.30319,
+   "origin_question": "Điện thoại Huawei Y2 Pro 2019 tải ứng dụng trên CH Play rất chậm. Vui lòng tư vấn cách khắc phục. Cám ơn rất nhiều.",
+   "hits": [
+      {
+         "score": 33.32595,
+         "id": "1159300",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, em mới vừa mua con Huawei Y9 ở TGDD, em sử dụng wifi nhà để tải ứng dụng trên CH Play thì nó cứ báo \"chờ tải xuống\" còn nếu sử dụng wifi phát từ điện thoại khác thì lại tải được, vậy mình khắc phục sao ạ, em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.78569,
+         "id": "1145524",
+         "field_search": "question",
+         "question": "Sao tải ứng dụng trên CH play không được vậy ạ ? Làm sao để khắc phục được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.663803,
+         "id": "1159205",
+         "field_search": "question",
+         "question": "Cách tải ch play cho điện thoại Nokia trên Google và đăng nhập tài khoản để vào ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.413872,
+         "id": "815276",
+         "field_search": "question",
+         "question": " Tải ứng dụng trên Điện thoại Philips S307 thế nào ak trên Ch play ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.40017,
+         "id": "1003390",
+         "field_search": "question",
+         "question": " Cho mìh hỏi là tải ứng dụng trên ch play như thế này là lỗi j và cách khắc phục như thế nào.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.902693,
+         "id": "1150141",
+         "field_search": "question",
+         "question": "Huawei nova3i lúc bật 4g sao không thể tải đc ứng dụng trên ch play vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.924576,
+         "id": "1016675",
+         "field_search": "question",
+         "question": "Minh tải ứng dụng trên ch play về thì tải xong thì ứng dụng đó tự mở dù minh đang mỏ ứng dụng khác muốn khắc phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.675234,
+         "id": "752850",
+         "field_search": "question",
+         "question": "Xin cho hỏi iPhone 5S của mình không thể thao tác được chức năng \"phone\" trên điện thoại, các chức năng khác vẫn hoạt động bình thường. Mình đã khởi động lại nhiều lần vẫn không thao tác được. Xin vui lòng chỉ giúp mình cách khắc phục. Cảm ơn rất nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.139326,
+         "id": "1004162",
+         "field_search": "question",
+         "question": "tôi không thể tải ứng dụng ch play bằng điện thoại nokia",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.92125,
+         "id": "1154752",
+         "field_search": "question",
+         "question": "Điện thoại em vừa bị vỡ màn hình, còn đang trong thời gian bảo hành, nếu thay màn hình thì tốn bao nhiêu ạ, máy em là huawei y7 pro 2019, rất mong sự tư vấn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.620798,
+         "id": "880343",
+         "field_search": "question",
+         "question": "Toi đang sử dụng iphone6 , đăng kí sử dụng 3g của vina, dung lượng còn 1568M, may hiện kí hiệu 3g, nhưng kết nối báo ngoại tuyến, vui lòng chỉ cách khắc phục. Rất cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.537178,
+         "id": "999082",
+         "field_search": "question",
+         "question": "điện thoại galaxy s6 edge plus của mình tự nhiên k sạc nhanh được nữa. thử củ sạc nhanh khác thì lại không nhận . hiện tại giờ sạc chậm rất lâu . xin tư vấn cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.068993,
+         "id": "1022608",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi điện thoại cảm ứng mà mình tải ứng dụng quét rát trên CH play mà mình sử dụng lâu ngày có làm hai điện thoại mình hay không,em đang dùng galaxy j7 pro ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.781471,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.666447,
+         "id": "1024639",
+         "field_search": "question",
+         "question": "Em dùng huawei mini gold. Do vào hệ thống máy mầy mò, giờ cửa hàng ứng dụng ch play k nhận truy câp. Em thử rất nhiều lần nhưng k nhận mail. Giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.616505,
+         "id": "573805",
+         "field_search": "question",
+         "question": " Cách khắc phục một số lỗi phổ biến trên CH Play  Google Play Store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.31033,
+         "id": "1159923",
+         "field_search": "question",
+         "question": "QTV cho tôi hỏi ko biết điện thoại ss j6 của tôi bị mà ch play tải ứng dụng ko đc cập nhật cũng ko đc Để từ sáng tới chiều vẫn loading tải ko đc Mong QTV chỉ tôi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.962782,
+         "id": "784576",
+         "field_search": "question",
+         "question": "iPhone 5s của em tự nhiên bị nóng và đơ, mất cảm ứng vân tay và xuống pin rất nhanh. Anh/chị cho em hỏi máy đang bị hư pin hay phần nào ạ? Tư vấn cho em cách khắc phục với. Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.85402,
+         "id": "1017798",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: điện thoại của em oppo a37f vào CH play tải ứng dụng thì không tải được. Nó toàn nhấp nháy \"Đang tải xuống \" Đang chờ mạng\" nhưng không tải được. Em ra thử tải trên chrome cũng không được. Mong ad giúp em cách khác phục. Em cảm ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60836,
+         "id": "1145538",
+         "field_search": "question",
+         "question": "Tại sao máy mình k tải đc ứng dụng trên ch play vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.405573,
+         "id": "1144357",
+         "field_search": "question",
+         "question": "Lỗi không tải được ứng dụng trên ch play, mã lỗi 490, ứng dụng nào cũng ko tải đượcKhắc phục như nào vậy ad, em dùng máy redmi 5 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22934,
+         "id": "784465",
+         "field_search": "question",
+         "question": "Em xài iphone 5s và đăng kí 3G gói cước 5000đ/ngày. Nhưng dạo này điện thoại em lên mạng rất chậm, xem youtube cũng bị lỗi không tải được, lên facebook thì cũng vậy, nói chung là rất chậm. Anh tư vấn giúp em nguyên nhân và cách khắc phục được không ạ? Và cho em hỏi thế giới di động của mình có sữa lỗi này được không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.189747,
+         "id": "1164132",
+         "field_search": "question",
+         "question": "Tại sao máy samsung j4 core không tải được ứng dụng trên ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.917816,
+         "id": "801759",
+         "field_search": "question",
+         "question": " Mã lỗi 18 trên cửa hàng CH Play không tải được ứng dụng là sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.639652,
+         "id": "1152814",
+         "field_search": "question",
+         "question": "Em mới tải 1 số app trên CH Play về máy nhưng khi mở app để sử dụng thì máy báo là ứng dụng không phản hồi. Vậy thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.300127,
+         "id": "1139417",
+         "field_search": "question",
+         "question": "Shop ơi giúp mình với mình mới mua Xiaomi redmi note5 pro rất hay bị mất kết nối wifi mình đã thử nhiều bản rom nhưng không khắc phục được gì mong shop sớm tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.203592,
+         "id": "1164378",
+         "field_search": "question",
+         "question": "Em muốn sử dụng 3g trên huawai y7 pro 2019 ạ xin anh  chị tư vấn giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.15932,
+         "id": "796532",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mới mua điện thoại gionee p5w mình vào ch play tải trog chơi và ứng đụng. Như khi đến cái trò này thì không thể nào rải vào cài đặt đc. Mình đã thủ rất nhiều cách rồi mà không được. Như xóa dữ liệu khởi động lại máy nhưng vẫn không được. Bạn nào biết cách khắc phực giúp mình với . thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.0057,
+         "id": "1148137",
+         "field_search": "question",
+         "question": "Cách xoá 360 root trên điện thoại samsum  do vô ý tải về mà xoá không được vui lòng giúp dùm mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.661499,
+         "id": "935005",
+         "field_search": "question",
+         "question": "Tại sao em xem ảnh trên máy tính từ điện thoại gửi qua Messenger thì nó rất mờ nhỉ? E xem trên điện thoại rất nét, e cũng cài đặt tải ảnh lên HD cả rồi. Chỉ khi xem trên máy tính mới bị thôi, tức là máy tính xem ảnh từ messenger do điện thoại tải lên thì rất mờ ạ! Giúp e khắc phục với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.556917,
+         "id": "999269",
+         "field_search": "question",
+         "question": "Chỉ cách cập nhật ch play trên điện thoại oppo neo 7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.458698,
+         "id": "847304",
+         "field_search": "question",
+         "question": "Iphone 3gs 6.1.6 khi vào app tải youtube thì bị thông báo BẠN PHẢI NÂNG CẤP LÊN IOS 8.0 HOẶC PHIÊN BẢN MỚI HƠN ĐỂ TẢI ỨNG DỤNG NÀY,và rất rất nhiều ứng dụng khác điều bị như thế .xin quản trị viên giúp đỡ làm sao để khắc phục ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.384785,
+         "id": "1156319",
+         "field_search": "question",
+         "question": "Samsung j7 pro của mình vào ch play thì nó cứ tải chưq không hiện giao diện của nólàm sao để khắc phục v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.310259,
+         "id": "1010627",
+         "field_search": "question",
+         "question": "Cho hỏi làm cá ch nào để khôi phục lại ứng dụng Ch play  khi xóa tại phần ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.12243,
+         "id": "1143671",
+         "field_search": "question",
+         "question": "Em chào thegioididong, hiện em đang sử dụng máy đth iphone 6plus, nhưng không hiểu sao cứ đến 50% pin là máy có dấu hiệu giật, lag và gần như không sử dụng được nữa. thegioididong có thể tư vấn dùm em cách khắc phục được không ạ. em xin cảm ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.949451,
+         "id": "1164654",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mỗi ngày điện thoại mình lại cập nhật 1 ứng dụng mới từ CH Play mà mình không tải",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.948282,
+         "id": "1164368",
+         "field_search": "question",
+         "question": "hiện tại điện thoại xiao mi note 4 của minh sạc không vô, thử rất nhiều cục sạc nhưng rất khó vô pin. có thể cho mình biết cách khắc phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.935944,
+         "id": "1017834",
+         "field_search": "question",
+         "question": "Điện thoại em là oppoa37f nó tự nhien ko cai đc ứng dụng trên ch play xong em đã gỡ dịch vụ của google giờ ch play ko cập nhập lại được mà em khôi phục rồi nó vẫn thế em cần câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.932163,
+         "id": "1154745",
+         "field_search": "question",
+         "question": "Anh chị mod ơi hướng dẫn e khôi phục lại ch play trên huawei với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.867458,
+         "id": "858379",
+         "field_search": "question",
+         "question": " Vỡ màn hình iphone sửa gía như thế nào ? Xin QTV vui lòng giải đáp giúp . Xin cám ơn nhiều ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.52544,
+         "id": "778612",
+         "field_search": "question",
+         "question": "Lỗi phần mềm Điện Thoại Wing v50Điện thoại wing v50 của em cứ có mạng lên là lại tự tải và cài đặt các ứng dụng gây hại trên CH về và chạy.hơi làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.522736,
+         "id": "1000965",
+         "field_search": "question",
+         "question": "làm sao để tải ứng dụng trong CH Play về thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.292736,
+         "id": "1152012",
+         "field_search": "question",
+         "question": "Vui lòng tư vấn giúp tôi hổ trợ mua trả góp Samsung S10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.283356,
+         "id": "1141838",
+         "field_search": "question",
+         "question": "Em hiện xài Sony XZ ạ, nhưng điện thoại em rất chậm ạ, mỗi khi lướt facebook,zalo...( nói chung là xài ứng dụng ạ ) thì nó đứng màn hình và luôn dừng ứng dụng, nhưng có khi lại chạy rất mượt, nhưng có khi lại rất chậm. Giải thích  và giải quyết giúp em với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.261925,
+         "id": "1155302",
+         "field_search": "question",
+         "question": "Cho tôi vài cái ứng dụng tải app giống CH Play đi mấy ông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.239567,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.226494,
+         "id": "1151192",
+         "field_search": "question",
+         "question": "Ad cho hỏi có cách nào khắc phục máy j2 prime bộ nhớ cứ tăng thất thường nên hay báo đầy bộ nhớ mặc dù mình đã tắt cập nhật trên ch play và mấy ứng dụng chuyển vào thẻ Sd đc thì mình đã chuyển vào..mình có tải nhiều đâu mà bộ nhớ cứ thất thường hay đầy bộ nhớ ạ..mong ad hướng dẫn khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.180178,
+         "id": "1020526",
+         "field_search": "question",
+         "question": "Mình dùng ip5. Tại sao khi vô appstore tải ứng dụng thì tốc độ tải rất chậm dường như là ko chạy% trong khi đó mình vô ytb xem phim vẫn bt. Thế là sao ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.15203,
+         "id": "1022446",
+         "field_search": "question",
+         "question": " làm sao để cài CH play để tải các ứng dụng về máy tablet  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.150064,
+         "id": "890688",
+         "field_search": "question",
+         "question": "Anh ơi sao e tải hình ảnh trên zalo về nó ghi là lưu ảnh không thành công, vui lòng thử lại sau! Chỉ e khắc phục với.e cảm ơn...e dùng lumia",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.05904,
+         "id": "863801",
+         "field_search": "question",
+         "question": " mình dùng ipaf mini 4 lúc tải các ứng dụng trên app rất chậm nhưng vào mạng với xem phim thì bt vậy cải thiện ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.940802,
+         "id": "836458",
+         "field_search": "question",
+         "question": "chào bạn! mình dùng iphone 6 nhưng thấy đt rất nhanh sụt pin bạn cho mình hỏi có cách nào khắc phục không vây!Mình cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.78568,
+         "id": "1022399",
+         "field_search": "question",
+         "question": "cho e hỏi là tại sao laptop e khởi động rất chậm ạ.như vậy là máy có vấn đề j ko ạ.e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.691818,
+         "id": "1163728",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao mình dowload trong CH play mà ko có biểu tượng trên màn hình? Vào mới tải cũng phải vào CH play mới vào được. Dt mình là huawei P30 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676908,
+         "id": "797840",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng iphone 5 lock nhật, em tải 1 ứng dụng về máy nhưng khi mở ứng dụng thì toàn bị văng ra ngoài. Anh chị tư vấn cho em cách khắc phục với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.590939,
+         "id": "997468",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động có thu điện thoại a8 không và nếu có thì hình thức như thế nào vui lòng tư vấn cho em được rõ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.569397,
+         "id": "1163502",
+         "field_search": "question",
+         "question": "Ad ơi, t muốn hỏi 2 vấn đề. T mới mua ĐT Huawei P30 lite. Nhưng đang dùng ứng dụng ví dụ messenger thì ứng dụng bị tắt(rất nhiều lần) và tắt phần chế độ đoán từ ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.550377,
+         "id": "1008445",
+         "field_search": "question",
+         "question": "Tại sao khi vào mess nó cứ hiện ra \" vui lòng kiểm tra kết nối internet \" mặc dù wi-fi nhà mình rất mạnh. Vẫn sử dụng YouTube, Zalo đc. Mong mọi người chỉ mình cách khắc phục. Máy em là máy samsung j7 prime nhé ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.530167,
+         "id": "1163063",
+         "field_search": "question",
+         "question": "Cho hỏi có cách nào tải nhiều ảnh trên zalo cùng lúc về điện thoại ko  thư viện của mình  hay có ứng dụng gì tải ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.466232,
+         "id": "1159732",
+         "field_search": "question",
+         "question": "Mình xài điện thoại realme 2 pro nhưng phông chữ tin nhắn sms rất to.tư vấn giúp mình thu nhỏ phông chữ .cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.454443,
+         "id": "1151806",
+         "field_search": "question",
+         "question": "Cho e hỏi c9 pro hiện nay rất khó để cảm biến vân tay (dù đã lau hoặc khởi động máy nhiều lần)! Làm cách nào để khắc phục ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.447987,
+         "id": "1150444",
+         "field_search": "question",
+         "question": "Xin chào. Cho mình hỏi: minh sử dụng SS Note 9, các ứng dụng mình tải từ CH play không còn hiện lên màn hình chờ như trước đây nữa mà phải vào mục tìm kiếm trên điện thoại mới thấy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.387657,
+         "id": "1168168",
+         "field_search": "question",
+         "question": "Tại sao điện thọai hua wei lại không vô được ứng dụng CH Play. Mong giải quyết sớm. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.383417,
+         "id": "1160113",
+         "field_search": "question",
+         "question": "Máy SS J5 PRO, bị xóa mất biểu tượng facebook, tìm trong ch Play cũng không thấy, nhờ chỉ giúp tôi. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.332218,
+         "id": "1150442",
+         "field_search": "question",
+         "question": "Hướng dẫn tải ch play về điện thoại mấy ah chị chỉ e tải về đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.32451,
+         "id": "1156320",
+         "field_search": "question",
+         "question": "Ad cho hỏi.m sd j7 2016 mình mới khôi phục lại cài đặt gốc, khi vào CH play thì không tải được ứng dụng nua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.231094,
+         "id": "751052",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi 0x8086000c khi tải ứng dụng trên store. Em đang sử dụng Windows 8.1 trên laptop Asus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.199266,
+         "id": "1165461",
+         "field_search": "question",
+         "question": "E mới mua sản phẩm asus zenfone max pro m1mà nó bị loạn cảm ứng giật giật anh chị cho e cách khắc phục ạ.Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.124788,
+         "id": "773236",
+         "field_search": "question",
+         "question": "Mình mua iPad xài được 1 tuần thì thấy có 1 vết xước nhỏ ( rất khó thấy khi tắt màn hình và chỉ thấy rõ khi màn hình hiển thị màu trắng thì chỗ xước có rất nhiều màu). Cho mình hỏi có cách nào khắc phục được không . Mình cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.098743,
+         "id": "1133581",
+         "field_search": "question",
+         "question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.050121,
+         "id": "1024047",
+         "field_search": "question",
+         "question": "Tôi và bn đều dùng j5, bạn tôi thì tải đc nhiều ứng dụng còn máy tôi cứ tải ứng dụng là báo đầy k tải đc. Mong đội ngũ TGDD chỉ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.048176,
+         "id": "1010661",
+         "field_search": "question",
+         "question": "Em đang xài Q vita S lúc trước điện thoại e sạc khoảng 3h là đầy pin nhưng giờ sạc rất lâu mới đầy em muốn hỏi lý do và cách khắc phục vấn đề này ạ!  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.995804,
+         "id": "799524",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản iCloud cho iPhone 5s .nhưng khi mình vào tải các ứng dụng máy lại bắt nhập mật khẩu của tài khoản khác. Mình phải làm như thế nào a?. Xin trợ giúp mình với. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.990473,
+         "id": "1010647",
+         "field_search": "question",
+         "question": "Chào admin,Hiện tại em đang dùng Laptop Asus X541-uv. Hôm nay nó gặp tình trạng mất tất cả các dữ liệu cũng như tài khoản Google, Facebook mà em đã đăng nhập trên tất cả các trình duyệt (Coccoc, chrome, firefox) khi tắt máy hoặc khởi động lại.Admin vui lòng tư vấn giúp em cách khắc phục ạ!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.800436,
+         "id": "867309",
+         "field_search": "question",
+         "question": " Sao tải ứng dụng trên windown store lại bị như thế này, có cách nào khắc phục được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.780386,
+         "id": "776770",
+         "field_search": "question",
+         "question": " Mã lỗi  18 trên CH Play khi cài ứng dụng vào máy Galaxy Core 2?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.777527,
+         "id": "1159823",
+         "field_search": "question",
+         "question": "mình có mua đt J7 prime, nhưng sao ứng dụng CH play lại không tải được ứng dụng mobile banking Nam A bank?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.757908,
+         "id": "1021024",
+         "field_search": "question",
+         "question": "Giúp dùm em với. Em sài điện thoại hệ điều hành android . điện thoại đãa root xong . em lỡ tay xóa ứng dụng của máy . gio vào ch play tải app không được. Anh chị có cánh nào giúp em khôi phục lại như cũ được ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.738289,
+         "id": "1153824",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop mình mua asus vivobook flip 14 TP410U cách đây 1 năm và mình rất ít khi sử dụng nhưng mỗi lần mở máy hoặc mở ứng dụng hay lên cốc cốc thì máy chạy rất chậm, có khi chờ khoảng 5 phút mà máy vẫn chưa chạy xong. Có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.737118,
+         "id": "1154593",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại huawei y7 pro 2019 có mấy loa ngoài vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.64698,
+         "id": "999998",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi e đang sử dụng điện thoại samsung j5 prime. Khi tải ứng dụng ở CH play thì tải về máy nay em mún tải về thẻ nhớ thì cài đặc sao ạ mong ad giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.550287,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.52994,
+         "id": "1167891",
+         "field_search": "question",
+         "question": "Em bị lỗi là khi tải 1 ứng dụng về trên CH play nó cứ để là \"đang tải xuống\" nhưng nó cứ treo máy và không tải được  giúp em đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.474894,
+         "id": "1002762",
+         "field_search": "question",
+         "question": "E xài Q Luna Pro , tải game modern combat 5 trên Ch play thì nó báo lỗi 505 , ad nào biết cách fix lỗi chỉ e với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.382076,
+         "id": "1158297",
+         "field_search": "question",
+         "question": "Galaxy a7 dùng đc 6tháng..cập nhật phần mềm mới nhất hôm 31/3/2019..sau cập nhật 4g chập chờn yếu hẳn...dùng fb lẫn zalo youtube rất chậm..có di chuyển khắp vùng sinh sống..ngay cả nhờ nhà mạng kích sim lại mọi thứ vẫn không khá hơn..cho hỏi cách khắc phục vấn đề..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.3353,
+         "id": "997718",
+         "field_search": "question",
+         "question": "Wiko Ridge Fab 4G của mình không vào được CH Play. Cứ mỗi lần vào là lại bị văng ra. Tất cả những ứng dụng khác của google ( trừ Google chrome và Youtube) cũng gặp tình trạng tương tự CH Play. Trước đây mình vào được CH Play nhưng khi muốn cài đặt app thì nó chỉ tải về được chứ không cài đặt được. Sau đó thì mình khôi phục lại cài đặt gốc thì CH Play không vào được nữa luôn. Android của mình đang ở version 5.0.2 và CH Play là phiên bản 5.5.12. Mong mọi người giải đáp giúp. Cảm ơn mn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.324001,
+         "id": "1154805",
+         "field_search": "question",
+         "question": "Cho mình hỏi các ứng dụng như zalo, messenger tải từ CH về trên điện thoại A7 2018 nằm ở đâu muốn đưa ra màn hình thì làm thế nằm? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.225016,
+         "id": "833440",
+         "field_search": "question",
+         "question": " Facebook của em mấy hôm nay bỗng dưng theo dõi rất nhiều người lạ. cho em cách khắc phục với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.149693,
+         "id": "988593",
+         "field_search": "question",
+         "question": "cho hỏi máy Laptop Dell 5567 i5 Ram bao nhiêu? xin vui lòng trả lời, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14395,
+         "id": "1158418",
+         "field_search": "question",
+         "question": "Chào ad, mình lỡ tay xoá ứng dụng Facebook, giờ muốn tải lại trên CH PLAY nhưng mà không thể tải lại được, nó cứ hiện ra là ứng dụng không tương thích với thiết bị (mình dùng Oppo a3s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.100676,
+         "id": "1151017",
+         "field_search": "question",
+         "question": "Khắc phục lỗi hiện không thể tải về vui lòng thử lại sau của Samsung e5 mỗi khi mình mở máy lên đều hiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.070896,
+         "id": "1158449",
+         "field_search": "question",
+         "question": "em đang dùng điện thoại oppo a3s cho hỏi là làm cách nào để khắc phục các sticker trên Messenger và Facebook cứ bị lưu về thư viện trong điện thoại ạ . Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.031925,
+         "id": "1165059",
+         "field_search": "question",
+         "question": "mình đang dùng máy vivo y81 có dùng thẻ nhớ 32gb mà sao mình tải ứng dụng toàn về máy mình muốn chuyển sang thẻ nhớ cũng k được mỗi lần tải app mới đều bắt mình xóa dữ liệu cũ rất quan trong làm mình rất khó chịu ad có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.99515,
+         "id": "752208",
+         "field_search": "question",
+         "question": "Cho hỏi cách khắc phục ứng dụng bị mất icon? Khi tải về...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.969765,
+         "id": "789351",
+         "field_search": "question",
+         "question": " Anh chị có thể hướng dẫn e cách tải CH Play về Laptop được không ạ. E cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.898508,
+         "id": "1154875",
+         "field_search": "question",
+         "question": "Mình vừa mua một em Samsung Galaxy J4 Core 2 hôm trước, cứ liên tục lỗi khi tải ứng dụng trên CH Play, mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.882408,
+         "id": "1142671",
+         "field_search": "question",
+         "question": "fb em đăng nhập k đc  rất tiếc đã xảy ra lỗi vui lòng thử lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.874975,
+         "id": "820027",
+         "field_search": "question",
+         "question": "Mấy hôm nay, viber trên MacBook của tôi không thể sync tin nhắn từ người khác gửi đến cho tôi. Nó chỉ sync những tin nhắn từ điện thoại của tôi gửi đi. Nó ko thể nhận và gửi được tin nhắn trên macbook. Vui lòng hướng dẫn cách khắc phục. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.85246,
+         "id": "876687",
+         "field_search": "question",
+         "question": "Cho hỏi : mình đang dùng ip4s khi tải các ứng dụng đều không được , nó chỉ chạy xong cái vòng download rồi hiện ra bảng thông báo không tải được ứng dụng, mặc dù đã thử rất nhiều cách( rest, khôi phục ip, thay đổi DNS...) nhưng vẫn không được . mong được giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

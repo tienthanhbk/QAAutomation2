@@ -1,0 +1,801 @@
+{
+   "id_query": "1165232",
+   "total": 33834,
+   "total_current": 100,
+   "max_score": 128.03687,
+   "origin_question": "Hi AD, cho mình hỏi mình vừa cắm sạc laptop vùa sử dụng và lại vừa cắm tai phím vào thì như vậy điện có truyền vào lỗ tai gây cháy nổ hay điện giật gì không?    Laptop Asus",
+   "hits": [
+      {
+         "score": 48.086525,
+         "id": "789820",
+         "field_search": "question",
+         "question": " Mình có nên vừa sạc laptop vừa cắm tai nghe để nghe nhạc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.587204,
+         "id": "782894",
+         "field_search": "question",
+         "question": " Qtv ơi cho em hỏi. Mình vừa sạc laptop vùa chơi thì có giật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.44914,
+         "id": "919129",
+         "field_search": "question",
+         "question": "ad cho em hỏi là tháng trước em có mua laptop hiệu asus tại thegioididong. Nhưng ngày hôm nay cắm sạc vào ổ điện thì nó nổ cục sạc, không bị gì máy cả. Vậy em có được bảo hành đổi lại cục sạc được không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.367836,
+         "id": "1149853",
+         "field_search": "question",
+         "question": "mình sạc máy htc one m8,mình sạc như thế liệu có gây ra cháy nổ gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.987766,
+         "id": "1162086",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Nokia 6, em có làm rơi điện thoại và bây giờ cái lỗ cắm tai nghe  trên điện thoại nó bị hỏng ( không cắm được tai nghe vào nữa ). Vậy em muốn hỏi cái lỗ cắm đó có thể sửa chữa hoặc thay thế được không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.839203,
+         "id": "991013",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi là cục sạc laptop của mình nóng rất nhanh, dùng khoảng 30p là nóng khi mình vừa sạc vừa dùng. Mình vừa sạc vừa dùng như vậy tầm 3-4 năm rồi không biết dùng thêm vài năm nữa có sao không ( như cháy,nổ pin )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.923027,
+         "id": "759125",
+         "field_search": "question",
+         "question": "Em sử dụng máy Samsung J5. Nhưng khi cắm tai nghe và có cuộc gọi đến (gọi điện, zalo, messenger, skype,...) thì vừa có chuông phát trong tai nghe và vừa có chuông phát ngoài loa. Khi nhận cuộc gọi thì không bị như vậy nữa.Cho em hỏi đây là do lỗi hay là do máy cài đặt như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.56749,
+         "id": "997334",
+         "field_search": "question",
+         "question": "Cho em hỏi em Sài iPhone 7 và chỉ sử dụng tai nghe beat em cắm tai beat vào Jack chuyển đổi 3.5mm khi ghi âm thì nó bị rè em có thử lại với ipad thì cắm tai nghe (không Jack ) thu âm ko bị gì và cắm tai nghe + Jack thu âm bị rè vậy cho em hỏi lỗi do Jack hay tai nghe không tương thích ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.424835,
+         "id": "844301",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.227997,
+         "id": "1013415",
+         "field_search": "question",
+         "question": "Khi Vừa sạc vừa sử dụng điện thoại có bị nổ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.853928,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.78547,
+         "id": "1141332",
+         "field_search": "question",
+         "question": "cho mình hổi máy này pin liền, vậy có vừa sử dụng vừa cắm sạc được không vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.235443,
+         "id": "870537",
+         "field_search": "question",
+         "question": " Hiện em đang xài laptop asus TP501UB. Mình vừa sử dụng vừa sạc có bi chai pin gì không a??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.064064,
+         "id": "869301",
+         "field_search": "question",
+         "question": "E vừa đi cài win về, laptop e chạy vẫn khá tốt, nhưng khi e cắm thử  vào và rút ra thì phần cảm ứng của máy e không điều khiển được nhưng khi cắm chuột vào lại thì vẫn sử dụng được, bàn phím e cũng không thao tác nhanh như trước. A/c cho e hỏi đấy là lỗi gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.74186,
+         "id": "757049",
+         "field_search": "question",
+         "question": "iPhone 6 Plus của mình khi cắm sạc or tai nghe vào. Sau đó vào phần điện thoại để gọi và thao tác thì bị treo. Mình restart lại thì ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.984776,
+         "id": "1139259",
+         "field_search": "question",
+         "question": " Sao e cắm tai phone vào mà khi có cuộc gọi đến vừa phát trong tai phone mà vừa loa ngoài nữa ạ? Có ai bị như e ki? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.84122,
+         "id": "1143182",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop để dướt đất và gắn tai nghe 24/24 và cắm sạc khi dùng có bị điện giật không, mỗi lần em bất an không biết chia sẻ thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.461395,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.0484,
+         "id": "1139249",
+         "field_search": "question",
+         "question": "Loa của điện thoại nova 3i nghe ngoài thì bình thường, sao cắm tai nghe với cắm vào loa to ngoài thì rất nhỏ. Có phải loa nó như v không, hay điện thoại mình cố vấn đề?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.56108,
+         "id": "1157687",
+         "field_search": "question",
+         "question": "e mới mua đt A7 2018 sử dụng được 1 tuần thì thấy jack cắm tai nghe là 3.5mm tai nghe 3.5mm mỗi lần cắm vào tai nghe nó dễ bị tuột lắm ạ. e k biết là do thiết kế máy hay do lỗi jack sạc v ad? e sử dụng tai phone của samsung có sẵn trong hộp phụ kiện luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.315502,
+         "id": "779576",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin laptop asus khi đang \"plugged in not charging\" thì rút adapter ra rồi cắm vào lại có tính là một lần sạc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.315502,
+         "id": "779562",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin laptop asus khi đang \"plugged in not charging\" thì rút adapter ra rồi cắm vào lại có tính là một lần sạc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.245857,
+         "id": "1154658",
+         "field_search": "question",
+         "question": "cho mình hinh: DT realme C1 có chỗ xỏ dây đeo hay ko? nếu có thì nó nằm ở đâu? có phải 2 lỗ nhỏ nằm giũa chỗ sạc pin và lỗ cắm tai nghe ko (vì mình xỏ hoài mà ko được)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.09616,
+         "id": "814756",
+         "field_search": "question",
+         "question": " Em dùng laptop ASUS F454L .Cho em hỏi cắm chuột vào laptop thì cắm ở đâu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.04835,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.822426,
+         "id": "991109",
+         "field_search": "question",
+         "question": "Mình có nhu cầu mua loa vừa sử dụng được bluetooth vừa sử dụng được usb chép file mp3 cắm vào và phát được nhạc. Giá từ 1tr tới 6tr.TGDD tư vấn mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.60757,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.49178,
+         "id": "1155330",
+         "field_search": "question",
+         "question": "Mình dùng j7 pro. Hôm nay cắm tai nghe vào máy không nhận, mình tưởng tai nghe hỏng nhưng không phải, cắm tai nghe vào máy tính vẫn nghe tốt. Vậy là máy điện thoại mình có vấn đề phải không ạ? mình cần đem máy đến đâu để kiểm tra ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.39292,
+         "id": "826528",
+         "field_search": "question",
+         "question": " laptop ủa mình khi cắm tai nghe vào chỉ nghe đc một bên thì phải làm thế nào ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.36583,
+         "id": "909766",
+         "field_search": "question",
+         "question": " Vừa sạc vừa sử dụng laptop pin liền có ảnh hưởng gì không ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.28935,
+         "id": "1138676",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi về điện thoại asus zenphone 2, mình bị vấn đề như sau, Khe cắm Sim 1 cho phép bật 2,3,4G và khe cắm Sim 2 không hỗ trợ 2,3,4G, mình đang sử dụng Sim Viettel mình cắm ở khe Sim 1 thì bật 2,3,4G vào internet bình thường, nhưng khi mình cắm Sim Mobifone vào khe Sim 1 thì điện thoại mình hoàn toàn không nhận Sim cũng như không bật được 2,3,4G (Sim mobile mình đã test ở điện thoại khác thì vẫn hoạt động vào internet bình thường) không biết tình trạng này là như thế nào bạn và có cách nào khắc phục không bạn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.233746,
+         "id": "1016205",
+         "field_search": "question",
+         "question": "Mình vừa chơi game vừa sạc thì có gây hại gì cho máy không. Mình dùng Xiaomi redmi note 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.95409,
+         "id": "935466",
+         "field_search": "question",
+         "question": " laptop mà cắm sạc pin thì chơi game giật lag mà sử dụng pin trực tiếp thì không giật lag nữa là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.73367,
+         "id": "878888",
+         "field_search": "question",
+         "question": " Sao điện thoại samsung a9 pro của e cắm tai nghe vào không nhận vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.402843,
+         "id": "1023157",
+         "field_search": "question",
+         "question": "Cho mình hỏi lỗ jack cắm tai nghe iPhone 6s của mình bị hỏng bên mình sửa được không và hết khoảng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.397816,
+         "id": "1020814",
+         "field_search": "question",
+         "question": "Iphone 6plus của em khi cắm sạc vào dt thì ko lên pin và ko báo có điện vào .. khi e cắm sạc vào dt truoc cắm củ sac vào sao .. vô ổ điện thì vô pin bình thương ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.34314,
+         "id": "811714",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình mới mua 1 cái tai nghe iphone. Mình dùng ip4s cắm vào chỉ nghe dc 1 bên tai. Còn cắm vào các máy lhzcs thì nghe dc cả 2. Làm thế nào để khắc phục dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.2732,
+         "id": "1136627",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình dùng dây sạc cắm vào PC, xuât hiện cái điện thoai trong Computer nhưng bên trong không còn gì cả, hiện tai mình dung oppo a71. Lúc đầu thì vẫn làm binh thường, dung điện thoai khác thì vẫn binh thường,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.24861,
+         "id": "908796",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là: Tự nhiên laptop của mình không phát ra âm thanh, cắm tai nghe vào vẫn không nghe thấy gì, mình đã cài đặt lại drive thì laptop đã nghe được nhưng tai nghe thì bị rè, mình đã kiểm tra tai nghe ở máy khác thì không bị rè. Mình muốn hỏi là làm sao để khắc phục tình trạng này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.24444,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.164337,
+         "id": "919842",
+         "field_search": "question",
+         "question": "cho em hỏi laptop em sạc thì vẫn vào pin, nhưng khi đang cắm sạc thì không có biểu tượng đang sạc vào pin mà lại có biểu tưởng của sạc laptop không pin, khi không cắm sạc thì biểu tượng pin có dấu \"x\" chớp liên tục và báo là \"consider replacing your battery\", thế là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.14163,
+         "id": "839348",
+         "field_search": "question",
+         "question": "Chào các anh chị em có 1 con Laptop hiệu dell , em nghe nhìu khuyên của mọi người là hãng laptop hiện nay có thể vừa để pin vừa cắm nguồn điện để xài dc và sạc đến khi đầy r để dây cắm luôn , vậy có được không ? các anh chị tư vấn cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.004402,
+         "id": "1136009",
+         "field_search": "question",
+         "question": "Em sử dụng oppo f5 và hôm nay sạc pin thì thấy pin chậm vào, có khi vừa sạc vừa xài thì pin tụt hẳn, vào trình quản lí điện thoại kiểm tra pin thì có khi báo lỗi dòng điện của cáp sạc có khi không để lỗi. Đây là lỗi gì và cách khắc phục sao à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.968155,
+         "id": "775339",
+         "field_search": "question",
+         "question": " cái laptop asus cắm tai nghe thì không nghe đc cài driver rồi cũng không nghe đc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.7863,
+         "id": "986711",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua máy dell core i3 đã qua sử dụng tại thegioididong. nhưng về cắm tai nghe hay loa vi tính vào máy thì âm thanh không phát vô dược chỉ nghe được ở trong máy tính thôi. vậy có phải do jack cắm trên máy tính bị hư không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.399048,
+         "id": "842803",
+         "field_search": "question",
+         "question": " Iphone 5c mình bị hư lỗ cắm tai nghe. Cho mình giá sửa hoặc cách tự sửa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.391968,
+         "id": "1001601",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi là cục sạc của em khi cắm vào ổ điện thì kêu rè rè, rút ra thì kêu khoảng vài giây nữa thì hết. Em đã có đổi ổ điện khác nhưng vẫn vậy. Như vậy có gây nguy hiểm cho điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.09577,
+         "id": "902160",
+         "field_search": "question",
+         "question": "laptop acer em vừa mua , lúc đầu ko có hiện tượng này nhưng dạo gần đây hay có hiện tượng em cắm sạc vào thì màn hình tắt như chế độ sleep , nhưng ko bật lên đc , phải tắt nguồn mở lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.02056,
+         "id": "835158",
+         "field_search": "question",
+         "question": " Laptop Asus P550L khi sử dụng mà cắm sạc pin để cả ngày có chai pin không ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.979454,
+         "id": "955487",
+         "field_search": "question",
+         "question": " Cho hỏi cắm cáp sạc từ điện thoại vào laptop bị lỗi ko chuyển dữ liệu từ laptop sang thẻ nhớ được.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.917425,
+         "id": "803103",
+         "field_search": "question",
+         "question": "Mình vừa tại phần mềm nokia software recovery tool về nhưng khi cắm điện thoại vào laptop thì laptop đã nhận đt nhưng phần mềm vẫn hiện là \"please connect your phone..\" Xin hỏi cách khắc phục. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.866837,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.853117,
+         "id": "1010098",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop dell N3567 C5I31120 cào win10, mỗi lần e cắm tai nghe vào đều phải restart lại máy mới nghe được là máy bị sao thế ạ? (Tai nghe e thử sang máy khác và không có vấn đề gì cả)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.838232,
+         "id": "878794",
+         "field_search": "question",
+         "question": "pin laptop lúc nào cũng cắm sạc và dùng trong 1 tuần mới rút sạc . nhiều lần như vậy pin có bị chai k ạ?, và những việc gây chai pin là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.830488,
+         "id": "913046",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy tính mình vừa cài win lại thì mình thấy chỗ sạc pin nó hiện dấu x đỏ vậy khi cắm sạc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.564041,
+         "id": "992631",
+         "field_search": "question",
+         "question": "Mình mới mua con lap Dell N3567c i3 6006u ngày kia. Ngày đầu cắm tai nghe thì nghe được bình thường, hôm nay cắm vào thì lại ko nghe đc gì nữa cả? vậy có phải là lỗi do máy hay lỗi do driver?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.507559,
+         "id": "771962",
+         "field_search": "question",
+         "question": "Khi cắm tai nghe earpotr vào iPhone 5s thì màn hình iPhone sẽ hiện lên gì để nhận biết đã cắm tai nghe vào ? Mong admin giúp em !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.473776,
+         "id": "1022642",
+         "field_search": "question",
+         "question": "Khi cắm sạc tai nghe Bluetooth thì phải tắt đi hay để bật rồi cắm sạc v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.398045,
+         "id": "844298",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào lúc khoảng gần 1h trưa, rồi cho đến 3h mấy 4h gì đấy thì mình nhớ mang máng là máy báo pin 100% rồi, đèn pin laptop cũng tắt rồi. Cho đến lúc nãy, 8h30 mình tắt máy, cuối cùng mới để ý khi tắt xong cả tự nhiên thấy pin laptop còn sáng. Thấy lạ mình liền mở lap lại để coi, thì thấy máy báo là 99% đang sạc (trong suốt quá trình sài đều vẫn cắm sạc). Là nó bị gì vậy ad?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.370745,
+         "id": "1149746",
+         "field_search": "question",
+         "question": "Đt mình đang sử dụng tự nhiên đứng máy tắt nguồn. Lúc máy mở lại thì không nghe được âm (chuông báo, cuộc gọi, nhạc v.v..)  gì nữa. Cắm tai nghe vào thì nghe được. Cho mình hỏi máy bị gì ạ? Máy mình là ss A5 2017 ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.10003,
+         "id": "883210",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi . Em có đọc trên một vài trang web họ bảo rằng : Pin của laptop asus sẽ tự động ngắt sạc khi đầy 100% , khi đó chúng ta có thể để nguyên sạc trong ổ điện không cần rút ra và sử dụng máy bình thường vì lúc này máy không sử dụng điện từ pin mà sử dụng điện trực tiếp từ sạc . Cứ để nguyên như vậy không rút ra có thể xài được khoảng 5 ngày ( vì mỗi ngày pin sẽ xuống 1% do nuôi linh kiện ) . Khi còn 94% thì rút sạc ra và xài bình thường vì lúc này máy sẽ tự động kết nối sạc để sạc đầy lại 100% , nếu không rút thì máy sẽ vừa sạc vừa xả sẽ bị chai pin . Khi nào còn 10% thì sạc đầy và tiếp tục làm như trên , làm như vậy sẽ hạn chế số lần sạc pin giúp pin lâu chai . Cách sử dụng như vậy có đúng không ? Việc cắm sạc liên tục không rút ra khi pin đã đầy và dùng có ảnh hưởng gì không ? Em cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.015972,
+         "id": "1166503",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua điện thoại SamSung galaxy A70. và mua thêm sạc dự phòng. Nhưng dây cáp của điện thoại này ko cắm vào sạc dự phòng đc. Vậy bên mình có bán dây cáp để sử dụng đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.012867,
+         "id": "1152157",
+         "field_search": "question",
+         "question": "Em sử dụng nokia 7 plus dạo gần đây e sử dụng tai nghe là điện thoại tự giảm âm lượng.E cắm vào máy khác thì bình thường còn máy mình vẫn bị điện thoại e mới mua hàng qua sử dụng chưa được 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.995745,
+         "id": "1022536",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua samsung galaxy a7 được vài ngày.lúc đầu cắm tai nghe vào vẫn bình thường nhưng hôm nay lại không cắm vào được.phải cắm mạnh vào mới nghe được nhưng bắt buột phải giữ chặt tai nghe. Nếu không giữ chặt thì tai nghe không thể ghim sát được. Cho e hỏi phải khắc phục như thế nào ạ?E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.90251,
+         "id": "1144962",
+         "field_search": "question",
+         "question": "Mình xài A7 2017, mình sạc điện thoại bằng sạc dự phòng samsung thì lên đầy pin,còn sạc bằng các cục sạc khác hay cắm trực tiếp nguồn điện thì lên được 2% rồi không vào nữa,trường hợp này là bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.787886,
+         "id": "772968",
+         "field_search": "question",
+         "question": "xin chao. cho toi hoi là khi cắm tai phone vào máy tính trước rồi khởi đông thì nghe được. còn khi mở file nhạc lên nghe mà mới cắm tai phone thì không nghe được, chỉ nghe loa ngoài của laptop. cho hỏi lỗi của phần cứng máy hay bị lỗi win. thanks your",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.663004,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.652845,
+         "id": "780650",
+         "field_search": "question",
+         "question": " iphone 6 plus . Khi cắm tai nghe vào chỉ nghe được 1 bên. 1 bên thì rè.. là lỗi gì vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.572397,
+         "id": "1004819",
+         "field_search": "question",
+         "question": "Mình đang dùng thì laptop tự sập nguồn. Sau đó có thử bật lại nhưng máy không lên và cắm sạc cũng k vào. Có ai biết đây là lỗi gì và cách khắc phục k ạ? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.451008,
+         "id": "807126",
+         "field_search": "question",
+         "question": " cho mình hỏi là tự nhiên laptop khi cắm heaphone vào thì không nghe được nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.445326,
+         "id": "901667",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ! sạc laptop asus F454L (pin liền) e cắm sạc thỉnh thoảng pin không vào, hoặc có khi nhấp nháy đỏ báo pin, e cắm sạc khác cùng hãng thì vẫn sạc được bình thường ạ. e kiểm tra sac ở ngoài thì không có bị đứt dây hay như thế nào cả. thế h e phải làm sao ạ?cảm ơn ad!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.431343,
+         "id": "1002583",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng lenovo a7000. Trước đây e vừa sạc bin vừa xem phim vẫn vô bin như bình thường. Nhưng bây giờ em vừa sạc vừa xem phim thì bin vô rất yếu rồi tuột bin như không cắm sạc. Vậy có phải do bin em bị chai rồi không ạ, hay là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.427309,
+         "id": "780804",
+         "field_search": "question",
+         "question": "Em dùng laptop DELL có nên tháo rời pin ra, rồi cắm nguồn trực tiếp sử dụng hay là không tháo pin ra ma cắm nguồn vào sử dụng luôn, bất kể pin đầy hay chưa đầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.394901,
+         "id": "1135296",
+         "field_search": "question",
+         "question": "Laptop Asus K401U của em khi pin trên 95% em cắm sạc vào thì không chuyển qua AC mà vẫn sạc là bị gì vậy ạ, lúc trước trên 95% thì nó sẽ chuyển qua AC ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.301174,
+         "id": "1159581",
+         "field_search": "question",
+         "question": "Cho em hỏi là loptop em sao cắm sạc thì lúc vừa cắm thì có lên đèn khoảng 12s rồi tắt không sạc được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.134743,
+         "id": "1155769",
+         "field_search": "question",
+         "question": "Cho  em hỏi tại sao khi cắm tai nghe vào sony xperia x thì ko có hiển thị gì cho mình biết đã kết nối. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.87347,
+         "id": "882791",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tại sao em cắm bàn phím vào laptop thì không bật được đèn vậy anh. Bàn phím của em mua chỗ uy tín nên chắc không hư. Em xem mấy clip trên mạng vẫn thấy bàn phím hãng em bật đèn bình thường khi cắm vào laptop. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.827938,
+         "id": "998475",
+         "field_search": "question",
+         "question": "mình đang sài điện HTC one M8 EYe,đang vừa lên mạng vừa nghe nhạc và sạc pin thì điện thoại bị tắt và hiện lên màn trắng có logo HTC one và ko tắt nguồn được,như vậy thì làm cách nào khắc phục và sử dụng bình thường lại được vậy bạn.Mong giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.792288,
+         "id": "1021756",
+         "field_search": "question",
+         "question": "Hi bạn! hiện tại mình có mua máy tính laptop acer đã qua sử dụng. và mới mua được chưa được một tuần thì máy có tình trạng giật lag. trong khi mình không sử dụng việc gì ngoài word và exel. cũng không dowload gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.711952,
+         "id": "1145364",
+         "field_search": "question",
+         "question": "bên mình có nhận sửa chữa macbook k thế ad ? mình có con macbook bị lỗi cắm sạc pin không vào điện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.711082,
+         "id": "755111",
+         "field_search": "question",
+         "question": "Laptop của em chỉ sạc pin được khoảng 1 phút sau đó thì sạc không vào nữa, cắm sạc lại củng chỉ sac được 1 phút thôi ạ, cho em hỏi laptop em bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.695097,
+         "id": "1156882",
+         "field_search": "question",
+         "question": "Mình mới mua samung a50. Sạc lần đầu vừa cắm sạc đã cảm thấy nóng máy. Như vậy có phải lỗi do pin không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.669563,
+         "id": "1023016",
+         "field_search": "question",
+         "question": "Có thể sử dụng điện thoại khi đang cắm sạc dự phòng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.60259,
+         "id": "1142943",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sử dụng điện thoại có chip Snapdragon 810 thì máy có mau nóng không ạ? Khi chơi game có dung lượng lớn thì có gây nóng máy quá mức và giật lag điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.533379,
+         "id": "770224",
+         "field_search": "question",
+         "question": "hiện em đang sử dụng lap levono. cho em hỏi là máy cắm sạc thường xuyên thì pin có ảnh hưởng gì không ạ. nếu như pin thường xuyên cắm sạc qua đêm hoặc cắm sạc khi pin đang đầy để sử dụng thì có sao không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.509487,
+         "id": "917203",
+         "field_search": "question",
+         "question": "Ban quản trị cho em hỏi. Laptop e đang sử dụng bình thuờng đột nhiên 2/3 cổng usb của máy không sử dụng đuợc. Cắm usb hoặc chuột vào không sử dụng được thì pgải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.396122,
+         "id": "884325",
+         "field_search": "question",
+         "question": " Có thể vừa sạc vừa sử dụng laptop dell n5050 ko v mấy anh chị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.362463,
+         "id": "996632",
+         "field_search": "question",
+         "question": "Chào các bạn hỗ trợ kỹ thuật,Cho mình hỏi 1 vấn đề:Mình dùng mua iphone 6splus ở thế giới di động được khoảng 2 tháng rồi. Mấy hôm nay máy mình có hiện tượng là gọi điện thoại đi lần đầu thì không nghe thấy gì, tắt đi gọi lại thì được; tương tự cắm tai nghe vào lần đầu cũng không được, rút ra cắm lại vào thì được.Các bạn có biết lỗi này là gì và khắc phục được không?Mong sớm nhận được phản hồi từ các bạn.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.247768,
+         "id": "1023849",
+         "field_search": "question",
+         "question": "laptop của mình vừa đem bảo hành vì bị treo máy và cảm biến vân tay và phải cài đặt lại toàn bộ máy ,sau khi nhận máy lại thi jack cắm tai nghe không hoạt động nhưng loa vẫn phát bình thường , xin chỉ giúp mình sửa lỗi này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.235697,
+         "id": "999648",
+         "field_search": "question",
+         "question": "Điện thoại samsum galaxy j3 sạc pin rất lâu vào có khi sạc đến 4 mí phần trăm thì tự ngắt sạc không thì không vào pin nữa mình phải rút ra rồi cắm sạc vào lạiminh sạc nguyên đêm nhưng chỉ có 46 % rồi ko vào pin nữa, rút ra rồi cắm sạc lại thì vào nhưng rất chậmkhỏi động lại thì lúc 43 % lúc 46 % lúc thì 50%Phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.177557,
+         "id": "1164273",
+         "field_search": "question",
+         "question": "Trước mình có mua tai nghe ở tgdd , giờ được vài tháng thì hay bị lỏng lúc cắm vào thì mình đem ra đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14001,
+         "id": "1157425",
+         "field_search": "question",
+         "question": "Chiếc huawei nova 3i của mình, bây h sạc pin lỏng quá, cắm sạc vào, cầm lên là rơi ra luôn, ad cho mình hỏi mình có chính sách đổi trả hay hỗ trợ gì ko. Thư ad!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.117224,
+         "id": "1003910",
+         "field_search": "question",
+         "question": "Máy j7p của mình hôm nay sau khi sử dụng xong tai nghe khi rút ra máy lúc nào cũng trong chế độ tai nghe. Cám tai nghe vào thì nghe đc còn rút ra là k nghe thấy gì nữa.... cho mình hỏi máy bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.111418,
+         "id": "800192",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình mua cáp IWALK iPhone 5s đã qua sử dụng và đã giảm 49%. bây giờ mình dùng sạc không vào điện thì có bảo hành không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.07872,
+         "id": "1013663",
+         "field_search": "question",
+         "question": "e mới mua điện thoại oppo a37 được 3 ngày. e có cắm phone nghe nhạc thử thì ổ cắm khá là lỏng, lúc vô lúc lại không vô. nghe nhạc thì nhỏ mà e chỉ nghe được một bên loa, e thử lấy tai phone khác cắm vào cũng y như vậy. cắm phone oppo vô điện thoại khác thì e nghe nhạc bình thường. vậy e có thể đổi điện thoại khác được chứ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.02933,
+         "id": "1017687",
+         "field_search": "question",
+         "question": "Vì sao trên điện thoại j7 pro khi cắm tai nghe vào thì trên thanh trạng thái không hiển thị dấu hiệu là đã kết nối tai nghe hay không thông báo là đã kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.977274,
+         "id": "1149680",
+         "field_search": "question",
+         "question": "mình cắm dây samsung vào với ổ cắm iphone thì sạc có làm sao không?mà lúc mình sạc thì nó lại phát ra âm thanh rè rè ấy,mà sạc thì vẫn vào pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.954803,
+         "id": "800843",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi e cắm cáp vào laptop thì hiện như này là thiếu driver đúng ko ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.94064,
+         "id": "909673",
+         "field_search": "question",
+         "question": " tại sao laptop của em sạc không vào điệnmặc dù đã cắm và thử khởi động lại máy rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

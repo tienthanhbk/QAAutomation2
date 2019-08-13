@@ -1,0 +1,801 @@
+{
+   "id_query": "1148517",
+   "total": 32705,
+   "total_current": 100,
+   "max_score": 118.675156,
+   "origin_question": "ad ơi cho mk hỏi máy của mình đứa e nó cầm nghịch đổi pass adroi mà quên mất mở quá nhiều lần nó xóa luôn thiết bị h bật nguồn k lên h làm sao hả ad",
+   "hits": [
+      {
+         "score": 42.21541,
+         "id": "922148",
+         "field_search": "question",
+         "question": "ad cứu em với ạ. e có nghịch dại tạo tk icloud mà h e k nhớ mk, h e phải làm tn ạ? h máy bảo e nhập apple ID vs pass mà e k làm đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.91143,
+         "id": "1146144",
+         "field_search": "question",
+         "question": "ad cho e hỏi cái này ?? e quên mk icloud mà h nó bị khoá . làm sao lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.40982,
+         "id": "965622",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là máy mình iphon 5s dùng hay bị tự động tắt mở nguồn , mỗi lần mở nguồn thì dất nâu mà mình cầm đi bảo hành 2 lần rùi về ko có ghì tốt hơn máy vẫn bị vậy bây h mình muốn khác phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.192345,
+         "id": "1024485",
+         "field_search": "question",
+         "question": "Ad ơi, e có 1 cái samsung galaxy j7pro, lỡ làm quên mất pass hình, lên mạng có người chỉ reset hand nhưng khi e tắt nguồn thì nó cũng kêu pass nữa, giờ làm sao đây ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.595005,
+         "id": "925519",
+         "field_search": "question",
+         "question": " Em lên ios 10.1 e quên gửi mã xác nhận sang nước đức mà h e gửi lại mã thì nó kêu gửi quá nhiều lần thì phải làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.29018,
+         "id": "1158356",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi là instagram của mình mỗi lần up ảnh lên rồi nó tự xóa ảnh đó luôn... bây giờ mình phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.237606,
+         "id": "1157425",
+         "field_search": "question",
+         "question": "Chiếc huawei nova 3i của mình, bây h sạc pin lỏng quá, cắm sạc vào, cầm lên là rơi ra luôn, ad cho mình hỏi mình có chính sách đổi trả hay hỗ trợ gì ko. Thư ad!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.945877,
+         "id": "937402",
+         "field_search": "question",
+         "question": " Em xài laptop asus nó mới bị sập nguồn và bật không lên giờ phải làm sao hả ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.33933,
+         "id": "846658",
+         "field_search": "question",
+         "question": "e dùng iphone 5 đã Jailbreak và cài Cydia . con e nó nghịch máy xóa cài đặt và h bị treo máy . h phải làm thế nào để khắc phục được lỗi này ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.15461,
+         "id": "856103",
+         "field_search": "question",
+         "question": "Ad ơi cho mk hỏi máy của thằng em mình nó quên mất mật khẩu khi mình cắm vô mấy tính thì nó như này mình phải giải quyết sao đây ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.969057,
+         "id": "873517",
+         "field_search": "question",
+         "question": "đt của e tắt nguồn,khi bật lên nó hỏi mật khẩu mở máy, e bấm sai nhiều lần gioừ vô hiệu hóa. e nhớ tài khoản icloud và gmail, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.389881,
+         "id": "1010609",
+         "field_search": "question",
+         "question": "máy em oppoa33 khôi phục cài đặt gốc h nó k có chplay nưa làm sao giơ ad ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.094677,
+         "id": "784238",
+         "field_search": "question",
+         "question": "Ad ơi máy iphone 4 của em đang xài bình thường rồi e tắt máy mà em mở lại nó không lên lại luôn,em dùng mọi cách cũng không lên được .ad cho em hỏi là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.987024,
+         "id": "905550",
+         "field_search": "question",
+         "question": " Ad ơi! Cho e hỏi e cập nhật iso 10 nhưng h khi đăng nhập vào app nó cũng bắt nhập mk nhưng sao Hk kết nối được?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.743742,
+         "id": "831797",
+         "field_search": "question",
+         "question": "E quên mk facebook, đó nhập sai quá nhiều lần lên đăng nhập tạm thời bị chặn. Bây e pải lm thế nào ạ, muốn lấy lại mk thì ntn ạ???? Thak ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.07825,
+         "id": "998440",
+         "field_search": "question",
+         "question": "Ad ơi,em đang xài galaxy tab A SM-P355 và lắp sim unitel 4g . Ở ngoài trời thì sóng luôn 4G Và  2 đến 3 cột sóng,nhưng khi vào trong nhà thì nó chỉ hiện H+,H,3G nhiều lúc nó còn E nữa....ad cho em hỏi có ứng dụng nào để máy em luôn chạy 4g và tăng sóng điện hoại lên không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.001778,
+         "id": "1023651",
+         "field_search": "question",
+         "question": "QTV ơi em xài điện thoại obi mv1 (Cyanogen) mà sao em đang chơi tự nhiên nó sập nguồn rồi em mở lên nó cứ xoay rùi khở động ứng dụng hoài mà nó không lên màn hình nữa.Bây h em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.893568,
+         "id": "1134742",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi làem quên mk máy iphone 6 ớ ad mà máy e hông có tài khoản icloud thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.831776,
+         "id": "1004617",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao s7 edge của mình mỗi khi tải ứng dụng về nó hiện ra 2 ứng dụng lận. Mà mình xóa 1 cái thì mất cả 2 luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.825546,
+         "id": "916337",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi máy ipad của mình bị quên itunes code thì làm thế nào?. khi bật máy lên nó đòi itunes code? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.6,
+         "id": "783137",
+         "field_search": "question",
+         "question": " Máy e chạy chậm quá làm thế lào ad ơi e k bit làm sao nó nhanh mới sài iphone ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.390535,
+         "id": "997147",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi mình đang dùng s7 mà quên mk màn hình chỉ sử dụng được vân tay, xong mình khởi động lại nó bắt nhập mk giờ tắt nguồn không đượcmà vào máy không được có cách nào giải quyết không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.388857,
+         "id": "997765",
+         "field_search": "question",
+         "question": "Điện thoại mobiitar của e camara của e khi chụp nó hẹn h cách nào xóa tiệt cái đó hả a,chj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.317677,
+         "id": "935596",
+         "field_search": "question",
+         "question": "Zalo em bị hack bởi một thiết bị khác rồi h bị xóa tài khoản luôn 2020 h e phải làm sao ạ.em mới bị hack hồi 23h 8/1/2017 chưa đc 24tieng .a chị giúp em lấy lại nhà em cảm ơn a nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.992012,
+         "id": "1001364",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng zenf 5 mà khoảng gần 1 năm r ko sài h bật lại sạc thì nó chỉ hiện lên logo intel thôi chứ ko vô dc máy có phải máy bị hư hay là đang cập nhập v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.799116,
+         "id": "796026",
+         "field_search": "question",
+         "question": " E dùng 4s ạ  nhưng e quên mất mật khẩu của icloud  cũng quên luôn mấy câu hỏi bảo mật  bây h e phải làm s ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.780806,
+         "id": "777970",
+         "field_search": "question",
+         "question": " Ad ơi e có con iPhone 5 mà bị mất camera sau bật lên thì có cảnh báo là làm mất đèn flash là bị làm sao vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.55426,
+         "id": "909680",
+         "field_search": "question",
+         "question": "cho mk hõi icloud cua iphone co thễ chạy lại chuong trình hk v ...vì icloud của mình bị mất mật khẩu ,làm mọi thứ mà k khôi phục dx ,k xóa dx,k lấy lại dx lun v h phãi làm s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.468056,
+         "id": "1143993",
+         "field_search": "question",
+         "question": "Bạn ơi, tại sao máy của mình lại không cập nhập được messenger mới mà các bạn của mình dùng hết rồi cho đức mình xoá đi tải lại nhiều lần và tắt bật lại nguồn nhiều lần mà cũng k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.441566,
+         "id": "1142183",
+         "field_search": "question",
+         "question": "E dùng huawei y5 II, e bật 3G lên bình thường hiện chữ H+ nhưng bây giờ nó chỉ hiện chữ E, cho hỏi muốn chuyển về chữ H+ thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.386223,
+         "id": "997537",
+         "field_search": "question",
+         "question": "Ad cho e hỏi nó e đag cầm con j7 prime mỗi lần tải ứng dụng về là nó kêu tắt lớp phủ j e tìm k đc ạ gửi ảnh cho ad xem mà nó cũng kêu v lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.257545,
+         "id": "846076",
+         "field_search": "question",
+         "question": "AD ơi cho e hỏi hiện tại e đang dùng iphone 5s hồi xưa cứ mỗi lần e tải ứng dụng từ app sto về không pải nhập mật khẩu và tải cũng nhanh nhưng bây h cứ mỗi lần e tải về lại pải nhập mk và nó lại còn tải lâu . cho e hỏi thêm hay có pải tại e tải về và gỡ cài đặt nhiều lần quá hay không? vì e chơi bigcoin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.207417,
+         "id": "1134039",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để tắt thông báo liên tục của cái tin nhắn của máy và messenger khi tin nhắn tới  lần mà mình k đọc cũng 1 tin nhắn đó mà cứ báo đi báo lại nhiều lần khi mua về k có bị sao nhưng khi cập nhật phần mềm thì nó lại bị như vậy nó rất khó chịu xin ad chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.049807,
+         "id": "1007710",
+         "field_search": "question",
+         "question": "máy e mới reset mà quên tài khoản gg cũ..chừ đăng nhập tài khoản gg khác k dc nơi??? h sao ad??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.994247,
+         "id": "1016482",
+         "field_search": "question",
+         "question": " Ad ơi. Fb của e nó bị như v là s vậy ad. Cứ đag tải mãi thôi,  e thử xóa đi tải lại mà vẫn k đc,  tắt nguồn tại lại mà vẫn như v. Wifi nhà thì vẫn ổn định.  Nó chỉ mới bị đây thôi.  Mong ad giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.975313,
+         "id": "852252",
+         "field_search": "question",
+         "question": "Mình có con iphone 6plus giờ mình quên mk màn hình quá giờ mình mở được . mình có yk icloud và vẫn nhớ thế h TGDD có mở dc máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.956945,
+         "id": "846634",
+         "field_search": "question",
+         "question": "ad cho e hỏi e bị mất iphone 5 chạy ios 9.2 icloud của e nhưng e không bật tính năng tìm iphone h e muốn khóa iphone thì làm nào ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.895039,
+         "id": "1134339",
+         "field_search": "question",
+         "question": "ip của mình bị vô hiệu hóa do mở sai pass nhiều lần thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.874813,
+         "id": "1024294",
+         "field_search": "question",
+         "question": "máy của mk lenovo a7000   bị treo logo khi khởi động mk đã thử nhấn phím nguồn + âm lượng máy xong mk ấn rreset mà vẫn bị treo logo. như vậy là sao hả ad. mong ad giúp mk với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.868954,
+         "id": "948505",
+         "field_search": "question",
+         "question": " ad ơi.. giờ ituns của e quên mk.. quên cả email giờ k tải fb.,, zalo hoặc cái khác k đc.. giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.86341,
+         "id": "1009560",
+         "field_search": "question",
+         "question": "Chào AD. Mình hiện đang quên tài khoản apple trên máy iphone 5s của mình.HIện tài khoản mình đã bảo mật 2 lớp, và đang mất mật khẩu, bị khóa do nhập sai mk nhiều lầnMình vẫn còn nhớ: Email, sđt đăng kí bảo mật (vẫn nhận tin nhắn về bt), chỉ mỗi mỗi pass.Giờ mình vào khôi phục nó cứ bắt nhập pass cũ để mở khóa mà ko nhớ pass cũ. AD có cách nào giúp mình với ạ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.786997,
+         "id": "830568",
+         "field_search": "question",
+         "question": "Qtv ơi cái iPhone 4s của em cài mật khẩu khóa màn hình bị thằng bạn em mở nhiều lần giờ bật màn hình lên nó kêu iphone của bạn đã bị vô hiệu hóa giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.53001,
+         "id": "997182",
+         "field_search": "question",
+         "question": "ad cho em hỏi khi e bật mail trong phần icloud lên xong nó bảo tạo thì khi tạo xong nó lại bảo là có vấn đề khi bật thư tín là sao hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.421404,
+         "id": "1016233",
+         "field_search": "question",
+         "question": "Em dùng j7 prime có đặc pass cho app Samsung notes nhưng h em quên pass thì phải làm sao ạ???giúp em với...cảm ơn a/c nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.245571,
+         "id": "807384",
+         "field_search": "question",
+         "question": "iPhone của em vừa cập nhật lên 9.3, nhưng em quên pass iCloud, giờ không vào được nên máy bị khoá rồi. E cũng quên cả pass của email nhận thông tin nên không reset được. Hiện tại Ipad của e cũng đang dùng iCloud này, vậy có cách nào tìm lại được pass đe mở đuoc iPhone k ad? Em cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.133402,
+         "id": "1020141",
+         "field_search": "question",
+         "question": "Cái dt iphone nó bị j mà bật nút nguồn luc lên lúc thì tối den la sao Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.050705,
+         "id": "1000355",
+         "field_search": "question",
+         "question": "Cho mình hỏi là máy mastel N600s của mình cài mk nhưng bị quên . Có cách nào mở được ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.993528,
+         "id": "919381",
+         "field_search": "question",
+         "question": "Sao máy iPhone 5S của e no vừa có thông báo nâng cấp lên ios 10.1.1 mà kích vào xem thông báo nó vẩn k mất cái thông báo , nếu h nâng cấp lên có bị lổi j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.932629,
+         "id": "1147172",
+         "field_search": "question",
+         "question": " ad cho e hỏi ạ? máy tính của mình, khi bật là nó hiện cái này? giờ mình phải làm sao. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.929834,
+         "id": "1021840",
+         "field_search": "question",
+         "question": " Cho mk hỏi là acc gg này k phải của mk mà muốn xóa nó thì s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.857376,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.841228,
+         "id": "1009276",
+         "field_search": "question",
+         "question": "Em muốn xóa samsung cloud mà e quên mật khẩu rồi h làm s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.808876,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.676603,
+         "id": "1000755",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình ip6s plus. Mình để máy nơi bàn chẳng dùng đến nhìn lại thấy màn hình sáng,lúc đó phải bấm nút nguồn mới tắt. Mà mình cũng k bật chế độ đưa iphone lên là sáng. Thế mà bị từ lúc mua đến giờ bị vài lần rồi đấy. K biết máy mình có bị làm sao ko nữa. Đang lo lắng. Mong ad phản hồi. Thank's!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.546482,
+         "id": "1162674",
+         "field_search": "question",
+         "question": "Ad ơi, bây h em muốn đăng xuất icloud nhưng em không có mật khẩu thì phải làm sao ạ. Icloud là của người khác em không thể dùng cách quên mk đâu ạ. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.532644,
+         "id": "837014",
+         "field_search": "question",
+         "question": " Anh ơi em sủu dụng đt iiphone 4 em mở nguồn lên mk s nó k nổi màn hình v anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.41413,
+         "id": "996570",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi e có con iphone chưa đăng nhập icloud mà quên mật khẩu giờ chữa hết bn hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.33762,
+         "id": "996717",
+         "field_search": "question",
+         "question": "Máy iPad 2 của em hôm qua còn 66% pin mà bây h hết pin , lại còn mở nguồn thì  lên nhưng ở trên đầu quả táo thì có mấy cái tia xanh xanh , xong rồi ấn thử , nó ra màn hình chính nhưng không lên mà còn có nhiều tia tách ra từ màn hình chính. em lo quá . có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.26355,
+         "id": "1024279",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em dùng iPhone 4s mà h chuông ko có bật chuông lên nó hiển thị tai nghe trong đó em ko lắp tai nghe và thực hiện h cũng ko có chuông mong à chỉ em lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.2438,
+         "id": "914742",
+         "field_search": "question",
+         "question": " sao win 10 của e không tải được lol ad ơi ? Tải về toàn ra phần mềm word thôi 3 AD ơi phải làm sao bây h ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.223614,
+         "id": "834963",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip 4 ma mạng rất chậm bật cả 3g mà mạng vẫn quay . Tốc độ cao thì ms đăng ký, làm sao đe mạng lên H+ đây ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.214636,
+         "id": "1000287",
+         "field_search": "question",
+         "question": " Chào ac ạ e ms mua oppo neo7 mà cài mkhau 1tg h mún gỡ mk hoặc đổi thì lại ko dc bị như này h phải làm tn ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.206314,
+         "id": "998048",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi mình có icloud có pass nhưng ko có số điện thoại thì pahỉ làm sao mà đổi lại pass đc mình có cả gmail nưa nhung ko dổi đc pass",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14631,
+         "id": "993344",
+         "field_search": "question",
+         "question": "E có cái ip4s cũ bị hỏng nút nguồn. Đang xem phim thì tự nhiên máy tự động tắt nguồn sau đó e có bật máy bằng cách sạc máy k lên đc:(( bây h phải làm ntn vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.088112,
+         "id": "800197",
+         "field_search": "question",
+         "question": "AD cho mình hỏi iPhone 5s của mình hồi bữa xài nóng máy quá màn hình nó bị sọc dưa luôn vậy là nó bị hư màn hình hay bị gì khác nữa à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.066032,
+         "id": "862661",
+         "field_search": "question",
+         "question": "E đang dùng 6 plus bt thì máy sập nguồn rồi bật không lên đc. Để lâu lâu thì nó lại lên cắm sạc vào bt nhưng dùng ít lâu lúc thì đc 1 ngày lúc thì đc vài tiếng và có thể là lên đc 1 lúc rồi lại sập. E bị 5 6 lần như vậy rồi, mấy lần đầu thì e nó khởi động lên luôn mà bh thì e nó lúc nào lên đc thì báo hết pin và hiện màn hình chờ cắm sạc. Nhưng e cắm sạc vào thì nó lại mất nguồn. Bây giờ e đang lo quá k biết ntn, k biết là do pin hay do nguồn nữa mong add chỉ giúp ạ.Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.050596,
+         "id": "1143606",
+         "field_search": "question",
+         "question": "Mình có mua cái máy của hãng Huawei media pad ple701_L T2pro do cháu mình cai mật khẩu Ma nó quên thấy vậy mình bẻ cái mât khẩu luôn ai ngờ cứ tưởng như máy thường mở nguồn nó bảo bắt buộc phải có tài khoản sao lưu của  google nó mới cho sài bình thường mà giờ quên mất mật khẩu và tài khoản google rồi toàn dữ liệu quan trọng khong biết có cách nào giúp với ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.050133,
+         "id": "1017597",
+         "field_search": "question",
+         "question": "Ad cho e hỏi...e xài đt SAMSUNG J5(2016) ko hiểu sao e sạc đầy pin r sử đến 76% pin tự nhiên tắt nguồn r em mở nguồn lên thì nó còn 0% pin. Điện thoại e bị mấy ngày liền luôn ạ...ad giải thích giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.98594,
+         "id": "1005987",
+         "field_search": "question",
+         "question": "Ad ơi em dùng máy mobiitar zumbos2 lau máy lỡ bị nước nhỏ vào lo h nó bé tí lm thế nào bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.965569,
+         "id": "920601",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e đag dùng ip4s mà e lỡ nâng cấp lên ios 9.3.5 . Máy lag quá, giờ e muốn hạ ios xuống đc k ad. Mà máy e bị mất mật khẩu icloud r ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.936478,
+         "id": "1138626",
+         "field_search": "question",
+         "question": "Mình mới mua realme 2pro nhưng thấy pin tụt nhanh quá. Bây h mình mún đổi sang máy khác thì có mất phí k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.92944,
+         "id": "1168735",
+         "field_search": "question",
+         "question": "ad ơi. Cho e hỏi. Oppo f3 nâng cấp đk lên adroi 7.0 đk kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.88326,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.88031,
+         "id": "773140",
+         "field_search": "question",
+         "question": " máy em mua dc 2 3 tháng j đó mà nay e mới sài camera h nó bị z là thế nào z ad.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.797092,
+         "id": "1156295",
+         "field_search": "question",
+         "question": "Xin chào TGDDCho e hỏi cái này ạE đang xài máy HTC derise 10 pro Sao máy e mỗi lần tắt máy hay khởi động lại hơn 10 phút mới lên nguồn và cầm máy nghe nóng lắm.Xài pin tới 60% là nó tuột nhanh lắm có khi 50% rồi 40% là tắt nguồn luôn Cho e hỏi máy bị hư pin hay là nguồn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.775478,
+         "id": "1139718",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi , mình bị mất mk Fb xong mình xác nhận email mới bằng  xác minh danh tính đăng CMTND , có mail fb gửi về rồi mình lấy cái mã fb gửi về copy vào nó cứ  báo \"B ạn đã thử quá nhiều lần.Vui lòng thử lại sau\" giờ sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.77416,
+         "id": "1166147",
+         "field_search": "question",
+         "question": "AD cho e hỏi iphone 6 của mẹ e bị quên mật khẩu mà mở bằng máy tính bảo nhập icloud mà mẹ e lại ko nhớ. Giờ làm sao có thể mở đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.751135,
+         "id": "818060",
+         "field_search": "question",
+         "question": " Máy iphone của con tôi cho tôi mà nó quên số pin và quên luôn ID của apple thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.722662,
+         "id": "987059",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình đã chạy lại chương trình của máy iphone 5 mà trong khi đó mình đã quên mật khẩu icloud của mình luôn r. Mình cũng đã mất luôn email khi lập cái icloud đó vậy bây h còn cách nào để mình có thể chạy lại chương trình đc ko hay là từ bỏ chiếc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.680422,
+         "id": "1160406",
+         "field_search": "question",
+         "question": "E mua điện thoại oppo a3s đc 10 ngày. Nó có bị lỗi nguồn. E có đem ra thế giới di động sửa r nó vẫn bị bình thường. H đổi điện thoại mới được k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.674992,
+         "id": "998889",
+         "field_search": "question",
+         "question": "Ad cho mk hỏi là chỗ địa chỉ Mac wifi trên điện thoại LG G3 LG-LS980 của mk đột nhiên bị mất và nó ghi không có địa chỉ .Bây giờ mk ko dùng đc chức năng bắt wifi nữa bật lên thì không thể tắt. Ad cho mk một giải pháp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.538103,
+         "id": "758170",
+         "field_search": "question",
+         "question": " Oppo neo7 bị đơ không tắt được nguồn thì làm sao hả ad ơi 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.522625,
+         "id": "1004880",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 của em sao đang sài mà bị  tắt nguồn rồi mở không lên dù pin điện thoại em đang đầy nó bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.509167,
+         "id": "825799",
+         "field_search": "question",
+         "question": "ad cho e hỏi tại sao latop của em mấy hôm nay cứ bật máy lên là quạt nó quay mạnh kêu thành tiếng rât to mặc dù chỉ mới mở máy lên thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.497349,
+         "id": "1134087",
+         "field_search": "question",
+         "question": "ad cho hỏi, cái viền sáng màn hình cạnh của note 9 sao mình bật lên, thông báo ầm ầm, mà nó vẫn k hiện cái màu viền cạnh lên vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.469675,
+         "id": "958240",
+         "field_search": "question",
+         "question": " Mình nhỡ tay xoá face h khong tải đc lại ad giúp mk đc k ạ Mìh dùg máy iphone5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.437841,
+         "id": "1017979",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.4202,
+         "id": "1158834",
+         "field_search": "question",
+         "question": "em đang có cái laptop mà nó rất lag nên cho e hỏi. Bây h em mún nâng cấp ram và ssd. Bây h e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.342781,
+         "id": "995686",
+         "field_search": "question",
+         "question": "mình dùng ip5 hị hỏng nút nguồn h tắt nguồn sạc vẫn vào điện nhưng không lên màn hình thì bị gì hả add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.333948,
+         "id": "965203",
+         "field_search": "question",
+         "question": "Cho e hỏi: e dùng dell vostro 3468 i3 sao mỗi lần e bật máy tính lên mà nó khởi động chậm vậy ạ. giống kiểu mỗi lần bật máy tính lên là khởi động lại vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.24366,
+         "id": "838941",
+         "field_search": "question",
+         "question": "Ad ơi, em đang sử dụng iPhone 4s. Em nâng cấp lên iOS 9 rồi xong nó tắt nguồn luôn. Em mở nguồn thì nó lên hình cái cắm sạc rồi mũi tên ITunes nữa. Em không biết làm sao cả. Em coi mấy bài khác nói ra ngoài tiệm sửa, mà tốn tiền sợ ba mẹ em la lắm!!! Ad giúp em với!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.24234,
+         "id": "1159769",
+         "field_search": "question",
+         "question": "Các mod ơi cho em hỏi chút: máy ip4 của em lâu ko dùng h lôi ra nghịch và em có update lên ios 7.1.2 . Khi update xong hết ko hiểu sao máy nó hiện lên hình dây cáp sạc cắm vào hình nốt nhạc là sao ạ. Mong các mod giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.202478,
+         "id": "877479",
+         "field_search": "question",
+         "question": " ad cho e hỏi sao máy iPhone 4s của em lại k bật đc 3G ạ? vuốt để bật nó lại trở về như cũ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.195004,
+         "id": "797488",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 4s của em tự nhiên bị tắt nguồn mở không lên là nó bị làm sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.192833,
+         "id": "874515",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi tí ạ...e đk id apple trên itunes , e đã chọn mục none ,sau khi điền thông tin đầy đủ bấm tạo thì nó ra như thế này đây ..là sao hả ad , mà e đk bằng 3g , mong ad giúp e ..tks nhiều ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.14727,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.074463,
+         "id": "1156152",
+         "field_search": "question",
+         "question": "shop cho hỏi máy của e mở khóa sai nhiều lần và bị vô hiệu hóae đã làm theo hướng dẫn kết nối với ituns cập nhật được 1 lúc máy báo cần mở khóa thiết bị là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.06478,
+         "id": "807480",
+         "field_search": "question",
+         "question": "Máy tính của mình hong pit bị sao mà giờ mở cốc cốc lên nó lại ra giao diện như yahoo ấy ... ai giúp mk cho nó trở lại bình thường được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.047112,
+         "id": "905662",
+         "field_search": "question",
+         "question": "Em nhập sai đáp án của câu hỏi bí mật quá nhiều bây h chỉ đăng nhập và sử dụng chứ không thể đổi pass. vậy có cách nào reset lại câu hỏi bảo mật không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

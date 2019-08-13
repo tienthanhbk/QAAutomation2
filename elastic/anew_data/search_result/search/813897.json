@@ -1,0 +1,801 @@
+{
+   "id_query": "813897",
+   "total": 29083,
+   "total_current": 100,
+   "max_score": 88.462456,
+   "origin_question": " Mình cập nhật phần mềm iphone mà đến HOÀN THÀNH THIẾT LẬP ICLOUD cứ bị lỗi không hoàn thiện được phải làm ntn ",
+   "hits": [
+      {
+         "score": 31.146389,
+         "id": "878124",
+         "field_search": "question",
+         "question": " touch id iphone6 máy mình báo thất bại không thể hoàn thành thiết lập touch id là sao ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.934261,
+         "id": "750849",
+         "field_search": "question",
+         "question": "Mình xài iPhone 5 bản quốc tế. Mình mới vừa cập nhật lên iOS 9.1. Để hoàn tất cập nhật mình phải đăng nhập ID. Nhưng đt cứ báo không thể đăng nhập, giờ điện thoại mình không thể sử dụng được, mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.757156,
+         "id": "1155067",
+         "field_search": "question",
+         "question": "máy samsung J5 của mình mỗi lần mở wifi là hiện thông báo 'Gói cập nhật phần mềm chưa được tải xuống hoàn toàn', làm sao để tắt? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.764359,
+         "id": "766115",
+         "field_search": "question",
+         "question": "Mọi người cho hỏi em tải bản cập nhật 9.2 về mà khi đăng nhập tài khoản ID Apple để hoàn thành mà không đăng nhập được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.367529,
+         "id": "779786",
+         "field_search": "question",
+         "question": " Mình đang dùng 4s với phiên bản 6.3.1 mình muốn cập nhật lên phần mềm 9.2.1 mà cứ báo bị lỗi tại sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.133318,
+         "id": "1009201",
+         "field_search": "question",
+         "question": "Ad cho e hỏi đt ss j7 prime cứ khoảng 1 tháng lại báo cập nhật phần mềm nâng cấp ứng dụng android, mỗi lần cập nhật mất khá nhiều thời gian. Vậy những lần ntn có nhất thiết phải update k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.863544,
+         "id": "769236",
+         "field_search": "question",
+         "question": " Máy mình mất iCloud cập nhật phần mềm thì nó báo chữ hello. giờ phải làm sao được bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.833296,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.588312,
+         "id": "787511",
+         "field_search": "question",
+         "question": " Máy iphone 6 cập nhập phần mềm bị dính iCloud thì phải làm sao ? help me ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.40822,
+         "id": "775285",
+         "field_search": "question",
+         "question": "Thegioididong cho mình hỏi iphone của mình hay bị out wifi là bị lỗi gì? Có phải do phần cứng không vì mình đã chỉnh \"off\" định vị wifi và cập nhật phần mềm nhưng vẫn bị bắt wifi kém và hay bị out. Nhà có 2 cái iphone mà 1 cái bị chứ không phải cả 2. Cái bị out wifi là iphone 5s quốc tế đã cập nhật phần mềm mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.378876,
+         "id": "897857",
+         "field_search": "question",
+         "question": " Em nghe nói Iphone cập nhật phần mềm sẽ biến thành cục gạch, Hiện tại máy e báo cập nhật phần mềm, vậy có sao ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.188046,
+         "id": "844728",
+         "field_search": "question",
+         "question": " mình muốn cập nhật phần mềm nó cứ hiện thế này thì làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.761732,
+         "id": "835682",
+         "field_search": "question",
+         "question": "chào các anh chị TGĐ. tình hình là em mới restore lại máy iphone 4 GSM. restore thành công là bắt buộc phải thiết lập lại từ đầu, đến phần kết nối với iTunes thì e đã kết nối thành công rồi, máy báo kết nối thành công rồi nhưng trên iTunes nó báo (em cài iTunes tiếng Việt) : \"không thể hoàn tất yêu cầu trên iTunes Store...\" vậy em phải làm sao đây ạ. mong nhận được trợ giúp từ anh chị sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.612314,
+         "id": "776140",
+         "field_search": "question",
+         "question": " iPhone của em cập nhật phần mềm bị lỗi giờ không mở được giúp em cách khắc phục với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.534197,
+         "id": "1146104",
+         "field_search": "question",
+         "question": "cùng một điện thoài và máy tính nhưng nick facebook của em chưa được cập nhật còn khi đăng nhập nick bạn vô thì lại thấy cập nhật rồi ..... mặc dù khi vào phần app em đã hoàn thành cập nhật nhưng vẫn ở đạng giao diện cũ ... giải thích dùm em ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.196651,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.15595,
+         "id": "762972",
+         "field_search": "question",
+         "question": "Mình muốn cập nhập iPhone lên iOS 9.2 nhưng khi vào cập nhật phần mềm thì máy kiểm tra phần mềm rất lâu ko biết làm sao để cập nhật ad chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.112425,
+         "id": "809884",
+         "field_search": "question",
+         "question": " iPhone 4S em cập nhật phần mềm mới giờ bị treo cáp có sửa được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.083675,
+         "id": "801234",
+         "field_search": "question",
+         "question": " Mình đang muốn cập nhật ios7 cho iphone 4 nhưng ấn vào cập nhật phần mềm nó cứ download mãi mong đc giúp đỡ ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.048391,
+         "id": "839655",
+         "field_search": "question",
+         "question": "điện thoại iphone 4 của mình thấy đang ở phiên bản 6.1.2 mình muốn nâng cấp nên là 7.0 có được không? và làm cách nào? mình vào phần cập nhật phần mềm thì không cập nhật được, giúp m với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.868422,
+         "id": "1168170",
+         "field_search": "question",
+         "question": "ĐT A6+ đang cập nhật phần mềm ONE UI PIE 9.0. Khi cập nhập gần xong thì máy cứ hiện dòng chữ SAMSUNG. MÌnh phải làm sao đây Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.846235,
+         "id": "1153681",
+         "field_search": "question",
+         "question": "Samsung Galaxy Grand Prime, Điện thoại mình ghi \"Hệ điều hành trên thiết bị của bạn đã được sửa đổi một cách trái phép. Hãy thử tải về cập nhật phần mềm sử dụng Samsung Kies trên PC hoặc đến một trung tâm dịch vụ khách hàng.\" Mình phải làm gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.726496,
+         "id": "742153",
+         "field_search": "question",
+         "question": " Hệ điều hành iOS 9 chưa hoàn thành thì tung ra thị trường làm gì để máy bị lỗi thế nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.694584,
+         "id": "805111",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4s hôm nay mình cập nhật phần mềm trong phần cài đặt xong máy bị treo cáp Itunes bây giờ phải làm thế nào xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.68749,
+         "id": "765158",
+         "field_search": "question",
+         "question": " iPhone 4s của mình đang là iOS 7.1.2 làm sao để cập nhật phần mềm ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.64868,
+         "id": "765544",
+         "field_search": "question",
+         "question": " Tại sao mình cập nhật phần mềm mà máy cứ trắng màn hình ý. Đợi bao nhiu lâu cũng không hiện cái gì hết?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.637438,
+         "id": "991508",
+         "field_search": "question",
+         "question": "dạ .ad giúp em vs. em bị nỗi j ý ạ . nội dung là thế này :  em có vô phần: cài đặt > touch ID & mật mã > mở khoá ip . và nó hiện nội dung \" Thật Bại . không thể hoàn thành thiết lập . vui lòng quay lại và thử lại \"  Giúp em vs ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.61735,
+         "id": "1008876",
+         "field_search": "question",
+         "question": "hào adm, bạn cho mình hỏi là ip6 của mình khi mua thì mình không để ý đến tài khoản icloud, mấy hôm nay mình có xem thì trong máy không hề có tài khoản icloud mà chỉ có một tài khoản email, phần icloud vẫn để trống. Sau đó mình có lập 1 tk icloud để sử dụng, sau khi đăng nhập thành công thì mất toàn bộ danh bạ, vậy ad cho mình hỏi là danh bạ đó có bị mất hoàn toàn không? nếu không thì làm cách nào để lấy lại được? Cảm ơn ad đã đọc và rất mong nhận được sự giúp đỡ vì đây là danh bạ làm ăn rất quan trọng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.560165,
+         "id": "840123",
+         "field_search": "question",
+         "question": "Làm ơn cho mình hỏi mình mua may ở cửa hàng họ lập cho một tài khoản iclou nhưng bị lộ mk mình có lập một tài khoản mới nhưng cứ có Thông bao tư chưa dã xác nhận phải vào chỗ nào để xác nhận an mà cái tk mới đăng ký hoàn toàn mới ạ cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.427494,
+         "id": "882818",
+         "field_search": "question",
+         "question": "điện thoại của mình quên mk nên bị vô hiệu hóa,và yeu câu kết nối vs itunes. mình tải itunes về roi nhưng vẫn không được. có phải do mình tải phần mềm về máy tính sau lúc máy bị lỗi nên ko đc ko hả bạn Phạm Khải Hoàn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.40522,
+         "id": "1146823",
+         "field_search": "question",
+         "question": "Em có con Nokia 2, tại hơi lag nên e Khôi phục và cài đặt lại ban đầu. Nhưng mà cứ đến giai đoạn Hoàn thiện lại kh load được, hiện lên đại loại là ứng dụng cài đặt kh phản hồi ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.366571,
+         "id": "1137130",
+         "field_search": "question",
+         "question": "DT SS A8 BỊ LỖI PASS EM THIẾT LẬP LẠI NTN XIN DC HỖ TRỢ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.160969,
+         "id": "798496",
+         "field_search": "question",
+         "question": " iPhone 4 16GB có cập nhật phần mềm IOS 7.0 được hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.999771,
+         "id": "837769",
+         "field_search": "question",
+         "question": " Máy em cập nhật phần mềm iPhone mới sau đó truy cập Facebook thì lại không vào được làm sao để khắc phục ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.797785,
+         "id": "1023591",
+         "field_search": "question",
+         "question": "cho em hỏi là sau khi em tải bản cập nhật iso 11 về hoàn thành thì e vào zalo gọi không được. em thử tắt máy khởi động lại cũng không được. và khi có ai gọi đến thì nghe chuông nhưng không thấy nút bấm trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.419418,
+         "id": "998105",
+         "field_search": "question",
+         "question": "Sámunga72017 cập nhật phần mềm xong không mở được máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.33745,
+         "id": "1160429",
+         "field_search": "question",
+         "question": "Sao máy huawei 3i của mình k cập nhật dk bản phần mềm emui 9 là bị sao. Cập nhật phần mềm máy báo emui 8 là mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.265718,
+         "id": "961953",
+         "field_search": "question",
+         "question": " Em hoàn thành đến bước 9 rồi n ip của e ko yêu cầu xác minh tài khoản ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.189388,
+         "id": "1142534",
+         "field_search": "question",
+         "question": "Hỏi về nokia 8110 không cập nhật được phần mềm mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.945564,
+         "id": "824580",
+         "field_search": "question",
+         "question": " Iphone 4s cập nhật phần mềm bị treo logo, cho em hỏi phí Restore là bao nhiêu và lấy ngay được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.944212,
+         "id": "782290",
+         "field_search": "question",
+         "question": "Mấy anh kỹ thuật ơi cho em hỏi, em đang xài cái iPhone 5S iOS 8.4.1 mà máy kêu em cập nhật phần mềm iOS 9.1 không biết cập nhật phần mềm này máy chạy ổn định không vậy mấy anh? Em sợ nó bị lag!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904848,
+         "id": "826600",
+         "field_search": "question",
+         "question": " Cho mình hỏi có cách nào tắt hoàn toàn việc tự động tải bản cập nhật IOS mới của máy ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.886293,
+         "id": "822258",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình cập nhật phần mềm máy iPad xong máy đòi mật khẩu mở máy mà mình không nhớ thì làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.841106,
+         "id": "797705",
+         "field_search": "question",
+         "question": " Mình mới mua Iphone 6s ở TGDD mình có nên cập nhật phần mềm lên iOS 9.2.1 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.831947,
+         "id": "752697",
+         "field_search": "question",
+         "question": " Admin ơi mình bị lỗi phần mềm audio 5s thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.819208,
+         "id": "826397",
+         "field_search": "question",
+         "question": " Mình sài 5s phần mềm 360 chụp hình cứ bị ngược mình phải làm sao   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.799221,
+         "id": "744406",
+         "field_search": "question",
+         "question": "Minh dang xài 5s không hiểu sao cập nhật úng dụng trong App store lại kêu đăng nhập tài khoản (không phải tk mình thiết lập) có cách nào khắc phục để đăng nhập và cập nhật ứng dụng đúng như ID trong App store mình đã thiết lập ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.581015,
+         "id": "838670",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi iphone 3 cập Nhật phần mềm 6.1.6 rồi có cài lên 7.0 được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.49509,
+         "id": "825559",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi mình muốn tắt hiển thị cập nhật phần mềm trên cài đặt trên IOS 9.1.1 thì phải làm sao đây??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463354,
+         "id": "992598",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại phần mềm ban đầu mà mình chưa cập nhật vì máy bị giật, lag thì làm như thế nào ạ?em dùng iPhone 5s 16G Chính hãng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.415703,
+         "id": "1148487",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao oppo r829 của mình bị lỗi phần thời tiết không cập nhật được nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41161,
+         "id": "779200",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao bấm vô cập nhật phần mềm của Iphone thì nó cứ tìm kiếm mãi mà không ra vậy ạ!? E muốn nâng cấp lên IOS 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.283062,
+         "id": "900142",
+         "field_search": "question",
+         "question": " máy e bị quên mật khẩu icloud mà khi đi chạy phần mềm thì ko dùng được nữa thì phải làm sao hả add  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.27529,
+         "id": "1022216",
+         "field_search": "question",
+         "question": "tgdd cho mình hỏi. bây giờ iphone 5s có cập nhật bản 10.2.1 được nữa không vậy. mình cập nhật mà lỗi 3194. thank admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.245592,
+         "id": "899776",
+         "field_search": "question",
+         "question": " AD cho em hỏi tí nhé. mình có thể thiết lập giờ tự động sao lưu iphone bằng icloud được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.243587,
+         "id": "788756",
+         "field_search": "question",
+         "question": "Hiện mình đang dùng Iphone 5 phiên bản 6.0.Mình muốn cập nhật phiên bản cao hơn nhưng tích vào phần cập nhật phần mền lại không được.Cửa hàng có xử lý được lỗi này không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.19978,
+         "id": "1139507",
+         "field_search": "question",
+         "question": "Mình vừa mua con A7 hôm qua thì báo cập nhật phần mêm .nếu mình không muốn cập nhật phần mềm thì làm thế nào để tắt thông báo ở trên góc màn hình nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.126701,
+         "id": "828075",
+         "field_search": "question",
+         "question": "Hôm qua em có cập nhật phần mềm mà hôm nay em lên tin nhắn massage không hiển thị hình ảnh khi tin nhắn tới. Vậy phải làm sao ak..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.109676,
+         "id": "779997",
+         "field_search": "question",
+         "question": "Ad ơi mình muốn hỏi mình dung iPhone 5s máy mình nhận được bản nang cấp phần mềm iOS 9.2.1. Liệu mình có thể cập nhật nó không? Khi cập nhật về có vấn đề gì với máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.061182,
+         "id": "1150314",
+         "field_search": "question",
+         "question": "Tại sao mình cập nhật phần mềm lại hiện lên bảng thông báo lỗi là sao vậy ???  samsung a7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.99602,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.994108,
+         "id": "1152373",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để cập nhật được YouTube trên oppo neo 9 ạ. Em vào thì nó bắt em cập nhật. Em cập nhật thì nó hiện. Ứng dụng không thích hợp với thiết bị của bạn. Như vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.974058,
+         "id": "766560",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iPhone 4 của em đã thiết lập 3 tài khoản iCloud bây giờ em muốn lập thêm 1 tài khoản iCloud nữa được không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.966528,
+         "id": "796537",
+         "field_search": "question",
+         "question": "iphone 4s của em mới mua dùng được một thời gian thì cứ thấy yêu cầu cài đặt phần mềm gì đó em không nhớ.em đồng ý cài đặt sau đó máy bị treo hoàn toàn,như vậy là bị thế nào,sửa chữa ra sao và chi phí nhiều không ạ.Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.946857,
+         "id": "1151218",
+         "field_search": "question",
+         "question": "Mình đang xài mady samsung galaxy j8 nó có bản cập nhật phần mềm mà mình lỡ ấn vào cái nó ghi hoãn cập nhật vậy thì máy nó có bị gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.931973,
+         "id": "756857",
+         "field_search": "question",
+         "question": " Mình mới mua iPhone 6s, máy đã tự cập nhật phần mềm ios 9.2. Vậy mình có nên cài đặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.881102,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.880333,
+         "id": "818818",
+         "field_search": "question",
+         "question": " Ad ơi mình đang dùng con iphone4s màu trắng... giờ mình muốn đổi vỏ thành màu đen hoàn toàn được không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.838058,
+         "id": "840373",
+         "field_search": "question",
+         "question": "Cho e hỏi phần mềm cốccốc của iPhone 5s tải phim trên phimmoi.net tải về chưa được nữa phim thì bị lỗi thì phải làm sao ạ.có phần mềm nào tải phim cho iPhone nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.81083,
+         "id": "768813",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi tải phần mềm thiết kế coredlraw phiên bản miển phí ở trang nào mà có thể cài đặt vào máy tính mà không bị lỗi vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.760027,
+         "id": "1024578",
+         "field_search": "question",
+         "question": "Em mới mua Samsung J7 prime mà nó cứ bắt cập nhật phần mềm mới. Cho e hỏi nếu cập nhật thì bản sau có gì thay đổi không. So với bản hiện tại nó có thay đổi nhiều không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.739815,
+         "id": "1156051",
+         "field_search": "question",
+         "question": "Máy j7 cập nhật phần mềm xong bị mất hết album lưu trong thẻ SD là sao ạ? Muốn khôi phục phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.733839,
+         "id": "911906",
+         "field_search": "question",
+         "question": " mình dùng iphone 5s, mình muốn xía bản cập nhật ioss 10 thì làm ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.672611,
+         "id": "770273",
+         "field_search": "question",
+         "question": "iPhone 6 của mình bị lỗi ấn vào safari và tin nhắn là bị xoay ngang màn hình. Và khi soạn thảo tin nhắn cứ bị hiện lên chữ \"hoàn tác\" rất phiền phức. Sửa lỗi như thế nào chỉ mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.671597,
+         "id": "1149341",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi chiếc đt samsung j7 prime hiện tại thì có thể cập nhật phần mềm đến android mấy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.659698,
+         "id": "1159160",
+         "field_search": "question",
+         "question": "IPhone bị quên mật khẩu và tài khoản iCloud có chạy được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.654192,
+         "id": "1008680",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng ios nó có Thông báo cập nhật phần mềm nhưng mình không muốn cập nhật vậy làm thế nào để tắt thông báo và không bao giờ thông báo cập nhật về máy nữa??? Mình xoá được cập nhật tự tải   Về máy đôi nhưng nó vẫn hiện Thoòng báo trong cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.651697,
+         "id": "1142520",
+         "field_search": "question",
+         "question": "e mới mua sam sung a9 2018 giờ nó cứ hiển thị cập nhật phần mềm mới thì có lên cập nhật không ạ mong a chị phản hồi sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.636482,
+         "id": "1144467",
+         "field_search": "question",
+         "question": "ad cho em hỏi: em muốn nâng cấp ios lên cao. nhưng em aan vào cập nhật phần mềm thì nó cứ hiện ra dòng chữ \"đang kiểm tra bản cập nhật\" mà nó mãi không hiện ra văn bản để cập nhất.e để cả 1 tiếng mà cũng không được. ad giuoa em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.604603,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.57283,
+         "id": "1160872",
+         "field_search": "question",
+         "question": "Có nên cập nhật phần mềm 12.2 cho iPhone 7plus ko bạn và cập nhật có ảnh hưởng gì ko, có hao pin hay không xin tư vấn dùm mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.559883,
+         "id": "840981",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi cái này đc k ạ đt iphone của mình cái lại phần mềm mà phải có icloud mà mình nhập thì kêu bị vô hiểu hoá lên web đổi lại mật khẩu mà vô không được vậy sửa được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.557613,
+         "id": "1131125",
+         "field_search": "question",
+         "question": "Em mới cập nhật phần mềm. Thông báo tin nhắn cuộc gọi nhỡ đều không báo ạ. Với em không gửi được tin nhắn cho tổng đài phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.548267,
+         "id": "1142512",
+         "field_search": "question",
+         "question": " mới mua sam sung a9 2018 giờ nó cứ hiển thị cập nhật phần mềm mới thì có lên cập nhật không ạ mong a chị phản hồi sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.492624,
+         "id": "875010",
+         "field_search": "question",
+         "question": " Iphone3gs không tải được phần mềm trong appstore phải làm sao ạ? Nó cứ đòi ios7. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.46532,
+         "id": "1169097",
+         "field_search": "question",
+         "question": "Cho em hỏi về ip. Em quên tk mk icloud  thì có cập nhật phầm mềm 12.3.1 đc không. Cập nhật xong có bắt nhập icloud không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.34223,
+         "id": "1165017",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j4 thường làm sao để gỡ cái bản cập nhật phần mềm mới nhất ạ. Cập nhập xong em chơi game bị giật quá hông chơi được ạ...em muốn gỡ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.3279,
+         "id": "1163921",
+         "field_search": "question",
+         "question": "Mình đang dùng j4, mình đã cập nhật phần mềm nhưng h lại có thông báo cập nhật tiếp. Vậy mình có nên cập nhật nữa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.324951,
+         "id": "781379",
+         "field_search": "question",
+         "question": "Mình đang dùng máy IPHONE 3GS hồi đầu mình dung không bị làm sao nhưng về sau đầu tiên là game clash of clans mình đang chơi là bị thoát ra ngoài rồi đến các phần mềm trong máy mình ko hiểu nó bị làm sao! Bây giờ game clash of clans mình vào rồi bị văng ngay lập tức! Vậy mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.267735,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.254906,
+         "id": "1136610",
+         "field_search": "question",
+         "question": " Em có nên cập nhật ứng dụng khi bảo trì thiết bị báo lỗi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.152426,
+         "id": "903454",
+         "field_search": "question",
+         "question": "Em cài phần mềm XperiaCompanion,nhưng máy cứ báo lỗi này, chuyển sang máy khác cũng vậy. 2 máy đều xài win 7, Gở bỏ phần mềm diệt virut rồi)chuyển sang cái máy khác win 10 thì được, nhưng máy này lại không nhận điện thoại sony. hạ xuống cài Sony pc Companion khi khởi động nó cứ bắt cập nhật mới cho sử dụng, nhưng cập nhật lại báo lỗi, trên cả 3 máy. Anh/ Chị giúp em nhé! cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.123926,
+         "id": "754536",
+         "field_search": "question",
+         "question": "IPHONE 5 mình đang dùng có lỗi thế này, khi mình vào appstore thì chỉ có hiển thị mục cập nhật , còn các mục khác như tìm kiếm, hay nổi bật thì màn hình trắng hoàn toàn. Xin cho mình hỏi cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.100183,
+         "id": "765192",
+         "field_search": "question",
+         "question": " Em muốn lên ios 8.4 mà nó không hiện lên chữ cập nhạt phần mềm giờ phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.069544,
+         "id": "904431",
+         "field_search": "question",
+         "question": " Xoá tài khoản iCLoud chưa lập thành như thế nào? Mình muốn lập lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.029297,
+         "id": "821660",
+         "field_search": "question",
+         "question": "cho em hỏi, tại sao lại không tải ứng dụng từ store về máy laptop được vậy ad. nó cứ báo là đã hoàn thành nhưng lại vô thì lại không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.028845,
+         "id": "902755",
+         "field_search": "question",
+         "question": "tôi dùng 2 máy iphone chung 1 icloud. Bình thường tôi vận nhận cập nhật cuộc gọi điện thoại trên 2 máy. nhưng sao mấy ngày qua tôi lại không được cập nhật. Vậy phải làm thế nào để cập nhật lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.01416,
+         "id": "771902",
+         "field_search": "question",
+         "question": " e cài phần mềm maple mà sao có cứ hiện cái này lên, phải làm sao ạ????  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.97522,
+         "id": "1001085",
+         "field_search": "question",
+         "question": "Cho em hỏi bấm vào bản cập nhập phần mềm ios 10.3.2 xong chưa cập nhật xong em lỡ tay bấm thoát ra và bây giờ nó không hiện lên để cập nhật nữa thì phải làm sao ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

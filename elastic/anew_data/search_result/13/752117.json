@@ -1,0 +1,801 @@
+{
+   "id_query": "752117",
+   "total": 26378,
+   "total_current": 100,
+   "max_score": 202.62996,
+   "origin_question": "anh cho em hỏi em cần mua laptop để học (vẽ bản thiết kế, bản vẽ chi tiết), chơi game online và một số game khá nặng vậy nhờ anh tư vấn cho em một laptop giá tầm 20 triệu",
+   "hits": [
+      {
+         "score": 113.544205,
+         "id": "750424",
+         "field_search": "question",
+         "question": "anh (chị) cho em hỏi! hiện em là sinh viên và em đang cần mua laptop để phục vụ cho việc vẽ bản thiết kế, chơi game online. Vậy em cần mua loại laptop nào giá tầm 17 triệu trở xuống ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.70903,
+         "id": "1149446",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 6triệu thì mua được sản phẩm nào chơi game tốt và thiết kế đẹp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.921158,
+         "id": "1159102",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Em mới mua máy tính bản HUAWEI 2.599.000 tầm một tuần em muốn đổi lại để bù thêm lấy máy mới tầm 3.999.000 . Vậy cho em hỏi có bị trừ tiền khi đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.894264,
+         "id": "985948",
+         "field_search": "question",
+         "question": "em đang dùng DELL win10 em muốn reset lại máy và cài đặt một số ứng dụng (như PS, AI) nhưng không biết phải làm thế nào. Em muốn tới chỗ anh chị nhờ giúp đỡ nhưng không biết giá cả thế nào. Mong anh chị tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.29221,
+         "id": "1142701",
+         "field_search": "question",
+         "question": "Anh ơi em muốn mua điện thoại tầm 3 đến 5 triệu để chơi game ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.049526,
+         "id": "767074",
+         "field_search": "question",
+         "question": " Em muốn mua một loại laptop chơi game thì em nên mua loại nào già từ 10 triệu trở xuống ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.266117,
+         "id": "749611",
+         "field_search": "question",
+         "question": "Em là sinh viên công nghiêp thái nguyên muốn mua laptop thì anh chị tư vấn cho em mua loại nào mà chơi cs go mượt và kẻ vẽ đồ họa tốt tiện cho sau này đi làm tầm 15 triệu trở xuống.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.003902,
+         "id": "830769",
+         "field_search": "question",
+         "question": "Trong phân khúc giá từ 7 triệu đến 10 triệu,thì laptop nào sử dụng mượt AutoCad vs chơi game đột kích được ạ...giới thiệu em một vài máy với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.52535,
+         "id": "870657",
+         "field_search": "question",
+         "question": "Qtv Cho em hỏi loại laptop giá từ 10-15trieu tính năng dành cho học tập và chơi game cực tốt thì nên chọn mua máy nào ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.410633,
+         "id": "992672",
+         "field_search": "question",
+         "question": "E mún mua cho mẹ em 1 chiếc điện thoại tầm 5 triệu mẹ em 40 tuổi mà em không bk lựa gì nhờ tgdd tư vấn dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.90825,
+         "id": "994409",
+         "field_search": "question",
+         "question": "Ad ơi em muốn mua một smartphone 2_3tr ạ . Màn hình 5.5inch và camera sau trên 10mp, pin trên 3000 ạ. Nhờ ad tư vấn giúp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.28587,
+         "id": "1164550",
+         "field_search": "question",
+         "question": "Em cần mua sản phẩm tầm trung chơi game mượt và pin trâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.946857,
+         "id": "750721",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi! Em là sinh viên và em đang cần mua gấp laptop để phục vụ cho việc học tập ( bản vẽ chi tiết, thiết kế) và giải trí (chơi game online, lướt web, game nặng). em nhớ anh(chỉ) tư vấn giùm em laptop phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.53752,
+         "id": "751637",
+         "field_search": "question",
+         "question": " Em mới mua laptop asus cần một lời khuyên sạc pin laptop đúng cách? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.534554,
+         "id": "743224",
+         "field_search": "question",
+         "question": "Tgdd cho em hỏi! Em có một chiếc ip5 chạy ios 8.4, hồi sáng này em lấy ra quay video khoảng 2 phút thì thấy máy nóng lên khá nhiều. Nếu lên mạng xem phim tầm 30 phút thì mới nóng như vầy. Vậy tgdd cho em hỏi máy như vậy là bình thường hay đã có vấn đề. Em xin cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.767277,
+         "id": "978235",
+         "field_search": "question",
+         "question": "Em muốn mua laptop mà chơi game GTA V, Far cry, giá rẻ mà có thể học tập như soạn word, excel, powerpoint, có loại nào vậy ko ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.744736,
+         "id": "1010988",
+         "field_search": "question",
+         "question": "Dt tốt nhất tầm giá dưới 3 triệu Chơi game tốt Bin trâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.72333,
+         "id": "994896",
+         "field_search": "question",
+         "question": "Anh có thể tư vấn cho e dòng máy tầm dưới 3tr đáp ứng nhu cầu chơi game ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.261677,
+         "id": "997401",
+         "field_search": "question",
+         "question": "Cho em hỏi  Laptop chơi đc game battle ground giá tốt hả mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.7145,
+         "id": "887672",
+         "field_search": "question",
+         "question": " Em muốn tìm 1 chiếc laptop dưới 14tr,nhu cầu chơi game,màn to,thiết kế đẹp thì nên chọn máy nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.466175,
+         "id": "798001",
+         "field_search": "question",
+         "question": "Em muốn mua 1 cái laptop để chơi game CF online.bắt wifi tot 1 chút.giá tiừ 7 đến 10 triệu.ai tư vấn giùm e duoc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.20327,
+         "id": "788727",
+         "field_search": "question",
+         "question": "Em có một nokia 110 mua ngay 20 tháng 9 năm 2015 với giá 900.000 muốn đổi sang iphone 6 phải bù bao nhiêu tiền cho em con số chính xác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.998177,
+         "id": "829776",
+         "field_search": "question",
+         "question": " Cho em hỏi mua lap top tầm bao nhiêu co thể chơi game như liên minh huyền thoại . Cf vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.778103,
+         "id": "1016810",
+         "field_search": "question",
+         "question": "Bạn có thể tư vấn cho mình tầm giá 2tr5 thì điện thoại nào tốt để chơi liên quân không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.438797,
+         "id": "760352",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi ở trung tâm mình có hỗ trợ mua và cài hệ điều hành không ạ.  Hiện tại em muốn nâng cấp máy tính của em lên windows 10 bản quyền. Do hệ điều hành em đang sử dụng không phải bản quyền nên không nâng cấp lên được. Laptop của em hiệu ASUS X401A.Mong anh chị hồi âm sớm giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.26886,
+         "id": "1162846",
+         "field_search": "question",
+         "question": "sao em cập nhật oppo joy 3 lên phiên bản mới nhất mà vào messenger chơi game nó vẫn để là \"hãy cập nhật điện thoại của bạn lên phiên bản mới nhất để chơi\"ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.710804,
+         "id": "843415",
+         "field_search": "question",
+         "question": " QTV cho em hỏi máy Laptop HP Compaq 8510p có chơi được game lol ko vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.69912,
+         "id": "771336",
+         "field_search": "question",
+         "question": "QTV ơi. Tư vấn giúp em. Em cần 1 máy có thể chơi: LoL, FO3, Audition, CSO, GTA Vice City, Tiếu ngạo giang hồ, Cửu Âm Chân Kinh và một số tựa game khác trên web. Em đc người cô gửi từ nước ngoài về cái máy tính. QTV có thể giúp em xem cấu hình như vậy có chơi đc những game như trên ko. Và có đủ dung lượng để tải tất cả các game trên ko? Thêm nữa là máy nước ngoài có lên được các trang web của VN ko? Có tải được game của VN ko? Nếu nó có trục trặc thì có thể sửa chữa được chứ ạ. Ví dụ lắp thêm RAM, card, cài lại win... Mong QTV trả lời giúp. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.557007,
+         "id": "1019947",
+         "field_search": "question",
+         "question": "Chào anh chị, em muốn hỏi chút a. cách đây 2 tháng em có mua laptop bên A/C được tặng chuột không dây, giờ chuột không lăn zum xem văn bản được vậy cho em hỏi có được bảo hành chuột vi tính không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.493195,
+         "id": "1011097",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 5-6 triệu thì nên mua điện thoại nào là chụp ảnh selfie đẹp ạ. Cấu hình tốt. Chơi game ổn định ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.70358,
+         "id": "812828",
+         "field_search": "question",
+         "question": " Cho e hỏi mua laptop tầm 8 triệu thì choi lien minh thì nó ntn.có lag hay la đơ nhiều không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.054283,
+         "id": "745315",
+         "field_search": "question",
+         "question": "Giup em với!!! Em cần mua laptop hãng Dell. em muốn máy mạnh mạnh chút có thể chơi game onlline được, nhất là tối thiểu việc chai pin :( Em không biết nên mua máy Dell nào cả xin tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.046513,
+         "id": "1155475",
+         "field_search": "question",
+         "question": "anh ơi cho hỏi iphone 4 của em bây giờ có cách nào tải về facebook phiên bản cũ ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.02302,
+         "id": "774170",
+         "field_search": "question",
+         "question": "Cho em hỏi máy trước em mua ở tgdd máy ip5 này là bản nước nào vậy ạ.mà sao kiểu máy ghi chữ j ma không có chữ a nữa như bản nhật vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.68332,
+         "id": "764673",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua về win 10. tại sao không tải được game online và không chơi game online trên zing được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.590534,
+         "id": "833190",
+         "field_search": "question",
+         "question": " Nếu thay pin Laptop, máy của em là Vostro 2420, thì giá tầm bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.435867,
+         "id": "750615",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua cái laptop X550LD  4G core i7 . e cài windows 8, nhưng khi chơi game liên minh huyền thoại thì có hiện tượng thường hay bị restart. có biểu tượng :( và 1 số dòng chữ tiếng anh . khi khởi động máy lên lại thì chơi bình thường nhưng 1 lúc sau thì lại bị như tình trạng trên  . vậy e phải làm như thế nào để khắc phục lỗi trên . mong anh chị chỉ giúp  .  e cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.41271,
+         "id": "907603",
+         "field_search": "question",
+         "question": " ad cho em hỏi laptop nào chơi đc game audition ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.239544,
+         "id": "868082",
+         "field_search": "question",
+         "question": " Em muốn tìm 1 con laptop cấu hình ổn để stream game fifa online 3?? Tư vấn giúp em ạ. Khoảng 20 triệu đổ xuống ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.153732,
+         "id": "1010824",
+         "field_search": "question",
+         "question": "Anh chị ơi !!! Anh chị tư vấn giúp em. Em định mua laptop giá tầm dưới 15 triệu để chơi game Blade And Soul ngon ổn định mà không bị lag ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.10556,
+         "id": "1022201",
+         "field_search": "question",
+         "question": "dạ cho em hỏi khi em mua laptop mới ở thế giới di động, laptap có  cài sẵn windown bản quyền không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.901043,
+         "id": "1021872",
+         "field_search": "question",
+         "question": "Nếu e mua máy cũ giá rẻ ở một cửa hàng cách nơi em ở tầm 80km thì TGDD có gửi sản phẩm lên đây không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.63707,
+         "id": "840837",
+         "field_search": "question",
+         "question": " Iphone 5 của em xài phiên bản 7.1.2 giờ em muốn lên ios9 thì phải làm sao và cần bộ nhớ bao nhiêu???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.58458,
+         "id": "744868",
+         "field_search": "question",
+         "question": "  Em muốn tìm Laptop có thể chơi được các game của Vinagame anh chị cho em ý kiến? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.511457,
+         "id": "1134327",
+         "field_search": "question",
+         "question": "Mình xài huawei mediapad T1.70 mình mua nó lúc năm 2015 lần đầu có một bản cập nhật sau khi cập nhật xong.Đến bây giờ mình vẫn chưa nhận được bản cập nhật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.166733,
+         "id": "777090",
+         "field_search": "question",
+         "question": " Em đang tính muốn mua 1 chiếc laptop có thể lướt web và chơi game fifa online 3 tốt? Ai biết tư vấn cho e với ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.073685,
+         "id": "919917",
+         "field_search": "question",
+         "question": " Add cho e hỏi có laptop nào cũ có the chơi games tốt mà giá tầm 4tr k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.903801,
+         "id": "751338",
+         "field_search": "question",
+         "question": "Qtv tư vấn giúp mình. Mình muốn mua máy tính bảng ở giá tầm trung, không biết nên mua loại nào. Mình cũng có nhu cầu chơi game. Thấy ipad mini 2 cũng ok, mà ram có 1GB không biết chạy game nổi không? Phản hồi dùm mình nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.855637,
+         "id": "877470",
+         "field_search": "question",
+         "question": " Cho em laptop chơi dc game online như liên minh gia tam 10 den 12tr ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.840866,
+         "id": "997343",
+         "field_search": "question",
+         "question": "chào anhcho e hỏi   sao em  vào coccoc sài một lát thì mình nhấp chuộc cái n nhảy sang trang web khác z anh...làm s mình tắt nó được vậy anh...  mong được sự phản hồi từ anh..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.50735,
+         "id": "1021324",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em là sinh viên.... muốn nua laptop core i5 cấu hình chơi game mượt pin tốt và bền theo thời gian thì nên chọn loại dòng laptop nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.411512,
+         "id": "1001335",
+         "field_search": "question",
+         "question": "cho mình hỏi samsung  galaxy grand prime khi tải game nặng và lên google nó hay bị đơ phải khởi động lại làm cách nào để nó hết bị đơ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.279335,
+         "id": "801128",
+         "field_search": "question",
+         "question": "hồi em chơi zalo bằng sim em....rồi một thời gian sau em đưa điện thoại lẫn sim em cho thằng bạn...bây h nó vào sài gòn đi làm..và chơi zalo của em..trên điện thoại của em..sdt của em luôn...cho em hỏi có cách nào để biết mật khẩu zalo cũ của em không....sdt cũ em dùng chơi zalo là 0964415628",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.155613,
+         "id": "1137119",
+         "field_search": "question",
+         "question": "Mình mua laptop và có cài win 10 bản quyền của tggd. Sau lần bị hư phần mềm thì mình có cài lại win 10 crack. Nay mình muốn khôi phục và đóng phí để mở khóa tiếp tục xài bản quyền. Bên tggd có hỗ trợ không ạ? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.024488,
+         "id": "992754",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước e có mưa một Cái máy tính bảng Samsung giá tầm 6tr chưa đầy 1 năm . Bây h e muốn đổi sang samsung a5 đc không ạ . Tốn khoảng bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.719383,
+         "id": "835190",
+         "field_search": "question",
+         "question": " mình đang tìm 1 laptop giá dưới 10tr, đủ chiến mượt game liên minh hay ff3, shop có thể tư vấn giúp dc ko ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.713718,
+         "id": "1004613",
+         "field_search": "question",
+         "question": "Cho em hỏi thẻ nhớ 32GB mua online mới được giảm giá thôi ạ, hay đên mua trực tiếp cũng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.681293,
+         "id": "849104",
+         "field_search": "question",
+         "question": "anh ơi bên anh có hỗ trợ cài game không anh em mua laptop bên thế giớ di động chi nhánh biên hòa đó anh bữa hôm bạn em cũng có lên tải 1 lần rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.582024,
+         "id": "998126",
+         "field_search": "question",
+         "question": "cho em hỏi là thế giới di động có bán bản quyền và hộ trợ cài đặt pts cs6 CC không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.405777,
+         "id": "845503",
+         "field_search": "question",
+         "question": " Có thể tư vấn cho em 1 chiếc laptop khoảng 1213 tr có cấu hình cao và mỏng nhẹ được ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.227442,
+         "id": "902171",
+         "field_search": "question",
+         "question": " Cho em hỏi lam sao để sao lưu tin nhan viber và in ra giấy được vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.15627,
+         "id": "1161422",
+         "field_search": "question",
+         "question": "Tôi muốn cập nhật phiên bản mới cho dt J7 pro nhưng lại nhận thông báo: Hệ điều hành trên thiết bị của bạn đã được sửa đổi một cách trái phép. Hãy thử tải về bản cập nhật phần mềm bằng cah1 sử dụng Smart Switch trên PC của bạn hoặc đi đến trung tâm dịch vụ khách hàng ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.133627,
+         "id": "991778",
+         "field_search": "question",
+         "question": "có galaxy note 7 ban chưa? để mua, nếu có bao giờ mới phat hành nhỉ ? đặt trước để mua có được không ? giá bản là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.110876,
+         "id": "993596",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop dell nào chơi mượt lmht rất thấp giá rẻ nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.010197,
+         "id": "776669",
+         "field_search": "question",
+         "question": " Em muốn mua laptop chơi game, giá  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.893528,
+         "id": "1007605",
+         "field_search": "question",
+         "question": "tư vấn giúp em mua laptop phân khúc 20-25 triệu để học tập và có thể chơi 1 số tựa game như liên minh,... nhu cầu chính của em vẫn là học",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.610018,
+         "id": "1008330",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thê nào để sao chép và dán văn bản trên facebook của mình bằng điện thoại oppo neo 3. Mình đã làm moi cách, ấn giữ, rồi xóa và tải lại vẫn ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.591732,
+         "id": "804774",
+         "field_search": "question",
+         "question": " Anh ơi tại sao ip3 em chơi game online là chơi được 1 chút là nó thoát ra zậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.56549,
+         "id": "762438",
+         "field_search": "question",
+         "question": "Xin Chào Nhân Viên Tư Vấn của thegioididong.comEm muốn tư vấn về Laptop  Asus ROG GL552JXEm có ít kinh nghiệm về laptop mong anh chị tư vấn chi tiết về thiết bị điểm mạnh, yếu của Laptop  Asus ROG GL552JXEm muốn mua Laptop để chơi những tựa game như Fifaonline3, Liên minh huyền thoại, Võ Lâm1, Võ Lâm 2 và xem phim thì mua Laptop  Asus ROG GL552JX có đc không ạ.Mong anh, chị trả lời sớm để em tới cửa hàng gần nhất mua 1 em về sử dụng.Em xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.561691,
+         "id": "840093",
+         "field_search": "question",
+         "question": " các quản trị viên tư vấn giúp em vài loại laptop có thể chơi game fifa online 3 mượt có giá tầm 15,5 triệu trỡ xuống ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.505697,
+         "id": "761149",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trưa em có vào hệ thống thế giới di động và được tư vấn là hiện đang bán iPhone 5s màu silver va black 16GB với giá hơn 8 triệu, máy mới nguyên hộp chưa active có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.428307,
+         "id": "764334",
+         "field_search": "question",
+         "question": " Cho em hỏi thường mấy anh đăng ký tài khoản ios, mật khẩu thường để chữ cái đầu là gì vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.319736,
+         "id": "1134356",
+         "field_search": "question",
+         "question": "cho em hỏi vs ạ có bán máy huawei y9 2019 k ạ và giá là bao hiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.173147,
+         "id": "895626",
+         "field_search": "question",
+         "question": "Em muốn mua 1 chiếc laptop tầm 15tr,màn hình khoảng 14 inch,phục vụ chơi game,giải trí thì nên mua máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.159168,
+         "id": "988174",
+         "field_search": "question",
+         "question": "Sở hữu đt tầm trung từ 4 đến 5 triệu thì nên lựa chọn như thế nào? Mình chủ yếu làm việc văn phòng đôi khi cũng muốn giải trí một vài game nhẹ xã stress. Thế mình nên chọn nhãn hiệu nào cho phù họp mong mọi người ý kiến ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.01319,
+         "id": "1161571",
+         "field_search": "question",
+         "question": "Anh ơi tư vẫn cho em !! em phân vân quá! Anh tư vẫn cho em mấy con xiaomi GIÁ từ 2 triệu Đến 2 triệu 300 đồng! Nhu cầu của em là chơi game Pubg mobile và pin trâu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.00364,
+         "id": "895487",
+         "field_search": "question",
+         "question": "Mình dùng máy Laptop lenovo ideapad 310 14isk core i3 2.3ghz, ram 4G, máy mình mới dùng và bị lỗi win, sáng mình mới cài lại win 8.1 single languae nhưng trưa về dùng thì máy bị chậm, lag và bị lỗi full disk. Chơi game nhẹ cũng bị lag giật (Không hề xuất hiện trong bản win 10 pro trước của mình). Vậy mình xin hỏi ad xem có cách gì khác phục tình trạng này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.819763,
+         "id": "889769",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có laptop nào tầm dưới 10tr mà chơi game mượt không nhỉ, đặc biệt là game liên minh huyền thoại.. tư vấn cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.788671,
+         "id": "998621",
+         "field_search": "question",
+         "question": "Ad tư vấn dùm. Mình đang cần mua laptop chủ yếu để chơi game nặng như Liên Minh Huyền Thoại, Fifa Online 3.... Mua laptop nào là tốt!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.753529,
+         "id": "988680",
+         "field_search": "question",
+         "question": "mình dùng zalo phiên bản 3.2.2.r2.medium chỉ đổi ảnh nền trong một khung chat thôi mình muốn đổi ảnh nền cho tất cả thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.709492,
+         "id": "860674",
+         "field_search": "question",
+         "question": "cho em hoi máy em kiểm tra ime nó dể là chest sim lock em không hĩu ý nghĩa của nó , em dã gắn sim viettel nhận sóng sim mobie nhận sóng lun v la bản quốc tế khong vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.576399,
+         "id": "786391",
+         "field_search": "question",
+         "question": "Cho hỏi máy mình cả laptop và điện thoại đều bị nhiễm wonderlandads rồi, mỗi lần xem web bị bật thêm một trang quảng cáo nữa rất khó chịu, mong được giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.55651,
+         "id": "1164610",
+         "field_search": "question",
+         "question": "Cho em hỏi khoảng 15 triệu nên mua laptop nào chơi game ổn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.433924,
+         "id": "1150272",
+         "field_search": "question",
+         "question": "Chào anh chị, hiện tại em đang muốn mua trả góp điện thoại Ip6 S 32GB. Cho em hỏi em có thể mua với gói trả trước 0đ ko và cần những giấy tờ gì ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.218016,
+         "id": "1014050",
+         "field_search": "question",
+         "question": "em có hộ khẩu công chứng vs cmnd mua trả góp dc k ạ, hay phải cần hộ khẩu bản gốc.thanks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.201296,
+         "id": "1012050",
+         "field_search": "question",
+         "question": "Galaxy j7 max chừng nào mới về vậy ạ. Samsung có dòng điện thoại nào tầm 5,5 trở xuống dùng để selfie chơi game cấu hình ổn k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.19451,
+         "id": "1147359",
+         "field_search": "question",
+         "question": "anh oi cho em hỏi có 4triệu rưỡi nên mua máy nào chơi game trung bình cỡ 3 game , pin trung bình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.183784,
+         "id": "969784",
+         "field_search": "question",
+         "question": " Nên mua laptop nào chơi mượt game LMHT Đột Kicks tầm khoảng 20 triệu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.15394,
+         "id": "1016374",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi màn hình điện tjoại asus zenfone go tv của em bị nứt mà vẫn sử dụng được vậy sửa với giá bao nhiêu ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.128117,
+         "id": "1161401",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại nào chơi game tốt giá rẻ tầm 23 triệu ạ? Mong anh chị tư vấn rõ với nói tên giúp em ạ!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.109734,
+         "id": "1014422",
+         "field_search": "question",
+         "question": "anh chị cho hỏi samsung galaxy j2 chơi game hiệp sĩ online có tốt ko zậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.107391,
+         "id": "821338",
+         "field_search": "question",
+         "question": "Cần mua laptop chơi game gta 5 thegioididong tư vấn dum mih",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.086697,
+         "id": "798270",
+         "field_search": "question",
+         "question": " Anh tư vấn giùm em , em có 5tr muốn mua laptop để chơi lm nên dùng máy loại nào vậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.063217,
+         "id": "897158",
+         "field_search": "question",
+         "question": " Laptop nào chơi được các game online như dột kich... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.04718,
+         "id": "1139614",
+         "field_search": "question",
+         "question": "chị cho em hỏi cách tắt âm camera ip7 ios 11.2.6 bản hàn sao ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.93508,
+         "id": "746937",
+         "field_search": "question",
+         "question": " có laptop chơi game lien minh huyền thoại giá rẻ? không ? ad??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.907106,
+         "id": "795779",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi laptop em mua giờ em đem ra chạy lại chương trình được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.8963,
+         "id": "1004982",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện nay có máy nào dưới 3 triệu mà chơi game tốt với bền k ad??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.81422,
+         "id": "898246",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi có laptop nào dưới 20 trieu chơi fifa online 3 không bị lắc giật không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

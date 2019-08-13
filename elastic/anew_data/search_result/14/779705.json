@@ -1,0 +1,801 @@
+{
+   "id_query": "779705",
+   "total": 31952,
+   "total_current": 100,
+   "max_score": 37.96927,
+   "origin_question": " QTV cho em hỏi là iPhone nào có hỗ trợ mạng 4G ạ? ",
+   "hits": [
+      {
+         "score": 27.00741,
+         "id": "779750",
+         "field_search": "question",
+         "question": " Cho em hỏi qtv iphone 4s hỗ trợ 4g ko ạ.? Thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.851347,
+         "id": "1002645",
+         "field_search": "question",
+         "question": "cho em hỏi samsung j7 k hỗ trợ 4G ,nhưng mà sim e là sim 4G vậy nên ,e sử dụng mạng có bt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.845676,
+         "id": "909545",
+         "field_search": "question",
+         "question": " iphone 4 có hỗ trợ mạng 4G mobifone không ạ ??Xin cảm ơn !!!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.431215,
+         "id": "751800",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy sony C4 và M4 có máy nào hỗ trợ mạng 4G không ạ . help me ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.015722,
+         "id": "760529",
+         "field_search": "question",
+         "question": " iphone 5s 16gb có hỗ trợ mạng 4G không quản trị viên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.606958,
+         "id": "1000361",
+         "field_search": "question",
+         "question": "Cho em hỏi j3 2016 có hỗ trợ 4G k vậy sao máy em vào chế độ mạng chỉ có WCDMA và GSM vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.238733,
+         "id": "1004267",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi e có máy iPhone 5 có hỗ trợ 4g ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.828972,
+         "id": "1154559",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua con Realme 2 pro hỗ trợ 4g là thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.734764,
+         "id": "810033",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi là điện thoại oppo f1 có hỗ trợ gậy chụp ảnh không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.510967,
+         "id": "996179",
+         "field_search": "question",
+         "question": "Cho tui hỏi điện thoại oppo neo 7 có hỗ trợ mạng4G không cho biết cách cài đặt chuyển sang mạng 4G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.389841,
+         "id": "996804",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo f1s 2016 có hỗ trợ 4g không ạ...và cách bật như thế nào? ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.751577,
+         "id": "994687",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi bên cửa hàng của mình có hỗ trợ đổi sim 4G viettel không ạ? Và thủ tục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.63254,
+         "id": "1023876",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi thoigiodidong có hỗ trợ root máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.191597,
+         "id": "1156732",
+         "field_search": "question",
+         "question": "Cho em hỏi Vivo V15 sắp ra chỉ có hỗ trợ 4G thôi không dùng được 3G phải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.050291,
+         "id": "1023844",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại J7 prime có hỗ trợ 4G không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.982418,
+         "id": "996034",
+         "field_search": "question",
+         "question": "Cho mình hỏi khay sim 2 của sony xperia X có hỗ trợ 4G(LTE) ko? Sim mình là vina 4G nhưng chỉ hiện lên H+. Mình đã vào cài đặt là Ưu tiên mạng LTE rồi.và mình ở tp Uông Bí. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.693108,
+         "id": "1156278",
+         "field_search": "question",
+         "question": "mạng LTE trên ip7 là sao ạ, thông số of ip7 thì có hổ trợ 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.52676,
+         "id": "993145",
+         "field_search": "question",
+         "question": "tgdd cho e hỏi, có dt cục gạch nào tầm 1tr, có hỗ trợ 3g hoặc 4g, 2 sim, có thể dùng đc viber ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.190868,
+         "id": "1137971",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào để máy em nó hiển thị Mạng 4G thế ạ ... sim em đã cài 4G nhưng nó vẫn ko hiển thị ạ .. HĐH em là IOS ko bk có cách nào sửa ko ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.178051,
+         "id": "1140284",
+         "field_search": "question",
+         "question": "dt realme c1 có hỗ trợ 4g không mà nếu có hỗ trợ thì hỗ trợ tất cả các sim luôn hay sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.12602,
+         "id": "1146567",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 5 pro có hỗ trợ 4G ko ạ ,,,,,,,,,,,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.022894,
+         "id": "1156091",
+         "field_search": "question",
+         "question": "Cho e hỏi máy xiaomi Mi 4C có hỗ trợ 4G ko ạ.Mong ad giúp.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.976793,
+         "id": "802926",
+         "field_search": "question",
+         "question": " Em vừa mất cái iPhone 6s, cho em hỏi có cách nào em tìm lại được không ạ? Thanks ad hỗ trợ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.783838,
+         "id": "1007251",
+         "field_search": "question",
+         "question": "  Admin cho mình hỏi,máy mình như thế này có hỗ trợ 4g ko,tại vì mình đang định mua sim 4g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71129,
+         "id": "1162281",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s plus Cho em hỏi tgdd có hỗ trợ cập nhật ios 12.2  không ạ em mua máy bên ngoài có được hỗ trợ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.6293,
+         "id": "1138306",
+         "field_search": "question",
+         "question": "Cho e hỏi tí Samsung a7 2018 k hỗ trợ 4g à shop ??????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.46363,
+         "id": "998637",
+         "field_search": "question",
+         "question": "Cho em hỏi là bên mình có hỗ trợ cài jaibreak không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.401777,
+         "id": "774737",
+         "field_search": "question",
+         "question": " Tôi đang dùng Oppo Neo 3 R831 xin hỏi có hỗ trợ 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.255705,
+         "id": "1016672",
+         "field_search": "question",
+         "question": "Nếu điện thoại không hỗ trợ 4g thì mình nên mua loại sim 3g nào ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.235321,
+         "id": "891692",
+         "field_search": "question",
+         "question": " Cho em hỏi e muốn thay pin iPhone 5 tgdđ có hỗ trợ k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.966295,
+         "id": "1161152",
+         "field_search": "question",
+         "question": "Cho tôi hỏi Các thiết bị hỗ trợ sạc không dây chuẩn Qi là loại nào? Vsmart Active 1 có được hỗ trợ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.953062,
+         "id": "914465",
+         "field_search": "question",
+         "question": " Cho mình hỏi ứng dụng vav trợ lý ảo có hỗ trợ cho iphone không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.87586,
+         "id": "1139322",
+         "field_search": "question",
+         "question": "cho em hỏi có cách nào khắc phục bị ngắt wifi và 4g khi tắt màn hình oppo a3s không ạ..cứ tắt màn hình là tự ngắt mạng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.746878,
+         "id": "996350",
+         "field_search": "question",
+         "question": "samsung galãy j7 ko hỗ trợ 4g thì ko dùng đk 4g hạ bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.504425,
+         "id": "772100",
+         "field_search": "question",
+         "question": " Samsung V có kết nối MHL với tivi không qtv, điện thoại nào mới có hỗ trợ MHL ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.387918,
+         "id": "998302",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung các mẫu nào hỗ trợ trả trước 0 đồng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.385641,
+         "id": "1162159",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy j7 max lại không có hỗ trợ 4g trong khi j2 đã có thể sử dụng 4g.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.290146,
+         "id": "1141384",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j7plus có hỗ trợ chạm 2lần để mở màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.289806,
+         "id": "990445",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone 5 bản lock này giờ không hỗ trợ sim trung quốc thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.275686,
+         "id": "997211",
+         "field_search": "question",
+         "question": "cho em hỏi là bên mình có hỗ trợ thay pin chính hãng iphone 5s 16G không ạ? Điện thoại không phải mua tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.127964,
+         "id": "1142513",
+         "field_search": "question",
+         "question": "các dòng iphone có máy nào hỗ trợ trả góp 12 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.125097,
+         "id": "1140605",
+         "field_search": "question",
+         "question": "Em sài dt oppo f9 và sim 4g mạng tốc độ cao...nhưng khi chơi game và xem youtobe mạng bị lang đứng là sao ạ...cho em hỏi đây là lỗi do dt hay mạng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.090267,
+         "id": "809657",
+         "field_search": "question",
+         "question": " Em muốn jailbreak ios 9.3 trên con iPhone 5s quản trị viên co thể hỗ trợ giúp em được không ? thanks qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.065998,
+         "id": "1155099",
+         "field_search": "question",
+         "question": "cho em hỏi là bên minh có hỗ trợ trả góp cho người sắp đủ 20 tuổi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9965925,
+         "id": "794427",
+         "field_search": "question",
+         "question": "  Qtv cho e hỏi là khi e cắm sạc vào thì k hỗ trợ . E đổi đầu thì nó k hiển thị vậy nửa. Vậy làm cách nào khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.964665,
+         "id": "998929",
+         "field_search": "question",
+         "question": " Ad cho em hỏi sao j7prime cua em dang co mạng 4g tốc độ cao ma cu hay bị mất mạng mất ket nối là sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9277115,
+         "id": "1000158",
+         "field_search": "question",
+         "question": "mình 4s lock, bỏ sim 4g vào thì máy báo không hỗ trợ và không hiển thị về màn hình chính, thế là lỗi ở máy hay như nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.899033,
+         "id": "814290",
+         "field_search": "question",
+         "question": " Thời loạn mobile có hỗ trợ cho iphone không ạ?                         ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8418,
+         "id": "1009378",
+         "field_search": "question",
+         "question": "Bên mình cho em hỏi là latp của em là vaio và bị liệt bàn phím thì bên mình có hỗ trợ thay bàn phím không ạ và giá cả thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.817092,
+         "id": "772653",
+         "field_search": "question",
+         "question": " iPhone 4 có mạng 4G không ạ, nếu có thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.790148,
+         "id": "999190",
+         "field_search": "question",
+         "question": "Cho e hỏi là bên tgdd có hỗ trợ vay tiêu dùng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.738984,
+         "id": "1151994",
+         "field_search": "question",
+         "question": "shop cho em hỏi trong tầm giá 7tr có smatphone nào hỗ trợ công nghệ sạc không dây không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.719873,
+         "id": "858253",
+         "field_search": "question",
+         "question": " Em dùng Htc one m8 trong phần cài đặt mạng có để chế độ lte cdma có phải đây là mạng 4g không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.625097,
+         "id": "957552",
+         "field_search": "question",
+         "question": " Bên mình có hỗ trợ cài proshow producer ko qtv. để mình đem máy tới ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.542604,
+         "id": "818491",
+         "field_search": "question",
+         "question": " Máy điện thoại j7 có hỗ trợ USB OTG không QTV cho minh câu trả lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.519395,
+         "id": "1020456",
+         "field_search": "question",
+         "question": " em mới mua oppo a37w 5h trước em vô mạng cài đặt 4g thay lte3g2g là sao không có chi 4g vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.500858,
+         "id": "792514",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi iOS 9.1 đã Jailbreak được chưa ah hỗ trợ thông tin cho mình nhé? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.46876,
+         "id": "749446",
+         "field_search": "question",
+         "question": " QTV cho em hỏi có phần mềm diệt vius nào dành cho iphone không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.464143,
+         "id": "1155433",
+         "field_search": "question",
+         "question": "Cho em hỏi làBên TGDD có hỗ trợ vệ sinh laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.460237,
+         "id": "1143144",
+         "field_search": "question",
+         "question": "cho mình hỏi TGDD có máy đt phổ thông nào có hỗ trợ game java k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.454041,
+         "id": "1162886",
+         "field_search": "question",
+         "question": "Cho e hỏi là samsung galaxy A50 có hỗ trợ sạc không dây không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.427929,
+         "id": "1134266",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.424048,
+         "id": "1013715",
+         "field_search": "question",
+         "question": "Cho e hỏi? Máy tính bảng acer b1-723 có hỗ trợ OTG thì có thể xài dc chuột không dây hoặc có dây k qtv? Và xài dc những loại nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.423157,
+         "id": "1152477",
+         "field_search": "question",
+         "question": "Mình có mua đt sam sung galaxy j6 lavender ở TGDD. Trên hỗ thông tin có ghi là hỗ trợ sim 4g. Nhưng khi mình lắp sim 4g thì báo k nhận sim. Trong khi đó lắp vào đt khác vẫn nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.396308,
+         "id": "952499",
+         "field_search": "question",
+         "question": " Pc dell inspiron3567 i3 có hỗ trợ đèn bàn phím không qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.313358,
+         "id": "1134268",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.279705,
+         "id": "878139",
+         "field_search": "question",
+         "question": " Cháo QTV cho mình hỏiTGDĐ có hỗ trợ cài ứng dụng trả phí trên appstore không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2178135,
+         "id": "763749",
+         "field_search": "question",
+         "question": " Cho em hỏi thegioididong có hỗ trợ cài bộ Microsoft Office 2003 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.194751,
+         "id": "999289",
+         "field_search": "question",
+         "question": "cho mình hỏi lỗi kết nối SSL này là thế nào ạ mình mình vào mạng bằng wifi thì vẫn bình thường nhưng tắt wifi sang 4G dùng thì mạng cứ báo như vậy vậy cách khắc phục là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166953,
+         "id": "1004024",
+         "field_search": "question",
+         "question": "QTV cho e hỏi e có mua 1 chiếc iphone 5se ở cửa hàng..còn trong thời hạn bảo hành,giờ nó bị rớt nước e mang ra cửa hàng hỗ trợ đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.153743,
+         "id": "1010623",
+         "field_search": "question",
+         "question": "cho em hỏi là mình có hỗ trợ cài hệ điều hành dùm không ạ hay chỉ bảo hành là sữa chữa lỗi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.150906,
+         "id": "1149370",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại mobiistar prime x plus có hỗ trợ miracast hay mhl hoặc dùng ứng dụng nào để chiếu lên màn hình tivi được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.148243,
+         "id": "1006147",
+         "field_search": "question",
+         "question": "Ad cho Em hỏi là Em đang sài iphone 5s bây giờ Em gắn sim vietnam mô bai  cái điện thoại nó để sim không được hỗ trợ là bị sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.098148,
+         "id": "1164820",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi em đặt mua sim thì có hỗ trợ cắt sim không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.069151,
+         "id": "1004808",
+         "field_search": "question",
+         "question": "Adm kiểm tra giúp em điện thoại Huawei Y5 ll có hỗ trợ OTG không ạ??? nếu không hỗ trợ thì có cách nào để kết nối OTG không ạ?? Xin adm giúp em!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.048154,
+         "id": "889204",
+         "field_search": "question",
+         "question": "QTV cho cho m hỏi là : m có mua 1 cái laptop bên tgdd cách đây 2 năm. Hiện nay mình đang dùng win 10 và bị lỗi auiomatic repair thì bên tgdd có hỗ trợ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.017112,
+         "id": "995499",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Đt em mới mua ở tgdd do bị lỗi kỹ thuật nên em cần sự hỗ trợ của của hàng tgdd mà em làm mất sổ bảo hành mà có giấy CMND đăng ký mua đt thôi có đc hỗ trợ nếu sản phẩm bảo hành không. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.015215,
+         "id": "1022627",
+         "field_search": "question",
+         "question": "Hi mọi người. Có ai gặp vấn đề như thế này không trợ giúp em với ạ. Mạng của e hoàn toàn ổn định luôn. Nhờ kỹ thuật hỗ trợ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.973688,
+         "id": "1005456",
+         "field_search": "question",
+         "question": "Em có nhu cầu hỏi về iphone 7 plus red. Em cần hỗ trợ thông tin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.950502,
+         "id": "1017462",
+         "field_search": "question",
+         "question": "cửa hàng cho em hỏi ss a7 2016 có hỗ trợ trả góp không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.936818,
+         "id": "1158873",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi là Note 8 có hỗ trợ trả góp không lãi suất không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.890891,
+         "id": "758673",
+         "field_search": "question",
+         "question": " TGDĐ có hỗ trợ cài appstorevn cho iphone 6s không ạ , có tốn tiền không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.890231,
+         "id": "1001031",
+         "field_search": "question",
+         "question": "ad cho em hỏi eGPU thường gắn cho laptop có hỗ trợ card rời vậy nó hỗ trợ khi gắn cho pc bàn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.877176,
+         "id": "783839",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi cách tải nhạc về iphone ạ sao em không tải nhạc từ các trang mạng về máy được ạ? Có phải iphone không tải dược nhạc hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.875629,
+         "id": "1163051",
+         "field_search": "question",
+         "question": "Shop vui lòng cho hỏi máy tính bảng Samsung nào có hỗ trợ MHL.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.815931,
+         "id": "1007881",
+         "field_search": "question",
+         "question": "Cho em hỏi mạng H vs E là  j ak QTV sao vô web lâu vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.690227,
+         "id": "1011042",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có hỗ trợ vệ sinh laptop không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.665927,
+         "id": "1141511",
+         "field_search": "question",
+         "question": "cho em hỏi ổ sạc sasung galaxy j6 64g có hỗ trợ sạc nhanh khoog ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.652826,
+         "id": "811550",
+         "field_search": "question",
+         "question": "Cho em hỏi là Thế Giới Di Động có hỗ trợ việc nâng cấp ram cho Laptop không ạ.Em đang dùng máy Dell Inspiron 14 3421RAM có sẵn là 2GB em muốn nâng cấp lên, vậy Thế Giới Di Động có hỗ trợ nâng cấp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.624337,
+         "id": "1164039",
+         "field_search": "question",
+         "question": "Oppo f5 youth có hỗ trợ sạc nhanh ko vậy adMà nếu có hỗ trợ thì củ sạc loại nào hỗ trợ sạc nhanh vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.602231,
+         "id": "758221",
+         "field_search": "question",
+         "question": " Các anh cho em hỏi DELL 3443 có hỗ trợ đèn bàn phím không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.582331,
+         "id": "755970",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là iPhone 5 của mình cứ bật 3g vào mạng khoảng 10-15 phút là nóng máy? có cách nào giúp mình khắc phục tình trạng này không? mong đươc giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.551981,
+         "id": "749441",
+         "field_search": "question",
+         "question": "QTV cho em hỏi em dùng iphon4 em chơi game gunny mobi cứ được khoảng 3 phút là bị đisss game quay về màn hình chính. Em đã thử giải phóng bộ nhớ nhưng lại thấy điss nhiều hơn lúc chưa giải phóng bộ nhớ thì chơi được lâu hơn. QTV hỗ trợ em với cho em cách khắc phục hay phần mềm nào giúp chơi tốt hơn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.542989,
+         "id": "815705",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop mình mua còn 2 ngày nữa là 1 tháng mà nó bị lỗi và đem lên bên hỗ trợ kỹ thuật. Hỗ trợ kỹ thuật báo là gữi về hãng để kiểm tra và bảo hành mà mình đang cần gấp. Bên thegioididong có cách nào hỗ trợ mình không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.515856,
+         "id": "748435",
+         "field_search": "question",
+         "question": " Có ứng dụng nào hỗ trợ đọc văn bản tiếng Việt trên iPhone 4S không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.491208,
+         "id": "1016394",
+         "field_search": "question",
+         "question": "QTV cho em hỏi hiện tại em đang muốn mua 1 thiết bị hỗ trợ cho việc học ( chủ yếu về học phát âm tiếng anh tại trung tâm ) , em đang phân vân giữa 3 thiết bị : điện thoại , ipad hay laptop , thì theo QTV em nên xài loại nào là phù hợp nhất hiện tại em đang học lớp 10 . giá khoảng 10tr trở xuống ạ . thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.463822,
+         "id": "1022653",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là em đang sử dụng Wiki Fab ridge 4G, mỗi lần cập nhật hay tải ứng dụng Facebook trên CHplay về máy là bị tắt nguồn, kể cả lúc sạc pin, máy có bị hỏng phầm mềm nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.395472,
+         "id": "1155334",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi mi 8 lite có hỗ trợ sạc nhanh quick charge 3.0 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.373654,
+         "id": "802274",
+         "field_search": "question",
+         "question": "Chào tư vấn viênem là sinh viên trường ĐHĐTem muốn mua laptop để hỗ trợ việc học nhưng do gia đình khó khăn. Vậy cho em hỏi có dịch vụ gì hỗ trợ cho em không hay chương trình gì đó..",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

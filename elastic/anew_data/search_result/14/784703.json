@@ -1,0 +1,801 @@
+{
+   "id_query": "784703",
+   "total": 33522,
+   "total_current": 100,
+   "max_score": 93.585945,
+   "origin_question": " Anh cho em hỏi là trên iphone 3gs có ứng dụng ipod vậy ipod là gì ạ có giống zing mp3 hay không . Thank anh trước ",
+   "hits": [
+      {
+         "score": 32.31084,
+         "id": "799446",
+         "field_search": "question",
+         "question": "Cho em hỏi Ipod touch gen là loại sản phẩm như thế nào Chức năng nó khá giống với 1 chiếc iphone thông thường phải không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.136036,
+         "id": "750569",
+         "field_search": "question",
+         "question": " Em có ipod 4 em có thể đem lên TGDĐ để cập nhật phần mềm được không? hiện giờ máy ipod 4 của em là ios 4.3.3. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.314693,
+         "id": "776970",
+         "field_search": "question",
+         "question": " Anh ơi iPod 2 của em tại sau không Cài được iOS 7.1 ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.631529,
+         "id": "769259",
+         "field_search": "question",
+         "question": " Anh ơi sao em tạo tài khoản trên iPhone 3gs không được anh nó kêu câu mình cần visa gì đó chứ không có chữ không.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.149078,
+         "id": "768754",
+         "field_search": "question",
+         "question": " Cho mình tgdd có bán Apple iPod đời 2001 không, có bán thì giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.961931,
+         "id": "817813",
+         "field_search": "question",
+         "question": " Ipod touch bao nhiêu vậy thế giới di động và tgdd có bán không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.862701,
+         "id": "763065",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi có thể tải zing mp3 trên laptop không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.762499,
+         "id": "830599",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, máy tính của em cấu hình celeron, ram 2g. Vậy có sử dụng win xp đc không. Lần trước em có ghost mà không được, em nghe nói là phải nạp MBR gì đó.Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.452293,
+         "id": "1141819",
+         "field_search": "question",
+         "question": "tôi đang dùng microsoft lumia640.  tôi đã cài đặt zing mp3 thành công. nhưg ứng dụng đã hết hạn sd. tôi k thể tìm thấy bất cứ thông tin gì trên ứng dụng zing mp3 đó hết. làm ơn giúp tôi cách cập nhật zing mp3 mới nhất với ạk. tôi k tìm thấy bản cập nhật mới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.048885,
+         "id": "919035",
+         "field_search": "question",
+         "question": "Có ứng dụng nào trên iphone giống với call timer trên android không vậy ad? Em tìm thấy ứng dụng call monitor nhưng hoạt động không chạy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.924435,
+         "id": "773496",
+         "field_search": "question",
+         "question": " Cho em hỏi có ứng dụng trên ios nào giống applock android không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.862797,
+         "id": "779077",
+         "field_search": "question",
+         "question": " Cho mình hỏi cái ứng dụng massenger của mình cài trên iPhone 4s hiện tại không hiển thị nút gọi nữa là sao vậy?thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.74329,
+         "id": "1157246",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏi điện thoại iphone 7 plus của e khi sử dụng nhiều hay bị đơ cảm ứng nhấn k vô r nút trợ năng trên màn hình cũng đơ đứng theo. Hay bị liệt cảm ứng phía trái màn hình là bị gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.628475,
+         "id": "771873",
+         "field_search": "question",
+         "question": " máy ipod có cập nhật  được 7.0 ko addcho hỏi cái ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.340254,
+         "id": "903426",
+         "field_search": "question",
+         "question": "xin chào em đang dùng điên thoại samsung galaxy j1 mini và em muốn hỏi là khi em dùng điện thoại mở các tập tin định dạng .bin .txt .json, vv bằng es duyêt tập tin hay những ứng dụng khác thì nó ra toàn kí tự gì đâu không chứ không phải là tiếng anh. không biết có ứng dụng hay phần mềm trên máy tính nào giúp đọc các định dạng đó bằng ngôn ngữ tiếng anh trên máy tính hay điện thoai không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.233343,
+         "id": "902502",
+         "field_search": "question",
+         "question": "  Cho em hỏi iphone này là bản lock hay là quốc tế vậy các anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.126047,
+         "id": "779797",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đang nghe nhạc Mp3 của zing thì cứ bị chuyển sang bài khác . Bị 1 vài bài trong tất cả bài . Có phải bị lỗi do iOS 9.2 không hay là do ứng dụng lỗi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.910137,
+         "id": "903388",
+         "field_search": "question",
+         "question": " làm sao để tải nhạc có bản quyền trên Zing Mp3, máy mình là laptop windows 10, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.903063,
+         "id": "853758",
+         "field_search": "question",
+         "question": " có cách nào để tải nhạc có bản quyền từ zing mp3 trên iphone không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.775587,
+         "id": "1134565",
+         "field_search": "question",
+         "question": "Chào anh, chị ạ.Oppo f9 ko có cảm ứng tiệm cận là lỗi gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.724934,
+         "id": "993994",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi windowR rồi nhập temp là gì vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612402,
+         "id": "1155921",
+         "field_search": "question",
+         "question": "Chào anh / Chị. Cho em hỏi lap của em không thể tải được ứng dụng trong microsoft store. Khi search ứng dụng cần tải là không hiện ra ứng dụng cần tìm và không cho phép tải. Anh/ chị có thể trả lời thắc mắc của em được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.59545,
+         "id": "791087",
+         "field_search": "question",
+         "question": " Anh hay chị cho em hỏi làm thế nào để tải ứng dụng gọi video trên laptop ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.510628,
+         "id": "796335",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s có tất cả bao nhieu loại cảm biến vay ạ ? Thank anh chị nhìu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.401274,
+         "id": "733605",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi là em dùng iphone và bạn em có gửi cho tệp MP3 nhưng không biết làm sao để mà nghe được, giúp em với. Cần tải gì để hỗ trợ bày cho em nhé. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.359047,
+         "id": "825395",
+         "field_search": "question",
+         "question": "em muốn chuyển nhạc đã tải trên app zing mp3 vào phần nhạc của iphone thì phải làm thế nào ạ ?máy của e là iphone 5s ios 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35877,
+         "id": "1164847",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi ....Iphone của em hiện lên dòng chữ..Không thể sử dụng touch ID trên Iphone này..Nghĩa là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.930534,
+         "id": "930647",
+         "field_search": "question",
+         "question": " Đặt mã khi tạo ID trên apple là gì vậy? Anh chị chỉ em với. Nó không có mục lựa chọn không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.82268,
+         "id": "748967",
+         "field_search": "question",
+         "question": " Cho em hỏi em sử dụng cái iPhone 5s đài loan thì có sử dụng được zalo hay không anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.787851,
+         "id": "1022608",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi điện thoại cảm ứng mà mình tải ứng dụng quét rát trên CH play mà mình sử dụng lâu ngày có làm hai điện thoại mình hay không,em đang dùng galaxy j7 pro ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.770863,
+         "id": "750863",
+         "field_search": "question",
+         "question": "Anh cho em hỏi cài windows 10 mất dữ liệu trên ổ đĩa nào vậy anh và có mất ứng dụng trên máy không. hiện tại em đang dùng laptop asus hệ điều hành windows 7 ultimate không bản quyền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.635351,
+         "id": "790225",
+         "field_search": "question",
+         "question": "Cho hỏi em xài Iphone 3GS 6.1.6 16gb sao mà xài ứng dụng nào cũng bị lag máy em ít ứng dụng lắm có cái văng ra luôn tắt hết ứng dụng chạy ngầm cũng vậy, có thể nói 99% các ứng dụng trên AppStore mà iphone này tải về được xài đều văng và lag rất nhiều ( nặng hay nhẹ đều hoàn toàn như vậy ) không một ứng dụng nào mà xài Bình thường được . Mong giúp đỡ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.567623,
+         "id": "762507",
+         "field_search": "question",
+         "question": " iPhone cách tải Zing Mp3 hướng dẫn cách tải Zing Mp3 về máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.55405,
+         "id": "1015555",
+         "field_search": "question",
+         "question": "anh cho em hỏi 6s camera trước có flash không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.504957,
+         "id": "829200",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone của em là lock hay quốc tế ạ thank you  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.454088,
+         "id": "910226",
+         "field_search": "question",
+         "question": "Chào anh! Cho em hỏi em đang xài iphone 6 em đang coi facebook thì tự nhiên máy bị tắt mà không khởi động lại được là bị gì vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.237118,
+         "id": "803031",
+         "field_search": "question",
+         "question": " Các anh chị cho em hỏi là iPhone 6 dùng trên 1 năm có xảy ra tình trạng bị bạc màu không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.185152,
+         "id": "1002921",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi sạc nhanh trong đt samung galaxy gì đó là như thế nào vậy anh , anh có thể giải thích cụ thể cho e hiểu hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14951,
+         "id": "793390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao mỗi kho em vào ứng dụng như mp3 zing, Facebook hay chrome thì nó đều bắt nhập ID Apple để tiếp tục, làm thế nào để xoá nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.941742,
+         "id": "846721",
+         "field_search": "question",
+         "question": "cho em hỏi các anh các chị là, laptop hp của em nó rất là nóng mỗi khi sử dụng mạng internet, cho e hỏi có cách khắc phục gì để máy đó nóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87561,
+         "id": "1022404",
+         "field_search": "question",
+         "question": "Cho e hỏi ti ipod neo 3 ban được bao nhiêu tiền ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.864256,
+         "id": "1015544",
+         "field_search": "question",
+         "question": "ad cho em hỏi iphone 6 thường 32gb camera trước có flash không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.813004,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.791948,
+         "id": "773492",
+         "field_search": "question",
+         "question": " Có ứng đụng ios nào giống ứng dụng applock trên androi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.769375,
+         "id": "856961",
+         "field_search": "question",
+         "question": " Cho em hỏi, đang dùng 5s của ip.nhưng sử dụng phiên bản 9.3.2 giờ em muộn hạ xuông 9.2 có được không?thank các anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.716236,
+         "id": "771303",
+         "field_search": "question",
+         "question": " Anh chị gì ơi cho em hỏi iPhone 5s cũ có góp được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.61191,
+         "id": "814383",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sau cài đặt ứng dụng làm theme cho iphone không được vậy?? Anh chị trả lời giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.484505,
+         "id": "1148011",
+         "field_search": "question",
+         "question": "Bên mình có giúp đăng kí gói vip cho zing mp3 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.43256,
+         "id": "844250",
+         "field_search": "question",
+         "question": "Cho hỏi IP 3GS 6.x bây giờ lag và văng hầu hết các ứng dụng tải về vậy nếu em vào AppStore mua một ứng dụng nào đó thì khi mua như vậy ứng dụng có bị lag và văng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.387167,
+         "id": "1141183",
+         "field_search": "question",
+         "question": "tải ứng dụng trên app store không được là do bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.337616,
+         "id": "771402",
+         "field_search": "question",
+         "question": " iphone 3gs có lên được ios 7.0 không ạ. nên được thì làm bằng cách nào mong anh chỉ giúp! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.264812,
+         "id": "778762",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi số IMEI này của máy iPhone 5S có phải là hàng chính hãng không anh nhé? 358769057777631 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.235819,
+         "id": "996905",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào khoá ứng dụng trên iphone không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.21329,
+         "id": "797840",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng iphone 5 lock nhật, em tải 1 ứng dụng về máy nhưng khi mở ứng dụng thì toàn bị văng ra ngoài. Anh chị tư vấn cho em cách khắc phục với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.209461,
+         "id": "748963",
+         "field_search": "question",
+         "question": "  các anh chị có thể cho em biết máy của em là quốc tế hay lock được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.181717,
+         "id": "945250",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi tại sao máy em k tìm thấy ứng dụng trên appstore như những máy khác vẫn có ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.119364,
+         "id": "1155666",
+         "field_search": "question",
+         "question": "Anh đặt máy samsung a50 128G bjo anh trả 30% là nhiêu trong khi anh đã đặt cọc trước 500k rồi và anh hỏi luôn trong phiếu anh ghi là ngày 29 lên nhận máy vậy sau ngày 29 là ngày 31 anh có thể lên nhận máy đc kô",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.057518,
+         "id": "758705",
+         "field_search": "question",
+         "question": " Cho em hòi là trên iphone 6 hay iphone 6s có nút home ảo không vậy add? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.049307,
+         "id": "753199",
+         "field_search": "question",
+         "question": "Em xài IP 3GS IOS 6.1.6 không bít tại sao chơi game nào hay sử dụng phần mềm nào nặng hay nhẹ cũng lag và out có cái vô out liền có cái vô lag rất lag và cũng out may mắn không out thì cũng lag nặng mặc dù máy rất ít ứng dụng chỉ 2-3 ứng dụng tải về do lag quá nên không thèm tải thêm nữa đến nỗi vô safari cũng lag và out nữa . Được sự hỗ trợ của TGDD 1 tháng trước em đã reset toàn bộ theo lời Anh/chị nhưng không có một chút gì cải thiện . Mong sự giúp đỡ của Anh/chị !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.02169,
+         "id": "1150323",
+         "field_search": "question",
+         "question": "Mấy anh cho em hỏi là hiện tại em mua con máy realme c1  mà em không biết nó ko thể chuyển ứng dụng sang thẻ nhớVậy em có thể hoàn trả mấy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.852282,
+         "id": "1018006",
+         "field_search": "question",
+         "question": "Bác kỹ thuật cho em hỏi ty.Khi mình chụp ảnh bằng camera trước ảnh sẽ bị lật như mình đứng soi gương  đúng không ạVà khi mình chụp bằng camera sau anh có bị lật không ạVà mắt người nhìn sự vật thì sẽ giống cam trước hay cam sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.851671,
+         "id": "784032",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào để chèn nhạc từ zing mp3 vào vivavideo ạ e dùng iPhone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.817537,
+         "id": "844548",
+         "field_search": "question",
+         "question": " Cho em hỏi cách vừa phát nhạc trên mp3 vừa quay video hay ghi âm trên iphone 4s ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.807165,
+         "id": "1151852",
+         "field_search": "question",
+         "question": "Máy em là Samsung s7 edge, giwof em muốn cài thành giao diện giống s8 có đk ko? Và em đã thử tải và cài giống trên mạng và máy báo \"Ứng dụng chưa được cài đặt\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.789003,
+         "id": "995637",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là nếu em không có hóa đơn điện thì có cái gì có thể thay thế để mua trả góp được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.779915,
+         "id": "871343",
+         "field_search": "question",
+         "question": "Anh chị cho em biết nhung ứng dụng diệt virus trên iphone . Em đang dùng iphone 5 máy em bị nhiễm virus mà không biết cách diệt nên em mong anh chị cho em biết cách . Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.715006,
+         "id": "804499",
+         "field_search": "question",
+         "question": "Em xài IPhone 3gs ios 6.1.6.Không biết điện thoại em nó bị gì mà cứ lag kinh khủng mặc dù rất ít ứng dụng nhưng vẫn vậy hầu như 99% ứng dụng trên appstore mà điện thoại này tải về đều lag và out ra và em đã thử dùng các biện pháp thông thường như: Tắt ứng dụng chạy nền ...,.cũng như không.Em đã reset mỏi tay thì chã có gì là thay đổi.Em đã hỏi TGDĐ thì bảo máy em cấu hình yếu em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.666847,
+         "id": "1019790",
+         "field_search": "question",
+         "question": "Dạ chào anh chị. cho em hỏi là có chuột dùng cho ipab không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.662163,
+         "id": "767993",
+         "field_search": "question",
+         "question": "Ad cho e hỏi các ứng dụng văn phòng gần giống như word, excel, powerpoint mà cửa hàng thế giới di động cài dặt miễn phí cho laptop mua tại tgdđ là ứng dụng gì vậy, làm việc có được như office 2003, 2007, .... không? nếu vào sử dụng có thể đánh chữ bằng tiếng việt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.657396,
+         "id": "1154265",
+         "field_search": "question",
+         "question": "anh ơi, cho em hỏi: em đang dùng iphone 4 IOS 7.1.2, nhà em k có wifi nên em dùng 3g trên iphone thế là sau một thời gian, pin của nó yếu đi rõ rệt. Anh có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.656324,
+         "id": "1020801",
+         "field_search": "question",
+         "question": "Tại sao khi em nghe nhạc cá nhân trong zing mp3 nó nói là cần kết nối mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.648594,
+         "id": "899755",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước em mua máy ở Điện Máy Xanh ở dưới quê rồi em nhờ người ta cài office giùm em, nhưng giờ em lên TPHCM mới biết cái đó là wps nên thiếu nhiều chức năng của power point lắm. Bây giờ em đem ra TGDD để cài lại office 2010 được không? Vậy có tính phí hay gì không anh chị? Anh chị giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.640423,
+         "id": "1015563",
+         "field_search": "question",
+         "question": "Tại sao trên máy mẹ em lại có 2 cái ứng dụng này? Em nói luôn chúng là 2 ứng dụng hệ thống nhé. Một cái tải Facebook về còn cái kia thì \"Quản lý ứng dụng Facebook\"! Mà tốt hơn thì anh chị nào biết tiếng anh thì làm ơn đăng lên XDA dùm em nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.594006,
+         "id": "825783",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi là Reset lại máy Iphone 5 mà đang chạy 9.3 thì nó có khôi phục lạo IOS cũ không anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.564888,
+         "id": "1142108",
+         "field_search": "question",
+         "question": "cho mình hỏi.tại sao trên điện thoại nokia 5.1 của mình lại suất hiện 2 ứng dụng giống nhau vậy?có thể xóa bớt đi 1 ứng dụng được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.551067,
+         "id": "1013262",
+         "field_search": "question",
+         "question": "cho e hỏi là bên mình có sửa nút nguồn của iphone 3gs không ạ, và giá là bao nhiêu, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.494396,
+         "id": "1143250",
+         "field_search": "question",
+         "question": "chụp ảnh trên iphone bị ngược là sao vậy mấy anh chị??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.46084,
+         "id": "998457",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi với ạ. Dòng máy em là oppo A37,máy em mới mua được gần 1 tháng thôi ạ. Mà sao có lúc máy bị đơ đơ ý ạ. Em không hiểu sao, không biết tại máy như vậy hay em đã làm gì ạ??Mong phản hồi của các anh chị ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.410048,
+         "id": "750972",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng iPhone 5s nhưng tại sao khi em tải ứng dụng gì về máy đều không được và có thông báo là thẻ SD bị hỏng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.385204,
+         "id": "789220",
+         "field_search": "question",
+         "question": "Máy iphone 5 của em có imei là: 013409009983519. E không kiểm tra được máy có phải là chính hãng hay không, anh làm ơn kiểm tra giúp em với. Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.362574,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.353006,
+         "id": "1148268",
+         "field_search": "question",
+         "question": " cho mk hỏi, khi vào đa nhiệm của máy Oppo A3s ứng dụng có hình ổ khoá như vậy có nghĩa là gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.340796,
+         "id": "897034",
+         "field_search": "question",
+         "question": "Anh thegioididong cho em hỏi. E nghe trên mạng nói iPhone 5s đổi ngang iPhone 6s mà không cần trả lệ phí có phải không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.29545,
+         "id": "1151284",
+         "field_search": "question",
+         "question": "Xin chào anh nhân viên ky thuât. Anh cho em hỏi là em đang sử dụng ip xs max ios 12.1.4. Nhưng khi mở khoá bằng face id thì đèn led truedepth ko nhấp nháy, anh cho em hỏi như vây là lỗi gì.( Face id vẫn mở bình thường, chỉ có đèn led ko nhấp nháy)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.277811,
+         "id": "1169402",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt lớp phủ màn hình trên máy Mobistar Lai ZumboS ạ? Khi em vào cài đặt -> ứng dụng -> icon cài đặt trên cùng -> vẽ lên trên ứng dụng khác -> chọn \"các ứng dụng có quyền\" thì có 1 số ứng dụng không hiện ở đây. Mong anh/chị trợ giúp em với ạEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268095,
+         "id": "837169",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi là iphone 5s cứ chuyển từ camera sau sang camera trước là mà hình bị đơ không dùng đc camera trước còn camera sau vẫn dùng được bình thường ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.264324,
+         "id": "908011",
+         "field_search": "question",
+         "question": "Chào Thế Giới Đi Động em có thắc mắc là tại sao em không thể tải được ứng dụng trên app store,nó cứ yêu cầu xác nhận mua hàng mặc dù ứng dụng free,cái nào cũng như vậy,không nói cái ứng dụng thu phí,hiện tại e không thể cài bất cứ 1 app nào trên app store.Mong anh,chị giúp đỡ em,em cảm ơn rất nhiều !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.224148,
+         "id": "797986",
+         "field_search": "question",
+         "question": " Anh chị gì đó ơi cho em hỏi là iPhoen không quét được WiFi mình phải làm sao không? Anh chị giúp em với em cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.214119,
+         "id": "1021366",
+         "field_search": "question",
+         "question": "Em chào anh chị ngày 7/9/2017 em có đến điện máy xanh bắc quang phỏng vấn check trên hệ thống thỳ vẫn báo chờ phỏng vấn mà em vẫn chưa thấy thông tin gì phản hồi lại em rất mong muốn được làm việc tại THẾ GIỚI DI ĐỘNG . Anh/chị nào đúng chuyên môn tuyển dụng có thể cho em biết thêm về quy trình tuyển dụng không ạ vì em được biết hoặc là chưa có lớp học hoặc là đã trượt phỏng vấn ! Thân gửi anh chị ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.206244,
+         "id": "763969",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em mới mua iPhone 5s bản 16GB gold máy quốc tế bản Mỹ mà sao em lắp sim gì cũng toàn 3 4 vạch rất ít khi đầy sóng là do sao vậy ạ, nó có ảnh hưởng gì đến sóng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.18881,
+         "id": "819022",
+         "field_search": "question",
+         "question": " em đag xài laptop màn hình cảm ứng HP mà khi nghe zing mp3 không được , có khi phải chờ vài phút mới nghe được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.16738,
+         "id": "1134607",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.16738,
+         "id": "1134606",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.164986,
+         "id": "761142",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi iPhone 4S của em đang chạy Instagram  thì bỗng dưng bị treo lại, không thể ấn phím Home, khóa màn hình thì nó ko lên màn hình nhập passcode mà vẫn giữ nguyên ứng dụng Instagram. Gọi thử vào cũng không lên nổi. Như thế là bị làm sao vậy ạ và có cách gì sửa được không?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.15203,
+         "id": "789840",
+         "field_search": "question",
+         "question": " Anh cho em hỏi mua máy iphone 5s16GB là bao nhiêu tiền anh chiều em mua luôn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.10071,
+         "id": "974400",
+         "field_search": "question",
+         "question": "Hỏi Cài Game Ứng dụng từ file IPA trên iPhone như thế nào Cho mình hỏi, iPhone có thể cài đặt ứng dụng từ file IPA giống như file APK trên Android phải không? Nếu làm được thì cách làm như thế nào và có thể hướng dẫn cho mình được không ạ. Xin cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.089764,
+         "id": "1137194",
+         "field_search": "question",
+         "question": "nút home trên iphone 8 plus có giống nút home cảm ứng trên 7 plus ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.055182,
+         "id": "1162687",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là sản phẩm mobiistar zombo j2 ở trên thị trường chụp hình camera trước có bị đảo chiều bên trái sang bên phải giống máy em ko, chứ máy em lúc bật camera lên chưa chụp thì thấy đúng chiều, chụp xong rồi tự nhiên hình ảnh lại bị đổi chiều bên trái sang bên phải là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.949108,
+         "id": "1007299",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, em dùng điện thoại Samsung Galaxy J5 Prime được 2 tháng. Dạo trước vẫn bình thường như 2 đêm nay, điện thoại đã bật máy bay, tắt các ứng dụng chạy ngầm, Wifi,.. trước khi ngủ, nhưng sáng hôm sau thấy lượng pin mất đi 10-13%. Như vậy, pin hay điện thoại em có phải đang có vấn đề gì không ạ? Em muốn xin ý kiến trước khi mang đến cửa hàng kiểm tra. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

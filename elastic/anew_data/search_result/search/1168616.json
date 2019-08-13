@@ -1,0 +1,801 @@
+{
+   "id_query": "1168616",
+   "total": 29067,
+   "total_current": 100,
+   "max_score": 46.53889,
+   "origin_question": "Cho hỏi máy cũ có hỗ trợ chuyển từ tỉnh khác về ko .",
+   "hits": [
+      {
+         "score": 27.34446,
+         "id": "1147628",
+         "field_search": "question",
+         "question": "Hi adcho e hỏi em muốn mua máy cũ , nhưng máy đó nó hiện khác tỉnh không biết bên TGDĐ có hỗ trợ ship về tỉnh mình ko ạ. Mình ở Đồng Tháp mà cái máy bên Long An.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.388216,
+         "id": "1015229",
+         "field_search": "question",
+         "question": "ac ơi. nếu e mua đt cũ nhưng sản phẩm đó ko có ở tỉnh e mà ở tỉnh khác thì TGDD có chuyển về tỉnh e ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.187756,
+         "id": "1014035",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình muốn mua máy đổi trả nhưng ở tỉnh mình lại ko có thì tgdd có chuyển hàng từ nơi khác về cho mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.018618,
+         "id": "1142833",
+         "field_search": "question",
+         "question": "Nếu e mua máy cũ ở tỉnh khác chuyển về Đà Lạt thì khi càn bảo hành e có phải ship máy về tỉnh đó k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.368544,
+         "id": "1013917",
+         "field_search": "question",
+         "question": "nếu mua máy cũ từ thế giới di động này chuyển về thế giới di động khác có đc chuyển về ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.421312,
+         "id": "999619",
+         "field_search": "question",
+         "question": "ad cho hỏi bây h mh muốn mua đt cũ ở tỉnh khác thì làm sao ạ. mh đặt hàng cty có chuyển về cửa hàng gần nhất chỗ mh ko ? có đc test máy khi máy về ko ? cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.25452,
+         "id": "1000189",
+         "field_search": "question",
+         "question": "máy đổi trả có hỗ trợ chuyển về chi nhánh khác được kg vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.446045,
+         "id": "1146015",
+         "field_search": "question",
+         "question": " Cho em hỏi. Muốn mua máy cũ giá tốt từ tỉnh khác thì phải lam những gi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.30613,
+         "id": "1140509",
+         "field_search": "question",
+         "question": "dạ e đăng ký mua trả góp, nhg sản phẩm lại ở 1  tỉnh khác thì khi e hoàn thành hồ sơ trả góp tại địa chỉ thê giới di động gần nhất thì có hỗ trợ chuyển máy về không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.158539,
+         "id": "1008351",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc máy cũ ở xa chỗ mình liệu bên tgdd có hỗ trợ chuyển hàng ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.025928,
+         "id": "1136388",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn máy cũ ip7plus32g mau vang trả góp ,mà em ở quảng bình ko có màu vàng mà ở tỉnh khác vậy.. vậy bên tgdd có chuyển đơn hàng đó về bên tgdd ở quảng bình để em mua trả góp đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.756334,
+         "id": "1140398",
+         "field_search": "question",
+         "question": "Mình mua ổ SSD và ram mới muốn lắp vào laptop ASUS thì thegioididong có hỗ trợ chuyển xuống hãng và hãng có hỗ trợ cài đặt giúp không (Chuyển dữ liệu từ ổ cứng cũ sang và lắp đặt)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.590437,
+         "id": "1143927",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi về chuyển dữ liệu từ máy sang thẻ nhớ sd, em đang xài máy htc desire 620 dual sim, có khe thẻ nhớ và thông tin máy có hỗ trợ thẻ nhớ, nhưng e có làm theo hướng dẫn chuyển dữ liệu thì k có chức năng chuyển sang thẻ sd, cho e hỏi dòng máy này có hỗ trợ chuyển k ạ? bộ nhớ máy đã đầy rồi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28009,
+         "id": "1144714",
+         "field_search": "question",
+         "question": "Cho a hỏi a co dat cái nokia 8.1 chuyển hàng từ tỉnh khác về, a dat từ ngày 10/1/2019 nhưng đến nay hàng về chưa kg thấy nhân viên goi điện, e kiem tra xem hang đã về chưa 0989846482",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.05737,
+         "id": "1006183",
+         "field_search": "question",
+         "question": "máy cũ có chuyển hàng trong tỉnh k ạ, mình cần mua máy ở tp tânAn nhưng ở Hậu Nghĩa có, mình muốn chuyểnmáy về có được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.819157,
+         "id": "998820",
+         "field_search": "question",
+         "question": "mình muốn mua ipad cũ, các cửa hàng trong tỉnh không có, vậy mua tỉnh khác có thể ship về cửa hàng gần nhất không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.255661,
+         "id": "1013556",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua máy cũ mà em ở tỉnh khác thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.627686,
+         "id": "1022814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sản phẩm máy cũ có hỗ trợ trả góp không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.5719,
+         "id": "1009958",
+         "field_search": "question",
+         "question": "Mình đang dùng điện thoại htc 816g. Mình muốn chuyển một số ứng dụng từ bộ nhớ máy sang thẻ nhớ nhưng không được. Có phải điện thoại này không hỗ trợ chuyển ứng dụng từ bộ nhớ máy sang thẻ nhớ không? Nhờ quản trị viên hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.260523,
+         "id": "990549",
+         "field_search": "question",
+         "question": "Cho e hỏi e ở tỉnh khánh hoà mà mua máy ở tỉnh khác thì máy có gửi về không ạ. Và thủ thục đặt mua máy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.178017,
+         "id": "1161795",
+         "field_search": "question",
+         "question": "Chào anh ạ! Máy Vivo Y91 này có hỗ trợ chuyển ứng dụng từ bộ nhớ trong của máy sang thẻ SD không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.105059,
+         "id": "1024068",
+         "field_search": "question",
+         "question": "mua máy trong danh mục điện thoại cũ thì có hỗ trợ trả góp ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.048122,
+         "id": "1142380",
+         "field_search": "question",
+         "question": "xin chào, tôi muốn mua 1 chiếc điện thoại cũ từ tỉnh thành khác, vậy các bước đặt mua để chuyển điện thoại về cửa hàng TGDD gần nhà như thế nào? Các bạn có thể hướng dẫn được chứ? xin gửi câu trả lời đến gmail của tôi, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.655182,
+         "id": "1007996",
+         "field_search": "question",
+         "question": "cho hỏi nếu em muốn mua đt cũ nhưng nó ở khác tỉnh em ở có mua được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.486744,
+         "id": "895301",
+         "field_search": "question",
+         "question": " Bên tgdd có hỗ trợ reset iphone từ ios 10 về 9.3 không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.449503,
+         "id": "806897",
+         "field_search": "question",
+         "question": " Mình có tải zalo cho máy nokia 206 về máy mà ko dc? máy báo là khong hỗ trợ ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.285728,
+         "id": "1016679",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao hình ảnh của máy android của mẹ e lại chuyển sang hết của máy android của e thế ?? e ko thề chuyển dữ liệu của máy. Mong hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.132019,
+         "id": "1155340",
+         "field_search": "question",
+         "question": "chào ad, cho e hỏi laptop e mua ở tgdd đã đc 5 năm, hiện tại sạc pin ko vào( bóng sạc nhấp nháy), z ko biết cửa hàng có còn hỗ trợ chuyển máy về hãng để sửa giúp em ko ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.077955,
+         "id": "999096",
+         "field_search": "question",
+         "question": "nếu ở tỉnh thành khác có mua được máy vuc giá rẻ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.89715,
+         "id": "1006688",
+         "field_search": "question",
+         "question": "TGDD theo mình thi máy đổi trả lên cho chuyển khác tỉnh nếu có người mua máy như vậy cũng là bán được sp thôi(có thể tính phí chuyển cho người mua) thân ái!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.851892,
+         "id": "995818",
+         "field_search": "question",
+         "question": "E muốn đặt giữ hàng 1 máy cũ rồi xin chuyển về tggd gần nhà cho tiện có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.598642,
+         "id": "777396",
+         "field_search": "question",
+         "question": " Có app nào hỗ trợ tải video về cho iPad ko ad ? Có cho mình xin nhá ! Thanks ad . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.407522,
+         "id": "1156091",
+         "field_search": "question",
+         "question": "Cho e hỏi máy xiaomi Mi 4C có hỗ trợ 4G ko ạ.Mong ad giúp.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.394554,
+         "id": "1162281",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s plus Cho em hỏi tgdd có hỗ trợ cập nhật ios 12.2  không ạ em mua máy bên ngoài có được hỗ trợ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.314661,
+         "id": "1162429",
+         "field_search": "question",
+         "question": "làm thế nào để chuyển ứng dụng sang thẻ SD khi sử dụng vivo y71,nếu máy ko hỗ trợ thì có ứng dụng nào ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.310284,
+         "id": "1155736",
+         "field_search": "question",
+         "question": "dạ máy mobiistar lai zoro 3 màu đen em mua máy cũ chuyển về từ an giang về sa đéc đồng tháp thì bao lâu nhận đc ạ sđt  0373053037",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.23051,
+         "id": "1004267",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi e có máy iPhone 5 có hỗ trợ 4g ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.129581,
+         "id": "1165519",
+         "field_search": "question",
+         "question": "mình muốn hỏi iphone x cũ có hỗ trợ trả góp 0 không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.063492,
+         "id": "1166885",
+         "field_search": "question",
+         "question": "Xiaomi redmi 7 có hỗ trợ gyrocope hay còn gọi là con quay hồi chuyển cho việc chơi game pubg mobile ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.93498,
+         "id": "1135019",
+         "field_search": "question",
+         "question": "Cho mình hỏi nokia 5.1 plus có hỗ trợ chuyển ứng dụng vào thẻ SD không ạ? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.827092,
+         "id": "1161256",
+         "field_search": "question",
+         "question": "Alô anh chị nào đó có thể giúp em tí k. Em cần mua máy cũ s11 plus. Cần chuyển hàng từ tp hcm về chợ gạo trong 2 ngày. Đc không? Máy giá 1140k chưa có phí vận chuyển",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.774336,
+         "id": "1001031",
+         "field_search": "question",
+         "question": "ad cho em hỏi eGPU thường gắn cho laptop có hỗ trợ card rời vậy nó hỗ trợ khi gắn cho pc bàn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.621688,
+         "id": "1024370",
+         "field_search": "question",
+         "question": "Chào ad, mình ở tp.hcm , có mua hàng đổi trả bên mình , nhưng dt bị lỗi và phải ra trả lại . NHân viên bảo là giờ mình muốn đổi con khác tại cửa hàng phải bù thêm vì giá cao hơn. Mình có coi thông tin thì của hàng ở tỉnh khác đang còn máy ngang giá thì tgdd có hỗ trợ gửi máy về tp.hcm để đổi cho mình được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.601483,
+         "id": "1133715",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có hỗ trợ cài win cho laptop ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.564761,
+         "id": "1143806",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng có hỗ trợ cài đặt từ ios 8 lên 11 k ạ ? Ip6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.525076,
+         "id": "1018477",
+         "field_search": "question",
+         "question": "ad cho em hỏi em muốn chuyển key win bản quyền từ máy này sang máy khác được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.519739,
+         "id": "996179",
+         "field_search": "question",
+         "question": "Cho tui hỏi điện thoại oppo neo 7 có hỗ trợ mạng4G không cho biết cách cài đặt chuyển sang mạng 4G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.503091,
+         "id": "996500",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy cũ đỗi trả Nhưng em ở tỉnh Cần Thơ mà máy đó hiện như đang ở Thành Phố Hồ Chí Minh thì có thể đem máy về nhận tại các cửa hàng ở Cần Thơ được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.467887,
+         "id": "1003572",
+         "field_search": "question",
+         "question": "Cho e hỏi dòng galaxy j5 2015 có hỗ trợ cáp otg ko ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.410143,
+         "id": "806927",
+         "field_search": "question",
+         "question": " minh tải zalo vao nokia 206 về máy mà không được? máy báo ứng dụng ko hỗ trợ. Bạn giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.338009,
+         "id": "1156420",
+         "field_search": "question",
+         "question": "mình muốn hỏi về chế độ bảo hành máy XZ2 bạn hỗ trợ giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.22619,
+         "id": "1156469",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình vừa mua đt mới ạ.. mình có thể chuyển toàn bộ tin nhắn sms từ máy cũ sang máy mới đc k ạ ? Máy cũ mình là ip6 máy mới là oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.222581,
+         "id": "862845",
+         "field_search": "question",
+         "question": " The giới di động có hỗ trợ hạ cấp máy từ iOS 10 xuống iOS 9.3.3 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.199371,
+         "id": "1149544",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại oppo a37 có hỗ trợ OTG ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.189838,
+         "id": "1140909",
+         "field_search": "question",
+         "question": "Mình muốn lên đời từ iphone 5 lên iphone 5s liệu bên hãng có còn hỗ trợ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.163755,
+         "id": "1015055",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi. Với máy còn bảo hành thì.. Có đc hỗ trợ cài lại win ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.155556,
+         "id": "1023664",
+         "field_search": "question",
+         "question": "cho mình hỏi bên của hàng co dv hỗ trợ khách hàng chép danh bạ điện thoại từ android sang ios ko bạn 01687475109",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1388,
+         "id": "999190",
+         "field_search": "question",
+         "question": "Cho e hỏi là bên tgdd có hỗ trợ vay tiêu dùng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.132353,
+         "id": "998045",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi?Mình mới mua A5 2016 ở thegioididong.. mình lỡ cập nhật nó lên Android 7.0 máy không dùng mà hao pin rất nhanh... Có cách nào hỗ trợ máy trở về android 5.1 như cũ không vậy Ad.. Xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07994,
+         "id": "1008820",
+         "field_search": "question",
+         "question": "Cho hỏi bên mình có hỗ trợ cho vay tiền trả góp ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.068712,
+         "id": "1138749",
+         "field_search": "question",
+         "question": " ip cũ có hỗ trợ trả ghóp qua thẻ tín dụng không bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.060579,
+         "id": "1014980",
+         "field_search": "question",
+         "question": "máy đang xài window 8.1 pro tgdd có hỗ trợ khôngtại tôi chưa rành về laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.029767,
+         "id": "1166484",
+         "field_search": "question",
+         "question": "Mua oppo F11 pro mới hỗ trợ đổi máy cũ lên máy mới 2.850k là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.002058,
+         "id": "1168287",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi điện thoại vivo y91c không hỗ trợ tai nghe giờ em mua về xong gắn zo được ko  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.981573,
+         "id": "1147286",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có cmnd gốc và hộ khẩu tỉnh photo gốc có công chứng nhưng vừa hết hạn 18/1 này thì có được hỗ trợ mua trả góp điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.914002,
+         "id": "1023876",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi thoigiodidong có hỗ trợ root máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.758347,
+         "id": "1156535",
+         "field_search": "question",
+         "question": "Cho mình hỏi, ở Điện máy xanh Cam Lâm tỉnh Khánh Hoà khi nào có điện thoại Samsung A50 về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.705717,
+         "id": "1167719",
+         "field_search": "question",
+         "question": "Khi nào realme c1 hỗ trợ chuyển sang thẻ sd ạ.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.702886,
+         "id": "1164039",
+         "field_search": "question",
+         "question": "Oppo f5 youth có hỗ trợ sạc nhanh ko vậy adMà nếu có hỗ trợ thì củ sạc loại nào hỗ trợ sạc nhanh vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.637289,
+         "id": "991098",
+         "field_search": "question",
+         "question": "Cho em hỏi ở tỉnh Bình Dương huyện Phú Giáo còn có j7 prime cũ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.616031,
+         "id": "996847",
+         "field_search": "question",
+         "question": "Mình dùng ip6s, mình muốn hỏi về cáp OTG có hỗ trợ được chuột và bàn phím cho máy không. Mong KTV tư vấn giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.590139,
+         "id": "1015020",
+         "field_search": "question",
+         "question": "Chào ad, tôi muốn hỏi về bảo hành sp. Tôi mua 1 điện thoại samsung J2 từ 27/3/2017. Hiện nay tôi sử dụng thấy điện thoại luôn báo bộ nhớ đầy dù tôi đã lắp thẻ 8Gb. Hôm nay tôi có làm rơi xuống nước nên điện thoại bị chậm lại, khó vuốt màn hình. Tôi muốn hỏi về việc tôi có thể được hỗ trợ bảo hành hay hỗ trợ đổi sp khác như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5679655,
+         "id": "1005456",
+         "field_search": "question",
+         "question": "Em có nhu cầu hỏi về iphone 7 plus red. Em cần hỗ trợ thông tin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.551718,
+         "id": "988450",
+         "field_search": "question",
+         "question": "Cho mình hỏi thegioididong có hỗ trợ thanh toán bằng thẻ Visa ko?Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.547699,
+         "id": "1163637",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để chuyển từ dạng mới mà Samsung cho cập nhật về dạng cũ, cảm giác kéo sang ngang không được tiện, kéo lên trên để xóa cũng khá bất tiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.538372,
+         "id": "1149145",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo a7 có hỗ trợ chiếu màn hình ĐT len tv samsung ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.521812,
+         "id": "1002383",
+         "field_search": "question",
+         "question": "chỉ em cách chuyển dữ liệu từ máy cũ sang sam sung galaxy j5 prime với ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.515741,
+         "id": "1009132",
+         "field_search": "question",
+         "question": "Cho e hỏi mún tải mod về máy sony m5 thì phải làm sao tải về r mà vô là nó cứ để phần cứng k hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.452224,
+         "id": "1158730",
+         "field_search": "question",
+         "question": "Xiaomi redmi not6 pro có hỗ trợ sạc nhanh trên máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.431033,
+         "id": "1140620",
+         "field_search": "question",
+         "question": "Mk muốn hỗ trợ tải game trên máy vivo nex a . mk tải về k cài đặt dk ứng dụng mong các b hỗ trợ mk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.423881,
+         "id": "1163596",
+         "field_search": "question",
+         "question": "chào anh chị. em có cái máy laptop asus win 10 có hỗ trợ Window Hello nhưng có vẻ do em xóa tài khoản cũ đi nên mất tính năng này đúng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.421951,
+         "id": "987030",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có hỗ trợ dán phần viền dưới máy ko ad ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.407628,
+         "id": "1024019",
+         "field_search": "question",
+         "question": "mình muốn mua máy đổi trả ở tgdd nhưng ở tỉnh mình k có. thì có thể mua online ở tỉnh khác đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.403221,
+         "id": "1007251",
+         "field_search": "question",
+         "question": "  Admin cho mình hỏi,máy mình như thế này có hỗ trợ 4g ko,tại vì mình đang định mua sim 4g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3480215,
+         "id": "1142870",
+         "field_search": "question",
+         "question": "Cho e hoi tgdd nhan vien kỷ thuat có hổ trợ chuyển danh ba từ máy nokia 150 sang máy iphone 6 plus dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.340752,
+         "id": "998779",
+         "field_search": "question",
+         "question": "A chị xho hỏi có sp nào hỗ trợ trả góp ko trả trk ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.301194,
+         "id": "1156190",
+         "field_search": "question",
+         "question": "Xin chào, mình là Tuấn, mình muốn hỏi Thegioididong ở Hải Dương có hỗ trợ thu mua máy cũ, đổi máy mới không. Mình đang sử dụng Galaxy J7 Pro, muốn chuyển sang dung Vsmart Active 1+Nếu có liên hệ giúp mình theo số điện thoại này nhé: 0987396360Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.22089,
+         "id": "1163051",
+         "field_search": "question",
+         "question": "Shop vui lòng cho hỏi máy tính bảng Samsung nào có hỗ trợ MHL.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.178036,
+         "id": "1155334",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi mi 8 lite có hỗ trợ sạc nhanh quick charge 3.0 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.120579,
+         "id": "1153655",
+         "field_search": "question",
+         "question": "Chào ad.cho Mình hỏi Thế Giới Di Động có hỗ trợ cài win 7 cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.08535,
+         "id": "779750",
+         "field_search": "question",
+         "question": " Cho em hỏi qtv iphone 4s hỗ trợ 4g ko ạ.? Thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.053187,
+         "id": "871993",
+         "field_search": "question",
+         "question": " Cho em hỏi CPU vs Mainboard hỗ trợ DDR4 cắm Ram vs Card DDR3 có sao ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.955296,
+         "id": "1149963",
+         "field_search": "question",
+         "question": "mk mua zenfone 4max pro cũ và chọn chuyển về siêu thị, shop cho hỏi mk phải tự liên hệ vs cửa hàng để biết khi nào máy về hay làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.949598,
+         "id": "1000413",
+         "field_search": "question",
+         "question": "chào tgdd, mình hỏi giờ mình muốn đặt cọc máy này nhưng giờ không ra cửa hàng trực tiếp được. vậy có hỗ trợ chuyển khoản qua ngân hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.943795,
+         "id": "780914",
+         "field_search": "question",
+         "question": " Cho em hỏi đã jailbreak được bản 9.1.2 chưa ad ở đây có hỗ trợ luôn ko ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.932992,
+         "id": "1115310",
+         "field_search": "question",
+         "question": " Mình muốn up ram laptop mà máy mình còn 9 tháng bảo hành. Cho mình hỏi khui máy rồi có được hỗ trợ bảo hành nữa ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.897997,
+         "id": "1016644",
+         "field_search": "question",
+         "question": "Ad cho hỏi bên mình có hỗ trợ cài đặt các phần mềm văn phòng microsof office ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.856493,
+         "id": "1154627",
+         "field_search": "question",
+         "question": "hiện tại bên bạn có hỗ trợ úp room cho xiaomi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.795348,
+         "id": "1010782",
+         "field_search": "question",
+         "question": "Máy tính e đã hết hạn bảo hành, giờ bị liệt 1 số phím. Cho e hỏi là bên mình có hỗ trợ kiểm tra và chuyển lên hãng giúp k ạ. Lúc trc mua máy tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

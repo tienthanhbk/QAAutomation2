@@ -1,0 +1,801 @@
+{
+   "id_query": "1015147",
+   "total": 26479,
+   "total_current": 100,
+   "max_score": 62.606407,
+   "origin_question": "mua điện thoại samsung galaxy j7 6.990.000 vậy em mua trả góp phải trả trước bao nhiêu tiền",
+   "hits": [
+      {
+         "score": 34.16118,
+         "id": "991441",
+         "field_search": "question",
+         "question": "Mua điện thoại tầm 4 triệu trả góp ,phải trả trước bao nhiêu ,em là sinh viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.972115,
+         "id": "999590",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại galaxy a5 2017 trả góp, cho em hỏi là phải trả trước bao nhiêu tiền ạ, em là sinh viên thì thủ tục gồm những gì ạ? và có áp dụng trả trước 0 đồng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.651012,
+         "id": "1141078",
+         "field_search": "question",
+         "question": "Tui muốn mua điên thoại Huawei Y 7 trả góp có trả trước bao nhiêu tiền không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.854706,
+         "id": "1154172",
+         "field_search": "question",
+         "question": "Mua điện thoại samsung A50 trả góp mình cần đưa trước bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.65697,
+         "id": "820840",
+         "field_search": "question",
+         "question": " mình muốn mua trả góp điện thoại iphone6 16gb thì trả trước là bao nhiêu và góp bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.447525,
+         "id": "1166912",
+         "field_search": "question",
+         "question": "mua trả góp điện thoại xiaomi redmi note 7 trả góp 6 tháng thì phải đóng trước bao nhiêu ạ!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.112404,
+         "id": "777897",
+         "field_search": "question",
+         "question": " Mình muốn mua iPhone 6 trả góp vậy cần bao nhiêu tiền trước khi mua? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.625135,
+         "id": "1022224",
+         "field_search": "question",
+         "question": "E muốn mua Oppo f3 trả góp Thì phải trả trước bao nhiêu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.29696,
+         "id": "1020132",
+         "field_search": "question",
+         "question": "ad cho em hỏi là nếu giờ em muốn mua j7 pro theo phương thức trả góp thì phải trả trước bao nhiêu và mỗi tháng trả bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.866833,
+         "id": "760240",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 6s Plus 64GB (vàng, vàng hồng) trả góp bao gồm các thủ tục như thế nào. Trả trước bao nhiêu tiền, hàng tháng trả bao nhiêu tiền, bao giờ thì kết thúc quá trình trả góp. Lãi suất bao nhiêu %",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.783981,
+         "id": "768780",
+         "field_search": "question",
+         "question": " iPhone 6 thường bao nhiêu vậy ah. Mua trả góp phai trả trước bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.783884,
+         "id": "988675",
+         "field_search": "question",
+         "question": "Em muốn mua ĐT Sony Xpria XA1 trả góp thì cần trả trước bao nhiêu tiền ạ ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.64672,
+         "id": "1018130",
+         "field_search": "question",
+         "question": "Cho em hỏi.. E muốn mua mobistar trả góp  thì phải trả trước bao nhiêu  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.979322,
+         "id": "1008512",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.909266,
+         "id": "1008514",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.909266,
+         "id": "1008513",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.709652,
+         "id": "1166926",
+         "field_search": "question",
+         "question": "Báo giá giúp mình nếu mình mua Samsung Galaxy S10 trả góp 0% 12 tháng bằng thẻ tín dụng Citibank/HSBC thì mỗi tháng phải trả bao nhiêu và tổng tiền là bao nhiêu nha. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.59283,
+         "id": "1167306",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là mua trả góp iphone x 64GB trả bằng thẻ VCB thì có trả trước tiền điện thoại góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.589256,
+         "id": "991070",
+         "field_search": "question",
+         "question": "mua trả góp trả trước 70 giá trị ... samsung j5 giá 4490000 VND trả góp 4 tháng mỗi tháng bao nhiêu!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.454248,
+         "id": "997086",
+         "field_search": "question",
+         "question": "Xin chào các anh chị ! Tôi tên Tùng. là giáo viên. Nhà ở huyện Châu Thành, tỉnh Sóc Trăng. Tôi muốn mua trả góp smart phone Galaxy C9 pro. Nếu có đủ CMND, hộ khẩu, hóa đơn tiền điện hàng tháng thì phải trả trước bao nhiêu tiền và trả thêm bao nhiêu tháng nữa, mỗi tháng sau đó gởi bao nhiêu?Cám ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.329845,
+         "id": "1160875",
+         "field_search": "question",
+         "question": "Giúp e kiểm tra tk đặng anh hào sdt 0968634840 mua trả góp máy galaxy note 9 trả trước bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.25576,
+         "id": "1137706",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn mua điện thoại Huawei Y9 trả góp, trả trước 3tr, trả trong 4 tháng thì mỗi tháng trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.189959,
+         "id": "1002136",
+         "field_search": "question",
+         "question": "ad cho em hỏi. em mới mua j7 prime trả góp bây giờ em muốn chuyển sang note5 thi phải phụ thêm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.17406,
+         "id": "784887",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp iPhone 6s 64g pink,trả góp 12th,hộ khẩu tphcm,mình phải trả trước bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.17246,
+         "id": "1136930",
+         "field_search": "question",
+         "question": "Tôi có 1,5tr muốn mua máy samsung j4+ tôi muốn mua trả góp 0% trả trong vòng 4 tháng hỏi mỗi tháng tôi phải trả bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14848,
+         "id": "1020169",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn mua điện thoại vivo v5 trả góp thì trả trước bao nhiêu và góp mấy tháng ah  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.147352,
+         "id": "1167881",
+         "field_search": "question",
+         "question": "Điện thoai xiaomi mi 8 lite nếu trả trước 0 thì phải trả trước bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.141888,
+         "id": "1004039",
+         "field_search": "question",
+         "question": "điện thoại oppo f3 em muốn trả góp lãi suất 0%, số tiền em có thể trả trước là 800.000 và muốn góp trong 9 tháng thì mỗi tháng góp bao nhiêu tiền hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.025768,
+         "id": "1153744",
+         "field_search": "question",
+         "question": "sản phẩm iphone Xsmax phiên bản 64GB em muốn mua trả góp thì phải trả trước bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.95341,
+         "id": "789842",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua cái điện thoại góp bên HomeCredit được 4 tháng rồi bây giờ em muốn mua trả góp thêm cái iphone 6 Plus nữa được không ad, em phải trả trước tối thiểu là bao nhiêu %?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.884197,
+         "id": "1003389",
+         "field_search": "question",
+         "question": "Tôi định mua trả góp samsung j7 pro nhưng mẹ tôi cho tiền tôi trả góp ... vậy tôi có đủ điều kiện để mua k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.873398,
+         "id": "786889",
+         "field_search": "question",
+         "question": " Muốn mua iphone 5 trả góp đóng  tiền là bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.866367,
+         "id": "772481",
+         "field_search": "question",
+         "question": " Cho em hỏi là nếu mua trả góp iphone 5s thì sẽ phải trả trước bao nhiêu phần trăm ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.822914,
+         "id": "1138482",
+         "field_search": "question",
+         "question": " Bao nhiêu tuổi mới được mua điện thoại trả tiền mặt và mua điện thoại trả tiền mặt cần những thông tin gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.81105,
+         "id": "773918",
+         "field_search": "question",
+         "question": " Anh ơi iPhone 5s trả góp phải trả trước bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.7166,
+         "id": "989419",
+         "field_search": "question",
+         "question": "e muốn mua Trả góp Oppo F3  theo Acs thì phải đóng trước bao nhiêu ạ? mỗi tháng trả góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.691969,
+         "id": "1150138",
+         "field_search": "question",
+         "question": "Hello... cho em hỏi là em muốn mua trả góp iphone 7 blus thì em phải trả trước bao nhiêu ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.640434,
+         "id": "1159147",
+         "field_search": "question",
+         "question": "mình muons mua trả góp 0 thì phải đưa trước bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.5164,
+         "id": "1160462",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mà mua iphone trả góp , trả trước bao nhiêu ạ , và trả góp bao nhiêu tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.436176,
+         "id": "777939",
+         "field_search": "question",
+         "question": " Ad cho em ?....mua trả góp IPhone 5s mình cần đưa trước bao nhieu tiền vậy AD ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.43534,
+         "id": "758941",
+         "field_search": "question",
+         "question": "Em hỏi em là sinh viên năm nhất em muốn mua iphone 6 plus 16gb. trả góp trong vòng 12 tháng. vậy em phải đóng trước bao nhiêu vậy ạ. 1 tháng em phải trả bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.243425,
+         "id": "1162662",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện relmi c1 máy cũ đổi trả . Mua theo cách trả góp . Hông biết một tháng phải đóng bao nhiêu tiền . Trả góp trọng vòng mấy tháng . Lãi suất sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.224184,
+         "id": "770752",
+         "field_search": "question",
+         "question": "E muốn mua iPhone 5S 16GB thì số tiền trả trước là bao nhiêu và được trả góp trong bao nhiêu tháng, mỗi tháng là bao nhiêu ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.114653,
+         "id": "1006559",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp sn xperia XZ  thấy giá 10.990 vậy mua trả gop thì phải trả bao nhiu trước và hàng tháng phải trả bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.073214,
+         "id": "1022495",
+         "field_search": "question",
+         "question": "dạ.cho e hỏi h e mún mua samsung galaxy a5 2016 trả góp thì e phải trả trước bn ạ.và trả góp hàng thang bao nhiu ạ.e có thẻ sinh viên z trả góp có lãi suất k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.038841,
+         "id": "1011260",
+         "field_search": "question",
+         "question": "Mua trả góp iphone 6s plus thì cần phải trả trước bao nhiêu và từng tháng bao nhiêu và trong bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.973198,
+         "id": "995371",
+         "field_search": "question",
+         "question": "Ad cho e hỏi mua trả góp không trả trước lãi xuất bao nhiêu  vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.943014,
+         "id": "1012663",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Samsung s7 có cần trả tiền trước k ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.862804,
+         "id": "1135517",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 5 giá bao nhiêu ạ Trả góp trong 6 tháng thì phải trả trước bao nhiêu?  Mỗi tháng phai đóng bao nhiêu Tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.785032,
+         "id": "794911",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad khoảng 4tr rưỡi. Mình trả trước 1 tr thì hàng tháng mình phải trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.780748,
+         "id": "1146895",
+         "field_search": "question",
+         "question": "cho em hỏi mua đt trả góp qua thẻ cần trả trước bao nhiêu  v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.698242,
+         "id": "994444",
+         "field_search": "question",
+         "question": "samsung j7 mua trả góp ko trả trước chỉ cần CMND và BLX dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.42926,
+         "id": "789040",
+         "field_search": "question",
+         "question": " iphone 5 trả góp thì sẽ phải trả trước bao nhiêu ............................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.393356,
+         "id": "766565",
+         "field_search": "question",
+         "question": " iPhone 6s 16GB góp như thế nào ? Trả trước bao nhiêu tiền ? Góp bao nhiêu 1 tháng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.312119,
+         "id": "770711",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mua Iphone 5S 16GB trả góp có lãi suất thì phải trả trước bao nhiêu và hàng tháng tổng chi phí hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.191662,
+         "id": "792122",
+         "field_search": "question",
+         "question": "Cho em hỏi ip 5s 16GB là 8tr460 vậy nếu trả góp theo ACS thì góp từ mấy tháng và em phải đưa trước bao nhiêu và mỗi tháng em phải trả bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.115717,
+         "id": "760074",
+         "field_search": "question",
+         "question": " Em muốn mua iPad mini trả góp thì thủ tục thế nào và trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.071352,
+         "id": "1020012",
+         "field_search": "question",
+         "question": "e muốn mua đt oppo trả góp thì thủ tục  như thế nào ạ, trả trước bao nhiêu tiền, và lãi xuất như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.027231,
+         "id": "831836",
+         "field_search": "question",
+         "question": " chi ơi e muốn mua dt iphone5s trả góp thì em đưa trước bao nhiêu rồi 1 tháng em đóng bao nhiêu vậy chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.91304,
+         "id": "774401",
+         "field_search": "question",
+         "question": " Em đang đi làm muốn mua trả góp iPhone 5 thì cần những gì và trả góp trước bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.849087,
+         "id": "992648",
+         "field_search": "question",
+         "question": "Sau khi xem qua các chiếc điện thoại được giới thiệu trên trang thegioididong thì em chọn chiếc điện thoại Samsung Galaxy J5 Prime. Nhưng em chọn là mua góp vậy cho em hỏi là em sẽ đưa trước bao nhiêu và góp hàng tháng là bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.657257,
+         "id": "993706",
+         "field_search": "question",
+         "question": "Xin hỏi, mình muốn mua trả góp 1 điện thoại tầm 7 triệu, góp trong vòng 1 năm. Vậy thì mỗi tháng mình phải góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.654785,
+         "id": "766447",
+         "field_search": "question",
+         "question": " Cho em hỏi là mình muốn mua trả góp iPhone 6S máy đổi trả thì mình trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.606707,
+         "id": "778362",
+         "field_search": "question",
+         "question": " Cho em hỏi qua tết em muốn mua điện thoại iPhone 5s trả góp được không ak trả bao nhiêu tháng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.592808,
+         "id": "1021183",
+         "field_search": "question",
+         "question": "trả góp đt oppo A37 ! trả trước 0đ . thì hàng tháng phải trả bao nhiêu ạ _ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.58902,
+         "id": "1012456",
+         "field_search": "question",
+         "question": "Chào shop, mình muốn mua máy cũ iPhone 6S 32GB Rose Gold (mã sp: #7456752) = 9.610.000₫thì có trả góp được không?- Nếu trả góp thì thấp nhất mấy tháng. mình muốn trả số tháng thấp nhất- Trả góp trước bao nhiêu tiền, và mỗi tháng trả bao nhiêu tiền ạ.Shop tính giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.37653,
+         "id": "1003067",
+         "field_search": "question",
+         "question": "giờ em có 5 triệu muốn mua 7plus trả góp có dc không ạ, mỗi tháng e phải trả bao nhiêu tiền lãi suất ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.373318,
+         "id": "991112",
+         "field_search": "question",
+         "question": " Tôi muốn mua điện thoại trả góp phải làm sao ? Mà lúc mua có cần tiền mặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3489,
+         "id": "757523",
+         "field_search": "question",
+         "question": "  Cho em hỏi muốn mua trả góp iPhone 6S 16gb có đầy đủ giấy tờ thì trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.340096,
+         "id": "996850",
+         "field_search": "question",
+         "question": "Dạ TTDD cho em hỏi giờ muốn thu lại đt samsung galaxy j7 prime được bao nhiêu tiền ạ, không thì nêu em đổi qua samsung galaxy j7 pro thì phải bù bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.335167,
+         "id": "1134734",
+         "field_search": "question",
+         "question": "Thay màng hình điện thoại samsung j7 pro bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.263426,
+         "id": "748858",
+         "field_search": "question",
+         "question": "anh cho em hỏi mua điện thoại trả góp iPhone 4s trả trước 2 triệu còn lại em trả góp 2 tháng thế lãi mỗi tháng của em là bao nhiêu anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.237524,
+         "id": "1139434",
+         "field_search": "question",
+         "question": " Cho em hõi.. mua dt thoại trã góp cần bao nhiêu phiếu thu tiền điện vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.161564,
+         "id": "756739",
+         "field_search": "question",
+         "question": " Tôi muốn mua iphone 5s trả góp thì làm thế nào và trả trước bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.153261,
+         "id": "1154123",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi xiu...e muốn trả góp dt galaxy A50 mới ra thì e phải trả trc bao nhiêu? Và nếu như e k có tiền thì có đc hỗ trợ mua trả góp 0% không?và nếu đc thì sau tính lãi suất là bao nhiêu %ak?thaks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.099072,
+         "id": "1136608",
+         "field_search": "question",
+         "question": "Thay màn hình samsung galaxy j7 prime bao nhiêu tiền vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.09684,
+         "id": "1135192",
+         "field_search": "question",
+         "question": "Mình muốn mua máy xiaomi redmi not 5 trả góp kh biết có cái cách trả góp nào. Ví dụ như trả 4 tháng thì đóng trước bao nhiêu mỗi tháng trả bao nhiêu lãi bao nhiêu. Rồi cái gói trả khác thì sao. Mua máy mà không cần trả trước thì sao. Mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.090717,
+         "id": "1156595",
+         "field_search": "question",
+         "question": "điện thoại em samsung galaxy j7 cập nhật phần mềm xong mở không lên , như vậy là bị gì ạ , sửa bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.054308,
+         "id": "1164437",
+         "field_search": "question",
+         "question": "cho e hỏi đt iphone 8plus giá bao nhiêu,mua trả góp thì trả trước bao nhiêu ạ và có mấy màu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.997087,
+         "id": "1151228",
+         "field_search": "question",
+         "question": "Dạ thế giới đi động cho em hỏi, em muốn mua điện thoại asus zenfone max pro m1 trả góp vậy 1 tháng trả bao nhiêu lận ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.984415,
+         "id": "1023753",
+         "field_search": "question",
+         "question": "minh muốn mua a7 2017trả góp 0%vậy goiaf so tiền la 9990000 thì mjnh có phải trả thêm số tiền nào ko?cụ thể là bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.870148,
+         "id": "997934",
+         "field_search": "question",
+         "question": "bao nhiêu tuổi thì được mua trả gop vậy shop? em muốn mua trả góp mà em chỉ mới 18t",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.84942,
+         "id": "1023945",
+         "field_search": "question",
+         "question": "mua trả góp ip7 32g thì phải trả trc tối thiểu bao nhiêu  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.795326,
+         "id": "1007319",
+         "field_search": "question",
+         "question": "Nều mua trả góp có thể trả trước 50 ,còn số tiền góp trong vòng 3 tháng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.7817,
+         "id": "1158455",
+         "field_search": "question",
+         "question": "em ơi cho anh hỏi nến như đặt trả góp máy điện thoại oppo F 11 pro thì trả trước bao nhiêu trả trong vòng mấy tháng hả em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.730402,
+         "id": "1000409",
+         "field_search": "question",
+         "question": "cho em hõi nếu mua iphone5s trả góp 2 tháng thì tiền sẽ ra bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.715366,
+         "id": "1157376",
+         "field_search": "question",
+         "question": "Mình muốn trả góp iphone xs 64gb thì trả trước bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.708742,
+         "id": "999805",
+         "field_search": "question",
+         "question": "Cho em hỏi. Đợt trước em có mua trả góp 1 cái điện thoại mà em chưa trả tiền hết 4 đợt. Giờ em có thể lấy hộ khẩu cmnd đó trả góp thêm 1 máy lạnh được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.666183,
+         "id": "1161148",
+         "field_search": "question",
+         "question": "e muốn mua trả góp samsung A50 thì phải trả trc tối thiểu bao nhiêu và lãi suất như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.6054,
+         "id": "1023017",
+         "field_search": "question",
+         "question": "Em mới mua samsung j7 pro 6.690.000Đ được 1 tuầnGiờ em muốn đỗi trả thì mất bao nhiêu phí vậy QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.578178,
+         "id": "1159486",
+         "field_search": "question",
+         "question": "Xin chào Shop. Hiện mình muốn mua samsung note 8 mới. Mình thấy có chương trình trả góp 0% qua thẻ ngân hàng, thời hạn trong 12 tháng. Mình muốn biết số tiền cần trả trước là bao nhiêu, hàng tháng góp bao nhiêu và số tiền góp hàng tháng thông qua thẻ hay tiền mặt. Mong được phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.55118,
+         "id": "749305",
+         "field_search": "question",
+         "question": " Em muốn mua máy iPad Mini 16G thì em phải trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.540928,
+         "id": "1003004",
+         "field_search": "question",
+         "question": "Thay màn hình điện thoại samsung galaxy j7 prime là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.491644,
+         "id": "999178",
+         "field_search": "question",
+         "question": "tôi muốn mua samsung galaxy s8 plus , trả góp và trả trước 30% , ngoài cmnd và sổ hộ khẩu ra thì tôi còn phải chuẩn bị giấy tờ gì nữa vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.48076,
+         "id": "1155011",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mua laptop trả góp thì có phải trả trước bao nhiêu phần trăm không hay là trả ngóp ngay từ đầu cũng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.474504,
+         "id": "1159227",
+         "field_search": "question",
+         "question": "Dạ chào shop! Mình muốn đổi samsung a7  2018 lấy samsung a50 sao ạ? Điện mình mua trả góp 0%, giá 6.990.000 góp trong 4 tháng, mình góp được 1 tháng. Sdt: ××××087538.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.40193,
+         "id": "992647",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi, chị em đang mua điện thoại trả góp, vậy có đứng tên mua được điện thoại trả góp nửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.34596,
+         "id": "1169261",
+         "field_search": "question",
+         "question": "Chào các cô,chú nhé Cho mình hỏi nhờ với bên các bạn có máy điện thoại xiaomi rem not 7 bản 32g giá bao nhiêu mình muốn mua trả góp trước mình cũng mua trả góp 1 máy nhưng trả song lâu rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.334333,
+         "id": "1005940",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại em mua được 2 tháng trả góp 4 tháng Bây giờ em muốn bán lại dt cho tgdd thì ra làm sao và giá còn được bao nhiêuĐt em là Samsung galaxy j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

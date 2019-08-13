@@ -1,0 +1,801 @@
+{
+   "id_query": "875407",
+   "total": 24321,
+   "total_current": 100,
+   "max_score": 77.05307,
+   "origin_question": " Messenger hay bị đang đợi mạng mà wifi đầy vạch sóng là sao ? Nhờ ad chỉ giúp chi tiết ",
+   "hits": [
+      {
+         "score": 28.896168,
+         "id": "828490",
+         "field_search": "question",
+         "question": " cho mình hỏi messenger để là đang đợi mạng...mình xài wifi nhà...vậy là do messenger có vấn đề hay wifi có vấn đề ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.025585,
+         "id": "861195",
+         "field_search": "question",
+         "question": "Mình dùng iphone5, wifi nhà mình mạnh. Máy nào cũng đầy vạch trừ cái ip5 của mình. Bắt được wifi nhưng xuống 1 vạch là tự ngắt kết nối. Ngồi kế cục wifi thì đầy vạch lướt web nhanh. Nói chung chỉ dùng được khi đầy sóng wifi. Giúp mình cách khắc phục. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.306349,
+         "id": "943999",
+         "field_search": "question",
+         "question": "tại sao vào từ face sang messenger nó cứ ghi là đang đợi mạng đợi cả ngày ko đc mà mạng thì có ko hề mất ai biết giúp với tks nhìu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.413485,
+         "id": "943823",
+         "field_search": "question",
+         "question": "Tôi dùng windown phone mà sao vào messger nó cứ để đang đợi mạng mà mạng wifi vẫn bình thường chỉ có messger là không thể kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.942875,
+         "id": "763678",
+         "field_search": "question",
+         "question": "Máy mình là mobell Nova mình bắt được wifi (có sóng wifi ở nhà) nhưng không vào mạng được hay zalo với facebook mình nhờ admin giúp đỡ với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.849741,
+         "id": "1162401",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy j6 của e đang dùng mới lên UI được hơn 1 tuần.dến nay e thấy cảm biến vân tay chậm và giật .xong vạch pin không hiển thị với cả vạch sóng vạch wifi rồi tên nhà mạng cũng không hiển thị nữa..như thế là bị lsao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.619106,
+         "id": "1141451",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao j2 pro mình xài  wifi mà wifi chỉ cách 7 bước chân thì nó mất lun cây sóng . Lại gần thì nó có sóng nhiều khi nó còn ở mức thấp nhất của wifi . Đt khác kết nối tầm xa thì vẫn full sóng wifi . Cho hỏi đt j2 pro 2018 mình bị sao ạ ad trl giúp . Mạng wifi trog nhà nha ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.729992,
+         "id": "1010804",
+         "field_search": "question",
+         "question": "Em dùng htc desire 630, gần đây khi nhắn tin trên messenger thường xuyên bị rớt mạng, gửi rất chậm tin nhắn. Dù thanh wifi nhà em vẫn đầy vạch. Cho em xin cách khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.657711,
+         "id": "1134370",
+         "field_search": "question",
+         "question": "cho mình hỏi với, mình đang dùng ip6 bản mỹ ios 11.1.1, hiện tại máy mình không bắt được wifi mặc dù đang ở trong phòng có wifi, thỉnh thoảng thì bắt được thì được 1 vạch sóng mà yếu không thể lướt fb hay lên mạng được, cho mình biết máy mình đang bị lỗi j và cách khắc phục với ạ, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.562525,
+         "id": "780164",
+         "field_search": "question",
+         "question": "AD cho em hỏi..tại sao máy tính e hay bị mất wifi không như hình không kết nối wifi được..có phải bị lỗi gì hay là hư card mạng wifi không..đôi lúc máy hiện lên thanh wifi.đôi lúc lại mất thanh wifi như hình..nên em toàn dùng cáp chứ ko bắt wifi được..nhờ AD giúp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.754778,
+         "id": "1013436",
+         "field_search": "question",
+         "question": "Em có cái lg g4 đang chuyển qua chế đọ sóng mạng 4g thì bị mất sóng ko nhận sim là sao anh mong mấy anh giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.070059,
+         "id": "1165205",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 7 32gb đôi lúc sóng yếu mạng hay chập chờn wifi cũng chậm lý do tại sao bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.870026,
+         "id": "1143908",
+         "field_search": "question",
+         "question": "Ad giúp mình là mình có 1 con itel s11 plus vấn đề wifi khi nhập mã vào báo đã kết nối không có internet là sao ạ đầy sóng nhưng ko mạng thử máy khác thì ok còn máy itel thì không dc mạng lúc có lúc không thử các bước điều vô vụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.805143,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.772627,
+         "id": "1162023",
+         "field_search": "question",
+         "question": "Dt samsung a50 bị thu sóng yếu. Trong khi các dt khác vẫn hđ bt thì đt của mình lại chỉ cis 2 vạch sóng. Sử dụng mạng cũng quá chậm. Cho mình hỏi xách xywr lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.75453,
+         "id": "828356",
+         "field_search": "question",
+         "question": " Cho em hỏi em đang sử dụng là iPhone 6 em không truy cập vào Facebook Messenger Youtube được dù Wifi 5 vạch v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.632566,
+         "id": "859307",
+         "field_search": "question",
+         "question": " Ad xem dùm mính máy này là phiên bản quốc tế hay sao add? Chi tiết ad trả lời dùm mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.28812,
+         "id": "1004207",
+         "field_search": "question",
+         "question": " Sao mấy ngày nay em tải game vào thẻ SD ko đc vậy ad, nó cứ kêu là lỗi xem chi tiết, mong ad chỉ em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.283298,
+         "id": "1158470",
+         "field_search": "question",
+         "question": "Điện thoại Oppo F9 mới mua mà sao em bị gặp trường hợp sóng điện thoại ổn định, mạng tốt nhưng khi gọi điện, bất kể là gọi thường, gọi messenger hay Zalo đều bị đầu dây bên kia phản ánh là nghe rất ồn, tạp âm trong khi đầu đấy bên em đang yên tĩnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.146358,
+         "id": "763969",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em mới mua iPhone 5s bản 16GB gold máy quốc tế bản Mỹ mà sao em lắp sim gì cũng toàn 3 4 vạch rất ít khi đầy sóng là do sao vậy ạ, nó có ảnh hưởng gì đến sóng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.137075,
+         "id": "1161342",
+         "field_search": "question",
+         "question": "Tôi mua đt oppo f7 cũng được vài tháng. Nay máy có hiện tương là: khi tôi sử dụng galaxy tap A6 để phát wifi cho f7 sử dụng thì máy f7 thường xuyên k có mạng (máy f7 còn biểu tượng wifi, máy tap A6 vẫn còn kết nối thiết bị; máy f7 tự out mạng wifi). Nhờ ad chỉ giúp. Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.905542,
+         "id": "999928",
+         "field_search": "question",
+         "question": "Mình muốn hiện or kiểm tra tất cả các kết nối wifi của máy Samsung A9pro, trong phần wifi chỉ thấy hiện các mạng mà máy đang nhận đc sóng wifi. Mong sớm nhận đc thông tin phản hồi của TGDD. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.586323,
+         "id": "893700",
+         "field_search": "question",
+         "question": "Mình dùng ip6 và ios 9.2.1. Bình thường mình bật 3g lên dùng vô tư nhưng hôm nay chỉ bật đc 2g chứ bật 3g nhưng ko lên là bị sao ạ? Trong khi đó mạng vettel đủ 4-5 vạch k mất sóng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.464865,
+         "id": "839737",
+         "field_search": "question",
+         "question": " E xài laptop Sony E ser 14 nhưng mấy bữa nay kết nối wf thì đầy vạch mà k vào mạng đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.40822,
+         "id": "791494",
+         "field_search": "question",
+         "question": "Chào admin thegioididong; Mình xài laptop dell vostrol 5470, vừa cái lại win7 64 bit. Minh đã cài driver wifi (cài nhiều lần từ các nguồn khác nhau), laptop đã bắt sóng wifi và sử dụng bình thường. Tuy nhiên biểu tượng cột sóng wifi trên thanh taskbar lại có dấu sao màu vàng (như là chưa kết nối wifi), phải ấn vào nó mới thấy kết nối wifi (connected và hiện thị số vạch sáng)Mình thử nhiều cách nhưng vẫn không sử được, nhờ admin giúp mình nhé. Cám ơn rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.942717,
+         "id": "808765",
+         "field_search": "question",
+         "question": "​Máy tính em sài vẫn bình thường mà hôm nay mở thì có lỗi vẫn có wifi bình thường nhưng lại không có thông báo cột sóng (chi tiết xem hình) sau đó em vào mục :\" Device Manager \" sau đó vào : \" Network Adapters \" thì vẫn k có lỗi j xảy ra như vậy là máy bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895937,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.8268,
+         "id": "1013344",
+         "field_search": "question",
+         "question": "máy nokia 216 của em không vào mạng được, mong ad hướng dẫn chi tiết để có thể kết nối được với mạng, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.780119,
+         "id": "839300",
+         "field_search": "question",
+         "question": "Tại sao điện thoại iPhone 5 chỉ có mỗi fb là có mạng trong khi đó wifi vẫn bình thường mà khi vào youtube hay mp3 , app store .. đều không kết nối đc mạng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.705355,
+         "id": "921188",
+         "field_search": "question",
+         "question": " iPhone 4s của em vẫn hiện wifi 4 vạch mà không vào intermet duoc . làm cách nào để vô mạng đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.682535,
+         "id": "999725",
+         "field_search": "question",
+         "question": "Mình sài j7 prime mà mess cứ bị vậy trong khi mạng full vạch  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.65961,
+         "id": "803017",
+         "field_search": "question",
+         "question": "Máy tính mình bắt được sóng wifi nhưng không vào mạng được. Khi mình đem máy tính đến nơi khác bắt wifi thì lại kết nối được. Điện thoại mình phát wifi cũng kết nối được. Máy tính cứ hiện No internet access. Giúp mình với!! Mình đang làm việc gấp lắm mà máy tính cứ bị vậy.Rất mong được sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.453611,
+         "id": "758134",
+         "field_search": "question",
+         "question": "Chào ad . Em đang dùng ứng dụng line . Đang nhắn tin bình thường thì tự dưng không gửi được tin nhắn mặc dù wifi và 3g nét căng . Mình thoát ra vào lại thì ứng dụng thông báo không đăng nhập được và yêu cầu kiểm tra kết nối mạng . Nhờ ad chỉ giúp cho ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.240719,
+         "id": "1004264",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng con OPPO A39 mấy tháng trước dùng 3g rất bình thường mạng ổn định cho đến tháng này tự dưng vào một ứng dụng bất kỳ thì 3g hay bị mất kết nối dù k tắt và cột sóng chỉ còn 3/4 hoặc 2/4 thôi.Mong ad giúp em ạ 😓",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.969015,
+         "id": "1023449",
+         "field_search": "question",
+         "question": "Cho e hỏi A5 2017 của e máy vẫn có 2 vạch sóng mà người khác gọi đến vẫn bị thuê bao. Thường xuyên bị như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.955875,
+         "id": "828699",
+         "field_search": "question",
+         "question": "Facebook bị sạo vậy add cả instagram nữaFacebook - lỗi nết nối Messenger - không thể kết nối với facebookInstagram - không thể làm mới nguồn cấp Mà wifi 3 vạch 3g ổn vẫn không thể nào vào đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.786041,
+         "id": "1004265",
+         "field_search": "question",
+         "question": "Dạ em đang dùng con OPPO A39 có vấn đề là mấy tháng trước em đăng ký 3g dùng mạng rất ổn định cho đến tháng này 3g của em bị chập chờn vào các ứng dụng chỉ được vài ba phút là mất kết nối và cột sóng chỉ còn 3/4 hoặc 2/2 vạnh thôi.Mong Ad giúp em với ạ 😓",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.712109,
+         "id": "956947",
+         "field_search": "question",
+         "question": "Sao e xoá đa nhiệ liê tục mà sao khi vào fb hay mess là nó lag kinh khủng vậy , wifi nhà e 3 vạch nhé . Nó còn báo lỗi ứng dụng ko phản hồi liên tục nưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.503035,
+         "id": "833973",
+         "field_search": "question",
+         "question": " ad có thể chỉ cho em chi tiết cách copy phim vào iphone bằng itunes 12.4 không ạ ? e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.435236,
+         "id": "949091",
+         "field_search": "question",
+         "question": " e dùng iphone 5s pin sạc đầy 100 mà e tắt mạng hết rồi sáng dậy chỉ còn 4 mấy phần trăm là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30521,
+         "id": "768330",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5S đợt giáng sinh giá 8,5 triệu mấy hôm nay thấy kết nối wifi rất kém. Kết nối báo 2 vạch sóng mà không vào được mạng, trong khi máy bên cạnh vẫn vào bình thường. Mình tắt Wifi đi bật 3g vẫn dùng bình thường. Tình trạng này bị mấy ngày hôm nay rồi, lúc thì có mạng lúc thì không vào đc trong khi máy vẫn báo 2 vạch sóng wifi.Cho mình hỏi như thế có phải lỗi phần cứng không? Hay do lỗi gì? Ông anh cũng đang định mua 1 iPhone 5S như mình nhưng thấy máy mình lỗi như thế lại lo, tiền rẻ thật nhưng chất lượng kém, lại nghi ngờ các bạn bán hàng kém chất lượng nên giá thấp. Mong sớm được giải đáp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.232212,
+         "id": "1007987",
+         "field_search": "question",
+         "question": "Chào Thế giới di động.Mình tên là: Nguyễn Văn ToànDTDĐ: 093895xxxxMình có mua 01 điện thoại Sony Z5 tại Thế giới di động cách đây hơn 1 năm rồi.Điện vẫn sử dụng bình thường, nhưng hay bị lỗi mạng Wifi (bị mất kết nối, hay bị lag và hay bị gián đoạn Wifi).Mình kính nhờ TGDĐ tư vấn giúp mình tìm nguyên nhân và cách khác phục lỗi nêu trên.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.208134,
+         "id": "1150545",
+         "field_search": "question",
+         "question": "Anh ơi em Hỏi  IOS bắt sóng mạng di động tốt hơn hay ANDROID bắt sóng mạng di động tốt hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.171381,
+         "id": "1168141",
+         "field_search": "question",
+         "question": "Ad ơi chiếc vsmart active 1 của em xem youtube mở fullcreen sao kích thước không full được màn hình z ạ ,e phải kéo mới full nhưng nó mất các chi tiết, có cách nào chỉnh full mà không mất chi tiết không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.164495,
+         "id": "830326",
+         "field_search": "question",
+         "question": " tại sao em cài card wifi cho máy bàn rồi, thấy có dò tìm được nhiều sóng nhưng không vào được. mong các anh chỉ giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.145414,
+         "id": "1147515",
+         "field_search": "question",
+         "question": "xin hỏi? Trước đây không có, sao dạo này máy m bị xen quảng cáo quá nhiều, ngay khi mở khóa màn hình, đang dùng wifi hay 3g bị rớt hay chập chờn mạng?Máy m là ss gt7102?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.141024,
+         "id": "885047",
+         "field_search": "question",
+         "question": "Ad cho em hỏi DT em hiện tại là samsung J5, em sử dụng cũng được 1 năm rồi nhưng gần đây ĐT vô mạng thì bình thường nhưng riêng vào Mesenger lạị báo \" Đang đợi mạng\"... gửi tin nhắn hoặc nhận tin nhắn đều rất chậmTrường hợp này em phải làm sao ạ? Mong ad giúp đỡ. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.115635,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.086273,
+         "id": "919848",
+         "field_search": "question",
+         "question": " Lỗi này là sao vậy ad,fb với các ứng dụng khác vẫn chạy bt chỉ mỗi messenger là bị nv thôi.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.035395,
+         "id": "1014810",
+         "field_search": "question",
+         "question": "Tôi đang xài j7pro.lúc mới mua về thời lượng pin sử dụng ở chế độ khong tiết kiệm pin sạc đầy là 40 giờ sau khi xài được 1 tháng sạc đầy rồi mà chỉ được 30-31 giờ vậy?làm cách nào để được như ban đầu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.979347,
+         "id": "1161161",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua sạc xiaomi 10000mAh về đã sạc đầy pin nhưng khi sạc cho oppo f3 chỉ được 96% là đã ngắt không sạc nữa dù vẫn còn 3 vạch pin. Cho mình hỏi vậy là bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.966784,
+         "id": "1163058",
+         "field_search": "question",
+         "question": "Ss a7 2018 bị rơi xuống nước và không thể bật kết nối WiFi hay là Bluetooth ad giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.911161,
+         "id": "891420",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao cột sóng wifi mạnh thế mà sao khi gọi điện bằng messengr thì lại báo cần kết nối mạng, mà nhắn tin thì vẫn nhắn được ,người khác gọi tới thì nghe được mà gọi đi máy lại báo không có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.809061,
+         "id": "756790",
+         "field_search": "question",
+         "question": " Cho em hỏi pin iPhone 6 khi sạc đầy mà có bật wifi và khi không bật mạng thì sử dụng được bao lâu ạ, cám ơn ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.722729,
+         "id": "1010499",
+         "field_search": "question",
+         "question": "Xin chào adm. Hiện tại minh đang dùng con s7 edge bản quốc tế. Theo mình đc biết bản này có hỗ chợ 3g và lte nhung dt mình bắt sóng rất yêu ko bjo nên đc mang 3g chỉ dừng lại ở h+ và rất it khi bắt đc 5 vạch sóng. Xin hỏi ad là tại sao và có cách nào khắc phục ko ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.686485,
+         "id": "1167623",
+         "field_search": "question",
+         "question": "Xin cho hỏi khi sạc Samsung A7 2018 đã sạc 100% pin rồi mà nó không báo đầy chỉ thấy báo là đang sạc 100% mà thôi ,vậy  nó có bị lổi phần mềm hay không có cần  đem di bảo hành hay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.680266,
+         "id": "1005259",
+         "field_search": "question",
+         "question": "So sánh chi tiết giúp e về GPU adreno 430 và 510...................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.631636,
+         "id": "1136726",
+         "field_search": "question",
+         "question": " Tại sao tải cập nhật qua mạng dữ liệu mà sao máy bảo là cài bằng wifi    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.631069,
+         "id": "771226",
+         "field_search": "question",
+         "question": " E dùng DELL tại sao đang dùng mạng wifi nó cứ để NOT AVAILABLE là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.546522,
+         "id": "1009960",
+         "field_search": "question",
+         "question": "Mình dùng sony TX, khi chơi game liên quân cứ đến trận thứ 3 là bị out ra ko vô đc, với lại khi gọi và cả gọi video trên messenger thường hay bị tắt đột ngột,  ad chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.493668,
+         "id": "756241",
+         "field_search": "question",
+         "question": "aCho em hỏi em kích hoạt imessage sao nó bị trên hình,có mạng có cả wifi mà vẫn bị thế ai biết cách khắc phục giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.477949,
+         "id": "1002917",
+         "field_search": "question",
+         "question": "Anh ơi em đag phân vân nên mua samsung galaxy J7 pro hay samsung galaxy A5 2017 để chơi Liên Quân với luot facebook ko lag ad so sánh chi tiết giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.450363,
+         "id": "1133895",
+         "field_search": "question",
+         "question": "Em sài oppo f5 youth lắp sim Vẫn có sóng bình thường nhưng mà hay bị người khác điện thì thuê bao, đang mở 3g thì không có kết nối như vậy là sao?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.449383,
+         "id": "763855",
+         "field_search": "question",
+         "question": "Mình mới mua con Dell inspiron 3558 được 1 tháng , bắt wifi nhà vào mạng được nhưng ra ngoài bắt nó báo internet access nhưng không vào mạng được , nhờ hỗ trợ giúp!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.399324,
+         "id": "757899",
+         "field_search": "question",
+         "question": " Sao nâng cấp iOS 9.2 sao máy bị mất sóng liên tục...? Qtv nào biết cách khắc phục chỉ giúp...! Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.375973,
+         "id": "997308",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo neo7.. Cho hỏi tại sao chỉ mỗi điện thoại của tôi là không tìm thấy wifi đó. Hôm qua vẫn còn dò được và sử dụng wifi đó bình thường..nhưng hôm nay chẳng những không xài được mà còn không tìm thấy mạng wifi đó nữa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.308042,
+         "id": "1004880",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 của em sao đang sài mà bị  tắt nguồn rồi mở không lên dù pin điện thoại em đang đầy nó bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.304838,
+         "id": "1159341",
+         "field_search": "question",
+         "question": "tại sao e bật tất cả nút thông báo.. nhưng mỗi khi tin nhắn đến messenger hay zalo .. tại sao máy k hiển thị? e đang dùng xs max. ad giúp e!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.290937,
+         "id": "1153165",
+         "field_search": "question",
+         "question": "laptop của em bị vạch ngang như này trong messenger thì có phải do lỗi của máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.260083,
+         "id": "791400",
+         "field_search": "question",
+         "question": "adm cho m hỏi ip5s của m bắt wifi có sóng nhưng khi vào face messeger youtobe vs app store thì lại báo lỗi mạng là lam sao vaayj m vẫn chơi game ol qua wifi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.212226,
+         "id": "883720",
+         "field_search": "question",
+         "question": " Ad ơi! Mỗi lần mình vào Messenger là bị mất kết nối hoài ,dù wifi rất mạnh. Ad có cách nào ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.208059,
+         "id": "954016",
+         "field_search": "question",
+         "question": "xin chào em đang dùng laptop acer win 7 và em muốn hỏi là các anh chị có thể chỉ em cách lấy thông tin hay xâm nhập để điều khiển thiết bị kết nối với mạng wifi của mình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.179221,
+         "id": "750819",
+         "field_search": "question",
+         "question": " mạng vầy là mạnh hay yếu hay vừa v ad??,mạng nhà!!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.092335,
+         "id": "1147853",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang sài windown phone 10. E vô store thì không thể tải trang ạ. Chi tiết như hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.026136,
+         "id": "942687",
+         "field_search": "question",
+         "question": " Tại sao messenger của em bị mất hết tin nhắn ? Ad trả lời nhanh giúp em  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.015984,
+         "id": "998929",
+         "field_search": "question",
+         "question": " Ad cho em hỏi sao j7prime cua em dang co mạng 4g tốc độ cao ma cu hay bị mất mạng mất ket nối là sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.013777,
+         "id": "872906",
+         "field_search": "question",
+         "question": "Chào ad, e mua Wiko pulb fab khoảng 4 tháng. lúc mới mua thì người khác gửi ảnh qua messenger rất rõ, nhưng gần đây hình k còn rõ nữa. e không biết vì sao như thế, nhờ ad chỉ giúp e :( e chân thành cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.006839,
+         "id": "828849",
+         "field_search": "question",
+         "question": "em đang dùng máy lumia 820 , có đăng kí mimax hàng tháng . Bây giờ em lên facebook thì máy luôn báo đang gặp sự cố khi nhận dữ liệu . vào messenger thì phải đợi mạng rất lâu nhưng cũng ko được . Vậy em phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.990688,
+         "id": "1135931",
+         "field_search": "question",
+         "question": "Cho em hỏi em sử dụng đt mobiistar zumbo power ... Mà khi em call video messager và zalo nó cứ bị đứng hoặc là bị giật ạ.... Nhưng em xài wifi nhà luôn ... Sóng 5 cục mà vẫn bị vậy là do sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.981436,
+         "id": "790656",
+         "field_search": "question",
+         "question": "Máy của em là iphone 6, ad cho em hỏi sao lúc em đổi hình nền của máy thành màu trắng thì mấy cái như ngày giờ, sóng, wifi hay bị mất, ko hiển thị, giống như là nó cũng chuyển thành màu trắng luôn ấy, vậy máy em có bị sao ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.976215,
+         "id": "775134",
+         "field_search": "question",
+         "question": "Màn hình laptop bị rung và hình ảnh cứ giật giật như bị nhiễu sóng là bị làm sao vậy ad? máy mình chạy win 10 nhé hỗ trợ giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.960825,
+         "id": "928448",
+         "field_search": "question",
+         "question": "Admin . Cho mình hỏi xí . Mình đang dùng iphone 4. Máy mình đang bị lổi là .\" Tắt mạng 3g đi thì có cột sống ,nghe gọi bth. Còn bật mạng 3g lên thì mất cột sống luôn,ko nghe gọi đc , chỉ duy còn chử 3G , vô mạng bthuong\" . Mình ko bt lỗi sao luôn . Giờ 1 là dùng 3 g thì mất nghe gọi , mà nghe gọi thì ko dùng đc 3G . Mong Ad giúp mình với. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.914061,
+         "id": "766983",
+         "field_search": "question",
+         "question": "Mình có con iPhone 4s muốn kết nối với iPhone khác bằng FaceTime mà nó cứ báo \"đang kết nối\" mà đợi mãi không được... Đã nhập đầy đủ ID và máy gọi Line vẫn được... có pro nào giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.893286,
+         "id": "1016344",
+         "field_search": "question",
+         "question": "Làm sao để lấy lại sóng khi đt bị mất sóng vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.875987,
+         "id": "751942",
+         "field_search": "question",
+         "question": "Tình hình là tôi mới mua 1 chiếc Lenovo Vibe P1 hôm qua,khi về nhà mở Wifi 3G ban đầu bình thường xong lúc sau mở WIfi có 3 vạch nhưng mạng không vào...mở 3g cũng không vào được mạng.( sim 3g còn 2Gb dung lượng)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.864876,
+         "id": "828352",
+         "field_search": "question",
+         "question": "chào bạn.cho mình hỏi sao minh đăng nhập messenger cứ báo là k thể kết nối internet trong khi wifi đầy cột sóng.mình thử xóa và cài lạ vẫn như vậy. tắt nguồn máy đăng nhập lại vẫn bị như z. bạn có thể chỉ mình cách khắc phục không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.845335,
+         "id": "797658",
+         "field_search": "question",
+         "question": " Cho mình hỏi sao oppo f1 băt sóng wifi rất yếu,chỉ mình nguyên nhân và cách khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.829117,
+         "id": "1016482",
+         "field_search": "question",
+         "question": " Ad ơi. Fb của e nó bị như v là s vậy ad. Cứ đag tải mãi thôi,  e thử xóa đi tải lại mà vẫn k đc,  tắt nguồn tại lại mà vẫn như v. Wifi nhà thì vẫn ổn định.  Nó chỉ mới bị đây thôi.  Mong ad giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.825982,
+         "id": "1000098",
+         "field_search": "question",
+         "question": "hiện tại mình sài ip 6splus ios 8.1 facebook thì sai được còn vào messenger là bị out ra ! mở 3g thì sài bình thường - mình đã thử xóa cả face và messenger + kết nối wifi khác nhưng vẫn bị out !! chỉ có sài 3g là ko bị gì thôi mong dc sự giúp đở và khắc phục của mod ! !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8039465,
+         "id": "1138791",
+         "field_search": "question",
+         "question": " Iphone cũ 22 là như thế nào ?? Sản phẩm ra sao, chi tiết bảo hành, phụ kiênh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.77763,
+         "id": "1134569",
+         "field_search": "question",
+         "question": "ad cho mình hỏi là mình đang dùng thằng Zenfone max pro, điện thoại mình không bắt được wifi trong nhà nhưng vẫn nhận được các mạng wifi xung quanh. trong khi những người khác trong nhà thì vẫn bắt được wifi trong nhà. Trường hợp này là bị gì hả ad? Cám ơn ad trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.759138,
+         "id": "768751",
+         "field_search": "question",
+         "question": "Mình xài Asus x450c, win7, vẫn kết nối wifi vào mạng bình thường nhưng ở cột sóng wifi nó hiện dấu gạch chéo màu đỏ như này. Ai biết cách sửa chỉ mình với ạ. mình cám ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.75085,
+         "id": "932375",
+         "field_search": "question",
+         "question": "Mình bị lỗi wifi cua laptop hp botebook lam sao mà kết nối wifi rồi mà nò hiện k có mạng k thể truy cập vào internet dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.679951,
+         "id": "1003950",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sử dụng oppo neo9. Trong lúc sử dụng mạng wifi bình thường nhưng vào youtube thì bị lỗi là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.658655,
+         "id": "753581",
+         "field_search": "question",
+         "question": "Cho em hỏi là em làm rơi iPhone xuống đất nhặt lên khởi dộng lại nhưng máy chỉ hiện vạch màu trắng như kiểu bị nhiễu màn hình vậy ạ . Cho em hỏi là máy bị hỏng cáp màn hình hay sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.63588,
+         "id": "743754",
+         "field_search": "question",
+         "question": "e đang dùng iPhone5 iOS 7.1.1 E muốn lên iOS9.1 vậy e có phải Backup dữ liệu hay gì khác không.mong TGDĐ trả lời chi tiết dùm ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.629789,
+         "id": "1021351",
+         "field_search": "question",
+         "question": " Giúp với ad ơi.Máy tính đã nhập đúng mật khẩu nhưng ko vào đc wifi. Máy tính báo là mã bảo mật mạng không đúng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6197405,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.601521,
+         "id": "1018529",
+         "field_search": "question",
+         "question": "Trong mục tiết kiệm pin có phần chi tiết các ứng dụng để đặt tiết kiệm pin nhưng không hiểu sao máy e nó không hiện ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1008177",
+   "total": 11282,
+   "total_current": 100,
+   "max_score": 81.26208,
+   "origin_question": "Minh dat mua dt iiphone6 32 bay gio giao co duoc kg a",
+   "hits": [
+      {
+         "score": 31.86343,
+         "id": "1155218",
+         "field_search": "question",
+         "question": "Neu bay gio minh dat mua Samsung A50 128G thi khi nao co hang, minh o Da Nang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.99274,
+         "id": "1007478",
+         "field_search": "question",
+         "question": "Minh co mua tra gop dt o hdsaison da tra duoc bay thang vay minh muon mua them 1 san pham nua co duoc ko vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.394556,
+         "id": "1019287",
+         "field_search": "question",
+         "question": "Minh vua mua the gocoin 20000. Nhung lo tay xoa mat di bay gio minh co the lay lai duoc khong giup dum minh voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.969019,
+         "id": "903360",
+         "field_search": "question",
+         "question": " Cai dat facebook bi loi la sao giup e voi bay gio e phai lam sao moi cai dat duoc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02712,
+         "id": "1135960",
+         "field_search": "question",
+         "question": "Sdt 0907510431 toi co dat mua dt huawei nova3e da qua su dung.ko biet gio co hang chua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.245325,
+         "id": "998892",
+         "field_search": "question",
+         "question": "Cho e hoi e mua dt oppo f3 chua duoc 1thang zay bay gio e muon bán lại thi duoc bao nhieu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.145035,
+         "id": "1142825",
+         "field_search": "question",
+         "question": "A oi cho e hoi gio e mua dt duoc giam nhieu  o sdt 0962462207",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.364073,
+         "id": "1007958",
+         "field_search": "question",
+         "question": "Cho minh hoi minh co mua may tai tgdd bay gio minh ko muon sai nua muon ban de mua dien thoai khac vay ben tgdd co mua lai may ko vay...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.252022,
+         "id": "995728",
+         "field_search": "question",
+         "question": "Cho minh hoi hom qua minh mua nham o tgdd mot  The gate bay gio minh muon doi sang tjen mat duoc ko .minh chiu mat phi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.620203,
+         "id": "1143088",
+         "field_search": "question",
+         "question": "Cho minh hoi galaxy s8 bay gio la bao nhieu ? Va ben the gioi didong co thu mua lai khong ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.532593,
+         "id": "997788",
+         "field_search": "question",
+         "question": "Cho minh hoi,minh moi mua htc one me cu ma no hao pin qua vay minh xin doi dt khac duoc kg vay.minh bu tien",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.298092,
+         "id": "1140960",
+         "field_search": "question",
+         "question": "Minh moi mua ip XR tai TGDD. Trong luc cai dat thi go nham pass nen gio bi lock. Minh chua nhap icloud gi het. Chi moi phan dau tien la tao passcode thoi. Minh dem may den TGDD de ho tro duoc ko a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.290936,
+         "id": "1154931",
+         "field_search": "question",
+         "question": "Ddt samsung a50 dat coc truoc co duoc j k aHay doi den ngay n ra r mih mua co khac j k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.288208,
+         "id": "909979",
+         "field_search": "question",
+         "question": "tai sao facebook mesenger em vao kg dc ma man hinh lai ghi khong the dang nhap ngay bay gio du ca khi pin day ma em van thu cai dat lai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.284634,
+         "id": "1005538",
+         "field_search": "question",
+         "question": "Em mua nham vivo trung quoc gio e muon doi thanh vivo viet nam thi co duoc khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.255999,
+         "id": "1136743",
+         "field_search": "question",
+         "question": "chi em co dat coc ben minh mua dien thoai reami c1 ma em bi mat hoa don co bi sao ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130238,
+         "id": "1156193",
+         "field_search": "question",
+         "question": "Minh mua dt samsung m20 ben ban.may bua nay xuat hien msy trang quang cao tum lum.may rat mau het pin.cuc sac nhanh ma sac gan 5h moi day pin.minh kg co thoi gian ghe cac ban.cac ban huong dan minh caxh chan quang cao duoc kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.04666,
+         "id": "1021184",
+         "field_search": "question",
+         "question": "cach nay khoang vai ngay toi co mua 5 cai loa nho loai gia 400000 ngan tai tgdd bay gio toi muon mua them mot cai nua co duoc giam gia khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.600609,
+         "id": "995588",
+         "field_search": "question",
+         "question": "ad cho hoi minh co dt SS A8 mua o tgdd ma gio bi nut man hinh ben tgdd co thu hoi lai k ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.597918,
+         "id": "996507",
+         "field_search": "question",
+         "question": "Minh co vay ben vpbank bi no xau,nhung minh tra xong het roi,muon hoi xem co mua dt tra gop duoc hk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.434753,
+         "id": "1020006",
+         "field_search": "question",
+         "question": "Cho minh ho. Minh moi mua Dien thoai sony xa1 untral tai the gioi di dong .bay gio minh muon doi cai khac .thi ben the gioi di dong cho doi cai samsung j7 pro  thi la bao nhieu .may mua duoc co 4ngay roi .xin cho minh thong tin .cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.240921,
+         "id": "1144714",
+         "field_search": "question",
+         "question": "Cho a hỏi a co dat cái nokia 8.1 chuyển hàng từ tỉnh khác về, a dat từ ngày 10/1/2019 nhưng đến nay hàng về chưa kg thấy nhân viên goi điện, e kiem tra xem hang đã về chưa 0989846482",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.055002,
+         "id": "905587",
+         "field_search": "question",
+         "question": " Cho Minh hoi cach restore window xp voi May Minh gio con co 0 byte a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.765083,
+         "id": "1018050",
+         "field_search": "question",
+         "question": "Minh mua dt j7 prime. Bay jo minh muon mua 1 cqi sim big",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.672827,
+         "id": "894027",
+         "field_search": "question",
+         "question": "cac anh chi ky thuat vien cho e hoi: e moi mua 1 cai laptop nay duoc 1 nam. luc do e co mua goi office 365. va bay gio may bao la giay phep windows cua may se het han vao thang 10/2016 nen phai lien he voi nguoi quan tri he thong de lay khoa san pham. da vay bay gio e lam sao a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.341793,
+         "id": "1012632",
+         "field_search": "question",
+         "question": "A oi....may.tinh bang mk mua trong the gioi di dong....gio e không xài nua...co de doi dt dc khong ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.335894,
+         "id": "928412",
+         "field_search": "question",
+         "question": "người thân của tôi mua dt mới nên cho tôi 1dt iphone4s bay gio toi muon dang xuat icloud ma khong co mat khau icloud va cung ko lien lac dc voi nguoi cho toi dt nay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.327602,
+         "id": "998054",
+         "field_search": "question",
+         "question": "Tgdd cho minh hoi: minh co mua tra gop 1 may dt Sony XA cuoi thang 5. ky han tra gop la 6 thang, da den ky dau tien tra gop, bay gio minh muon ban lai cho tgdd, tat nhien la minh van phai tra gop hang thang cho den khi het 6 thang thi co dc ko va thu tuc phai ntn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.183216,
+         "id": "830874",
+         "field_search": "question",
+         "question": "Cho hoi bay gio tra gop iphone 5s ko can tra truoc dang ap dung tai cua hang nao vay. Toi co CMND va Bang lai xe co tra gop duoc ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.166132,
+         "id": "1023677",
+         "field_search": "question",
+         "question": " cko em hoi dien thoai em bi mat co dang ki sdt vs gmail. gio no tat nguon r co tim duoc ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.102959,
+         "id": "1017215",
+         "field_search": "question",
+         "question": "cho em hoi ti ad oiem mua dt samsung j2 pari  o ngoai bac      gio co 1 loi nho em co the mang qua tgdd doi dk  k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.931242,
+         "id": "816261",
+         "field_search": "question",
+         "question": "Minh muon cai dat ID app mien phi de dang ky iTunes & App Store. Vi dang ky tai khoan moi tren may doi thanh toan qua visa, con neu tai app mien phi thi kg co tk sao tai ve duoc ban",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.923763,
+         "id": "1010024",
+         "field_search": "question",
+         "question": "Anh oi cho em hoi cai appstone cua iphone6 may no doi mat ma ma em khg nho.anh oi em cai dat lai may nhg lai bi mat hinh nut mo bay gio phai lam gi de co lai nut tron ha anh.em cam on a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.81371,
+         "id": "928418",
+         "field_search": "question",
+         "question": "người thân của tôi mua dt mới nên cho tôi 1dt iphone4s bay gio toi muon dang xuat icloud ma khong co mat khau icloud va cung ko lien lac dc voi nguoi cho toi dt nay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.766579,
+         "id": "876301",
+         "field_search": "question",
+         "question": "Dt minh bi khoa mat khau iCloud cai đạt lai thi bi mát hét hình va trong camera 360 bay gio muốn khỏi phục lai thi minh lam sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.751457,
+         "id": "848725",
+         "field_search": "question",
+         "question": "Cty cho minh hoi . Minh mua iPhone 5s moi sai duoc gan 2 thang . Gio minh muốn ban di thi TGDD co thu lai ko. May minh mua tai TGDD lun . Va mat bao nhiều Phan tram",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.725185,
+         "id": "841887",
+         "field_search": "question",
+         "question": " Ad oi e bi khoa 48 tieng roi sao bay gio van chua vao duoc vay   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.722572,
+         "id": "1140533",
+         "field_search": "question",
+         "question": "ngay qua co dang ky mot sim vietnamobely so 0929065066 ma quen de sdt lien lac sop co the xem lai giup, bay gio muon len kiem lai de them thong tin ma khong duoc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.672934,
+         "id": "821908",
+         "field_search": "question",
+         "question": " e cos iphone 5s nhuwng do quen mat khau icl gio muon thay doi lai tai khoan icl co duoc k a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620356,
+         "id": "837436",
+         "field_search": "question",
+         "question": "ad cho minh hoi , sao minh khong cai duoc appvn cho iphone 5s vay. no co tai ve tren mang hinh roi nhung khong cai dat dc ? ai bit cach chi minh voi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.585838,
+         "id": "1015332",
+         "field_search": "question",
+         "question": "cho e hoi neu nhu minh mua tra gop dt thi co the mua toi da bao nhieu cai a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.514734,
+         "id": "1155036",
+         "field_search": "question",
+         "question": "chao ac gio em mua samssung s10 duoc khuyen mai gi khong a  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.17707,
+         "id": "1154453",
+         "field_search": "question",
+         "question": "cho em hoi em bi dinh loi xac minh tai khoan google ben minh co the sua loi nay duoc khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.062891,
+         "id": "1001650",
+         "field_search": "question",
+         "question": "anh oi em hoi gio may mat nguon ko len minh kiem tra imel bang so dt dc ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.0476,
+         "id": "873026",
+         "field_search": "question",
+         "question": " Ipad 2 cua em quá yếu gio em muon cai dat lai ban goc ma em co ung dung da mua em so cai dat lai ban goc no se mat ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.036495,
+         "id": "995954",
+         "field_search": "question",
+         "question": "Cho hoi gio muôn đặt cục xạc sam sung galaxy not5 co kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.974855,
+         "id": "1165924",
+         "field_search": "question",
+         "question": "Minh co dua e gui tien cho minh vao so cmnd va so dt tai cua hang, minh da nhan duoc thong bao va ma so nhan tien va minh muon len kiem tra so tien minh hien co va chuyen vao so tk ngan hang cua minh duoc khong ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.915308,
+         "id": "1019477",
+         "field_search": "question",
+         "question": "cho mình hỏi.Hom tet minh co mua con IP7 ben TGDD o GV,co dan cuong luc va mat sau cho may IP,gio minh dem ra dan lai co mat them tien hay co can giat to gi them khong?Hay chi doi chieu qua so imel va so dt di dong cua minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.798769,
+         "id": "1013357",
+         "field_search": "question",
+         "question": "Em mua hang đổi trả co duoc giao tận nhà khong ad.chat luong cua san pham ntn v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.78975,
+         "id": "922120",
+         "field_search": "question",
+         "question": " ban cho minh hoi minh quen mat khau chu cho may tinh bang lenovo 3500 bay gio lam sao .cam on ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.747665,
+         "id": "996081",
+         "field_search": "question",
+         "question": "xin chao admin cho minh hoi la hien tai minh dang dung 2 chiec iphon va dung 2 ID khac nhau tam goi la may A va may BMinh out ID cua may A ra va dang nhap ID cua may B vao may A .Sau  do minh OUT ID cua may B dang tren may A ra  va dang nhap ID cua may A  vao nhu ban dau .Thi tu nhien 2 may bay gio bi xung dot so dien thoai vao nhau (ca 2 may may nao cung co nhu la dung chung 1 ID vay ) bay gio phai lam cach nao de cho 2 may khong lien ket danh ba voi nhau .Co ai biet ko giup minh voi Thank nhieu admin va cac ban nhe .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.533747,
+         "id": "1005952",
+         "field_search": "question",
+         "question": "toi co mua 1 dt samsung J5 hom qua. gio toi hoan lai dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.531492,
+         "id": "1139334",
+         "field_search": "question",
+         "question": " alocho minh dat hang ip6sbao gia va thoi gian co may? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.512817,
+         "id": "908116",
+         "field_search": "question",
+         "question": " Minh vua bi chan zalo cach dadayot gio cocoach nao tutuinh go nguoi do chac minh trtrent cua minh kg ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.44019,
+         "id": "1008692",
+         "field_search": "question",
+         "question": "alo cho hoi la minh co rap wifi nhung minh tra truoc 6 thang ... minh dong tien wifi 6 thang cho nen minh ko co giay to intenet lam sao co the tra gop dt a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.384037,
+         "id": "1135442",
+         "field_search": "question",
+         "question": "Minh mua lai may itel o TGDD gan thang ma gio xac pin khong duoc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.36818,
+         "id": "993253",
+         "field_search": "question",
+         "question": "Cho m hoi,m moi mua 1dt mobistar lai zumbo j,vao thang 5.bay gio m muon ban,thi ban khoang duoc bao nhieu ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.367537,
+         "id": "1142527",
+         "field_search": "question",
+         "question": "Mình muốn hỏi xem minh mua dt ben the gioi gi dong ở ngoài bắc, ma muon nguoi nhan hàng ở trong nam co duoc không vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.236923,
+         "id": "1003953",
+         "field_search": "question",
+         "question": "cho e hoi ben minh co khoi phuc duoc du lieu da bi mat tren the SD khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.129444,
+         "id": "1159127",
+         "field_search": "question",
+         "question": "Minh moi mua dt a50 tu 28/3/19 den nay lau lau dt bi giat man hinh thi minh co the doi dt moi dc hay ko va co may phi gi hok ? Dt minh dag tra gop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.122452,
+         "id": "1157770",
+         "field_search": "question",
+         "question": "Cho minh hoi.minh mua iphoneXS max 64 khoang gan tet toi gio.nhung dt co luc goi duoc ma luc toan thue bao .trong khi may van hoat dong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.933514,
+         "id": "1151085",
+         "field_search": "question",
+         "question": "em moi mua samsung galaxy j6 chua duoc 1 tuan.Bay gio muon doi qua samsung m20 duoc khong a.Va ton bao phi phi a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.914406,
+         "id": "998025",
+         "field_search": "question",
+         "question": "Minh Đặng dung may Sam sung aipat2 gio bi khóa hien dong chu goi khan cap .bay gio lam coach nao de Thor ta douc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901653,
+         "id": "1153684",
+         "field_search": "question",
+         "question": "Minh co the dat hang galaxy watch active truoc khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.815561,
+         "id": "1021995",
+         "field_search": "question",
+         "question": "minh co mua dt zenphone 2 tai thegioididong minh tinh ban lai cho cua hang co dc ko ad???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.686953,
+         "id": "1017045",
+         "field_search": "question",
+         "question": "Minh mua dien thoai galaxy j3 duoc 20 ngay minh muon tra lai may thi thi co duoc k va mat phi bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.580667,
+         "id": "1000911",
+         "field_search": "question",
+         "question": " Tgdd cho em hoi hang trung bay co duoc dung de ban cho khach hang khong?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.511787,
+         "id": "995951",
+         "field_search": "question",
+         "question": "Cho minh hoi minh mua dt htc me dc 4thang.bay gio minh muon doi qua sony xa1 thi thu lai gia bao nhiu vay.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.49818,
+         "id": "995388",
+         "field_search": "question",
+         "question": "e muon mua may tra gop ho so gom co cmnn va bang lai xe cho e hoi co the kem theo a bang công cua cty e dag lam kg a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.484657,
+         "id": "1165734",
+         "field_search": "question",
+         "question": "Điện thoại em iPhone 6 e mua năm ngoái đen bay gio tu nhien bám la tu dong dung màn hình ko bấm duoc  la bi sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.473862,
+         "id": "1005100",
+         "field_search": "question",
+         "question": "alo....a oi cho  e hoi chjen nay....mua dt tra gpp ma cmnd e mat so roi sao a...mua duoc ko za",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.458538,
+         "id": "1012776",
+         "field_search": "question",
+         "question": "samsung galaxy a52017 mua tra truoc 0 co duoc khong. va can giay to gi a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.455124,
+         "id": "1020022",
+         "field_search": "question",
+         "question": "ac cho em hoi minh dang ki mang sim vina kieu j a sim e mua o tgdd hon thang roi gio e moi dung ma ko vao duoc mang mong anh ci jup em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.452152,
+         "id": "997974",
+         "field_search": "question",
+         "question": "Mình moi vua mua xa za1 ul tra gop fe dc 3 ngay..bay gio minh muon thanh ly hop dong tra lai san pham..ma chi2 minh dung ten chu hop dong..vay co can chi minh ra tgdd de huy ko.. hay minh tu mang hop dong di la dc ak..cam on admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.37937,
+         "id": "852559",
+         "field_search": "question",
+         "question": " anh chi cho e hoi dt iphone 5s cua e bay gio mo khoa hok dc phai lm sao za ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.36464,
+         "id": "920545",
+         "field_search": "question",
+         "question": " Minh dang sai 4s va phien bang cua minh la 6.1.1 h minh muon up len phien bang i.os 8 duoc kg ban ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.343706,
+         "id": "1010921",
+         "field_search": "question",
+         "question": "Cho em hoi hoi truoc em mua dt tra gop ngay 9 ma gio cong ty em doi ngay lanh luong len 10 tay khong biet em co the tra tre mot ngay khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.310051,
+         "id": "995084",
+         "field_search": "question",
+         "question": "anh oi cho em hoi cai samsung j7 prime em mua duoc 4thang bay giờ em muon doi de lay samsung j7 pro dk kg. tai con trong thoi gian bao hanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.27054,
+         "id": "1138843",
+         "field_search": "question",
+         "question": " Hoi trươc minh co mua trã gop cai sam sung Gio minh mun coi con bao nhiêu tháng nua là hêt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.240808,
+         "id": "1013025",
+         "field_search": "question",
+         "question": "Chao ad.hien nay tren cac trang mang xa hoi co dang tin la tgdd ban dt ip6 gia chj 99k cho 1000 nguoi dau tien.cko minh hoi vay thong tin do co chinh xac khong? Ma neu dung vay thj sao minh mua duoc? Cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.202269,
+         "id": "918094",
+         "field_search": "question",
+         "question": "Ban oi cho minh hoi, truoc gio minh dung itools de chup nhac vao iphone nhung gio itools bat phai mua key, co phan mem nao co the chep nhac tuong tu nhu itools ma fre ko ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.984355,
+         "id": "1161820",
+         "field_search": "question",
+         "question": "Tgdd cho minh hoi minh mua 2 cai dt bang the va tra góp co được khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.979513,
+         "id": "1020612",
+         "field_search": "question",
+         "question": "Cho minh hoi khi minh vào 1ung dung nao do vi du nhu line vào Phan tin nhan sau do minh an vào tin nhan trước do co hien ra mục luu tru va xoa vay bay gio minh phai vào Dau de tim được ra mục minh da luu tru",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.970635,
+         "id": "945840",
+         "field_search": "question",
+         "question": " Ipat mini 2wifi co cai dat duoc Ariplay hay ung dung tuong tu khong ? Xin cho e biet voi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.947216,
+         "id": "822336",
+         "field_search": "question",
+         "question": "E co chiec iphone 6 s mua lai cua ban ma e quen mat icloud vay gio tggd co the lap lai icloud dc hog a ? E cam on nhieu a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.892065,
+         "id": "1023754",
+         "field_search": "question",
+         "question": "Co thay màn hình dt sam sung j5 2015 duoc k Admin????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.835485,
+         "id": "1144762",
+         "field_search": "question",
+         "question": " xin cho hoi hoa don ny do nhan vien dua khi dat coc co ok khong tin tuong duoc khong ?cam on  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.785391,
+         "id": "1000034",
+         "field_search": "question",
+         "question": "sao minh cai dat goc nhug ko duoc jio mo lên may lai ko nhân sim cua sam sung J3 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.741623,
+         "id": "1158545",
+         "field_search": "question",
+         "question": "Cho em hoi em đang dung chiếc samsung galaxY j4+.MA CO BAN CAP NHAT MOI minh tu dong cập nhật co anh hương gì đen may kg co bi do hay nặng may kg vay.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.713705,
+         "id": "992552",
+         "field_search": "question",
+         "question": "Cho minh hoi may iphone5 ko co sim co the dung zalo dc ko ban?vi minh thay may cua ban minh co thong bao zalo nhung ban minh bao ko truy cap dc vi minh mua lai cua nguoi ta!nhung tin nhan zalo van gui den,co thong bao luon!hay ban minh cai dat phan mem gi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.709139,
+         "id": "927349",
+         "field_search": "question",
+         "question": " minh mat nich zalo gio khong the đang nhap co the ai đo đoi ml minh  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.682457,
+         "id": "1005207",
+         "field_search": "question",
+         "question": "Minh can mua 1 con smartphone co con quay hoi chuyen gia tam 2trieu ruoi do loi benh minh co ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.665481,
+         "id": "1022248",
+         "field_search": "question",
+         "question": "Cho minh hoi iphone ngoai tinh nang chuyen cuoc goi sang so khac thi co tinh nang chuyen tin nhan sang so khac luon duoc khong. Minh dung iphone 6. Neu co thi co the giup minh duoc khong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.630819,
+         "id": "914074",
+         "field_search": "question",
+         "question": "sp minh la la laptop dell co sever la G0PBH72, con duoc bao hanh mot so cai. cho minh hoi nut ban phim bi liet co duoc bao hanh khong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.618585,
+         "id": "1023673",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình mua con samsung c9 pro trả góp 6 tháng vừa  xong. bay gio minh khong muon dung nua..thegioididong thu lại bao nhiêu z ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.590581,
+         "id": "1022614",
+         "field_search": "question",
+         "question": "Minh dang su dung samsung j7 prime trc gio k bị gì nhung hôm nay minh su dung binh thuong thì màn hinh k co tinh hieu gi het, k mo len dc, lấy dt khác gọi qua sim trong dt j7 thì co nhac chờ mà k có tin hiệu gì từ j7 la sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.574478,
+         "id": "910605",
+         "field_search": "question",
+         "question": "Cho e hoi. E dag xai con 4s. Luc truoc con tai game hay ung dung dieu duoc, nhug bay gio e tai ko duoc. E tai ve nhug no ko chay. Ko chay duoc phan tram nao het ak. Cac ah chi co the cho e biet nuyen nhan ko. Tuy e tai nhug ung dung hay game deu nhe mb nhug no ko chay duoc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.552697,
+         "id": "1012933",
+         "field_search": "question",
+         "question": "anh chi ben the gioi di dong oi cho em hoi bay gio em muon quy doi gia chi cua chiec may cua  em gui di bao hanh sang mot san pham tuong duong gia tri cua chiec may do co duoc khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.503441,
+         "id": "905150",
+         "field_search": "question",
+         "question": "Truoc gio minh dung khong bi sao ca. Ma tu nhien hom nay minh goi video hay truy cap link tren facebook no bi nhu vay. Hon nua minh dung wifi chu khong dung 3G nen nhu vay thi co sao khong a?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

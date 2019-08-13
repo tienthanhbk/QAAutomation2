@@ -1,0 +1,801 @@
+{
+   "id_query": "995326",
+   "total": 26956,
+   "total_current": 100,
+   "max_score": 40.014927,
+   "origin_question": "Tại sao xem video trên iPhone 6 mà không nghe được tiếng.,?",
+   "hits": [
+      {
+         "score": 24.135809,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.565521,
+         "id": "999662",
+         "field_search": "question",
+         "question": "khi em vào youtube xem video thì chỉ nghe tiếng mà không thấy được hình. cho em hỏi làm sao để xem được hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.152567,
+         "id": "766598",
+         "field_search": "question",
+         "question": " Tại sao Sony M4 nghe nhạc được mà khi xem video lại không có âm thanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.109203,
+         "id": "1147404",
+         "field_search": "question",
+         "question": "Tại sao iphone 6s gọi trên mess không nghe tiếng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.600958,
+         "id": "612899",
+         "field_search": "question",
+         "question": " tại sao em gọi line video xem được hình nhưng không nghe được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64304,
+         "id": "1165678",
+         "field_search": "question",
+         "question": "tại sao iphone 7 của mình không nghe được trong game mà chỉ nghe được trên youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.939594,
+         "id": "1142275",
+         "field_search": "question",
+         "question": "Tại sao ở oppo f1s nghe nhạc và xem phim không có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.9225,
+         "id": "1159888",
+         "field_search": "question",
+         "question": "Chào Thegioididong! Điện thoại mình là Sony M5, hiện nay đang gặp lỗi xem video ko được. Khi mở video trên facebook, youtube, hay các video khác trên máy đều bị màng hình xanh lá, vẫn nghe được tiếng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.225687,
+         "id": "917672",
+         "field_search": "question",
+         "question": " Máy iphone 5s của mình khi xem video trên máy không xem được toàn màn hình là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.155205,
+         "id": "1000006",
+         "field_search": "question",
+         "question": "em dùng máy dell N7640 mà em xem video, nghe nhạc trên website cứ tầm 10 phút là không xem được. Nó cứ load như cái ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.943142,
+         "id": "788632",
+         "field_search": "question",
+         "question": " Tại sao đang xem video vẫn bấm vào xem toàn màn hình mà nó vẫn tắt . Iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.447994,
+         "id": "780493",
+         "field_search": "question",
+         "question": " Sao ipad air của em chơi game không có tiếng mà xem phim nghe nhạc có tiếng binh thường ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.958319,
+         "id": "1138831",
+         "field_search": "question",
+         "question": "Tại sao coi video trên facebook bị ngắt quãng mà coi không liên tục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.809483,
+         "id": "1141292",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình dùng iphone 7plus lúc trước có quay mấy video nhưng giờ vào xem lại không được mà cần phải bật mạng mới cho xem là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.608074,
+         "id": "854831",
+         "field_search": "question",
+         "question": " tại sao xem video trên youtube bằng laptop lại bị mờ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.31927,
+         "id": "929057",
+         "field_search": "question",
+         "question": "cho e hỏi là sao khi e gọi video trên laptop, e nghe rõ tiếng người bên kia nhưng họ lại k nghe được e nói gi? cách khắc phục là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.30107,
+         "id": "757917",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình dùng iPhone 6 tại sao máy của mình không xem được thời tiết vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.23627,
+         "id": "844665",
+         "field_search": "question",
+         "question": "Mấy anh ơi cho em hỏi. Sao cái iphone của e không cắm tai phone. Mà vẫn hiện tai phone vậy. Người khác gọi đếm phải đeo tai phone mới nghe được. Nghe nhạc và xem video cĩng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.1495,
+         "id": "826834",
+         "field_search": "question",
+         "question": " Tại sao quay video... nghe tiếng nhạc nó nhỏ vây ạ.. có thể giúp làm thế tăng tiếng cao hơn ko ạ... dù đã max volume ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.091269,
+         "id": "1020901",
+         "field_search": "question",
+         "question": "Cho em hỏi em quay video trên huawei mà sao nó ko có tiếng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.934881,
+         "id": "846779",
+         "field_search": "question",
+         "question": " mình dùng laptop gọi video trên face mình thì nghe được tiếng còn họ thì ko?sửa bằng cách nào?thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.925098,
+         "id": "749518",
+         "field_search": "question",
+         "question": "  Tại sao máy iphone 6 tôi mới mua lại bị mất tiếng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.865585,
+         "id": "790721",
+         "field_search": "question",
+         "question": "tôi sử dụng laptop gọi video call trên skype nghe, nhìn rõ, khi chuyển sang gọi viber thì thấy hình, người ta nói nghe rõ nhưng tôi nói người ta không nghe được tiếng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80945,
+         "id": "745543",
+         "field_search": "question",
+         "question": " Tại sao em bật radio trên j7 mà không nghe được. Em mới mua máy được 2 tuần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.691242,
+         "id": "894341",
+         "field_search": "question",
+         "question": "Iphone 6 Plus của tôi bỗng dưng không quay Video phát trực tiếp trên Facebook được. Khi kết nối với loa máy trợ giảng thì các Video này không có tiếng? Hỏi : Lỗi gì hoặc máy bị hỏng ? Xin chỉ giúp . Các ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.635098,
+         "id": "1147844",
+         "field_search": "question",
+         "question": "Iphone 6 quay ứng dụng video của máy thu tiếng kém và bị sôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.631664,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.533175,
+         "id": "912773",
+         "field_search": "question",
+         "question": " lam sao để xem video trên ipad air2 full mang hinh được .không còn đen ở trên dưới ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.470123,
+         "id": "813936",
+         "field_search": "question",
+         "question": "Sao e gọi video call trên facebook massenger người bên kia k nghe được tiếng e nói??? Tronh khi gọi điện thoại bình thường vẫn được?? E dùng sky a900 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.36219,
+         "id": "1018768",
+         "field_search": "question",
+         "question": "e dùng ga A7 2016, cho hỏi sao e không xem được video trên google nhưng vẫn xem được trên youtube và các ứng dụng xem vid đã tải về ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.243547,
+         "id": "831877",
+         "field_search": "question",
+         "question": " Cách để tắt tiếng chụp ảnh trên iPhone 6  ............................................................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.240128,
+         "id": "1147086",
+         "field_search": "question",
+         "question": " Xiaomi note 6 để loa kép mà khi hát nhạc tại sau chỉ nghe có một bên loa vậy lại có tiếng xè xè nữa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.220436,
+         "id": "949605",
+         "field_search": "question",
+         "question": " Sao em không coi được youtube của iphone 6 vô được nhung xem không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.191319,
+         "id": "954088",
+         "field_search": "question",
+         "question": " cho mình hỏi tại sao laptop của mình gọi video mà bên kia không nghe thấy mình nói gì là sao vậy??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.189976,
+         "id": "806579",
+         "field_search": "question",
+         "question": " Cho em hỏi em gọi video trên facebook bằng máy tính thấy hình ảnh nhưng không nghe thấy tiếng của đối phương? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.159353,
+         "id": "1012472",
+         "field_search": "question",
+         "question": "Đã lưu video youTube vao phần ngoại tuyến rồi mà sao không xem offline được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.158245,
+         "id": "798823",
+         "field_search": "question",
+         "question": "Tại sao em update lên ios 9.3 beta 6 mà vẫn chưa có night sift trên iphone 5 của em. Tại sao và tại sao ad. Làm sao mà trải nghiệm được khi apple cho thử nghiệm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.137814,
+         "id": "811532",
+         "field_search": "question",
+         "question": "Các qtv cho em hỏi tại sao trên iPhone 6 của em lại không có nút gọi video trên messager mặc dù em đã update phiên bản messager mới nhất vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.102041,
+         "id": "861810",
+         "field_search": "question",
+         "question": " Em không xem được hình người khác gửi qua messenger trên iphone tại sao ạ , giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.037718,
+         "id": "965190",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao máy mình cứ bắt reset lại mới xem được video trên những trình duyệt hoặc youtobe vậy bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.940407,
+         "id": "922562",
+         "field_search": "question",
+         "question": " Cho e hỏi tắt âm chụp hình iPhone 6 thì làm sao? E đã thử kéo nút gần nút âm lượng xuống mà chụp hình vẫn nghe tiếng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.939418,
+         "id": "824282",
+         "field_search": "question",
+         "question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.887874,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.839108,
+         "id": "954951",
+         "field_search": "question",
+         "question": "Em Dùng iPhone 6 , em sạc pin và bật mạng xem YouTube , quên không tắt máy , điện thoại tự động xem YouTube gần 4 tiếng đồng hồ , vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.76089,
+         "id": "1005497",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao con ip 5s của mình gọi video call trên zalo hay mesenger, mình nói người ta không nghe mà người ta nói lại thì mình nghe. Mong bạn chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.581672,
+         "id": "792911",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4, phần mềm 7.1.2, khi gọi video bằng ứng dụng line thì bên người nghe không nghe thấy tiếng mà vẫn nhìn thấy hình. Xin quản trị viên hỗ trợ dùm mình. Thanks bạn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.56352,
+         "id": "753819",
+         "field_search": "question",
+         "question": " Tại sao iPhone 6 phát wifi mà máy khác không bắt được lại báo sự cố xác thực là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.466764,
+         "id": "750031",
+         "field_search": "question",
+         "question": "AD cho mình hỏi mình dùng iphone 5s trước dùng ios cũ vẫn xem video bình thường mà lên ios 9 trang web bây giờ không xem được video giúp mình một chút được không ạ? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.462467,
+         "id": "816038",
+         "field_search": "question",
+         "question": "Tại sao khi nghe nhạc bằng Zing Mp3 trên Iphone 6 plus, khi tắt màn hình thì nhạc cũng tắt theo luôn? Có cách nào khắc phục không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.417936,
+         "id": "740273",
+         "field_search": "question",
+         "question": " Sao may mới gọi tango được bay giờ thấy hình mà ko nghe tiếng duoc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.408979,
+         "id": "1150268",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao khi em quay màn hình xong thì sau khi xem lại em ko nghe tiếng ạ?Hiện tại em đang sài Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.395234,
+         "id": "1141089",
+         "field_search": "question",
+         "question": "Hiện tại máy iphone 5s mình bị lỗi gọi video nói chuyện bên kia không nghe, quay video cũng không có âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.348543,
+         "id": "762026",
+         "field_search": "question",
+         "question": " Em đang dùng iphone 5s em gọi qua ứng dụng wechat sao không nghe được tiếng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.346096,
+         "id": "876483",
+         "field_search": "question",
+         "question": "Tại sao viber trên lumia 1520 không có tiếng việt? Xóa rồi tải lại cũng vậy . Ngôn ngữ máy của e là tiếng việt mà. Nó toàn hiện tiếng pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.294114,
+         "id": "735913",
+         "field_search": "question",
+         "question": "minh dung iphone 4, may bua truoc quay video van co tieng m gio ko biet sao ko co tieng gi ca, giup minh voi??Mình dùng iphone 4, mấy bữa trước quay video vẫn có tiếng mà giờ không biết sao không có tiếng gì cả, giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.217842,
+         "id": "855138",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip5s e xem video trên you tube thì k sao nhưng mà xem trên fbook thì nó cứ load quay tròn ... E dùng wefi cực ổn mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.201874,
+         "id": "827967",
+         "field_search": "question",
+         "question": " Tại sao khi tải hình động trên mạng về máy lại không xem được , hình vẫn đứng im . Mình dùng iphone 5s . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166377,
+         "id": "996723",
+         "field_search": "question",
+         "question": "Iphone xem youtube toàn màn hình mà bị lỗi như thế là sao ạ.Bên trên nó màu đen bên phải màu trắng video nào cx bị z ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.153843,
+         "id": "991387",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone 4 không nghe được nhạc hay vào youtobe xem không nghe được tiếng nhưng chuông gọi đến vẫn đổ và kêu bình thường thì bị lỗi gì và cách khác phục em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.113161,
+         "id": "1020047",
+         "field_search": "question",
+         "question": "Tại sao bật tai nghe Bluetooth rồi mà không kết nối với tai nghe được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.072609,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.061506,
+         "id": "712410",
+         "field_search": "question",
+         "question": " Tại sao xem video trên điện thoại lại bị mờ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.059806,
+         "id": "884327",
+         "field_search": "question",
+         "question": "e dùng laptop win 10 khi gọi video call trên fb thì ng bên kia ko nghe đc tiếng e nói nhưng e vẫn nghe đc tiếng ng đó nói. QTV giúp e khắc phục lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0395355,
+         "id": "980925",
+         "field_search": "question",
+         "question": "anh ơi e hỏi e dùng e dùng laptop win7 khi em gọi video hoặc gọi thoại trên facebook cho máy khác thì họ không nghe được e nói gì mà em vẫn nghe được họ nói là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.014884,
+         "id": "1150152",
+         "field_search": "question",
+         "question": "Máy em là OPPO r7s khi nghe gọi đt tì máy bình thường nhưng khi xem phim, nghe nhạc, youtube hay video trên facebook, chơi game thì loa bị mất tiếng. THI thoảng máy bình thường thì tự nhiên mất tiếng. Em có reset lại máy và khôi phục lại máy nhưng chỉ được mấy hôm nó lại như vậy. Cho em hỏi máy em như vậy là bị sao ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.000555,
+         "id": "1000745",
+         "field_search": "question",
+         "question": "Tại sao iphone của em là tiếng việc  mà vào safari lại ra thành tiếng trung quốc ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9802475,
+         "id": "1019798",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao em gọi trên zalo bên kia nghe mà em nói mà bên kia nói em ko nghe được. em đang dùng con XA1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.925148,
+         "id": "923364",
+         "field_search": "question",
+         "question": "Tại sao khi em gọi messenger bật video lên e nói bên kia k nghe thấy nghe thấy gì nhưng e vẫn nghe họ nói bình thương ( tắt video tjif gọi bình thường ạ ) e dùng iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9235,
+         "id": "598005",
+         "field_search": "question",
+         "question": "Em moi mua Iphone 6 64G hom bua moi cap nhat IOS 8 cai no bi Voice Control hien len hoai moi khi nghe nhac hoac xem video. Cho em hoi lam sao tat hoan toan Voice Control duoc vay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.884039,
+         "id": "895767",
+         "field_search": "question",
+         "question": "máy tính của em khi gọi facebook hay skype em nghe được tiếng của người ta nhưng người nghe không nghe được tiếng của em. em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.794315,
+         "id": "780298",
+         "field_search": "question",
+         "question": " Anh chị cho hỏi Samsung galaxy j2 không xem được video 720p trên youtube ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.762333,
+         "id": "916471",
+         "field_search": "question",
+         "question": " Tại sao lưu ngoại tuyến trên YouTube lại không xem được tôi đang đung iPhone5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.714607,
+         "id": "1142607",
+         "field_search": "question",
+         "question": "Sao đt của em quay video mà mở lên xem lại thì báo là không thể phát video vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.71105,
+         "id": "1021439",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang xài htc nhưng không phát video trên youtube được, video không chạy không phản ứng gì cả. Xem video trên fb cũng v. Nhạc trên zing cũng phát luôn. Giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.611601,
+         "id": "1018817",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của mình không xem được phim trên các web như phim Bất Hủ phimmoi.net, kzone.tv trong khi vẫn xem được các clip trên YouTube ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.593282,
+         "id": "997518",
+         "field_search": "question",
+         "question": "iphone của e không phát được video ở tất cả ứng dụng, nhưng lại phát được video trên facebook vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.585913,
+         "id": "1164585",
+         "field_search": "question",
+         "question": "Chào bạn cho tui hỏi. Sao đt tui a6 sạc 1 lần gần 5 6 tiếng mà vẫn ko đầy pin đc.là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.579397,
+         "id": "888619",
+         "field_search": "question",
+         "question": " Cho mình hổ tại sao mấy máy oppo r1 đều không xem được video stream trên facebook ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.530935,
+         "id": "1008176",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng máy J7 2016 . Gần đây khi đang nghe nhạc hay xem video tren youtube thì tự nhiên máy mở các ứng dụng trên chplay tại sao lại có tình trạng như vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.509794,
+         "id": "856805",
+         "field_search": "question",
+         "question": " Khi oppo F1 xem video phát trực tiếp trên fb lại bị mờ , hoặc xem video clip trên messenger lại mờ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.442087,
+         "id": "816030",
+         "field_search": "question",
+         "question": " Tại sao em đang nghe nhạc offline trên iphone 5s lai bi ngưng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.412371,
+         "id": "880803",
+         "field_search": "question",
+         "question": " Đt sky a870 của e gọi messages mình nghe được tiếng ng ta còn ng ta sao không nghe đc tiếng mình ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3961935,
+         "id": "760245",
+         "field_search": "question",
+         "question": " Tại sao khi chat video trên viber trên laptop, camera lại không tự mở lên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.368855,
+         "id": "1147959",
+         "field_search": "question",
+         "question": "Sao sử dụng điện thoại Oppo f9 xem video trên Facebook, Youtube hay chrome bị mờ v bật 720 mà vẫn bị mờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.328213,
+         "id": "897703",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 6s Plus lúc quay video trên máy mở lại thì ko xem được. Tất cả các video lúc trước quay cũng ko xem lại đc. Có cách nào khắc phục được ko vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.327604,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.312234,
+         "id": "811314",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 tại thế giới đi động mới được khoảng 2 tháng mà tai nghe mình có vấn đề mình đến bảo hành ở đâu hả AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.271943,
+         "id": "1001567",
+         "field_search": "question",
+         "question": "Cho em hỏi Em vào 1 trang wep để xem video trong trang wep đó bằng thư viện trình phát video mà nó báo là không thể mở videoLần trước thì em xem được video mà giờ k được Dien thoại của người khác thì xem được ...mong anh chị chỉ cho em cách cài đặt lại mục thư viện..trình phát video ạ.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.248112,
+         "id": "765398",
+         "field_search": "question",
+         "question": " iPhone 6 minh đang xài không gọi được FaceTime thoại , chỉ gọi sẽ video   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.202408,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.187966,
+         "id": "1009741",
+         "field_search": "question",
+         "question": "Cho mình hỏi,  mình đang sử dụng samsung j5 tại sao khi xem video trên tất cả các trang đều bị dừng.  Giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.181469,
+         "id": "825742",
+         "field_search": "question",
+         "question": "Cho mình hỏi ip5 của mình giờ không thể xem lại các video đã quay từ trước, chỉ khi có mạng mới xem được. Mình không biết nguyên nhân tại sao?! Giúp mh với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.138364,
+         "id": "895505",
+         "field_search": "question",
+         "question": " tại s máy dell i3 gọi video thì bên kia k nghe được ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095857,
+         "id": "761756",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5 nhưng bạn bè gửi tin nhắn video đến qua zalo mình không xem được phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.022945,
+         "id": "842391",
+         "field_search": "question",
+         "question": "Oppo f1 của e sao phần mềm fb zalo k gọi đk. Kết nối đk mà mình nghe được. Còn bên kia đầu dây không nghe tiếng mình nói.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.020361,
+         "id": "909409",
+         "field_search": "question",
+         "question": " Mình bị lỗi không xem được video trên website ios 9Mình cần hỗ trợ từ nhân viên kỹ thuật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.005186,
+         "id": "814557",
+         "field_search": "question",
+         "question": "Làm sao cài đặt gọi video trên laptop được vậy, mình muốn gọi điện cho người thân qua video call mà không thấy hình được, nhờ giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.92976,
+         "id": "896404",
+         "field_search": "question",
+         "question": "Anh cho em hỏi tại sao, sau khi gọi video trên mesenger xong (trên đt ss glx j3) thì âm lượng nó cứ như vậy, khi nghe nhạc, xem phim... nó đều phát âm thanh bằng loa đàm thoại chứ không phải loa ngoài. Nó bị gì vậy ạ? Và cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.911913,
+         "id": "1161855",
+         "field_search": "question",
+         "question": "Máy Iphone 6 của mình bị hở màn hình Khi ấn mạnh vào màn hình nghe tiếng lộp bộp Hiện tại mình đang ở Bến Cát-Bình Dương Mình có thể gửi máy để sửa ở TGDĐ được không. Máy của mình vừa hết bảo hành được vài tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1011390",
+   "total": 34612,
+   "total_current": 100,
+   "max_score": 172.93826,
+   "origin_question": "Em dùng HTC dual sim 802w. Nhưng ví dụ máy đang load cái gì đó thì em không thể tắt điện thoại bằng nút nguồn mà phải đợi 15s sau cho máy tự tắt. Có cách nào khắc phục không ạ? Thêm nữa là nút tăng âm lượng gần như phản ứng chậm, em tăng âm thì một lúc sau mới được mà nó lên max luôn. Không phải do liệt vì nó vẫn bấm được. Em phải làm gì ạ????",
+   "hits": [
+      {
+         "score": 72.72906,
+         "id": "1164826",
+         "field_search": "question",
+         "question": "Máy em oppo a71 máy sài được mấy tháng thì hư nút nguồn và nút tăng âm lượng sài thêm 3 tháng nữa thì tự nhiên máy tắt đột ngột và rung lên mở nguồn được vài giây lại tắt làm liên tục tự mở lên rồi lại tắt mặc dù kh ai bấm cho em hỏi nó bị gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.31265,
+         "id": "1018440",
+         "field_search": "question",
+         "question": "điện thoại của e là oppo r831. em mở nguồn lên thì nó chỉ rung rồi hiện chữ oppo. nó có hiện recovery mode, em đã bấm nút nguồn và nút tăng âm lượng nhưng nó lại hiện lên chữ factory mode. em bấm nút nguồn và nút giảm âm lượng thì nó lại hiện recovery mode. em muốn nghe cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.63323,
+         "id": "999462",
+         "field_search": "question",
+         "question": "cho em hỏi, điện thoại lenovo bị liệt nút nguồn và nút tăng âm lượng thì có cách nào mỡ nguồn k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.39798,
+         "id": "1159335",
+         "field_search": "question",
+         "question": "Chào adAd cho em hỏi em đang dùng Oppo F1s nhưng không hiểu sao lâu lâu cái nút tăng âm lượng lại kiểu như liệt Đã vậy nếu cố nhấn thì nó sẽ giảm âm lượng Ad cho em hỏi máy em nó bị làm sao vậy ạ ?Làm thế nào để khắc phục lỗi đó ạ ?Thank ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.00447,
+         "id": "1152772",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng samsung galaxy J7 mà nút nguồn tăng giảm âm lượng với ba nút đa nhiệm không dùng được thì phải làm sao ạ chỉ có tháo pin ra và cài vào lại bật nguồn lên mới chợ được nhưng vẫn không dùng được mấy nút đó thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.996376,
+         "id": "1164581",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có cái điện thoại Oppo N1 Mini lúc sáng hết pin tắt nguồn giờ thì sạc pin nó vào chế độ Recovery xong mình bấm reboot thì nó lại trở lại Recovery. Mình thấy vậy bấm nút Nguồn + tăng âm lượng giờ nó vào fastboot... Thử bấm nút nguồn 30s nó cũng không reset phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.454697,
+         "id": "798839",
+         "field_search": "question",
+         "question": "Cho em hỏi tai sao điện thoại iphone4s em tắt nguồn xong mở lên lại không được mà phải vừa bấm nút home với nút nguồn trong 10' tới 15' thì mới lên nguồn được là điện thoại em bị gì ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.336506,
+         "id": "1169196",
+         "field_search": "question",
+         "question": "Máy oppo f3 em bị liệt nút tăng âm lượng. Bây h muốn tăng âm lượng cuộc gọi thì lm ntn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.33614,
+         "id": "1136867",
+         "field_search": "question",
+         "question": "Máy em lâu lâu hay bị tắt nguồn nhưng khi em muốn mở nguồn lại không lên , phải đợi khoảng 10p mới mở đc em phải nhấn tất cả các nút cùng một lúc nó mới lên. Cho em hỏi máy e bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.289948,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.0626,
+         "id": "1003894",
+         "field_search": "question",
+         "question": "Điện thoại em đang dùng là lenovo a2010   máy em tự nhiên đơ màn hình ra chỉ bấm đc nút bật tắt máy và nút tăng giảm âm lượng còn lại nút home hay nút back với cả màn hình đều không chạm hay bấm gì đc mong sự góp ý và trợ giúp em sửa lỗi này !??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.754326,
+         "id": "1135792",
+         "field_search": "question",
+         "question": "ad tư vấn giúp e với ạ, e đg dùng samsung s7 edge có 1 vđ là khi đang dừng video youtobe hoặc đang phát nhạc từ zing thì sau 5s k đụng vào màn hình, màn hình nó tự tắt, máy vẫn phát nhạc, nhưng khi em mở nút home cho màn hình tiếp tục hoạt động thì âm lượng media lại chuyển về 0, zing k phát nhạc nữa nhưng vẫn chạy, youtobe nhấn tiếp tục chạy thì k có tiếng, sau đó e nhấn vào nút âm lượng tăng bên hông máy thì âm lượng lại trở về như ban đầu, ad cho em hỏi cách khắc phục với ạ! em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.693085,
+         "id": "1144672",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình sử dụng điện thoại oppo f5, vì yêu cầu công việc mình đôi lúc cần phải tắt nguồn điện thoại đi, mình đã sử dụng tổ hợp phím nguồn + phím tăng âm để tắt điện thoại nhưng sau khi tắt nguồn, điện thoại lại tự khởi đông lại. Mình muốn tắt điện thoại hoàn toàn thì phải làm gì và nếu tắt máy hoàn toàn thì có bị gì không? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.29267,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.042824,
+         "id": "1142947",
+         "field_search": "question",
+         "question": "Ad ơi. Tôi mới mua active1 tai TGDD. Hiện nay nút âm lượng tăng, giảm bất thường (không giảm được). Khi nóng máy nút nguồn không tắt được. Bị lỗi gì vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.042294,
+         "id": "1013377",
+         "field_search": "question",
+         "question": "em dùng htc m7 và khi ấn nút nguồn để tắt máy thì nó luôn tự động tắt nguồn sau đó chập chờn liên tục cho đến khi khởi động lại, nó cứ nháy sáng lên xong tự tắt tiếp ấy. Máy em bị sao thế ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.854233,
+         "id": "1158982",
+         "field_search": "question",
+         "question": "e mua vsmart joy 1+ đc 2 ngày r mà lúc muốn chỉnh âm lượng to nhỏ thì nó lại tự tắt máy kiểu như bấm nút tắt luôn ạ. Cho e hỏi cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.85433,
+         "id": "796876",
+         "field_search": "question",
+         "question": "Chào QTV e đang dùng 1 cây iphone 5 ..... lúc chưa sạc điện thoại thì e vẫn tăng giảm âm lượng bình thường nhưng khi cắm sạc xong thì e bấm giảm âm lượng không được (nút không lờn không kẹt) .. Vậy là bị sao ạ.. nếu thay thì thay bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.47415,
+         "id": "821151",
+         "field_search": "question",
+         "question": " Vui lòng chỉ mình làm cách nào để chụp hình bằng nút nguồn hay nút tăng giảm âm lượng của điện thoại iPhone. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.37835,
+         "id": "814038",
+         "field_search": "question",
+         "question": "iPad em đang dùng bỗng dưng tắt nguồn,sau đó em đè thử nút Home với Lock,máy hiện logo apple rồi tắt rồi lại hiện rồi tắt,chừng 10' thì máy tắt nguồn hẳn,không mở lên được,em phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.342995,
+         "id": "999802",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss j5pr được 4 tháng rồi mà sao lâu lâu e lại thấy đt rung lên 1 cái như có thông báo j tới nhưng kiểm tra thì k có j. Cứ lâu lâu nó lại rung lên ạ. Thỉnh thoảng đang sài cũng bị đứng máy tắt nguồn hay làm j cũng k được bấm tổ hợp hai nút cũng k tắt nguồn được phải nữa tiếng sau bấm lại đt mới chịu tắt nguồn khởi động lại được. K biết đt e có sao k ạ. Có cách nào khắc phục k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.192577,
+         "id": "1017397",
+         "field_search": "question",
+         "question": "Chào ad, samsung a5 của em sau khi hết pin và được sạc thì lúc khởi động cứ hiện chữ samsung mà không chịu mở màn hình. Em nhất home + tăng âm lượng + nguồn nhưng cg k hiện ra phần để reset máy. Em phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.507477,
+         "id": "891099",
+         "field_search": "question",
+         "question": "Em đang xài asus X555U . Gần đây em có tải 1 ứng dụng diệt virus cho USB và sau đó vào Firefox thì nó không hiện giao diện firefox nữa mà cứ hiện trang \"Linkzb\" , không tắt được . Cái đó là gì và tắt như thế nào ? Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.480164,
+         "id": "1010073",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc nokia 6, bây h nút home với nút tăng giảm âm lượng bị lung lay thì có ảnh hưởng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.36908,
+         "id": "1158802",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình tự nhiên 3 nút điều hướng sử dụng lúc được lúc không có cách nào chữa không ạ .Nó không bị liệt hoàn toàn mà phải bấm 5-6 lần mới được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.116173,
+         "id": "755257",
+         "field_search": "question",
+         "question": "Em sài iPhone 5 sài vẫn bình thường em không làm rớt, hay va chạm mạnh gì cả. Sài bấm bình thường một lúc sau nó đơ màn hình cảm ứng không  bấm được nữa em tắt nguồn và khỏi động lại thì sài được một chút và tới bây giờ nó hay bị loạn cảm ứng đôi lúc đang sài nó lại nhảy lung tung và kéo không đi :< .=\"\" cho=\"\" em=\"\" biết=\"\" em=\"\" phải=\"\" làm=\"\" sao,=\"\" em=\"\" cám=\"\">",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.586216,
+         "id": "1014441",
+         "field_search": "question",
+         "question": "Máy em là máy samsung J7 2016 ạ. Em đi mưa xong bị nước mưa ngấm vào điện thoại từ 12h trưa. Em vẫn dùng bình thường đến 4h chiều máy tự nhiên tắt nguồn rồi k bật lên được ạ. Vẫn nhận được thông báo mess cadc thứ cả tăng giảm âm lượng vẫn bình thường nhưng màn hình đen sì. Máy em bây giờ phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.558464,
+         "id": "776026",
+         "field_search": "question",
+         "question": "Cho em hỏi sao Oppo R7S tăng âm lượng lúc coi video không được vậy mà chỉ hiện lên tăg âm lượng chộc gọi không vậy. Nghe không được gì hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.546993,
+         "id": "1003569",
+         "field_search": "question",
+         "question": "máy tính bản mobell tab 8 pro của em bị liệt cảm ứng rồi, bấm các nút nguồn hay âm lượng vẫn dc nhưng mà chạm tay vào thì không dc, nếu em thay miếng cảm ứng thì hết bnhiu tiền vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.545433,
+         "id": "932181",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4 CDMA, nhưng âm thanh lại bị mất, chỉnh bằng nút âm lượng thì không hiện lên thanh âm lượng, vào cài đặt âm lượng thì thấy vẫn để âm lượng mức to nhất, nhưng khi chơi game, nghe nhạc thì chả nghe được gì. Loa thì cũng kiểm tra không hư hỏng gì (khi khóa màn hình rồi mở lại thì vẫn nghe được nhạc nền trong game, được tí thì lại tắt). Vậy thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.24793,
+         "id": "993344",
+         "field_search": "question",
+         "question": "E có cái ip4s cũ bị hỏng nút nguồn. Đang xem phim thì tự nhiên máy tự động tắt nguồn sau đó e có bật máy bằng cách sạc máy k lên đc:(( bây h phải làm ntn vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.755573,
+         "id": "996960",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi bên mình có bán sim  beeline không vậy?Cái nút mở nguồn và nút âm lượng của ốp sau đt máy oppo r1001 nó bị hư rồi, như thế có thay được không ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.74162,
+         "id": "797081",
+         "field_search": "question",
+         "question": "Cho e hỏi là em đang dùng iPhone 5s sau một hôm máy bị hết pin sật nguồn e dùng dây sạc mới để sạc pin thì pin lên được 3% pin sau đó đứng im luôn được 1 lúc e tắt đi thì lên 15% mà muốn biết đc bn % pin là lại phải tắt nguồn r bật lên.lúc sử dụng cũng thế.e xp 20' mà nó vẫn giữ nguyên ở 100%.như thế là lỗi hay hỏng ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.714653,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.4576,
+         "id": "1159074",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2018, nhưng dạo này khi tắt điện thoại thì một lát sau nó lại tự hiện lên màn hình chờ của mình lúc này phải bấm thoát ra thì nó mới trở về màn hình khóa còn không bấm thoát thì một lát sau nó sẽ tự trở về màn hình khóa. Đt của mình đang bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.318245,
+         "id": "748356",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4 của em khi em xem tin nhắn rồi bỏ đó không tắt máy. Lúc mở máy lên thì không quay lại được màn hình chính chỉ có thể nhắn tin. Mà nhấn nút nguồn mãi mới mở. Điện thoại em đang làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.29838,
+         "id": "1009274",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua máy cũ ở tgdd được 1 tuần ấn nút tăng âm lượng nó lại khóa màn hình với nhảy lung tung đó là lỗi của em hay của máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.1661,
+         "id": "1013985",
+         "field_search": "question",
+         "question": "cho mình hỏi về cái vụ tắt nguồn iphone, nếu như bình thường thì mình bấm nút nguồn đợi tới khi thanh \"slide to power off\", hiện ra sau đó trượt thì máy tắt nguồn, nhưng nếu khi thanh\"slide to power off\" hiện ra mà mình vẫn ấn giữ nút nguồn sau đó ấn giữ tiếp phím home thì vài giây sau vẫn tắt nguồn được, thì vậy là sao ad giải thích giùm mình cái. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.764423,
+         "id": "1140422",
+         "field_search": "question",
+         "question": "Có reset thử. Sau khi hiện lên chấm than thì bấm tăng âm lượng thì bị tắt màn hình.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.716206,
+         "id": "896404",
+         "field_search": "question",
+         "question": "Anh cho em hỏi tại sao, sau khi gọi video trên mesenger xong (trên đt ss glx j3) thì âm lượng nó cứ như vậy, khi nghe nhạc, xem phim... nó đều phát âm thanh bằng loa đàm thoại chứ không phải loa ngoài. Nó bị gì vậy ạ? Và cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.590446,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.547882,
+         "id": "1020997",
+         "field_search": "question",
+         "question": "em dùng s7 edge mà sau khi điện thoại về chế độ chờ em ấn nút home hoặc nguồn thì màn sau 2 giây gì đó mới sáng chứ không sáng ngay lập tức. cho em hỏi tại sao và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.401253,
+         "id": "1141563",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi ạ.Em là học sinh cuối cấp nên máy tính như cánh tay phải của em. Tối qua e vẫn dùng máy học được nhưng tối nay e bật lên thì màn hình nó không lên trong khi nút nguồn sáng. Quạt gió thì chạy đc 4s xong ngừng. Vậy lí do tại sao ạ?  Có cách nào khắc phục không ạ? Lap em đang dùng là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.385826,
+         "id": "1154401",
+         "field_search": "question",
+         "question": "điện thoại em cứ mở nguồn khoảng 1 phút rồi tắt, sao đó tự mở nguồn và tắt liên tục. em đã chạy chương trình lại cho máy nhưng vẫn không được. em đang xài con j2 nhưng quá hạn bảo hành và cũng cũ rồi nên em nghĩ nếu phải thay ổ cứng thì coi như không luôn. Shop có cách nào khắc phục tình trạng trên không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.296215,
+         "id": "959644",
+         "field_search": "question",
+         "question": " Cho em hỏi may tinh hp .e lỡ bấm nhầm nút gần nút tắt nguồn .mở lên thi nó chạy thi phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.142624,
+         "id": "1020787",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình gọi điện thoại k bật loa ngoài mà máy lại phát loa ngoài, phải bật rồi tắt loa ngoài nó mới hết và lúc nghe điện thoại hay bị bé loa bất thường gần như k nghe thấy gì mặc dù mình để chế độ âm lượng to nhất ạ. Máy mình là j7 prime ạ. Mình phải làm gì để khắc phục ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.800175,
+         "id": "882429",
+         "field_search": "question",
+         "question": "Cho em hỏi sử dụng điện thoại iphone 5 có khi nào rơi nhẹ mà hư luôn không ạ? em nghe nói iphone 5 chống va đập cũng tốt nhưng em lỡ tay làm rơi, điện thoại tắt nguồn. Bấm nút nguồn thì điện thoại không lên. Khi cắm sạc thì nó chỉ hiện logo của apple rồi tắt, cứ hiện rồi tắt. Cho em hỏi bị như vậy thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.728844,
+         "id": "757701",
+         "field_search": "question",
+         "question": "  Mình dùng iPhone 6S nhựng vừa phát hiện nút tăng âm lượng rất khó bấm. Cho mình hỏi đây có phải lỗi chung không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.307262,
+         "id": "877699",
+         "field_search": "question",
+         "question": "Mới mua iphone 5s về 2tuần bị liệt nút giảm âm trên đt ,nút tăng giảm âm trên tai nghe cũng bị liệt luôn, có đổi máy mới đc k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.035027,
+         "id": "867162",
+         "field_search": "question",
+         "question": "Chào bạn. Mình đang dùng điện thoại iphone. Nhưng không hiểu sao đang dùng thì màn hình bị tối đen, k sáng lên được nữa, nhưng bin thù vẫn còn đầy. Sau đó mình có bật nút nguồn nhưng nó vẫn không lên được. Mình lấy máy khác gọi tới thử thì máy vẫn run, nhưng màn hình thì không sáng. Không biết máy mình bị gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.027046,
+         "id": "1003579",
+         "field_search": "question",
+         "question": "- Cho e hỏi. e làm rớt điện thoại IP5S . sau khi rớt thì nút nó bị đơ nút home và nút nguồn . Bấm nhiều lần màn hình mới sáng lên . như vậy nguyên nhân là hỏng cái gì ạ . cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.944714,
+         "id": "1141450",
+         "field_search": "question",
+         "question": "Em mua hua Wei y6 prim sau 3 ngày thì phần tại nghe của em n cắm vào máy thì k nghe thấy gì mặc dù e đã tăng âm lượng lên max e nghĩ do tại nghe nhưng cắm vào máy khác n vẫn nghe đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.90779,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.857876,
+         "id": "840001",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 3gs của em sau khi tắt nguồn mở lên thì màn hình trở thành màu xám rồi nó hiện cái bảng gì đó như vậy làm sao để khắc phục nó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.829174,
+         "id": "1011438",
+         "field_search": "question",
+         "question": "Điện thoại em khi cắm tai nghe nghe nhạc và khi tăng âm lượng thì máy báo UI hệ thống đã dừng là sao ạ? Điện thoại em là xong xperia c4 dual, à chỉ cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.823517,
+         "id": "767084",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.65439,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.620228,
+         "id": "1150369",
+         "field_search": "question",
+         "question": "Em dùng máy Mi Play mới mua vài ngày nhưng môi lần xem youtube được vài video thì máy đứng ko bấm được gì ngay cả nút tắt. Cứ mỗi lần v em đều ph đưa vân tay vào và bấm nút tắt thì nó mới khởi động nguồn lại. Bị cái này cx 3,4 lần rồi nên em xin ý kiến ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.60899,
+         "id": "873963",
+         "field_search": "question",
+         "question": "Máy em là iPhone6 Plus có Jailbreak cho em hỏi mấy hôm nay máy đang dùng 1 lúc thì tự dưng kêu mấy tiếng lạ rồi đơ máy luôn em có tắt nguồn máy rồi bật lại nhưng nó vẫn thế .Em phải làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.53424,
+         "id": "1147094",
+         "field_search": "question",
+         "question": "Sau khi em ấn shutdown để tắt máy tính thì bây giờ mở nguồn không lên được. Em xài máy acer. Phải làm cách nào để máy tính lên nguồn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.34371,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.34371,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.276924,
+         "id": "1142329",
+         "field_search": "question",
+         "question": "Em dùng oppo a11w. Đang dùng tự nhiên nó hiện lên cái gì cũng rất tiếc đã dừng lại, vào cái gì cũng ko được, vào cài đặt cũng không được luôn. thử tắt nguồn rồi bật lại nhưng nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.256924,
+         "id": "1023366",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng ss A3, mà khi sạc thì bị sụt pin. Nhưng tắt nguồn mở lên sạc vẫn bị như vậy. Chỉ có khi tắt nguồn luôn cắm sạc mới vô pin nhưng vô rất chậm. Vậy máy e bị gì ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.237595,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.219807,
+         "id": "773930",
+         "field_search": "question",
+         "question": "Làm sao để tắt luôn Apps trong win 8 mà không phải vào Task manager tắt thêm lần nữa. vì nếu như không tắt thì các App chạy ngầm và làm máy tính chạy chậm. Nhưng nếu bật nhiều app thì tắt rất tốn công. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.129345,
+         "id": "1149118",
+         "field_search": "question",
+         "question": "điện thoại samsung galaxy a7 2018 của em bị đổ dung dịch khử mùi vào, bây giờ phím âm lượng (cả tăng lẫn giảm) bị liệt không thể điều chỉnh âm lượng được, kính camera bị bám hơi nước, điện thoại về chế độ safe mode nhưng không trở về chế độ bình thường được. cho em hỏi nguyên do và cách khắc phục ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.051693,
+         "id": "1153495",
+         "field_search": "question",
+         "question": "lúc nãy em có reset toàn bộ hệ thống của điện thoại theo cách khẩn cấp là tăng âm + nguồn +màn hình chính sau đó đt bắt xác minh tài khoản mi vì em xài đt xiaomi redmi note 5a prime nhưng lại không nhớ mật khẩu nên điện thoại bị khóa không làm gì được vậy cách xử lí là như thế nào ạ ? mong được trả lời và cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.81284,
+         "id": "856261",
+         "field_search": "question",
+         "question": " CÓ CÁCH NÀO ĐỂ TĂNG GIẢM ÂM LƯỢNG TRÊN ZENFONE MÀ KO CẦN VÀO CÀI ĐẶT HAY ẤN NÚT TĂNG GIẢM ÂM LƯỢNG KO AD ZEN 2 LASER ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.76082,
+         "id": "1155841",
+         "field_search": "question",
+         "question": "em đang dùng ipad pro nhưng dạo gần đây em xạc ipad có hiển thị nhưng kh lên pin....lúc xạc ipad rất nóng...lúc tháo xạc em tắt nguồn rồi mở lên tầm 2-3p thì máy nóng trở lại ngay cả khi tắt wf và tắt ứng dụng ngần thì nó vẫn như vậy cho em hỏi a/c là giờ em phải làm tn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.652485,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.630234,
+         "id": "776701",
+         "field_search": "question",
+         "question": "cho em hỏi, mình tăng hay giảm âm lượng trên laptop mà không cần dùng chuột thì bấm ra sao ạ.???????? trên laptop asusA540L.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.343468,
+         "id": "1150724",
+         "field_search": "question",
+         "question": "cho mình hỏi một chút. Mình mới mua iphone 7p mới, từ ngày 3/2/2019. mình không biết vì sao tiếng chuông báo của mình sau mỗi ngày nó tự động chuyển sang chế độ rung, khi có người gọi đến nó chỉ rung mà thôi. Sau đó mình lại phải gạt nút bật tắt âm thanh ở bên mép trái của đt thì nó mới phát ra tiếng. trong khi đó ngày hôm trước mình không thao tác gì trên nút gạt đó cả.xin cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.19539,
+         "id": "808043",
+         "field_search": "question",
+         "question": "QTV chi mình hỏi chiếc ASUS của mình có đợt nút / gần như bị liệt không ăn mà nó tự ra, giờ thì nút Shift (bên phải) +c một lúc hoặc rất khó mới ra chữ c (in hoa), còn nút shift (bên trái) +c thì được hơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.149715,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.140812,
+         "id": "1000171",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy Tab A6. Nó bị chạy chế độ ngủ đông do ứng dụng CM Lite tự khởi động. Giờ máy em bị đơ luôn, tắt nguồn cũng không được. Em nên làm gì đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.07774,
+         "id": "804875",
+         "field_search": "question",
+         "question": " Máy iphone 5 của em tại sao dung lượng lúc tăng lúc giảm bất thương. Có cách gì để khắc phục không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.06961,
+         "id": "922562",
+         "field_search": "question",
+         "question": " Cho e hỏi tắt âm chụp hình iPhone 6 thì làm sao? E đã thử kéo nút gần nút âm lượng xuống mà chụp hình vẫn nghe tiếng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.98765,
+         "id": "1147396",
+         "field_search": "question",
+         "question": "em dùng oppo joy 1 , nút nguồn bị hư nên không thể dùng nút nguồn , ấn không được nút nguồi Vậy làm cách nào để bật nguồn khi máy đang bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.972816,
+         "id": "1165355",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi m sài con samsung s6 docomo chơi pubg di chyển khá ok đôi lúc mình di chuyển nó lag với phản ứng chậm rồi chơi pubg một sốt nút ngay sát gần góc màn hình không bấm được có phải do kính cường lực không ạ tks a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.968117,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.875584,
+         "id": "1150676",
+         "field_search": "question",
+         "question": "Mình mới mua samsung s9 plus được 1 tháng mà mình có mở tắt nguồn 2 3 lần liên tiêp nhưng khi mình tắt lần thứ 3 thì một lúc sau mình ko mở lên đc, phải cắm sạc thì nó mới lên mà lúc đó vẫn còn tận 45% pin ,,, bây giờ vẫn dùng bình thương,,, chi mình hỏi máy bị vấn đề gì vậy ạ,,, mình cảm ơn nhiều nhé!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.852573,
+         "id": "745423",
+         "field_search": "question",
+         "question": "Iphone4s của em thi thoảng cắm sạc nó sạc vẫn vào nhưng đến một lúc nào đó tự dưng không sạc nữa mà phải rút ra cắm lại mới sạc được là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.78997,
+         "id": "757431",
+         "field_search": "question",
+         "question": "AD cho em hỏi..em đang dùng Iphone 5 đọc báo thì nó báo dính virus phải diệt mà không bấm ok thì duyệt web không được nữa..nên em bấm ok..rồi thấy nó chạy ra mấy trang web gì đâu không nên em tắt..em lo quá không biết có dính virus không nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.705322,
+         "id": "761297",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ạ. iPhone 4S của em đang cài IOS9, hôm nay lúc chiều vẫn có thể chơi, gọi, nghe nhạc, log in Insta thoải mái. Nhưng đang chạy thì bỗng nhiên không thể thoát được Insta, dùng phím Home, lock màn hình thì nó tắt luôn đen sì, chừng nửa tiếng sau thì mới lên nhưng vẫn kẹt ở app Insta, dùng cả phím Home ảo, chuyển sang màn hình đa nhiệm rồi nhưng vẫn không thể thoát được, ấn giữ nguồn để khởi động lại máy không được nốt. Em phải làm như thế nào ạ? Và cho em hỏi là TGDĐ nếu có fix lỗi thì giá cả như thế nào ạ, vì em vẫn đang là học sinh cấp 3 nên chưa thể chủ động được. Em cảm ơn các QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.703735,
+         "id": "905862",
+         "field_search": "question",
+         "question": "tại sao bấm phím f2 f3 ... để giảm tăng âm lượng hay chỉnh sáng tối màn hình không được máy em loại dell ạ và sao chuột không dây của em đang sử dụng bình thường rồi tự nhiên không dùng được nữa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.66824,
+         "id": "1147092",
+         "field_search": "question",
+         "question": "Máy em dùng là hp máy ngày trước bị tắt nguồn do hết pin sau đó vẫn có thể sử dụng và hôm nay em mở máy thì vẫn xem được nhưng một lúc thì máy không thể kết nói wifi nên em thử restart khởi động lại máy nhưng lại bị lỗi preparing automatic prepair em đã thử F8, ship F8, thì có nổi lên biểu tượng \" :( \" và một dòng chữ \" ..... You can restart \" sau đó em lại mỡ máy lại mà máy tính chỉ xuất hiện màng hình đen với biểu tượng hp và dòng chữ preparing automatic prepair và không xuất hiện thêm gì. Xin hãy giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.600407,
+         "id": "775912",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.570343,
+         "id": "908714",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s , vào ứng dụng facebook bình thường , wifi tốt , nhưng khi em bấm nút Like ảnh thì nó sáng lên , sau đó em kéo xuống like ảnh khác thì ảnh ở trên đã like nó không hiện màu Xanh của nút like nữa ạ . Em đã xóa ứng dụng FB tải lại , khôi phục cài đặt gốc nhưng vẫn bị tình trạng đó ạ . Mong ad giải đáp lỗi này giúp em cách khắc phục với ạ . Xin Cám Ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.505486,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.472427,
+         "id": "1150452",
+         "field_search": "question",
+         "question": "Cho hỏi là điện thoại Xiaomi redmi note 5a của mình bị liệt nút giảm âm lượng thì có thể sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.398,
+         "id": "776070",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.265022,
+         "id": "1019740",
+         "field_search": "question",
+         "question": "Thưa add! Em mới bị mất một chiếc Oppo F1s ạ! Em có bật GPS nữa ạ! Sau khi thử nhiều cách để dò điện thoại bằng tài khoản Google thì em được biết máy của mình đang bắt một Wifi có tên là Khanhnguyen! Rồi sau đó khi dò thì em nhận được máy nữa, liệu add có thể dò vị trí số điện thoại của em hay giúp em cách nào đó được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.23955,
+         "id": "752187",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6+ IOS 8.1.2. Cho mình hỏi có cách nào mở khóa bằng Touch ID mà không phải bấm nguồn cho màn hình sáng lên không ạ. Tức là để tay vào nút home là nhận touch id mở khóa luôn chứ không phải bấm sáng màn hình rồi mới để tay vào nút home.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.22426,
+         "id": "1006138",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, cái nút home của IPad Mobell Tab 8 nó cứ tự động phát sáng liên tục, em bấm vào Youtube hay Facebook nó liền out ra liền. Cứ sáng liên tục phiền lắm ạ, cho em hỏi có cách nào để khắc phục không. Em đã cố tắt nguồn mấy lần rồi nhưng vẫn không được :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.163452,
+         "id": "787586",
+         "field_search": "question",
+         "question": "Em có con Infocus M810T, gần đây bị lỗi đơ cứng màn hình. Tắt màn hình bằng nút nguồn rồi bật lại thì bình thường. Nhưng lạ 1 cái là chỉ dùng khoảng 30 giây là lại đơ cứng. Nếu để máy nghỉ (không dùng) càng lâu thì khi sử dụng được lâu hơn. Ví dụ: Em để qua đêm đến sáng thì dùng được khoảng 5 phút. Một điều dị nữa là, nếu vào chơi game (Lego Ninja...) thì chơi bao lâu cũng không bị đơ. Em đã khôi phục cài đặt ban đầu mấy lần rồi mà vẫn bị như vậy (Chưa cài thêm ). Có bác nào giúp được em không?. Nếu phải thay màn hình thì thay ở đâu uy tín và tiết kiệm. Em ở Quảng Ninh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.1296,
+         "id": "835096",
+         "field_search": "question",
+         "question": "Iphone 3GS, đang cập nhật phiên bản IOS mới , nó tự tắt nguồn, sau đó tự động lên nguồn dĩ nhiên là phải xuất hiện hình trái táo. nhưng nó không lên, cứ lên trái táo rồi tắt đen thui hồi sau lại cứ lên tắt , lên tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.086613,
+         "id": "1007788",
+         "field_search": "question",
+         "question": "M.n cho e hỏi là máy của em là galaxy tab A , hồi trước dùng wifi ngon lành , cách đây 2 tháng tự dưng bị kiểu dùng wifi thì kết nối được có mạng, mà chậm như rùa ,khó load nổi một trang  . Youtube thì xem video luôn dừng ở giây thứ 6 , load 1 lúc ms xem tiếp được . Mà mạnh wifi thì e xem kĩ r , ko có vấn đề gì cả . 4g thì lúc có lúc không , ko hiểu nổi , toàn phải khởi động lại máy mạng mới ổn định 1 tí , xog đâu lại vào đó . Đến bâyh thì em đã quen với cái wifi chậm đấy thì tự nhiên nó lại không load được youtube , ch play , ... Mà vào fb vs xem video trên fb lại ngon ! Chơi game lúc được lúc không được , mà vào được thì 2 phút out luôn . Vậy cho e hỏi đấy là do máy hay do mạng hoặc là do 1 nguyên nhân khác ạk ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.040527,
+         "id": "1154173",
+         "field_search": "question",
+         "question": "em chào admin. ad cho em hỏi là máy em thi thoảng mới dùng, không tải phầm mềm gì nặng, chỉ dùng để lướt web thôi mà máy lag lắm ạ. máy win 10 em mới mua hồi cuối năm. máy hay bị đứng khi lên mạng, lướt k được, đơ vài giây sau đó tắt đen luôn rồi tự thoát, nó cứ vây hoài. lúc mà k bị thì nó chạy nhanh lắm, còn lúc đơ thì cứ tắt đen màn hình hoặc là đứng màn hình luôn. giờ em đem ra cài win lại hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

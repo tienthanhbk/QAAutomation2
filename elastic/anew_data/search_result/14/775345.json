@@ -1,0 +1,801 @@
+{
+   "id_query": "775345",
+   "total": 30381,
+   "total_current": 100,
+   "max_score": 99.584465,
+   "origin_question": "iPhone 6s bản quốc tế của mình thỉnh thoảng bị đơ khi vào ứng dụng, phải tắt hẳn ứng dụng rồi vào lại mới hoạt động được tiếp. Đây là lỗi gì vậy?",
+   "hits": [
+      {
+         "score": 38.089985,
+         "id": "778209",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua iPhone 6s bản 16G tại TGDĐ mới dùng được hơn 2 tuần thấy máy có hiện tượng thỉnh thoảng bị đơ. Sạc cả sáng không đầy pin mặc dù mình k hông động đến máy trong lúc sạc. Có hôm vào ứng dụng chụp ảnh thì bị tắt nguồn luôn vào báo cắm sạc dù pin còn 37%?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.768936,
+         "id": "1169440",
+         "field_search": "question",
+         "question": "Em mới mua oppo f9 dùng đc2 ngày nhưng khi vào ứng dụng hay bị đơ, và phải tắt hẳn tác vụ đó đi bật lại, cho e hỏi là máy bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.763275,
+         "id": "1152018",
+         "field_search": "question",
+         "question": "Máy của em là Samsung Galaxy FE. Mới đây em có đổi thẻ nhớ, thì khi chuyển nhạc vào và ứng dụng thì dùng bị lỗi, trong khi thẻ nhớ cũ lại không bị, em tháo ra lắp thẻ nhớ cũ vào và không sao, dùng thẻ mới thì những ứng dụng chuyển vào thẻ nhớ bị dừng, thi thoảng tắt nguồn sẽ bị tắt hết nhạc, do thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.738033,
+         "id": "764734",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi iphone 6s của mình bị đơ cảm ứng không bật tắt được phải ấn cả nút Home và nút nguồn để khởi động lại máy mấy lần rồi là sao đây hả bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.146164,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.04114,
+         "id": "776446",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 6S mới đây mới bị tình trạng vào Facebook và các trang liên quan đến mạng thì bị văng ra ngoài, em đã xoá bớt ứng dụng và khởi động lại máy rồi vẫn bị như vậy là làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.94728,
+         "id": "842868",
+         "field_search": "question",
+         "question": " Vì sao vào cydia tìm ứng dụng clean master cho ios không vào được tôi đang sử dụng iphone 5s quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.656887,
+         "id": "908987",
+         "field_search": "question",
+         "question": "Mình đang dùng ip5 mà thỉnh thoảng lại bị lỗi xem video ở tất cả các ứng dụng đều bị hiện tượng đứng hình video k chạy( kể cả ứng dụng video của ios) phải reset lại máy thì mới bình thường, cho mình hỏi lý do và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.03189,
+         "id": "1164201",
+         "field_search": "question",
+         "question": "điện thoại nokia 215 của mình không vào được ứng dụng bing,vào opera mini thì hiện lỗi không còn chỗ trống chỉ vào được ứng dụng facebook vậy là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.767344,
+         "id": "786993",
+         "field_search": "question",
+         "question": "Iphone 4s của mình bị rơi, lỗi wifi, nguồn kém, thỉnh thoảng không nhận sim. Khi cài đặt lại máy khởi động lại đến phần lựa chọn vùng quốc gia thì không vào đc hỏi cách sửa thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.110363,
+         "id": "774074",
+         "field_search": "question",
+         "question": "iPhone 4s thỉnh thoảng màn hình bị tối, cuộc gọi đến vẫn đổ chuông nhưng không hiện, phải khởi động lại máy mới được, như thế là lỗi gì ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.102041,
+         "id": "842172",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng, thế máy em có bị sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.837088,
+         "id": "1157522",
+         "field_search": "question",
+         "question": "Tôi mới mua máy galaxy m20 đc hơn tháng. Bây thỉnh thoảng bị đơ cảm ứng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.779846,
+         "id": "1155201",
+         "field_search": "question",
+         "question": "chỉ giúp mình lỗi khắc phục khi khởi động máy lên kích vào ứng dụng đã cài đặt : máy oppo f5 báo là không thể khởi động ứng dụng do k đọc được dữ liệu ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.518538,
+         "id": "1022292",
+         "field_search": "question",
+         "question": "Tgdd cho em hỏi ,sao mobiistar LAI Zumbo S khi di chuyển ứng dụng từ trong ra ngoài ,đưa vào đưa ra 1 tí thì ấn ở giữa để vào tất cả ứng dụng thì các ứng dụng k hiện ra voại .phải khởi động lại nó mới bình thường . Z nó bị lỗi j z ạ hay lỗi do NSX vậy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.254293,
+         "id": "897835",
+         "field_search": "question",
+         "question": " Cho mình hỏi iphone 6 của mình tự dưng vào facebook thỉnh thoảng nó cứ tự tắt là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.105976,
+         "id": "1164409",
+         "field_search": "question",
+         "question": "Mình dùng SamSung M20, mình đã làm theo hướng dẫn sử dụng nhyw thegioididong chỉ. Sau khi bật nhân bản ứng dụng trong Dual Messenger rồi mình reset máy vào vẫn chẳng thấy nhân đôi ứng dụng gì cả. Thao tác lặp đi lặp lại nhiều lần rồi. Vẫn thế thôi! Vẫn chẳng mọc thêm được cái ứng dụng nhân bản nào cả ?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.091154,
+         "id": "842567",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng và sử dụng lại có tiếng bình thường, thế máy em có bị vấn đề về loa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.04459,
+         "id": "904351",
+         "field_search": "question",
+         "question": " ip bị lỗi màn hình chờ k hiện giờ, phần trăm pin, nhưng khi vào ứng dụng lại hiện lên là lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.935959,
+         "id": "937429",
+         "field_search": "question",
+         "question": " sao máy tính của em vào ứng dụng facebook lại bị lỗi khi viết chữ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.721584,
+         "id": "1020554",
+         "field_search": "question",
+         "question": "máy mình bị ẩn hết tất cả ứng dụng, k có gì hiện thị trên màn hình cả. mình phải vuốt từ trên xuống để vào cài đặt rồi cài cử chỉ chuyển động màn hình tắt để mở các ứng dụg. bây giờ phải làm sao để nó hiện ứng dụng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.670994,
+         "id": "1016419",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6s plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.647972,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.54295,
+         "id": "1150288",
+         "field_search": "question",
+         "question": "Điện thoại ss j6 của em dán miếng cường lực full màn hình thì hay bị đơ màn hình, cụ thể là thỉnh thoảng sau khi gọi điện cho người khác xong thì jieenj tượng này xuất hiện và phải tắt màn hình đi mở lại thì máy lại bình thường. Cho em hỏi đây là do miếng dán hay do máy bị lỗi cảm ứng ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.48003,
+         "id": "986797",
+         "field_search": "question",
+         "question": "Ad giải đáp giúp mình với ạ. Mình sử dụng iphone 5s, khi mình sử dụng 1 ứng dụng nào đó cần phải sử dụng 3G hoặc wifi. Mình sử dụng wifi thì cứ vào ứng dụng là wifi bị mất, nhưng vào cài đặt mình vẫn thấy đang kết nối wifi. Vậy có phải kết nối wifi của mình bị hỏng không? Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.368305,
+         "id": "776663",
+         "field_search": "question",
+         "question": "Nâng cấp lên iOS 9.2 máy iPhone 5 khi đăng nhập vào itunes store để nâng cấp ứng phiên bản mới cho ứng dụng thì bị lỗi đang nhấp itune không thể đăng nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.292389,
+         "id": "883778",
+         "field_search": "question",
+         "question": "Cho mình hỏiIOS khi mình cài ứng dụng không chính thức trên AppstoreMình cần phải cấp quyền cho ứng dụng rồi mới sử dụng được, vậy khi mình cấp quyền như vậy có ảnh hưởng đên vấn đề bảo mật gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.290934,
+         "id": "1019053",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi redmi note4 sau khi cập nhật lên android 7.0 và miui8.5 máy mình bị lỗi vào wifi k tự động bắt, phải vào cài đặt đợi 1 lúc mới tìm đc wifi và chạm vào thì mới kết nối đc, thêm cái ứng dụng fb rất hay bị dừng( k bị out nhưng đơ và phải đợi 1 lúc).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.144318,
+         "id": "801940",
+         "field_search": "question",
+         "question": "BQT cho em hỏi là : tại sao em lại bị văng ứng dụng khi vào những ứng dụng như là : youtube , facebook , messenger , zalo , nói chung là những ứng dụng cần internet mới sử dụng được thì bị văng ra ạ ? Giúp em với BQT....!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.000498,
+         "id": "1018566",
+         "field_search": "question",
+         "question": "máy e mới bị vào nước , e bỏ vào gạo cho khô rồi ,nhưng khi bật lên sử dụng thì không cảm ứng được ??không biết bị lỗi gì , liệu có bị hư IC không xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.96187,
+         "id": "767030",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi iPhone 5s tại sao khi chọn kích hoạt imessge và facetime máy báo không kích hoạt được và đang chờ kích hoạt hoài vẫn không được, mình kiểm tra kết nối mag và kích hoạt lại mình đã tất bật nhiều lần vẫn như vậy . Xóa cả những ứng dụng nhắn tin miễn phí vẫn không được mà máy là bản quốc tế mọi người giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.920633,
+         "id": "773010",
+         "field_search": "question",
+         "question": "Cho mình xin hỏi tí mình mới mua iPhone 6S dùng được hơn 1 tuần, thi thoảng mình tắt màn hình nó nháy 2 lần xong mới tắt hẳn, nhưng mình tắt nguồn đi bật lại thì không việc gi.Xin hỏi lỗi đó là lỗi gì?Có nghiêm trọng không để mình đi bảo hành .Thân gửi !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.89288,
+         "id": "1155698",
+         "field_search": "question",
+         "question": "đây có phải là thiếu drive không ạ lỗi màn hình cảm ứng không hoạt động được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.851679,
+         "id": "1134901",
+         "field_search": "question",
+         "question": "Đt của tôi là đt oppo a3s mới mua từ hôm 14 mua được 2 hôm thì tự nhiên đang dùng thì bị tắt nguồn xong còn bị đơ nữa thỉnh thoảng lại bị đơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.770607,
+         "id": "1139635",
+         "field_search": "question",
+         "question": "Chào admin. Mình dùng ip6s đã nâng cấp ios12. Máy mình có hiện tượng đơ máy, vào các ứng dụng hay bị đơ hoặc sau đó bị đẩy ra ngoài thường xuyên mình phải reset lại. Và mình cũng đang bị lỗi wifi, nó hay bị tắT ở TT kiểm soát, bật nên nó lại tắt, vào setting thì bị đơ xong lại bị đẩy ra. Mong admin giải thích giùm, xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.765272,
+         "id": "884345",
+         "field_search": "question",
+         "question": "Trong ứng dụng facebook, đọc văn bản dài, mỗi khi kéo màn hình là hiện lên khung \"sao chép văn bản\". Trong khi ở ứng dụng duyệt web hay các văn bản khác phải giữ thì mới hiện khung đó. Là lỗi gì vậy ạ? E dùng HTC desire 820G+ nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.746296,
+         "id": "790814",
+         "field_search": "question",
+         "question": "Iphone 4s .lúc vào ứng dụng thì nó tự sập nguồn.em bật nút nguồn lên thì nó bảo cấp sắc lúc em cắm sạc thì nó tự lên.lên rồi vào ứng dụng lại tất nhưng em cắm sạc vào thì lại vào được ứng dụng tháo sạc ra thì lại tắt ai biết không chỉ giùm em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.730734,
+         "id": "1146617",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em là Iphone X . Xem youtube hoặc facebook lâu lâu nó cứ bị đơ ko nhấn được phải tắt màn hình xong mới nhấn được. Ko biết cái này do lỗi ứng dụng phải ko. Lại lúc trước em xem Youtube cứ nhấn chạy nhanh 10s trên youtube nhanh. Ko bit là do lỗi ứng dụng ko mong BQT hỗ trợ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.72822,
+         "id": "1020703",
+         "field_search": "question",
+         "question": "laptop em đang dung có tình trạng tắt đột ngột, nhiều lúc em mới mở máy lên chưa mở ứng dụng là nó lại tắt roogi, máy bị vậy là bị lỗi gì vậy ạ, rồi ra thế giới di động có bảo hành k. e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.656776,
+         "id": "811474",
+         "field_search": "question",
+         "question": " Đây là bản quốc tế hay lock đây là bản quốc tế hay lock ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.553919,
+         "id": "827639",
+         "field_search": "question",
+         "question": "Mình đang dùng Asus zenfone max nhưng máy bị đơ cảm ứng không vào được và cũng không tắt máy khởi động lại được?vậy cho mình hỏi cách nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.42377,
+         "id": "958873",
+         "field_search": "question",
+         "question": " Thỉnh thoảng máy iphone 7 bị lỗi loa ,mất tiếng, không nghe được, phải tắt nguồn đi mới dùng được. lý do khắc phục ntn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.374878,
+         "id": "856969",
+         "field_search": "question",
+         "question": "Iphone của em. Sao cứ từ 30 giây đến 1 phút thì lại bị đơ, không sử dụng được màn hình cảm ứng, trong khi các nút cứng vẫn sử dụng được. E đã khởi động lại nhưng vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.367235,
+         "id": "1140628",
+         "field_search": "question",
+         "question": "Điện thoại oppo f1s  sao em vào phím vuông bên trái để tắt ứng dụng chạy nền thì tắt xong bấm vào thì nó lại hiện mấy cái ứng dụng nền đã tắtOppo f1s bị vậy trong khi oppo f5 nó tắt luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.36079,
+         "id": "746971",
+         "field_search": "question",
+         "question": "Mình đang dùng máy iphone 6s này, thế giới di động kiểm tra giúp mình máy là bản quốc tế hay là bản lock với ạ. Gửi giúp mình trả lời vào email bichphuong2392@gmail.com cảm ơn thế giới di động. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.342602,
+         "id": "588145",
+         "field_search": "question",
+         "question": "Các bước thực hiện như sau:: Tiếp theo bạn chọn vào .: Nhập mật khẩu để khóa ứng dụng.: Một danh sách các ứng dụng hiện ra để bạn có thể khóa, ví dụ ở đây mình sẽ khóa ứng dụng App Store để không cho người được mượn cài đặt thêm ứng dụng mới và không cho phép gỡ bỏ ứng dụng thì mình sẽ chọn như hình.Nếu bạn muốn gỡ bỏ việc khóa ứng dụng thì bạn cũng thực hiện lại các bước tương tự và kích hoạt lại các ứng dụng mà bạn đã khóa.Chúc các bạn thành công!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.32097,
+         "id": "1023895",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6s plus hiện tại mình mới cập nhật lên ios 11 nhưng do gặp nhiều lỗi,máy thỉnh thoảng giật lag,thoát ứnng dụng đột ngộtVậy mình có thể up xuống bản ios 10.3.3 được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.29991,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.25487,
+         "id": "1002346",
+         "field_search": "question",
+         "question": "Cho mình hỏi là hiện tại mình đang dùng htc e9 dual sim nhưng thỉnh thoảng mình vào zing mp3 nghe nhạc thì máy lại bị đơ lại vào đen xì màn hình xog phải reset lại máy, liệu có thể khắc phục đc k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.089437,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.081442,
+         "id": "997193",
+         "field_search": "question",
+         "question": "Chào TGDD mình sài iphone 7 plus mua mới chính hãng sài tầm tháng. Mình cũng hok tải ứng dụng gì nhiều cả. Nhưng thời gian gần đây khi mở máy hoặc mở 3G và mở ứng dụng nào đó thì máy bị vô hiệu hóa. chỉ còn Assistive touch thui. nhưng khi khởi động lại thì máy hoạt động lại bình thường. Nhờ TGDD hỗ trợ giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.02641,
+         "id": "824373",
+         "field_search": "question",
+         "question": "Máy tính bảng Masstel tab 720i hệ điều hành Android khi cài ứng dụng có đuôi APK vào bảo mật kích hoạt nguồn không xác định rồi nhưng cài ứng dụng không được ,hướng dẫn cài ứng dụng đuôi APK?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.971838,
+         "id": "793887",
+         "field_search": "question",
+         "question": " Em dùng iphone 5 bản quốc tế. Khi kích hoạt FaceTime cứ bị hiện lên như này là sao ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.938139,
+         "id": "1150374",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có con pocophone F1 mà thỉnh thoảng nó bị out ứng dựng vậy lỗi này là do máy mặc định bị thế hay do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.914291,
+         "id": "907438",
+         "field_search": "question",
+         "question": "Tôi mua máy Lenovo Vibe P1 cách đây 7 tháng, trước đây máy vào Facebook và Phát video trực tiếp bình thường, nhưng cách đây nữa tháng thì khi tôi phát video trực tiếp trên Facebook thì sau 3 giây đếm ngược xong là Camera bị treo, lúc đầu tôi thử Cập nhật phiên bản Facebook về nhưng vẫn bị treo, tôi gỡ Ứng dụng ra và cài lại vẫn bị như vậy, tôi tiến hành phục hồi cài đặt gốc nhưng vẫn không phát được. Cuối cùng tôi đã Factory Reset lại máy nhưng kết quả vẫn như không!Tôi đăng câu hỏi này kính mong QTV hổ trợ phục hồi cho tôi. (*) Khi vào phát trực tiếp video trên Ứng dụng Bigo live thì máy hoạt động bình thường ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.83358,
+         "id": "997710",
+         "field_search": "question",
+         "question": "Máy mình bị báo lỗi \" không may là quy trình bộ nhớ phương tiện đã dừng lại \". Cửa hàng với ứng dụng chụp ảnh, video đều không vào đc. Mình khôi phục cài đặt gốc máy vẫn báo lỗi. Phải làm ntn để máy hoạt động bt đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.792614,
+         "id": "832120",
+         "field_search": "question",
+         "question": "sao iphone 4 vào tất cả ứng dụng về camera sao nó hay lag vậy em có tắt hết ứng dụng chạy ngầm rồi mà vẫn lag giúp em về?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.743612,
+         "id": "1008507",
+         "field_search": "question",
+         "question": "Ad ơi em bị lỗi lớp phủ màn hình gì ấy ạ, vào ứng dụng nó bảo cấp quyền nhưng vướng vào lớp phủ màn hình nên chẳng cấp quyền đc nên đâm ra không vào ứng dụng được. Em bật rồi tắt liên tục nhưng vào nó vẫn báo lỗi, mong ad sớm hướng dẫn cách em khắc phục với ạ, Chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.701477,
+         "id": "826336",
+         "field_search": "question",
+         "question": " Cho mình hỏi, bản iPhone 6s plus bên mình bán là bản lock hay quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.689268,
+         "id": "764738",
+         "field_search": "question",
+         "question": " Imei 013195002679432 chơi ad đây là bản lock hay bản quốc tế vậy ad đây máy iPhone 4 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.685076,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.642775,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.631802,
+         "id": "1009779",
+         "field_search": "question",
+         "question": "Em đã vào Cài đặt Xóa dữ liệu rồi Khởi động lại nhưng khi vào Ứng dụng để thanh toán thì nó vẫn hiện như vậy em không hiểu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.542055,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.516607,
+         "id": "776460",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone nhưng mới đây vào zalo và face hoặc game dùng bằng mạng thì bị đẩy ra ngoài,em đã xoá bớt ứng dụng và khởi động lại máy rồi mà vẫn bị như vậy máy em bị làm sao, có ảnh hưởng nhiều không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.466522,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.416069,
+         "id": "787944",
+         "field_search": "question",
+         "question": "Điện thoại của mình tự dưng bị mất ứng dụng camera,mình đã thử tìm lại trong cài đặt và tải ứng dụng camera khác cũng k được,nó nói là máy ảnh hiện k hoạt động. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.236917,
+         "id": "1153303",
+         "field_search": "question",
+         "question": "Iphone 6 thỉnh thoảng mất âm thanh phải khởi động lại mới được e xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.19389,
+         "id": "986043",
+         "field_search": "question",
+         "question": "phần camera của mình bị đen bất ngờ. nhưng bên ứng dụng facetiem thì lại hoạt động bth.. có là lổi gì ạ và làm thế nào để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.189442,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.187325,
+         "id": "1152535",
+         "field_search": "question",
+         "question": "Em mới mua Nokia 5.1 plus nhưng về dùng thì lại thường bị đơ cảm ứng. Mà khi tắt màn hình rồi mở lại là dùng bình thường. Cho em hỏi đây là hiện tượng gì vậy? Em mua chưa đầy 30 ngày thì trong trường hợp này em có được đổi lại máy mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.122976,
+         "id": "1157455",
+         "field_search": "question",
+         "question": "IPhone 6s Đang sử dụng thì tự nhiên tắt nguồn và khởi động lại thì không lên được. Xin hỏi bị như vậy là nguyên nhân gì và khắc phục lỗi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.11017,
+         "id": "781701",
+         "field_search": "question",
+         "question": " Tôi vừa mua iphone 6s tải ứng dụng camera 360 về sao lại có chữ trung quốc. giao diện chữ trung quốc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.995611,
+         "id": "881610",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5s của thế giới di động bán có phải là phiên bản quốc tế không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.892023,
+         "id": "840571",
+         "field_search": "question",
+         "question": " Em dùng iphone 4s bị lỗi là những ứng dụng tải rồi đã xoá đi giờ muốn tải lại không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.889454,
+         "id": "938453",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.873875,
+         "id": "905871",
+         "field_search": "question",
+         "question": " Máy iphone của em vào ứng dụng thì bị bắt nhập mật khẩu thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.870275,
+         "id": "1155728",
+         "field_search": "question",
+         "question": "2 máy của em có chung tài khoản fb mới đây em nhắn tin qua lại trên massenger lúc hai máy đều hoạt động lên mạng 3g mạnh cùng một lúc khi người khác gửi hình trên messenger thì hình ảnh 2 máy nhận dc đều bị ảnh hưởng, một máy thì hình ảnh bị bể nét, máy còn lại bị bể nét nhiều hơn mặc dù hình ảnh của người gửi cho mình không bị mờ. Ko biết có bị lỗi tài khoản hay ứng dụng gì ko mà gỡ ứng dụng rồi cài lại vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.819113,
+         "id": "763622",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình lắp sim thỉnh thoảng mới nhận. Còn không cứ báo mạng không khả dụng. Về nhà mình thì lại có. Ra ngoài đường. Quanh xã cũng không có mạng khả dụng là sao ạ. Jup mình với iPhone 4S ạ. Mình mua cũ nên không hỏi lock hay quốc tế. Nhưng sim nào cũng nhận. Thanks Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.787222,
+         "id": "1160662",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt oppoA7 . Khi đang chơi game thoát ứng dụng ra  cái vào lại nó khởi động game lại là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.779715,
+         "id": "927583",
+         "field_search": "question",
+         "question": "Máy ip 6 thỉnh thoảng kiểu có tin rac màn hình. Có 2 kiểu chọn là chấp nhận và hủy. Thế mà m bấm vào 1 in 2 nó ko thoát luôn..kiểu nhu bi do y... phải tắt nguồn, khởi động lại mới mất tin rác đấy và HĐ bt.vậy có lỗi gì vậy ad?!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.740229,
+         "id": "1000171",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy Tab A6. Nó bị chạy chế độ ngủ đông do ứng dụng CM Lite tự khởi động. Giờ máy em bị đơ luôn, tắt nguồn cũng không được. Em nên làm gì đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.70886,
+         "id": "938461",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.705091,
+         "id": "758356",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, mình mới mua Sony C5 ultra được 1 tuần, trong quá trình sử dụng mình cảm thấy cảm ứng của máy không nhạy lắm đôi khi phải chạm mạnh thì mới được và đôi khi màn hình bị đơ phải vuốt hay chạm vài lần. Như vậy có phải là máy có vấn đề về lỗi kỹ thuật không hay đó là lỗi chung của dòng máy này ạ. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.632544,
+         "id": "1157246",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏi điện thoại iphone 7 plus của e khi sử dụng nhiều hay bị đơ cảm ứng nhấn k vô r nút trợ năng trên màn hình cũng đơ đứng theo. Hay bị liệt cảm ứng phía trái màn hình là bị gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.595139,
+         "id": "1161314",
+         "field_search": "question",
+         "question": "Cho hỏi là e muốn ẩn ứng dụng trên điện thoại j5 prime nhưng khi muốn mở lại ứng dụng thì phải vào cài đặt bỏ ẩn ứng dụng, sau khi sử dụng xong thì phải vào cài đặt và ẩn lại.Nên có cách nào để em mở ứng dụng mà em đã ẩn một cách nhanh chóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.562561,
+         "id": "744471",
+         "field_search": "question",
+         "question": "IP4s của mình bị lỗi không cài đặt được ứng dụng vào lúc này.Mình kết nối với máy tính qua itunes nhưng cũng không đồng bộ được ứng dụng vào.Các bạn giúp mình được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.55538,
+         "id": "1016651",
+         "field_search": "question",
+         "question": "  Lỗi này là sao hả ad, đây là oppo a37 ạEm kích hoạt quyền truy cập cho ứng dụng này mà k được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.552315,
+         "id": "999311",
+         "field_search": "question",
+         "question": "Mình muốn treo 1 ứng dụng hoặc 1 game trên oppo neo9 khi tắt màn hình ứng dụng hoặc game đó k bị đóng mở lên nó vẫn hoạt động thì nên làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.481445,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.461185,
+         "id": "799916",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 6 16GB của e mới tải có 3 ứng dụng à sao nó cứ báo dung lượng sắp đầy , rồi vào ứng dụng không được cứ bị dăng ra ngoài , rồi bị đứng máy nữa , có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.401627,
+         "id": "1020743",
+         "field_search": "question",
+         "question": "cho mình hỏi sao samsung j2 prime của mình ở đây ghi ứng dụng 5,58gb nhưng mình vào xem rồi cộng dung lượng lại chỉ gần 2gb ( một số ứng dụng mình đã chuyển sang thẻ nhớ). Kiểm tra chỗ bảo trì thiết bị máy chỉ còn dư 500mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.37968,
+         "id": "767084",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.350452,
+         "id": "1016416",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.303402,
+         "id": "1136009",
+         "field_search": "question",
+         "question": "Em sử dụng oppo f5 và hôm nay sạc pin thì thấy pin chậm vào, có khi vừa sạc vừa xài thì pin tụt hẳn, vào trình quản lí điện thoại kiểm tra pin thì có khi báo lỗi dòng điện của cáp sạc có khi không để lỗi. Đây là lỗi gì và cách khắc phục sao à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.292198,
+         "id": "1148268",
+         "field_search": "question",
+         "question": " cho mk hỏi, khi vào đa nhiệm của máy Oppo A3s ứng dụng có hình ổ khoá như vậy có nghĩa là gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.290442,
+         "id": "1013585",
+         "field_search": "question",
+         "question": "Ai cho tôi biết lỗi này trên Windows XP với : Khi tôi cài một ứng dụng lên máy thì chạy được nhưng khi tắt máy và khởi động lại thì không còn thấy ứng dụng nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.206364,
+         "id": "896937",
+         "field_search": "question",
+         "question": " em mới cập nhật iphone 5s của em lên ios 10.0.2 máy vào ứng dụng chậm rồi ấn nút home mới mở được máy.giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.204725,
+         "id": "863627",
+         "field_search": "question",
+         "question": " Ad ktra giúp mình máy iphone 6s imei 353266076203215 có phải phên bản quốc tế không và hạn bảo hành đến khi nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

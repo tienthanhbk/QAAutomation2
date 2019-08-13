@@ -1,0 +1,801 @@
+{
+   "id_query": "1020742",
+   "total": 31403,
+   "total_current": 100,
+   "max_score": 95.06631,
+   "origin_question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?",
+   "hits": [
+      {
+         "score": 78.48892,
+         "id": "1020748",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?hm, ý e là, khi mở lại máy thì e ko gọi đc, mí bn gọi cho e cx ko nghe đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.954235,
+         "id": "1022209",
+         "field_search": "question",
+         "question": "E đag sd samsung galaxy tab3, có lần e lỡ nhấn vào phần khôi phục cài đặt gốc nên h e ko biết phải lm sao để khôi phục s đt của e vs các bn, e cx ko thể gọi hay nhận đc điện thoại của các bn khác, giống như là máy của e bị xóa mất s đt rồi, lm sao bây h ạ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.13138,
+         "id": "776869",
+         "field_search": "question",
+         "question": "  e lỡ cài ubuntu xog nó gộp hết ổ đĩa vào h làm sao để cài lại win ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.02664,
+         "id": "1161548",
+         "field_search": "question",
+         "question": "E đang dùng máy Nokia 3.1 máy e có hiện tượng pin đang ở 60% mà bị sập nguồn khởi động lại thì còn 1%. Bây h phải lm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.78798,
+         "id": "778614",
+         "field_search": "question",
+         "question": "Cho e hỏi em lỡ bấm xoá hình ở trong camera 360 mà bây h em đang xài đt iPhone 6 bây giờ làm sao để khôi phục lại hình em mới xoá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.636066,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.039062,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.992554,
+         "id": "1143771",
+         "field_search": "question",
+         "question": "E sử dụng samsung a5 2016 , trươc đây e sử dụng 4g vẫn hiện lên chữ h+ và sài rất tốt nhưng trở về sau chữ 4g vẫn còn nhưng lại mất chữ h+ và ko sử dụng đc mạng nữa .thế chỉ e cách sửa lại ạ :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.756931,
+         "id": "875264",
+         "field_search": "question",
+         "question": "máy em đang sài là win 8 có cài sẵn phần reader nên có thể đọc pdf, nhưng em đã lỡ cài đặt foxit reader sau đó em gỡ, bây h em không mở pdf bằng reader được, em phải làm sao ạ? em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.703236,
+         "id": "998496",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng oppo f1w em lỡ xóa mất ch play bây h em muốn cài lại thì làm thế nào ạ xin hướng dẫn chi tiết cho em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.217358,
+         "id": "978161",
+         "field_search": "question",
+         "question": "Hiện tại e đag xài ip4, nhưng lỡ xóa mất facebook mà tải lại thì nó đòi ios 8.0 mới tải đc. V bây h phải làm s mới tải lại đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.06791,
+         "id": "1129708",
+         "field_search": "question",
+         "question": " Đt em bị vào nước h vào lại thì âm thanh bị nhỏ hơn ban đầu trong khi em mở max âm lượng r h bị z thì phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.003445,
+         "id": "1135030",
+         "field_search": "question",
+         "question": "Cho e hỏi là e lỡ nghịch cho mấy tệp anhr vào chế độ an toàn bây h tìm lại mãi k thấy đâu e có xem hướng dẫn tìm lại bảo là vài trình quanr lý tệp nhuwg máy oppo a71 này e k tìm thấy trình qly ấy ở đâu bayh e lm nt đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.958282,
+         "id": "1146898",
+         "field_search": "question",
+         "question": "Điẹn thoại e của ng thân bên mĩ cho bây h e sử dụng thì cìa lại chương trình và ilound thì máy coa như lúc mới ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.353397,
+         "id": "1010931",
+         "field_search": "question",
+         "question": "ip5s quốc tế đang sử dụng thì báo đang tìm kiếm sim, sau đó e cài đặt lại mạng và restore thì kích hoạt nó báo máy chủ đang bận hay thữ kich hoạt bằng itunes , thữ lại sau , ad cho e hỏi là máy sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.132973,
+         "id": "1144727",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ em muốn đem laptop của em ra tiệm cài đặt lại như lúc mới mua nhưng em đã hết bảo hành, vậy thì e tôn bn tiền để cài lại ạ. Sđt lúc e mua laptop là 0909261508 mà e bị mất số lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.106577,
+         "id": "1009009",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi e sử dung oppo f1 trong phần trung tâm bảo mật lúc quét nhanh máy e lỡ tay nhấn vào phần mở chế độ dữ liệu di động sau 2 giây tắt máy sẽ bị tắt dữ liệu di động bây giờ e muốn xoá cái chế độ này thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.991747,
+         "id": "995746",
+         "field_search": "question",
+         "question": "Cho e hỏi e mún trả lại máy samsung s8 mới mua đc 3 hôm ạ h e trả lại thì bị mất j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.804014,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.716862,
+         "id": "1007392",
+         "field_search": "question",
+         "question": "E xài oppo f1s, lúc bật 3g thì hiện h+ r xài một lúc thì lại không có kết nối nên e tắt đi mở lại thì không hiện h+ nữa, phải tắt điện thoại một lúc sau mở lại 3g thì mới hiện h+. Cho e hỏi có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.63572,
+         "id": "910473",
+         "field_search": "question",
+         "question": "em lỡ xoá hết ứng dụng và cài đặt, cài lại win thì e có nhận được bảo hành từ tgdd nữa ko ạ. TK tgdd trên máy đã bị mất (laptop)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.594316,
+         "id": "995328",
+         "field_search": "question",
+         "question": "Bây giờ e lỡ xoá mất messenger trên iphone 4 thì làm thế nào để cài lại ạ? E lên app vn để tải mà nó yêu cầu jailbreak, e lại k có sử dụng laptop nữa ạ? Anh/chị chỉ dẫn cho e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.569992,
+         "id": "1163359",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang dùng a7 2018 , e đổi sim nhung số dt trc h e lưu trong sim, h làm sao e chuyển danh bạ từ sim qua máy ạ ? E tìm hoài nhưng ko có chổ nào chuyển từ sim qua máy trên dt hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.537321,
+         "id": "1023870",
+         "field_search": "question",
+         "question": "Em vừa đặt cái sim mà h em muốn coi lại thông tin đó thì phãi làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.028954,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.99707,
+         "id": "1147751",
+         "field_search": "question",
+         "question": "máy tính e tự nhiên hiện lên đường kẻ ngang trên màn hình, bây h phải lm sao ạ. Máy e là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.871607,
+         "id": "1149119",
+         "field_search": "question",
+         "question": "anh ơi e đang dùng lumia 535 dual win 8,1 . Sau khi khôi phục cài đặt gốc thì máy em ko đăng nhập được vào microsft mà nó cứ thông báo: \" ko thể kết nối , bạn thử lại sau \" , h e phải làm sao đây ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.700108,
+         "id": "882728",
+         "field_search": "question",
+         "question": "Lap e đang sử dụng hệ điều hành windows 8 nhưng lại không có bản quỳên. Xin hỏi e muốn cài đặt lại hệ điều hành thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.655506,
+         "id": "1140275",
+         "field_search": "question",
+         "question": "Hiện tại em đang sử dụng điện thoại oppo a3s .e có cài đặt các cử chỉ khi màn hình tắt như nhấn đúp để mở máy , vẽ chữ o để chụp ảnh ... Nhưng cảm ứng vô cùng chập chờm lúc được lúc lại không cho em hỏi tại sao lại như vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.618422,
+         "id": "834246",
+         "field_search": "question",
+         "question": " Em mua lại máy cũ hiệu iphone. mk icloud trước e k biết. h e lm thế nào đẻ thay thế mã icloud là của e. e xin câu tl ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.51563,
+         "id": "1164290",
+         "field_search": "question",
+         "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.492056,
+         "id": "944538",
+         "field_search": "question",
+         "question": "Em bị mất mk zalo. Sđt e dùng để đăng kí zalo bây giờ e ko còn sử dụng nữa . e muốn hỏi làm thế nào để e lấy lại zalo cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.389877,
+         "id": "1133931",
+         "field_search": "question",
+         "question": "Galaxy Tab E bật mạng k hiện H tắt đi khởi động lại cũng k được ? Sim mua thế giới di động 1 năm vẫn còn mạng mà tại sao k hiện H",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.234396,
+         "id": "1158615",
+         "field_search": "question",
+         "question": "shop oi bây h mình đang sd máy Galasy S8+ nhưng k biết máy bây h nó bị cấn máy nên vào chức nãng hổ trợ người mù , bây h mình muốn quay trở lại như bình thường thì mình phải làm ntn z bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.231646,
+         "id": "999886",
+         "field_search": "question",
+         "question": " h e đang cài app này mà muốn đặt khoá màn hình như ảnh thì phải làm sao ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.205204,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.054424,
+         "id": "995830",
+         "field_search": "question",
+         "question": "em có mua lap tại đây và h e bị mất window bản quyền khi đem ra TGDD lại cài cho e window crack!! hỏi làm sao để e có lại window bản quyền như lúc mới mua máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.848295,
+         "id": "1146865",
+         "field_search": "question",
+         "question": "Tại sao e nhấn vào nút chạy video để chơi confetti trên fb thì lại xuất hiện lỗi nội dung này ko hiển thị là sao ạ, e đang sử dụng 4g để xem ạ. Ai giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.777786,
+         "id": "938635",
+         "field_search": "question",
+         "question": "cho e hỏi h máy e win 8.1 bản quyền bị lỗi e cài lên win 10 cũng nỗi h e muốn cài lại win 8.1 ở thế giới di động đk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.721453,
+         "id": "1158834",
+         "field_search": "question",
+         "question": "em đang có cái laptop mà nó rất lag nên cho e hỏi. Bây h em mún nâng cấp ram và ssd. Bây h e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.711061,
+         "id": "1133712",
+         "field_search": "question",
+         "question": "mk mua máy có win bản quyền ở tgdđ bây h muốn cài lại win thì cửa hàng có hỗ tợ cài lại k ạ. phí bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.710094,
+         "id": "935563",
+         "field_search": "question",
+         "question": "Ad ơi. Vì mã apple gửi mã xác nhận cho e nó lâu rồi. Nhưng lại nằm trong thư mục spam. Nên e k biết.. bây giờ e mới thấy thì kích hoạt vào thì đường link đã hết hạn. Bây h em phải làm gì để lấy lại mã xác nhận vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.563204,
+         "id": "993766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.522669,
+         "id": "1166631",
+         "field_search": "question",
+         "question": "Bây h em quên mật khẩu máy realme c1 thì lấy lại bằng cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.519505,
+         "id": "881909",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùng iphone nhưng bây h e múôn chuyển sang dùng lenovo thì lấy lại đầy đủ danh bạ từ iphone sang lenovo thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.455967,
+         "id": "1163271",
+         "field_search": "question",
+         "question": "Cho e hỏi em lỡ làm kẹt tăm vào khe gẩy sim h phải làm sao ạ, nó kẹt hẳn vào trong luôn ạ. E có thử lấy kim chọc vô và giờ kẹt luôn kim trong đó, có cách nào lấy ra ko ạ. HUAWEI Y9 2019",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.408785,
+         "id": "1166172",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao chiếc iphone xr của khi e đặ lại cài đặt vào phần hình nền lại ko có live photo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.322477,
+         "id": "896973",
+         "field_search": "question",
+         "question": "Tôi quên mật khâu icloud và tôi ko iết sao mà nó cứ nhắc nhở cài đặt cứ maya giây lại hoeenj lên h tôi phải lm sao để ko hiện thị cài đặt đo nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.27342,
+         "id": "796956",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 4 nếu cài đặt lại bản gốc có bị mất Jailbreak không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.21665,
+         "id": "1161314",
+         "field_search": "question",
+         "question": "Cho hỏi là e muốn ẩn ứng dụng trên điện thoại j5 prime nhưng khi muốn mở lại ứng dụng thì phải vào cài đặt bỏ ẩn ứng dụng, sau khi sử dụng xong thì phải vào cài đặt và ẩn lại.Nên có cách nào để em mở ứng dụng mà em đã ẩn một cách nhanh chóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.205275,
+         "id": "855419",
+         "field_search": "question",
+         "question": " điện thoại hư phải chạy lại chương trình mất hết rồi h mình muốn láy lại zalo h phải làm sao ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.118622,
+         "id": "1154366",
+         "field_search": "question",
+         "question": "E có một phần mềm trên máy tinh bây h e mún lock nó lại có mật khẩu để không ai truy cập vô đc. AD chỉ cho e nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.048103,
+         "id": "1160228",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đag sài máy samsung j3 2016. E lỡ xóa mất CH Play thì e làm sao tải lại đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.993202,
+         "id": "922852",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn cài win lại mất khoảng bao lâu ak. hiện tại máy e đang sử dụng cụ hiện màng hình đen .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.940117,
+         "id": "999650",
+         "field_search": "question",
+         "question": "Chào ad em mới mua samsung galaxy j5 prime lúc đầu vào camera thì giao diện có đầy đủ các cài đặt nằm phía trên nhưng khi mở lại camera thì mất hết cài đặt hay các chế độ chụp. E đã khôi phục cài đặt gốc sau đó vào lần nữa thì bình thường và vào những lần sau thì lại bị lỗi như thế ac nào giúp e với ạ, có cách nào khắc phục khác không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.889002,
+         "id": "1144310",
+         "field_search": "question",
+         "question": "A oi cho e hỏi e chay lại chuong trinh cho samsung j7 prim mà e k nhớ gmail khi đăng nhập mấy h e phải lm sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.837524,
+         "id": "1005987",
+         "field_search": "question",
+         "question": "Ad ơi em dùng máy mobiitar zumbos2 lau máy lỡ bị nước nhỏ vào lo h nó bé tí lm thế nào bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.807276,
+         "id": "1158648",
+         "field_search": "question",
+         "question": "Tgđd cho e hỏi. Máy e mua tgđd là máy oppo a3s bản 32gb. Trước đó phần nhân bản ứng dụng nhân bản dc zalo. Nhưng h tự dưng lại k dc. E hỏi tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.800053,
+         "id": "1007973",
+         "field_search": "question",
+         "question": "E sử dụng j5 prime khi vào camera thì mất thanh công cụ r ạ. Cho e hỏi là sửa lại làm sao ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.717196,
+         "id": "819059",
+         "field_search": "question",
+         "question": "Cho hỏi là ip5 của e đang xài bình thường bị mất nút home ảo mà vô cài đặt mở lại thì n vẫn lên như bình thường ạ rồi n lại tự tắt nữa cho e hỏi nguyên nhân là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.679472,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.62216,
+         "id": "788229",
+         "field_search": "question",
+         "question": " cho em hỏi laptop của e lâu ko sử dụng nên quên mất password mở máy. giờ em phải làm sao để reset lại password ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.587866,
+         "id": "1006755",
+         "field_search": "question",
+         "question": "điện thoại e bị khóa tài khoản google rồi h mở lại phải làm sao ak. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.561804,
+         "id": "924849",
+         "field_search": "question",
+         "question": "Cho e hỏi ,hôm 2-9 e có mua cái máy dell inspiron 5559 nhưng đến h nó bị lỗi win ,vậy e xuống cài lại win có mất phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.503077,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.47778,
+         "id": "998440",
+         "field_search": "question",
+         "question": "Ad ơi,em đang xài galaxy tab A SM-P355 và lắp sim unitel 4g . Ở ngoài trời thì sóng luôn 4G Và  2 đến 3 cột sóng,nhưng khi vào trong nhà thì nó chỉ hiện H+,H,3G nhiều lúc nó còn E nữa....ad cho em hỏi có ứng dụng nào để máy em luôn chạy 4g và tăng sóng điện hoại lên không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.460808,
+         "id": "993015",
+         "field_search": "question",
+         "question": "E mua f1s17 vào 304 dùng tới h hơn 1 thag,  h e muốn trả lại lấy tiền mặt đc k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.433653,
+         "id": "1000287",
+         "field_search": "question",
+         "question": " Chào ac ạ e ms mua oppo neo7 mà cài mkhau 1tg h mún gỡ mk hoặc đổi thì lại ko dc bị như này h phải làm tn ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.237494,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.008566,
+         "id": "1160254",
+         "field_search": "question",
+         "question": "Mình cài đặt gốc lại Điện thoại sony XA, vào sử dụng lại từ đầu phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.002232,
+         "id": "949562",
+         "field_search": "question",
+         "question": " Ad cho e hỏi, máy em đang sử dụng win 10 bản quyền 1 năm, giờ em muốn cài lại win có phải mất phí không ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.969086,
+         "id": "905370",
+         "field_search": "question",
+         "question": "Laptop của e khi cập nhật lại Windows 10 thì wifi đang sử dụng thì tự động ngắt phải khởi động lại máy mới vào wifi lại được là sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.965893,
+         "id": "1005975",
+         "field_search": "question",
+         "question": "AD Cho e hỏi cách cập nhật các phần mềm và nâng cấp phiên bản hệ điều hành của máy samsung galaxy c9 pro vs ạ, với lại cho e hỏi e đặt tên sdt trong danh bạ sao nó lại ghi là đã vượt quá số ký tự tối đa cho tên danh bạ trong thẻ SIM là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.959332,
+         "id": "1148529",
+         "field_search": "question",
+         "question": "Ad cho hỏi: e đang dùng iphone 6plus, e đã nâng cấp lên ios 12 nhưng máy chạy quá chậm, bây giờ e muốn cài đặt lại ios 10.3.3 thì phải làm sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.936161,
+         "id": "1011878",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo f1 ms chạy lại phần mềm mất hết dữ liệu r đag nhập vào tài khoản Google mà ko nhớ mật khẩu thì lm sao ạ. Thak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.928658,
+         "id": "1167975",
+         "field_search": "question",
+         "question": "Shop ơi! E lỡ xoá hết phần mềm Word, Excel,.. Trong laptop mà cửa hàng đã cài cho e rồi. Không biết cửa hàng có thể cài lại giúp e không. Nếu làm lại được thì có tính phí không ạ, tính phí thì phí bảo nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.887363,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.811062,
+         "id": "1142156",
+         "field_search": "question",
+         "question": "em muốn cài đặt định vị để biết vị trí khi lỡ bị mất cắp đt của mình . em vào cài đặt làm đúng các bước mà đến chỗ nhập mật khẩu nó cứ thông báo id hoặc mạt khẩu khong hợp lệ . trong khi em thử lại rất nhiều làn và thử mở máy tính đăng nhập mật khẩu đó thì vãn vào đc gmail như thường . giúp e vs ạ . máy samsung j6 mới mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.787909,
+         "id": "829604",
+         "field_search": "question",
+         "question": " add ơi cho e hỏi.e có cài giả lập android . nhưng khi vào zalo thì lại có lỗi không kết lỗi thì lm sao ạ.giúp e với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.783466,
+         "id": "830730",
+         "field_search": "question",
+         "question": " Em đang sử dụng  iphone 4 16gb mà máy em yếu quá em thường xuyên sao lưu cài đặt lại mà vẫn yếu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.755697,
+         "id": "1017413",
+         "field_search": "question",
+         "question": "Em đang sử dụng dt pantech V 955,giờ em muốn khôi phục lại cài đặt gốc,mà vào nó văng ra màng hình chính, không vào cài đặt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.754498,
+         "id": "796267",
+         "field_search": "question",
+         "question": " Khi mình reset lại con iphone thì làm mất hết phần trong cài đặt giờ làm thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.71616,
+         "id": "1022078",
+         "field_search": "question",
+         "question": "Sau thời gian sử dụng sản phẩm Galaxy J3 2016 dạo gần đây máy hay báo sim thẻ đã tháo và yêu cầu khởi động lại... trong khi sim thẻ nhớ vẫn đang ở trong máy... với hiện tượng khởi động máy lại liên tục như vậy e có bị ảnh hưởng máy hư hỏng gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.608631,
+         "id": "1162484",
+         "field_search": "question",
+         "question": "Máy tính của em h kh dô được mạng? Thì làm sao ạ? Đem ra tịm cài lại có tốn tiền không v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.56007,
+         "id": "802692",
+         "field_search": "question",
+         "question": "khi sử dụng camera laptop gọi video qua face thì mở được lúc đầu khoảng phút là bị tắt.cho em hỏi cách để mở lại hay cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.520435,
+         "id": "897075",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus, wifi đang sử dụng thì tự động mất kêt nối, khi khởi động lại máy thì bắt wifi bình thường ạ. mỗi lần như vậy là em restart lại máy. xin giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.409239,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.323523,
+         "id": "1014746",
+         "field_search": "question",
+         "question": "E muốn hỏi chút là e mới mua ĐT đã hai tháng h muốn đổi máy khác thì mất bao nhiêu phần trăm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.227186,
+         "id": "846658",
+         "field_search": "question",
+         "question": "e dùng iphone 5 đã Jailbreak và cài Cydia . con e nó nghịch máy xóa cài đặt và h bị treo máy . h phải làm thế nào để khắc phục được lỗi này ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.216246,
+         "id": "1006290",
+         "field_search": "question",
+         "question": "E đang dùng table hệ điều hành KitKat 4.4.4 ..sau khi e chạy lại máy thì e vào cài đặt nó đã mất cái tùy chọn nhà phát triển..ace nào pk chỉ dùm nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.181929,
+         "id": "827327",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s cài đặt messeger vào sử dụng thì ko thấy có dòng chữ trở lại facebook.. Moi lần vậy phải dùng nút hôm . Trong khi bạn bè cũng sử dụng mà lại có dòng chữ đó trên messsenger",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.180412,
+         "id": "1134216",
+         "field_search": "question",
+         "question": "e mua máy huwaei 3i mà h máy bi lỗi thì e có thể đổi lại oppo đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.154015,
+         "id": "1169196",
+         "field_search": "question",
+         "question": "Máy oppo f3 em bị liệt nút tăng âm lượng. Bây h muốn tăng âm lượng cuộc gọi thì lm ntn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.147392,
+         "id": "780343",
+         "field_search": "question",
+         "question": "Em có sử dụng EasyBCD để cài Remix OS lỡ nghịch dại em bấm lộn chỗ Write MBR. Lúc mở lên thì máy báo lỗi file \\bcd (lúc đó máy đang chạy WIN 10), đem máy đi sửa thì người ta chỉ cài lại Win 8.1 thôi, không biết có liên quan đến WIN 10 hay không ạ em sử dụng 5 tháng rồi mà không có gì hết, vậy có thể cài lại được WIN 10 không ạ...(Em đang sử dụng Laptop Asus Tranformer Book Flip)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.142424,
+         "id": "1018755",
+         "field_search": "question",
+         "question": "Cho e hỏi asus zenphone 2 bị lỗi android thì phải làm sao ạ?đt thì vẫn sự dụng bình thường nhưng k khôi phục cài đặt lại máy đc,bấm vô thì nó hiện ứng dụng cài đặt đã ngưng hoạt động,tắt nguồn nhấn giữ phím nguồn và âm lượng khi chuẩn bị cài đặt lại thì thiết bị báo lỗi cũng k cài lại đc,ngoài cách mang ra tiệm chạy lại chương trình mình còn cách nào khách phục đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.100857,
+         "id": "1006039",
+         "field_search": "question",
+         "question": "Máy HP probook 450 của e nó bị mất windowhello trong phần Sign-in options . Hôm qua em vẫn setup fingerpri t được ạ mà tự nhiên hôm nay e mở lên thì nó mất tiêu. Phải lấy lại làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.099133,
+         "id": "846950",
+         "field_search": "question",
+         "question": "Máy mình iPhone 5s lock nhật softbank . Hiện tại đang dùng sim ghép . Mới up ios 10 nhưng thấy đơ quá , giờ muốn cài đặt lại cho bớt ngơ nhưng sợ cài đặt lại xong mất sim ghép . Cho hỏi sau khi cài đặt lại có ảnh hưởng gì đến sim ghép k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.045288,
+         "id": "1148221",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao sau khi khôi phục lại cài đặt gốc thì máy không hiện ứng dụng đặt chuông báo thức ạ? E dùng ss j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.978962,
+         "id": "1016330",
+         "field_search": "question",
+         "question": "điện thoại em đang sử dụng là sony xperia XA, bây giờ có hiện tượng đang sử dụng thì bị \"tự động quay lại\". Em vào cài đặt-->ứng dụng thì hiện ra trang \"ứng dụng\" xong tự động thoát ra lại trang \"cài đặt\".Lướt facebook thì kéo xuống rồi điện thoại tự động lên lại đầu trang.... và nhiều hiện tượng khác tương tự việc điện thoại tự động back lại,tự động trượt.Bây giờ thì màn hình không thể mở khóa do  không trượt hết được. Quét virus thì không thấy,màn hình vẫn còn mới không bị trầy xướt. Tắt nguồn,khởi động lại vẫn có hiện tượng đó.Không biết điện thoại đang có vấn đề gì ạ,em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

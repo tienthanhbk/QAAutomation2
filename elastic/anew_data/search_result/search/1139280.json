@@ -1,0 +1,801 @@
+{
+   "id_query": "1139280",
+   "total": 33401,
+   "total_current": 100,
+   "max_score": 100.10384,
+   "origin_question": "Mình mượn thẻ tín dụng của người khác để mua trả góp, nhưng chọn nhầm thanh toán ngay, vậy cho mình hỏi có hủy đơn để mua trả góp lại được không?",
+   "hits": [
+      {
+         "score": 40.759644,
+         "id": "1159719",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua điện thoại và thanh toán bằng thẻ tín dụng HSBC, cty TGDĐ có là đối tác trong chương trình trả góp 0% lãi suất của HSBC không ạ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.39023,
+         "id": "1023327",
+         "field_search": "question",
+         "question": "Chào A/C TGDD, em muốn mua trả góp điện thoại cũ bằng thẻ tín dụng được không và nếu được thì hình thức mình thanh toán như thế nào ạ.Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.252136,
+         "id": "1141850",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình nua máy trả góp nhưng giờ mình muốn đổi trả để mua máy khác thì có được áp dụng như mua trả thẳng không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.003693,
+         "id": "998187",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua trả góp nhưng hiện e 19t, e có thể mượn giấy cmnd và bằng lái xe của người thân e để mua trả góp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.63043,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.333885,
+         "id": "781709",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad mini 2 cho mình hỏi số tiền trả góp mỗi tháng mình thanh toán ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.01998,
+         "id": "997874",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua 1 cai ipad trả góp nhưng mình có sài tài khoản ebankinh mình muống thanh toán trực tuyến luôn, nếu thanh toán như vậy có vấn đề gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.003,
+         "id": "1024342",
+         "field_search": "question",
+         "question": "chào bạn mình muốn hỏi, dùng thẻ tín dụng của sacombank có thể mua hàng trả góp lãi suất 0 không.Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.20905,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.018208,
+         "id": "986310",
+         "field_search": "question",
+         "question": "Khi mua laptop bên mình, em thanh toán bớt 5 triệu bằng thẻ tín dụng mater card, còn lại thanh toán bằng tiền mặt. Bên mình có chiết khấu giảm giá khi thanh toán bằng thẻ tín dụng mater card không á.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.772663,
+         "id": "1001542",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình thanh toán muộn tiền trả góp thì phí trả ntn bạn nhỉ? Tháng sau mình thanh toán cả 2 tháng thì vẫn áp dụng chính sách trả góp như bình thh đúng ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.341576,
+         "id": "1002544",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về trá góp thẻ tín dụng... ví dụ nếu hạn mức thẻ 30tr mà mình mua sản phẩm 35 tr mình có thể thanh toana 5tr tiền mặt và trả gopa 30tr còn lại k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.284363,
+         "id": "992521",
+         "field_search": "question",
+         "question": " Cho em hỏi ở Thế giới di động có mua thanh toán bằng thẻ HSBC trả góp lãi suất 0 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.190887,
+         "id": "1135383",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi: thẻ master card Ready của  BIDV của mình hiện có 5tr trong tài khoản thì mình có thể mua trả góp qua thẻ tín dụng được không. Mình muốn mua samsung a9 (2018). Hạn mức giao dịch thẻ của mình là 100tr / 1 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.08229,
+         "id": "1146638",
+         "field_search": "question",
+         "question": "Cho e hỏi sam sung note 8 bên mình có cho trả góp bằng thẻ tín dụng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.01253,
+         "id": "1006111",
+         "field_search": "question",
+         "question": "cho em hỏi 18 tuổi có mua trả góp được không vậy. để em mua trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.85143,
+         "id": "998963",
+         "field_search": "question",
+         "question": " Tôi mua trả góp j7 prime. Muốn thanh toán hàng tháng nhưng ko có thẻ gì hết. Giờ phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.71162,
+         "id": "990719",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp.. Nhưng vì vấn đề công việc.. Em có thể thanh toán tiền hàng tháng bằng thẻ hay Viettel bankplus được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.48154,
+         "id": "1154179",
+         "field_search": "question",
+         "question": "Máy mình mua là a8 star, mình còn 2 tháng trả góp, giờ mình thanh toán luôn 2 tháng góp còn lại rồi mình A8 star lên a50 có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.382282,
+         "id": "1023455",
+         "field_search": "question",
+         "question": "nếu em thanh toán hợp đồng củ thì có thể mua trả góp lại liền được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.27113,
+         "id": "1000523",
+         "field_search": "question",
+         "question": "mình thanh toán mua hàng qua thẻ tín dụng tại thế giới di động thì có mất thêm phí gì khác nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.225067,
+         "id": "781119",
+         "field_search": "question",
+         "question": "Chào ad, hiện tại mình dùng thẻ tín dụng của HSBC. Minh đang muốn mua Iphone 5s bằng hình thức trả góp 0%. Cho mình hỏi chưa trình còn áp dụng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.97594,
+         "id": "1023162",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.Thủ tục để trả góp 0 bằg thẻ tín dụng shinhan bank đk k ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.754017,
+         "id": "998848",
+         "field_search": "question",
+         "question": "Mình lấy hóa đơn điện nhà mình thuê để mua trả góp dc ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.65473,
+         "id": "1020592",
+         "field_search": "question",
+         "question": "shop cho mình hỏi, mình đang muốn mua note 8 bằng hình thức trả góp 0% thông qua thẻ tín dụng, không biết là TGDD liên kết với thẻ của các ngân hàng nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59747,
+         "id": "1161543",
+         "field_search": "question",
+         "question": "Trả góp qua thẻ tín dụng có cần ra tgdd hk ad. Mình muốn mua giao hàng tận nhà đấy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.56425,
+         "id": "998847",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi mình lấy hóa đơn điện nhà mình thuê để mua trả góp dc ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.47415,
+         "id": "1134845",
+         "field_search": "question",
+         "question": "bây giờ mình muốn mua trả góp samsung galaxy j4 thì thủ tục như thế nào vậy ạ? mình có thể sử dụng bản photo có công chứng để mua trả góp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.39304,
+         "id": "1001860",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện mình đang thanh toán tiền hàng tháng cho Home Credit. Mình có thể thanh toán bằng cách quẹt thẻ tín dụng của BIDV được hay không ạ?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.20635,
+         "id": "1147673",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại trả góp qua thẻ tín dụng. Ko biết thủ tục cần những gì bạn nhi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.158924,
+         "id": "1012924",
+         "field_search": "question",
+         "question": "bên mình cho hỏi . điện thoại đang mua trả góp oy . có mua thẻ qua ghi nợ trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.11183,
+         "id": "1140138",
+         "field_search": "question",
+         "question": " mua hàng thanh toán online,giờ hủy đơn thì có được hoàn tiền không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.979683,
+         "id": "1166022",
+         "field_search": "question",
+         "question": "ad cho e hỏi, muốn mua trả góp con A50, mình có chọn trả trước bao nhiêu  được không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.830704,
+         "id": "1012010",
+         "field_search": "question",
+         "question": "hợp đồng trả góp chưa thanh lí hết có thể mua thêm trả góp sản phẩm khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.828186,
+         "id": "1136789",
+         "field_search": "question",
+         "question": " Cho hỏi mình đang góp xe vậy có mua trả góp được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.54899,
+         "id": "1001505",
+         "field_search": "question",
+         "question": "Xin chào TGDD, mình vừa thanh toán hóa đơn điện tháng này trên website của TGDD, vậy cho mình hỏi mình muốn hóa đơn thanh toán thì mình ra TGDD in lại có được hay không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.490265,
+         "id": "1024398",
+         "field_search": "question",
+         "question": "Tôi đã mua iphone 6plus thanh toán hết một lần có để lại tên số điện thoại ở cửa hàng giờ điện thoại mặt tôi có được hỗ trợ mua trả góp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.43886,
+         "id": "1143110",
+         "field_search": "question",
+         "question": "cho mình hỏi? mình đang sử dụng thẻ masterCard ngân hàng Agribank thì có mua điện thoại trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.42433,
+         "id": "1168165",
+         "field_search": "question",
+         "question": "cho em hỏi như em đặt mua trả góp 6 tháng. nhưng tới tháng thứ hai em có tiền vậy có thể trả hết được không? có thể thanh lý trả góp được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.390034,
+         "id": "1161468",
+         "field_search": "question",
+         "question": "mình mua trả góp dt, muốn trả đt có đc k. hợp đồng trả góp k hủy vẫn đóng hàng tháng có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.37519,
+         "id": "759625",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi , mình muốn mua IP6 S Plus 128 GB , thì bên Shop có gói trả góp 0% , trả trước 30% thanh toán trong từ 6 - 9 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.284744,
+         "id": "782213",
+         "field_search": "question",
+         "question": "Mình mua trả góp iPhone 5s từ mùng 1 tháng 1 năm 2016, tính đến 1/2/2016 là đến hạn trả, vậy đến mùng 4/1/2016 mình mới thanh toán tiền trả góp thì có bị phạt 150.000đ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.054657,
+         "id": "1014535",
+         "field_search": "question",
+         "question": "Mình làm mất cái thẻ trả góp.mình chỉ có hình chụp của cái thẻ có thể thanh toán được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.783472,
+         "id": "1138769",
+         "field_search": "question",
+         "question": " Dạ cho mình hỏi, mua máy cũ thì có trả góp qua thẻ được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.625557,
+         "id": "997388",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua đt cũ trả góp samsung j7 prime nhưng mình muốn mua trả góp thêm samsung j2 prime có được không hả tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.48641,
+         "id": "1003389",
+         "field_search": "question",
+         "question": "Tôi định mua trả góp samsung j7 pro nhưng mẹ tôi cho tiền tôi trả góp ... vậy tôi có đủ điều kiện để mua k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.476658,
+         "id": "1134803",
+         "field_search": "question",
+         "question": "tôi muốn mua 1 máy samsunggalaxy A7 trả góp qua thẻ tín dụng sacobank thời hạn 12 tháng cho tôi hỏi mỗi tháng sẽ góp bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.353035,
+         "id": "1018994",
+         "field_search": "question",
+         "question": "Bên mình có hỗ trợ thanh toán trả góp cho ngân hàng M Crecdit k ạh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.277258,
+         "id": "1023149",
+         "field_search": "question",
+         "question": "mình vừa mua nokia5 trả góp cách đây vài tuần.... giờ mình muốn đổi trả mua góp cái khác được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.235611,
+         "id": "1005114",
+         "field_search": "question",
+         "question": "cho hỏi mình có mua trả góp nhưng lâu mình không trả vì không có điều kiện , mình mới trả hết bên ngân hàng khoảng 1 tháng trước . bây giờ mình có thể mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.205122,
+         "id": "1010825",
+         "field_search": "question",
+         "question": "Mình mua 1 tai nghe Sony MDR - 100AAP tại thegioididong giá 3.990.000, mua trả góp. Sau khi làm hợp đồng trả góp xong thì đến mục thanh toán thì hệ thống báo ko hỗ trợ trả góp với phụ kiện là như thế nào vậy ạ?Mình mua trả góp món hàng giá trị cũng cao mà? Giải đáp giúp mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.145529,
+         "id": "1141558",
+         "field_search": "question",
+         "question": "Cho mình hỏi là 1 người có thể mua cả  máy tính và đt trả góp k, hay chỉ được mua trả góp 1 sp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.05055,
+         "id": "1164823",
+         "field_search": "question",
+         "question": "Chào ad. Cho mình hỏi bên mình có chương trình làm thẻ trả góp 0% cho khách hàng đã trả góp lần trước đó. Có thẻ đó khj mua lần sau không cần phải làm thủ tục lại không vậy? Thks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.022318,
+         "id": "1012409",
+         "field_search": "question",
+         "question": "chào TGDD, cho mình hỏi là mình muốn mua trả góp   Apple Macbook Air MMGF2ZP/A i5 5250U/8GB/128GB/13.3\"/Bạc   cũ đã qua sử dụng. Giấy tờ mình sử dụng là CMND + Bằng lái xe (không có sổ hộ khẩu). Nhưng khi mình chọn Đặt mua trả góp thì trong phần điền thông tin lại kêu điền Địa chỉ hộ khẩu để phê duyệt hồ sơ, vậy là sao ạ? TGDD giải đáp thắc mắc dùm mình được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.952066,
+         "id": "802059",
+         "field_search": "question",
+         "question": " Cho hỏi mua máy dell i3, 11.6 inch trả góp giá bao nhiêu, thanh toán thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.857662,
+         "id": "790693",
+         "field_search": "question",
+         "question": " Em đang mua trả góp 1 chiếc ip6s bên cửa hàng khác thì em có mua trả góp được 1 sản phẩm của bên mình không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.837399,
+         "id": "1155011",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mua laptop trả góp thì có phải trả trước bao nhiêu phần trăm không hay là trả ngóp ngay từ đầu cũng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.761795,
+         "id": "1015323",
+         "field_search": "question",
+         "question": "Đặt mua trả góp nhưng nhầm sản phẩm muốn đổi lại phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.74424,
+         "id": "1011295",
+         "field_search": "question",
+         "question": "bên mình có bán trả góp nokia 3310 không ạem muốn mua ngay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.668743,
+         "id": "990236",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua điện thoại trả góp tình trạng bây giờ là nhà em xa, em có chứng minh nhân dân với thẻ shinhan bank vậy có mua trả góp được không anh / chị ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.604336,
+         "id": "745116",
+         "field_search": "question",
+         "question": "Mình muốn mua iPhone 6s Plus màu Gold trả góp 12 tháng, bằng thẻ tín dụng VPB mình phải làm gì, chuẩn bị gì,  điện thoai mình 0903333xxx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.563635,
+         "id": "1136532",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình thanh toán bằng thẻ vp bank để mua dt thì mình phải thanh toán hết ở bên trong thẻ luôn hay sao ạ tại thẻ e mới đăng kí nên có thể nào thanh toán bằng tiền mặc nhưng dc hưởng ưu đải khi có thẻ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.543533,
+         "id": "1161534",
+         "field_search": "question",
+         "question": "Mua trả góp qua thẻ Visa được mua 2 cái không vậy !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.505037,
+         "id": "1020573",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình mua trả góp 1 sp ở đại lý tgdd này nhưng có thể đến trả góp ở một đại lý tgdd khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.381031,
+         "id": "1160496",
+         "field_search": "question",
+         "question": "em mua trả góp nhưng giả người thân vì ko muống gia đình biết ,nhưng người giả người thân trả lời sai và ko dc duyệt,vậy cho em hỏi có được vay góp nữa ko ậ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.299633,
+         "id": "1136388",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn máy cũ ip7plus32g mau vang trả góp ,mà em ở quảng bình ko có màu vàng mà ở tỉnh khác vậy.. vậy bên tgdd có chuyển đơn hàng đó về bên tgdd ở quảng bình để em mua trả góp đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.294607,
+         "id": "1158738",
+         "field_search": "question",
+         "question": "mình có ý định mua samsung s10, thấy có chương trình thu cũ đổi với + giảm 1tr5 galaxy gift + trả góp bằng thẻ tín dụng. không biết là 3 chương trình km này có gộp chung lại ko vậy shop ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.218668,
+         "id": "1140220",
+         "field_search": "question",
+         "question": "xin chào!!! mình có thẻ tín dụng VP Bank Hạn mức 20tr! mình có thể dùng thẻ đó để quẹt mua sản phẩm XSMAX hay không!!hay phải trả trước bằng tiền mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.19367,
+         "id": "1142038",
+         "field_search": "question",
+         "question": "Trả góp qua thẻ tín dụng visa cần phải làm gì? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.180904,
+         "id": "1136641",
+         "field_search": "question",
+         "question": " Mình muốn mua đt trả góp nhưng đag trả góp bên Mcredit và bị nợ chú ý vì trả chậm bên đó vậy có mua trả góp đc k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.16415,
+         "id": "1020828",
+         "field_search": "question",
+         "question": "cho mình hỏi mua điện thoại trả góp  góp được 1 tháng rồi trả hết số còn lại nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.163315,
+         "id": "995637",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi là nếu em không có hóa đơn điện thì có cái gì có thể thay thế để mua trả góp được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.093338,
+         "id": "1012135",
+         "field_search": "question",
+         "question": "Em mua máy trả góp h muốn bán lại cho người khác đc k nhỉ? Em vẫn trả góp hàng tháng nhg máy thì bán cho ng khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.057259,
+         "id": "756886",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có sổ hộ khẩu photo có công chứng+ cmnd+ bằng lái xe có được sử dụng để mua trả góp 0% cho iPhone 6s không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.022625,
+         "id": "1166304",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. E vào chplay chọn phương thức thanh toán -> sử dụng thanh toán qua viettel telecom, nhưng máy lại báo lỗi là ko thể gửi tin nhắn sms để xác minh tài khoản. E lm gì để chọn được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.948023,
+         "id": "778225",
+         "field_search": "question",
+         "question": " Em muốn mua trả góp iPhone 5S . trả trước 50  nhưng ngại về quê lấy sổ hộ khẩu có cách nào khác để mua không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.912754,
+         "id": "993445",
+         "field_search": "question",
+         "question": "ví dụ em mua điện thoại trả góp ở thanh hóa nhưng em đi làm ở bắc ninh tới hạn trả góp thì trả qua bưu điện được không hay em phải về tận nơi mua để trả ạ...mong QTV xớm trả lời em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.901905,
+         "id": "1143537",
+         "field_search": "question",
+         "question": "cho hỏi hiện tại mình đã đặt mau trả góp qua thẻ chiếc điện thoại Y7 Pro và đã trừ tiền trong thẻ nhưng mình chưa nhận điện thoại. nếu mình muốn đổi thành co Y9 2019 thì có phải thanh toán thêm gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.90079,
+         "id": "956372",
+         "field_search": "question",
+         "question": " cho mình hỏi mình mới mua trả góp iphon ben homecreditgiờ mình có thể mua trả góp tiếp bên homcredit nua không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.883005,
+         "id": "1020570",
+         "field_search": "question",
+         "question": "TGDD không còn cho thanh toán trả góp online nữa hả ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.877293,
+         "id": "795312",
+         "field_search": "question",
+         "question": " sao để trả góp không lãi suất mà t mua laptop lại có lãi suất vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.833836,
+         "id": "1163860",
+         "field_search": "question",
+         "question": "Mình đang mua trả góp chiếc ip xr. Giờ mình muốn trả lại để mua ip 8 plus cũng trả góp đc k? Chi phí như thế nào ạ? 0988867567 Nguyễn Công Phương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.817318,
+         "id": "997596",
+         "field_search": "question",
+         "question": "E muốn Thanh toán trả góp thì e phải thanh toán ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.795637,
+         "id": "1166926",
+         "field_search": "question",
+         "question": "Báo giá giúp mình nếu mình mua Samsung Galaxy S10 trả góp 0% 12 tháng bằng thẻ tín dụng Citibank/HSBC thì mỗi tháng phải trả bao nhiêu và tổng tiền là bao nhiêu nha. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.648518,
+         "id": "1019639",
+         "field_search": "question",
+         "question": "mính có mua 1 máy samsung S8+ nhưng về xài ko thích lắm và muốn đổi qua ip nhưng mình lại mua trả góp. vậy cho mình hỏi nếu thế thì có thể đổi máy khác được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.639399,
+         "id": "1021518",
+         "field_search": "question",
+         "question": "Cho thi hỏi, thi mua điện thoại trả góp 0%  tại TGDĐ trong thời hạn 6 tháng, thi đã trả được 2 kỳ và còn 4 kỳ phải thanh toán. Vậy 4 kỳ này thi muốn chuyển sang trả góp 12 tháng được không, nếu được thì phí và lãi trả như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.606995,
+         "id": "1019034",
+         "field_search": "question",
+         "question": "EM HIỆN ĐANG THAM GIA TRẢ GÓP CỦA NGÂN HÀNG FE.CÒN 2 THÁNG NỮA LÀ E HẾT KỲ THANH TOÁN, NHƯNG GIỜ EM MUỐN THANH LÝ NHANH HỢP ĐỒNG ĐỂ TIẾP TỤC THAM GIA MUA,NHƯNG VẤN ĐỀ LÀ MỌI GIẤY TỜ CỦA EM ĐANG TRONG THỜI GIAN LÀM LẠI,VẬY CHO EM HỎI SẴN HỒ SƠ ĐÓ E CÓ THỂ TIẾP TỤC MUA DC KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.59255,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.578497,
+         "id": "1020503",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua đt trả góp thì mình có thể trả trước hạn được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.53155,
+         "id": "991471",
+         "field_search": "question",
+         "question": "Tôi muốn mua thẻ cào ngay bây giờ. Phương thức thanh toán bằng thẻ HOMECREDIT vào tháng này. Vì ngày 20 tôi mới đến hạn thanh toán tiền. Mỗi tháng tôi thanh toán là 504.000đ bây giờ tôi mua thẻ cào 100.000 thì đến ngày 20 tôi sẽ đóng với số tiền là 604.000đ, xin hỏi có được không? Mong trả lời trong thời gian sớm nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.501228,
+         "id": "1009520",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình muốn mua trả góp. sổ hộ khẩu+hóa đơn điện mà ko có cmnd. chỉ có giấy hẹn ngày trả cmnd của công an quận . vậy có đủ điều kiện ko vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.437307,
+         "id": "1005329",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại trả góp,nhưng mà trong gói trả góp có phí bảo hiểm.mình có thể mua điện thoại trả góp nhưng không mua bảo hiểm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.351624,
+         "id": "996129",
+         "field_search": "question",
+         "question": "Cho e hỏi..e co mua trả góp mái laptop nhưng hờ e khôg muốn sử dụng nữa..vậy e có được đổi sản phẩm khác không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.343658,
+         "id": "1141965",
+         "field_search": "question",
+         "question": "Mình mua dt trả góp nhưng giờ mình muốn bán lại nhưng mình vẫn chưa góp hết cho ngan hang kg biết thế giới di động có thu lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.160522,
+         "id": "993378",
+         "field_search": "question",
+         "question": "Cho mình hỏi trước mình đã mua trả góp 1 điện thoại rồi, giờ mình mua trả góp 1 cái nữa nhưng có cần phải làm lại thử tục hồ sơ mới không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.156382,
+         "id": "778586",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp iPhone 5s thì cần những gì mình đã đã từng mua trả góp cách đây 2 tháng và không được chấp nhận liệu có được mua trả góp nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.115238,
+         "id": "1017851",
+         "field_search": "question",
+         "question": "Thế giới di động có làm việc ngày 39 này không? Mình có lịch thanh toán trả góp vào hôm ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.079689,
+         "id": "1167306",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là mua trả góp iphone x 64GB trả bằng thẻ VCB thì có trả trước tiền điện thoại góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.054148,
+         "id": "999849",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua trả góp 0% note 5 dc 15 ngày . giờ mình muốn mua trả góp thêm 1 dt khác trên 10 triệu nữa . vậy có dc ko . mình chỉ có cmnd và bằng lái xe .",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

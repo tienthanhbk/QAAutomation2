@@ -1,0 +1,801 @@
+{
+   "id_query": "1154782",
+   "total": 32389,
+   "total_current": 100,
+   "max_score": 52.021988,
+   "origin_question": "Mình mới mua máy laptop được 1 tuần, bị virus, hỏi TGDD có hỗ trợ cài lại win không",
+   "hits": [
+      {
+         "score": 34.923874,
+         "id": "890778",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là. Máy laptop của e nó bị virus nặng. Vậy bên tgdd có hỗ trợ diệt virus được không. Hay là cài lại win được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.513914,
+         "id": "1155648",
+         "field_search": "question",
+         "question": "mình có mua laptop  bên TGDD , mình bị mất win 10, bên bạn có hỗ trợ cài win 10 lại không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.929823,
+         "id": "989626",
+         "field_search": "question",
+         "question": "Mình mới mua laptop Lenovo cũ ở tgdd,hiện tại máy đang sử dụng win10,mình muốn cài lại win7 thì có được hỗ trợ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.003529,
+         "id": "1133715",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có hỗ trợ cài win cho laptop ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.750065,
+         "id": "1165130",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ cài lại win máy tính không ạmáy tính mình bị lỗi win rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.791796,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.289364,
+         "id": "935205",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn cài lại win cho laptop của mình, nhưng laptop của mình ko mua ở tgdd, vậy thì có đc hỗ trợ ko. Nếu có thì mình phải trả phí bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.192799,
+         "id": "1021035",
+         "field_search": "question",
+         "question": "Xin chào, Mình mua laptop cài win 10 bản quyền, sau đó cài lại HĐH linux. Bây giờ mình muốn cài lại win 10 nhưng không nhớ key bản quyền thì có được hỗ trợ lại k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.088667,
+         "id": "1139654",
+         "field_search": "question",
+         "question": "Sau khi e reset máy xong thì máy e bị lỗi ạ. E có thể ra tgdd để hỗ trợ cài lại win 10 không ạ. E mua ở tgdd ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.055748,
+         "id": "998807",
+         "field_search": "question",
+         "question": "TGDĐ có hỗ trợ cài win lại không ạ, máy em bị lỗi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.954391,
+         "id": "1003624",
+         "field_search": "question",
+         "question": "ad cho mình hỏi máy mình bị hỏng bên TGDD có thu lại không và nếu mua mới thì có được hỗ trợ gì không ? vì hồi trước thấy có. Máy hỏng mình cũng mua từ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.923157,
+         "id": "763782",
+         "field_search": "question",
+         "question": " Laptop mua lâu rồi nhưng không phải ở TGDD. Vậy TGDD có hỗ trợ cài phần mềm được không...bị mất hết rồi _ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.762392,
+         "id": "931403",
+         "field_search": "question",
+         "question": " Chào ad. Cho mình hỏi Tgdđ có hỗ trợ cài lại win không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.538788,
+         "id": "750823",
+         "field_search": "question",
+         "question": "Mình có mua 1 Laptop Lenovo G500s của thegioididong vào tháng 04.2014. Lúc đó chưa có chương trình Win bản quyền cài sẵn theo máy. Vậy cho mình hỏi:1. Những trường hợp như Laptop mình mua trước đây chưa được cài Win bản quyền giờ muốn cài phải làm sao? Thegioididong có hỗ trợ cài Win bản quyền hay bán bản quyền Win 7 hoặc Win 8 không & giá là bao nhiêu?2. Ví dụ như Laptop đang được cài bảng quyền Win 7, nhưng sau đó nâng cấp lên Win 8, Win 10 ...vv thì có bị mất bản quyền Win hay không?3. Bản quyền Win chỉ được cài duy nhất cho 1 máy? Lỡ như Laptop A đang sử dụng, có cài Win bản quyền và Laptop A bị hư, chuyển sang xài Laptop B vậy có chuyển Win bản quyền từ Laptop A qua Laptop B được không?Mong các bạn ghi nhận và phản hồi.Email: hoangnhatminh107@gmail.comTrân Trọng.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.260084,
+         "id": "889204",
+         "field_search": "question",
+         "question": "QTV cho cho m hỏi là : m có mua 1 cái laptop bên tgdd cách đây 2 năm. Hiện nay mình đang dùng win 10 và bị lỗi auiomatic repair thì bên tgdd có hỗ trợ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.995136,
+         "id": "888833",
+         "field_search": "question",
+         "question": " ở tgdd có hỗ trợ cài win 10 bản quyền k ạ. Vì máy e k mua ở tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.991098,
+         "id": "803290",
+         "field_search": "question",
+         "question": "Bqt cho e hỏi với ạ!!E có mua máy laptop ở tgdd vào ngày 21/2/2016 hãng dell. Khi mua máy là được hỗ trợ cài win 10, bây giờ e muốn hạ xuống win 7 thì có bị mất chi phí ko ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.735846,
+         "id": "1000235",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi tôi mua laptop ở TGDD cũng vài năm. Giờ t muốn đến để cài lại Win không biết TGDD sẽ hỗ trợ không? Và phí như thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.72204,
+         "id": "791264",
+         "field_search": "question",
+         "question": " Tgdd có hỗ trợ cài win máy tính với cài phần mềm chống virut cho máy tính không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.697636,
+         "id": "1134589",
+         "field_search": "question",
+         "question": "laptop e bị virus e mang ra tgdd chay lại win được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.360374,
+         "id": "1002672",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách reset máy tình win 8.1.Mình mới cài chương trình duyệt virus mà reset lại có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.297495,
+         "id": "831302",
+         "field_search": "question",
+         "question": "Cho mình hỏi ,mình mua laptop trong tgdd,nếu máy có lỗi hay trục trặc gì,mình muốn chạy lại win,cài đặt phần mềm...mình mang đến cửa hàng của tgdd thì các bạn kỹ thuật viên của cửa hàng có hỗ trợ giúp mình không ak.Hay mình phải mang đi đâu.Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.113066,
+         "id": "804542",
+         "field_search": "question",
+         "question": "Chào anh chị qtv, e muốn hỏi trong Tgdd có hỗ trỡ cài win10 hay win 8.1 cho laptop không, khi e không mua máy tại tgdd ạ. Nếu hỗ trợ mà mất phí thì khoảng bao tiền ạ. E xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.700157,
+         "id": "1153655",
+         "field_search": "question",
+         "question": "Chào ad.cho Mình hỏi Thế Giới Di Động có hỗ trợ cài win 7 cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.37904,
+         "id": "997444",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua laptop ở tgdd. khi mua là cài sẵn win 10 cho mình rồi. về mình dùng ko quen lên có cài lại win 8.1. bây giờ mình muốn cài lại win 10 thì bên tgdd có cài lại cho mình ko nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.357155,
+         "id": "815654",
+         "field_search": "question",
+         "question": "Cho hỏi laptop mình mua còn 2 ngày nữa là được 1 tháng mà máy bị lỗi và đem lên bên hỗ trợ kỹ thuật. Hỗ trợ kỹ thuật báo gữi xuống hãng đễ ktra bảo hành. Giờ mình cần laptop gấp. Phía bên TGDD có cấp nào giúp mình có laptop để đi làm trong thời gian bảo hành không z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.189716,
+         "id": "890017",
+         "field_search": "question",
+         "question": " Cho em hỏi, laptop em mới mua 2 ngày nhưng đã bị lỗi win, bên cửa hàng có hỗ trợ khắc phục k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187672,
+         "id": "763371",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop mình mua ở Thế Giới Di động, hết hạn bảo hành giờ mình muốn đem tới để cài lại win với cài phần mềm quét virus tính phí có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.972338,
+         "id": "795696",
+         "field_search": "question",
+         "question": "Mình có mua laptop samsung series 5 seri: hwbn91cc900022v, phụ kiện đầy đủ ở tgdd. Giờ mình muốn bán lại đổi laptop mới thì bên tgdd thì bên bạn hỗ trợ được bao nhiêu? Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.814945,
+         "id": "1158283",
+         "field_search": "question",
+         "question": "Tôi mới mua Samsung A9 2018 được khoảng 3 tuần nhưng chép dữ liệu vào máy thì không được. Xin hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.714869,
+         "id": "811499",
+         "field_search": "question",
+         "question": "Mình mới mua một cái laptop dell inspiron 3543 i3/window 10 được gần 1 tháng, còn bảo hành, sau khi mua về mình cài đã cài lại win 7 và không kết nối được blutooth và touchpad,trong trường hợp này mình có thể đem máy đổi lại máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.697956,
+         "id": "808723",
+         "field_search": "question",
+         "question": "Mình vừa mua win bản quyền nhưng không biết cách cài đặt vậy thegioididong có thể hỗ trợ cài đặt giúp mình được không?? Mình cám ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.61859,
+         "id": "1142113",
+         "field_search": "question",
+         "question": "Em mới mua đt Nokia 3.1 ngày hôm qua 1/1/2019. Thấy máy có chức năng doube tap mở màn hình trong phần cài đặt nhưng thực tế thì không sử dụng được chức năng này. Cho hỏi máy có bị lỗi và TGDD có hỗ trợ gì ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5657,
+         "id": "860544",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài lại win 10 bản quyền không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.561129,
+         "id": "1154632",
+         "field_search": "question",
+         "question": "EM mua con A7 2018 được hơn 1 tuần ,máy cứ bị lỗi không bật được 3g 4g em có vào bên hỗ trợ kỹ thuật của TGDD mà vẫn vậy, đổi cái mới về vẫn không vào được 3g 4g,,nay em muốn đổi sang dòng điện thoại khác được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.53624,
+         "id": "1140065",
+         "field_search": "question",
+         "question": "Bữa trước mình có mua lap ở bên thế giới di động và có mua win bản quyền kèm theo máy luôn. Nhưng đợt trước mình có cài lại win nên giờ nó chưa được Active. Bên bạn có thể hỗ trợ mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.504173,
+         "id": "1152988",
+         "field_search": "question",
+         "question": "cho em hỏi. laptop của em mua cũng hơn 1 năm rồi. em muốn cài lại win (máy win10). Vậy bên tgdđ mình cài lại dùm em được không và có phí không ạ!!!Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.462242,
+         "id": "818102",
+         "field_search": "question",
+         "question": " Tgdd có hỗ trợ hạ cấp win k vậy? Em nâng cấp lên win 10 mà hay bị đơ máy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.430098,
+         "id": "1161463",
+         "field_search": "question",
+         "question": "Bên tgdđ có hổ trợ cài win cho laptop không bạn. Máy mình giờ chạy chậm quá muốn cài lại win. Phí khoảng bao nhiêu bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.30688,
+         "id": "1144480",
+         "field_search": "question",
+         "question": "tgdđ có thể hỗ trợ mình cài ios 12 được không ? máy mình đang chạy ios 9.2.1... máy yêu cầu phải kết nối itune bằng máy tính mới cài được ios12... nhưng không hiểu sao máy tính mình không cài được itune... nhờ tgdđ hỗ trợ cho lẹ được không ạ ? máy 5s này lúc trước mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.260069,
+         "id": "1015055",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi. Với máy còn bảo hành thì.. Có đc hỗ trợ cài lại win ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.20577,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.198437,
+         "id": "1012348",
+         "field_search": "question",
+         "question": "Em mua laptop ux410 ở tgdd được cài win thì có bản quyền không. Và tgdd có nâng cấp ổ ssd không. Nếu không thì em nâng cấp chỗ khác và lại tgdd có bảo hành cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.133377,
+         "id": "744051",
+         "field_search": "question",
+         "question": "Ad cho em hỏi : em mua máy win 8 bản quyền up lên win 10. mà em recovery máy. giờ ad cho em xin lại key bản quyền được không ạ? (em mới mua máy có 1 tuần thôi ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.100391,
+         "id": "1151554",
+         "field_search": "question",
+         "question": "mình mua laptop tại tgdd muốn  xin lại key kich hoạt win 10 của máy có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.982233,
+         "id": "1138601",
+         "field_search": "question",
+         "question": " thegiodidong có hỗ trợ cài lại win cho khách hàng k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.970543,
+         "id": "919548",
+         "field_search": "question",
+         "question": "Laptop em mua tại tgdd có hỗ trợ bluetooth mà khi vào cài đặt lại không thấy đâu. mong tgdd tư vấn giúp em ạ . ( dell inprison 14 , 5000 series )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.836348,
+         "id": "860225",
+         "field_search": "question",
+         "question": " Mình mua 1 máy tính cài sẵn win 8.1 mình muốn hỏi là liệu mình có được bảo hành về win không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.678005,
+         "id": "802654",
+         "field_search": "question",
+         "question": " Máy full disk,wifi có lúc không hiển thị,máy mới mua win 10 tự cài lại win 7 có mất bảo hành không vậy,mua o tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.652472,
+         "id": "771167",
+         "field_search": "question",
+         "question": "Admin cho hỏi là tôi có mua 1 laptop tại cửa hàng bây giờ tôi muốn ghost win lại để dọn dẹp các phần mềm mà tôi đã cài như lái máy mới mua được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.619835,
+         "id": "781015",
+         "field_search": "question",
+         "question": " Em mới mua lap cài win 10 giờ em muốn cài win 7 tgdd có cài hộ em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.584974,
+         "id": "1164493",
+         "field_search": "question",
+         "question": "mình mua máy ở tgdd và mình bị mất  Win bản quyền..phải làm sao để cài lại winvà mình muốn cài win 10 pro thì có mất phí không ạ cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.535067,
+         "id": "870617",
+         "field_search": "question",
+         "question": "mình có mua sản phẩm laptop bên TGDD kh biết bên TGDD có hổ trợ cài đặt autocad cho laptop của mình đc không, mình mua được 3 năm rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.53035,
+         "id": "906397",
+         "field_search": "question",
+         "question": "cách đây 1 tuần mình có mua laptop ASUSTek X540LA với hệ điều hành win 10 cài sẵn ở máy.sau 1 thời gain dùng minhf cảm thấy không hợp với win 10 va muốn cài lại win 7 thì cần những thủ tục gì và mất bao nhiêu lệ phí nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.511972,
+         "id": "881558",
+         "field_search": "question",
+         "question": " Máy Macbook airgiờ em muốn chạy giả lập win thì bên mình có hỗ trợ cài cho em không.... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.349731,
+         "id": "1162281",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s plus Cho em hỏi tgdd có hỗ trợ cập nhật ios 12.2  không ạ em mua máy bên ngoài có được hỗ trợ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.328934,
+         "id": "997924",
+         "field_search": "question",
+         "question": " Laptop em bị hư cục sạc.tgdd có hỗ trợ mua sạc mới ko.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.245836,
+         "id": "1147087",
+         "field_search": "question",
+         "question": "Laptop mình bị chậm và đôi lúc bị đơ. Giờ mình muốn ra cài lại win thì có bị mất win10 mình đang sử dụng không? (Win10 này được cài khi mình mua máy ở TGDĐ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.224457,
+         "id": "1158018",
+         "field_search": "question",
+         "question": "Mình mua laptop hp ngày 18112018. Nay máy bị nứt một chỗ cho mình hỏi là mình có được bảo hành hỗ trợ sửa máy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18716,
+         "id": "991775",
+         "field_search": "question",
+         "question": "Mình mới mua đt oppo f3 trả góp được 1 tuần. Bây giờ mình được ng nhà cho cái đt iphone nên muốn bán lại oppo f3 cho tgdd. Mình muốn hỏi đt trả góp thì tgdd có mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.071915,
+         "id": "769460",
+         "field_search": "question",
+         "question": "mình muốn mua máy dưới 10tr hãng dell hoặc asus chơi audition mượt k biết có máy nào phù hợp không? trên 1 chút cũng đc, và tgdd có hỗ trợ cài game đó k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.034664,
+         "id": "990381",
+         "field_search": "question",
+         "question": "Tgdd có hỗ trợ up lại rom cho iphone không ạ.Đt em cứ bị đơ cảm ứng,cài đặt rồi mà vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.986694,
+         "id": "1014666",
+         "field_search": "question",
+         "question": "Thegioididong có cung cấp và hỗ trợ cài win bản quyền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.98007,
+         "id": "778073",
+         "field_search": "question",
+         "question": " Cho em hỏi  Em muốn nâng cấp win 8.1 lên win 10 của latop acer, tgdd có hỗ trợ không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.923374,
+         "id": "1005842",
+         "field_search": "question",
+         "question": "TGDD có bán win 10 bản quyền không? MÌnh dang sài laptop hp probook 4530s có cài win 10 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.917494,
+         "id": "1169867",
+         "field_search": "question",
+         "question": "Mình muốn hỏi vấn đề là mình có mua qua tay 1 cái ip6s plus mã Việt Nam!. Mình dùng icloud của mình đăng nhập dùng bình thường khoảng hơn 1 năm. Hôm nay mình reset lại định cho người khác xài thì bị buộc phải đăng nhập với 1 icloud khác mình có hỏi vài ng thì nói là máy bị icloud ẩn. Imei:   353326070595675. Bên tgdd có thể kiêm tra giúp mình là máy có phải dc mua ở đây không. Vì mình có liên hệ với apple là cần phải có hoá đơn mua hàng thì apple mới hỗ trợ unlock. Vậy nếu dc mua tại tgdd thì tgdd có hỗ trợ cho mình hoá đơn mua hàng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.915558,
+         "id": "816760",
+         "field_search": "question",
+         "question": "máy tính em không mua trong hệ thống tgdd nhưng nó bị lỗi card wifi vậy em đem lại hệ thống tgdd có hỗ trợ gửi máy của em lên hàng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.860184,
+         "id": "913532",
+         "field_search": "question",
+         "question": "mới mua laptop ở thế giới di động được 2 ngày thấy máy có sẵn win 10 mà giờ mình muốn tự cài lại win khác thì có ảnh hưởng gì tới bảo hành ko mình có cảm giác máy chạy ì ạch nên muốn cài lại win khác giờ mình muốn cài lại win khác xem nó có hết ko mà ko biết có ảnh hưởng gì tới bảo hành ko ạ nếu máy bị lỗi muốn đổi máy mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.796564,
+         "id": "1155433",
+         "field_search": "question",
+         "question": "Cho em hỏi làBên TGDD có hỗ trợ vệ sinh laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.785406,
+         "id": "1005730",
+         "field_search": "question",
+         "question": "Mình có mua 1 cái Điện thoại mới sài 2 tuần muốn bán lại thì shop thu lại bao nhiêu % vậy.Mình mua bên TGDD An Giang, bán trên Sài gòn được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.757566,
+         "id": "1016084",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua máy bên TGDĐ được 1 tuần bây giờ e bán lại máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.737438,
+         "id": "1158886",
+         "field_search": "question",
+         "question": "Cho e hỏi , e mới mua laptop HP giá 12tr khoảng 2 tuần mà không cài được Win 7 để e đi làm ,giờ e muốn đổi máy liệu có mất tiền gì không ?trả lời Giúp e , cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.729382,
+         "id": "1013114",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có mua máy cũ không ạ ?e muốn bán 1 laptop  mới mua được 4 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.723633,
+         "id": "1008351",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc máy cũ ở xa chỗ mình liệu bên tgdd có hỗ trợ chuyển hàng ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68845,
+         "id": "997780",
+         "field_search": "question",
+         "question": "laptop em bị hư một phím em muốn sửa lại, máy còn trong thời gian bảo hành, vậy tgdd hỗ trợ em được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.678926,
+         "id": "910473",
+         "field_search": "question",
+         "question": "em lỡ xoá hết ứng dụng và cài đặt, cài lại win thì e có nhận được bảo hành từ tgdd nữa ko ạ. TK tgdd trên máy đã bị mất (laptop)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.657152,
+         "id": "1161428",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua đt samsung A20 khoảng được 1 tuần mà hình cứ tắt vài phút là lại tự sáng. phải cài đặc như thế nào để tắt chế độ này. Mong hổ trợ nhanh chống . Thnaks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.593859,
+         "id": "1140398",
+         "field_search": "question",
+         "question": "Mình mua ổ SSD và ram mới muốn lắp vào laptop ASUS thì thegioididong có hỗ trợ chuyển xuống hãng và hãng có hỗ trợ cài đặt giúp không (Chuyển dữ liệu từ ổ cứng cũ sang và lắp đặt)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.590645,
+         "id": "799971",
+         "field_search": "question",
+         "question": " Mình mua laptop ở tgdd còn bảo hành,muốn chạy lại win được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.589157,
+         "id": "797208",
+         "field_search": "question",
+         "question": "Mình mua laptop dell cài hệ điều hành win 8 hay win 10 gì đó giờ mình không biết sử dụng mình muốn cài lại win 7 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.530529,
+         "id": "1137851",
+         "field_search": "question",
+         "question": "Cho e hỏi về cách khắc phục ở máy Sony xa1 plus mua ở TGDD. E mua ở TGDD được hơn 1 tháng cần sự hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.509275,
+         "id": "990314",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd có hỗ trợ mua trả góp qua mcredit ko ạ. Mình mới nghe nói cái này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.506605,
+         "id": "1134266",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.486837,
+         "id": "1134441",
+         "field_search": "question",
+         "question": "sao e mới mua laptop bên mình mà cứ bị lỗi win hoài vậy bữa e mới ra cửa hàng cài lại giờ lại bị lỗi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.446486,
+         "id": "781267",
+         "field_search": "question",
+         "question": "MÁY LAPTOP VAIO EM MUA CÁCH ĐÂY 2 NĂM CÓ BẢN QUYỀN, VỪA RÙI Ổ CỨN BỊ HỎNG E PHẢI MUA LẠI Ổ CỨNG MỚI. CHO E HỎI LÀM SAO MÌNH CÀI ĐẶT LẠI WIN BẢN QUYỀN?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.39274,
+         "id": "1156326",
+         "field_search": "question",
+         "question": "Huawei y9 2019 bên mình root lại giùm được không ạ. Vì chơi game nên cần root máy lại không biết tgdd mình có hỗ trợ root không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.367321,
+         "id": "1139865",
+         "field_search": "question",
+         "question": " TGDĐ có hỗ trợ cài WIN10 cho laptop không ạ.............................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.358139,
+         "id": "1161152",
+         "field_search": "question",
+         "question": "Cho tôi hỏi Các thiết bị hỗ trợ sạc không dây chuẩn Qi là loại nào? Vsmart Active 1 có được hỗ trợ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.336073,
+         "id": "1167066",
+         "field_search": "question",
+         "question": "Mình có mua mới 1 Laptop Lenovo Yoya 530 bên TGDD vào tháng 2, nhưng đến nay office báo là k có bản quyền . Bên shop hỗ trợ giúp. SĐT mình 0903042179, tên Hoan ở Bình Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.326014,
+         "id": "1134268",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.295023,
+         "id": "1021812",
+         "field_search": "question",
+         "question": "vậy điện thoại mình mua trả góp tại tgdd được hỗ trợ không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.288979,
+         "id": "784359",
+         "field_search": "question",
+         "question": "Em đang dùng máy laptop acer E5-473. Dùng được 1 thời gian thì máy bị lỗi win em cài lại thỳ mất bản quyền. Giờ muốn lấy lại key bản quyền được không?? Máy em khi mua được cài sẵn win10 bản quyền trong máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.281864,
+         "id": "763301",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDD mình có cài lại windows 7 cho laptop  được mua từ siêu thị hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.278395,
+         "id": "815705",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop mình mua còn 2 ngày nữa là 1 tháng mà nó bị lỗi và đem lên bên hỗ trợ kỹ thuật. Hỗ trợ kỹ thuật báo là gữi về hãng để kiểm tra và bảo hành mà mình đang cần gấp. Bên thegioididong có cách nào hỗ trợ mình không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.205626,
+         "id": "1166413",
+         "field_search": "question",
+         "question": "ở hãng có hỗ trợ dịch vụ cài win vào laptop k ? win bản lậu ấy và nếu có thì phí dịch vụ là bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.198061,
+         "id": "752267",
+         "field_search": "question",
+         "question": " Cho hỏi laptop toshiba l510 có lên win 10 được không,nếu lên được thì làm cách nào nào mong các bạn hỗ trợ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.15419,
+         "id": "837127",
+         "field_search": "question",
+         "question": "chào ad, hiện tại mình đang sử dụng laptop samsung seri3 AMD A8 - 3530MX, mình muốn cài lại win cho máy, không biết tgdđ có hổ trợ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.089117,
+         "id": "1012416",
+         "field_search": "question",
+         "question": "Em mới mua cái j7 pro tại tgdd xài cứ khoảng 1 tuần là nó lại bị tình trạng ko vào ứng dụng dc phải khởi động lại mới xài dc, bị mấy lần rồi. Xin hỏi nếu đem máy ra thì có dc đổi lại máy mới ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.035622,
+         "id": "1160555",
+         "field_search": "question",
+         "question": "Mình có cài lại win 10 bản quyền ở TGDD , mà sao win chưa được activate",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

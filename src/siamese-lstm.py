@@ -19,10 +19,10 @@ from src import classifier
 # }
 
 
-PATH_DATA_TRAIN = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/collection/raw/train.txt'
-PATH_DATA_DEV = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/collection/raw/dev.txt'
-PATH_DATA_TEST = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/test_data/raw/test.txt'
-PATH_DATA_TEST_MORE_INFO = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/test_data/raw/test-moreinfo.txt'
+PATH_DATA_TRAIN = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/raw/train.txt'
+PATH_DATA_DEV = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/raw/dev.txt'
+PATH_DATA_TEST = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/raw/test.txt'
+# PATH_DATA_TEST_MORE_INFO = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/test_data/raw/test-moreinfo.txt'
 
 PATH_WORD_VECTOR = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/word-vector/vectors_baomoi.txt'
 PATH_VOCAB = '/Users/tienthanh/Projects/ML/QAAutomation/data/Vietnamese/word-vector/vocab_used.txt'
@@ -248,7 +248,7 @@ def train(vocab_df):
         epochs=100,
         batch_size=32,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
-        verbose=2,
+        verbose=1,
         callbacks=callback_list
     )
 
@@ -292,13 +292,13 @@ vocab_df.loc['<PAD>'] = 0
 vocab_df = vocab_df.sort_values(by=['onehot'])
 
 
-model = get_model(vocab_df)
-# train(vocab_df)
+# model = get_model(vocab_df)
+train(vocab_df)
 # mAP_df = test(vocab_df)
 # test(vocab_df)
-embeddings = model.layers[2].get_weights()[0]
+# embeddings = model.layers[2].get_weights()[0]
 
-words_embeddings = {w:embeddings[idx][0] for w, idx in vocab_df.iterrows()}
-words_embeddings_df = pd.DataFrame.from_dict(words_embeddings, orient='index')
-words_embeddings_df.to_csv('/Users/tienthanh/Projects/ML/QAAutomation/gensim/wv', sep=' ')
+# words_embeddings = {w:embeddings[idx][0] for w, idx in vocab_df.iterrows()}
+# words_embeddings_df = pd.DataFrame.from_dict(words_embeddings, orient='index')
+# words_embeddings_df.to_csv('/Users/tienthanh/Projects/ML/QAAutomation/gensim/wv', sep=' ')
 

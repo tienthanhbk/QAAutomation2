@@ -1,0 +1,801 @@
+{
+   "id_query": "776457",
+   "total": 29690,
+   "total_current": 100,
+   "max_score": 66.89084,
+   "origin_question": " Em dùng iPhone 5, anh cho em hỏi cách gỡ phần mềm avast secure line với ạ? ",
+   "hits": [
+      {
+         "score": 22.986782,
+         "id": "759088",
+         "field_search": "question",
+         "question": "Chào anh (chị)! Cho em hỏi làm thế nào để lấy lại tài khoản line. Mọi ngày em gọi vẫn bình thường nhưng hôm nay mình cũng gọi được nhưng lại không thấy tiếng gì cả. Em liền gỡ và tải lại phần mềm line (tài khoản của mình chưa đăng kí email)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.316292,
+         "id": "752932",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại điện thoại em là dòng iPhone 5. Bây giờ em muốn gỡ phần mềm từ 9.1 xuống 8.3 hoặc 8.4 có được không ạ? Với lại diệt virus. Điện thoại em thường xuyên bị đứng trượt mở nguồn không qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.72748,
+         "id": "758249",
+         "field_search": "question",
+         "question": " Cho em hỏi cái iPhone 5 của em giờ em muốn tải phần mềm diệt virus về em tải phần mềm nào được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.43463,
+         "id": "795717",
+         "field_search": "question",
+         "question": " Anh cho em hỏi iphone 5 lock em đang dùng bản 9.1 không có phần hospot em thì lên bản 9.0.2 có phần hospot không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.411573,
+         "id": "1023404",
+         "field_search": "question",
+         "question": "cho mình hỏi, máy của mình A5 2017, phần mềm Secure Folder của máy bị mất, làm sao mình có thể tải lại phần mềm Secure Folder? mình chưa sử dụng lần nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.716724,
+         "id": "989243",
+         "field_search": "question",
+         "question": "Cho em hỏi , em đang dùng 5se , em đang dùng phần mềm phiên bản 8.3 . Vậy em có nên cập nhật phần mềm để dùng máy tốt hơn hay dùng phần mềm cũ ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.003128,
+         "id": "776140",
+         "field_search": "question",
+         "question": " iPhone của em cập nhật phần mềm bị lỗi giờ không mở được giúp em cách khắc phục với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.847498,
+         "id": "752814",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện giờ em em đang dùng cái iPhone 4 mà em cập nhật phần mềm iOS có cách nào xóa bộ phận cập nhật này không vậy chỉ em với em cảm ơn nhiều?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753824,
+         "id": "825179",
+         "field_search": "question",
+         "question": " e xài iphone 4 ios 5.1 muốn cài line anh chị chỉ giúp e!e không muốn lên phần mềm!thank ac! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.739843,
+         "id": "785945",
+         "field_search": "question",
+         "question": " Mình muốn gỡ bỏ phần mềm cydia trên iPhone thì làm cách nào . Ai biết chỉ dùm cái. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.720037,
+         "id": "757565",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 16Gb bây giờ em muốn Jailbreak máy để dùng một số phần mềm thì có ảnh hưởng gì không ạ? Em thanks trước !!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.034958,
+         "id": "797840",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng iphone 5 lock nhật, em tải 1 ứng dụng về máy nhưng khi mở ứng dụng thì toàn bị văng ra ngoài. Anh chị tư vấn cho em cách khắc phục với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.825941,
+         "id": "873968",
+         "field_search": "question",
+         "question": " Em cần mua phần mềm diệt virut cho máy tính mà không biết mua loại nào, anh chị tư vấn em với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.822329,
+         "id": "780539",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em xài iPhone 5 đã jailbreak, do em không biết khi muốn gỡ phần mềm jailbreak ra khỏi máy đã bấm Cài Đặt Chung > Đặt Lại > Xóa Tất Cả Nội Dung Và Cài Đặt , bây giờ máy em bị treo táo phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.784285,
+         "id": "946203",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 prime đang dùng lại bị treo máy k tắt nguồn được, máy đơ có phải lỗi phần mềm lớn k ạ. Cho e hỏi cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.686337,
+         "id": "1165017",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j4 thường làm sao để gỡ cái bản cập nhật phần mềm mới nhất ạ. Cập nhập xong em chơi game bị giật quá hông chơi được ạ...em muốn gỡ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.608152,
+         "id": "794227",
+         "field_search": "question",
+         "question": " Tôi muốn reset lại máy, cho tôi hỏi có cách nào giữ lại các tin nhắn trên phần mềm line được không? Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.484842,
+         "id": "810891",
+         "field_search": "question",
+         "question": " Cho em hỏi phần mềm diệt virus cho iphone tên gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.414667,
+         "id": "810398",
+         "field_search": "question",
+         "question": " anh cho em hỏi phần mềm nào để hack wifi cho laptop acer? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369047,
+         "id": "807789",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cách fix lỗi iPhone 5 lock của mỹ như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.326935,
+         "id": "791969",
+         "field_search": "question",
+         "question": " Cho em hỏi. em đang dùng iphone 6plus em định cài phần mềm diệt vi rút bkav sao không cài được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.221174,
+         "id": "1157889",
+         "field_search": "question",
+         "question": "Gỡ cài đặt bản cập nhật phần mềm cho A6 plus sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.171711,
+         "id": "871343",
+         "field_search": "question",
+         "question": "Anh chị cho em biết nhung ứng dụng diệt virus trên iphone . Em đang dùng iphone 5 máy em bị nhiễm virus mà không biết cách diệt nên em mong anh chị cho em biết cách . Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.155912,
+         "id": "1144840",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách tải phần mềm Adobe Flash Player với ạ, mình cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.126259,
+         "id": "782290",
+         "field_search": "question",
+         "question": "Mấy anh kỹ thuật ơi cho em hỏi, em đang xài cái iPhone 5S iOS 8.4.1 mà máy kêu em cập nhật phần mềm iOS 9.1 không biết cập nhật phần mềm này máy chạy ổn định không vậy mấy anh? Em sợ nó bị lag!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.016626,
+         "id": "781862",
+         "field_search": "question",
+         "question": " Chào anh chị, em mới mua iPhone 5S có cần tải phần mềm diệt virus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.985682,
+         "id": "1023915",
+         "field_search": "question",
+         "question": "dạ cho em hỏi ạ máy của em là máy iphone 5 ạ em đang dùng phần mềm baterylife để kiểm tra độ chai pin lúc nó bảo pin hoàn hảo lúc thì nó bảo rất tốt là 3 phần trăm độ chai pin ạ các bác tư vẫn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.945566,
+         "id": "867608",
+         "field_search": "question",
+         "question": " Anh chị ơi cho em xin phần mềm kiểm tra ổ cứng đi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.846516,
+         "id": "749446",
+         "field_search": "question",
+         "question": " QTV cho em hỏi có phần mềm diệt vius nào dành cho iphone không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.777058,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.744936,
+         "id": "747857",
+         "field_search": "question",
+         "question": "Qtv ơi em đang dùng điện thoại iPhone 5 . Anh chị cho em hỏi hôm nay em đang lướt web thì máy báo như này  vậy điện thoại của em có bị làm sao không anh chị tư vẫn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.724453,
+         "id": "1022863",
+         "field_search": "question",
+         "question": "dạ cho em hỏi là máy của em là máy iphone 5 ạ thì làm cách nào để máy của em khg bị tự động tụt pin ạ ?? Và còn phần mềm ứng dụng battery life thì có ảnh hưởng gì đến máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.285555,
+         "id": "812911",
+         "field_search": "question",
+         "question": " Anh cho em hỏi phần mềm Microsoft Powerpoint nó cứ nỗi lên bản này là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.279451,
+         "id": "746792",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng ip6 nhưng tại sao em tải line về máy em đăng nhập lại khoản line cũ ko đc và tạo tài khoản mới cũng k đc , Line toàn hiện là k kết nối được với line vui lòng kiểm tra kết nối mang trong khi wifi và 3g của em dùng ở các ứng dụng khác vẫn rất tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.258577,
+         "id": "783385",
+         "field_search": "question",
+         "question": "Ad cho em hỏi iPhone 5 của em dùng mesenger sao không hiện bong bóng chat vậy làm cách nào để hiện được vậy ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.234276,
+         "id": "987722",
+         "field_search": "question",
+         "question": "cho em hỏi, đối với iphone 5 bản sách tay có cách để tắt âm chụp hình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.118559,
+         "id": "807821",
+         "field_search": "question",
+         "question": "Cho em hỏi là bằng cách nào để tải phần mềm có trong chplay về cho iPhone 6 không ak.Vì phần mềm đó nó chỉ có trong chplay thôi ak.Ad ơi xin vui lòng giúp em với.Em cần nó....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.113962,
+         "id": "771758",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 6s có phần mềm diệt virus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.105106,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.070843,
+         "id": "1166874",
+         "field_search": "question",
+         "question": "Tạo sao j7 prime cập nhập phần mềm bị lỗi em đang sài android 6 anh chị nào giúp đỡ em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.057634,
+         "id": "772809",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em dùng iPhone 5 vào App Store tải game và các ứng dụng thi nó cứ báo la khổng the kết nối với App Store.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.051916,
+         "id": "782812",
+         "field_search": "question",
+         "question": "Achi cho em hỏi, phần mềm mới nằm trong cài đặt máy của em nhưg em ko muốn căp nhật thì xoá bằng cách nào ạ, em đang sử dụng iPhone 5S ạ, achi giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.033373,
+         "id": "751768",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS, cho em hỏi mình cài được phần mềm phát wifi cho máy được hay không, phần mềm nào phù hợp và bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.962284,
+         "id": "756683",
+         "field_search": "question",
+         "question": " Cho em hỏi là có phần mềm nào ghi âm cuộc gọi cho iPhone 4s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.839558,
+         "id": "1143000",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi iphone bị như này là sao ạ, anh chỉ em cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.81392,
+         "id": "763587",
+         "field_search": "question",
+         "question": " Cho em hỏi là Laptop nào của các hãng mà chạy được phần mềm Etab với Autocad với giá từ 67 triệu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.678852,
+         "id": "784576",
+         "field_search": "question",
+         "question": "iPhone 5s của em tự nhiên bị nóng và đơ, mất cảm ứng vân tay và xuống pin rất nhanh. Anh/chị cho em hỏi máy đang bị hư pin hay phần nào ạ? Tư vấn cho em cách khắc phục với. Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.61516,
+         "id": "927247",
+         "field_search": "question",
+         "question": "Em đang xài Win 10 bản quyền có sẵn từ khi mua laptop ạ. Nhưng giờ em cài nhiều thứ quá và quản lý không tốt dẫn tới máy bị đầy và xung đột các phần mềm với nhau, dùng control panel để gỡ thì không hết sạch được và còn bị đơ khi uninstall.Em muốn dùng chức năng Reset PC là một cách rất tốt, nhưng không biết dùng xong thì win 10 bản quyền có bị mất hay thiếu thốn gì không ạ?Mong các anh chị tư vấn sớm giúp em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.598742,
+         "id": "763367",
+         "field_search": "question",
+         "question": " Cho em hỏi máy iPhone 5s chaỵ lại phần mềm có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.526947,
+         "id": "742465",
+         "field_search": "question",
+         "question": "Em đang xài iphone 5 nhưng khi em nâng cấp ios 9 thì phần gọi điện thoại và coi danh bạ bị đứng là máy bị sao mấy anh giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.492207,
+         "id": "1014632",
+         "field_search": "question",
+         "question": "Anh có thể giúp em cách khắc lỗi không cập nhật được phần mềm của oppo R831S và nếu có thể cho em xin file rom oppo R831S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.24408,
+         "id": "758827",
+         "field_search": "question",
+         "question": " Cho em hỏi em đang dùng iPhone 5 và đã lên 9.01 em tải ảnh về được mấy hôm thì mất là sao ạ? Ad giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.16772,
+         "id": "805416",
+         "field_search": "question",
+         "question": "Mọi người chỉ cho em cách với ạ?Em dùng hệ IOS 9.0.2 cảm thấy điện thoại em nó lag với cả chậm như rùa á. Giờ em muốn nó bớt chậm và lag đi thỳ phải làm sao ạ!!!Em cũng xoá hết mấy cái phần mềm không cần thiết trong máy rồi mà nó vẫn vậy. Ai biết cách làm sao chỉ em với nha. Help me, please!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.118942,
+         "id": "1157293",
+         "field_search": "question",
+         "question": "Anh cho em hỏi là khi bạn bạn của mình chặn Line. Nhưng cùng ở trong một nhóm nói chuyện line thì có nhìn thấy coment của đối phương không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.06531,
+         "id": "794624",
+         "field_search": "question",
+         "question": " Các anh cho em hỏi muốn cài itunes cho iPhone 5 thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.056105,
+         "id": "749220",
+         "field_search": "question",
+         "question": "Chào anh chị...em hiện đang dùng iphone 5s nhưng không biết phải copy nhạc, video từ laptop sang iphone như thế nào. Lúc trước tìm hiểu trên mạng thấy người ta dùng phần mềm itunes, em đã thử nhưng không được. Mong anh chị hổ trợ giúp em vấn đề này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.031195,
+         "id": "1155743",
+         "field_search": "question",
+         "question": "Cho em hỏi 1 xíu ạ, em vừa cập nhật phần mềm android trên điện thoại J2 Pro và xài thử thì trong quá trình dùng các ứng dụng thì nó khá lag. Em thật sự muốn gỡ phần cập nhật này ạ, hoặc phải làm thế nào để điện thoại em có thể dùng mượt hơn... Ế, em xin hỏi thêm 1 điều, cập nhật như vậy có hại gì cho điện thoại không ạ ? Em xin cảm ơn Thế Giới Di Động nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.96516,
+         "id": "909240",
+         "field_search": "question",
+         "question": " Em lỡ update lại win10 và các phần mềm mất hết em phải làm thế nào. Mong anh chị cho em lời khuyên ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.960756,
+         "id": "857383",
+         "field_search": "question",
+         "question": " Có phần mềm mỏ khoá iPhone 5 bằng vân tay k ạ có thì cho e xin cái link ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.91916,
+         "id": "1154265",
+         "field_search": "question",
+         "question": "anh ơi, cho em hỏi: em đang dùng iphone 4 IOS 7.1.2, nhà em k có wifi nên em dùng 3g trên iphone thế là sau một thời gian, pin của nó yếu đi rõ rệt. Anh có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.889176,
+         "id": "1010740",
+         "field_search": "question",
+         "question": "cho em hỏi cách riset máy uimi F6thì làm sao ạ hướng dẫn cho em với anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.884168,
+         "id": "798352",
+         "field_search": "question",
+         "question": " em đang dùng iphone 5,cho em hỏi dùng hệ điều hành ios mấy là tốt nhất ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.821285,
+         "id": "822548",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất mặt khẩu iCloud em muốn lấy lại làm cách nào và phần mềm diệt virus thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.792451,
+         "id": "1134852",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán phần mềm office 365 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.766726,
+         "id": "1164280",
+         "field_search": "question",
+         "question": "ad cho hỏi xíu ạ. mình sài điện thoại huawei nova 2i mình cài phần mềm color flash launcher nó làm thay đổi giao diện màn hình mình và k cho mình gỡ cài đặt nó, mình muốn trở về giao diện cũ và gỡ cài đặt phần mềm đó thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.753758,
+         "id": "808953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi , có phần mềm diệt virus nào hiệu quả cho iphone không ạ? Em mới tậu một em iphone 5s, mà sợ hay lên mạng google máy mó này nọ, lại rước về nhà không biết bao nhiêu em virus thì đau khổ lắm !!!! help helppp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.741236,
+         "id": "893697",
+         "field_search": "question",
+         "question": " Cho em hỏi Iphone 5 thì nên dùng IOS 7.1.2 hay 8.4 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.734954,
+         "id": "864989",
+         "field_search": "question",
+         "question": " Anh cho em hỏi có bản jailbreak ios9.2 cho iPhone 5 chưa vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.710466,
+         "id": "792911",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4, phần mềm 7.1.2, khi gọi video bằng ứng dụng line thì bên người nghe không nghe thấy tiếng mà vẫn nhìn thấy hình. Xin quản trị viên hỗ trợ dùm mình. Thanks bạn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.669218,
+         "id": "756355",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi em iPhone 5 16gb em đã lên ios 9.1 vậy em có nên lên ios 9.2 không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.648421,
+         "id": "768514",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi. Em dùng IPhone em muốn lưu ảnh, video vào tài khoản Google được không ạ. Và làm cách nào mong anh chị trả lời dùm em. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.638068,
+         "id": "780574",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn tắt thông báo cập nhật phần mềm thì làm thế nào ạ? trên iPhone 5S iOS 9.0.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.634059,
+         "id": "1149743",
+         "field_search": "question",
+         "question": "ad cho mình hỏi cách gỡ khoá màn hình của samsung j4 với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.622108,
+         "id": "759524",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là tại sao Messenger của em không gọi được video mà Appstore yêu cầu cập nhật liên tục rồi ạ? em đang dùng iphone 5S, mong anh chị giúp em với ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.620542,
+         "id": "921226",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách gỡ bản ios 10 để dùng bản ios9 trên ip5 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.591984,
+         "id": "792733",
+         "field_search": "question",
+         "question": " anh ơi cho e hỏi sao youtobe trên iPhone 5 của e lại không xem đc phim ạ. e có gỡ cài đặt 2 lần nhưng nó vẫn báo lỗi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.581828,
+         "id": "815937",
+         "field_search": "question",
+         "question": " Em đang dùng iphone4s nếu như em nâng cấp phần mềm lên 9.3.1 thì có sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.561698,
+         "id": "1155637",
+         "field_search": "question",
+         "question": "Cho em hỏi cài phần mềm etabs cho máy tính có tốn phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.493388,
+         "id": "743905",
+         "field_search": "question",
+         "question": "Máy em là iPhone 5 Quốc tế, hiện máy em đang chạy iOS 8.2, em muốn lên 8.4.1 mà vô cập nhật phần mềm để 9.1  khong?? Ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.344981,
+         "id": "1146242",
+         "field_search": "question",
+         "question": "Cho em hỏi chạy lại phần mềm nova 2i thì hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.344822,
+         "id": "1142533",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mua laptop bên mình các phần mềm của microsoft sẽ được tải bản đầy đủ hay bản dùng thử ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2899475,
+         "id": "867646",
+         "field_search": "question",
+         "question": " cho hỏi tải phần mềm diệt virus trên điện thoại iphone sau ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.280172,
+         "id": "867645",
+         "field_search": "question",
+         "question": " cho hỏi phần mềm diệt virus trên điện thoại iphone sau ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.244194,
+         "id": "801522",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi em đang dùng iPhone 4S có thể dùng hai tài khoản iCloud được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.241376,
+         "id": "781128",
+         "field_search": "question",
+         "question": " Cho mình hỏi là phần mềm diệt virut nào tốt và dễ dùng nhất cho iphone 4s vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.214637,
+         "id": "779274",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng iphone 5 lock Nhật mà máy em dạo này không gửi tin nhắn văn bản cho các loại máy khác được, em thử gửi cho máy iphone thì lại nhận được tin nhắn? Em không biết lý do vì sao lại như vậy hay là do hàng lock nên vậy anh chị tư vấn giúp em với...em cảm ơn anh chị ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.167881,
+         "id": "992187",
+         "field_search": "question",
+         "question": "Ad cho em hỏi e đang dùng ip6 64g ma khi em nâng cấp phần mềm lên ios10.3.2 thì không còn phát nhạc youtube trong safari khi khoá màn hình nữa cách khắc phục ntn ajk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.155971,
+         "id": "1147072",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em dùng con 6sp quốc tế , em muốn chạy lại phần mềm thì có bị ảnh hưởng gì hk ! Có bị khoá mấy ko ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.135692,
+         "id": "777279",
+         "field_search": "question",
+         "question": "Add cho em hỏi tý ạ, e đang dùng iPhone 5 khi em đang nhập tài khoản ID Ppple sao lại không được ạ, lỗi như hình add chỉ em cách khắc phục nhé?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.133778,
+         "id": "792101",
+         "field_search": "question",
+         "question": "Cho em hỏi cách gỡ bỏ Assistive touch trên Samsung j2. Em đã vào quản lý ứng dụng gỡ cài đặt nhưng vẫn không được. cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.129927,
+         "id": "872522",
+         "field_search": "question",
+         "question": "Tại Sao Iphone 5 của em phiên bản mới 7.1.2 Nó cứ vậy em . Em vào cài đặt phền mềm rồi nhưng sao chẳng được . Anh chỉ em nâng cấp lên 8.0 với để e có thể cập nhật những ứng dụng khác . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.109569,
+         "id": "969376",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iphone 6plus ,sao ko tải được phần mềm airshou . Mình đã thử nhiều cách nhưng vẫn ko được, vậy mình có thể tải phần mềm quay phim màn hình nào khác được, mong hướng dẫn dùm mình, thanks....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.100779,
+         "id": "768657",
+         "field_search": "question",
+         "question": "Ad cho em hỏi hiện em đang dùng điện thoại iPhone 5 em muốn đổi điện thoại nhưng em lại sao chép số danh bạ không được, ana chị giúp giùm em với, em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.098844,
+         "id": "1150877",
+         "field_search": "question",
+         "question": "Cho em hỏi là nên chọn phần mềm diệt virus nào cho laptop tốt nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.074933,
+         "id": "1021415",
+         "field_search": "question",
+         "question": "Chào anh ! Hiện tại em đang dùng samsung j3 pro em có thấy trong phần cài đặt có tính trợ năng vậy cho em hỏi cách sử dụng tính trợ năng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.053379,
+         "id": "839881",
+         "field_search": "question",
+         "question": " Cho mình hỏi đã tìm đc cách khôi phục lại tin nhắn line mà đã xoá ứng dụng line chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.053197,
+         "id": "897857",
+         "field_search": "question",
+         "question": " Em nghe nói Iphone cập nhật phần mềm sẽ biến thành cục gạch, Hiện tại máy e báo cập nhật phần mềm, vậy có sao ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.017932,
+         "id": "1156967",
+         "field_search": "question",
+         "question": "cho em hỏi cách gỡ sim trên máy tính bảng lenovo A3500, em xin cảm ơn ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.005397,
+         "id": "837690",
+         "field_search": "question",
+         "question": "Thế Giới Di Động cho em hỏi là Em đang dùng iPhone 4 phiên bản IOS 7.1.2.Em đã jaibreak rồi và bây giờ em muốn gỡ bỏ jaibreak có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "816741",
+   "total": 33795,
+   "total_current": 100,
+   "max_score": 113.75266,
+   "origin_question": "Cho e hỏi là e đang dùng iphone 4s nhưng nó rất nóng khi sử dụng dù e chưa bật 3g có thể cho e biết nó bị sao ạ.trong khi đó e đẫ tắt hết các ứng dụng chạy ngầm rồi ạ",
+   "hits": [
+      {
+         "score": 45.719616,
+         "id": "846721",
+         "field_search": "question",
+         "question": "cho em hỏi các anh các chị là, laptop hp của em nó rất là nóng mỗi khi sử dụng mạng internet, cho e hỏi có cách khắc phục gì để máy đó nóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.390972,
+         "id": "820914",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em rất nóng khi em mới sử dụng 3G còn sử dụng wifi thì không bị sao vậy cho em hỏi bị sao ạ.máy em mới bật 3G khoảng 2phut thì nó nóng ran luôn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.323532,
+         "id": "1141824",
+         "field_search": "question",
+         "question": "E dùng Hawei Y5 IICho hỏi : e lỡ tắt cái ứng dụng chạy ngầm, zalo facebook , ngta nhắn tin e e cũng chẳng nhận đc thông báo, k biết gì hết, e muốn bật lại thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.93604,
+         "id": "1006037",
+         "field_search": "question",
+         "question": "e đang dùng samsung J7 pro mà mối lần sạc là cả thân máy và sạc đều nóng đặc biệt là cục sạc, mặc dù e đã tất hết ứng dụng wifi 3g ... mà nó vẫn bị nóng ??? là sao add ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.44398,
+         "id": "797163",
+         "field_search": "question",
+         "question": "e muốn hỏi e đang dùng ip , tối trc khi đi ngủ e đã sạc đầy 100% pin nhưng sáng ngủ dậy thì chỉ còn có 43% trng khi e đã tắt hết các ứng dụng, k 3g, k wifi. Lý do là vì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.35055,
+         "id": "790335",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng máy iphone 5, khi bật 3g thì sử dụng liên tục khoảng 3 4 giờ pin báo dưới 20% và máy có hiện tượng nóng, thì e tắt 3g để máy nghỉ, sau đoa cắm sạc lại thì thấy máy hồi pin lại khoảng 25-30% pin. Cho e hỏi máy e đang dùng là bị như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.417873,
+         "id": "814911",
+         "field_search": "question",
+         "question": " cho e hỏi iPhone 5 của e gần đây vào các ứng dụng đang chạy mà nó lại bị văng ra ngoài làm ntn e có thể khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.345306,
+         "id": "824777",
+         "field_search": "question",
+         "question": "Cho e hỏi IP 5s của e khi mở camera 360 lên chụp chưa tới 5p thì máy bị nóng rang lên là sao ạ? Còn khi sử dụng các chức năng khác thì ko bị sao hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.792347,
+         "id": "1015234",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao đt Huawei của e sao khi cập nhật hệ thống xong nó bị tự hết pin rồi tắt nguồn , e sạc đầy pin bỏ đó không xài nó tự chạy pin rồi hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.624443,
+         "id": "1152619",
+         "field_search": "question",
+         "question": "J2 prime của e mới mua khoảng 1 tuần pin mau hao khi sử dụng các thao tác đơn giản, khi tắt máy và tắt các ứng dụng chạy ngầm, tắt cả wifi mà vẫn sụt pin là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.52794,
+         "id": "999128",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang sử dụng oppo F3, mà radio di động là gì. E không bật ứng dụng đó, thấy hao pin qua và chỉ e cách tắt ứng dụng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.90695,
+         "id": "1016347",
+         "field_search": "question",
+         "question": "E đang dùng on7 2016 , hiện nay máy e cứ bị lỗi lớp phủ màn hình , e có tắt hết các ứng dụng có thể xuất hiện trên cùng nhưng nó vẫn bị lỗi . qtv có thể giúp e giải quyết vấn đề này dc k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.9016,
+         "id": "1162636",
+         "field_search": "question",
+         "question": "điện thoại e là redmi note 6 khi bật 3g gói 70k 3gb 1 tháng , e vẫn chưa sử dụng hết dữ liệu , vẫn chưa hết tháng nó hiện lên chữ H+ và ko vào đc mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.53805,
+         "id": "1157272",
+         "field_search": "question",
+         "question": "Điện thoại Samsung galaxy j7 pro. Khi sử dụng các ứng dụng khác camera điều sử dụng bình thường. Nhưng khi gọi trên skype thì camera trước và sau điều không sử dụng được cho e hỏi tại sao ạ. E đã bật quyền truy cập máy ảnh cho ứng dụng rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.508614,
+         "id": "767695",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đã đk gói 3g của viettel, nhưng sau khi bật dữ liệu di động thì máy không hiện 3g mà hiện chữ E làm máy chạy rất tốn pin và max chậm. ad giúp e vs e dùng iPhone 4S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.062164,
+         "id": "1162708",
+         "field_search": "question",
+         "question": "Dạ e mới mua đt Xiaomi note 7 bên TGDD. E có thắc mắc là khi e bật chế độ 3 nút điều hướng . Khi bấm nút điều hướng bên trái thì nó ko hiển thị danh sách những ứng dụng đã dùng như bao đt android khác. Khi đang ở 1 ứng dụng nào đó thì nó như vô dụng. E hỏi đó là do máy có sẵn như thế hãy sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.913124,
+         "id": "1162194",
+         "field_search": "question",
+         "question": "cho e hỏi máy e lúc sài không sử dụng mật khẩu nhưng khi tắt nguồn máy mở lên nó kêu nhập mã kích hoạt iphone là nó bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.691315,
+         "id": "846756",
+         "field_search": "question",
+         "question": "Các anh chị cho e hỏi với. Em dùng oppo F1, e đã bật chế độ chạy nền cho ứng dụng zalo rồi mà khi có tin nhắn vẫn k nhận đc thông báo. chỉ khi e vào ứng dụng zalo thì mới nhận đc thông báo ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.363747,
+         "id": "1023738",
+         "field_search": "question",
+         "question": "ad cho e hỏi :'sao khi cập nhật ios 11 thì tải ứng dụng nó sao sao ý??Bấm tải rồi, nó hiển thị là đang chờ, để mãi cũng đang chờ dù có một cái, bấm vào icon của ứng dụng đó thì chuyển thành đang tải chạy qua được xíu. Mà để cả buổi cũng như vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.136356,
+         "id": "1023322",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng chiếc iphone6 dạo gần đây e k biết máy e bị sao. E tắt hết 3G và cả wifi e chỉ nghe nhạc thôi nghe được gần 1 tiếng thì máy e nóng bất thường cà hao pin rất nhanh là sao thế ạ? Mong được câu trả lời!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.86826,
+         "id": "831523",
+         "field_search": "question",
+         "question": "cái máy laptop của e đang sạc pin nhưng e muốn xài nên e tháo pin, mà đang tháo ra rồi thì lỏng ổ cắm điện nên nó tự tắt,rồi e khởi động lại thì được nhưng vô ứng dụng không vô đc ứng dụng ,mà có vô đc thì rất chậm,phải sử lý sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.738064,
+         "id": "1152480",
+         "field_search": "question",
+         "question": "Cho e hỏi s nhìu khi e đang nt trên ip 8plus mà có khi messenger nó đứng lun ấm vào k đc mà quay lại các ứng dụng khác là bị a ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.47948,
+         "id": "1134164",
+         "field_search": "question",
+         "question": "Máy em là a8 star khi sử dụng youtube thì khi lướt lên nó bị chạy ngược xuống mặc dù em đã chạy chương trình lại rồi ạ vậy máy e bị lỗi gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.24103,
+         "id": "998047",
+         "field_search": "question",
+         "question": "Điệnthoại e nó có vấn đề, nó hiện lên thiết bị đang nóng e dô ứng dụng nào cũng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.148643,
+         "id": "1023587",
+         "field_search": "question",
+         "question": "E mua đt iphone 6 chưa đc 1 tháng nhưng mà đt để qua đêm lại bị hao hụt pin mặt dù đã tắt tất cả các ứng dụng cho e hỏi tai sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.11165,
+         "id": "774547",
+         "field_search": "question",
+         "question": "cho e hỏi là máy 5s của e đã đi kiểm tra và chưa bị chai pin nhưng khi khóa màn hình không sử dụng thì nó lại tụt pin dần cho đến khi hết cạn , vậy máy e có bị lỗi gì không và có cần restore lại k ạ . e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.900726,
+         "id": "1169440",
+         "field_search": "question",
+         "question": "Em mới mua oppo f9 dùng đc2 ngày nhưng khi vào ứng dụng hay bị đơ, và phải tắt hẳn tác vụ đó đi bật lại, cho e hỏi là máy bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.71537,
+         "id": "1169029",
+         "field_search": "question",
+         "question": "Cho e hỏi. Máy e loại huawei y6 prime. Máy thường hao pin nhanh do có nhiều ứng dụng chạy ngầm gây tốn pin. Làm ơn chỉ e cách tắt chạy ngầm tốn pin đi ạ? E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.518,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.35613,
+         "id": "832120",
+         "field_search": "question",
+         "question": "sao iphone 4 vào tất cả ứng dụng về camera sao nó hay lag vậy em có tắt hết ứng dụng chạy ngầm rồi mà vẫn lag giúp em về?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.34515,
+         "id": "1148160",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho e hỏi ạ....e k thể bật wifi lên được nữa ạ, khi bật lên thì nó cứ tắt ạ...e đang xài samsung j8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.343956,
+         "id": "1159000",
+         "field_search": "question",
+         "question": "Cho e hỏi làm cách nào để sử dụng id khác cho iphone mà trong khi máy có thể sử dụng được 3 id mà e dùng hết mà muốn dùng id khác phãi làm sao dùng được id khác ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.176605,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.947735,
+         "id": "1152905",
+         "field_search": "question",
+         "question": "J2 prime của 2 mới mua khoảng 1 tuần, khi ko sử dụng và tắt hết các ứng dụng chạy ngầm kể cả kết nối wifi nhưng vẫn hao pin, là sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.8101,
+         "id": "1022947",
+         "field_search": "question",
+         "question": "Chào TGDĐ ạ. E đang sử dụng đt J7 prime. E muốn hỏi là tại sao e chụp hình bằng cam trước khi cho hình nó bị ngược lại so với chiều mình chụp. Lỗi đó làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.737537,
+         "id": "1008515",
+         "field_search": "question",
+         "question": "Dạ chào ac, em hiện đang dùng dòng 7+ đc 1 tháng ah, nhưng trước đó đt ko hề có biểu hiện ngốn bin, từ khi nâng cấp lên 10.3.3 thì đt e ngốn bin nhiều hơn, tắt hết các ứng dụng chạy ngầm và ko dùng gì vẫn có thể tụt bin nhanh chóng... mong ac giải đáp giúp e trường hợp này do lỗi của hệ điều hành hay của máy ạ, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.736366,
+         "id": "996409",
+         "field_search": "question",
+         "question": "E dùng sky a900, bây giờ dth của e liên tục ứng dụng không phản hồi kèm theo là bị đơ khi ấn vào các ứng dụng đó, ấn nút home thì nó lại quay về bình thường mặc dù e đã cập nhật lại, xóa các app không cần thiết, xong reset lại máy mà nó vẫn bị như thế Mấy cái khác thì chỉ vào dc 1 lúc \r\nCứu e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.6669,
+         "id": "1015257",
+         "field_search": "question",
+         "question": "E xài ss j3 16, sao điện thoại e nó cứ tự động tắt ứng dụng khi tắt màn hình vậy ạ ?  E đang mở mp3 nghe nhạc xong tắt màn hình đi là nghe đc tầm 10' là nó tự tắt lun, (đây là e ko có hẹn giờ tắt nhạc đâu nhé), mấy cái ứng dụng khác như mess cũng bị tương tự lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.449947,
+         "id": "1018566",
+         "field_search": "question",
+         "question": "máy e mới bị vào nước , e bỏ vào gạo cho khô rồi ,nhưng khi bật lên sử dụng thì không cảm ứng được ??không biết bị lỗi gì , liệu có bị hư IC không xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.342236,
+         "id": "1016856",
+         "field_search": "question",
+         "question": "cho em hỏi e đag dùng s6 edge, mạc dù có tắt hết kết nối và đã tắt 1 vài ứng dụng chạy ngầm k dùng đến mà pin vẫn sụt nhanh lắm ạ, e sạc đầy 100% lúc 2h mà đến 4h đã mất hơn 10% pin mà k sử dụng đến máy, chuyển sang chế độ siêu tiết kiệm pin nhưng cũng sụt giảm pin trông thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.21664,
+         "id": "811088",
+         "field_search": "question",
+         "question": " Chào, iphone của e hay bị nóng khi sạc và khi sử dụng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.967392,
+         "id": "1022799",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ Tháng 1 năm nay e có mua 1 cái Samsung galaxy j2 prime và 1 cái thẻ nhớ 16GĐến giờ khi sử dụng thì bộ nớ trong của máy e đã đầy nên nó ko cho phép tải thêm nữa mà trong khi đó bộ nhớ ngoài của e còn tận 15GVậy làm sao để e có thể tải trực tiếp các ứng dụng về bộ nhớ ngoài luôn ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.906677,
+         "id": "1019615",
+         "field_search": "question",
+         "question": "E dùng  máy ss j2 prime, máy e có cái ứng dụng tên là facebook app installer, nó cứ tự động cập nhật ứng dụng mặc dù e tắt ở CH play r thì p làm tnao để tắt cái app này bâyh ạ, nó là app hệ thống có tắt đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.863384,
+         "id": "1136654",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e bị tắt nguồn nhưng khi bật lại thì bị treo ở logo xperia rồi treo đến lúc hết pin lại bật lên vẫn treo thế nhưng dùng các cách để reset lại máy nhưng không hiện lên bảng  Recovery. để tiến hành cài lại. máy e là sony xa1. giờ e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.857822,
+         "id": "1158969",
+         "field_search": "question",
+         "question": "Chào Ac ạ , e có mua samsung A7 được 3 tháng đến nay nâng cấp lên androi 9.0 thì pin tụt rất nhanh ạ , E sạc 100% pin tắt hết ứng dụng chạy ngầm , giảm độ sáng tắt wifi , không sử dụng để sau khoảng 4 tiếng thì mất 40% pin máy thì nóng . Thì phải làm sao ạ , mọi khi em sạc đầy tắt đi  ( 7h đến 16h30 )sáng đến chiều k dùng tiêu tầm 6% pin thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.828796,
+         "id": "1012965",
+         "field_search": "question",
+         "question": "Cho e hỏi điện e ..là j7prim ..e tải về một ứng dụng hiện giờ trên màng hình khi tắt máy ak... Rồi nó hiện lên h và dòng chữ slide to unlock ( trượt để mở khóa ) như trược mà nó vẫn không mở ...mong các a giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.79873,
+         "id": "997658",
+         "field_search": "question",
+         "question": "Qtv ơi cho e hỏi là đt e cửa e đang sử dụng là Q EDGY nhưng nó bị nức mặt kính do lổi của e , phần cảm ứng và phần màng hình k ảnh hưởng j hết  e có thể mang tới tgdt để dc hổ trợ sữa chữa k và chi phí là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.755737,
+         "id": "791831",
+         "field_search": "question",
+         "question": "e đag sài iPhone 5s mà lúc lên 3G thì nó bị nóng và lên đọc báo khoảng tầm 3 4 tiếng là hết pin cho e hỏi pin có bị làm sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.618595,
+         "id": "797524",
+         "field_search": "question",
+         "question": " Cho e hỏi iPhone 4s của e tự nhiên bị tắt nguồn là nó bị gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.58944,
+         "id": "811092",
+         "field_search": "question",
+         "question": " Chào, iphone của e hay bị nóng khi sạc và sử dụng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.21882,
+         "id": "995790",
+         "field_search": "question",
+         "question": "Cho e hỏi là e tati ứng dụng về xong nó bị thế này.xoá ứng dụnh thì nó k xoá đc  nó cứ hiện như vậy .k biết lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.139458,
+         "id": "797081",
+         "field_search": "question",
+         "question": "Cho e hỏi là em đang dùng iPhone 5s sau một hôm máy bị hết pin sật nguồn e dùng dây sạc mới để sạc pin thì pin lên được 3% pin sau đó đứng im luôn được 1 lúc e tắt đi thì lên 15% mà muốn biết đc bn % pin là lại phải tắt nguồn r bật lên.lúc sử dụng cũng thế.e xp 20' mà nó vẫn giữ nguyên ở 100%.như thế là lỗi hay hỏng ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.089695,
+         "id": "796913",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dùng ip5 lock mà dùng máy được tầm 15 phút là thấy nóng máy rồi là bị làm sao ạ,tất cả các ứng dụng mình tắt hết máy mình k cài đặt nhiều ứng dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.05049,
+         "id": "992114",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 5 e đã cài sim 4g rồi nhưng vẫn chưa sử dụng dc mạng lte",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.786003,
+         "id": "1153184",
+         "field_search": "question",
+         "question": "Cho e hoi máy e c9 pro mua dk hn 1 năm.bh tắt mạng máy hay bị nóng mà chạy ứng dụng có phải hỏng pin không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.72808,
+         "id": "1152210",
+         "field_search": "question",
+         "question": "Làm ơn cho e hỏi e đang sử dụng HTC khi sạc tự nhảy loạn xạ làm sao để khác khắc phục dc ạ e cũng thử đổi những cục sạc khác nhưng nó vẩn bị ik như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.649124,
+         "id": "1133398",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là. Em vừa mới mua samsung j6+ nên chưa biết sử dụng rõEm vừa tải game xog mà trog màn hình chính đt thì không có ứng dụng đó nhưng CH play thì để là đã cài đặtVậy làm sao để e đưa ứng dụng đó ra màn hình chính của đt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.633804,
+         "id": "1018449",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao 2 ứng dụng màu trắng đó k có trên màn hình chính mà khi e vào chỗ phần dung lượng này để xoá nhưng 1 lúc sau nó lại hiện lên.Ai giúp e xoá nó vs please😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.6249,
+         "id": "923227",
+         "field_search": "question",
+         "question": "Em bật 3g để lên zing tải nhạc, khi tìm được nhạc ấn tải thì được báo là máy chưa cài đặt phần bật 3g để tải nhạc trong khi đó e đã bật rồi, mn cho e ý kiến với( zing bản cập nhập mới nhất trên iphone )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.624546,
+         "id": "833298",
+         "field_search": "question",
+         "question": "Mình đang sử dụng đt iphone 4s.Nhưng ứng dụng của nó cứ bị búng. Nên mình ms tắt nguồn để bật lại.Nhưng sau đó bị mất hết ứng dụng và sđt trước đó.Z cho hỏi mình phải lm ntn???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.489193,
+         "id": "922238",
+         "field_search": "question",
+         "question": " cho e hỏi là e mua lap nhưng không biết là trang nào có các ứng dụng an toan để tải về .ad chỉ giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.45577,
+         "id": "1022562",
+         "field_search": "question",
+         "question": "Cho e hỏi đt M4 của e dù đã chuyển 1 số ứng dụng với game qua thẻ sd ui mà sao nó vẫn báo hết dung lượng lưu trữ là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.368374,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.353172,
+         "id": "1006301",
+         "field_search": "question",
+         "question": "E mới mua samsung j2 prime nhưng điện thoại luôn báo bộ nhớ đầy e mua thẻ nhớ 8g lắp vào nhưng sao khi e vào ch phay tải ứng dụng về nó vẫn báo là bộ nhớ đầy cần xóa bớt để tải trong khi e đã lắp thẻ nhớ còn mới chưa dùng vào điện thoại rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.352192,
+         "id": "748476",
+         "field_search": "question",
+         "question": " iphone 6 bị tụt pin mặc dù không sử dụng, đã tắt hết các ứng dụng , wifi, 3g, ad giúp em trả lời với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.34818,
+         "id": "773016",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5s được khoảng 10 ngày, nhưng tình hình là máy em xuống pin rất nhanh. Em sử dụng 3g thì chỉ được tầm 3h-3h15 phút thôi. Em đã tắt hết các ứng dụng chạy ngầm, độ sáng màn hình thấp nhất, thậm chí là mở chế độ pin thấp. Và khi em chụp ảnh liên tiếp khoảng 40 tấm, thì pin sụt từ 5-7% pin.. Vậy pin của em có vấn đề gi không ạ? Máy e chạy iOS 9.1.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.265293,
+         "id": "855528",
+         "field_search": "question",
+         "question": "e có một chiếc iphone, hầu như ko sử dụng, cũng đã tắt wifi và bluetooth, nhưng sau khi sạc đầy thì nó tự động hết dần pin qua mỗi ngày. Cho e hỏi như vậy có bình thường ko ạ? nếu ko thì cách khắc phục là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.20854,
+         "id": "1153142",
+         "field_search": "question",
+         "question": "E có mua một loptop dell inspiron  5570 cách đây 21 ngày . Mà hiện tại e sử dụng thì thấy máy hay bị đứng và có hiện tượng đang sử dụng thì máy bị tắt màn hình rồi nó mở lên lại. Xin cho biết cách giải quyết đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.18021,
+         "id": "996057",
+         "field_search": "question",
+         "question": "E xai cái Q edgy ko hiểu sao xài mới co vài phút là máy nóng hổi ,mất cảm ứng rọi lát sau lai sử dụng được ad có thể cho e biết tại sao lại vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.13922,
+         "id": "1017151",
+         "field_search": "question",
+         "question": "Khi mất phiếu bảo hàn rồi có được đổi điện thoại trong 1 tháng k ạ? Vì điện thoại e mua hơn 1 tuần mà nó bị tắt nguồn khi đang sử dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.12889,
+         "id": "795375",
+         "field_search": "question",
+         "question": " e đang sửa dụng chiếc iphone 4 nhân mà sao e vào ứng dụng camera thì nó lại bị giật và bị lắc nữa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.081398,
+         "id": "1010370",
+         "field_search": "question",
+         "question": "Tại sao khi em bật led cảnh báo cuộc gọi khi nháy nhưng nó không có hiện đèn . E đang dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.066925,
+         "id": "966141",
+         "field_search": "question",
+         "question": " Qtv ơi e đang sử dụng iphone 4s nhưng phiên bản là 7. Giờ e muốn nâng cấp lên 8. Thỳ làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.993675,
+         "id": "1142996",
+         "field_search": "question",
+         "question": "Ad cho e hỏi ạ. E mua cho mẹ máy masstel f6 bật báo thức ntn ạ? Phần tình trạng nó cứ hiện tắt k thể ấn bật dc mặc dù ấn nút giữa nhưng nó lại quay lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.96402,
+         "id": "877479",
+         "field_search": "question",
+         "question": " ad cho e hỏi sao máy iPhone 4s của em lại k bật đc 3G ạ? vuốt để bật nó lại trở về như cũ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.91121,
+         "id": "822761",
+         "field_search": "question",
+         "question": "Cho e hỏi: E đang xài mac os, em muốn mua ứng dụng trong app store ,nhưng nó có giá 4.99$ ,bên công ty mình có bán loại thẻ nào để mua được ứng dụng đó không? .e cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.89047,
+         "id": "1001870",
+         "field_search": "question",
+         "question": "Điện thoại e mới mua về khi sử dụng khoảng 15phút  thì nóng máy e có thể đổi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.869686,
+         "id": "746007",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới dùng galaxy a8 dc 3 hôm. Nhưg khi e thực hiện cuộc gọi video trong ứng dụng viber thì hôk thấy có video. Và hiện lên dòg chữ đó. Qtv có thể cho e biết lý do đc ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.852432,
+         "id": "789898",
+         "field_search": "question",
+         "question": " Tại sao khi tải các ứng dụng trên appcola thì nó trả lời là k thể tải vào lúc này, Mình đang sử dụng iPhone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.814926,
+         "id": "935931",
+         "field_search": "question",
+         "question": "Anh có thể cho e biết cửa hàng mình có cái game hay ung dung không ạ,máy iPhone5se của e tải ứng dụng về không được ,máy nó báo là dung lượng bộ nhớ không đủ trong khi đó bn con tới 25g .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.773838,
+         "id": "1018431",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng ssj3 thì nó đột ngột tắt nguồn là vì sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.766087,
+         "id": "999821",
+         "field_search": "question",
+         "question": "Máy e oppo neo9 mua chưa được tuần mà sao để qua đêm pin vẫn hao 2 -3% e đã tắt hết ứng dụng Wi-Fi 3g r mà vẫn hao pin. Có bị sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.76396,
+         "id": "784784",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng con iPhone 4S mà bắt mạng 3G nó vẫn hiện mạng E mà em cài Mimax rồi mà vẫn mạng E? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.74781,
+         "id": "910689",
+         "field_search": "question",
+         "question": "Cho e hỏi. Em đang dùng iphone 4. Nhưng cài đặt game ko được. Em đã có ID rồi. Vẫn mua ứng dụng và game được. Nhưng nó không chịu tải.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.724403,
+         "id": "1002246",
+         "field_search": "question",
+         "question": "Tại sao ứng dụng youtube được cài sẵn trong máy e mới mua về lại bị tự động dừng video khi đang xem ạ. Có thể cho e biết cách khắc phục không ạ. Zing mp3 e tải về cũng bị nt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.62551,
+         "id": "991106",
+         "field_search": "question",
+         "question": "cho e hỏi lap e là dell ạ, sao trong appstore lại ko có rất nhiều ứng dụng e tìm kiếm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.612488,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.595886,
+         "id": "1165148",
+         "field_search": "question",
+         "question": "Cho e hỏi sao điện thoại e đang sử dụng ở những ứng dụng khác thì Youtube của đt cứ tự động xuất hiện và chạy. Đôi khi vào xem Youtube thì Youtube lại tự động tắt và thoát ra khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.57359,
+         "id": "999914",
+         "field_search": "question",
+         "question": "Em xài note 3 cũng được 3 - 4 năm rồi. Ngày trước pin rất lâu xuống, e chơi game vs chat cả ngày mà điện thoại rất lâu hết pin. E luôn dùng sạc chính hãng của note 3 để sạc điện thoại. Nhưng từ ngày củ sạc đó bị hư, e cũng cho rằng sạc các dây sạc khác điện vẫn vô nên e ko mua dây mới. Nhưng khoảng 1 năm lại đây, e hay vừa sạc vừa sử dụng nên điện thoại rất lâu đầy, nhưng xuống pin nhanh lắm. E ko dám vừa chơi vừa sạc nữa, cũng như xóa và vô hiệu hết các ứng dụng chạy ngầm, giảm độ sáng các kiểu, nói chung e đã làm mọi cách có thể nhưng điện thoại vẫn xuống pin liên tục, ko xài gì cũng xuống. Cho em hỏi bây giờ e có nên thay củ sạc và pin luôn ko ạ ? Vì pin từ lúc mua đến giờ e ko hề đụng vào, chưa thay mới bao giờ, còn dây sạc thì chắc phải mua mới vì cái cũ hư rồi. E cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.52473,
+         "id": "862851",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy oppo f1 được chừng q tháng nhưng sao máy của em nhanh hết pin vậy ạ . Từ lúc 22g điện thoại e còn 71% nhưng đến 6g thì xuống còn 20% mà các ứng dụng wifi 3g hay độ sáng e đều đã giảm rồi ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.522495,
+         "id": "767153",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc trước e có sử dụng iPhone 4s bằng sim ghép , nhưng bây giờ e muốn lấy sim đã ghép ở iPhone 4s sang sử dụng cho 5s phiên bản quốc tế được không ạ , có ảnh hưởng gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.51495,
+         "id": "755030",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone 5 của em đang dùng. Khi em vào bật 3g và bấm quay lại thì máy quay lại rất chậm, còn em bật hoặc tắt các ứng dụng khác khi quay ra vẫn bình thường. chỉ mỗi 3g bật tắt lúc thoát ra hơi chậm thôi. xin được giải đáp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.468456,
+         "id": "767084",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.45792,
+         "id": "1162129",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy nokia lumia 525 khi tải ứng dụng nó đề chữ: đang chờ xử lý mãi mà ko tải xuống đc; ứng dụng nào e tải cũng vậy ạ. Mong ad giúp cho ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.41334,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.33111,
+         "id": "1017862",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e oppo s1 e tải cái j nó cx kêu đang tải xuống mà để gần 15p nó vẫn chưa chạy % là sao ạ, mà mạng nhà e vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.317783,
+         "id": "1148764",
+         "field_search": "question",
+         "question": "Cho e hỏi là cái điện thoại oppo a37 của e đang dùng bình thường mà sao tự nhiên sập nguồn rồi e mở nguồn lên điện thoại nó sáng thui chứ chẳng thấy ứng dụng j cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.312984,
+         "id": "798262",
+         "field_search": "question",
+         "question": "Em đang chơi game trên iPhone 4 thì bị thoát ra ngoài em đã tắt các ứng dụng ngầm và xóa bớt các ứng dụng nhưng vẫn bị ad cho em hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.302464,
+         "id": "1151545",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua oppo A7. Em đã bật tiết kiệm pin và trước khi ngủ em đã tắt hết các ứng dụng ngầm nhưng điện thoại vẫn tuột 2% pin thì có sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}
