@@ -194,8 +194,8 @@ def raw_query_pool():
 
 def train_dev_test_split(X, test=True):
     if test:
-        train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 6, shuffle=True)
-        train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 5, shuffle=True)
+        train_dev, test = sklearn.model_selection.train_test_split(X, test_size=1 / 8, shuffle=True)
+        train, dev = sklearn.model_selection.train_test_split(train_dev, test_size=1 / 7, shuffle=True)
         return train, dev, test
 
     train, dev = sklearn.model_selection.train_test_split(X, test_size=1 / 5, shuffle=True)
@@ -215,17 +215,17 @@ def split_data(path_glob, test=True):
         train_paths, dev_paths = train_dev_test_split(paths, test=test)
 
     for path in train_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/train'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/train'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in dev_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/dev'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/dev'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
     for path in test_paths:
-        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test'
+        destination_dict = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/test'
         filename = os.path.basename(path)
         shutil.copyfile(path, destination_dict + '/' + filename)
 
@@ -237,8 +237,9 @@ def raw_pool(kind='train', pool='similar2', max_judged=10, strict=False):
     # explicit_path_use = 'data/' + pool + '/' + kind + '/*.json'
     # explicit_path_raw = 'data/' + pool + '/raw/' + kind + '.txt'
 
-    explicit_path_use = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative/all/*.json'
-    explicit_path_raw = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative/raw/allnegative.txt'
+    explicit_path_use = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/test' \
+                        '/*.json'
+    explicit_path_raw = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/raw/test.txt'
 
     raw_to_file(strict=strict,
                 separator='\t',
@@ -300,48 +301,28 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                 else:
                     origin_question = convenion.simple_customize_string(origin_question)
                 id_origin_q = judged_result['id_query']
-                max_score = judged_result['max_score']
                 current_judged = 0
                 for hit in judged_result['hits']:
+                    current_judged += 1
+
                     judged_question = hit['question']
                     if tokenize:
                         judged_question = convenion.customize_string(judged_question)
                     else:
                         judged_question = convenion.simple_customize_string(judged_question)
-                    id_judged_q = hit['id']
+
+                    # Check duplicate
+                    if hit['id'] == judged_result['id_query']:
+                        continue
+
                     score_search = hit['score']
 
-                    # elastic_similar = (max_score - score_search) / max_score
-
-                    # vec_org_q = doc2vec_model.infer_vector(
-                    #     simple_preprocess(word_tokenize(origin_question, format='text')))
-                    # vec_related_q = doc2vec_model.infer_vector(
-                    #     simple_preprocess(word_tokenize(judged_question, format='text')))
-                    # cosin_distance = doc2vec_model.wv.cosine_similarities(vec_org_q, np.array([vec_related_q]))[0]
-
                     label = '0'
-                    # if hit['relate_q_q'] == 0:
-                    #     continue
-
-                    current_judged += 1
 
                     if hit['relate_q_q'] == 2:
                         label = '1'
                     elif hit['relate_q_q'] == 1 and not strict:
                         label = '1'
-
-
-                    # print(hit['question'])
-                    # print(hit['relate_q_q'])
-                    # print(label)
-                    # test = origin_question + '\t' + judged_question + '\t' + label
-                    # print(test)
-
-                    # Use it if raw test file with more information
-                    # raw_file.write(id_origin_q + '\t' + origin_question + '\t' + judged_question + '\t' + label +
-                    #                '\t' + str(score_search) + '\n')
-
-                    # Default test file
 
                     if max_judged is not None:
                         if current_judged > max_judged:
@@ -357,19 +338,11 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t', max_judged=Non
                     if not more_info:
                         raw_file.write(origin_question + separator + judged_question + separator + label + '\n')
 
-                        # current_judged += 1
-                        # if max_judged is not None:
-                        #     if current_judged >= max_judged:
-                        #         break
                     else:
                         print('more info')
                         raw_file.write(origin_question + separator + judged_question + separator + label + separator
                                        + str(id_origin_q) + separator + str(score_search) + '\n')
-                        #
-                        # current_judged += 1
-                        # if max_judged is not None:
-                        #     if current_judged >= max_judged:
-                        #         break
+
                 file_judged.close()
     print('num positive: ', num_positive)
     print('num_negative: ', num_negative)
@@ -590,6 +563,7 @@ def caculate_mAP(dict_path, strict=False):
 def caculate_positive_ratio(dict_path):
     paths = glob.glob(dict_path + "/*.json")
     num_positive = 0
+    count_not_duplicated = 0
     for path in paths:
         with open(path, 'r') as f:
             search_result = json.load(f)
@@ -599,18 +573,24 @@ def caculate_positive_ratio(dict_path):
             arr_denote_top10 = []
             num_related = 0
 
+            counter = 0
+
             for hit in hits:
-                # if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
-                #     continue
+                counter += 1
+                if hit['id'] == search_result['id_query']:
+                    continue
+                # Check duplicate
+                if counter <= 10:
+                    count_not_duplicated = count_not_duplicated + 1
                 try:
                     if hit['relate_q_q'] == 2:
                         num_related += 1
                         arr_denote_all.append(1)
 
-                        if len(arr_denote_top30) < 30:
+                        if counter <= 30:
                             arr_denote_top30.append(1)
 
-                        if len(arr_denote_top10) < 10:
+                        if counter <= 10:
                             num_positive += 1
                             arr_denote_top10.append(1)
 
@@ -618,30 +598,34 @@ def caculate_positive_ratio(dict_path):
                         num_related += 1
                         arr_denote_all.append(1)
 
-                        if len(arr_denote_top30) < 30:
+                        if counter <= 30:
                             arr_denote_top30.append(1)
 
-                        if len(arr_denote_top10) < 10:
+                        if counter <= 10:
                             num_positive += 1
                             arr_denote_top10.append(1)
 
                     else:
                         arr_denote_all.append(0)
 
-                        if len(arr_denote_top30) < 30:
+                        if counter <= 30:
                             arr_denote_top30.append(0)
 
-                        if len(arr_denote_top10) < 10:
+                        if counter <= 10:
                             arr_denote_top10.append(0)
                 except KeyError:
+                    count_not_duplicated += 1
+
                     arr_denote_all.append(0)
 
-                    if len(arr_denote_top30) < 30:
+                    if counter <= 30:
                         arr_denote_top30.append(0)
 
-                    if len(arr_denote_top10) < 10:
+                    if counter <= 10:
                         arr_denote_top10.append(0)
-    return num_positive / (len(paths) * 10)
+    print('(len(paths) * 10): ', (len(paths) * 10))
+    print('count_not_duplicated_total: ', count_not_duplicated)
+    return num_positive / count_not_duplicated
 
 
 
@@ -652,7 +636,8 @@ def tmp():
 
 
 def get_origin_q_with_positive_q():
-    paths = glob.glob('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged' + "/*/*.json")
+    base_path = '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/persion/Tri_part1'
+    paths = glob.glob(base_path + "/*.json")
     for path in paths:
         print(path)
         with open(path, 'r') as f:
@@ -662,6 +647,10 @@ def get_origin_q_with_positive_q():
 
             for hit in hits:
                 try:
+                    # Check duplicate
+                    if hit['id'] == search_result['id_query']:
+                        continue
+
                     if hit['relate_q_q'] == 2:
                         num_related += 1
                     elif hit['relate_q_q'] == 1:
@@ -671,10 +660,9 @@ def get_origin_q_with_positive_q():
 
             print(num_related)
             if num_related > 0:
-                filename = os.path.basename(path)
-                shutil.copy2(path, '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all')
+                shutil.copy2(path, base_path + '/positiveable')
             else:
-                shutil.copy2(path, '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/allnegative')
+                shutil.copy2(path, base_path + '/allnegative')
 
 
 def denote_consensus(path_judge, path_target_dict):
@@ -725,6 +713,12 @@ def caculate_consensus(arr_denote):
             num_true += 1
     return num_true / len(arr_denote)
 
+# def remove_duplicate_from_file(path, dest_dict):
+#     # Remove duplicate question from path and cut to dest_dict
+#     f = open(path)
+#     jsonF = json.load(f)
+#     id_origin = jsonF['id_query']
+
 
 # arr = denote_consensus('/Users/tienthanh/Desktop/Tienthanh-Chi_Thanh/today/593993.json',
 #                  '/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all')
@@ -748,14 +742,14 @@ def caculate_consensus_all(path_judge_dict, path_target_dict):
 # tmp()
 
 # raw_index_file2()
-raw_query_pool2()
+# raw_query_pool2()
 # search_by_query_pool(path_query_pool='elastic/query-pool/query_test.json',
 #                      path_raw_result='elastic/search_result/test/')
 
 # Search general data:gensim/model/question.d2v
-search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json',
-                     path_raw_result='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/search_result/search/',
-                     index='qa_general')
+# search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/query_pool/query_train.json',
+#                      path_raw_result='/Users/tienthanh/Projects/ML/QAAutomation/elastic/anew_data/search_result/search/',
+#                      index='qa_general')
 
 # statistic_search_result()
 # caculate_mAP('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test', strict=False)
@@ -781,10 +775,10 @@ search_by_query_pool(path_query_pool='/Users/tienthanh/Projects/ML/QAAutomation/
 #             explicit_path_use='elastic/judged/test-data/tmp/*.json',
 #             explicit_path_raw='data/test_data/raw/test.txt')
 
-# split_data(path_glob='/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/all/*.json', test=True)
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/train'))
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/dev'))
-# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/positiveable/split/test'))
+# split_data(path_glob='/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/all/*.json', test=True)
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/train'))
+# print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/dev'))
+print(caculate_positive_ratio('/Users/tienthanh/Projects/ML/QAAutomation/data/newdata/judged/all/positiveable/split/test'))
 # refresh_query_pool()
 # refresh_query_pool(path_searched='elastic/anew_data/search_result/train/*.json',
 #                    path_pool='elastic/anew_data/query_pool/query_train.json')
